@@ -1,0 +1,1 @@
+# TrumpSays – Market Signal Intelligence

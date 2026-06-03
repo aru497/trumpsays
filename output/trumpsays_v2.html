@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrumpSays</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  background: #f5f2eb;
+  color: #111;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+.serif { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; }
+
+/* NAV */
+nav {
+  position: sticky; top: 0; z-index: 50;
+  background: #f5f2eb;
+  border-bottom: 1px solid #e0dbd0;
+  padding: 0 40px;
+  height: 52px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.nav-logo { font-size: 12px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: #999; }
+.nav-right { display: flex; align-items: center; gap: 16px; }
+.live-dot { width: 7px; height: 7px; border-radius: 50%; background: #2d9e5f; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+.nav-time { font-size: 12px; color: #bbb; }
+
+/* HERO */
+.hero { max-width: 860px; margin: 0 auto; padding: 60px 40px 36px; }
+h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(52px, 9vw, 92px);
+  font-weight: 900;
+  line-height: 1.0;
+  letter-spacing: -3px;
+  color: #111;
+  margin-bottom: 18px;
+}
+h1 em { font-style: italic; color: #888; }
+.hero-sub { font-size: 17px; color: #888; line-height: 1.6; max-width: 440px; margin-bottom: 36px; }
+.hero-sub strong { color: #555; font-weight: 600; }
+
+/* FILTERS */
+.filters { display: flex; gap: 8px; flex-wrap: wrap; }
+.chip {
+  border: 1.5px solid #ddd8cc;
+  background: transparent;
+  border-radius: 100px;
+  padding: 7px 18px;
+  font-size: 13px; font-weight: 600;
+  cursor: pointer; color: #777;
+  font-family: 'DM Sans', sans-serif;
+  transition: all .12s ease;
+  user-select: none;
+}
+.chip:hover { border-color: #999; color: #333; }
+.chip.active { background: #111; color: #fff; border-color: #111; }
+
+/* FEED */
+main { max-width: 860px; margin: 0 auto; padding: 0 40px 100px; }
+
+.date-row {
+  font-size: 11px; font-weight: 700;
+  letter-spacing: .1em; text-transform: uppercase;
+  color: #bbb;
+  border-bottom: 1px solid #e0dbd0;
+  padding: 28px 0 12px;
+}
+
+/* CARD */
+.card {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 28px;
+  align-items: start;
+  background: #fff;
+  border: 1px solid #e4dfd3;
+  padding: 24px 26px;
+  margin-top: 8px;
+  transition: box-shadow .15s, transform .15s;
+  cursor: default;
+}
+.card:hover {
+  box-shadow: 0 6px 28px rgba(0,0,0,.07);
+  transform: translateY(-1px);
+}
+.card-quote {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 14px;
+  color: #aaa;
+  line-height: 1.55;
+  margin-bottom: 12px;
+}
+.card-company-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+.company { font-family: 'Playfair Display', Georgia, serif; font-size: 28px; font-weight: 700; letter-spacing: -.5px; line-height: 1; }
+.ticker { font-size: 11px; font-weight: 700; letter-spacing: .08em; background: #111; color: #fff; padding: 3px 8px; border-radius: 3px; }
+.source { font-size: 11px; font-weight: 600; color: #ccc; text-transform: uppercase; letter-spacing: .08em; }
+
+/* STOCK */
+.stock { text-align: right; flex-shrink: 0; min-width: 88px; }
+.stock-price {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 24px; font-weight: 700; color: #111;
+  display: block; margin-bottom: 7px;
+}
+.pill {
+  display: inline-block;
+  font-size: 14px; font-weight: 700;
+  padding: 4px 13px; border-radius: 100px;
+}
+.pill.up   { background: #e6f4ed; color: #1a6e3c; }
+.pill.down { background: #fdecea; color: #c0392b; }
+.pill.flat { background: #ede9df; color: #777; }
+.since { font-size: 10px; color: #ccc; display: block; margin-top: 5px; }
+
+/* STATS BAR */
+.stats-bar {
+  max-width: 860px; margin: 0 auto;
+  padding: 0 40px 20px;
+  display: flex; gap: 32px; flex-wrap: wrap;
+}
+.stat { }
+.stat-n { font-family: 'Playfair Display', Georgia, serif; font-size: 32px; font-weight: 700; color: #111; line-height: 1; }
+.stat-label { font-size: 11px; color: #bbb; text-transform: uppercase; letter-spacing: .08em; margin-top: 2px; }
+
+/* EMPTY */
+.empty { padding: 64px 0; color: #bbb; font-size: 15px; }
+
+/* FOOTER */
+footer {
+  border-top: 1px solid #e0dbd0;
+  padding: 24px 40px;
+  font-size: 12px; color: #ccc;
+  max-width: 860px; margin: 0 auto;
+}
+
+/* MOBILE */
+@media (max-width: 560px) {
+  nav, .hero, main, .stats-bar, footer { padding-left: 20px; padding-right: 20px; }
+  h1 { letter-spacing: -1.5px; }
+  .card { grid-template-columns: 1fr; gap: 14px; }
+  .stock { text-align: left; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <span class="nav-logo">TrumpSays</span>
+  <div class="nav-right">
+    <div class="live-dot"></div>
+    <span class="nav-time" id="clock"></span>
+  </div>
+</nav>
+
+<header class="hero">
+  <h1>He said it.<br><em>Markets moved.</em></h1>
+  <p class="hero-sub">Every time Trump <strong>directly names a company</strong> — in a speech, press conference, or Truth Social post — we track what the stock does next.</p>
+  <div class="filters" id="filters">
+    <button class="chip active" data-filter="all">All</button>
+    <button class="chip" data-filter="up">📈 Rallied</button>
+    <button class="chip" data-filter="down">📉 Dropped</button>
+    <button class="chip" data-filter="today">Today</button>
+  </div>
+</header>
+
+<div class="stats-bar" id="stats"></div>
+<main id="feed"></main>
+
+<footer>For informational purposes only. Not financial advice. Stock movements are illustrative.</footer>
+
+<script>
+const DATA = [
+  { date:"Jun 4, 2026", source:"Press Conference", quote:"Apple better make their phones in this country or I'm going to hit them with a very big tariff. A very big one.", company:"Apple", ticker:"AAPL", price:189.42, change:-4.2, dir:"down" },
+  { date:"Jun 4, 2026", source:"Truth Social", quote:"Lockheed Martin just got a MASSIVE deal with Saudi Arabia. Congrats to all the great American workers!", company:"Lockheed Martin", ticker:"LMT", price:472.30, change:+3.7, dir:"up" },
+  { date:"Jun 4, 2026", source:"Press Conference", quote:"We're going to open up the country for drilling. ExxonMobil, all of them. Drill, baby, drill.", company:"ExxonMobil", ticker:"XOM", price:108.70, change:+0.4, dir:"flat" },
+  { date:"Jun 3, 2026", source:"Speech", quote:"Microsoft came to me and said they want to invest eighty billion dollars in artificial intelligence. I said, go ahead.", company:"Microsoft", ticker:"MSFT", price:421.10, change:+2.1, dir:"up" },
+  { date:"Jun 3, 2026", source:"Speech", quote:"Tesla, great company. Elon is doing something very special. The cars, the rockets. Very special stuff.", company:"Tesla", ticker:"TSLA", price:248.60, change:+5.3, dir:"up" },
+  { date:"Jun 3, 2026", source:"Interview", quote:"Amazon is ripping off the small business people of this country. We are looking at them very seriously. Very seriously.", company:"Amazon", ticker:"AMZN", price:198.40, change:-2.8, dir:"down" },
+  { date:"Jun 2, 2026", source:"Press Conference", quote:"Boeing has to fix their planes. It's an embarrassment to our country. A total embarrassment.", company:"Boeing", ticker:"BA", price:174.20, change:-3.1, dir:"down" },
+  { date:"Jun 2, 2026", source:"Speech", quote:"Nvidia is the backbone of American artificial intelligence. We love what they are doing. Just love it.", company:"Nvidia", ticker:"NVDA", price:1089.30, change:+4.6, dir:"up" },
+  { date:"Jun 1, 2026", source:"Truth Social", quote:"McDonald's is an American treasure. I love their french fries. Best in the world. Nobody does it better.", company:"McDonald's", ticker:"MCD", price:302.80, change:+1.2, dir:"up" },
+  { date:"Jun 1, 2026", source:"Interview", quote:"Goldman Sachs, very smart people. But we're watching the banks very carefully. Very carefully.", company:"Goldman Sachs", ticker:"GS", price:498.60, change:-1.4, dir:"down" },
+];
+
+let activeFilter = "all";
+
+function filtered() {
+  if (activeFilter === "up")    return DATA.filter(d => d.dir === "up");
+  if (activeFilter === "down")  return DATA.filter(d => d.dir === "down");
+  if (activeFilter === "today") return DATA.filter(d => d.date === DATA[0].date);
+  return DATA;
+}
+
+function renderStats(items) {
+  const up   = items.filter(d => d.dir === "up").length;
+  const down = items.filter(d => d.dir === "down").length;
+  document.getElementById("stats").innerHTML = `
+    <div class="stat"><div class="stat-n">${items.length}</div><div class="stat-label">Mentions</div></div>
+    <div class="stat"><div class="stat-n" style="color:#1a6e3c">${up}</div><div class="stat-label">Rallied</div></div>
+    <div class="stat"><div class="stat-n" style="color:#c0392b">${down}</div><div class="stat-label">Dropped</div></div>
+  `;
+}
+
+function card(d) {
+  const sign  = d.change > 0 ? "+" : "";
+  const arrow = d.dir === "up" ? "↑" : d.dir === "down" ? "↓" : "→";
+  const q     = d.quote.length > 115 ? d.quote.slice(0, 115) + "…" : d.quote;
+  return `
+  <div class="card">
+    <div>
+      <p class="card-quote">"${q}"</p>
+      <div class="card-company-row">
+        <span class="company">${d.company}</span>
+        <span class="ticker">${d.ticker}</span>
+      </div>
+      <span class="source">${d.source}</span>
+    </div>
+    <div class="stock">
+      <span class="stock-price">$${d.price.toLocaleString()}</span>
+      <span class="pill ${d.dir}">${arrow} ${sign}${d.change}%</span>
+      <span class="since">since statement</span>
+    </div>
+  </div>`;
+}
+
+function renderFeed(items) {
+  const feed = document.getElementById("feed");
+  if (!items.length) { feed.innerHTML = '<p class="empty">No mentions found.</p>'; return; }
+
+  const byDate = {};
+  items.forEach(d => { (byDate[d.date] = byDate[d.date] || []).push(d); });
+
+  feed.innerHTML = Object.entries(byDate).map(([date, group]) =>
+    `<div class="date-row">${date}</div>` + group.map(card).join("")
+  ).join("");
+}
+
+function render() {
+  const items = filtered();
+  renderStats(items);
+  renderFeed(items);
+}
+
+// Filter buttons
+document.getElementById("filters").addEventListener("click", e => {
+  const btn = e.target.closest(".chip");
+  if (!btn) return;
+  document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+  btn.classList.add("active");
+  activeFilter = btn.dataset.filter;
+  render();
+});
+
+// Clock
+function tick() {
+  document.getElementById("clock").textContent = new Date().toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"});
+}
+tick(); setInterval(tick, 10000);
+
+render();
+</script>
+</body>
+</html>

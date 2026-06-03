@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrumpSays</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800;14..32,900&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',-apple-system,sans-serif;background:#fafaf8;color:#0f0f0f;-webkit-font-smoothing:antialiased}
+nav{position:sticky;top:0;z-index:100;background:#fafaf8;border-bottom:1px solid #ebebeb;padding:0 40px;height:48px;display:flex;align-items:center;justify-content:space-between}
+.wordmark{font-size:13px;font-weight:700;letter-spacing:-.01em}
+.nav-r{display:flex;align-items:center;gap:10px}
+.dot{width:6px;height:6px;border-radius:50%;background:#22c55e;animation:blink 2s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.upd{font-size:11px;color:#bbb}
+.hero{max-width:780px;margin:0 auto;padding:64px 40px 40px}
+h1{font-size:clamp(40px,7vw,72px);font-weight:900;line-height:1;letter-spacing:-.04em;margin-bottom:16px}
+h1 span{color:#c0c0c0}
+.sub{font-size:16px;line-height:1.65;color:#888;max-width:420px;margin-bottom:32px}
+.sub strong{color:#555;font-weight:500}
+.filters{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:'Inter',sans-serif;font-size:12px;font-weight:500;padding:6px 14px;border-radius:6px;border:1px solid #e5e5e5;background:#fff;color:#666;cursor:pointer;transition:all .1s;letter-spacing:-.01em}
+.chip:hover{border-color:#ccc;color:#333}
+.chip.active{background:#0f0f0f;color:#fff;border-color:#0f0f0f}
+.stats{max-width:780px;margin:0 auto;padding:0 40px 8px;display:flex;gap:24px;flex-wrap:wrap;align-items:flex-end}
+.sn{font-size:28px;font-weight:800;letter-spacing:-.04em;line-height:1}
+.sn.g{color:#16a34a}.sn.r{color:#dc2626}
+.sl{font-size:11px;font-weight:500;color:#bbb;letter-spacing:.04em;text-transform:uppercase;margin-top:3px}
+.sdiv{width:1px;height:36px;background:#ebebeb;align-self:center}
+main{max-width:780px;margin:0 auto;padding:0 40px 100px}
+.dl{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:#c0c0c0;border-bottom:1px solid #ebebeb;padding:24px 0 10px}
+.card{display:grid;grid-template-columns:1fr 100px;gap:20px;align-items:center;padding:20px 0;border-bottom:1px solid #f0f0f0;transition:all .1s;cursor:default}
+.card:hover{background:#f7f7f5;margin:0 -16px;padding-left:16px;padding-right:16px;border-radius:8px;border-bottom-color:transparent}
+.cq{font-size:12px;color:#bbb;font-style:italic;margin-bottom:6px;line-height:1.5;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cm{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px}
+.cn{font-size:20px;font-weight:800;letter-spacing:-.03em;line-height:1}
+.tk{font-size:10px;font-weight:700;letter-spacing:.06em;color:#888;background:#f0f0f0;padding:2px 6px;border-radius:4px}
+.meta{font-size:11px;color:#c0c0c0}
+.stock{text-align:right}
+.sp{font-size:16px;font-weight:700;letter-spacing:-.03em;display:block;margin-bottom:5px}
+.pill{display:inline-flex;align-items:center;gap:2px;font-size:12px;font-weight:700;padding:3px 10px;border-radius:4px;letter-spacing:-.01em}
+.pill.up{background:#f0fdf4;color:#16a34a}
+.pill.down{background:#fef2f2;color:#dc2626}
+.pill.flat{background:#f5f5f5;color:#888}
+.msg{padding:64px 0;font-size:14px;color:#ccc}
+.spin{display:inline-block;width:14px;height:14px;border:2px solid #eee;border-top-color:#999;border-radius:50%;animation:spin .6s linear infinite;margin-right:8px;vertical-align:middle}
+@keyframes spin{to{transform:rotate(360deg)}}
+footer{border-top:1px solid #ebebeb;padding:20px 40px;font-size:11px;color:#ccc;max-width:780px;margin:0 auto}
+@media(max-width:560px){nav,.hero,main,.stats,footer{padding-left:20px;padding-right:20px}.card{grid-template-columns:1fr}.stock{text-align:left}}
+</style>
+</head>
+<body>
+<nav>
+  <span class="wordmark">TrumpSays</span>
+  <div class="nav-r">
+    <div class="dot"></div>
+    <span class="upd" id="upd">—</span>
+  </div>
+</nav>
+<header class="hero">
+  <h1>He said it.<br><span>Markets moved.</span></h1>
+  <p class="sub">Every time Trump <strong>directly names a company</strong> — speech, press conference, or Truth Social — we track what the stock does.</p>
+  <div class="filters" id="filters">
+    <button class="chip active" data-f="all">All</button>
+    <button class="chip" data-f="up">↑ Rallied</button>
+    <button class="chip" data-f="down">↓ Dropped</button>
+    <button class="chip" data-f="today">Today</button>
+  </div>
+</header>
+<div class="stats" id="stats"></div>
+<main id="feed"><p class="msg"><span class="spin"></span>Loading…</p></main>
+<footer>Updates every 30 min via GitHub Actions · Not financial advice</footer>
+
+<script>
+let ALL=[], active='all';
+
+async function load(){
+  try{
+    // works both locally and on GitHub Pages
+    const base = location.pathname.replace(/\/[^/]*$/,'');
+    const r = await fetch(base+'/data.json?t='+Date.now());
+    const d = await r.json();
+    ALL = d.mentions||[];
+    const ts = d.updated_at ? new Date(d.updated_at).toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'}) : '—';
+    document.getElementById('upd').textContent = 'Updated '+ts;
+    render();
+  } catch(e){
+    document.getElementById('feed').innerHTML='<p class="msg">⚠️ Could not load data.</p>';
+  }
+}
+
+function get(){
+  if(active==='up')   return ALL.filter(d=>d.direction==='up');
+  if(active==='down') return ALL.filter(d=>d.direction==='down');
+  if(active==='today'){const t=ALL[0]?.date_display; return ALL.filter(d=>d.date_display===t);}
+  return ALL;
+}
+
+function stats(items){
+  const up=items.filter(d=>d.direction==='up').length, dn=items.filter(d=>d.direction==='down').length;
+  document.getElementById('stats').innerHTML=`
+    <div><div class="sn">${items.length}</div><div class="sl">Mentions</div></div>
+    <div class="sdiv"></div>
+    <div><div class="sn g">${up}</div><div class="sl">Rallied</div></div>
+    <div class="sdiv"></div>
+    <div><div class="sn r">${dn}</div><div class="sl">Dropped</div></div>`;
+}
+
+function card(d){
+  const sign=d.change>0?'+':'', arrow=d.direction==='up'?'↑':d.direction==='down'?'↓':'→';
+  const q=d.quote?`"${d.quote.length>80?d.quote.slice(0,80)+'…':d.quote}"`:'';
+  const icons={'White House':'🏛','WH Briefing Room':'🏛','Truth Social':'𝕋'};
+  const icon=icons[d.source]||'📰';
+  const side=d.price!=null
+    ?`<span class="sp">$${Number(d.price).toLocaleString()}</span><span class="pill ${d.direction}">${arrow} ${sign}${d.change}%</span>`
+    :`<span style="font-size:11px;color:#ddd">No price</span>`;
+  return`<div class="card"><div>
+    ${q?`<div class="cq">${q}</div>`:''}
+    <div class="cm"><span class="cn">${d.company}</span>${d.ticker?`<span class="tk">${d.ticker}</span>`:''}</div>
+    <div class="meta">${icon} ${d.source} · ${d.date_display}</div>
+  </div><div class="stock">${side}</div></div>`;
+}
+
+function render(){
+  const items=get(); stats(items);
+  const feed=document.getElementById('feed');
+  if(!items.length){feed.innerHTML='<p class="msg">No mentions yet. Check back soon.</p>';return;}
+  const by={};
+  items.forEach(d=>{(by[d.date_display]=by[d.date_display]||[]).push(d);});
+  feed.innerHTML=Object.entries(by).map(([date,g])=>
+    `<div class="dl">${date}</div>`+g.map(card).join('')).join('');
+}
+
+document.getElementById('filters').addEventListener('click',e=>{
+  const b=e.target.closest('.chip'); if(!b)return;
+  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+  b.classList.add('active'); active=b.dataset.f; render();
+});
+
+load();
+setInterval(load, 10*60*1000); // refresh every 10 min
+</script>
+</body>
+</html>

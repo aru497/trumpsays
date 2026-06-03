@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrumpSays</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #f7f6f2;
+    --card: #ffffff;
+    --text: #111111;
+    --muted: #888;
+    --up: #16a34a;
+    --up-bg: #dcfce7;
+    --down: #dc2626;
+    --down-bg: #fee2e2;
+    --flat: #555;
+    --flat-bg: #f3f4f6;
+    --border: #e8e5de;
+    --radius: 16px;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    padding: 40px 32px 0;
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .wordmark {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+
+  h1 {
+    font-size: clamp(36px, 6vw, 64px);
+    font-weight: 900;
+    line-height: 1.05;
+    letter-spacing: -2px;
+    color: var(--text);
+    margin-bottom: 12px;
+  }
+
+  .subtitle {
+    font-size: 17px;
+    color: var(--muted);
+    font-weight: 400;
+    margin-bottom: 32px;
+    max-width: 480px;
+    line-height: 1.5;
+  }
+
+  /* ── Filter chips ── */
+  .filters {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+  }
+
+  .chip {
+    border: 1.5px solid var(--border);
+    background: white;
+    border-radius: 100px;
+    padding: 6px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    color: var(--muted);
+    transition: all 0.15s ease;
+    user-select: none;
+  }
+  .chip:hover { border-color: #bbb; color: var(--text); }
+  .chip.active { background: var(--text); color: white; border-color: var(--text); }
+
+  /* ── Main feed ── */
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 32px 80px;
+  }
+
+  .divider {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 24px 0 12px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0;
+  }
+
+  /* ── Card ── */
+  .card {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: start;
+    gap: 16px;
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 22px 24px;
+    margin-top: 10px;
+    border: 1.5px solid var(--border);
+    transition: box-shadow 0.15s, transform 0.15s;
+    cursor: default;
+  }
+  .card:hover {
+    box-shadow: 0 8px 24px rgba(0,0,0,0.07);
+    transform: translateY(-1px);
+  }
+
+  .card-left { min-width: 0; }
+
+  .quote-line {
+    font-size: 13px;
+    color: var(--muted);
+    font-style: italic;
+    margin-bottom: 8px;
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .quote-line strong { color: #333; font-style: normal; font-weight: 600; }
+
+  .company-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 6px;
+  }
+
+  .company-name {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: var(--text);
+  }
+
+  .ticker-badge {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    background: var(--text);
+    color: white;
+    padding: 3px 8px;
+    border-radius: 6px;
+  }
+
+  .context {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.5;
+    margin-top: 2px;
+  }
+
+  .meta-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+  }
+
+  .source-tag {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .time-tag {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  /* ── Stock box ── */
+  .stock-box {
+    text-align: right;
+    min-width: 90px;
+    flex-shrink: 0;
+  }
+
+  .stock-price {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: var(--text);
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .change-pill {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 100px;
+  }
+  .change-pill.up   { background: var(--up-bg);   color: var(--up);   }
+  .change-pill.down { background: var(--down-bg); color: var(--down); }
+  .change-pill.flat { background: var(--flat-bg); color: var(--flat); }
+
+  .since-label {
+    display: block;
+    font-size: 10px;
+    color: #ccc;
+    margin-top: 4px;
+    text-align: right;
+  }
+
+  /* ── Empty ── */
+  .empty { text-align: center; padding: 60px 20px; color: var(--muted); font-size: 15px; }
+
+  /* ── Footer ── */
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 12px;
+    color: #ccc;
+    border-top: 1px solid var(--border);
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 560px) {
+    header, main { padding-left: 16px; padding-right: 16px; }
+    h1 { letter-spacing: -1px; }
+    .card { grid-template-columns: 1fr; }
+    .stock-box { text-align: left; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wordmark">TrumpSays</div>
+  <h1>He said it.<br>Markets moved.</h1>
+  <p class="subtitle">Every time Trump directly names a company, we track what happens to the stock.</p>
+
+  <div class="filters">
+    <div class="chip active" onclick="filter(this,'all')">All</div>
+    <div class="chip" onclick="filter(this,'up')">📈 Going up</div>
+    <div class="chip" onclick="filter(this,'down')">📉 Going down</div>
+    <div class="chip" onclick="filter(this,'today')">Today</div>
+  </div>
+</header>
+
+<main id="feed">
+  <!-- Populated by JS below -->
+</main>
+
+<footer>
+  ⚠️ For informational purposes only. Not financial advice.
+</footer>
+
+<script>
+const data = [
+  {
+    date: "Jun 4, 2026",
+    source: "Press Conference",
+    quote: "Apple better make their phones in this country or I'm going to hit them with a very big tariff…",
+    company: "Apple",
+    ticker: "AAPL",
+    price: 189.42,
+    change: -4.2,
+    direction: "down",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 4, 2026",
+    source: "Truth Social",
+    quote: "Lockheed Martin just got a MASSIVE deal with Saudi Arabia. Congrats to all the workers!",
+    company: "Lockheed Martin",
+    ticker: "LMT",
+    price: 472.30,
+    change: +3.7,
+    direction: "up",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 4, 2026",
+    source: "Press Conference",
+    quote: "We're going to open up the country for oil drilling. ExxonMobil, all of them…",
+    company: "ExxonMobil",
+    ticker: "XOM",
+    price: 108.70,
+    change: +0.4,
+    direction: "flat",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 3, 2026",
+    source: "Speech",
+    quote: "Microsoft came to me and said they want to invest $80 billion in AI. I said, go for it.",
+    company: "Microsoft",
+    ticker: "MSFT",
+    price: 421.10,
+    change: +2.1,
+    direction: "up",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 3, 2026",
+    source: "Interview",
+    quote: "Tesla, great company. Elon is doing something very special with the cars, very special.",
+    company: "Tesla",
+    ticker: "TSLA",
+    price: 248.60,
+    change: +5.3,
+    direction: "up",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 3, 2026",
+    source: "Truth Social",
+    quote: "Amazon is ripping off small businesses. We are looking at them very seriously.",
+    company: "Amazon",
+    ticker: "AMZN",
+    price: 198.40,
+    change: -2.8,
+    direction: "down",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 2, 2026",
+    source: "Press Conference",
+    quote: "Boeing has to fix their planes. It's an embarrassment. I've been saying it for years.",
+    company: "Boeing",
+    ticker: "BA",
+    price: 174.20,
+    change: -3.1,
+    direction: "down",
+    sinceLabel: "since statement"
+  },
+  {
+    date: "Jun 2, 2026",
+    source: "Speech",
+    quote: "Nvidia is the backbone of American AI. We love what they are doing. Love it.",
+    company: "Nvidia",
+    ticker: "NVDA",
+    price: 1089.30,
+    change: +4.6,
+    direction: "up",
+    sinceLabel: "since statement"
+  }
+];
+
+function buildCard(item) {
+  const dir = item.direction === 'flat' || Math.abs(item.change) < 0.5 ? 'flat' : item.direction;
+  const sign = item.change > 0 ? '+' : '';
+  const arrow = dir === 'up' ? '↑' : dir === 'down' ? '↓' : '→';
+  const truncQuote = item.quote.length > 90 ? item.quote.slice(0, 90) + '…' : item.quote;
+  return `
+    <div class="card" data-dir="${dir}" data-date="${item.date}">
+      <div class="card-left">
+        <div class="quote-line">"${truncQuote}"</div>
+        <div class="company-row">
+          <span class="company-name">${item.company}</span>
+          <span class="ticker-badge">${item.ticker}</span>
+        </div>
+        <div class="meta-row">
+          <span class="source-tag">${item.source}</span>
+          <span class="time-tag">${item.date}</span>
+        </div>
+      </div>
+      <div class="stock-box">
+        <span class="stock-price">$${item.price.toLocaleString()}</span>
+        <span class="change-pill ${dir}">${arrow} ${sign}${item.change}%</span>
+        <span class="since-label">${item.sinceLabel}</span>
+      </div>
+    </div>`;
+}
+
+function groupByDate(items) {
+  const groups = {};
+  items.forEach(item => {
+    if (!groups[item.date]) groups[item.date] = [];
+    groups[item.date].push(item);
+  });
+  return groups;
+}
+
+function render(items) {
+  const feed = document.getElementById('feed');
+  if (!items.length) {
+    feed.innerHTML = '<div class="empty">No mentions found.</div>';
+    return;
+  }
+  const groups = groupByDate(items);
+  let html = '';
+  for (const [date, cards] of Object.entries(groups)) {
+    html += `<div class="divider">${date}</div>`;
+    cards.forEach(c => html += buildCard(c));
+  }
+  feed.innerHTML = html;
+}
+
+function filter(el, type) {
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+  el.classList.add('active');
+
+  let filtered = data;
+  if (type === 'up') filtered = data.filter(d => d.direction === 'up');
+  else if (type === 'down') filtered = data.filter(d => d.direction === 'down');
+  else if (type === 'today') filtered = data.filter(d => d.date === data[0].date);
+
+  render(filtered);
+}
+
+render(data);
+</script>
+</body>
+</html>

@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrumpSays</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800;14..32,900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #fafaf8;
+  color: #0f0f0f;
+  min-height: 100vh;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── NAV ── */
+nav {
+  position: sticky; top: 0; z-index: 100;
+  background: #fafaf8;
+  border-bottom: 1px solid #ebebeb;
+  padding: 0 40px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.wordmark {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #0f0f0f;
+}
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.live-badge {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  font-weight: 500;
+  color: #888;
+}
+.live-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: #22c55e;
+  animation: blink 2s ease-in-out infinite;
+}
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.3} }
+.updated-at {
+  font-size: 11px;
+  color: #bbb;
+  font-weight: 400;
+}
+
+/* ── HERO ── */
+.hero {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 64px 40px 40px;
+}
+h1 {
+  font-size: clamp(40px, 7vw, 72px);
+  font-weight: 900;
+  line-height: 1.0;
+  letter-spacing: -0.04em;
+  color: #0f0f0f;
+  margin-bottom: 16px;
+}
+h1 span {
+  color: #c0c0c0;
+}
+.hero-sub {
+  font-size: 16px;
+  line-height: 1.65;
+  color: #888;
+  font-weight: 400;
+  max-width: 420px;
+  margin-bottom: 32px;
+}
+.hero-sub strong { color: #555; font-weight: 500; }
+
+/* ── FILTERS ── */
+.filters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.chip {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: 1px solid #e5e5e5;
+  background: white;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.1s;
+  letter-spacing: -0.01em;
+}
+.chip:hover { border-color: #ccc; color: #333; }
+.chip.active {
+  background: #0f0f0f;
+  color: white;
+  border-color: #0f0f0f;
+}
+
+/* ── STATS ── */
+.stats-row {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 40px 8px;
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+.stat-block { }
+.stat-n {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: #0f0f0f;
+}
+.stat-n.green { color: #16a34a; }
+.stat-n.red   { color: #dc2626; }
+.stat-lbl {
+  font-size: 11px;
+  font-weight: 500;
+  color: #bbb;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-top: 3px;
+}
+.stats-divider {
+  width: 1px;
+  height: 36px;
+  background: #ebebeb;
+  align-self: center;
+}
+
+/* ── FEED ── */
+main {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 40px 100px;
+}
+
+.date-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #c0c0c0;
+  border-bottom: 1px solid #ebebeb;
+  padding: 24px 0 10px;
+  margin-bottom: 0;
+}
+
+/* ── CARD ── */
+.card {
+  display: grid;
+  grid-template-columns: 1fr 100px;
+  gap: 20px;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.1s;
+  cursor: default;
+}
+.card:hover { background: #f7f7f5; margin: 0 -16px; padding-left: 16px; padding-right: 16px; border-radius: 8px; border-bottom-color: transparent; }
+
+.card-quote {
+  font-size: 12px;
+  color: #bbb;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 6px;
+  line-height: 1.5;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-main {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.company-name {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #0f0f0f;
+  line-height: 1;
+}
+
+.ticker {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: #888;
+  background: #f0f0f0;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.card-meta {
+  font-size: 11px;
+  color: #c0c0c0;
+  font-weight: 400;
+}
+.card-meta span {
+  margin-right: 8px;
+}
+.src-dot {
+  display: inline-block;
+  width: 4px; height: 4px;
+  border-radius: 50%;
+  background: #ddd;
+  vertical-align: middle;
+  margin: 0 6px 1px 0;
+}
+
+/* ── STOCK SIDE ── */
+.stock-side {
+  text-align: right;
+}
+.stock-price {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: #0f0f0f;
+  display: block;
+  margin-bottom: 5px;
+}
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 4px;
+  letter-spacing: -0.01em;
+}
+.pill.up   { background: #f0fdf4; color: #16a34a; }
+.pill.down { background: #fef2f2; color: #dc2626; }
+.pill.flat { background: #f5f5f5; color: #888; }
+.no-price {
+  font-size: 11px;
+  color: #ddd;
+}
+
+/* ── EMPTY / LOADING ── */
+.state-msg {
+  padding: 64px 0;
+  font-size: 14px;
+  color: #ccc;
+  font-weight: 400;
+}
+.spinner {
+  display: inline-block;
+  width: 14px; height: 14px;
+  border: 2px solid #eee;
+  border-top-color: #999;
+  border-radius: 50%;
+  animation: spin .6s linear infinite;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── FOOTER ── */
+footer {
+  border-top: 1px solid #ebebeb;
+  padding: 20px 40px;
+  font-size: 11px;
+  color: #ccc;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 560px) {
+  nav, .hero, main, .stats-row, footer { padding-left: 20px; padding-right: 20px; }
+  h1 { letter-spacing: -0.03em; }
+  .card { grid-template-columns: 1fr; }
+  .stock-side { text-align: left; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <span class="wordmark">TrumpSays</span>
+  <div class="nav-right">
+    <div class="live-badge">
+      <div class="live-dot"></div>
+      Live
+    </div>
+    <span class="updated-at" id="updated-at">—</span>
+  </div>
+</nav>
+
+<header class="hero">
+  <h1>He said it.<br><span>Markets moved.</span></h1>
+  <p class="hero-sub">
+    Every time Trump <strong>directly names a company</strong> — in a speech, press conference, or Truth Social post — we track what the stock does.
+  </p>
+  <div class="filters" id="filters">
+    <button class="chip active" data-f="all">All</button>
+    <button class="chip" data-f="up">↑ Rallied</button>
+    <button class="chip" data-f="down">↓ Dropped</button>
+    <button class="chip" data-f="today">Today</button>
+  </div>
+</header>
+
+<div class="stats-row" id="stats-row"></div>
+
+<main id="feed">
+  <p class="state-msg"><span class="spinner"></span>Loading live data…</p>
+</main>
+
+<footer>For informational purposes only. Not financial advice. Data updates every 15 minutes.</footer>
+
+<script>
+let ALL = [];
+let activeFilter = 'all';
+
+// ── fetch data ──────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const r = await fetch('/data.json?t=' + Date.now());
+    const d = await r.json();
+    ALL = d.mentions || [];
+
+    const ts = d.updated_at
+      ? new Date(d.updated_at).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'})
+      : '—';
+    document.getElementById('updated-at').textContent = 'Updated ' + ts;
+
+    render();
+  } catch(e) {
+    document.getElementById('feed').innerHTML =
+      '<p class="state-msg">⚠️ Could not load live data. Is the server running?</p>';
+  }
+}
+
+// ── filter ──────────────────────────────────────────────────────────────────
+function filtered() {
+  if (activeFilter === 'up')    return ALL.filter(d => d.direction === 'up');
+  if (activeFilter === 'down')  return ALL.filter(d => d.direction === 'down');
+  if (activeFilter === 'today') {
+    const today = ALL[0]?.date_display;
+    return ALL.filter(d => d.date_display === today);
+  }
+  return ALL;
+}
+
+// ── stats ────────────────────────────────────────────────────────────────────
+function renderStats(items) {
+  const up   = items.filter(d => d.direction === 'up').length;
+  const down = items.filter(d => d.direction === 'down').length;
+  document.getElementById('stats-row').innerHTML = `
+    <div class="stat-block">
+      <div class="stat-n">${items.length}</div>
+      <div class="stat-lbl">Mentions</div>
+    </div>
+    <div class="stats-divider"></div>
+    <div class="stat-block">
+      <div class="stat-n green">${up}</div>
+      <div class="stat-lbl">Rallied</div>
+    </div>
+    <div class="stats-divider"></div>
+    <div class="stat-block">
+      <div class="stat-n red">${down}</div>
+      <div class="stat-lbl">Dropped</div>
+    </div>`;
+}
+
+// ── card ─────────────────────────────────────────────────────────────────────
+function card(d) {
+  const sign  = d.change > 0 ? '+' : '';
+  const arrow = d.direction === 'up' ? '↑' : d.direction === 'down' ? '↓' : '→';
+  const q     = d.quote ? `"${d.quote.length > 80 ? d.quote.slice(0,80)+'…' : d.quote}"` : '';
+
+  const stockSide = d.price != null
+    ? `<span class="stock-price">$${Number(d.price).toLocaleString()}</span>
+       <span class="pill ${d.direction}">${arrow} ${sign}${d.change}%</span>`
+    : `<span class="no-price">No price</span>`;
+
+  const srcIcon = { 'Truth Social':'𝕋', 'Press Conference':'🎙', 'Speech':'📢', 'Interview':'🎤' };
+  const icon = srcIcon[d.source] || '📰';
+
+  return `
+  <div class="card" data-dir="${d.direction}">
+    <div>
+      ${q ? `<div class="card-quote">${q}</div>` : ''}
+      <div class="card-main">
+        <span class="company-name">${d.company}</span>
+        ${d.ticker ? `<span class="ticker">${d.ticker}</span>` : ''}
+      </div>
+      <div class="card-meta">
+        <span>${icon} ${d.source}</span>
+        <span class="src-dot"></span>
+        <span>${d.date_display}</span>
+      </div>
+    </div>
+    <div class="stock-side">${stockSide}</div>
+  </div>`;
+}
+
+// ── render ────────────────────────────────────────────────────────────────────
+function groupByDate(items) {
+  const m = {};
+  items.forEach(d => { (m[d.date_display] = m[d.date_display] || []).push(d); });
+  return Object.entries(m);
+}
+
+function render() {
+  const items = filtered();
+  renderStats(items);
+
+  const feed = document.getElementById('feed');
+  if (!items.length) {
+    feed.innerHTML = '<p class="state-msg">No mentions found yet. Check back soon.</p>';
+    return;
+  }
+
+  feed.innerHTML = groupByDate(items).map(([date, group]) =>
+    `<div class="date-label">${date}</div>` + group.map(card).join('')
+  ).join('');
+}
+
+// ── filter buttons ────────────────────────────────────────────────────────────
+document.getElementById('filters').addEventListener('click', e => {
+  const btn = e.target.closest('.chip');
+  if (!btn) return;
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  activeFilter = btn.dataset.f;
+  render();
+});
+
+// ── init + auto-refresh every 5 min ──────────────────────────────────────────
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
