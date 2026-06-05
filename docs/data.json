@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-06-05T20:09:12.453765+00:00",
-  "count": 4,
+  "updated_at": "2026-06-05T21:01:37.174903+00:00",
+  "count": 3,
   "mentions": [
     {
-      "id": "iSXRyalJZQ2V0YQ?oc=5::new york t",
-      "date": "Fri, 10 Oct 2025",
-      "date_display": "Oct 10, 2025",
-      "source": "Google News \u2013 Tariff",
+      "id": "oT0tXQ3p1TzVKTQ?oc=5::openai",
+      "date": "Fri, 05 Jun 2026",
+      "date_display": "Jun 05, 2026",
+      "source": "Google News \u2013 Trump",
       "type": "news",
-      "quote": "on Trump\u2019s Renewed Threat of China Tariffs - The New York Times Stocks Fall Sharply on Trump\u2019s Renewed Threat of",
+      "quote": "OpenAI says it will comply with Trump's order requiring",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5"
+    },
+    {
+      "id": "TkxUVWJRTTJ5d0U?oc=5::new york t",
+      "date": "Fri, 05 Jun 2026",
+      "date_display": "Jun 05, 2026",
+      "source": "Google News \u2013 Trump",
+      "type": "news",
+      "quote": "es on Cuba\u2019s Economy, Hotel Chains Withdraw - The New York Times As Trump Toughens Rules on Cuba\u2019s Economy, Hotel",
       "company": "New York Times",
       "ticker": "NYT",
-      "price": 76.86,
-      "change": 2.14,
+      "price": 76.88,
+      "change": 2.17,
       "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjlKWlFJVVlUWHRVdHJkbjhUOVBmd1RJRFhwOFl3eHIwbGxOaTVXTEY2NUktVWxqSVV2Vk1mbHJ6SkhQaGtZYXEtS1hQQ1V0MDNpSmlTOTltTlpyd2RCTlM1a182NThSajlKRTVndUQtS1RpRF9iSXRyalJZQ2V0YQ?oc=5"
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanl3NTJSYVpONW16ekFhbUU1MWdHczY5TC1ITlNyX3lya09MTUFORHRXMU9lU2JnYnpDRFhqaHV3MVphSElFTkR6TzN0czM4bk9QTnJFUmZzUTN2SFM0bjNmaUNNb2lhazJ6dS1RNTZlcndlVkpkLS0tOGhITkxUVWJRTTJ5d0U?oc=5"
     },
     {
       "id": "HkxMkZsOXA4Qy1n?oc=5::openai",
@@ -29,34 +43,6 @@
       "change": null,
       "direction": "flat",
       "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5"
-    },
-    {
-      "id": "TkxUVWJRTTJ5d0U?oc=5::new york t",
-      "date": "Fri, 05 Jun 2026",
-      "date_display": "Jun 05, 2026",
-      "source": "Google News \u2013 Trump",
-      "type": "news",
-      "quote": "es on Cuba\u2019s Economy, Hotel Chains Withdraw - The New York Times As Trump Toughens Rules on Cuba\u2019s Economy, Hotel",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 76.86,
-      "change": 2.14,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanl3NTJSYVpONW16ekFhbUU1MWdHczY5TC1ITlNyX3lya09MTUFORHRXMU9lU2JnYnpDRFhqaHV3MVphSElFTkR6TzN0czM4bk9QTnJFUmZzUTN2SFM0bjNmaUNNb2lhazJ6dS1RNTZlcndlVkpkLS0tOGhITkxUVWJRTTJ5d0U?oc=5"
-    },
-    {
-      "id": "oT0tXQ3p1TzVKTQ?oc=5::openai",
-      "date": "Fri, 05 Jun 2026",
-      "date_display": "Jun 05, 2026",
-      "source": "Google News \u2013 Trump",
-      "type": "news",
-      "quote": "OpenAI says it will comply with Trump's order requiring",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5"
     }
   ]
 }
