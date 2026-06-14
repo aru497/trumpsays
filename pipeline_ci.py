@@ -76,12 +76,41 @@ TICKERS = {
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; TrumpSays/1.0)"}
 
 RSS_FEEDS = [
-    ("White House",          "https://www.whitehouse.gov/feed/",                                                           "official"),
-    ("WH Briefing Room",     "https://www.whitehouse.gov/briefing-room/statements-releases/feed/",                         "official"),
+    # Reuters - CI-friendly, no blocking
+    ("Reuters Business",     "https://feeds.reuters.com/reuters/businessNews",                                              "news"),
+    ("Reuters Top News",     "https://feeds.reuters.com/reuters/topNews",                                                   "news"),
+    # AP News
+    ("AP News",              "https://rsshub.app/apnews/topics/politics",                                                   "news"),
+    # Politico
+    ("Politico",             "https://rss.politico.com/politics-news.xml",                                                  "news"),
+    # White House (try — may work in CI)
+    ("White House",          "https://www.whitehouse.gov/feed/",                                                            "official"),
+    # Truth Social
     ("Truth Social",         "https://truthsocial.com/@realDonaldTrump.rss",                                               "social"),
-    ("Google News – Trump",  "https://news.google.com/rss/search?q=Trump+says+company&hl=en-US&gl=US&ceid=US:en",         "news"),
-    ("Google News – Tariff", "https://news.google.com/rss/search?q=Trump+tariff+trade+stock&hl=en-US&gl=US&ceid=US:en",  "news"),
+    # PBS NewsHour
+    ("PBS NewsHour",         "https://www.pbs.org/newshour/feeds/rss/politics",                                             "news"),
+    # NPR Politics
+    ("NPR Politics",         "https://feeds.npr.org/1014/rss.xml",                                                         "news"),
 ]
+
+
+def entry_image(e) -> str | None:
+    """Pull a thumbnail/hero image straight from the RSS entry (no extra HTTP)."""
+    # media:thumbnail / media:content
+    for key in ("media_thumbnail", "media_content"):
+        m = e.get(key)
+        if isinstance(m, list) and m and m[0].get("url"):
+            return m[0]["url"]
+    # enclosure / <link rel=enclosure type=image/*>
+    for l in e.get("links", []):
+        if l.get("type", "").startswith("image") and l.get("href"):
+            return l["href"]
+    # first <img> inside summary/content HTML
+    html = e.get("summary", "") or (e.get("content") or [{}])[0].get("value", "")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', html)
+    if m:
+        return m.group(1)
+    return None
 
 
 def fetch_articles() -> list[dict]:
@@ -113,6 +142,7 @@ def fetch_articles() -> list[dict]:
                     "pub":     e.get("published", ""),
                     "source":  name,
                     "type":    src_type,
+                    "image":   entry_image(e),
                 })
             print(f"  ✓ {name}: {len(feed.entries)} items")
         except Exception as ex:
@@ -205,6 +235,7 @@ def run():
                 "change":       change,
                 "direction":    direction,
                 "article_link": art["link"],
+                "image":        art.get("image"),
             })
 
     results.sort(key=lambda x: x["date"], reverse=True)

@@ -3,145 +3,485 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TrumpSays</title>
+<title>TrumpSays — He named it. Markets moved.</title>
+<meta name="description" content="An editorial market wire: every time Trump names a company, we track the headline and what the stock did.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800;14..32,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+:root{
+  --blue:#0f62fe; --blue-dark:#0043ce;
+  --green:#198038; --green-d:#0e6027; --green-l:#42be65;
+  --red:#da1e28; --red-d:#a2191f; --red-l:#fa4d56;
+  --ink:#161616; --gray-80:#393939; --gray-60:#6f6f6f; --gray-50:#8d8d8d; --gray-40:#a8a8a8;
+  --line:#e0e0e0; --line-soft:#f4f4f4; --bg:#ffffff; --paper:#f7f7f5;
+  --sans:'IBM Plex Sans',-apple-system,'Helvetica Neue',Arial,sans-serif;
+  --serif:'IBM Plex Serif',Georgia,'Times New Roman',serif;
+  --mono:'IBM Plex Mono',ui-monospace,Menlo,monospace;
+}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Inter',-apple-system,sans-serif;background:#fafaf8;color:#0f0f0f;-webkit-font-smoothing:antialiased}
-nav{position:sticky;top:0;z-index:100;background:#fafaf8;border-bottom:1px solid #ebebeb;padding:0 40px;height:48px;display:flex;align-items:center;justify-content:space-between}
-.wordmark{font-size:13px;font-weight:700;letter-spacing:-.01em}
-.nav-r{display:flex;align-items:center;gap:10px}
-.dot{width:6px;height:6px;border-radius:50%;background:#22c55e;animation:blink 2s ease-in-out infinite}
-@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
-.upd{font-size:11px;color:#bbb}
-.hero{max-width:780px;margin:0 auto;padding:64px 40px 40px}
-h1{font-size:clamp(40px,7vw,72px);font-weight:900;line-height:1;letter-spacing:-.04em;margin-bottom:16px}
-h1 span{color:#c0c0c0}
-.sub{font-size:16px;line-height:1.65;color:#888;max-width:420px;margin-bottom:32px}
-.sub strong{color:#555;font-weight:500}
-.filters{display:flex;gap:6px;flex-wrap:wrap}
-.chip{font-family:'Inter',sans-serif;font-size:12px;font-weight:500;padding:6px 14px;border-radius:6px;border:1px solid #e5e5e5;background:#fff;color:#666;cursor:pointer;transition:all .1s;letter-spacing:-.01em}
-.chip:hover{border-color:#ccc;color:#333}
-.chip.active{background:#0f0f0f;color:#fff;border-color:#0f0f0f}
-.stats{max-width:780px;margin:0 auto;padding:0 40px 8px;display:flex;gap:24px;flex-wrap:wrap;align-items:flex-end}
-.sn{font-size:28px;font-weight:800;letter-spacing:-.04em;line-height:1}
-.sn.g{color:#16a34a}.sn.r{color:#dc2626}
-.sl{font-size:11px;font-weight:500;color:#bbb;letter-spacing:.04em;text-transform:uppercase;margin-top:3px}
-.sdiv{width:1px;height:36px;background:#ebebeb;align-self:center}
-main{max-width:780px;margin:0 auto;padding:0 40px 100px}
-.dl{font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:#c0c0c0;border-bottom:1px solid #ebebeb;padding:24px 0 10px}
-.card{display:grid;grid-template-columns:1fr 100px;gap:20px;align-items:center;padding:20px 0;border-bottom:1px solid #f0f0f0;transition:all .1s;cursor:default}
-.card:hover{background:#f7f7f5;margin:0 -16px;padding-left:16px;padding-right:16px;border-radius:8px;border-bottom-color:transparent}
-.cq{font-size:12px;color:#bbb;font-style:italic;margin-bottom:6px;line-height:1.5;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.cm{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px}
-.cn{font-size:20px;font-weight:800;letter-spacing:-.03em;line-height:1}
-.tk{font-size:10px;font-weight:700;letter-spacing:.06em;color:#888;background:#f0f0f0;padding:2px 6px;border-radius:4px}
-.meta{font-size:11px;color:#c0c0c0}
-.stock{text-align:right}
-.sp{font-size:16px;font-weight:700;letter-spacing:-.03em;display:block;margin-bottom:5px}
-.pill{display:inline-flex;align-items:center;gap:2px;font-size:12px;font-weight:700;padding:3px 10px;border-radius:4px;letter-spacing:-.01em}
-.pill.up{background:#f0fdf4;color:#16a34a}
-.pill.down{background:#fef2f2;color:#dc2626}
-.pill.flat{background:#f5f5f5;color:#888}
-.msg{padding:64px 0;font-size:14px;color:#ccc}
-.spin{display:inline-block;width:14px;height:14px;border:2px solid #eee;border-top-color:#999;border-radius:50%;animation:spin .6s linear infinite;margin-right:8px;vertical-align:middle}
+html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body{font-family:var(--sans);background:var(--bg);color:var(--ink);line-height:1.5}
+a{color:inherit;text-decoration:none}
+img{display:block}
+
+/* ── Top utility bar ── */
+.topbar{background:var(--ink);color:#fff;font-size:11px;letter-spacing:.04em}
+.topbar .wrap{max-width:1152px;margin:0 auto;padding:7px 24px;display:flex;justify-content:space-between;align-items:center}
+.topbar .date{text-transform:uppercase;color:#c6c6c6;font-weight:500}
+.live{display:inline-flex;align-items:center;gap:7px;color:#c6c6c6}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--green-l);animation:pulse 2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(66,190,101,.5)}70%{box-shadow:0 0 0 6px rgba(66,190,101,0)}100%{box-shadow:0 0 0 0 rgba(66,190,101,0)}}
+
+/* ── Rolling ticker tape ── */
+.tape{background:#0b0b0b;border-bottom:1px solid #2a2a2a;overflow:hidden;position:relative}
+.tape::before,.tape::after{content:"";position:absolute;top:0;bottom:0;width:48px;z-index:2;pointer-events:none}
+.tape::before{left:0;background:linear-gradient(90deg,#0b0b0b,transparent)}
+.tape::after{right:0;background:linear-gradient(270deg,#0b0b0b,transparent)}
+.tape-track{display:inline-flex;align-items:stretch;animation:ticker 60s linear infinite;will-change:transform}
+.tape:hover .tape-track{animation-play-state:paused}
+@keyframes ticker{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tk-item{display:inline-flex;align-items:center;gap:9px;padding:8px 20px;border-right:1px solid #242424;white-space:nowrap}
+.tk-item .lg{width:16px;height:16px;border-radius:3px;object-fit:contain;background:#fff}
+.tk-item .s{font-family:var(--mono);font-weight:600;font-size:12px;color:#e0e0e0}
+.tk-item .p{font-family:var(--mono);font-size:12px;color:#8d8d8d}
+.tk-item .c{font-family:var(--mono);font-size:12px;font-weight:500}
+.tk-item .c.g{color:var(--green-l)}.tk-item .c.r{color:var(--red-l)}.tk-item .c.f{color:#8d8d8d}
+
+/* ── Masthead ── */
+.masthead{border-bottom:3px solid var(--ink);background:var(--bg)}
+.masthead .wrap{max-width:1152px;margin:0 auto;padding:26px 24px 20px;text-align:center}
+.brand-row{display:flex;align-items:center;justify-content:center;gap:clamp(10px,1.6vw,18px)}
+.brand-mark{flex:0 0 auto;width:clamp(34px,5.2vw,54px);height:clamp(34px,5.2vw,54px)}
+.brand-mark svg{width:100%;height:100%;display:block}
+.brand{font-family:var(--serif);font-weight:700;font-size:clamp(38px,7vw,68px);letter-spacing:-.03em;line-height:.92}
+.brand .em{color:var(--blue)}
+.tagline{font-family:var(--serif);font-style:italic;color:var(--gray-60);font-size:15px;margin-top:8px}
+
+/* ── Nav ── */
+nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);backdrop-filter:saturate(180%) blur(8px);border-bottom:1px solid var(--line)}
+nav .wrap{max-width:1152px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:2px;height:46px;overflow-x:auto}
+.tab{font-size:13px;font-weight:600;letter-spacing:.01em;color:var(--gray-60);padding:13px 14px;border-bottom:2px solid transparent;white-space:nowrap;cursor:pointer;transition:color .12s,border-color .12s}
+.tab:hover{color:var(--ink)}
+.tab.active{color:var(--ink);border-bottom-color:var(--blue)}
+.nav-upd{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--gray-40);white-space:nowrap}
+
+/* ── Media tiles (logos / article photos) ── */
+.media{position:relative;flex-shrink:0;display:grid;place-items:center;overflow:hidden;background:var(--line-soft);color:#fff;font-family:var(--sans);font-weight:700;border-radius:5px}
+.media .mono{font-size:1em;letter-spacing:-.02em;opacity:.96}
+.media img{position:absolute;inset:0;width:100%;height:100%}
+.media.logo img{object-fit:contain;background:#fff;padding:14%}
+.media.photo img{object-fit:cover}
+.media .badge{position:absolute;left:6px;bottom:6px;width:24px;height:24px;border-radius:4px;background:#fff;object-fit:contain;padding:3px;box-shadow:0 1px 4px rgba(0,0,0,.25);z-index:2}
+
+/* ── Layout ── */
+.shell{max-width:1152px;margin:0 auto;padding:0 24px 80px;display:grid;grid-template-columns:1fr 320px;gap:40px;align-items:start}
+@media(max-width:900px){.shell{grid-template-columns:1fr;gap:0}}
+
+/* ── Lead story ── */
+.lead{grid-column:1 / -1;display:grid;grid-template-columns:1.25fr 1fr;gap:40px;border-bottom:1px solid var(--line);padding:32px 0;margin-bottom:6px}
+@media(max-width:760px){.lead{grid-template-columns:1fr;gap:22px}}
+.lead-main{display:flex;flex-direction:column;justify-content:center}
+.kicker{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.kicker::before{content:"";width:24px;height:2px;background:var(--red)}
+.lead h2{font-family:var(--serif);font-weight:700;font-size:clamp(28px,4.2vw,44px);line-height:1.05;letter-spacing:-.02em;margin-bottom:14px}
+.lead a.headline:hover h2{color:var(--blue-dark)}
+.lead .dek{font-family:var(--serif);font-size:17px;line-height:1.55;color:var(--gray-80);margin-bottom:16px;max-width:60ch}
+.byline{font-size:12px;color:var(--gray-50);font-weight:500;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.byline .src{color:var(--ink);font-weight:600}
+.readmore{display:inline-flex;align-items:center;gap:6px;margin-top:16px;font-size:13px;font-weight:600;color:var(--blue)}
+.readmore svg{transition:transform .15s}
+.lead a.headline:hover .readmore svg{transform:translateX(3px)}
+/* lead hero media */
+.lead-media{position:relative;width:100%;aspect-ratio:4/3;font-size:64px;border-radius:6px}
+.lead-media .ribbon{position:absolute;left:0;right:0;bottom:0;z-index:3;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 14px;background:linear-gradient(0deg,rgba(0,0,0,.82),rgba(0,0,0,0));color:#fff}
+.lead-media .ribbon .co{font-family:var(--serif);font-weight:600;font-size:16px}
+.lead-media .ribbon .px{font-family:var(--mono);font-size:13px;color:#e0e0e0}
+.lead-media .ribbon .pill{backdrop-filter:none}
+
+/* ── Section heading ── */
+.feed{min-width:0}
+.section-h{display:flex;align-items:baseline;gap:10px;border-bottom:2px solid var(--ink);padding-bottom:8px;margin:18px 0 4px}
+.section-h h3{font-family:var(--sans);font-size:15px;font-weight:700;letter-spacing:.02em;text-transform:uppercase}
+.section-h .count{font-family:var(--mono);font-size:12px;color:var(--gray-50)}
+.daygroup{margin-top:22px}
+.dayline{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--gray-50);padding-bottom:10px;border-bottom:1px solid var(--line)}
+
+/* ── Story row (links out) ── */
+.story{display:grid;grid-template-columns:84px 1fr auto;gap:18px;align-items:start;padding:20px 0;border-bottom:1px solid var(--line);transition:background .12s,padding .12s}
+.story:hover{background:var(--paper);padding-left:14px;padding-right:14px;margin:0 -14px}
+.story .media{width:84px;height:84px;font-size:22px}
+.story .body{min-width:0}
+.tags{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+.tk{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.05em;color:#fff;background:var(--ink);padding:2px 7px;border-radius:2px}
+.co-tag{font-size:12px;font-weight:600;color:var(--gray-60)}
+.story h4{font-family:var(--serif);font-weight:600;font-size:19px;line-height:1.28;letter-spacing:-.01em;color:var(--ink)}
+.story:hover h4{color:var(--blue-dark)}
+.story .meta{font-size:12px;color:var(--gray-50);margin-top:8px;display:flex;flex-wrap:wrap;gap:7px;align-items:center}
+.story .meta .src{font-weight:600;color:var(--gray-80)}
+.story .meta .ext{color:var(--blue);font-weight:600}
+.quote-box{font-family:var(--mono);text-align:right;min-width:92px;padding-top:2px}
+.quote-box .price{font-size:15px;font-weight:600;color:var(--ink);display:block}
+.pill{display:inline-flex;align-items:center;gap:3px;font-family:var(--mono);font-size:12px;font-weight:600;padding:3px 8px;border-radius:2px;margin-top:6px}
+.pill.up{background:#defbe6;color:var(--green-d)}
+.pill.down{background:#fff1f1;color:var(--red-d)}
+.pill.flat{background:var(--line-soft);color:var(--gray-60)}
+.noprice{font-size:11px;color:var(--gray-40)}
+@media(max-width:560px){
+  .story{grid-template-columns:64px 1fr;gap:14px}
+  .story .media{width:64px;height:64px;font-size:18px}
+  .quote-box{grid-column:2;text-align:left;display:flex;align-items:center;gap:10px}
+  .pill{margin-top:0}
+}
+
+/* ── Sidebar ── */
+.rail{position:sticky;top:62px}
+@media(max-width:900px){.rail{position:static;margin-top:40px;border-top:3px solid var(--ink);padding-top:8px}}
+.rail-card{border:1px solid var(--line);margin-bottom:20px}
+.rail-card .hd{background:var(--ink);color:#fff;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:10px 16px}
+.rail-card .bd{padding:4px 16px 8px}
+.idx-row{display:flex;justify-content:space-between;align-items:baseline;padding:13px 0;border-bottom:1px solid var(--line-soft)}
+.idx-row:last-child{border-bottom:none}
+.idx-row .n{font-family:var(--mono);font-size:30px;font-weight:600;letter-spacing:-.02em;line-height:1}
+.idx-row .n.g{color:var(--green)}.idx-row .n.r{color:var(--red)}
+.idx-row .t{font-size:11px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--gray-50);text-align:right;max-width:90px}
+.mover{display:flex;align-items:center;gap:11px;padding:11px 0;border-bottom:1px solid var(--line-soft);cursor:pointer}
+.mover:last-child{border-bottom:none}
+.mover:hover .mv-co{color:var(--blue-dark)}
+.mover .media{width:32px;height:32px;font-size:12px;border-radius:4px}
+.mv-l{min-width:0;flex:1}
+.mv-tk{font-family:var(--mono);font-size:10px;font-weight:600;color:var(--gray-50)}
+.mv-co{font-family:var(--serif);font-size:14px;font-weight:600;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mv-r{font-family:var(--mono);font-size:13px;font-weight:600;white-space:nowrap}
+.mv-r.g{color:var(--green)}.mv-r.r{color:var(--red)}
+.disc{font-size:11px;color:var(--gray-50);line-height:1.6;padding:2px}
+
+.msg{padding:80px 0;text-align:center;color:var(--gray-40);font-size:14px}
+.spin{display:inline-block;width:16px;height:16px;border:2px solid var(--line);border-top-color:var(--blue);border-radius:50%;animation:spin .6s linear infinite;margin-right:9px;vertical-align:-3px}
 @keyframes spin{to{transform:rotate(360deg)}}
-footer{border-top:1px solid #ebebeb;padding:20px 40px;font-size:11px;color:#ccc;max-width:780px;margin:0 auto}
-@media(max-width:560px){nav,.hero,main,.stats,footer{padding-left:20px;padding-right:20px}.card{grid-template-columns:1fr}.stock{text-align:left}}
+
+footer{border-top:3px solid var(--ink)}
+footer .wrap{max-width:1152px;margin:0 auto;padding:28px 24px 48px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;font-size:12px;color:var(--gray-50)}
+footer .fb{font-family:var(--serif);font-weight:700;font-size:18px;color:var(--ink)}
+@media(prefers-reduced-motion:reduce){.tape-track{animation:none}.dot{animation:none}}
 </style>
 </head>
 <body>
-<nav>
-  <span class="wordmark">TrumpSays</span>
-  <div class="nav-r">
-    <div class="dot"></div>
-    <span class="upd" id="upd">—</span>
+
+<div class="topbar"><div class="wrap">
+  <span class="date" id="topdate">—</span>
+  <span class="live"><span class="dot"></span> <span id="liveupd">Live wire</span></span>
+</div></div>
+
+<div class="tape"><div class="tape-track" id="tape"></div></div>
+
+<header class="masthead"><div class="wrap">
+  <div class="brand-row">
+    <span class="brand-mark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TrumpSays logo"><rect x="11" y="14" width="46" height="6" fill="#161616"/><rect x="14.5" y="22" width="3" height="3" fill="#161616"/><rect x="24.5" y="22" width="3" height="3" fill="#161616"/><rect x="40.5" y="22" width="3" height="3" fill="#161616"/><rect x="50.5" y="22" width="3" height="3" fill="#161616"/><rect x="30" y="14" width="8" height="34" fill="#ffffff" stroke="#0f62fe" stroke-width="2"/><rect x="33" y="48" width="2" height="9" fill="#161616"/></svg></span>
+    <div class="brand">Trump<span class="em">Says</span></div>
   </div>
-</nav>
-<header class="hero">
-  <h1>He said it.<br><span>Markets moved.</span></h1>
-  <p class="sub">Every time Trump <strong>directly names a company</strong> — speech, press conference, or Truth Social — we track what the stock does.</p>
-  <div class="filters" id="filters">
-    <button class="chip active" data-f="all">All</button>
-    <button class="chip" data-f="up">↑ Rallied</button>
-    <button class="chip" data-f="down">↓ Dropped</button>
-    <button class="chip" data-f="today">Today</button>
+  <div class="tagline">He named it. The market answered.</div>
+</div></header>
+
+<nav><div class="wrap" id="tabs">
+  <span class="tab active" data-f="all">Front Page</span>
+  <span class="tab" data-f="up">Gainers</span>
+  <span class="tab" data-f="down">Losers</span>
+  <span class="tab" data-f="today">Today</span>
+  <span class="nav-upd" id="navupd">—</span>
+</div></nav>
+
+<section class="intro" aria-label="What TrumpSays is and how it works">
+  <div class="intro-wrap">
+    <div class="intro-lede">
+      <p class="intro-kicker">About the wire</p>
+      <h2 class="intro-head">A market wire that listens for one thing<span class="intro-dash">&mdash;</span>a&nbsp;<span class="intro-blue">name</span>. When the President says a company out loud, the&nbsp;<span class="intro-red">tape</span> tends to answer.</h2>
+      <p class="intro-sub">TrumpSays logs every time the U.S. President names a public company in a speech, a briefing, or on Truth Social, then pairs the headline with the stock&rsquo;s move that day. No commentary, no spin&nbsp;&mdash; every story links out to the original source.</p>
+    </div>
+    <ol class="intro-steps">
+      <li class="intro-step">
+        <span class="intro-num">01</span>
+        <span class="intro-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5v1a2 2 0 0 0 2 2h1l3.2 3.4c.5.5 1.3.2 1.3-.5V6.6c0-.7-.8-1-1.3-.5L6 9.5H5a2 2 0 0 0-2 2Z"/><path d="M15.5 9a4 4 0 0 1 0 6"/><path d="M18.5 6.5a8 8 0 0 1 0 11"/></svg></span>
+        <div class="intro-txt"><h3>He names a company</h3><p>A speech, a press briefing, or a Truth Social post mentions a public company by name.</p></div>
+      </li>
+      <li class="intro-step">
+        <span class="intro-num">02</span>
+        <span class="intro-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8.5L19 7.5V21H6z"/><path d="M14 3v5h5"/><path d="M9 12.5h7"/><path d="M9 16h5"/></svg></span>
+        <div class="intro-txt"><h3>We capture the headline</h3><p>The quote, the source, and a link straight out to the report that carried it.</p></div>
+      </li>
+      <li class="intro-step">
+        <span class="intro-num">03</span>
+        <span class="intro-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16"/><path d="M4 19V5"/><path d="m7 14 3.5-3.8 3 2.4L20 6"/><path d="M20 6h-3.4M20 6v3.4"/></svg></span>
+        <div class="intro-txt"><h3>We mark the move</h3><p>The stock&rsquo;s move that day, right beside it &mdash; up, down, or flat. You read the rest.</p></div>
+      </li>
+    </ol>
   </div>
-</header>
-<div class="stats" id="stats"></div>
-<main id="feed"><p class="msg"><span class="spin"></span>Loading…</p></main>
-<footer>Updates every 30 min via GitHub Actions · Not financial advice</footer>
+</section>
+<style>
+.intro{background:var(--paper);border-bottom:1px solid var(--line)}
+.intro-wrap{max-width:1152px;margin:0 auto;padding:30px 24px 28px}
+.intro-lede{padding-bottom:24px;margin-bottom:24px;border-bottom:1px solid var(--line)}
+.intro-kicker{font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);display:flex;align-items:center;gap:8px;margin-bottom:16px}
+.intro-kicker::before{content:"";width:24px;height:2px;background:var(--blue)}
+.intro-head{font-family:var(--serif);font-weight:700;font-size:clamp(23px,3.2vw,36px);line-height:1.16;letter-spacing:-.02em;color:var(--ink);max-width:32ch;margin:0}
+.intro-dash{color:var(--gray-40);padding:0 .1em}
+.intro-blue{color:var(--blue)}
+.intro-red{color:var(--red)}
+.intro-sub{font-family:var(--serif);font-size:16px;line-height:1.6;color:var(--gray-80);max-width:64ch;margin:16px 0 0}
+.intro-steps{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:3px;overflow:hidden}
+.intro-step{background:var(--bg);padding:18px 20px;display:grid;grid-template-columns:auto 1fr;grid-template-rows:auto auto;column-gap:14px;row-gap:12px;align-items:center}
+.intro-num{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.08em;color:var(--gray-40);align-self:center}
+.intro-ic{justify-self:start;width:38px;height:38px;display:grid;place-items:center;color:var(--blue);background:var(--bg);border:1px solid var(--line);border-radius:50%}
+.intro-ic svg{width:20px;height:20px}
+.intro-txt{grid-column:1 / -1}
+.intro-txt h3{font-family:var(--serif);font-weight:600;font-size:17px;line-height:1.2;letter-spacing:-.01em;color:var(--ink);margin-bottom:5px}
+.intro-txt p{font-family:var(--sans);font-size:13px;line-height:1.5;color:var(--gray-60)}
+@media(max-width:760px){
+  .intro-wrap{padding:22px 24px}
+  .intro-lede{padding-bottom:18px;margin-bottom:18px}
+  .intro-head{font-size:clamp(22px,6vw,28px);max-width:none}
+  .intro-sub{font-size:15px}
+  .intro-steps{grid-template-columns:1fr;gap:1px}
+  .intro-step{grid-template-columns:auto auto 1fr;grid-template-rows:auto;column-gap:14px;row-gap:0;padding:15px 16px}
+  .intro-ic{width:34px;height:34px}
+  .intro-ic svg{width:18px;height:18px}
+  .intro-txt{grid-column:auto}
+}
+</style>
+
+<div class="shell">
+  <div class="lead" id="lead"></div>
+  <main class="feed">
+    <div class="section-h"><h3>The Wire</h3><span class="count" id="wirecount"></span></div>
+    <div id="feed"><p class="msg"><span class="spin"></span>Loading the wire…</p></div>
+  </main>
+  <aside class="rail" id="rail"></aside>
+</div>
+
+<footer><div class="wrap">
+  <span class="fb">Trump<span style="color:var(--blue)">Says</span></span>
+  <span>Auto-updated via GitHub Actions · Logos &amp; photos from public sources · Not financial advice.</span>
+</div></footer>
 
 <script>
 let ALL=[], active='all';
+const SRC_ICON={'White House':'🏛','WH Briefing Room':'🏛','Truth Social':'𝕏'};
+
+/* ── Company → domain map for logo lookups ── */
+const DOMAINS={
+ AAPL:'apple.com',MSFT:'microsoft.com',GOOGL:'google.com',AMZN:'amazon.com',META:'meta.com',
+ NVDA:'nvidia.com',TSLA:'tesla.com',NFLX:'netflix.com',INTC:'intel.com',AMD:'amd.com',
+ QCOM:'qualcomm.com',IBM:'ibm.com',ORCL:'oracle.com',CRM:'salesforce.com',ADBE:'adobe.com',
+ ZM:'zoom.us',X:'x.com',PLTR:'palantir.com',SNOW:'snowflake.com',UBER:'uber.com',LYFT:'lyft.com',
+ ABNB:'airbnb.com',SHOP:'shopify.com',SPOT:'spotify.com',PINS:'pinterest.com',
+ JPM:'jpmorganchase.com',GS:'goldmansachs.com',BAC:'bankofamerica.com',WFC:'wellsfargo.com',
+ MS:'morganstanley.com',C:'citigroup.com','BRK-B':'berkshirehathaway.com',BLK:'blackrock.com',
+ V:'visa.com',MA:'mastercard.com',AXP:'americanexpress.com',COIN:'coinbase.com',HOOD:'robinhood.com',
+ PYPL:'paypal.com',XOM:'exxonmobil.com',CVX:'chevron.com',COP:'conocophillips.com',HAL:'halliburton.com',
+ BP:'bp.com',SHEL:'shell.com',LMT:'lockheedmartin.com',RTX:'rtx.com',BA:'boeing.com',
+ NOC:'northropgrumman.com',GD:'gd.com',LHX:'l3harris.com',TXT:'textron.com',WMT:'walmart.com',
+ TGT:'target.com',COST:'costco.com',HD:'homedepot.com',LOW:'lowes.com',MCD:'mcdonalds.com',
+ SBUX:'starbucks.com',KO:'coca-cola.com',PEP:'pepsico.com',NKE:'nike.com',GPS:'gap.com',
+ DG:'dollargeneral.com',DLTR:'dollartree.com',F:'ford.com',GM:'gm.com',STLA:'stellantis.com',
+ RIVN:'rivian.com',LCID:'lucidmotors.com',PFE:'pfizer.com',JNJ:'jnj.com',UNH:'unitedhealthgroup.com',
+ CVS:'cvshealth.com',MRNA:'modernatx.com',LLY:'lilly.com',MRK:'merck.com',ABBV:'abbvie.com',
+ AMGN:'amgen.com',DIS:'disney.com',CMCSA:'comcast.com',T:'att.com',VZ:'verizon.com',FOX:'fox.com',
+ NYT:'nytimes.com',WBD:'wbd.com',CAT:'caterpillar.com',DE:'deere.com',MMM:'3m.com',HON:'honeywell.com',
+ GE:'ge.com',UPS:'ups.com',FDX:'fedex.com',DAL:'delta.com',UAL:'united.com',AAL:'aa.com',
+ LUV:'southwest.com',TCEHY:'tencent.com',BABA:'alibaba.com',XIACY:'mi.com',NUE:'nucor.com',STLD:'steeldynamics.com'
+};
+const COMPANY_DOMAINS={'new york times':'nytimes.com','john deere':'deere.com','warner bros':'wbd.com'};
+
+function domainFor(d){
+  return DOMAINS[d.ticker] || COMPANY_DOMAINS[(d.company||'').toLowerCase()] || null;
+}
+function hueOf(s){let h=0;for(const ch of (s||'?'))h=(h*31+ch.charCodeAt(0))%360;return h;}
+function monoOf(d){
+  const base=(d.ticker||d.company||'?').replace(/[^A-Za-z0-9]/g,'');
+  return (base.slice(0,2)||'•').toUpperCase();
+}
+/* logo onerror chain: clearbit → google favicon → reveal monogram */
+function logoImg(dom,big){
+  const sz=big?256:128;
+  const fav=`https://www.google.com/s2/favicons?sz=128&domain=${dom}`;
+  return `<img src="https://logo.clearbit.com/${dom}?size=${sz}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${fav}'}else{this.remove()}">`;
+}
+/* media tile: real article photo if present, else branded logo tile, else monogram */
+function media(d,opts={}){
+  const {big=false,badge=false}=opts;
+  const dom=domainFor(d);
+  const hue=hueOf(d.ticker||d.company);
+  const mono=monoOf(d);
+  if(d.image){
+    const b=(badge&&dom)?`<img class="badge" src="https://logo.clearbit.com/${dom}?size=64" referrerpolicy="no-referrer" onerror="this.remove()">`:'';
+    return `<span class="media photo" style="background:hsl(${hue} 30% 22%)"><span class="mono">${mono}</span><img src="${d.image}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">${b}</span>`;
+  }
+  const inner=dom?logoImg(dom,big):'';
+  return `<span class="media logo" style="background:hsl(${hue} 42% 36%)"><span class="mono">${mono}</span>${inner}</span>`;
+}
+
+function cleanHeadline(q,company){
+  if(!q) return 'Trump names '+(company||'a company');
+  let t=q.trim().replace(/\s*[-–—|]\s*[^-–—|]{0,40}$/,'');
+  t=t.replace(/^[a-z]/,c=>c.toUpperCase());
+  if(t.length<12) return 'Trump names '+(company||'a company');
+  return t;
+}
+function fmtPrice(p){return '$'+Number(p).toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});}
+function arrow(d){return d==='up'?'▲':d==='down'?'▼':'■';}
 
 async function load(){
   try{
-    // works both locally and on GitHub Pages
-    const base = location.pathname.replace(/\/[^/]*$/,'');
-    const r = await fetch(base+'/data.json?t='+Date.now());
-    const d = await r.json();
-    ALL = d.mentions||[];
-    const ts = d.updated_at ? new Date(d.updated_at).toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'}) : '—';
-    document.getElementById('upd').textContent = 'Updated '+ts;
+    const base=location.pathname.replace(/\/[^/]*$/,'');
+    const r=await fetch(base+'/data.json?t='+Date.now());
+    const d=await r.json();
+    ALL=d.mentions||[];
+    if(d.updated_at){
+      const dt=new Date(d.updated_at);
+      document.getElementById('topdate').textContent=
+        dt.toLocaleDateString([],{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+      const t=dt.toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+      document.getElementById('liveupd').textContent='Updated '+t;
+      document.getElementById('navupd').textContent='⟳ '+t;
+    }
+    buildTape();
     render();
-  } catch(e){
-    document.getElementById('feed').innerHTML='<p class="msg">⚠️ Could not load data.</p>';
+  }catch(e){
+    document.getElementById('feed').innerHTML='<p class="msg">⚠️ Could not load the wire. Check back shortly.</p>';
   }
 }
 
-function get(){
+/* ── rolling ticker tape ── */
+function buildTape(){
+  const seen=new Set(), priced=[];
+  for(const d of ALL){
+    if(d.price==null||!d.ticker||seen.has(d.ticker))continue;
+    seen.add(d.ticker); priced.push(d);
+  }
+  const el=document.getElementById('tape');
+  if(!priced.length){el.innerHTML='';return;}
+  const item=d=>{
+    const dom=domainFor(d);
+    const sign=d.change>0?'+':'';
+    const cc=d.direction==='up'?'g':d.direction==='down'?'r':'f';
+    const lg=dom?`<img class="lg" src="https://logo.clearbit.com/${dom}?size=32" referrerpolicy="no-referrer" onerror="this.remove()">`:'';
+    return `<span class="tk-item">${lg}<span class="s">${d.ticker}</span><span class="p">${fmtPrice(d.price)}</span><span class="c ${cc}">${arrow(d.direction)} ${sign}${d.change}%</span></span>`;
+  };
+  const row=priced.map(item).join('');
+  el.innerHTML=row+row; // duplicate for seamless loop
+}
+
+function filtered(){
   if(active==='up')   return ALL.filter(d=>d.direction==='up');
   if(active==='down') return ALL.filter(d=>d.direction==='down');
   if(active==='today'){const t=ALL[0]?.date_display; return ALL.filter(d=>d.date_display===t);}
   return ALL;
 }
 
-function stats(items){
-  const up=items.filter(d=>d.direction==='up').length, dn=items.filter(d=>d.direction==='down').length;
-  document.getElementById('stats').innerHTML=`
-    <div><div class="sn">${items.length}</div><div class="sl">Mentions</div></div>
-    <div class="sdiv"></div>
-    <div><div class="sn g">${up}</div><div class="sl">Rallied</div></div>
-    <div class="sdiv"></div>
-    <div><div class="sn r">${dn}</div><div class="sl">Dropped</div></div>`;
+function pill(d){
+  if(d.price==null) return '<span class="noprice">No quote</span>';
+  const sign=d.change>0?'+':'';
+  return `<span class="price">${fmtPrice(d.price)}</span><span class="pill ${d.direction}">${arrow(d.direction)} ${sign}${d.change}%</span>`;
 }
 
-function card(d){
-  const sign=d.change>0?'+':'', arrow=d.direction==='up'?'↑':d.direction==='down'?'↓':'→';
-  const q=d.quote?`"${d.quote.length>80?d.quote.slice(0,80)+'…':d.quote}"`:'';
-  const icons={'White House':'🏛','WH Briefing Room':'🏛','Truth Social':'𝕋'};
-  const icon=icons[d.source]||'📰';
-  const side=d.price!=null
-    ?`<span class="sp">$${Number(d.price).toLocaleString()}</span><span class="pill ${d.direction}">${arrow} ${sign}${d.change}%</span>`
-    :`<span style="font-size:11px;color:#ddd">No price</span>`;
-  return`<div class="card"><div>
-    ${q?`<div class="cq">${q}</div>`:''}
-    <div class="cm"><span class="cn">${d.company}</span>${d.ticker?`<span class="tk">${d.ticker}</span>`:''}</div>
-    <div class="meta">${icon} ${d.source} · ${d.date_display}</div>
-  </div><div class="stock">${side}</div></div>`;
+function leadStory(items){
+  const el=document.getElementById('lead');
+  if(!items.length){el.innerHTML='';return;}
+  const d=[...items].sort((a,b)=>Math.abs(b.change||0)-Math.abs(a.change||0))[0];
+  const icon=SRC_ICON[d.source]||'📰';
+  const sign=d.change>0?'+':'';
+  const ribbon=`<div class="ribbon">
+      <span class="co">${d.company}</span>
+      ${d.price!=null?`<span style="display:flex;align-items:center;gap:8px"><span class="px">${fmtPrice(d.price)}</span><span class="pill ${d.direction}">${arrow(d.direction)} ${sign}${d.change}%</span></span>`:'<span class="px">No quote</span>'}
+    </div>`;
+  el.innerHTML=`
+    <div class="lead-main">
+      <a class="headline" href="${d.article_link||'#'}" target="_blank" rel="noopener">
+        <div class="kicker">Lead · ${d.ticker||'Market'}</div>
+        <h2>${cleanHeadline(d.quote,d.company)}</h2>
+        <p class="dek">Trump put <strong>${d.company}</strong> in the headlines${d.ticker?` (${d.ticker})`:''}. Here is the story moving the tape — and where the stock landed.</p>
+        <div class="byline"><span class="src">${icon} ${d.source}</span> · <span>${d.date_display}</span></div>
+        <span class="readmore">Read the full story
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </span>
+      </a>
+    </div>
+    <a class="headline" href="${d.article_link||'#'}" target="_blank" rel="noopener">
+      <div class="lead-media media ${d.image?'photo':'logo'}" style="background:hsl(${hueOf(d.ticker||d.company)} ${d.image?'30% 22%':'42% 36%'})">
+        <span class="mono">${monoOf(d)}</span>
+        ${d.image?`<img src="${d.image}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:(domainFor(d)?logoImg(domainFor(d),true):'')}
+        ${ribbon}
+      </div>
+    </a>`;
+}
+
+function storyRow(d){
+  const icon=SRC_ICON[d.source]||'📰';
+  return `<a class="story" href="${d.article_link||'#'}" target="_blank" rel="noopener">
+    ${media(d,{badge:true})}
+    <div class="body">
+      <div class="tags">${d.ticker?`<span class="tk">${d.ticker}</span>`:''}<span class="co-tag">${d.company}</span></div>
+      <h4>${cleanHeadline(d.quote,d.company)}</h4>
+      <div class="meta"><span class="src">${icon} ${d.source}</span> · <span>${d.date_display}</span> · <span class="ext">Open source ↗</span></div>
+    </div>
+    <div class="quote-box">${pill(d)}</div>
+  </a>`;
+}
+
+function sidebar(items){
+  const up=items.filter(d=>d.direction==='up').length;
+  const dn=items.filter(d=>d.direction==='down').length;
+  const movers=[...items].filter(d=>d.price!=null)
+    .sort((a,b)=>Math.abs(b.change||0)-Math.abs(a.change||0)).slice(0,6);
+  const moverHTML=movers.length?movers.map(d=>{
+    const sign=d.change>0?'+':'';
+    return `<a class="mover" href="${d.article_link||'#'}" target="_blank" rel="noopener">
+      ${media(d)}
+      <div class="mv-l"><div class="mv-tk">${d.ticker||''}</div><div class="mv-co">${d.company}</div></div>
+      <div class="mv-r ${d.direction==='up'?'g':d.direction==='down'?'r':''}">${arrow(d.direction)} ${sign}${d.change}%</div>
+    </a>`;}).join(''):'<div class="disc" style="padding:14px 0">No quotes yet.</div>';
+
+  document.getElementById('rail').innerHTML=`
+    <div class="rail-card">
+      <div class="hd">Daily Index</div>
+      <div class="bd">
+        <div class="idx-row"><span class="n">${items.length}</span><span class="t">Mentions tracked</span></div>
+        <div class="idx-row"><span class="n g">${up}</span><span class="t">Rallied on it</span></div>
+        <div class="idx-row"><span class="n r">${dn}</span><span class="t">Sold off</span></div>
+      </div>
+    </div>
+    <div class="rail-card">
+      <div class="hd">Biggest Movers</div>
+      <div class="bd">${moverHTML}</div>
+    </div>
+    <div class="rail-card">
+      <div class="hd">About the Wire</div>
+      <div class="bd"><p class="disc">When the President names a public company — in a speech, a briefing, or on social — TrumpSays pulls the headline and the stock's move that day. Tap any story to read the original report.</p></div>
+    </div>`;
 }
 
 function render(){
-  const items=get(); stats(items);
+  const items=filtered();
+  leadStory(items);
+  sidebar(items);
+  document.getElementById('wirecount').textContent=items.length?items.length+' stories':'';
   const feed=document.getElementById('feed');
-  if(!items.length){feed.innerHTML='<p class="msg">No mentions yet. Check back soon.</p>';return;}
+  if(!items.length){feed.innerHTML='<p class="msg">No stories in this section yet.</p>';return;}
   const by={};
   items.forEach(d=>{(by[d.date_display]=by[d.date_display]||[]).push(d);});
   feed.innerHTML=Object.entries(by).map(([date,g])=>
-    `<div class="dl">${date}</div>`+g.map(card).join('')).join('');
+    `<div class="daygroup"><div class="dayline">${date}</div>${g.map(storyRow).join('')}</div>`).join('');
 }
 
-document.getElementById('filters').addEventListener('click',e=>{
-  const b=e.target.closest('.chip'); if(!b)return;
-  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+document.getElementById('tabs').addEventListener('click',e=>{
+  const b=e.target.closest('.tab'); if(!b)return;
+  document.querySelectorAll('.tab').forEach(c=>c.classList.remove('active'));
   b.classList.add('active'); active=b.dataset.f; render();
 });
 
 load();
-setInterval(load, 10*60*1000); // refresh every 10 min
+setInterval(load, 10*60*1000);
 </script>
 </body>
 </html>
