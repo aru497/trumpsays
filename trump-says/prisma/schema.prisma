@@ -1,0 +1,95 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Statement {
+  id        String   @id @default(cuid())
+  title     String
+  summary   String   @db.Text
+  link      String   @unique
+  published DateTime
+  source    String
+
+  analysis  Analysis?
+  mentions  Mention[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([published])
+  @@index([source])
+}
+
+model Analysis {
+  id                String   @id @default(cuid())
+  statementId       String   @unique
+  statement         Statement @relation(fields: [statementId], references: [id], onDelete: Cascade)
+
+  statementSummary  String   @db.Text
+  macroTheme        String?
+  affectedRegions   String[]
+
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+}
+
+model Mention {
+  id              String   @id @default(cuid())
+  statementId     String
+  statement       Statement @relation(fields: [statementId], references: [id], onDelete: Cascade)
+
+  name            String
+  ticker          String?
+  type            String
+
+  sentiment       String
+  signal          String
+  signalStrength  Int      @db.SmallInt
+  reasoning       String   @db.Text
+  timeHorizon     String
+
+  quotePrice      Float?    // latest price
+  basePrice       Float?    // price at/around the time the statement was published
+  quoteDayChange  Float?    // % change since this statement was published (current vs basePrice)
+  dayChangePct    Float?    // today's daily % move of the stock (current vs prev close)
+  quoteUpdatedAt  DateTime?
+
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@index([ticker])
+  @@index([sentiment])
+  @@index([signal])
+  @@index([statementId])
+}
+
+model Quote {
+  ticker        String   @id
+  price         Float
+  dayChangePct  Float
+  weekChangePct Float?
+  marketCap     Float?
+  currency      String   @default("USD")
+
+  fetchedAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([fetchedAt])
+}
+
+model PollingLog {
+  id                String   @id @default(cuid())
+  fetchedAt         DateTime @default(now())
+
+  articlesFound     Int
+  mentionsExtracted Int
+  errorMessage      String?
+
+  duration          Int
+
+  createdAt         DateTime @default(now())
+}
