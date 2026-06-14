@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>All Mentions — TrumpSays</title>
+<meta name="description" content="Every company Trump has named — grouped by company, with the headline, venue, and stock move for each mention.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="topbar"><div class="wrap">
+  <span class="date" id="topdate">—</span>
+  <span class="live"><span class="dot"></span> <span id="liveupd">Live wire</span></span>
+</div></div>
+
+<div class="tape"><div class="tape-track" id="tape"></div></div>
+
+<header class="masthead"><div class="wrap">
+  <div class="folio">
+    <span><a href="index.html">← Front Page</a></span>
+    <span class="mid">whatdoes.live</span>
+    <span id="folio-r">Tracking the tape</span>
+  </div>
+  <div class="brand-row">
+    <span class="brand-mark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TrumpSays logo"><rect x="11" y="14" width="46" height="6" fill="#0a0e14"/><rect x="14.5" y="22" width="3" height="3" fill="#0a0e14"/><rect x="24.5" y="22" width="3" height="3" fill="#0a0e14"/><rect x="40.5" y="22" width="3" height="3" fill="#0a0e14"/><rect x="50.5" y="22" width="3" height="3" fill="#0a0e14"/><rect x="30" y="14" width="8" height="34" fill="#ffffff" stroke="#5669ff" stroke-width="2"/><rect x="33" y="48" width="2" height="9" fill="#0a0e14"/></svg></span>
+    <div class="brand">Trump<span class="em">Says</span></div>
+  </div>
+  <div class="tagline">He named it. The market answered.</div>
+  <div class="rule-pair"></div>
+</div></header>
+
+<div class="page-head">
+  <h1>All Mentions</h1>
+  <p id="page-sub">Every public company the President has named — grouped by company. Tap a company for its full chart.</p>
+</div>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Search company, ticker, or headline…" aria-label="Search mentions">
+  <select id="f-channel" aria-label="Filter by channel">
+    <option value="all">All channels</option>
+    <option value="Truth Social">Truth Social</option>
+    <option value="Press Conference">Press Conference</option>
+    <option value="Speech">Speech</option>
+    <option value="News">News</option>
+    <option value="Official">Official</option>
+  </select>
+  <select id="f-dir" aria-label="Filter by move">
+    <option value="all">Any move</option>
+    <option value="up">Rallied ▲</option>
+    <option value="down">Sold off ▼</option>
+    <option value="flat">Flat ■</option>
+  </select>
+  <select id="f-sort" aria-label="Sort">
+    <option value="mentions">Most mentioned</option>
+    <option value="recent">Most recent</option>
+    <option value="move">Biggest move</option>
+    <option value="az">A–Z</option>
+  </select>
+</div>
+
+<div class="m-table" id="table"><p class="msg"><span class="spin"></span>Loading mentions…</p></div>
+
+<footer><div class="wrap">
+  <span class="fb">Trump<span style="color:var(--indigo)">Says</span></span>
+  <span><a href="index.html">Front page</a> · Auto-updated via GitHub Actions · Prices via Yahoo Finance · Not financial advice.</span>
+</div></footer>
+
+<div class="modal-backdrop" id="modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-label="Company mention detail">
+    <button class="modal-close" type="button" aria-label="Close">×</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script src="shared.js"></script>
+<script src="mentions.js"></script>
+</body>
+</html>
