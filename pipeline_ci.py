@@ -127,7 +127,7 @@ def fetch_articles() -> list[dict]:
                 data = r.read()
             feed = feedparser.parse(data)
             for e in feed.entries[:20]:
-                t = e.get("title", "").strip()
+                t = re.sub(r"<[^>]+>", "", e.get("title", "")).strip()
                 k = t[:60].lower()
                 if not t or k in seen:
                     continue
@@ -158,28 +158,76 @@ def find_companies(text: str) -> list[dict]:
         if re.search(r'\b' + re.escape(name) + r'\b', low):
             if name not in seen:
                 seen.add(name)
-                # grab surrounding context as snippet
+                # grab surrounding context as snippet, snapped to whole words
                 m = re.search(r'\b' + re.escape(name) + r'\b', low)
-                s = max(0, m.start() - 50)
-                e = min(len(text), m.end() + 50)
+                s = max(0, m.start() - 60)
+                e = min(len(text), m.end() + 60)
+                snip = text[s:e]
+                if s > 0 and " " in snip:           # drop partial leading word
+                    snip = snip[snip.find(" ") + 1:]
+                if e < len(text) and " " in snip:    # drop partial trailing word
+                    snip = snip[:snip.rfind(" ")]
                 found.append({
                     "company": name.title(),
                     "ticker":  ticker,
-                    "snippet": text[s:e].strip(),
+                    "snippet": snip.strip(),
                 })
     return found
+
+
+# ── Where did he say it? (channel / venue) ───────────────────────────────────
+PRESSER_KW = (
+    "press conference", "press briefing", "briefing room", "told reporters",
+    "press secretary", "news conference", "press gaggle", "presser",
+    "took questions", "press pool", "in the oval office", "to reporters",
+)
+SPEECH_KW = (
+    "remarks", "in a speech", "delivered a speech", "rally", "addressed",
+    "campaign event", "joint address", "state of the union", "town hall",
+    "delivered remarks", "at a rally", "gave a speech", "his speech",
+)
+
+
+ATTRIB_KW = ("trump", "president", "potus", " he ", "white house")
+
+
+def classify_channel(source: str, src_type: str, text: str) -> str:
+    """Bucket a mention by WHERE Trump said it, so the site can filter on it."""
+    low = (text or "").lower()
+    s = (source or "").lower()
+    if "truth social" in s or src_type == "social":
+        return "Truth Social"
+    # only call it a presser/speech when there's a Trump-attribution signal,
+    # so a generic news story that merely contains "speech" isn't mislabelled
+    attributed = src_type == "official" or any(a in low for a in ATTRIB_KW)
+    if attributed and any(k in low for k in PRESSER_KW):
+        return "Press Conference"
+    if attributed and any(k in low for k in SPEECH_KW):
+        return "Speech"
+    if src_type == "official":
+        return "Official"
+    return "News"
 
 
 def get_quote(ticker: str) -> dict | None:
     try:
         import yfinance as yf
-        h = yf.Ticker(ticker).history(period="5d")
+        h = yf.Ticker(ticker).history(period="1mo")
         if h.empty:
             return None
-        cur  = float(h["Close"].iloc[-1])
-        prev = float(h["Close"].iloc[-2]) if len(h) >= 2 else cur
-        day  = round((cur - prev) / prev * 100, 2)
-        return {"price": round(cur, 2), "day_change_pct": day}
+        # zip dates+closes and drop NaN rows (c == c is False for NaN) so a single
+        # bad close can't leak the literal token `NaN` into data.json and break JSON.parse
+        rows = [(d.strftime("%m-%d"), round(float(c), 2))
+                for d, c in zip(h.index, h["Close"].tolist()) if c == c]
+        rows = rows[-22:]
+        if len(rows) < 2:
+            return None
+        dates  = [r[0] for r in rows]
+        closes = [r[1] for r in rows]
+        cur, prev = closes[-1], closes[-2]
+        day = round((cur - prev) / prev * 100, 2) if prev else 0.0
+        series = [{"d": dt, "c": c} for dt, c in zip(dates, closes)]
+        return {"price": cur, "day_change_pct": day, "series": series}
     except Exception:
         return None
 
@@ -236,6 +284,10 @@ def run():
                 "direction":    direction,
                 "article_link": art["link"],
                 "image":        art.get("image"),
+                "headline":     art["title"],
+                "channel":      classify_channel(art["source"], art["type"],
+                                                  art["title"] + " " + art["body"]),
+                "series":       quote.get("series") if quote else None,
             })
 
     results.sort(key=lambda x: x["date"], reverse=True)
@@ -244,7 +296,8 @@ def run():
         "count":      len(results),
         "mentions":   results,
     }
-    OUT.write_text(json.dumps(payload, indent=2, default=str))
+    # allow_nan=False fails loudly in CI rather than shipping invalid JSON (bare NaN/Infinity)
+    OUT.write_text(json.dumps(payload, indent=2, default=str, allow_nan=False))
     print(f"Saved {len(results)} mentions → {OUT}")
 
 
