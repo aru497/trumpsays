@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node / Vercel
+node_modules/
+.vercel/
+
+# Local Claude Code tooling / preview config
+.claude/
