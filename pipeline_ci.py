@@ -5,6 +5,8 @@ No spaCy needed — uses lookup table only (fast, no model download).
 Writes docs/data.json which GitHub Pages serves.
 """
 
+import email.utils
+import hashlib
 import json
 import re
 import sys
@@ -12,6 +14,10 @@ import time
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
+
+# ── Accumulation window: keep a rolling archive, not just the latest snapshot ──
+WINDOW_DAYS = 90
+MAX_MENTIONS = 400
 
 # ── Output path (GitHub Pages serves from /docs) ─────────────────────────────
 OUT = Path(__file__).parent / "docs" / "data.json"
@@ -71,27 +77,64 @@ TICKERS = {
     "huawei": None, "tencent": "TCEHY", "alibaba": "BABA", "xiaomi": "XIACY",
     # Steel / Tariff targets
     "u.s. steel": "X", "us steel": "X", "nucor": "NUE", "steel dynamics": "STLD",
+    # Trump-adjacent
+    "trump media": "DJT", "truth social": "DJT", "djt": "DJT",
+    # More tech / semis
+    "broadcom": "AVGO", "cisco": "CSCO", "texas instruments": "TXN", "micron": "MU",
+    "dell": "DELL", "hp": "HPQ", "hewlett packard": "HPE", "super micro": "SMCI",
+    "supermicro": "SMCI", "arm": "ARM", "snap": "SNAP", "snapchat": "SNAP",
+    "reddit": "RDDT", "roblox": "RBLX", "block": "SQ", "square": "SQ",
+    # More finance / crypto
+    "charles schwab": "SCHW", "schwab": "SCHW", "pnc": "PNC", "us bancorp": "USB",
+    "truist": "TFC", "capital one": "COF", "microstrategy": "MSTR", "strategy": "MSTR",
+    "marathon digital": "MARA", "riot": "RIOT", "block inc": "SQ",
+    # More energy
+    "occidental": "OXY", "devon energy": "DVN", "phillips 66": "PSX", "valero": "VLO",
+    "kinder morgan": "KMI", "williams": "WMB", "schlumberger": "SLB",
+    # More pharma / health
+    "bristol myers": "BMY", "bristol-myers": "BMY", "gilead": "GILD", "biogen": "BIIB",
+    "regeneron": "REGN", "vertex": "VRTX", "novavax": "NVAX", "humana": "HUM",
+    # More consumer / retail / food
+    "best buy": "BBY", "macy's": "M", "macys": "M", "kohl's": "KSS", "nordstrom": "JWN",
+    "kraft heinz": "KHC", "general mills": "GIS", "kellogg": "K", "tyson": "TSN",
+    "mondelez": "MDLZ", "hershey": "HSY", "kroger": "KR", "chipotle": "CMG",
+    "lululemon": "LULU", "under armour": "UAA", "ralph lauren": "RL", "estee lauder": "EL",
+    # More media / telecom
+    "paramount": "PARA", "roku": "ROKU", "t-mobile": "TMUS", "tmobile": "TMUS",
+    "charter": "CHTR", "snap inc": "SNAP",
+    # More industrial / auto / airlines
+    "cummins": "CMI", "emerson": "EMR", "illinois tool": "ITW", "parker hannifin": "PH",
+    "whirlpool": "WHR", "jetblue": "JBLU", "alaska airlines": "ALK", "carnival": "CCL",
+    "norwegian cruise": "NCLH", "royal caribbean": "RCL", "harley": "HOG",
+    "harley-davidson": "HOG", "caterpillar inc": "CAT",
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; TrumpSays/1.0)"}
 
+GN = "https://news.google.com/rss/search?q={}&hl=en-US&gl=US&ceid=US:en"
 RSS_FEEDS = [
-    # Reuters - CI-friendly, no blocking
-    ("Reuters Business",     "https://feeds.reuters.com/reuters/businessNews",                                              "news"),
-    ("Reuters Top News",     "https://feeds.reuters.com/reuters/topNews",                                                   "news"),
-    # AP News
-    ("AP News",              "https://rsshub.app/apnews/topics/politics",                                                   "news"),
-    # Politico
-    ("Politico",             "https://rss.politico.com/politics-news.xml",                                                  "news"),
-    # White House (try — may work in CI)
-    ("White House",          "https://www.whitehouse.gov/feed/",                                                            "official"),
-    # Truth Social
-    ("Truth Social",         "https://truthsocial.com/@realDonaldTrump.rss",                                               "social"),
-    # PBS NewsHour
-    ("PBS NewsHour",         "https://www.pbs.org/newshour/feeds/rss/politics",                                             "news"),
-    # NPR Politics
-    ("NPR Politics",         "https://feeds.npr.org/1014/rss.xml",                                                         "news"),
+    # High-yield: Google News searches targeting Trump + companies / markets.
+    # These return many recent matching articles, so they double as a backfill.
+    ("Google News", GN.format("Trump+says+OR+announces+company"),                 "news"),
+    ("Google News", GN.format("Trump+company+stock+OR+shares+OR+tariff"),         "news"),
+    ("Google News", GN.format("Trump+press+conference+OR+speech+company+stock"),  "news"),
+    ("Google News", GN.format("Trump+Truth+Social+company+OR+CEO"),               "news"),
+    ("Google News", GN.format("Trump+praises+OR+attacks+company"),                "news"),
+    # Venue-specific feeds (so the channel filter has Truth Social / Official items)
+    ("Truth Social", "https://truthsocial.com/@realDonaldTrump.rss",              "social"),
+    ("White House",  "https://www.whitehouse.gov/feed/",                          "official"),
+    # Best-effort general feeds
+    ("PBS NewsHour", "https://www.pbs.org/newshour/feeds/rss/politics",           "news"),
+    ("NPR Politics", "https://feeds.npr.org/1014/rss.xml",                        "news"),
 ]
+
+
+def iso_ts(pub: str) -> str:
+    """Parse an RSS published string to a UTC ISO timestamp (now if unparseable)."""
+    try:
+        return email.utils.parsedate_to_datetime(pub).astimezone(timezone.utc).isoformat()
+    except Exception:
+        return datetime.now(timezone.utc).isoformat()
 
 
 def entry_image(e) -> str | None:
@@ -126,7 +169,7 @@ def fetch_articles() -> list[dict]:
             with urllib.request.urlopen(req, timeout=15) as r:
                 data = r.read()
             feed = feedparser.parse(data)
-            for e in feed.entries[:20]:
+            for e in feed.entries[:40]:
                 t = re.sub(r"<[^>]+>", "", e.get("title", "")).strip()
                 k = t[:60].lower()
                 if not t or k in seen:
@@ -135,12 +178,18 @@ def fetch_articles() -> list[dict]:
                 body = re.sub(r"<[^>]+>", "",
                     e.get("summary", "") or
                     (e.get("content") or [{}])[0].get("value", ""))
+                # Google News items carry the real publisher in <source>
+                try:
+                    publisher = (e.get("source") or {}).get("title")
+                except Exception:
+                    publisher = None
                 out.append({
                     "title":   t,
                     "body":    body[:800],
                     "link":    e.get("link", "#"),
                     "pub":     e.get("published", ""),
-                    "source":  name,
+                    "ts":      iso_ts(e.get("published", "")),
+                    "source":  publisher or name,
                     "type":    src_type,
                     "image":   entry_image(e),
                 })
@@ -240,21 +289,47 @@ def fmt_date(pub: str) -> str:
         return pub[:10] if pub else "Recent"
 
 
+def load_existing() -> dict:
+    """Load the prior data.json so we ACCUMULATE history instead of overwriting it."""
+    try:
+        data = json.loads(OUT.read_text())
+        return {m["id"]: m for m in data.get("mentions", []) if m.get("id")}
+    except Exception:
+        return {}
+
+
+def mk_id(company: str, ticker: str, title: str) -> str:
+    """Stable id for a (company, article) pair so the same mention dedupes across runs."""
+    base = f"{(ticker or company or '').lower()}|{(title or '')[:80].lower()}"
+    return hashlib.sha1(base.encode("utf-8")).hexdigest()[:16]
+
+
+def within_window(m: dict, cutoff_ts: float) -> bool:
+    ts = m.get("ts")
+    if not ts:
+        return True  # keep undated legacy rows
+    try:
+        return datetime.fromisoformat(ts).timestamp() >= cutoff_ts
+    except Exception:
+        return True
+
+
 def run():
     print(f"[{datetime.now():%H:%M:%S}] TrumpSays CI pipeline starting")
+    archive = load_existing()                 # id -> mention  (rolling history)
+    print(f"Loaded {len(archive)} existing mentions")
     articles = fetch_articles()
     print(f"Fetched {len(articles)} articles")
 
-    results, seen_ids = [], set()
     quote_cache = {}
+    new_count = 0
 
     for art in articles:
         companies = find_companies(art["title"] + " " + art["body"])
         for c in companies:
-            uid = f"{art['link'][-20:]}::{c['company'][:10].lower()}"
-            if uid in seen_ids:
-                continue
-            seen_ids.add(uid)
+            uid = mk_id(c["company"], c.get("ticker"), art["title"])
+            if uid in archive:
+                continue  # already recorded — keep its original snapshot (price at the time)
 
             ticker = c.get("ticker")
             if ticker and ticker not in quote_cache:
@@ -270,9 +345,10 @@ def run():
                 "flat"
             )
 
-            results.append({
+            archive[uid] = {
                 "id":           uid,
                 "date":         art["pub"][:16],
+                "ts":           art.get("ts"),
                 "date_display": fmt_date(art["pub"]),
                 "source":       art["source"],
                 "type":         art["type"],
@@ -288,17 +364,24 @@ def run():
                 "channel":      classify_channel(art["source"], art["type"],
                                                   art["title"] + " " + art["body"]),
                 "series":       quote.get("series") if quote else None,
-            })
+            }
+            new_count += 1
 
-    results.sort(key=lambda x: x["date"], reverse=True)
+    print(f"Added {new_count} new mentions")
+
+    # Prune to a rolling window + hard cap, newest first.
+    cutoff = datetime.now(timezone.utc).timestamp() - WINDOW_DAYS * 86400
+    merged = sorted(archive.values(), key=lambda m: m.get("ts") or "", reverse=True)
+    merged = [m for m in merged if within_window(m, cutoff)][:MAX_MENTIONS]
+
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "count":      len(results),
-        "mentions":   results,
+        "count":      len(merged),
+        "mentions":   merged,
     }
     # allow_nan=False fails loudly in CI rather than shipping invalid JSON (bare NaN/Infinity)
     OUT.write_text(json.dumps(payload, indent=2, default=str, allow_nan=False))
-    print(f"Saved {len(results)} mentions → {OUT}")
+    print(f"Saved {len(merged)} mentions → {OUT}  (+{new_count} new this run)")
 
 
 if __name__ == "__main__":
