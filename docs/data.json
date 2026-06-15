@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-06-15T20:08:47.759987+00:00",
-  "count": 85,
+  "updated_at": "2026-06-15T21:30:21.583170+00:00",
+  "count": 87,
   "mentions": [
+    {
+      "id": "0098f495dfc7a982",
+      "date": "Mon, 15 Jun 2026",
+      "ts": "2026-06-15T20:43:00+00:00",
+      "date_display": "Jun 15, 2026",
+      "source": "Investor's Business Daily",
+      "type": "news",
+      "quote": "Dow Pops On Trump-Iran Deal; Elon Musk's SpaceX Rockets, Tesla Does This - Investor's Business Daily Stock Market Today:",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 411.15,
+      "change": 1.16,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTdPUnFhNERYS29PTjFTYmpOWEx5V2c3R1VkRHg3NDBXY0Q1c3RkYVJDQ1pqMUxyQXVKZF9aUWFsNUhJaDRPRVRNWjZpbGVKVlA0WGRHV3hmMTM4T21kdkhYU0gyTldMNGZjWHhqSjh3SXB1Q2cxTzcyeXpTSVoxVTN3MjRyRVUwVE1acU8tQm1sLUswMFpzTFREZjMxV2F4bXhGM0l4dDk?oc=5",
+      "image": null,
+      "headline": "Stock Market Today: Dow Pops On Trump-Iran Deal; Elon Musk's SpaceX Rockets, Tesla Does This - Investor's Business Daily",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 409.99
+        },
+        {
+          "d": "05-19",
+          "c": 404.11
+        },
+        {
+          "d": "05-20",
+          "c": 417.26
+        },
+        {
+          "d": "05-21",
+          "c": 417.85
+        },
+        {
+          "d": "05-22",
+          "c": 426.01
+        },
+        {
+          "d": "05-26",
+          "c": 433.59
+        },
+        {
+          "d": "05-27",
+          "c": 440.36
+        },
+        {
+          "d": "05-28",
+          "c": 442.1
+        },
+        {
+          "d": "05-29",
+          "c": 435.79
+        },
+        {
+          "d": "06-01",
+          "c": 415.88
+        },
+        {
+          "d": "06-02",
+          "c": 423.74
+        },
+        {
+          "d": "06-03",
+          "c": 423.7
+        },
+        {
+          "d": "06-04",
+          "c": 418.45
+        },
+        {
+          "d": "06-05",
+          "c": 391.0
+        },
+        {
+          "d": "06-08",
+          "c": 408.95
+        },
+        {
+          "d": "06-09",
+          "c": 396.68
+        },
+        {
+          "d": "06-10",
+          "c": 381.59
+        },
+        {
+          "d": "06-11",
+          "c": 399.15
+        },
+        {
+          "d": "06-12",
+          "c": 406.43
+        },
+        {
+          "d": "06-15",
+          "c": 411.15
+        }
+      ]
+    },
     {
       "id": "6ed528d5a3550a9a",
       "date": "Mon, 15 Jun 2026",
@@ -1548,6 +1648,106 @@
         {
           "d": "06-12",
           "c": 7.8
+        }
+      ]
+    },
+    {
+      "id": "790782113f46f7c2",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T13:13:06+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "Bloomberg",
+      "type": "news",
+      "quote": "Trump Media, TAE No Longer Pursuing Truth Social Spinoff - Bloomberg",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.44,
+      "change": 8.21,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc201QmhTOWhqVHRpQVQ4VDZtbW5mN3JheThpenFhZEdiQWNGSzhkWi0wZmhkYXRyWG1QQmo5bER2b21lMnpLajVKckRmSUZacHM4OTg0Vy1CRk1EcGRUQzV0X3l5MmRZbFRYLXJqTDBFNVF0eFdoeFVKM1dMbHBjeUVFbXAwWU9HaGF5RWFHMGwyQnNua0RyaGxPNWJ0cU5FWkRNLXFTV3BEQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media, TAE No Longer Pursuing Truth Social Spinoff - Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 8.27
+        },
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
         }
       ]
     },
