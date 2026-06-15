@@ -7,7 +7,8 @@ module.exports = async (req, res) => {
     res.status(401).json({ ok: false, error: 'unauthorized' });
     return;
   }
-  const url = process.env.KV_REST_API_URL, token = process.env.KV_REST_API_TOKEN;
+  const url = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
+  const token = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
   if (!(url && token)) {
     res.status(200).json({ ok: true, count: 0, subscribers: [], note: 'KV not configured — connect a Vercel KV store to persist signups.' });
     return;
