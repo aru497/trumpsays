@@ -1,6 +1,23 @@
 // POST /api/subscribe  { email, ref }
-// Stores the email in Vercel KV (Upstash) when configured; otherwise logs it
-// (visible in Vercel function logs) so the flow works as a "dummy" until KV is wired.
+// Stores the email in Vercel KV / Upstash Redis (REST) when configured; otherwise
+// logs it (Vercel function logs) so the flow works as a "dummy" until KV is wired.
+
+// Resolve the KV/Upstash REST creds from env, tolerating any store-name prefix
+// (e.g. Vercel sets TRUMPSAYS_KV_REST_API_URL when the store is named "trumpsays").
+function kvCreds() {
+  const e = process.env;
+  let url = e.KV_REST_API_URL || e.UPSTASH_REDIS_REST_URL;
+  let token = e.KV_REST_API_TOKEN || e.UPSTASH_REDIS_REST_TOKEN;
+  if (url && token) return { url, token };
+  const uk = Object.keys(e).find(k => /KV_REST_API_URL$|UPSTASH_REDIS_REST_URL$/.test(k));
+  if (uk) {
+    const p = uk.replace(/KV_REST_API_URL$|UPSTASH_REDIS_REST_URL$/, '');
+    url = e[uk];
+    token = e[p + 'KV_REST_API_TOKEN'] || e[p + 'UPSTASH_REDIS_REST_TOKEN'] || token;
+  }
+  return { url, token };
+}
+
 module.exports = async (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
@@ -19,8 +36,7 @@ module.exports = async (req, res) => {
   }
   const record = { email, ts: new Date().toISOString(), ref: String(body.ref || '').slice(0, 80) };
 
-  const url = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
-  const token = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
+  const { url, token } = kvCreds();
   if (url && token) {
     try {
       // HSET subscribers <email> <json>  → dedupes by email, keeps latest record
