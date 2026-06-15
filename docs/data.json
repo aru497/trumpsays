@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-06-15T16:35:25.972358+00:00",
-  "count": 77,
+  "updated_at": "2026-06-15T18:33:11.524114+00:00",
+  "count": 81,
   "mentions": [
+    {
+      "id": "6ed528d5a3550a9a",
+      "date": "Mon, 15 Jun 2026",
+      "ts": "2026-06-15T17:37:31+00:00",
+      "date_display": "Jun 15, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Media Stock Is Jumping Today: What's Happening? - Benzinga Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.43,
+      "change": 8.08,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2tGQ2xSb25BUTBfaVdvLUw4bTV3NEtVS21mNnlLWHlGRWZYU1NvQWl6N1VCU0tqenRPRkp2NGVXSS1mYmdoSk1QQlRGWUVHUEdxNVdzMnI1aGtVVU1yYXFVTWZjSUtVSFV5enJfblo4dng5WVg3VkVENVRIV3VxcWt1VU9pREpvbW9HY1ZIYWgwSGdEMll4WEpESVFSRGhIbXNZN3RVeTNCbzQ5TW9pdA?oc=5",
+      "image": null,
+      "headline": "Trump Media Stock Is Jumping Today: What's Happening? - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-15",
+          "c": 8.67
+        },
+        {
+          "d": "05-18",
+          "c": 8.27
+        },
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.43
+        }
+      ]
+    },
     {
       "id": "9bde9c17600c739f",
       "date": "Mon, 15 Jun 2026",
@@ -211,6 +315,110 @@
         {
           "d": "06-12",
           "c": 123.97
+        }
+      ]
+    },
+    {
+      "id": "f05c3dd21069bc00",
+      "date": "Mon, 15 Jun 2026",
+      "ts": "2026-06-15T09:00:00+00:00",
+      "date_display": "Jun 15, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 133.48,
+      "change": 7.67,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
+      "image": null,
+      "headline": "Do internet super stars matter in elections?",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-15",
+          "c": 177.42
+        },
+        {
+          "d": "05-18",
+          "c": 166.63
+        },
+        {
+          "d": "05-19",
+          "c": 164.63
+        },
+        {
+          "d": "05-20",
+          "c": 165.81
+        },
+        {
+          "d": "05-21",
+          "c": 164.85
+        },
+        {
+          "d": "05-22",
+          "c": 159.89
+        },
+        {
+          "d": "05-26",
+          "c": 159.93
+        },
+        {
+          "d": "05-27",
+          "c": 154.2
+        },
+        {
+          "d": "05-28",
+          "c": 151.64
+        },
+        {
+          "d": "05-29",
+          "c": 159.09
+        },
+        {
+          "d": "06-01",
+          "c": 149.78
+        },
+        {
+          "d": "06-02",
+          "c": 136.08
+        },
+        {
+          "d": "06-03",
+          "c": 126.55
+        },
+        {
+          "d": "06-04",
+          "c": 129.37
+        },
+        {
+          "d": "06-05",
+          "c": 120.44
+        },
+        {
+          "d": "06-08",
+          "c": 127.2
+        },
+        {
+          "d": "06-09",
+          "c": 117.02
+        },
+        {
+          "d": "06-10",
+          "c": 115.35
+        },
+        {
+          "d": "06-11",
+          "c": 120.15
+        },
+        {
+          "d": "06-12",
+          "c": 123.97
+        },
+        {
+          "d": "06-15",
+          "c": 133.48
         }
       ]
     },
@@ -7280,6 +7488,110 @@
       ]
     },
     {
+      "id": "9f9bc25a7347d5da",
+      "date": "Wed, 22 Apr 2026",
+      "ts": "2026-04-22T07:00:00+00:00",
+      "date_display": "Apr 22, 2026",
+      "source": "National Desk",
+      "type": "news",
+      "quote": "Trump Media replaces Devin Nunes as CEO amid stock price drop -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.43,
+      "change": 8.08,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMXVXbmFNbDhMeFNYRWVPY2ZRbngwUW1XSE11UkVsR01hOExjakxENVBkLU1tMnRlTFBYY1JYSkM0YnhFY1d5VE44aWo0Sk5oWGZrcVlSQ3BzTWJ5MTRvclBZTEFONmdOX1VNNGZycGhxZ1lVOFBiOUtIUEdEYmpaVTNlTmhDX2VnRjVGQ0NReUhQN0E5VWpDV0c5RVVfTFExNW9heUkzMTRFd2UzZ0tHSlVvcHVmaG83ZlFCU1U4VXltWkZTSDVRSVZLRVo4bTQ?oc=5",
+      "image": null,
+      "headline": "Trump Media replaces Devin Nunes as CEO amid stock price drop - National Desk",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-15",
+          "c": 8.67
+        },
+        {
+          "d": "05-18",
+          "c": 8.27
+        },
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.43
+        }
+      ]
+    },
+    {
       "id": "5355d4b02f988bf2",
       "date": "Tue, 21 Apr 2026",
       "ts": "2026-04-21T07:00:00+00:00",
@@ -7492,6 +7804,110 @@
         {
           "d": "06-12",
           "c": 7.8
+        }
+      ]
+    },
+    {
+      "id": "309566eab0921a1f",
+      "date": "Tue, 21 Apr 2026",
+      "ts": "2026-04-21T07:00:00+00:00",
+      "date_display": "Apr 21, 2026",
+      "source": "The Hill",
+      "type": "news",
+      "quote": "Trump praises Tim Cook on departure from Apple: \u2018I have always been a big fan\u2019 - The Hill Trump praises",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.26,
+      "change": 1.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQkh0TE5NQjdSUjdsVFh6Z1E2NVhNR05OVUVSM2IyYUk4ZklJYnJtMXBCblJFcUJBLXZYZ3ZwNE9TUXBKVTcwNHVPQldCZlFQMmhEZlFNRkE4RVhxbXdieTRWbkprS3Y5aUYtMnFNY1NMeWI0OWRtSUlHWnh2QzlJNWFZcUNSankz0gGOAUFVX3lxTFBacGNNSWFHTFNqMnhtbWVPWU5BbEpZZFEzdnIwbTVSazRnSEhxSlp2TFZZckd2TUx6QUs3eE5xTXB3UXZaMEc2VnVRZGtUSS1iSlBGM0NLOU9OaWNXMFh4bGJHRExCRkRsb2pMR2tLMGtES29YczRjOXFsY19ieUdhSS1TaHIwS0ZoNXQxclE?oc=5",
+      "image": null,
+      "headline": "Trump praises Tim Cook on departure from Apple: \u2018I have always been a big fan\u2019 - The Hill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-15",
+          "c": 300.23
+        },
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 295.26
         }
       ]
     },
