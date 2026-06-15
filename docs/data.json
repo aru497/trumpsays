@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-06-15T07:15:41.351709+00:00",
-  "count": 67,
+  "updated_at": "2026-06-15T09:36:41.698445+00:00",
+  "count": 73,
   "mentions": [
+    {
+      "id": "ec13fed262436804",
+      "date": "Mon, 15 Jun 2026",
+      "ts": "2026-06-15T09:00:00+00:00",
+      "date_display": "Jun 15, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 123.97,
+      "change": 3.18,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
+      "image": null,
+      "headline": "Campaigns are embracing influencers, but internet stardom doesn't always win votes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-13",
+          "c": 178.03
+        },
+        {
+          "d": "05-14",
+          "c": 186.97
+        },
+        {
+          "d": "05-15",
+          "c": 177.42
+        },
+        {
+          "d": "05-18",
+          "c": 166.63
+        },
+        {
+          "d": "05-19",
+          "c": 164.63
+        },
+        {
+          "d": "05-20",
+          "c": 165.81
+        },
+        {
+          "d": "05-21",
+          "c": 164.85
+        },
+        {
+          "d": "05-22",
+          "c": 159.89
+        },
+        {
+          "d": "05-26",
+          "c": 159.93
+        },
+        {
+          "d": "05-27",
+          "c": 154.2
+        },
+        {
+          "d": "05-28",
+          "c": 151.64
+        },
+        {
+          "d": "05-29",
+          "c": 159.09
+        },
+        {
+          "d": "06-01",
+          "c": 149.78
+        },
+        {
+          "d": "06-02",
+          "c": 136.08
+        },
+        {
+          "d": "06-03",
+          "c": 126.55
+        },
+        {
+          "d": "06-04",
+          "c": 129.37
+        },
+        {
+          "d": "06-05",
+          "c": 120.44
+        },
+        {
+          "d": "06-08",
+          "c": 127.2
+        },
+        {
+          "d": "06-09",
+          "c": 117.02
+        },
+        {
+          "d": "06-10",
+          "c": 115.35
+        },
+        {
+          "d": "06-11",
+          "c": 120.15
+        },
+        {
+          "d": "06-12",
+          "c": 123.97
+        }
+      ]
+    },
     {
       "id": "330b2d8f7f389dd9",
       "date": "Sun, 14 Jun 2026",
@@ -1460,6 +1568,114 @@
         {
           "d": "06-12",
           "c": 272.24
+        }
+      ]
+    },
+    {
+      "id": "09d84407fdec03c3",
+      "date": "Sun, 31 May 2026",
+      "ts": "2026-05-31T07:00:00+00:00",
+      "date_display": "May 31, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 395.57,
+      "change": 1.05,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOE5BamlfOUlfalNFc3ZZcW9pNWRpWVUtUEJuQmpBV0JzclRydlJyMjhnaUdVMm5FQ0ZBY2xEdS0yQ0xJTFk5cTNTWjJOWF81dHVjemxUZW1HZ3M5ckw4aHA1a0NYVHE0S1J2b2huY0Y0bXROOXJzOXFKWjh3TldCZHlGWFJtOV9ZQU53UUNpMTI0T1pqeEdKdWVR?oc=5",
+      "image": null,
+      "headline": "Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255% - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-13",
+          "c": 243.87
+        },
+        {
+          "d": "05-14",
+          "c": 247.89
+        },
+        {
+          "d": "05-15",
+          "c": 241.99
+        },
+        {
+          "d": "05-18",
+          "c": 238.03
+        },
+        {
+          "d": "05-19",
+          "c": 235.26
+        },
+        {
+          "d": "05-20",
+          "c": 242.93
+        },
+        {
+          "d": "05-21",
+          "c": 252.8
+        },
+        {
+          "d": "05-22",
+          "c": 295.19
+        },
+        {
+          "d": "05-26",
+          "c": 305.08
+        },
+        {
+          "d": "05-27",
+          "c": 305.32
+        },
+        {
+          "d": "05-28",
+          "c": 317.05
+        },
+        {
+          "d": "05-29",
+          "c": 420.91
+        },
+        {
+          "d": "06-01",
+          "c": 465.96
+        },
+        {
+          "d": "06-02",
+          "c": 435.31
+        },
+        {
+          "d": "06-03",
+          "c": 421.08
+        },
+        {
+          "d": "06-04",
+          "c": 422.05
+        },
+        {
+          "d": "06-05",
+          "c": 394.39
+        },
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
         }
       ]
     },
@@ -5460,6 +5676,330 @@
       ]
     },
     {
+      "id": "efb311beb779fe94",
+      "date": "Fri, 24 Apr 2026",
+      "ts": "2026-04-24T07:00:00+00:00",
+      "date_display": "Apr 24, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Prediction Markets. His Family Invests in Them. - The New York Times Trump Says He Dislikes Prediction Markets. His Family",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.38,
+      "change": -1.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa25xZTI4WXNrMFk4SDNyNGJXZUU2NkpiRDc3WElPbmVhQVBMOUV1dFZYMF9YbXBCcVFwY21pOGxaODRKV1hkZFNBZkxrX0lXQ3dNaFZTLTczaW5rekJIbjdQU0tXZ1RQOTVNcHBWM1BvY3JGSWV4N2dFc0FiRU44WUhR?oc=5",
+      "image": null,
+      "headline": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them. - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-13",
+          "c": 77.0
+        },
+        {
+          "d": "05-14",
+          "c": 75.5
+        },
+        {
+          "d": "05-15",
+          "c": 74.48
+        },
+        {
+          "d": "05-18",
+          "c": 76.68
+        },
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        }
+      ]
+    },
+    {
+      "id": "86599295f3f4a2ae",
+      "date": "Thu, 23 Apr 2026",
+      "ts": "2026-04-23T07:00:00+00:00",
+      "date_display": "Apr 23, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump announces drug pricing deal with Regeneron - Reuters Trump announces drug pricing deal with",
+      "company": "Regeneron",
+      "ticker": "REGN",
+      "price": 612.14,
+      "change": 0.11,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGtkYzFsX0VIS3dhUUtGOF9pSEhaa2RoNmlieTh0QWR0TTJpRlZNRlNDMzBfMGRfUHhiZzdUdFE2d2hwU2ppbW5WeFZXYVloOVpXLVkzOXJfeWpsenlsRE1yX3dvUEpUZVd4V2hkSS1TNU83cEI4UURqWlFfeUwxMl9ycVFJdlhsQmU4UU9QWl9VRHlGZkFPRVRNQmdELXZ0alcyZTE1MVN6NF9NS212eGVGbC1mT0xyRG10U0lyMWdyRkpYd3FqOU0zWmVNWkhySU8w?oc=5",
+      "image": null,
+      "headline": "Trump announces drug pricing deal with Regeneron - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-13",
+          "c": 718.81
+        },
+        {
+          "d": "05-14",
+          "c": 711.81
+        },
+        {
+          "d": "05-15",
+          "c": 697.21
+        },
+        {
+          "d": "05-18",
+          "c": 628.74
+        },
+        {
+          "d": "05-19",
+          "c": 629.36
+        },
+        {
+          "d": "05-20",
+          "c": 649.76
+        },
+        {
+          "d": "05-21",
+          "c": 642.59
+        },
+        {
+          "d": "05-22",
+          "c": 638.88
+        },
+        {
+          "d": "05-26",
+          "c": 634.62
+        },
+        {
+          "d": "05-27",
+          "c": 627.74
+        },
+        {
+          "d": "05-28",
+          "c": 621.52
+        },
+        {
+          "d": "05-29",
+          "c": 614.78
+        },
+        {
+          "d": "06-01",
+          "c": 600.66
+        },
+        {
+          "d": "06-02",
+          "c": 602.92
+        },
+        {
+          "d": "06-03",
+          "c": 618.95
+        },
+        {
+          "d": "06-04",
+          "c": 628.73
+        },
+        {
+          "d": "06-05",
+          "c": 635.45
+        },
+        {
+          "d": "06-08",
+          "c": 611.34
+        },
+        {
+          "d": "06-09",
+          "c": 616.18
+        },
+        {
+          "d": "06-10",
+          "c": 601.65
+        },
+        {
+          "d": "06-11",
+          "c": 611.48
+        },
+        {
+          "d": "06-12",
+          "c": 612.14
+        }
+      ]
+    },
+    {
+      "id": "4c1d396180ed95e8",
+      "date": "Thu, 23 Apr 2026",
+      "ts": "2026-04-23T07:00:00+00:00",
+      "date_display": "Apr 23, 2026",
+      "source": "PBS",
+      "type": "news",
+      "quote": "WATCH: Trump unveils deal with Regeneron to lower its drug prices for Medicaid - PBS WATCH: Trump",
+      "company": "Regeneron",
+      "ticker": "REGN",
+      "price": 612.14,
+      "change": 0.11,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0dMbmVxNUw0YTVoT2FiT0RYT1hWenRMMk9kOXdjSWJNSTRQRE95TU9FZllGZjN4QjdEcnB2X1Itdm9FNGFoakFteE9qZXpCbXFTQ0tNZGdraV9wNUU3dFlvaXB6NlYzTGUxZ0ROUVpxbG15RjQwcmpJMWhnc290SFNWTmlBanZzNjRUWjNjZmtYTEU1bnkxWVhtckJndTJWTHdnemEwUk94OE5qQVhQeFNhcUthUQ?oc=5",
+      "image": null,
+      "headline": "WATCH: Trump unveils deal with Regeneron to lower its drug prices for Medicaid - PBS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-13",
+          "c": 718.81
+        },
+        {
+          "d": "05-14",
+          "c": 711.81
+        },
+        {
+          "d": "05-15",
+          "c": 697.21
+        },
+        {
+          "d": "05-18",
+          "c": 628.74
+        },
+        {
+          "d": "05-19",
+          "c": 629.36
+        },
+        {
+          "d": "05-20",
+          "c": 649.76
+        },
+        {
+          "d": "05-21",
+          "c": 642.59
+        },
+        {
+          "d": "05-22",
+          "c": 638.88
+        },
+        {
+          "d": "05-26",
+          "c": 634.62
+        },
+        {
+          "d": "05-27",
+          "c": 627.74
+        },
+        {
+          "d": "05-28",
+          "c": 621.52
+        },
+        {
+          "d": "05-29",
+          "c": 614.78
+        },
+        {
+          "d": "06-01",
+          "c": 600.66
+        },
+        {
+          "d": "06-02",
+          "c": 602.92
+        },
+        {
+          "d": "06-03",
+          "c": 618.95
+        },
+        {
+          "d": "06-04",
+          "c": 628.73
+        },
+        {
+          "d": "06-05",
+          "c": 635.45
+        },
+        {
+          "d": "06-08",
+          "c": 611.34
+        },
+        {
+          "d": "06-09",
+          "c": 616.18
+        },
+        {
+          "d": "06-10",
+          "c": 601.65
+        },
+        {
+          "d": "06-11",
+          "c": 611.48
+        },
+        {
+          "d": "06-12",
+          "c": 612.14
+        }
+      ]
+    },
+    {
       "id": "871228d3a28a15bd",
       "date": "Wed, 22 Apr 2026",
       "ts": "2026-04-22T07:00:00+00:00",
@@ -6536,6 +7076,114 @@
         {
           "d": "06-12",
           "c": 7.8
+        }
+      ]
+    },
+    {
+      "id": "dfe6ec00a4ba2ff3",
+      "date": "Mon, 20 Apr 2026",
+      "ts": "2026-04-20T07:00:00+00:00",
+      "date_display": "Apr 20, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Praises Palantir's Technology: Is the Stock Destined to Go Higher? - Yahoo",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 127.99,
+      "change": -2.36,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelBxaE1zejlwcE1TRjhjbUJMWGllaDgxTFl2bFJNbzVPVHYtcG1KX1JSaS1pMURsaEJmY1B6RjlwLWxvZ2cwRzhTd1pTNkdua1ZyUlFURi1KV0xycml0QVd5OC1vOUxJOE9CVl9qd2ZKUnRJX19IRndFU0Z6NG5peWF3aHlyLURwNGR5YUtMbkp2SjRFWjBjTVJOYjB5SWwycUNaWGhYYjY?oc=5",
+      "image": null,
+      "headline": "Trump Praises Palantir's Technology: Is the Stock Destined to Go Higher? - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-13",
+          "c": 130.05
+        },
+        {
+          "d": "05-14",
+          "c": 133.73
+        },
+        {
+          "d": "05-15",
+          "c": 133.99
+        },
+        {
+          "d": "05-18",
+          "c": 135.14
+        },
+        {
+          "d": "05-19",
+          "c": 135.26
+        },
+        {
+          "d": "05-20",
+          "c": 137.15
+        },
+        {
+          "d": "05-21",
+          "c": 137.41
+        },
+        {
+          "d": "05-22",
+          "c": 136.88
+        },
+        {
+          "d": "05-26",
+          "c": 136.6
+        },
+        {
+          "d": "05-27",
+          "c": 132.51
+        },
+        {
+          "d": "05-28",
+          "c": 143.34
+        },
+        {
+          "d": "05-29",
+          "c": 156.54
+        },
+        {
+          "d": "06-01",
+          "c": 160.65
+        },
+        {
+          "d": "06-02",
+          "c": 152.17
+        },
+        {
+          "d": "06-03",
+          "c": 142.2
+        },
+        {
+          "d": "06-04",
+          "c": 141.7
+        },
+        {
+          "d": "06-05",
+          "c": 135.53
+        },
+        {
+          "d": "06-08",
+          "c": 136.47
+        },
+        {
+          "d": "06-09",
+          "c": 132.07
+        },
+        {
+          "d": "06-10",
+          "c": 130.21
+        },
+        {
+          "d": "06-11",
+          "c": 131.08
+        },
+        {
+          "d": "06-12",
+          "c": 127.99
         }
       ]
     },
