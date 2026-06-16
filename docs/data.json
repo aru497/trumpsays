@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-06-15T23:08:26.021756+00:00",
-  "count": 88,
+  "updated_at": "2026-06-16T00:04:24.984981+00:00",
+  "count": 90,
   "mentions": [
+    {
+      "id": "0095d80a733a6381",
+      "date": "Mon, 15 Jun 2026",
+      "ts": "2026-06-15T22:24:00+00:00",
+      "date_display": "Jun 15, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "the White House got Trump family stablecoins\u2014and a legal gap makes it possible - Fortune UFC fighters at the White",
+      "company": "Gap",
+      "ticker": "GPS",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUV4dmQ1QXh0Rmw4VjRiazFmMUYyX3QtS2tZQzZqVldHLU52ZEZic09UdjZxWmJWZ3hrLXU1aU9WMmh1Q1FqazBCU05BT3BKbHE5RFBWUWN5OEgxN0JnN2Jjakt4Z3VnTjQ1ZHRVeEV3NlpZUWplS24ySWxBTVUxSFcyUmQtdk95UTNuSkdyM3BGRDNq?oc=5",
+      "image": null,
+      "headline": "UFC fighters at the White House got Trump family stablecoins\u2014and a legal gap makes it possible - Fortune",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "0098f495dfc7a982",
       "date": "Mon, 15 Jun 2026",
@@ -222,6 +241,106 @@
       "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnpoOG1sSVR4SVV1ZWlTeWREMS1McGtxLTRKdmJscy14akxYeG5URHFxd1dEX1NSMHZlUWt1ODE0RmpJenpVeTlCQV91Ml93QWVqeFI4TVdLS3dXbUxoUnJ1Q0wydHAzNU9xbVRNeTUxTm1qdFNkVm13SndTUFdiT2VZaEFuLXZ2cVZmV0xsVVA4UUhUNEt5eWlpVEVXTlFuVkdCNDUzMms4T2x4dWdCS3BXY0dPbi1YZ0VJ0gHAAUFVX3lxTE1hUnNlVzJHTTdHanNubWNXdmFUellnV2pTeVBUelJrSHBHNG11MEg3RHVScW5EUmxobmJGN3paaFEzNkR1MkRzZDl3YU5HMnlob2Y1emtrOXhzU2hWRzREU1ZoaWRTd2cxMTVObXVLU3dhdXpLQjgwSExDWnoycFhmZ3RPZHVBellEVDA4Z2M4cUVzZEx1aEZkMXl4b01xaVFxUnF1cVZLeDMyakE3TmVBNTRSa2lmOUZYTXNLNl9LYg?oc=5",
       "image": null,
       "headline": "Trump threatens 100% tariff on French wines over digital services tax before G7 summit - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 58.99
+        },
+        {
+          "d": "05-19",
+          "c": 58.09
+        },
+        {
+          "d": "05-20",
+          "c": 57.38
+        },
+        {
+          "d": "05-21",
+          "c": 57.63
+        },
+        {
+          "d": "05-22",
+          "c": 57.24
+        },
+        {
+          "d": "05-26",
+          "c": 58.08
+        },
+        {
+          "d": "05-27",
+          "c": 58.62
+        },
+        {
+          "d": "05-28",
+          "c": 59.23
+        },
+        {
+          "d": "05-29",
+          "c": 57.39
+        },
+        {
+          "d": "06-01",
+          "c": 59.84
+        },
+        {
+          "d": "06-02",
+          "c": 58.65
+        },
+        {
+          "d": "06-03",
+          "c": 57.44
+        },
+        {
+          "d": "06-04",
+          "c": 58.73
+        },
+        {
+          "d": "06-05",
+          "c": 59.88
+        },
+        {
+          "d": "06-08",
+          "c": 60.34
+        },
+        {
+          "d": "06-09",
+          "c": 60.9
+        },
+        {
+          "d": "06-10",
+          "c": 61.03
+        },
+        {
+          "d": "06-11",
+          "c": 61.36
+        },
+        {
+          "d": "06-12",
+          "c": 58.92
+        },
+        {
+          "d": "06-15",
+          "c": 49.96
+        }
+      ]
+    },
+    {
+      "id": "b09acaa5fdf2bf2c",
+      "date": "Mon, 15 Jun 2026",
+      "ts": "2026-06-15T15:31:02+00:00",
+      "date_display": "Jun 15, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "American success under Trump, Steve Forbes says - Fox Business Democrats fail to celebrate American success",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 49.96,
+      "change": -15.21,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Ymk5ZlJxMFcyR2FJeHBOVGtjNi1lZVpWcDU0NDg2a3RZWmJQb0NzVVMzNjZxbGJHTTdTNGRYbS1UUUhvRUJ0bnNPVi1OU0V1RXM3RU9IRHl2TE0?oc=5",
+      "image": null,
+      "headline": "Democrats fail to celebrate American success under Trump, Steve Forbes says - Fox Business",
       "channel": "News",
       "series": [
         {
