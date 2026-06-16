@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-06-16T15:14:23.639109+00:00",
-  "count": 100,
+  "updated_at": "2026-06-16T17:14:07.698421+00:00",
+  "count": 102,
   "mentions": [
+    {
+      "id": "0a2e49d738d9329f",
+      "date": "Tue, 16 Jun 2026",
+      "ts": "2026-06-16T03:29:50+00:00",
+      "date_display": "Jun 16, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Newsom Says Trump Is Investigating Him and His Wife - The New York Times Gov. Gavin Newsom Says Trump Is Investigating Him and His",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.85,
+      "change": 0.07,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PV2E0UVZiRG1JREN6Snd5bnZuNExMUmpidWxjVGV2UER3OU8ydVJJbVlIWFRrSDVnS0xQdXdRcHk1U3Z0S2Z6SzgxQzJjMFRoT3dNU0Q3WHlZdW4tdFc4VlltMU4wOWlyT0diaGN6S3k1akxnTWU3bWtDTHVtUQ?oc=5",
+      "image": null,
+      "headline": "Gov. Gavin Newsom Says Trump Is Investigating Him and His Wife - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 76.68
+        },
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.85
+        }
+      ]
+    },
     {
       "id": "0095d80a733a6381",
       "date": "Mon, 15 Jun 2026",
@@ -1038,6 +1142,110 @@
         {
           "d": "06-15",
           "c": 49.84
+        }
+      ]
+    },
+    {
+      "id": "cd3c02ec8c71d733",
+      "date": "Sun, 14 Jun 2026",
+      "ts": "2026-06-14T22:22:56+00:00",
+      "date_display": "Jun 14, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Reach Preliminary Deal to Reopen Strait of Hormuz - The New York Times Stocks Surge as U.S. and Iran Reach Preliminary Deal to",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.85,
+      "change": 0.07,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PUV9MNExyY21ZM3FaaFJ5bHl3aVhZWllTUEZKcU1KT3NIZnVkM1dPMVJwODNHRXBtTDc0R2hGeVhqQktDZGExZ29MTzBFZDVkUlZLOENzbGlqX1JzbExhZVNhQmNLWXdUb19UWmZWaXhwM1FlMFFR?oc=5",
+      "image": null,
+      "headline": "Stocks Surge as U.S. and Iran Reach Preliminary Deal to Reopen Strait of Hormuz - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 76.68
+        },
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.85
         }
       ]
     },
