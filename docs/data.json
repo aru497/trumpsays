@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-06-17T07:41:23.506618+00:00",
-  "count": 105,
+  "updated_at": "2026-06-17T09:31:44.853514+00:00",
+  "count": 111,
   "mentions": [
+    {
+      "id": "fb63a2436587f325",
+      "date": "Tue, 16 Jun 2026",
+      "ts": "2026-06-16T14:48:16+00:00",
+      "date_display": "Jun 16, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump announces U.S.-Iran peace deal in Switzerland - Fox Business Oil prices plunge after Trump announces U.S.-Iran",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 49.96,
+      "change": -15.21,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wdlY0RENoU19seWRqQjBWd0swQ1B3R2l3aDVUMU1UMzJ6aFZzZUQ3Yy14bmNoWkNJWjJ6SWs3ajRsWUFsNGtIZU1PYWFISVlHTllNQTdJdTQwSXM?oc=5",
+      "image": null,
+      "headline": "Oil prices plunge after Trump announces U.S.-Iran peace deal in Switzerland - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 58.99
+        },
+        {
+          "d": "05-19",
+          "c": 58.09
+        },
+        {
+          "d": "05-20",
+          "c": 57.38
+        },
+        {
+          "d": "05-21",
+          "c": 57.63
+        },
+        {
+          "d": "05-22",
+          "c": 57.24
+        },
+        {
+          "d": "05-26",
+          "c": 58.08
+        },
+        {
+          "d": "05-27",
+          "c": 58.62
+        },
+        {
+          "d": "05-28",
+          "c": 59.23
+        },
+        {
+          "d": "05-29",
+          "c": 57.39
+        },
+        {
+          "d": "06-01",
+          "c": 59.84
+        },
+        {
+          "d": "06-02",
+          "c": 58.65
+        },
+        {
+          "d": "06-03",
+          "c": 57.44
+        },
+        {
+          "d": "06-04",
+          "c": 58.73
+        },
+        {
+          "d": "06-05",
+          "c": 59.88
+        },
+        {
+          "d": "06-08",
+          "c": 60.34
+        },
+        {
+          "d": "06-09",
+          "c": 60.9
+        },
+        {
+          "d": "06-10",
+          "c": 61.03
+        },
+        {
+          "d": "06-11",
+          "c": 61.36
+        },
+        {
+          "d": "06-12",
+          "c": 58.92
+        },
+        {
+          "d": "06-15",
+          "c": 49.96
+        }
+      ]
+    },
     {
       "id": "10e41b89a4431d3c",
       "date": "Tue, 16 Jun 2026",
@@ -3003,6 +3103,110 @@
       ]
     },
     {
+      "id": "3038fae0d37a2db2",
+      "date": "Mon, 01 Jun 2026",
+      "ts": "2026-06-01T07:00:00+00:00",
+      "date_display": "Jun 01, 2026",
+      "source": "Bloomberg.com",
+      "type": "news",
+      "quote": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates -",
+      "company": "Ibm",
+      "ticker": "IBM",
+      "price": 270.81,
+      "change": 0.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEEyVWh6UjJlMUtEU2s1RzF5cWdpSHJfQXdrY0FxdXJERi1CdFdTcFc3b3dXTTdFdTdnZEdZc2N5cHRHd1FzN0pyU0ZNTm8zNC1iMTN2aDlnRzVfTUZkMVc3NzhYOENDdDIzWnV1UE1rSXlTX3VCNm1XTVI1VU0zZ0hGejRKcFRsZ1RiOUFZc2pQa1Q5WkdSX0ZCQ0wzSmNhbk54bUliY29OTzNaLWd0SG9HbHc3QQ?oc=5",
+      "image": null,
+      "headline": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Bloomberg.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 222.75
+        },
+        {
+          "d": "05-19",
+          "c": 222.33
+        },
+        {
+          "d": "05-20",
+          "c": 225.0
+        },
+        {
+          "d": "05-21",
+          "c": 252.97
+        },
+        {
+          "d": "05-22",
+          "c": 253.84
+        },
+        {
+          "d": "05-26",
+          "c": 250.69
+        },
+        {
+          "d": "05-27",
+          "c": 255.2
+        },
+        {
+          "d": "05-28",
+          "c": 264.22
+        },
+        {
+          "d": "05-29",
+          "c": 297.8
+        },
+        {
+          "d": "06-01",
+          "c": 320.42
+        },
+        {
+          "d": "06-02",
+          "c": 329.23
+        },
+        {
+          "d": "06-03",
+          "c": 305.63
+        },
+        {
+          "d": "06-04",
+          "c": 301.77
+        },
+        {
+          "d": "06-05",
+          "c": 284.84
+        },
+        {
+          "d": "06-08",
+          "c": 280.82
+        },
+        {
+          "d": "06-09",
+          "c": 277.49
+        },
+        {
+          "d": "06-10",
+          "c": 272.36
+        },
+        {
+          "d": "06-11",
+          "c": 274.85
+        },
+        {
+          "d": "06-12",
+          "c": 272.24
+        },
+        {
+          "d": "06-15",
+          "c": 268.71
+        },
+        {
+          "d": "06-16",
+          "c": 270.81
+        }
+      ]
+    },
+    {
       "id": "f1621d4dae025d55",
       "date": "Sun, 31 May 2026",
       "ts": "2026-05-31T07:00:00+00:00",
@@ -5027,6 +5231,318 @@
         {
           "d": "06-16",
           "c": 585.29
+        }
+      ]
+    },
+    {
+      "id": "3f1fc18777ea3aac",
+      "date": "Sun, 24 May 2026",
+      "ts": "2026-05-24T07:00:00+00:00",
+      "date_display": "May 24, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance Trump traded",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.24,
+      "change": 0.95,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHM5d2N2eW5McUQ5dW9GS2hjdDN0WDhZZzNiS05BTGVCRThnX2dqazdRSExXd016R1J4ZDlSc1VzOFJVQUNSekJIQ1huamtPZGQ5bDVSaTgyVGo5ZVI4VUU5akNlNFBUdnZ1MFA0Y1o1R1RKdHdleFlJc3hvdURPU0swRUJ2cEgtNDVjR3diWEVZSFJ5akhRZGJIdTV4N0tyOWFrVVF1UDdZaUdwZjBrSGVWeEtqbkFGQ2NTM1F1SkRyNHI2ZlVROHNKdkgxSVlsaUI5YUFrQkZOaWhjMktkdGlNdDM5aFhUSDBiWFNzbWg1ZWtvOUFJUl9keUhNb2lUclc3c2g5Wi1sUQ?oc=5",
+      "image": null,
+      "headline": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        }
+      ]
+    },
+    {
+      "id": "bd21c333a144a8e9",
+      "date": "Sun, 24 May 2026",
+      "ts": "2026-05-24T07:00:00+00:00",
+      "date_display": "May 24, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance Trump traded over $50",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 373.25,
+      "change": 1.06,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHM5d2N2eW5McUQ5dW9GS2hjdDN0WDhZZzNiS05BTGVCRThnX2dqazdRSExXd016R1J4ZDlSc1VzOFJVQUNSekJIQ1huamtPZGQ5bDVSaTgyVGo5ZVI4VUU5akNlNFBUdnZ1MFA0Y1o1R1RKdHdleFlJc3hvdURPU0swRUJ2cEgtNDVjR3diWEVZSFJ5akhRZGJIdTV4N0tyOWFrVVF1UDdZaUdwZjBrSGVWeEtqbkFGQ2NTM1F1SkRyNHI2ZlVROHNKdkgxSVlsaUI5YUFrQkZOaWhjMktkdGlNdDM5aFhUSDBiWFNzbWg1ZWtvOUFJUl9keUhNb2lUclc3c2g5Wi1sUQ?oc=5",
+      "image": null,
+      "headline": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 396.7
+        },
+        {
+          "d": "05-19",
+          "c": 387.43
+        },
+        {
+          "d": "05-20",
+          "c": 388.68
+        },
+        {
+          "d": "05-21",
+          "c": 387.43
+        },
+        {
+          "d": "05-22",
+          "c": 382.74
+        },
+        {
+          "d": "05-26",
+          "c": 388.65
+        },
+        {
+          "d": "05-27",
+          "c": 388.6
+        },
+        {
+          "d": "05-28",
+          "c": 389.9
+        },
+        {
+          "d": "05-29",
+          "c": 380.11
+        },
+        {
+          "d": "06-01",
+          "c": 376.15
+        },
+        {
+          "d": "06-02",
+          "c": 361.63
+        },
+        {
+          "d": "06-03",
+          "c": 358.78
+        },
+        {
+          "d": "06-04",
+          "c": 371.97
+        },
+        {
+          "d": "06-05",
+          "c": 368.31
+        },
+        {
+          "d": "06-08",
+          "c": 363.31
+        },
+        {
+          "d": "06-09",
+          "c": 364.26
+        },
+        {
+          "d": "06-10",
+          "c": 356.38
+        },
+        {
+          "d": "06-11",
+          "c": 357.77
+        },
+        {
+          "d": "06-12",
+          "c": 359.68
+        },
+        {
+          "d": "06-15",
+          "c": 369.35
+        },
+        {
+          "d": "06-16",
+          "c": 373.25
+        }
+      ]
+    },
+    {
+      "id": "38c313cb74758291",
+      "date": "Sun, 24 May 2026",
+      "ts": "2026-05-24T07:00:00+00:00",
+      "date_display": "May 24, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance Trump traded over $50 million in",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 404.66,
+      "change": -1.58,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHM5d2N2eW5McUQ5dW9GS2hjdDN0WDhZZzNiS05BTGVCRThnX2dqazdRSExXd016R1J4ZDlSc1VzOFJVQUNSekJIQ1huamtPZGQ5bDVSaTgyVGo5ZVI4VUU5akNlNFBUdnZ1MFA0Y1o1R1RKdHdleFlJc3hvdURPU0swRUJ2cEgtNDVjR3diWEVZSFJ5akhRZGJIdTV4N0tyOWFrVVF1UDdZaUdwZjBrSGVWeEtqbkFGQ2NTM1F1SkRyNHI2ZlVROHNKdkgxSVlsaUI5YUFrQkZOaWhjMktkdGlNdDM5aFhUSDBiWFNzbWg1ZWtvOUFJUl9keUhNb2lUclc3c2g5Wi1sUQ?oc=5",
+      "image": null,
+      "headline": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 409.99
+        },
+        {
+          "d": "05-19",
+          "c": 404.11
+        },
+        {
+          "d": "05-20",
+          "c": 417.26
+        },
+        {
+          "d": "05-21",
+          "c": 417.85
+        },
+        {
+          "d": "05-22",
+          "c": 426.01
+        },
+        {
+          "d": "05-26",
+          "c": 433.59
+        },
+        {
+          "d": "05-27",
+          "c": 440.36
+        },
+        {
+          "d": "05-28",
+          "c": 442.1
+        },
+        {
+          "d": "05-29",
+          "c": 435.79
+        },
+        {
+          "d": "06-01",
+          "c": 415.88
+        },
+        {
+          "d": "06-02",
+          "c": 423.74
+        },
+        {
+          "d": "06-03",
+          "c": 423.7
+        },
+        {
+          "d": "06-04",
+          "c": 418.45
+        },
+        {
+          "d": "06-05",
+          "c": 391.0
+        },
+        {
+          "d": "06-08",
+          "c": 408.95
+        },
+        {
+          "d": "06-09",
+          "c": 396.68
+        },
+        {
+          "d": "06-10",
+          "c": 381.59
+        },
+        {
+          "d": "06-11",
+          "c": 399.15
+        },
+        {
+          "d": "06-12",
+          "c": 406.43
+        },
+        {
+          "d": "06-15",
+          "c": 411.15
+        },
+        {
+          "d": "06-16",
+          "c": 404.66
         }
       ]
     },
@@ -7559,6 +8075,110 @@
         {
           "d": "06-15",
           "c": 8.44
+        }
+      ]
+    },
+    {
+      "id": "b378f283ee646cc4",
+      "date": "Wed, 06 May 2026",
+      "ts": "2026-05-06T07:00:00+00:00",
+      "date_display": "May 06, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Debate About Drastically Expanding Trump Accounts - The New York Times Inside the Debate About Drastically Expanding Trump",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.83,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkJqRVoxdDNFR0JGWEVueVBFUkxjclRPQVBHclRnMEZYQU1FM0RDZVEwdmVzS0U3bTV0SzV0NUJKWExDRjFxazliQXUyall2VUdWbS1YcTJJbHg5Y1RhYzZtSHdwRVFMSzFfck1nazV0TTB1VTJ2TEVVSnVwdTdnVUQ0ZC1IUQ?oc=5",
+      "image": null,
+      "headline": "Inside the Debate About Drastically Expanding Trump Accounts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 76.68
+        },
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
         }
       ]
     },
