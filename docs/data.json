@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T22:10:09.811892+00:00",
-  "count": 121,
+  "updated_at": "2026-06-17T22:59:12.974818+00:00",
+  "count": 123,
   "mentions": [
     {
       "id": "189a148a3adea3eb",
@@ -9890,6 +9890,114 @@
       ]
     },
     {
+      "id": "05fac4aaa33f77f8",
+      "date": "Fri, 24 Apr 2026",
+      "ts": "2026-04-24T07:00:00+00:00",
+      "date_display": "Apr 24, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Prices, but the Refunds Go Only to Businesses - The New York Times Tariffs Raised Consumers\u2019 Prices, but the Refunds Go Only",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.46,
+      "change": 0.85,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0FSYjRuZVhBSERuYVlwclE0VFA5MGtwM3lDdkk4QzlSc2s2bnVCMEdTN01XUFlseEdDYkhWVDB4WlJ4TlFLR2pWa3JnV0lkcEd2RmVsb2lqX2lkaThmYy1QMVZIZUVscUIwTFlRdkFfWmxucHJQVjN5OWc2aVJJWEdKUThjZXVrM0l1QjVxZw?oc=5",
+      "image": null,
+      "headline": "Tariffs Raised Consumers\u2019 Prices, but the Refunds Go Only to Businesses - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 76.68
+        },
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
+        }
+      ]
+    },
+    {
       "id": "86599295f3f4a2ae",
       "date": "Thu, 23 Apr 2026",
       "ts": "2026-04-23T07:00:00+00:00",
@@ -11898,6 +12006,114 @@
         {
           "d": "06-16",
           "c": 8.16
+        }
+      ]
+    },
+    {
+      "id": "121aad70472640d5",
+      "date": "Tue, 21 Apr 2026",
+      "ts": "2026-04-21T07:00:00+00:00",
+      "date_display": "Apr 21, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Takes Steps to Refund $166 Billion in Tariffs - The New York Times Trump Administration Takes Steps to Refund $166 Billion in",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.46,
+      "change": 0.85,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM21VdEVncGp3Tm5kWHl6RlhMZjhBY2xxeFBQWm05TDVQY2JoRC0xWS1CczZvdXhVOXBEM01xLUhXNkU5RmpUdnF4anZsOVFFSC14MTlmdmpXTy1udk9fdUwxNTRCY0tPRDNRVnd2WFdlZENqRzd3Qnhhb0pOaUttNDRuVmxVYnNPVmFiRGZqZ1g?oc=5",
+      "image": null,
+      "headline": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 76.68
+        },
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
         }
       ]
     },
