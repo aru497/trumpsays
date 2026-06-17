@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T14:32:09.015624+00:00",
-  "count": 117,
+  "updated_at": "2026-06-17T16:14:59.011792+00:00",
+  "count": 118,
   "mentions": [
     {
       "id": "1a3ca4683f9bd45a",
@@ -207,6 +207,114 @@
         {
           "d": "06-16",
           "c": 117.05
+        }
+      ]
+    },
+    {
+      "id": "e39c7356f984079d",
+      "date": "Wed, 17 Jun 2026",
+      "ts": "2026-06-17T11:18:03+00:00",
+      "date_display": "Jun 17, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Senate to proceed with intel chief confirmation hearing despite Trump's call to delay",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.2,
+      "change": 3.55,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
+      "image": null,
+      "headline": "Senate to proceed with intel chief confirmation hearing despite Trump's call to delay",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.2
         }
       ]
     },
