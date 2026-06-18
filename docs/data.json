@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-06-18T10:37:53.503878+00:00",
-  "count": 141,
+  "updated_at": "2026-06-18T12:07:48.586979+00:00",
+  "count": 149,
   "mentions": [
+    {
+      "id": "7f9474a0f766ebbe",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T11:32:41+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Tom's Hardware",
+      "type": "news",
+      "quote": "Trump says Apple has agreed to 'build' chips with Intel \u2014 neither company",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.95,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUNtTTMwalN2dWxkbXZ6QUZ2RElKU1dBb0RXLTBTUXF0XzVIajBLekRtMk9razBFM1p4YlV1bHZoV1UtUkVUNVh5WjZFdFQteVMyck11RnAydHVsUHZhSnNjNGJCZDBiRWk4cTMtZTVUczl6SXlFRWI3RmN0Y1J6WE9jU0hrY0lnd2FwR2FhU29Mc1pnTUVz?oc=5",
+      "image": null,
+      "headline": "Trump says Apple has agreed to 'build' chips with Intel \u2014 neither company confirms deal as Intel share price rockets - Tom's Hardware",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        }
+      ]
+    },
+    {
+      "id": "f1d17fb67aab36e7",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T11:32:41+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Tom's Hardware",
+      "type": "news",
+      "quote": "Trump says Apple has agreed to 'build' chips with Intel \u2014 neither company confirms deal as Intel share price",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUNtTTMwalN2dWxkbXZ6QUZ2RElKU1dBb0RXLTBTUXF0XzVIajBLekRtMk9razBFM1p4YlV1bHZoV1UtUkVUNVh5WjZFdFQteVMyck11RnAydHVsUHZhSnNjNGJCZDBiRWk4cTMtZTVUczl6SXlFRWI3RmN0Y1J6WE9jU0hrY0lnd2FwR2FhU29Mc1pnTUVz?oc=5",
+      "image": null,
+      "headline": "Trump says Apple has agreed to 'build' chips with Intel \u2014 neither company confirms deal as Intel share price rockets - Tom's Hardware",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "e35a23249dab1e39",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T11:14:39+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward - Business",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUtzVDZWaFo2U0dqdEJhMjk5bGFpdlYzczE2RXVtMnljU1lkb0xpOWpQS0REMWtjbUtTN3BRdG5pdGpDNUdLdHZndWFrSzRlRksyRGN1SGZGSjNhYjFteDYzdEtrRkRsUVpoWmtvamJkZ0ppeVY0c0t6aVQtbElnTEZuaFVRc2dzSzROcWN3?oc=5",
+      "image": null,
+      "headline": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "5793652520936eff",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T10:51:07+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Sen. Elissa Slotkin on intel chief's confirmation hearing and election integrity NPR's",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/06/18/nx-s1-5861734/sen-elissa-slotkin-on-intel-chiefs-confirmation-hearing-and-election-integrity",
+      "image": null,
+      "headline": "Sen. Elissa Slotkin on intel chief's confirmation hearing and election integrity",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
     {
       "id": "40836e6b6049186f",
       "date": "Thu, 18 Jun 2026",
@@ -759,6 +1191,222 @@
       ]
     },
     {
+      "id": "ec4c327a47449c9a",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:04+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Intel surges 9% after Trump says company will partner with Apple on U.S. chip design - CNBC Intel surges 9% after Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.95,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EYlA1MHNsNk83YllqeGQ4NjVjajZXSnpUdHRUcU1OaTZoM1hXUGZhb2ktT3BFUHBVTmEtOFowaUw3Qk9LWHJPeGdJWmRrWXV0YXBYaERka3kwMzlGTVAteFA4X1BQSlFKNy13QjZWb2h1UTU2azhmT3VPMNIBgAFBVV95cUxNajJvNDlLalFrd0RUcldYN0tHVUZlOEJfX1Q4bGZ3M004S2ktUGY5dmFFd0Q3R1Q2djBzN1NvQWJSSksxYWVjTV9NdW44U2ttTFU4NzRZNzFCSHBWWlB2VXowcGt0dlFWbXM1bkhwTjRFY2l1Qm1HVHFDU0dEUTczcg?oc=5",
+      "image": null,
+      "headline": "Intel surges 9% after Trump says company will partner with Apple on U.S. chip design - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        }
+      ]
+    },
+    {
+      "id": "4720cb4b9f94437a",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:04+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Intel surges 9% after Trump says company will partner with Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EYlA1MHNsNk83YllqeGQ4NjVjajZXSnpUdHRUcU1OaTZoM1hXUGZhb2ktT3BFUHBVTmEtOFowaUw3Qk9LWHJPeGdJWmRrWXV0YXBYaERka3kwMzlGTVAteFA4X1BQSlFKNy13QjZWb2h1UTU2azhmT3VPMNIBgAFBVV95cUxNajJvNDlLalFrd0RUcldYN0tHVUZlOEJfX1Q4bGZ3M004S2ktUGY5dmFFd0Q3R1Q2djBzN1NvQWJSSksxYWVjTV9NdW44U2ttTFU4NzRZNzFCSHBWWlB2VXowcGt0dlFWbXM1bkhwTjRFY2l1Qm1HVHFDU0dEUTczcg?oc=5",
+      "image": null,
+      "headline": "Intel surges 9% after Trump says company will partner with Apple on U.S. chip design - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
       "id": "88c03053ec0273b6",
       "date": "Thu, 18 Jun 2026",
       "ts": "2026-06-18T08:44:15+00:00",
@@ -882,6 +1530,222 @@
       "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFB5c1hQSThyTnhsMlZxQTZ5dmg4M2dzRjg1V0pBTHdMV0dITlFjdlRjcWNjVXBiWEdPNzRaWTljaFlPZUlGdWJBbmp5MW5pZmpzcXM3VmFSQ3c2dnVsUl8zR2dobFJVVXY1VjFTTURsNXZNSC1pcnhlUzBvTjYyWlNMdGdOaGdoNUhUNmhNbEpBbkZLdTNTWGk1Z1JmcWVE?oc=5",
       "image": null,
       "headline": "Apple to Partner With Intel on US Chip Production, Trump Says - Modern Diplomacy",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "85fcab424922266d",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T07:33:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CTech",
+      "type": "news",
+      "quote": "Apple agrees to build chips with Intel in the U.S., Trump says -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.95,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VThHcXFiTGJOOXB1M0l6M2JmeGhaRjRYdnlKZ1Y5RTEwR3Bnbl9mN0lJSkxNd1hqc1hvSm5UVzV5RGRldU15UXRTZFBCejlMaHlya3k5NkhxOWJYeWpnbVg2RHFFSUk?oc=5",
+      "image": null,
+      "headline": "Apple agrees to build chips with Intel in the U.S., Trump says - CTech",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        }
+      ]
+    },
+    {
+      "id": "f1e14389e75d5b7a",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T07:33:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CTech",
+      "type": "news",
+      "quote": "Apple agrees to build chips with Intel in the U.S., Trump says - CTech Apple agrees to build",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VThHcXFiTGJOOXB1M0l6M2JmeGhaRjRYdnlKZ1Y5RTEwR3Bnbl9mN0lJSkxNd1hqc1hvSm5UVzV5RGRldU15UXRTZFBCejlMaHlya3k5NkhxOWJYeWpnbVg2RHFFSUk?oc=5",
+      "image": null,
+      "headline": "Apple agrees to build chips with Intel in the U.S., Trump says - CTech",
       "channel": "News",
       "series": [
         {
