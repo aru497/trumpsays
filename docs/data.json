@@ -1,7 +1,1195 @@
 {
-  "updated_at": "2026-06-18T12:07:48.586979+00:00",
-  "count": 149,
+  "updated_at": "2026-06-18T13:40:16.831424+00:00",
+  "count": 163,
   "mentions": [
+    {
+      "id": "325036e52ff19f5b",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:19:02+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 296.06,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
+      "image": null,
+      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 296.06
+        }
+      ]
+    },
+    {
+      "id": "1423e6e02cb5e365",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:19:02+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga Intel",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 207.13,
+      "change": 1.21,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
+      "image": null,
+      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 220.35
+        },
+        {
+          "d": "05-20",
+          "c": 223.21
+        },
+        {
+          "d": "05-21",
+          "c": 219.25
+        },
+        {
+          "d": "05-22",
+          "c": 215.08
+        },
+        {
+          "d": "05-26",
+          "c": 214.61
+        },
+        {
+          "d": "05-27",
+          "c": 212.35
+        },
+        {
+          "d": "05-28",
+          "c": 214.0
+        },
+        {
+          "d": "05-29",
+          "c": 210.89
+        },
+        {
+          "d": "06-01",
+          "c": 224.1
+        },
+        {
+          "d": "06-02",
+          "c": 222.56
+        },
+        {
+          "d": "06-03",
+          "c": 214.5
+        },
+        {
+          "d": "06-04",
+          "c": 218.66
+        },
+        {
+          "d": "06-05",
+          "c": 205.1
+        },
+        {
+          "d": "06-08",
+          "c": 208.64
+        },
+        {
+          "d": "06-09",
+          "c": 208.19
+        },
+        {
+          "d": "06-10",
+          "c": 200.42
+        },
+        {
+          "d": "06-11",
+          "c": 204.87
+        },
+        {
+          "d": "06-12",
+          "c": 205.19
+        },
+        {
+          "d": "06-15",
+          "c": 212.45
+        },
+        {
+          "d": "06-16",
+          "c": 207.41
+        },
+        {
+          "d": "06-17",
+          "c": 204.65
+        },
+        {
+          "d": "06-18",
+          "c": 207.13
+        }
+      ]
+    },
+    {
+      "id": "e61e653a89cb0f20",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:19:02+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.97,
+      "change": 11.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
+      "image": null,
+      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.97
+        }
+      ]
+    },
+    {
+      "id": "12ad16f975cef161",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:08:15+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Investopedia",
+      "type": "news",
+      "quote": "Trump Says Apple and Intel Are Working Together. Intel's Stock Is Rising On",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 296.06,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTh5eDdicXBJQWt4elVUWXRyTmlrZE53SU1rZzBLTmwzdFlzOXNFakJmYlVOZ1N0Q2FrdFpPOENVTjB0WFVBN1hCbUxPUHFKU3BoTVNHMnlyMDBjLVNmLW9GeWVhU3NOYW9BcUpZOXQ0OGhGaHJqdEJJSXZCZ0xDbFMtY1NrVTJxQnBuaDFXRjk4M1lYdzBmVVM0dndTelRfQ2V3UlBFVkFzUmh4UnlacEd2Z3laZm9jb1BBdllsRGRKdHl0LXJXTw?oc=5",
+      "image": null,
+      "headline": "Trump Says Apple and Intel Are Working Together. Intel's Stock Is Rising On the News - Investopedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 296.06
+        }
+      ]
+    },
+    {
+      "id": "69327fd8a4f36dc6",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:08:15+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Investopedia",
+      "type": "news",
+      "quote": "Trump Says Apple and Intel Are Working Together. Intel's Stock Is Rising On the News",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.97,
+      "change": 11.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTh5eDdicXBJQWt4elVUWXRyTmlrZE53SU1rZzBLTmwzdFlzOXNFakJmYlVOZ1N0Q2FrdFpPOENVTjB0WFVBN1hCbUxPUHFKU3BoTVNHMnlyMDBjLVNmLW9GeWVhU3NOYW9BcUpZOXQ0OGhGaHJqdEJJSXZCZ0xDbFMtY1NrVTJxQnBuaDFXRjk4M1lYdzBmVVM0dndTelRfQ2V3UlBFVkFzUmh4UnlacEd2Z3laZm9jb1BBdllsRGRKdHl0LXJXTw?oc=5",
+      "image": null,
+      "headline": "Trump Says Apple and Intel Are Working Together. Intel's Stock Is Rising On the News - Investopedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.97
+        }
+      ]
+    },
+    {
+      "id": "18c17878f178514e",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:05:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "OregonLive.com",
+      "type": "news",
+      "quote": "Intel has a deal to make chips for Apple, Trump says; shares jump - OregonLive.com Intel has a deal",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 296.06,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWpEakNwQ3lHSlBkMWlwbHprUnRLdTNJNUpsNEl1N0xBazR2U1ZDSjFadE1DQ25TUE5ad1Y4QldmOERxMEpqWXZ4RFRDb2lEY0V5V203dGtZdV9POWNlWGV1LWw2VWcxYUxXZHRQMFExRjd4VXZ2M0J1S3luVjgyeFNrNXBaMVMzcEtkemN5WXhrOEJCMXNkUHJETl8zdlREdE9hdHlvTFNmcUNBQUZBVUhkcC1uZkc1Q1E?oc=5",
+      "image": null,
+      "headline": "Intel has a deal to make chips for Apple, Trump says; shares jump - OregonLive.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 296.06
+        }
+      ]
+    },
+    {
+      "id": "08cd1f9531ff754f",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:05:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "OregonLive.com",
+      "type": "news",
+      "quote": "Intel has a deal to make chips for Apple, Trump says; shares",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.97,
+      "change": 11.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWpEakNwQ3lHSlBkMWlwbHprUnRLdTNJNUpsNEl1N0xBazR2U1ZDSjFadE1DQ25TUE5ad1Y4QldmOERxMEpqWXZ4RFRDb2lEY0V5V203dGtZdV9POWNlWGV1LWw2VWcxYUxXZHRQMFExRjd4VXZ2M0J1S3luVjgyeFNrNXBaMVMzcEtkemN5WXhrOEJCMXNkUHJETl8zdlREdE9hdHlvTFNmcUNBQUZBVUhkcC1uZkc1Q1E?oc=5",
+      "image": null,
+      "headline": "Intel has a deal to make chips for Apple, Trump says; shares jump - OregonLive.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.97
+        }
+      ]
+    },
+    {
+      "id": "ce22498f41b24044",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T12:36:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "WSJ",
+      "type": "news",
+      "quote": "Intel Shares Surge After Trump Announces Apple Partnership - WSJ Intel Shares Surge After Trump Announces",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 296.06,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFJLWllMc0xIMjdEd3l2S0JqQlJ4dkM4UEo3WEtQdkQ0M0EtQngtcE5vVjNybVZFNWFVSkkwVjhkeW9vVlBxd0Y2V1l4TWhqMDdMNWh0NXFUUElIdm1UZDFWT2t4cDVVQkk5N2FEMFI2T3JKMm1sdGE5YmFYWklHdUJNY0dkMkc2OWFrYnk1bGZmc2ZXZlRubm1IWjdBblNoeTZkaHNB?oc=5",
+      "image": null,
+      "headline": "Intel Shares Surge After Trump Announces Apple Partnership - WSJ",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 296.06
+        }
+      ]
+    },
+    {
+      "id": "0306538852cee709",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T12:36:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "WSJ",
+      "type": "news",
+      "quote": "Intel Shares Surge After Trump Announces Apple Partnership - WSJ",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.97,
+      "change": 11.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFJLWllMc0xIMjdEd3l2S0JqQlJ4dkM4UEo3WEtQdkQ0M0EtQngtcE5vVjNybVZFNWFVSkkwVjhkeW9vVlBxd0Y2V1l4TWhqMDdMNWh0NXFUUElIdm1UZDFWT2t4cDVVQkk5N2FEMFI2T3JKMm1sdGE5YmFYWklHdUJNY0dkMkc2OWFrYnk1bGZmc2ZXZlRubm1IWjdBblNoeTZkaHNB?oc=5",
+      "image": null,
+      "headline": "Intel Shares Surge After Trump Announces Apple Partnership - WSJ",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.97
+        }
+      ]
+    },
+    {
+      "id": "0d85c002a978370c",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T12:11:10+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNN",
+      "type": "news",
+      "quote": "Tim Cook says iPhone prices will rise. Trump says Apple will make US chips with Intel - CNN Tim Cook says iPhone",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 296.06,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YUGwzcWQwVmYzYVgwQm1FN1hGSWVTOG5nZGFGVFBfSUdyT0dLMThoVnRoeXVfc0g3OUVtbVBDY2kzeDdLVU5TYWNnMEctdW5zYU5SeUxBUG9FbFhkSzRXdW5tSG5sTm1fNHhWcW9LUUUtb1FGZFE?oc=5",
+      "image": null,
+      "headline": "Tim Cook says iPhone prices will rise. Trump says Apple will make US chips with Intel - CNN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 296.06
+        }
+      ]
+    },
+    {
+      "id": "690ba27398c515d4",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T12:11:10+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNN",
+      "type": "news",
+      "quote": "prices will rise. Trump says Apple will make US chips with Intel - CNN Tim Cook says iPhone prices will rise. Trump says",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.97,
+      "change": 11.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YUGwzcWQwVmYzYVgwQm1FN1hGSWVTOG5nZGFGVFBfSUdyT0dLMThoVnRoeXVfc0g3OUVtbVBDY2kzeDdLVU5TYWNnMEctdW5zYU5SeUxBUG9FbFhkSzRXdW5tSG5sTm1fNHhWcW9LUUUtb1FGZFE?oc=5",
+      "image": null,
+      "headline": "Tim Cook says iPhone prices will rise. Trump says Apple will make US chips with Intel - CNN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.97
+        }
+      ]
+    },
     {
       "id": "7f9474a0f766ebbe",
       "date": "Thu, 18 Jun 2026",
@@ -431,6 +1619,222 @@
         {
           "d": "06-17",
           "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "c704d7fe08b376d3",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T09:57:16+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "MacRumors",
+      "type": "news",
+      "quote": "Apple to Make Chips in US With Intel, Trump Says - MacRumors",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 296.06,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVEJ1QnZPbEhDSEZGcDNxTTRVYTZlOUVkWnJWbWpZSEdhYk93dmExTlNzVG9HM2RxZ04xZVRlUmZyazZ6QU0tRmlPVDlsQWdZTExkNW42Xzl0U1J3QU1CQTRabVZOREEyRW96STN5TUQyb3lFSnlaY2ItalV2LXM?oc=5",
+      "image": null,
+      "headline": "Apple to Make Chips in US With Intel, Trump Says - MacRumors",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 296.06
+        }
+      ]
+    },
+    {
+      "id": "38ce7499e7e25dea",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T09:57:16+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "MacRumors",
+      "type": "news",
+      "quote": "Apple to Make Chips in US With Intel, Trump Says - MacRumors Apple to Make Chips in US With",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.97,
+      "change": 11.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVEJ1QnZPbEhDSEZGcDNxTTRVYTZlOUVkWnJWbWpZSEdhYk93dmExTlNzVG9HM2RxZ04xZVRlUmZyazZ6QU0tRmlPVDlsQWdZTExkNW42Xzl0U1J3QU1CQTRabVZOREEyRW96STN5TUQyb3lFSnlaY2ItalV2LXM?oc=5",
+      "image": null,
+      "headline": "Apple to Make Chips in US With Intel, Trump Says - MacRumors",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.97
         }
       ]
     },
@@ -15246,6 +16650,114 @@
         {
           "d": "06-12",
           "c": 73.38
+        }
+      ]
+    },
+    {
+      "id": "fab3d864bda96173",
+      "date": "Tue, 31 Mar 2026",
+      "ts": "2026-03-31T07:00:00+00:00",
+      "date_display": "Mar 31, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Institutional Interest Growing in Trump Media & Technology Group (DJT) - Yahoo Finance Institutional",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.03,
+      "change": -0.86,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk9iVTNYX1k5WkkyNWUxc2V4Ry1kM2NuOHBwYkJJRElSVkM4S3VSN2VUSmtNNHRpR3B2SkM1Z1hySmVKTF9TLWdQRUViMjZxSHpvaVUzc2dBcnJEU1FlMnBNVzNiaFkycmE1YVF5WV9PakYxcFJrVDhHVEJXbi1lNVlPcFBvc1REMk05eXoyQW9XX3htdHNiWkZ1NHhQa0xFNU1fRF9PQ3hEUk0?oc=5",
+      "image": null,
+      "headline": "Institutional Interest Growing in Trump Media & Technology Group (DJT) - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.03
         }
       ]
     },
