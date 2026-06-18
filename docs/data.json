@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-06-18T16:41:02.244233+00:00",
-  "count": 190,
+  "updated_at": "2026-06-18T18:00:17.550937+00:00",
+  "count": 196,
   "mentions": [
+    {
+      "id": "2899404a23c1a530",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:48:19+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Edge Malaysia",
+      "type": "news",
+      "quote": "Intel jumps 12% after Trump says it struck Apple chip deal - The Edge Malaysia Intel jumps 12% after Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.6,
+      "change": 0.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjOHFrbFZpbjBWVGFTaTZxbjFWS1NXc0UxU1hDWXlsazJOcnN2eFhTRTRTdklXWE4tTjd5UkVxVk1HY1BJbHFjYWFBd1lMRklQ?oc=5",
+      "image": null,
+      "headline": "Intel jumps 12% after Trump says it struck Apple chip deal - The Edge Malaysia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.6
+        }
+      ]
+    },
+    {
+      "id": "415cf64c1b1b11a1",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:48:19+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Edge Malaysia",
+      "type": "news",
+      "quote": "Intel jumps 12% after Trump says it struck Apple chip deal - The",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.3,
+      "change": 10.07,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjOHFrbFZpbjBWVGFTaTZxbjFWS1NXc0UxU1hDWXlsazJOcnN2eFhTRTRTdklXWE4tTjd5UkVxVk1HY1BJbHFjYWFBd1lMRklQ?oc=5",
+      "image": null,
+      "headline": "Intel jumps 12% after Trump says it struck Apple chip deal - The Edge Malaysia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.3
+        }
+      ]
+    },
     {
       "id": "9b4ed5a8da713a4b",
       "date": "Thu, 18 Jun 2026",
@@ -755,6 +971,222 @@
         {
           "d": "06-18",
           "c": 131.09
+        }
+      ]
+    },
+    {
+      "id": "9f4dc18456fcfb6f",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:16:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "WION",
+      "type": "news",
+      "quote": "Apple to collaborate with Intel for domestic chip production,",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.6,
+      "change": 0.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDBNXzdkQWI0cGxsd0dwckxheVNVYTJQdEJ0S3hWcHdWMnlxUndub1k5OW5odHg1RUItbjNWOGpVWERHUGVVUDJ2ZDJGN0lzUWtYWTR5VmpKcWoteUpHaVRBcUxxNE9fcU5wNWVJZWRwNFl5SEszYkZJb29BbnFhQjM5NjZfRlVSQUlNN3NwdFk3QmQ2eFozRkhWRlFPVm11UzdJVmdnUXBWNmlMNDFFRHpRZ216aHVxZXJkTtIBwgFBVV95cUxPSGRGc3ZFb1M0TlB4M3ZranQ4bTJ1aE5rSVp5aEdUQzhPa1IwMTA5SzJMaFVVOUxBV0RTOFJXcWlVeWRrNTRkUHMtWVNYUUwzQVA5d0hwRFAxb1F2WWZCSHg5WEFRaEFENVVfLVNHc0NlRmQ2aEEzRHR5bEtBeWlvY0RrQXlheWNVZ3dpS1cxb2Nxd1RKOXcxMmxhS2VFTDVUblozaVhRS0pWNnMxVHQybEwxaVpFRG1YQWNvZ0Nrc3lHZw?oc=5",
+      "image": null,
+      "headline": "Apple to collaborate with Intel for domestic chip production, Trump announces - WION",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.6
+        }
+      ]
+    },
+    {
+      "id": "839878effa656f36",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:16:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "WION",
+      "type": "news",
+      "quote": "Apple to collaborate with Intel for domestic chip production, Trump announces - WION Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.3,
+      "change": 10.07,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDBNXzdkQWI0cGxsd0dwckxheVNVYTJQdEJ0S3hWcHdWMnlxUndub1k5OW5odHg1RUItbjNWOGpVWERHUGVVUDJ2ZDJGN0lzUWtYWTR5VmpKcWoteUpHaVRBcUxxNE9fcU5wNWVJZWRwNFl5SEszYkZJb29BbnFhQjM5NjZfRlVSQUlNN3NwdFk3QmQ2eFozRkhWRlFPVm11UzdJVmdnUXBWNmlMNDFFRHpRZ216aHVxZXJkTtIBwgFBVV95cUxPSGRGc3ZFb1M0TlB4M3ZranQ4bTJ1aE5rSVp5aEdUQzhPa1IwMTA5SzJMaFVVOUxBV0RTOFJXcWlVeWRrNTRkUHMtWVNYUUwzQVA5d0hwRFAxb1F2WWZCSHg5WEFRaEFENVVfLVNHc0NlRmQ2aEEzRHR5bEtBeWlvY0RrQXlheWNVZ3dpS1cxb2Nxd1RKOXcxMmxhS2VFTDVUblozaVhRS0pWNnMxVHQybEwxaVpFRG1YQWNvZ0Nrc3lHZw?oc=5",
+      "image": null,
+      "headline": "Apple to collaborate with Intel for domestic chip production, Trump announces - WION",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.3
         }
       ]
     },
@@ -1835,6 +2267,222 @@
         {
           "d": "06-18",
           "c": 134.97
+        }
+      ]
+    },
+    {
+      "id": "0ed928a8725f03d8",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:14:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Hill",
+      "type": "news",
+      "quote": "Trump: Apple partnering with Intel on chip design, production in US -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.6,
+      "change": 0.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFd1UTZfZmNLUmV2eVFZUjkzaC1FUUdrU3luT1ppZUJZX3F2dkN2Z2wtOXBxVXBSWG92ZmduN09PVHRNbGxrTFRBcUJjM3dYT0NXcVZuY2YzNUFfVjZYTEZsLXJKenZEbGpLVW1LOEE5VzdIWFZDdGxuQkcyR25hdVVuODlKVlF20gGOAUFVX3lxTE9HS05wMDZidnRYam5fRHR3d19QazZmUERiSHZuZ3lrOVBxY20tMVBGY2ZfSkItdzdIWDJWV2dZX2dic3c3WkQxUzFqUnY0NWgwZXVRQkVNbG92T1YxMkFGOXZEcHhXZFNpNi1KVXBZNmdfaU42UzJCaGtFc2FlUnFOQnNmUmR4R1otYjZCWmc?oc=5",
+      "image": null,
+      "headline": "Trump: Apple partnering with Intel on chip design, production in US - The Hill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.6
+        }
+      ]
+    },
+    {
+      "id": "e6d6db970d28079c",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T13:14:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Hill",
+      "type": "news",
+      "quote": "Trump: Apple partnering with Intel on chip design, production in US - The Hill Trump: Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.3,
+      "change": 10.07,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFd1UTZfZmNLUmV2eVFZUjkzaC1FUUdrU3luT1ppZUJZX3F2dkN2Z2wtOXBxVXBSWG92ZmduN09PVHRNbGxrTFRBcUJjM3dYT0NXcVZuY2YzNUFfVjZYTEZsLXJKenZEbGpLVW1LOEE5VzdIWFZDdGxuQkcyR25hdVVuODlKVlF20gGOAUFVX3lxTE9HS05wMDZidnRYam5fRHR3d19QazZmUERiSHZuZ3lrOVBxY20tMVBGY2ZfSkItdzdIWDJWV2dZX2dic3c3WkQxUzFqUnY0NWgwZXVRQkVNbG92T1YxMkFGOXZEcHhXZFNpNi1KVXBZNmdfaU42UzJCaGtFc2FlUnFOQnNmUmR4R1otYjZCWmc?oc=5",
+      "image": null,
+      "headline": "Trump: Apple partnering with Intel on chip design, production in US - The Hill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.3
         }
       ]
     },
