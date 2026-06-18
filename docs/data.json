@@ -1,7 +1,655 @@
 {
-  "updated_at": "2026-06-18T13:40:16.831424+00:00",
-  "count": 163,
+  "updated_at": "2026-06-18T15:00:54.523358+00:00",
+  "count": 177,
   "mentions": [
+    {
+      "id": "b4228482f3568892",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:50:06+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "eciks.org",
+      "type": "news",
+      "quote": "Trump says Apple will work with Intel to design and manufacture chips in",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSDBCX05sejdSeGY2U2xDMHZ4elVYY1lUUjlibU9BSGtkdWhTWlA3N0RrWklYaVU5bUtEUnFubElUWk0yRkdoOUFBdFo0QjlROTR1ekQzZDJ1cUVqVmtSTlo2WW5LUnFvRFl5dVNxSDl2UQ?oc=5",
+      "image": null,
+      "headline": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending shares up 9% - eciks.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "613d8890a7c0ea39",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:50:06+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "eciks.org",
+      "type": "news",
+      "quote": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSDBCX05sejdSeGY2U2xDMHZ4elVYY1lUUjlibU9BSGtkdWhTWlA3N0RrWklYaVU5bUtEUnFubElUWk0yRkdoOUFBdFo0QjlROTR1ekQzZDJ1cUVqVmtSTlo2WW5LUnFvRFl5dVNxSDl2UQ?oc=5",
+      "image": null,
+      "headline": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending shares up 9% - eciks.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
+        }
+      ]
+    },
+    {
+      "id": "0f11ccd242b81853",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:04:59+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "International Business Times",
+      "type": "news",
+      "quote": "Shares Surge After Trump Says Company Will Partner With Apple To Design And Build Chips In The U.S. - International",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHBzNHRadldhcjQzdGhoMDl4WVQzSnFTenB3UzZSblhCdDNyZFUzRl85Zk56Tk1xRFpIY3hGLU9oZ2dPaEt3QThySm14V1VQQ1pia0VVUUd6RGE5cWgwOXQwNkZ1WVlMQkFmR2ZuRG9qblhjV1JFWWZOdXJNOTM2Nld6ckpQN1lhcXh1MlBJbXBlVnlNRmphN05SU2J2WGQzRzNVNkxjSFppd0haY1QzZDd0SEtFaUE?oc=5",
+      "image": null,
+      "headline": "Intel Shares Surge After Trump Says Company Will Partner With Apple To Design And Build Chips In The U.S. - International Business Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "380c450b56ae1eb8",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:04:59+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "International Business Times",
+      "type": "news",
+      "quote": "Intel Shares Surge After Trump Says Company Will Partner With",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHBzNHRadldhcjQzdGhoMDl4WVQzSnFTenB3UzZSblhCdDNyZFUzRl85Zk56Tk1xRFpIY3hGLU9oZ2dPaEt3QThySm14V1VQQ1pia0VVUUd6RGE5cWgwOXQwNkZ1WVlMQkFmR2ZuRG9qblhjV1JFWWZOdXJNOTM2Nld6ckpQN1lhcXh1MlBJbXBlVnlNRmphN05SU2J2WGQzRzNVNkxjSFppd0haY1QzZDd0SEtFaUE?oc=5",
+      "image": null,
+      "headline": "Intel Shares Surge After Trump Says Company Will Partner With Apple To Design And Build Chips In The U.S. - International Business Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
+        }
+      ]
+    },
+    {
+      "id": "1352bb00d693be48",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:02:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CBS News",
+      "type": "news",
+      "quote": "Intel shares leap after Trump says it's working with Apple to make chips in the U.S. - CBS News Intel shares leap",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZ2FqQWNWOEE2bjBXY1VnazVBMWFLamR4WTNtLWRnZ2htV3IwWngtdm1IMmpOS0I3ZU53d3ZMWHZaRlI5QTV5VTg2S1hZWVgtYWZlZ0Q3WEx0T0pZY0ExR0Rhc3J5WWtCOVJIOTZycC1lMndIYURrSFhvcklKeUU?oc=5",
+      "image": null,
+      "headline": "Intel shares leap after Trump says it's working with Apple to make chips in the U.S. - CBS News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "234f661145be8282",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:02:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CBS News",
+      "type": "news",
+      "quote": "Intel shares leap after Trump says it's working with Apple to",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZ2FqQWNWOEE2bjBXY1VnazVBMWFLamR4WTNtLWRnZ2htV3IwWngtdm1IMmpOS0I3ZU53d3ZMWHZaRlI5QTV5VTg2S1hZWVgtYWZlZ0Q3WEx0T0pZY0ExR0Rhc3J5WWtCOVJIOTZycC1lMndIYURrSFhvcklKeUU?oc=5",
+      "image": null,
+      "headline": "Intel shares leap after Trump says it's working with Apple to make chips in the U.S. - CBS News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
+        }
+      ]
+    },
     {
       "id": "325036e52ff19f5b",
       "date": "Thu, 18 Jun 2026",
@@ -1407,6 +2055,222 @@
       ]
     },
     {
+      "id": "dbe0fca930bb77e7",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T11:20:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Mezha",
+      "type": "news",
+      "quote": "9% after Trump says company will make chips in US with Apple - Mezha Intel shares jump 9% after Trump says company will",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG5vc3RQOTRrdzYwUDBxY285c0huQnRucXdpUFdOYmVMNjFDeThfMUhlZTBXektvX1FBc2RFYUh6MjdEdXpFQ3J6SWVSWXBCamxwc2RTQVVTR2JIQ3FXdnJTMGo5SDJCbTdISXRKUnpIaGtNT2FUTUVjb1ZUMzgyR21iZ2NZMDJ0SWsxS1dDSEl6d9IBlwFBVV95cUxPUjZsRHhqSTh3b0M5T3lJMk5uNUxFVlloNUJxenFETmxqX1hGSnA3d0NfU2FoeW0yb2J5VE1IdnYtN3EtVVNQQUF0TkJza1FVZEFlMW9BaWpfQlpoSVMtdUc2cGR0eHA2ci02SEVHQ3h2RE5iTldpcVRZQ0FKTk8zeExkX09uNVgtXzlvbXpJMm9tNWZGTzhV?oc=5",
+      "image": null,
+      "headline": "Intel shares jump 9% after Trump says company will make chips in US with Apple - Mezha",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "806fed0002da6dc5",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T11:20:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Mezha",
+      "type": "news",
+      "quote": "Intel shares jump 9% after Trump says company will make chips in",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG5vc3RQOTRrdzYwUDBxY285c0huQnRucXdpUFdOYmVMNjFDeThfMUhlZTBXektvX1FBc2RFYUh6MjdEdXpFQ3J6SWVSWXBCamxwc2RTQVVTR2JIQ3FXdnJTMGo5SDJCbTdISXRKUnpIaGtNT2FUTUVjb1ZUMzgyR21iZ2NZMDJ0SWsxS1dDSEl6d9IBlwFBVV95cUxPUjZsRHhqSTh3b0M5T3lJMk5uNUxFVlloNUJxenFETmxqX1hGSnA3d0NfU2FoeW0yb2J5VE1IdnYtN3EtVVNQQUF0TkJza1FVZEFlMW9BaWpfQlpoSVMtdUc2cGR0eHA2ci02SEVHQ3h2RE5iTldpcVRZQ0FKTk8zeExkX09uNVgtXzlvbXpJMm9tNWZGTzhV?oc=5",
+      "image": null,
+      "headline": "Intel shares jump 9% after Trump says company will make chips in US with Apple - Mezha",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
+        }
+      ]
+    },
+    {
       "id": "e35a23249dab1e39",
       "date": "Thu, 18 Jun 2026",
       "ts": "2026-06-18T11:14:39+00:00",
@@ -1619,6 +2483,438 @@
         {
           "d": "06-17",
           "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "281f59cfaaab6516",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T10:42:48+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Latest news from Azerbaijan",
+      "type": "news",
+      "quote": "Intel shares surge after Trump claims Apple chip deal - Latest news from Azerbaijan Intel shares surge",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWQ1SWpFM0RnVzFKV3hTNmxEeDgtcnViN2ZGUEdWVjRnRUVURExqbVZ2YjFPTVdCVWZ6QXZqU1hHbERnRU50bm53ODE3eHprVjFPclJsXzR3b2NxRF92VU9MR2JnQlFKeW9mWWpvUXRwUHlPaG1mTVYzSGFuLXhkbw?oc=5",
+      "image": null,
+      "headline": "Intel shares surge after Trump claims Apple chip deal - Latest news from Azerbaijan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "ab93bfcfd377db0c",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T10:42:48+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Latest news from Azerbaijan",
+      "type": "news",
+      "quote": "Intel shares surge after Trump claims Apple chip deal - Latest",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUWQ1SWpFM0RnVzFKV3hTNmxEeDgtcnViN2ZGUEdWVjRnRUVURExqbVZ2YjFPTVdCVWZ6QXZqU1hHbERnRU50bm53ODE3eHprVjFPclJsXzR3b2NxRF92VU9MR2JnQlFKeW9mWWpvUXRwUHlPaG1mTVYzSGFuLXhkbw?oc=5",
+      "image": null,
+      "headline": "Intel shares surge after Trump claims Apple chip deal - Latest news from Azerbaijan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
+        }
+      ]
+    },
+    {
+      "id": "401275f94fe085e0",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T10:12:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Proactive financial news",
+      "type": "news",
+      "quote": "Intel shares jump after Trump says Apple will work with chipmaker on US production - Proactive",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOXzRneS1jeEJITkFka0NTM0c5QWEtVFFHWTFsTGxpMlVyQlpTV3owUjJVY0c0aUhnZnd3ZGlDdlBCZng2LUdHUFhCcUhfazV0N2M2LWMwOVFXZ1I0OXBvQml3eWp6MUt3QUdtZ0FFelNmQnZzVDBiQS16VDFCSUZ5VktBRnJYUEs5UnR1LWpHc0ZTRHBTWnhSWkdhOGx1TGxSbnpRRmRzbkdFY0pIR3FhVHFQT0tFbzBPZEN6c2hfeDVjVWpzaHRPNmY2VExEQ0ZobjR1WnlLaW5FeXJRRzNqd3ZsZGhzYU85?oc=5",
+      "image": null,
+      "headline": "Intel shares jump after Trump says Apple will work with chipmaker on US production - Proactive financial news",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "fa940ae294309943",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T10:12:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Proactive financial news",
+      "type": "news",
+      "quote": "Intel shares jump after Trump says Apple will work with",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOXzRneS1jeEJITkFka0NTM0c5QWEtVFFHWTFsTGxpMlVyQlpTV3owUjJVY0c0aUhnZnd3ZGlDdlBCZng2LUdHUFhCcUhfazV0N2M2LWMwOVFXZ1I0OXBvQml3eWp6MUt3QUdtZ0FFelNmQnZzVDBiQS16VDFCSUZ5VktBRnJYUEs5UnR1LWpHc0ZTRHBTWnhSWkdhOGx1TGxSbnpRRmRzbkdFY0pIR3FhVHFQT0tFbzBPZEN6c2hfeDVjVWpzaHRPNmY2VExEQ0ZobjR1WnlLaW5FeXJRRzNqd3ZsZGhzYU85?oc=5",
+      "image": null,
+      "headline": "Intel shares jump after Trump says Apple will work with chipmaker on US production - Proactive financial news",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
         }
       ]
     },
@@ -2807,6 +4103,222 @@
         {
           "d": "06-17",
           "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "13a4950b8433e9a3",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:04+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Intel gains 7% after Trump says company will partner with Apple on U.S. chip design - CNBC Intel gains 7% after Trump says",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 299.02,
+      "change": 1.04,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EYlA1MHNsNk83YllqeGQ4NjVjajZXSnpUdHRUcU1OaTZoM1hXUGZhb2ktT3BFUHBVTmEtOFowaUw3Qk9LWHJPeGdJWmRrWXV0YXBYaERka3kwMzlGTVAteFA4X1BQSlFKNy13QjZWb2h1UTU2azhmT3VPMNIBgAFBVV95cUxNajJvNDlLalFrd0RUcldYN0tHVUZlOEJfX1Q4bGZ3M004S2ktUGY5dmFFd0Q3R1Q2djBzN1NvQWJSSksxYWVjTV9NdW44U2ttTFU4NzRZNzFCSHBWWlB2VXowcGt0dlFWbXM1bkhwTjRFY2l1Qm1HVHFDU0dEUTczcg?oc=5",
+      "image": null,
+      "headline": "Intel gains 7% after Trump says company will partner with Apple on U.S. chip design - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 299.02
+        }
+      ]
+    },
+    {
+      "id": "dadc01e9fedb3809",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:04+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Intel gains 7% after Trump says company will partner with Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 131.09,
+      "change": 8.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EYlA1MHNsNk83YllqeGQ4NjVjajZXSnpUdHRUcU1OaTZoM1hXUGZhb2ktT3BFUHBVTmEtOFowaUw3Qk9LWHJPeGdJWmRrWXV0YXBYaERka3kwMzlGTVAteFA4X1BQSlFKNy13QjZWb2h1UTU2azhmT3VPMNIBgAFBVV95cUxNajJvNDlLalFrd0RUcldYN0tHVUZlOEJfX1Q4bGZ3M004S2ktUGY5dmFFd0Q3R1Q2djBzN1NvQWJSSksxYWVjTV9NdW44U2ttTFU4NzRZNzFCSHBWWlB2VXowcGt0dlFWbXM1bkhwTjRFY2l1Qm1HVHFDU0dEUTczcg?oc=5",
+      "image": null,
+      "headline": "Intel gains 7% after Trump says company will partner with Apple on U.S. chip design - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 131.09
         }
       ]
     },
