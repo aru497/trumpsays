@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-06-18T07:07:15.709158+00:00",
-  "count": 130,
+  "updated_at": "2026-06-18T09:00:17.322079+00:00",
+  "count": 137,
   "mentions": [
+    {
+      "id": "d65f2fb1a28c69a5",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:54+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Trump delays intel chief's confirmation in an attempt to advance voting bill",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/06/18/nx-s1-5861710/trump-delays-intel-chiefs-confirmation-in-an-attempt-to-advance-voting-bill",
+      "image": null,
+      "headline": "Trump delays intel chief's confirmation in an attempt to advance voting bill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "f2eaf4f049cb4da6",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:04+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Intel rises 9% after Trump says company will partner with Apple on U.S. chip design - CNBC Intel rises 9% after Trump says",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.95,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EYlA1MHNsNk83YllqeGQ4NjVjajZXSnpUdHRUcU1OaTZoM1hXUGZhb2ktT3BFUHBVTmEtOFowaUw3Qk9LWHJPeGdJWmRrWXV0YXBYaERka3kwMzlGTVAteFA4X1BQSlFKNy13QjZWb2h1UTU2azhmT3VPMNIBgAFBVV95cUxNajJvNDlLalFrd0RUcldYN0tHVUZlOEJfX1Q4bGZ3M004S2ktUGY5dmFFd0Q3R1Q2djBzN1NvQWJSSksxYWVjTV9NdW44U2ttTFU4NzRZNzFCSHBWWlB2VXowcGt0dlFWbXM1bkhwTjRFY2l1Qm1HVHFDU0dEUTczcg?oc=5",
+      "image": null,
+      "headline": "Intel rises 9% after Trump says company will partner with Apple on U.S. chip design - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        }
+      ]
+    },
+    {
+      "id": "8dbad81f26b519c2",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:45:04+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Intel rises 9% after Trump says company will partner with Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EYlA1MHNsNk83YllqeGQ4NjVjajZXSnpUdHRUcU1OaTZoM1hXUGZhb2ktT3BFUHBVTmEtOFowaUw3Qk9LWHJPeGdJWmRrWXV0YXBYaERka3kwMzlGTVAteFA4X1BQSlFKNy13QjZWb2h1UTU2azhmT3VPMNIBgAFBVV95cUxNajJvNDlLalFrd0RUcldYN0tHVUZlOEJfX1Q4bGZ3M004S2ktUGY5dmFFd0Q3R1Q2djBzN1NvQWJSSksxYWVjTV9NdW44U2ttTFU4NzRZNzFCSHBWWlB2VXowcGt0dlFWbXM1bkhwTjRFY2l1Qm1HVHFDU0dEUTczcg?oc=5",
+      "image": null,
+      "headline": "Intel rises 9% after Trump says company will partner with Apple on U.S. chip design - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "88c03053ec0273b6",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:44:15+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Modern Diplomacy",
+      "type": "news",
+      "quote": "Apple to Partner With Intel on US Chip Production, Trump Says -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.95,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFB5c1hQSThyTnhsMlZxQTZ5dmg4M2dzRjg1V0pBTHdMV0dITlFjdlRjcWNjVXBiWEdPNzRaWTljaFlPZUlGdWJBbmp5MW5pZmpzcXM3VmFSQ3c2dnVsUl8zR2dobFJVVXY1VjFTTURsNXZNSC1pcnhlUzBvTjYyWlNMdGdOaGdoNUhUNmhNbEpBbkZLdTNTWGk1Z1JmcWVE?oc=5",
+      "image": null,
+      "headline": "Apple to Partner With Intel on US Chip Production, Trump Says - Modern Diplomacy",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        }
+      ]
+    },
+    {
+      "id": "355f23fee1092467",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:44:15+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Modern Diplomacy",
+      "type": "news",
+      "quote": "Apple to Partner With Intel on US Chip Production, Trump Says - Modern Diplomacy Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFB5c1hQSThyTnhsMlZxQTZ5dmg4M2dzRjg1V0pBTHdMV0dITlFjdlRjcWNjVXBiWEdPNzRaWTljaFlPZUlGdWJBbmp5MW5pZmpzcXM3VmFSQ3c2dnVsUl8zR2dobFJVVXY1VjFTTURsNXZNSC1pcnhlUzBvTjYyWlNMdGdOaGdoNUhUNmhNbEpBbkZLdTNTWGk1Z1JmcWVE?oc=5",
+      "image": null,
+      "headline": "Apple to Partner With Intel on US Chip Production, Trump Says - Modern Diplomacy",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
     {
       "id": "6bafdd0a98f89432",
       "date": "Thu, 18 Jun 2026",
@@ -342,6 +882,222 @@
       "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1FJMzBNOFM5NE95M3NQUzNXclJ4Z2piRzg0X1VRLWFzYVFoR282b0pfZUZlVTNPSEZldm5kQ0JPcEZKV0NFcUloTnppVkdrR1hKZTNMelJ5MUtVS1MzWERtMlE2ZmM2el81SllnTm9MbS1VYWdDOHdzWUVURV9xajRhSEpXeHJZUV9NamNLWWU4LU0wNjd5YzFDRlBsZ3VvNWtsc2QzMNIBwgFBVV95cUxPeUp1MTNINmVVaW5Yb3ZGVE5pZ1habHJwRGVmb0lRczdHRU1KbUlDVkVVWE96Nkwya3hSUDNvNG01OUoyX0phOXRMemY5cFBPclkwX2Ewc0Q3UHU2SEhwQm44MUdPVjl3Qlg1WmJQeGptMU8xS0hVM3Z1T2RtcFdsNHJZd0xnNDJwRjdIdGhtVE9WamdqRjVoVmtVVHFqZmpzODJ2U3k0b0xCUmw3dkdUVFk4NmNUeUxVUFA3TEo4anZndw?oc=5",
       "image": null,
       "headline": "Trump says Apple to work with Intel to manufacture chips in US - Emirates 24|7",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 108.17
+        },
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "c4d19ba74643ef2e",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T04:47:39+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNA",
+      "type": "news",
+      "quote": "Trump says Apple to work with Intel to manufacture chips in US - CNA Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 295.95,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcllCTUlKSzhlTHNyM3hQdGVXdmx5aXhWLVZUa0l4VGt5Ty1KZjhUWFJTTmh4LUhrSmNxSUZOSm9IeWgwUU16Qk5Wb3J6djZwbWIxR09Ra1l2SXBpNTZxV2lnclRVbUp3ckNBZzZmWDVmMktqUzExTmJVVmlLakVlWFh1YldVMUxJR29vdzhNTmp6LV9GamFGWnRja3BOcjVWYmc?oc=5",
+      "image": null,
+      "headline": "Trump says Apple to work with Intel to manufacture chips in US - CNA",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-18",
+          "c": 297.84
+        },
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        }
+      ]
+    },
+    {
+      "id": "706ba6131a3d443e",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T04:47:39+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "CNA",
+      "type": "news",
+      "quote": "Trump says Apple to work with Intel to manufacture chips in US - CNA Trump says Apple to work",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 121.1,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcllCTUlKSzhlTHNyM3hQdGVXdmx5aXhWLVZUa0l4VGt5Ty1KZjhUWFJTTmh4LUhrSmNxSUZOSm9IeWgwUU16Qk5Wb3J6djZwbWIxR09Ra1l2SXBpNTZxV2lnclRVbUp3ckNBZzZmWDVmMktqUzExTmJVVmlLakVlWFh1YldVMUxJR29vdzhNTmp6LV9GamFGWnRja3BOcjVWYmc?oc=5",
+      "image": null,
+      "headline": "Trump says Apple to work with Intel to manufacture chips in US - CNA",
       "channel": "News",
       "series": [
         {
