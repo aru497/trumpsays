@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-06-18T19:00:29.874545+00:00",
-  "count": 200,
+  "updated_at": "2026-06-18T19:49:53.303386+00:00",
+  "count": 203,
   "mentions": [
+    {
+      "id": "7341a281c5f2ee0d",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T19:37:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "Intel\u2019s shares surged after Trump's Apple-Intel deal announcement - Washington Examiner Intel\u2019s",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.59,
+      "change": 0.55,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjhGZGMzMnFIa0hKem9saUxaY0JVTFZBZmRTTDNKbkloT05sWHdRN3VSbHdHWGw3NDRXRFU2bTBGMS1CdTN4Q2QyRS02a0xxbEpsWkJEU1ViaWJ2QjlCSlQ5TXVzSFZveVVZLTY3d2hMdDVJSGtQQ0F4emx4WU5RVUZVYy1OTjBWVUtCdHJFSThKMGNtR05jMTFiLTE4ckI5b2VkMGdZSmpQaE1tV0lIWnFYNnRyNEtUMXJCNm9USV9iZXA1dzJPZEhhTzhMQVZYclJTSnluN09ZclVE?oc=5",
+      "image": null,
+      "headline": "Intel\u2019s shares surged after Trump's Apple-Intel deal announcement - Washington Examiner",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.59
+        }
+      ]
+    },
+    {
+      "id": "fac1fa7eb8fc8a07",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T19:37:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "Intel\u2019s shares surged after Trump's Apple-Intel deal",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 134.52,
+      "change": 11.08,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjhGZGMzMnFIa0hKem9saUxaY0JVTFZBZmRTTDNKbkloT05sWHdRN3VSbHdHWGw3NDRXRFU2bTBGMS1CdTN4Q2QyRS02a0xxbEpsWkJEU1ViaWJ2QjlCSlQ5TXVzSFZveVVZLTY3d2hMdDVJSGtQQ0F4emx4WU5RVUZVYy1OTjBWVUtCdHJFSThKMGNtR05jMTFiLTE4ckI5b2VkMGdZSmpQaE1tV0lIWnFYNnRyNEtUMXJCNm9USV9iZXA1dzJPZEhhTzhMQVZYclJTSnluN09ZclVE?oc=5",
+      "image": null,
+      "headline": "Intel\u2019s shares surged after Trump's Apple-Intel deal announcement - Washington Examiner",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 134.52
+        }
+      ]
+    },
     {
       "id": "2b70ebe9e2247f1e",
       "date": "Thu, 18 Jun 2026",
@@ -4213,6 +4429,25 @@
           "c": 121.1
         }
       ]
+    },
+    {
+      "id": "06243d71eca28d41",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T10:51:07+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Sen. Elissa Slotkin, D-Mich., says Trump's threat to block FISA reauthorization is like \"cutting off your nose to",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/06/18/nx-s1-5861734/slotkin-trump-pulte-intelligence-chief-confirmation-hearing",
+      "image": null,
+      "headline": "Trump's FISA threat is like 'cutting off your nose to spite your face,' says Sen. Slotkin",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "281f59cfaaab6516",
