@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-06-18T15:00:54.523358+00:00",
-  "count": 177,
+  "updated_at": "2026-06-18T16:41:02.244233+00:00",
+  "count": 190,
   "mentions": [
+    {
+      "id": "9b4ed5a8da713a4b",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:04:24+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The American Bazaar",
+      "type": "news",
+      "quote": "Trump says Apple will manufacture chips in US with Intel - The American",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.52,
+      "change": 0.53,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEpMVk40NlpLaGpQakxoRUdTMUVSQjVTNk5GN0RZemcxU3NoNS0zaUQyY3otREhtWXdsdE80cGpGbTBGdXRrWV9PbzBDV1ZnaFlJUlhRMXB1ODQwTVN3Y3VXVGVUOGo3TnRUX09kd2dLTmlyMHQydkIxbEhxVTBmUlpRRVdIV1NYbVRiTVpKc3ZQck5VU1N1RDFRanNxcmR6aVNBN3FmbFdZeU1H?oc=5",
+      "image": null,
+      "headline": "Trump says Apple will manufacture chips in US with Intel - The American Bazaar",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.52
+        }
+      ]
+    },
+    {
+      "id": "83b3f51703a9b42e",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:04:24+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The American Bazaar",
+      "type": "news",
+      "quote": "Trump says Apple will manufacture chips in US with Intel - The American Bazaar Trump says Apple will manufacture",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.66,
+      "change": 10.37,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEpMVk40NlpLaGpQakxoRUdTMUVSQjVTNk5GN0RZemcxU3NoNS0zaUQyY3otREhtWXdsdE80cGpGbTBGdXRrWV9PbzBDV1ZnaFlJUlhRMXB1ODQwTVN3Y3VXVGVUOGo3TnRUX09kd2dLTmlyMHQydkIxbEhxVTBmUlpRRVdIV1NYbVRiTVpKc3ZQck5VU1N1RDFRanNxcmR6aVNBN3FmbFdZeU1H?oc=5",
+      "image": null,
+      "headline": "Trump says Apple will manufacture chips in US with Intel - The American Bazaar",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.66
+        }
+      ]
+    },
+    {
+      "id": "ec62f7ae8b467379",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:02:54+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Apple to Buy Computer Chips From Intel, Trump Says - The New",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.52,
+      "change": 0.53,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
+      "image": null,
+      "headline": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.52
+        }
+      ]
+    },
+    {
+      "id": "7f4a45607ddc205b",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:02:54+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times Apple to Buy Computer",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.66,
+      "change": 10.37,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
+      "image": null,
+      "headline": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.66
+        }
+      ]
+    },
+    {
+      "id": "9ffbbf5ef655259c",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:02:54+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times Apple to Buy Computer Chips From Intel, Trump",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.13,
+      "change": -1.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
+      "image": null,
+      "headline": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 75.26
+        },
+        {
+          "d": "05-20",
+          "c": 74.33
+        },
+        {
+          "d": "05-21",
+          "c": 74.26
+        },
+        {
+          "d": "05-22",
+          "c": 74.96
+        },
+        {
+          "d": "05-26",
+          "c": 74.99
+        },
+        {
+          "d": "05-27",
+          "c": 74.8
+        },
+        {
+          "d": "05-28",
+          "c": 75.0
+        },
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
+        },
+        {
+          "d": "06-18",
+          "c": 73.13
+        }
+      ]
+    },
     {
       "id": "b4228482f3568892",
       "date": "Thu, 18 Jun 2026",
@@ -215,6 +755,330 @@
         {
           "d": "06-18",
           "c": 131.09
+        }
+      ]
+    },
+    {
+      "id": "d813d7c141368c9e",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:14:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Columbus Dispatch",
+      "type": "news",
+      "quote": "Intel and Apple strike chip deal, Trump says in Truth Social post - The",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.52,
+      "change": 0.53,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTFqQmVCb0VDeE9oaE1sc3ZIVGRIc1pLcU1lZHNTTm8xczhIb3ZBcUxOSGV4MElYUi1kakdiUGttTkN1NWUwQS0ybkFwek5TUHAzejRCQU15V19Mak1YajlUMXZkYWJsdVE3TFV5Z2JQTUtTYnMzaGt1QlRTcjh5dGVvRFZBR0hDSzdOMjBDWEdtYXZ0aTdlb1ZpdXJIdjFldHVIY1NzdXdLclpJemFfMVdlNA?oc=5",
+      "image": null,
+      "headline": "Intel and Apple strike chip deal, Trump says in Truth Social post - The Columbus Dispatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.52
+        }
+      ]
+    },
+    {
+      "id": "cff8019da13741ba",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:14:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Columbus Dispatch",
+      "type": "news",
+      "quote": "Intel and Apple strike chip deal, Trump says in Truth Social",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.66,
+      "change": 10.37,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTFqQmVCb0VDeE9oaE1sc3ZIVGRIc1pLcU1lZHNTTm8xczhIb3ZBcUxOSGV4MElYUi1kakdiUGttTkN1NWUwQS0ybkFwek5TUHAzejRCQU15V19Mak1YajlUMXZkYWJsdVE3TFV5Z2JQTUtTYnMzaGt1QlRTcjh5dGVvRFZBR0hDSzdOMjBDWEdtYXZ0aTdlb1ZpdXJIdjFldHVIY1NzdXdLclpJemFfMVdlNA?oc=5",
+      "image": null,
+      "headline": "Intel and Apple strike chip deal, Trump says in Truth Social post - The Columbus Dispatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.66
+        }
+      ]
+    },
+    {
+      "id": "6d6cc815c72a74f0",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T14:14:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Columbus Dispatch",
+      "type": "news",
+      "quote": "Intel and Apple strike chip deal, Trump says in Truth Social post - The Columbus Dispatch Intel and Apple strike chip",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.34,
+      "change": 2.96,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTFqQmVCb0VDeE9oaE1sc3ZIVGRIc1pLcU1lZHNTTm8xczhIb3ZBcUxOSGV4MElYUi1kakdiUGttTkN1NWUwQS0ybkFwek5TUHAzejRCQU15V19Mak1YajlUMXZkYWJsdVE3TFV5Z2JQTUtTYnMzaGt1QlRTcjh5dGVvRFZBR0hDSzdOMjBDWEdtYXZ0aTdlb1ZpdXJIdjFldHVIY1NzdXdLclpJemFfMVdlNA?oc=5",
+      "image": null,
+      "headline": "Intel and Apple strike chip deal, Trump says in Truth Social post - The Columbus Dispatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.34
         }
       ]
     },
@@ -3351,6 +4215,222 @@
       ]
     },
     {
+      "id": "743ad8b954df3c22",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T09:16:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "MarketWatch",
+      "type": "news",
+      "quote": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip deal might start small - MarketWatch Intel\u2019s stock",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.52,
+      "change": 0.53,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0kxd0R6dUFKSXB1eHpYNkRWSnpLZ0g2V0dVMDJJMXV3MXc2MF9oTWdjb1l3d2JPb1JJNnFXc0lQbkhnZnVQbFA3b05RY2NOLUh1Z3pzbEZNaGMyUFlETWV1OWhMNVNwT3dHcDc1RlZMOHZ0eEtfYlo5YlIxQWRENEpwY2JQeWEyVGxaYjZwNGdwQUYtNEFhSV9GWFA1b2VGUnZiNFlUUEVXR0RFM28tYkxMbUxfaDktSzRhYWt3?oc=5",
+      "image": null,
+      "headline": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip deal might start small - MarketWatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.52
+        }
+      ]
+    },
+    {
+      "id": "57bca9d9a69af651",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T09:16:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "MarketWatch",
+      "type": "news",
+      "quote": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.66,
+      "change": 10.37,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0kxd0R6dUFKSXB1eHpYNkRWSnpLZ0g2V0dVMDJJMXV3MXc2MF9oTWdjb1l3d2JPb1JJNnFXc0lQbkhnZnVQbFA3b05RY2NOLUh1Z3pzbEZNaGMyUFlETWV1OWhMNVNwT3dHcDc1RlZMOHZ0eEtfYlo5YlIxQWRENEpwY2JQeWEyVGxaYjZwNGdwQUYtNEFhSV9GWFA1b2VGUnZiNFlUUEVXR0RFM28tYkxMbUxfaDktSzRhYWt3?oc=5",
+      "image": null,
+      "headline": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip deal might start small - MarketWatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.66
+        }
+      ]
+    },
+    {
       "id": "dc40dc94ce76af39",
       "date": "Thu, 18 Jun 2026",
       "ts": "2026-06-18T09:15:00+00:00",
@@ -4535,6 +5615,222 @@
         {
           "d": "06-17",
           "c": 121.1
+        }
+      ]
+    },
+    {
+      "id": "5737939a09805701",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:25:47+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Hindu",
+      "type": "news",
+      "quote": "Trump says Apple to work with Intel to manufacture chips in U.S. - The",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 297.52,
+      "change": 0.53,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSEp5dWFjVEZLeDZ4YVZCUVJ6MzltTXJiaHV5c2hRdUdiaVJUb21yeGNrZGttaXpvSHNnM1BjYUN6alhIR0Fabm5BU0NGZDUyOVZDbG0tbEgzNUJWWDJXakhiTVZSWFNEaUQxYi03TE9qbzBNS0dCWXBmZGhySUJNOUpZcmpjYzRyQ0NUTGpoVk1yU0RocnRhZHQzQ0NHYjBNVXI4TGo2a1QybkEtdVZrTzhheGlTRWwwam05MllLeXk1ZE45WVHSAcwBQVVfeXFMT1lGUjlfNHRVMEtsTGFjYUIwSHFmcWJEa2hIRUlGUXNjOENvcVdmWXBSc1Vhdm5lVEpPLVlsejI5WXpSMTVpS3JZeVFGeDNmU2t3S2UxaGJmejZZd3ZmUzAwaGt3VjAwSi1zQTd4RjFBZWFrSmE5MHZFajZ2cDFrbmlqaHc1a0tLX1RoVEFNTkRNNWtUNmdISHJsc0xIaEh0bkJNbTlBZzB6XzZIdWN4UUl3TmhDV2g4VWdNYmxSWTQtRUtnTnM1NDVVSmFC?oc=5",
+      "image": null,
+      "headline": "Trump says Apple to work with Intel to manufacture chips in U.S. - The Hindu",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 297.52
+        }
+      ]
+    },
+    {
+      "id": "9119f7349b8f5f8b",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T08:25:47+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "The Hindu",
+      "type": "news",
+      "quote": "Trump says Apple to work with Intel to manufacture chips in U.S. - The Hindu Trump says Apple",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.66,
+      "change": 10.37,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSEp5dWFjVEZLeDZ4YVZCUVJ6MzltTXJiaHV5c2hRdUdiaVJUb21yeGNrZGttaXpvSHNnM1BjYUN6alhIR0Fabm5BU0NGZDUyOVZDbG0tbEgzNUJWWDJXakhiTVZSWFNEaUQxYi03TE9qbzBNS0dCWXBmZGhySUJNOUpZcmpjYzRyQ0NUTGpoVk1yU0RocnRhZHQzQ0NHYjBNVXI4TGo2a1QybkEtdVZrTzhheGlTRWwwam05MllLeXk1ZE45WVHSAcwBQVVfeXFMT1lGUjlfNHRVMEtsTGFjYUIwSHFmcWJEa2hIRUlGUXNjOENvcVdmWXBSc1Vhdm5lVEpPLVlsejI5WXpSMTVpS3JZeVFGeDNmU2t3S2UxaGJmejZZd3ZmUzAwaGt3VjAwSi1zQTd4RjFBZWFrSmE5MHZFajZ2cDFrbmlqaHc1a0tLX1RoVEFNTkRNNWtUNmdISHJsc0xIaEh0bkJNbTlBZzB6XzZIdWN4UUl3TmhDV2g4VWdNYmxSWTQtRUtnTnM1NDVVSmFC?oc=5",
+      "image": null,
+      "headline": "Trump says Apple to work with Intel to manufacture chips in U.S. - The Hindu",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.66
         }
       ]
     },
@@ -8935,6 +10231,114 @@
         {
           "d": "06-12",
           "c": 7.8
+        }
+      ]
+    },
+    {
+      "id": "8dfcdc7b015cd707",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T07:00:00+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "citybiz",
+      "type": "news",
+      "quote": "Trump Media, TAE and TVA End Plans for Truth Social Spinoff - citybiz",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.34,
+      "change": 2.96,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONE1TRkZ1YV9LMUFIZXVFOTBBT3NPMVkta01SakZrVjFIQlVjR3ZrMy1wbUV2cnlSNkhDcDBwYXlpemVTNGhkaktaMm91clVHSmhZMERWUG5Jcno0U1ZJc1Y5T1I1T0hzLWN3b1N4MUpJa2JaTzMtUjZDcFRzUkhqVDItT2NBa04tQXViYU43VXJwWDVxZzk3T1NEYWZKZw?oc=5",
+      "image": null,
+      "headline": "Trump Media, TAE and TVA End Plans for Truth Social Spinoff - citybiz",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.34
         }
       ]
     },
