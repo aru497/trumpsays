@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-06-19T11:01:12.706110+00:00",
-  "count": 242,
+  "updated_at": "2026-06-19T12:45:17.093830+00:00",
+  "count": 245,
   "mentions": [
+    {
+      "id": "669ccb1813db7ac8",
+      "date": "Fri, 19 Jun 2026",
+      "ts": "2026-06-19T06:39:36+00:00",
+      "date_display": "Jun 19, 2026",
+      "source": "Tekedia",
+      "type": "news",
+      "quote": "Surges 9% After Trump Announced Company Will Partner With Apple On U.S. Chip Design - Tekedia Intel Surges 9% After Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 298.01,
+      "change": 0.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYURCTk16OVBpeVFOcG5CWkNzMjdCUDdDSFA1amZvdGtuV3FuREc0azg1UE9jbmxoaDNTbDFiTlZ1ZmxBNnZ4ekZDLXBoNnQ2OXVQcTFHN0dET2x2Vk04WVVEQUhkcGczWUFBcktGT3lGWG10bVNDcE1sNlJFRTN2LVRZU0VvTkI0ZHlkc2VwMThkZGhTMUhIdEYzclFhLTU4Vkl6ZVNicWEtSm1DNkd6YUVB?oc=5",
+      "image": null,
+      "headline": "Intel Surges 9% After Trump Announced Company Will Partner With Apple On U.S. Chip Design - Tekedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        }
+      ]
+    },
+    {
+      "id": "05abc686b0694534",
+      "date": "Fri, 19 Jun 2026",
+      "ts": "2026-06-19T06:39:36+00:00",
+      "date_display": "Jun 19, 2026",
+      "source": "Tekedia",
+      "type": "news",
+      "quote": "Intel Surges 9% After Trump Announced Company Will Partner With",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.99,
+      "change": 10.64,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYURCTk16OVBpeVFOcG5CWkNzMjdCUDdDSFA1amZvdGtuV3FuREc0azg1UE9jbmxoaDNTbDFiTlZ1ZmxBNnZ4ekZDLXBoNnQ2OXVQcTFHN0dET2x2Vk04WVVEQUhkcGczWUFBcktGT3lGWG10bVNDcE1sNlJFRTN2LVRZU0VvTkI0ZHlkc2VwMThkZGhTMUhIdEYzclFhLTU4Vkl6ZVNicWEtSm1DNkd6YUVB?oc=5",
+      "image": null,
+      "headline": "Intel Surges 9% After Trump Announced Company Will Partner With Apple On U.S. Chip Design - Tekedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.99
+        }
+      ]
+    },
     {
       "id": "d0f70d28fee957a0",
       "date": "Fri, 19 Jun 2026",
@@ -24089,6 +24305,114 @@
         {
           "d": "06-17",
           "c": 8.1
+        }
+      ]
+    },
+    {
+      "id": "7ac9e4dbf4c34479",
+      "date": "Wed, 22 Apr 2026",
+      "ts": "2026-04-22T07:00:00+00:00",
+      "date_display": "Apr 22, 2026",
+      "source": "The New Republic",
+      "type": "news",
+      "quote": "Trump Media CEO Leaves After Massive Stock Collapse - The New Republic",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTlKbVNuY0pyblFlR2J3TlVxeHpfaWxyeDlmcXQ3dS1zem9pdDFSckdrNVhVWTFCZV9yUFVrdjNVd1pUTG9RMkpEclJtTnhmcEtDNHlXQVNCei1laXdrRHZuUUdhTm5JR0NrVkNBU2phUkJSUW55M0V1V0ludjlEUmpEVDVFWDZa?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO Leaves After Massive Stock Collapse - The New Republic",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
