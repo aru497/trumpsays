@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T18:32:05.081277+00:00",
-  "count": 250,
+  "updated_at": "2026-06-19T19:31:15.885962+00:00",
+  "count": 271,
   "mentions": [
     {
       "id": "f29481787d8ac678",
@@ -12314,6 +12314,222 @@
       ]
     },
     {
+      "id": "9345a0a7db7d5225",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T04:44:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump says Apple to partner with Intel on US chip design, production -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 298.01,
+      "change": 0.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNi1sQmpORGRwamFsUG5EdnpoWnVOMTduZzNLbWg0ZkdyU2pyODhJWHpGb3lHT190WVBjd1I2ZEFqYVJfc2dRaV9fNkUtNk5ZTTBZRUQyN0dPSl9kcTRUelc5RF9oYTZkZ1dKRFFvM1Bud2xiNEhpb0I3aUdKMXNsdFIzSm9WZElQRkltTmNWS3NlNzdaQzBudzVlMA?oc=5",
+      "image": null,
+      "headline": "Trump says Apple to partner with Intel on US chip design, production - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        }
+      ]
+    },
+    {
+      "id": "f8944f8489aab842",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T04:44:00+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump says Apple to partner with Intel on US chip design, production - Yahoo Finance Trump says",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.99,
+      "change": 10.64,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNi1sQmpORGRwamFsUG5EdnpoWnVOMTduZzNLbWg0ZkdyU2pyODhJWHpGb3lHT190WVBjd1I2ZEFqYVJfc2dRaV9fNkUtNk5ZTTBZRUQyN0dPSl9kcTRUelc5RF9oYTZkZ1dKRFFvM1Bud2xiNEhpb0I3aUdKMXNsdFIzSm9WZElQRkltTmNWS3NlNzdaQzBudzVlMA?oc=5",
+      "image": null,
+      "headline": "Trump says Apple to partner with Intel on US chip design, production - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.99
+        }
+      ]
+    },
+    {
       "id": "189a148a3adea3eb",
       "date": "Wed, 17 Jun 2026",
       "ts": "2026-06-17T19:27:48+00:00",
@@ -14886,6 +15102,114 @@
       "series": null
     },
     {
+      "id": "88aeff138d2f02e3",
+      "date": "Thu, 11 Jun 2026",
+      "ts": "2026-06-11T13:58:45+00:00",
+      "date_display": "Jun 11, 2026",
+      "source": "Tekedia",
+      "type": "news",
+      "quote": "Trump Media Drops Truth Social Spinoff Plan as It Doubles Down on",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUJiUmdEQS1zM05pYW96MTZBNTR4cUFTTDMyNHNYM3IybW5CcWR1dllzQzlCenhzMUx6Y190V0d1bHZ4SkV2aldvMlpKNWJDVFBiT2lLV01sVnhlbFlNWHRfeUE0aWZiUWhtQmRoSklyYjF5U2pBZzJhdHBPTlBZTW91XzkwcU9aZU15ZnA4R01EMHphOG9qZmQyM1hsMUgxcWFJYnNoWVVHQm9J?oc=5",
+      "image": null,
+      "headline": "Trump Media Drops Truth Social Spinoff Plan as It Doubles Down on Fusion Energy Bet - Tekedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
       "id": "4f79f447239de7f0",
       "date": "Wed, 10 Jun 2026",
       "ts": "2026-06-10T21:53:56+00:00",
@@ -15210,6 +15534,114 @@
       ]
     },
     {
+      "id": "a0908fa4ad424f9e",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T14:05:28+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "Trump Media, TAE no longer pursuing Truth Social spinoff - MSN Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcm0wTzJyQlR4LUlxRTRRV09fY19ISm1SbW5YT1F3QUg5UjRwazVHZkFnVE4yQjcta2FPZXlLRklMM2tMamZGUHNBc3VFZVZqUmwyb1dsb2FXVmdKTXNTQVRCQUNXMjJpOGRFQnFWaXA1Tkg3MmNBY3YxemlnWGdHYlZ6STd3YkFMWm5tQi16ZkVtc3BUVkRFU215bnk5Z1Fub2p1b1ZxRFo?oc=5",
+      "image": null,
+      "headline": "Trump Media, TAE no longer pursuing Truth Social spinoff - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
       "id": "1a1c23a7924551b0",
       "date": "Wed, 10 Jun 2026",
       "ts": "2026-06-10T13:58:24+00:00",
@@ -15314,6 +15746,114 @@
         {
           "d": "06-12",
           "c": 7.8
+        }
+      ]
+    },
+    {
+      "id": "c05307be705cf261",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T13:54:54+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "Trump Media and TAE Technologies will not spin off Truth Social - MSN",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWV4czZmMVo5Z0otTUFoQjBjQTNaSXp6d2o1TmhPNS1oajVkZHp5TlNFZEE5ckxZdHV2bEVzdTRPSTVtTXUyNExPY1pWWXhmTTBOVG5xTVl0THZOeHJDUVV5WERRWldXMVltWUpDODc3d1hTQXRiMnlFRlJDaE5VNXd5UGxjOUhSUGtDLURXMUJNck13dFczaVBaM0xIRTJJeVJubnhwTl9zQXJEQ3BqZVBSUkJCSFVG?oc=5",
+      "image": null,
+      "headline": "Trump Media and TAE Technologies will not spin off Truth Social - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
@@ -15738,6 +16278,114 @@
         {
           "d": "06-18",
           "c": 8.34
+        }
+      ]
+    },
+    {
+      "id": "5cc16f637fed3fd4",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T07:00:00+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "Moomoo",
+      "type": "news",
+      "quote": "Trump Media Drops Plans for Truth Social Spinoff - Moomoo Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXlkd2w1MUJ5WGVHYnNCbm5idzk3dDB6UDYtckI3bWoxUDljaTV6Rm9lVDh3R2FJTFluZlJZTm1zYnI0NnRMcHZXQWFHYW40am01UkpCSHJpUVJGajZXUFBnNU9lMW1QTTU1d2NPX1JRd20zOGJJTng4WncyX1E0Y2hvNjZ0X25CTUNFR0tfUlRxcFRK?oc=5",
+      "image": null,
+      "headline": "Trump Media Drops Plans for Truth Social Spinoff - Moomoo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
@@ -20937,6 +21585,222 @@
       ]
     },
     {
+      "id": "6587b39c2db73f03",
+      "date": "Wed, 13 May 2026",
+      "ts": "2026-05-13T07:00:00+00:00",
+      "date_display": "May 13, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump confirms he did in fact bring along Nvidia CEO Jensen Huang on his trip to China - Yahoo Finance",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 210.69,
+      "change": 2.95,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnJFb3M0eGVMQTZwWTBnQlhRTFcydF9hYXRoMm8wcUgydkFsOUNua0lJRnh5M3Zib2NSQVhJU0FwdFc4TDlubzFZSFdIUmpabDZTUEtiMkRKQmRsTHB0MWZfYjBlbFBja1J4emJUNTBlTkNTSmtiRUpEZmVYb3N2Mw?oc=5",
+      "image": null,
+      "headline": "Trump confirms he did in fact bring along Nvidia CEO Jensen Huang on his trip to China - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 220.35
+        },
+        {
+          "d": "05-20",
+          "c": 223.21
+        },
+        {
+          "d": "05-21",
+          "c": 219.25
+        },
+        {
+          "d": "05-22",
+          "c": 215.08
+        },
+        {
+          "d": "05-26",
+          "c": 214.61
+        },
+        {
+          "d": "05-27",
+          "c": 212.35
+        },
+        {
+          "d": "05-28",
+          "c": 214.0
+        },
+        {
+          "d": "05-29",
+          "c": 210.89
+        },
+        {
+          "d": "06-01",
+          "c": 224.1
+        },
+        {
+          "d": "06-02",
+          "c": 222.56
+        },
+        {
+          "d": "06-03",
+          "c": 214.5
+        },
+        {
+          "d": "06-04",
+          "c": 218.66
+        },
+        {
+          "d": "06-05",
+          "c": 205.1
+        },
+        {
+          "d": "06-08",
+          "c": 208.64
+        },
+        {
+          "d": "06-09",
+          "c": 208.19
+        },
+        {
+          "d": "06-10",
+          "c": 200.42
+        },
+        {
+          "d": "06-11",
+          "c": 204.87
+        },
+        {
+          "d": "06-12",
+          "c": 205.19
+        },
+        {
+          "d": "06-15",
+          "c": 212.45
+        },
+        {
+          "d": "06-16",
+          "c": 207.41
+        },
+        {
+          "d": "06-17",
+          "c": 204.65
+        },
+        {
+          "d": "06-18",
+          "c": 210.69
+        }
+      ]
+    },
+    {
+      "id": "c8fa53645f4035f1",
+      "date": "Tue, 12 May 2026",
+      "ts": "2026-05-12T07:00:00+00:00",
+      "date_display": "May 12, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Personally Calls Nvidia CEO Jensen Huang To Join China Trip At Last Minute Amid",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 210.69,
+      "change": 2.95,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTDcxSDZndDJIN3ZsUXdvZ2lVTDhTRDVzWGJQTkh1ZzRNZ2Zra2tSelEyR19QVmVzeDVneHJPbFFTR25CdFdIZUdFMjdveThZSEZpRVZ3cGdHN2o5cU1WeGpCbVhwN0xKbmhKekljUzBDeU5ib1BtenVIckhrb2tmOHBtd1Bxdw?oc=5",
+      "image": null,
+      "headline": "Trump Personally Calls Nvidia CEO Jensen Huang To Join China Trip At Last Minute Amid Backlash Over AI Chip Sales To Beijing: Report - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 220.35
+        },
+        {
+          "d": "05-20",
+          "c": 223.21
+        },
+        {
+          "d": "05-21",
+          "c": 219.25
+        },
+        {
+          "d": "05-22",
+          "c": 215.08
+        },
+        {
+          "d": "05-26",
+          "c": 214.61
+        },
+        {
+          "d": "05-27",
+          "c": 212.35
+        },
+        {
+          "d": "05-28",
+          "c": 214.0
+        },
+        {
+          "d": "05-29",
+          "c": 210.89
+        },
+        {
+          "d": "06-01",
+          "c": 224.1
+        },
+        {
+          "d": "06-02",
+          "c": 222.56
+        },
+        {
+          "d": "06-03",
+          "c": 214.5
+        },
+        {
+          "d": "06-04",
+          "c": 218.66
+        },
+        {
+          "d": "06-05",
+          "c": 205.1
+        },
+        {
+          "d": "06-08",
+          "c": 208.64
+        },
+        {
+          "d": "06-09",
+          "c": 208.19
+        },
+        {
+          "d": "06-10",
+          "c": 200.42
+        },
+        {
+          "d": "06-11",
+          "c": 204.87
+        },
+        {
+          "d": "06-12",
+          "c": 205.19
+        },
+        {
+          "d": "06-15",
+          "c": 212.45
+        },
+        {
+          "d": "06-16",
+          "c": 207.41
+        },
+        {
+          "d": "06-17",
+          "c": 204.65
+        },
+        {
+          "d": "06-18",
+          "c": 210.69
+        }
+      ]
+    },
+    {
       "id": "b15d0e60cec2bae5",
       "date": "Sun, 10 May 2026",
       "ts": "2026-05-10T07:00:00+00:00",
@@ -21033,6 +21897,222 @@
         {
           "d": "06-15",
           "c": 8.44
+        }
+      ]
+    },
+    {
+      "id": "c42e11c960fa2349",
+      "date": "Sun, 10 May 2026",
+      "ts": "2026-05-10T07:00:00+00:00",
+      "date_display": "May 10, 2026",
+      "source": "Macau Business",
+      "type": "news",
+      "quote": "Parent company of Trump\u2019s Truth Social reports $400 mn loss - Macau Business Parent company of",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzhSYmJ2N3cyZ1JXeEtTMzZwVGtQUnBfM3MwYXZISGM1ajlzdE9FbkpVemlhWnhPdV9xd0FWTTVkNUd2eXdvZnIyN0hSU2pGUjhPM04xSlpNZW5sMGgyWVNxWkJfMGZlS1dlLXRtZFoxUWRjTWxvQ25qRE9wRjhQQUFtU0hmV1YtczFMUg?oc=5",
+      "image": null,
+      "headline": "Parent company of Trump\u2019s Truth Social reports $400 mn loss - Macau Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "15d3cbeb8a5cf0a9",
+      "date": "Sun, 10 May 2026",
+      "ts": "2026-05-10T07:00:00+00:00",
+      "date_display": "May 10, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "Trump Media posts $406M loss on crypto markdowns - MSN Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbUJQZEpDXzBUNGtreEdLVW1pNzhGZGxmY3p6QlRkVGFmZHFVQWVBNEpMYzZrLWdZNHlkVDYwWDZkOFM5bkxoa1Z6SGtQdDVBTHU1VXpCaGF4bVJkY3kxLUVmNUlWNm54bW8yMnM0OU9TNEVQQi1WU3lQT1BfQlhlamFHQ0N3MHZmNUlVWkVibC1YWUp5dFRieWxOdVZTYW05WkZRYm1zYnhFX01HU0w3QVpRcXNEdV9FYnJlQ2RKZUN0TzZONkFmb2hhYVYyQ0duQUU2Vg?oc=5",
+      "image": null,
+      "headline": "Trump Media posts $406M loss on crypto markdowns - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
@@ -21349,6 +22429,330 @@
         {
           "d": "06-16",
           "c": 8.16
+        }
+      ]
+    },
+    {
+      "id": "6a8b48a41c988fd0",
+      "date": "Sat, 09 May 2026",
+      "ts": "2026-05-09T07:00:00+00:00",
+      "date_display": "May 09, 2026",
+      "source": "News of Bahrain",
+      "type": "news",
+      "quote": "Parent company of Trump's Truth Social reports $400 mn loss - News of Bahrain Parent company of",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLMEJOY2Y1d01RNHZOVTc3OTg1a19udkhJT1hxa0M0aUg1VFdYMVM5S2pTTmtkaGoyU2Vhc0l5OHcxczR4OWhlbndRNkdhR0NlTG9ib2lReldQTWM?oc=5",
+      "image": null,
+      "headline": "Parent company of Trump's Truth Social reports $400 mn loss - News of Bahrain",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "c3cfbd767c6c986f",
+      "date": "Sat, 09 May 2026",
+      "ts": "2026-05-09T07:00:00+00:00",
+      "date_display": "May 09, 2026",
+      "source": "Tekedia",
+      "type": "news",
+      "quote": "Trump Media Posts $406m Quarterly Loss as Crypto Bet Overshadows Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZU4tUkRNR1hJNERtTEpyZGM5MzZsTTdJWkltMUVocnkxLTFiTnF4dGd3b2k0WlIxRk1RcFlZNjlfU1RUOVhwRW5GRzM5S0luNHlQT1pOQ3RJak5NT0cyNk1EZEVjTmZTOW5saHN2cVJuSTBoeUROUjk3ekx5WXFScE95aEd0Zm5KckNYYUZ3bDJFbUtaemZFdnZuZ1FSVlp0aGNvYmZkcm5LSHp3WExKTDVzUGxPQURSbGFUWjNFamJ2eUxrSzZjNDV0RFd2UFBVNGY1R2NyX1NrUnBjNXhoR1I0dTFBd2c5MlE?oc=5",
+      "image": null,
+      "headline": "Trump Media Posts $406m Quarterly Loss as Crypto Bet Overshadows Truth Social Revenue, Deepening Questions Over Long-Term Viability - Tekedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "47eccf460978f49e",
+      "date": "Fri, 08 May 2026",
+      "ts": "2026-05-08T23:07:46+00:00",
+      "date_display": "May 08, 2026",
+      "source": "AOL.com",
+      "type": "news",
+      "quote": "Trump Media, Truth Social's Parent Company, Reports $405 Million In",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW1mb2Z0MF81VkQ5NGhuajBjaW9kTGx0TmloWU9FZmtZcDJ0MUdSUER5d2dxWkhNdjM0WEZGenNBeWtWaTJJWEE4MUcyTVNSeGpnWW5TTTc3Z3BmMUh3T2lwb1BXTHZ3UWJqWi1ycEw2NlA2ZGlWOHVXeHVFOThSNEp3?oc=5",
+      "image": null,
+      "headline": "Trump Media, Truth Social's Parent Company, Reports $405 Million In Losses - AOL.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
@@ -22717,6 +24121,114 @@
         {
           "d": "06-12",
           "c": 100.04
+        }
+      ]
+    },
+    {
+      "id": "aac3872e5de945ca",
+      "date": "Thu, 30 Apr 2026",
+      "ts": "2026-04-30T06:35:33+00:00",
+      "date_display": "Apr 30, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "INTC shares rise after hours on President Trump\u2019s Truth Social endorsement - MSN INTC shares rise after hours on",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEE1aWlvcTVJRGs4VHBPWWJzS2Rrbk9iekhJWXFXSHJRZDFhNHk2NG14dkpZWVJ5RkxwNF92NHNEZmxjV1dEcU9qR3Q0em5zUUppQTNXemQ3SnRYZG41NDQwVUdsT3hreWlGclYyS2F4YWNsalFSTkNGNEZhTFk3ZnQ1S3NtZG5YckNwRm1oWUFLc1g3Z1VMQ1BGdzBUSVNTRVVKS0pVN1RRWlg4UFVIc2FUc2ZRejFfWFZaNjB0MU9HTmprV2xB?oc=5",
+      "image": null,
+      "headline": "INTC shares rise after hours on President Trump\u2019s Truth Social endorsement - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
@@ -24949,6 +26461,330 @@
       ]
     },
     {
+      "id": "f1dd6db5bc284a97",
+      "date": "Wed, 22 Apr 2026",
+      "ts": "2026-04-22T07:00:00+00:00",
+      "date_display": "Apr 22, 2026",
+      "source": "WRGB",
+      "type": "news",
+      "quote": "Trump Media replaces Devin Nunes as CEO amid stock price drop - WRGB",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjI5N2xFSjRVMk1NY0NpOGhKT0tfQktBQVdJeXgtM1BSOGdOT2t5NzlCVDg5dDZBYVozMm50NUhuMTdwV24xNUEzeEJMRzFER3dGTGhaanZKVlhrY3R1Tk5HOXdGTzltR2RjSmpFSEdMV3ExcUcxMmx1dXN3dlF4UXJyTjRuZ2I4UnlrandTVzY0NHJmMmI3Zlc1ODBfRlVQMkhVa1U5cTRFY1VaOU13NE5kMzNNTW90cl9Ia0dHWXc1Zw?oc=5",
+      "image": null,
+      "headline": "Trump Media replaces Devin Nunes as CEO amid stock price drop - WRGB",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "36205a1e1dd010fe",
+      "date": "Wed, 22 Apr 2026",
+      "ts": "2026-04-22T07:00:00+00:00",
+      "date_display": "Apr 22, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "Trump Media CEO Devin Nunes exits after $712M loss - MSN Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjV0NkY0WHRhVUZuZzJ5T01PVnc5X2c1eDdsVnA2ekJManRKX3pVMnFZbWh0eXc4SjAtLVFYbTZXQ2FldVlSU3UxSWpFRkR4OGZ5VTJ1S212X1Fmd1JJT2gzdXQ2TVJxcm5KRDgyS0NhRFh3QVVvdHBPZ3hPWVlMSVE4M0txYlVLWlhDR1lvM3BLTG9QQXJBVDhEQ1l4OUZBYmU5SjBsVmZMYnQ0WDZrYkE4OHM5a0U?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO Devin Nunes exits after $712M loss - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "c6ccc53fa4f8f24d",
+      "date": "Wed, 22 Apr 2026",
+      "ts": "2026-04-22T07:00:00+00:00",
+      "date_display": "Apr 22, 2026",
+      "source": "The Manila Times",
+      "type": "news",
+      "quote": "Trump Media & Technology Group Appoints Kevin McGurn as Interim Chief",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbUcySDdObFp3SURRbWhFN1I2SFhxcURpRU9tNzltNE44bkVUak9XMENlbV9jUEQyOUJrb0xyVnpDd3JwRGNvLWwwNXJ5RUFJR2VrNGtIODd5bmtCWmVtM2F3b1IwRDZpeElRTXNWeDNfc09WRXlsTmZPR0d1QTZQRGh6WWlsWWEzNE1mMjBOUkFlUXJKZWxrWnNRV1V5Vm5MTHhzRlJMSDhBd3VEbmNzZDN3Z2IxNzFYejVEYi1Vb3paMHNQRGlmc0lGOC1OSEdkT3laclg4R3dQcG9XWmJpejMzc255WWtCMHFma1BXenjSAfYBQVVfeXFMUFprQ0lIdUt4M0lncUg4R1RHb2NUcGdyZEdwVTVZYUJPTVh6d0ZkakpUN25ZMGxJMzZPTUt2eF83c3U1VnVLTUZqNXdXYXlNc1BUYWRLSjBKbHROZHlHQWJ6WklUWmNGQUFCd2Q2S3ViVGduQmhrRFJHWDhrT0ttanFTWGs5M2xnMEU1XzlCdndoS0FLOEpRRFV3Wlp2bmlSUEpBQmFGSkw1SXg4TGd4VnByUWJIOEpkX3BLUG90LUFNM3lYYnlLeEhCT2dpRC1OOHN3Wl9zSE9PTjVsUmx0N3lNVTBCZVZSTDNLSHF3S2pkQnRiWWVR?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group Appoints Kevin McGurn as Interim Chief Executive Officer - The Manila Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
       "id": "5355d4b02f988bf2",
       "date": "Tue, 21 Apr 2026",
       "ts": "2026-04-21T07:00:00+00:00",
@@ -25481,6 +27317,114 @@
       ]
     },
     {
+      "id": "555945836d419fa6",
+      "date": "Tue, 21 Apr 2026",
+      "ts": "2026-04-21T07:00:00+00:00",
+      "date_display": "Apr 21, 2026",
+      "source": "Law360",
+      "type": "news",
+      "quote": "Del. Supreme Court Upholds Ruling On Truth Social Shares - Law360 Del. Supreme Court Upholds Ruling On Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUxLU3JnMjJodHJWNTM5aXgyYzJpVVZhcldFdW1qcUZhUG8zUlBPUUxBWDY4eDFVU0Iyd0YzQTQxaW5CRmFxZmJvbVdOblFaaHBRR1QxMFhZeng2OVJPRmIyMzV6b1d4R01SVFBlSFBkajQwUDY1V1RIR3MwalJ3bzBuTGhjR2hjelFOUmtUeF90MVJjckRFcFJWMNIBVkFVX3lxTE4ta05fRmFKS2ZUczFNcjFhdTIzMkxhd0M5X1ZtRm9HaWVMTFcwSFNoUlpjZW5IbnJNZ0FDMk9DR05OZmlYWldCWm93Rm5ud0g2TUZXaWxB?oc=5",
+      "image": null,
+      "headline": "Del. Supreme Court Upholds Ruling On Truth Social Shares - Law360",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
       "id": "dfe6ec00a4ba2ff3",
       "date": "Mon, 20 Apr 2026",
       "ts": "2026-04-20T07:00:00+00:00",
@@ -25693,6 +27637,222 @@
         {
           "d": "06-12",
           "c": 127.99
+        }
+      ]
+    },
+    {
+      "id": "bcae9ce41388073e",
+      "date": "Fri, 10 Apr 2026",
+      "ts": "2026-04-10T07:00:00+00:00",
+      "date_display": "Apr 10, 2026",
+      "source": "whbl.com",
+      "type": "news",
+      "quote": "Eric Swider resigns from Trump Media board - whbl.com Eric Swider resigns from Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YUHdPY0paYl9PclFmWGFKaWV6Q2t5TUJlZWloOTZYSzU3amxlTmtFOXo1bFVVTWRnd3FtZHNjaGtBdVE2ZG5ReXlBZTJaTUNBOXpOWjhScG1DQWx2RUtVaGVZZ3FLSVI1TmFEcHNGaHhnMnlNUFFyREpsOA?oc=5",
+      "image": null,
+      "headline": "Eric Swider resigns from Trump Media board - whbl.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "3cdae081fb29e4cd",
+      "date": "Fri, 10 Apr 2026",
+      "ts": "2026-04-10T07:00:00+00:00",
+      "date_display": "Apr 10, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on -",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 128.47,
+      "change": -1.65,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWxWbzZPUWxxaUp2Y21CT3h5QXhEaHRfOXpfRUh1NExieGpNM3h4T0pLZko1ZkZJa2stYk9CTmZ2RTNSb3BiU2hCVHFRZEROVkJzZ1hCdTF5WkZYemZlUXFnZlo1U3RNMXVtakswcmMxMTdRSEpQSVMwejRaZ3FSUzFUSzI1RG9BdjZENGVBc1BXRzJXTElfUHp5SS1SNDAyY2RLWnVTaE9qTTZ0V1RiQ3BjWjYtV2s4bDNhNUZ2V3VOOVBoNkd6WXpOYjlGUzh3NzVtWFdpVFdOZWNPc1Qw?oc=5",
+      "image": null,
+      "headline": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 135.26
+        },
+        {
+          "d": "05-20",
+          "c": 137.15
+        },
+        {
+          "d": "05-21",
+          "c": 137.41
+        },
+        {
+          "d": "05-22",
+          "c": 136.88
+        },
+        {
+          "d": "05-26",
+          "c": 136.6
+        },
+        {
+          "d": "05-27",
+          "c": 132.51
+        },
+        {
+          "d": "05-28",
+          "c": 143.34
+        },
+        {
+          "d": "05-29",
+          "c": 156.54
+        },
+        {
+          "d": "06-01",
+          "c": 160.65
+        },
+        {
+          "d": "06-02",
+          "c": 152.17
+        },
+        {
+          "d": "06-03",
+          "c": 142.2
+        },
+        {
+          "d": "06-04",
+          "c": 141.7
+        },
+        {
+          "d": "06-05",
+          "c": 135.53
+        },
+        {
+          "d": "06-08",
+          "c": 136.47
+        },
+        {
+          "d": "06-09",
+          "c": 132.07
+        },
+        {
+          "d": "06-10",
+          "c": 130.21
+        },
+        {
+          "d": "06-11",
+          "c": 131.08
+        },
+        {
+          "d": "06-12",
+          "c": 127.99
+        },
+        {
+          "d": "06-15",
+          "c": 134.71
+        },
+        {
+          "d": "06-16",
+          "c": 133.25
+        },
+        {
+          "d": "06-17",
+          "c": 130.63
+        },
+        {
+          "d": "06-18",
+          "c": 128.47
         }
       ]
     },
@@ -26013,6 +28173,114 @@
         {
           "d": "06-18",
           "c": 8.03
+        }
+      ]
+    },
+    {
+      "id": "e1029cc584c65559",
+      "date": "Tue, 24 Mar 2026",
+      "ts": "2026-03-24T07:00:00+00:00",
+      "date_display": "Mar 24, 2026",
+      "source": "The Globe and Mail",
+      "type": "news",
+      "quote": "What I'm Watching With Trump Media To See If They Beat The Market - The Globe and Mail What",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUVHSGhKcDNHQWNzZEdZUi1Sa1Y1SUdtSldzRHdNZ0Z4MUc0aGdLVVMyVFkxcVFXOWJqREQ4QWpFTFdPWFU3RVpmQVVvTXFUem53NkVnbVF2SnZ1akJ3T0tDc1ZHb05ZdVJneGUwekc1ZzFxODNyZ2ZsVFRxQVN0VFJRWmpfb29DZkFFa2VXT2g3NElxZWVQbDY2YXVWWEkwbGY4UHdpMGtpWGltOHJNMFd4UFhLY2ZTdi1qVzZrZ2JwR3BqSnJsTlFCOUs4bS1zZ2R4NUxpY0d5ZWR3bENPbw?oc=5",
+      "image": null,
+      "headline": "What I'm Watching With Trump Media To See If They Beat The Market - The Globe and Mail",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
         }
       ]
     },
