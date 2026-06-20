@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T15:31:30.718903+00:00",
-  "count": 287,
+  "updated_at": "2026-06-20T16:28:21.858725+00:00",
+  "count": 289,
   "mentions": [
     {
       "id": "9dc0de3e078a78a8",
@@ -4947,6 +4947,222 @@
         {
           "d": "06-18",
           "c": 133.3
+        }
+      ]
+    },
+    {
+      "id": "6eba8f0db61db290",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:37:25+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "KRIS 6 News Corpus Christi",
+      "type": "news",
+      "quote": "Trump says Intel has struck deal with Apple to make chips in the US - KRIS 6 News Corpus Christi Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 298.01,
+      "change": 0.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2tyTWRWNmpEQTVqdnN0T0J5QVlFUnM3R3BibVNJWUg1aFB1QWpINWhfZlRMbm0zLThicVZ2aUoxUVBFLXpOWjJuV3prV3dsb2JtalpwZ0VmOGJhLUZvREp4UGJSUlZ0Ui1qWHNId0dvRTFPcFJOR3JhWHN1NnoxdnJ5akFXSnNBRlpsZlNXODFQUk5ORG9SaTZFc0d4eExPVjl0LVgyR0JLSENacjh0WW9R?oc=5",
+      "image": null,
+      "headline": "Trump says Intel has struck deal with Apple to make chips in the US - KRIS 6 News Corpus Christi",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        }
+      ]
+    },
+    {
+      "id": "7920195e9f72b5cb",
+      "date": "Thu, 18 Jun 2026",
+      "ts": "2026-06-18T16:37:25+00:00",
+      "date_display": "Jun 18, 2026",
+      "source": "KRIS 6 News Corpus Christi",
+      "type": "news",
+      "quote": "Trump says Intel has struck deal with Apple to make chips in the US - KRIS",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.99,
+      "change": 10.64,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2tyTWRWNmpEQTVqdnN0T0J5QVlFUnM3R3BibVNJWUg1aFB1QWpINWhfZlRMbm0zLThicVZ2aUoxUVBFLXpOWjJuV3prV3dsb2JtalpwZ0VmOGJhLUZvREp4UGJSUlZ0Ui1qWHNId0dvRTFPcFJOR3JhWHN1NnoxdnJ5akFXSnNBRlpsZlNXODFQUk5ORG9SaTZFc0d4eExPVjl0LVgyR0JLSENacjh0WW9R?oc=5",
+      "image": null,
+      "headline": "Trump says Intel has struck deal with Apple to make chips in the US - KRIS 6 News Corpus Christi",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.99
         }
       ]
     },
