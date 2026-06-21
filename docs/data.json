@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-06-21T18:01:20.292203+00:00",
-  "count": 301,
+  "updated_at": "2026-06-21T18:59:39.286523+00:00",
+  "count": 303,
   "mentions": [
+    {
+      "id": "aa479baef6a33878",
+      "date": "Sun, 21 Jun 2026",
+      "ts": "2026-06-21T17:07:12+00:00",
+      "date_display": "Jun 21, 2026",
+      "source": "TechStock\u00b2",
+      "type": "news",
+      "quote": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock\u00b2 What Donald",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 210.69,
+      "change": 2.95,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGIxaUNWNWVoN0NQSmM2bklZQVdhWkRWT05HM2JBUy1adkJIQzdqamdIME1ocENvYlZUekZFZ1Q4YlFUb3ByLVQtUWVnRlJBRU1SaDRNclNPR3J4c0tCR3RiSDJSaHpKY0IxYVNmODZDN1E0QWtuSkg0VlNqMVpocF9UX0czcVNqYjBnbllWTmtsRURQTGxCQWhCZFlKYnNXWWZFaXZjcjRRVDJz?oc=5",
+      "image": null,
+      "headline": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock\u00b2",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 220.35
+        },
+        {
+          "d": "05-20",
+          "c": 223.21
+        },
+        {
+          "d": "05-21",
+          "c": 219.25
+        },
+        {
+          "d": "05-22",
+          "c": 215.08
+        },
+        {
+          "d": "05-26",
+          "c": 214.61
+        },
+        {
+          "d": "05-27",
+          "c": 212.35
+        },
+        {
+          "d": "05-28",
+          "c": 214.0
+        },
+        {
+          "d": "05-29",
+          "c": 210.89
+        },
+        {
+          "d": "06-01",
+          "c": 224.1
+        },
+        {
+          "d": "06-02",
+          "c": 222.56
+        },
+        {
+          "d": "06-03",
+          "c": 214.5
+        },
+        {
+          "d": "06-04",
+          "c": 218.66
+        },
+        {
+          "d": "06-05",
+          "c": 205.1
+        },
+        {
+          "d": "06-08",
+          "c": 208.64
+        },
+        {
+          "d": "06-09",
+          "c": 208.19
+        },
+        {
+          "d": "06-10",
+          "c": 200.42
+        },
+        {
+          "d": "06-11",
+          "c": 204.87
+        },
+        {
+          "d": "06-12",
+          "c": 205.19
+        },
+        {
+          "d": "06-15",
+          "c": 212.45
+        },
+        {
+          "d": "06-16",
+          "c": 207.41
+        },
+        {
+          "d": "06-17",
+          "c": 204.65
+        },
+        {
+          "d": "06-18",
+          "c": 210.69
+        }
+      ]
+    },
+    {
+      "id": "f77cd930cdeb5f11",
+      "date": "Sun, 21 Jun 2026",
+      "ts": "2026-06-21T17:07:12+00:00",
+      "date_display": "Jun 21, 2026",
+      "source": "TechStock\u00b2",
+      "type": "news",
+      "quote": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock\u00b2 What Donald Trump and his",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGIxaUNWNWVoN0NQSmM2bklZQVdhWkRWT05HM2JBUy1adkJIQzdqamdIME1ocENvYlZUekZFZ1Q4YlFUb3ByLVQtUWVnRlJBRU1SaDRNclNPR3J4c0tCR3RiSDJSaHpKY0IxYVNmODZDN1E0QWtuSkg0VlNqMVpocF9UX0czcVNqYjBnbllWTmtsRURQTGxCQWhCZFlKYnNXWWZFaXZjcjRRVDJz?oc=5",
+      "image": null,
+      "headline": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock\u00b2",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
     {
       "id": "25d629c32ed44047",
       "date": "Sun, 21 Jun 2026",
