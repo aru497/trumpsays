@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-06-21T03:02:57.675107+00:00",
-  "count": 292,
+  "updated_at": "2026-06-21T05:11:39.034170+00:00",
+  "count": 295,
   "mentions": [
+    {
+      "id": "eb3caca89481f909",
+      "date": "Sun, 21 Jun 2026",
+      "ts": "2026-06-21T02:55:55+00:00",
+      "date_display": "Jun 21, 2026",
+      "source": "Memeburn",
+      "type": "news",
+      "quote": "Intel Stock Jumps 10% After Trump Announces Apple Chip Deal - Memeburn Intel Stock Jumps 10% After Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 298.01,
+      "change": 0.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa0UtM0xxbk96bUtGaXdGU3pWenVzNlJFbmVuVWZ3UHZHeEZvaVJYZXBXaWZObVZicXotcUUxdEpPVFlWamdObHExWE11TGZhYVM2a2NxbmZlckJHb0RZN0hSbVBOUnVxVTJWTmxaZkFETWN2TWJRQnBBeDZISXdzc0o1NHN4c2s?oc=5",
+      "image": null,
+      "headline": "Intel Stock Jumps 10% After Trump Announces Apple Chip Deal - Memeburn",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 298.97
+        },
+        {
+          "d": "05-20",
+          "c": 302.25
+        },
+        {
+          "d": "05-21",
+          "c": 304.99
+        },
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        }
+      ]
+    },
+    {
+      "id": "8c4f7d654da83ab7",
+      "date": "Sun, 21 Jun 2026",
+      "ts": "2026-06-21T02:55:55+00:00",
+      "date_display": "Jun 21, 2026",
+      "source": "Memeburn",
+      "type": "news",
+      "quote": "Intel Stock Jumps 10% After Trump Announces Apple Chip Deal -",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 133.99,
+      "change": 10.64,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa0UtM0xxbk96bUtGaXdGU3pWenVzNlJFbmVuVWZ3UHZHeEZvaVJYZXBXaWZObVZicXotcUUxdEpPVFlWamdObHExWE11TGZhYVM2a2NxbmZlckJHb0RZN0hSbVBOUnVxVTJWTmxaZkFETWN2TWJRQnBBeDZISXdzc0o1NHN4c2s?oc=5",
+      "image": null,
+      "headline": "Intel Stock Jumps 10% After Trump Announces Apple Chip Deal - Memeburn",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 110.8
+        },
+        {
+          "d": "05-20",
+          "c": 118.96
+        },
+        {
+          "d": "05-21",
+          "c": 118.5
+        },
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.99
+        }
+      ]
+    },
     {
       "id": "9dc0de3e078a78a8",
       "date": "Sat, 20 Jun 2026",
@@ -29380,6 +29596,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUxLU3JnMjJodHJWNTM5aXgyYzJpVVZhcldFdW1qcUZhUG8zUlBPUUxBWDY4eDFVU0Iyd0YzQTQxaW5CRmFxZmJvbVdOblFaaHBRR1QxMFhZeng2OVJPRmIyMzV6b1d4R01SVFBlSFBkajQwUDY1V1RIR3MwalJ3bzBuTGhjR2hjelFOUmtUeF90MVJjckRFcFJWMNIBVkFVX3lxTE4ta05fRmFKS2ZUczFNcjFhdTIzMkxhd0M5X1ZtRm9HaWVMTFcwSFNoUlpjZW5IbnJNZ0FDMk9DR05OZmlYWldCWm93Rm5ud0g2TUZXaWxB?oc=5",
       "image": null,
       "headline": "Del. Supreme Court Upholds Ruling On Truth Social Shares - Law360",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-19",
+          "c": 8.0
+        },
+        {
+          "d": "05-20",
+          "c": 8.06
+        },
+        {
+          "d": "05-21",
+          "c": 7.95
+        },
+        {
+          "d": "05-22",
+          "c": 7.95
+        },
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "870ab0154f37ad6d",
+      "date": "Tue, 21 Apr 2026",
+      "ts": "2026-04-21T07:00:00+00:00",
+      "date_display": "Apr 21, 2026",
+      "source": "MyNorthwest.com",
+      "type": "news",
+      "quote": "Trump media company replaces CEO, ex-congressman Nunes after stock",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.49,
+      "change": 4.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM2J3SU82Qlo3NmNTQXg5QkZxNlMtb1g4T1ZoOGtHMUR5RzlyLUQzUVJveVBlcllYNGNZU1Z5SGZRclVDdkJfMGhYcnlTd2pyWHB5NEFwOVByTno4RE9ZeHpnYmtxR3BjR04zTkRmWS1BNlR1TnE0WmtFeWQ2TExubTY2ZzhUaHpmajYxRWNpLWU5NmxHUUtNeDdOSHFCNG0yZWRjOG1jNXBKRHhaYy1BbHVpN0FvWEd2bHJpZzFwZTVSMHRrN20za1NWZmRqcUF0UDBV?oc=5",
+      "image": null,
+      "headline": "Trump media company replaces CEO, ex-congressman Nunes after stock plunge that wiped out billions - MyNorthwest.com",
       "channel": "News",
       "series": [
         {
