@@ -1,7 +1,207 @@
 {
-  "updated_at": "2026-06-22T13:20:44.311229+00:00",
-  "count": 304,
+  "updated_at": "2026-06-22T15:16:37.406943+00:00",
+  "count": 307,
   "mentions": [
+    {
+      "id": "cb3ef7d700866d06",
+      "date": "Sun, 21 Jun 2026",
+      "ts": "2026-06-21T19:13:30+00:00",
+      "date_display": "Jun 21, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 300.12,
+      "change": 0.71,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT19Ma2FzVGdnTFFZZ0hFVXlYbTY0d2JyTXZNSHFmUEtUc0xDLW1BR1ZWWGl0bEV1WDRMOWZRTU9PeFVpTFY0SUxsVkg2c3RKa18yRktiWHFUZnRnNl9IcTZZMXVZa1hWN2Z6UzF6S2ZHS0hlNjVGX0JBS1BDMVp5OXo4cmNUZmZuZnVQMm5BZnRkUms?oc=5",
+      "image": null,
+      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-22",
+          "c": 308.82
+        },
+        {
+          "d": "05-26",
+          "c": 308.33
+        },
+        {
+          "d": "05-27",
+          "c": 310.85
+        },
+        {
+          "d": "05-28",
+          "c": 312.51
+        },
+        {
+          "d": "05-29",
+          "c": 312.06
+        },
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        },
+        {
+          "d": "06-22",
+          "c": 300.12
+        }
+      ]
+    },
+    {
+      "id": "a9238deba64c95c3",
+      "date": "Sun, 21 Jun 2026",
+      "ts": "2026-06-21T19:13:30+00:00",
+      "date_display": "Jun 21, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump says Intel will make chips for Apple in a major win for U.S.",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 139.55,
+      "change": 4.15,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT19Ma2FzVGdnTFFZZ0hFVXlYbTY0d2JyTXZNSHFmUEtUc0xDLW1BR1ZWWGl0bEV1WDRMOWZRTU9PeFVpTFY0SUxsVkg2c3RKa18yRktiWHFUZnRnNl9IcTZZMXVZa1hWN2Z6UzF6S2ZHS0hlNjVGX0JBS1BDMVp5OXo4cmNUZmZuZnVQMm5BZnRkUms?oc=5",
+      "image": null,
+      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-22",
+          "c": 119.84
+        },
+        {
+          "d": "05-26",
+          "c": 123.52
+        },
+        {
+          "d": "05-27",
+          "c": 121.77
+        },
+        {
+          "d": "05-28",
+          "c": 120.89
+        },
+        {
+          "d": "05-29",
+          "c": 114.68
+        },
+        {
+          "d": "06-01",
+          "c": 109.33
+        },
+        {
+          "d": "06-02",
+          "c": 107.93
+        },
+        {
+          "d": "06-03",
+          "c": 112.71
+        },
+        {
+          "d": "06-04",
+          "c": 111.78
+        },
+        {
+          "d": "06-05",
+          "c": 99.17
+        },
+        {
+          "d": "06-08",
+          "c": 110.27
+        },
+        {
+          "d": "06-09",
+          "c": 107.92
+        },
+        {
+          "d": "06-10",
+          "c": 107.04
+        },
+        {
+          "d": "06-11",
+          "c": 116.96
+        },
+        {
+          "d": "06-12",
+          "c": 124.57
+        },
+        {
+          "d": "06-15",
+          "c": 127.86
+        },
+        {
+          "d": "06-16",
+          "c": 117.05
+        },
+        {
+          "d": "06-17",
+          "c": 121.1
+        },
+        {
+          "d": "06-18",
+          "c": 133.99
+        },
+        {
+          "d": "06-22",
+          "c": 139.55
+        }
+      ]
+    },
     {
       "id": "aa479baef6a33878",
       "date": "Sun, 21 Jun 2026",
@@ -24921,6 +25121,106 @@
         {
           "d": "06-18",
           "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "c1f42647e5933d23",
+      "date": "Sun, 10 May 2026",
+      "ts": "2026-05-10T07:00:00+00:00",
+      "date_display": "May 10, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Dell family gave $6.25B to 'Trump Accounts' in December. Now",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 431.06,
+      "change": 5.26,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHJfTUR4cVAxUHdYMlBMSmZYQkthZlF2VEMxLThwdjc2QzNlaVhmRlRQR2FvMUo0VzQzalZVdkV6ZEkwNEZNN0NOMnpZRWpxN29JZDFYY21zTURwb2RXSHc1QUppVnBycXhDWXZ5c0tGRFZnOHBDenNob0ZsOEJSVHRQUlhORE5zNkFPVGZ5SVE?oc=5",
+      "image": null,
+      "headline": "Dell family gave $6.25B to 'Trump Accounts' in December. Now Trump says 'buy a Dell' \u2014 and the stock soared 14% - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-22",
+          "c": 295.19
+        },
+        {
+          "d": "05-26",
+          "c": 305.08
+        },
+        {
+          "d": "05-27",
+          "c": 305.32
+        },
+        {
+          "d": "05-28",
+          "c": 317.05
+        },
+        {
+          "d": "05-29",
+          "c": 420.91
+        },
+        {
+          "d": "06-01",
+          "c": 465.96
+        },
+        {
+          "d": "06-02",
+          "c": 435.31
+        },
+        {
+          "d": "06-03",
+          "c": 421.08
+        },
+        {
+          "d": "06-04",
+          "c": 422.05
+        },
+        {
+          "d": "06-05",
+          "c": 394.39
+        },
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 431.06
         }
       ]
     },
