@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T20:01:36.524370+00:00",
-  "count": 307,
+  "updated_at": "2026-06-22T21:23:49.517200+00:00",
+  "count": 308,
   "mentions": [
     {
       "id": "cb3ef7d700866d06",
@@ -24589,6 +24589,102 @@
         {
           "d": "06-12",
           "c": 73.38
+        }
+      ]
+    },
+    {
+      "id": "6b9f9c70c9227748",
+      "date": "Thu, 14 May 2026",
+      "ts": "2026-05-14T07:00:00+00:00",
+      "date_display": "May 14, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Boeing shares drop 4% after Trump announces China orders just 200",
+      "company": "Boeing",
+      "ticker": "BA",
+      "price": 220.83,
+      "change": -0.85,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVG5aMmxHckU2Y2N6eExzdTJjSkhFS1MzRHVzSmVldTczTDNnWGlvS29wc0dicnNKOWlQVlRJZFl3UXBQTmtnUHVMbHpqZDlpeDM3VFM4c0lLNENHWFh4QnhoU25ZbUEwZ0FtdWstdHdqNGlhY1VtSWtyRWZTVDVBd0Uwa2IwTFhYaTRPaXVKVDNlcTlxaXdzSXM0Y1Y5VVBvb3ZOdWt4VnhVdnVKdFJKNUFlZw?oc=5",
+      "image": null,
+      "headline": "Boeing shares drop 4% after Trump announces China orders just 200 jets - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 218.9
+        },
+        {
+          "d": "05-27",
+          "c": 224.3
+        },
+        {
+          "d": "05-28",
+          "c": 228.78
+        },
+        {
+          "d": "05-29",
+          "c": 231.15
+        },
+        {
+          "d": "06-01",
+          "c": 224.3
+        },
+        {
+          "d": "06-02",
+          "c": 217.7
+        },
+        {
+          "d": "06-03",
+          "c": 210.58
+        },
+        {
+          "d": "06-04",
+          "c": 217.42
+        },
+        {
+          "d": "06-05",
+          "c": 215.45
+        },
+        {
+          "d": "06-08",
+          "c": 215.92
+        },
+        {
+          "d": "06-09",
+          "c": 214.51
+        },
+        {
+          "d": "06-10",
+          "c": 209.0
+        },
+        {
+          "d": "06-11",
+          "c": 221.63
+        },
+        {
+          "d": "06-12",
+          "c": 219.05
+        },
+        {
+          "d": "06-15",
+          "c": 228.95
+        },
+        {
+          "d": "06-16",
+          "c": 227.49
+        },
+        {
+          "d": "06-17",
+          "c": 225.63
+        },
+        {
+          "d": "06-18",
+          "c": 222.72
+        },
+        {
+          "d": "06-22",
+          "c": 220.83
         }
       ]
     },
