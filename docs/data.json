@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-06-23T14:17:50.714184+00:00",
-  "count": 320,
+  "updated_at": "2026-06-23T15:31:00.910993+00:00",
+  "count": 323,
   "mentions": [
+    {
+      "id": "5691f2b24a8c4f46",
+      "date": "Tue, 23 Jun 2026",
+      "ts": "2026-06-23T15:04:51+00:00",
+      "date_display": "Jun 23, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Supreme Court OKs ExxonMobil lawsuit over Cuban property seized by Fidel Castro's",
+      "company": "Exxonmobil",
+      "ticker": "XOM",
+      "price": 140.1,
+      "change": 1.18,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/supreme-court-oks-exxonmobil-lawsuit-over-cuban-property-seized-by-fidel-castros-government",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-14T194620Z_132249818_RC279LA9THV0_RTRMADP_3_USA-COURT-1024x683.jpg",
+      "headline": "Supreme Court OKs ExxonMobil lawsuit over Cuban property seized by Fidel Castro's government",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 149.81
+        },
+        {
+          "d": "05-27",
+          "c": 147.9
+        },
+        {
+          "d": "05-28",
+          "c": 146.96
+        },
+        {
+          "d": "05-29",
+          "c": 145.26
+        },
+        {
+          "d": "06-01",
+          "c": 149.38
+        },
+        {
+          "d": "06-02",
+          "c": 149.56
+        },
+        {
+          "d": "06-03",
+          "c": 152.53
+        },
+        {
+          "d": "06-04",
+          "c": 152.04
+        },
+        {
+          "d": "06-05",
+          "c": 149.92
+        },
+        {
+          "d": "06-08",
+          "c": 151.75
+        },
+        {
+          "d": "06-09",
+          "c": 148.91
+        },
+        {
+          "d": "06-10",
+          "c": 150.62
+        },
+        {
+          "d": "06-11",
+          "c": 146.6
+        },
+        {
+          "d": "06-12",
+          "c": 147.01
+        },
+        {
+          "d": "06-15",
+          "c": 140.92
+        },
+        {
+          "d": "06-16",
+          "c": 141.86
+        },
+        {
+          "d": "06-17",
+          "c": 140.74
+        },
+        {
+          "d": "06-18",
+          "c": 137.81
+        },
+        {
+          "d": "06-22",
+          "c": 138.47
+        },
+        {
+          "d": "06-23",
+          "c": 140.1
+        }
+      ]
+    },
     {
       "id": "6214f593d139c613",
       "date": "Tue, 23 Jun 2026",
@@ -32969,6 +33069,206 @@
         {
           "d": "06-18",
           "c": 128.47
+        }
+      ]
+    },
+    {
+      "id": "104f66eeaaa200c4",
+      "date": "Fri, 10 Apr 2026",
+      "ts": "2026-04-10T07:00:00+00:00",
+      "date_display": "Apr 10, 2026",
+      "source": "The Hill",
+      "type": "news",
+      "quote": "Palantir stock briefly jumps after Trump praise on Truth Social -",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 118.36,
+      "change": -0.95,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43M0swMG8wRlNuN2JQQXVzbzNlTVF4LUF0ZFNJdF9kNGR2Uy1LLW05eW11WGhnNEpDaGxRcmJiME51bGREbTFfRzVxTXVzLXJtdlMyMEw3UHpXWnNXUVdTTk5ueVN2Tlg0TWtTX0tTam53a2o3VlVXZk9ZX2zSAYIBQVVfeXFMTUw2TzN0SE5FRUkxR1NOSTM4M3VCTmVCZklsSzJLS1E5cjJxd2F0Qk9kZFFqbHh3eTBnSk1Hc2xTeW1ob0lBMkdBcmdRRmZYcDFzSmgxY1V4LXBrcFZMTHQ0ZkZjTElDenFuR25VUGNKeW5vUlpxN2tMRVdwR0lhcktOdw?oc=5",
+      "image": null,
+      "headline": "Palantir stock briefly jumps after Trump praise on Truth Social - The Hill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 136.6
+        },
+        {
+          "d": "05-27",
+          "c": 132.51
+        },
+        {
+          "d": "05-28",
+          "c": 143.34
+        },
+        {
+          "d": "05-29",
+          "c": 156.54
+        },
+        {
+          "d": "06-01",
+          "c": 160.65
+        },
+        {
+          "d": "06-02",
+          "c": 152.17
+        },
+        {
+          "d": "06-03",
+          "c": 142.2
+        },
+        {
+          "d": "06-04",
+          "c": 141.7
+        },
+        {
+          "d": "06-05",
+          "c": 135.53
+        },
+        {
+          "d": "06-08",
+          "c": 136.47
+        },
+        {
+          "d": "06-09",
+          "c": 132.07
+        },
+        {
+          "d": "06-10",
+          "c": 130.21
+        },
+        {
+          "d": "06-11",
+          "c": 131.08
+        },
+        {
+          "d": "06-12",
+          "c": 127.99
+        },
+        {
+          "d": "06-15",
+          "c": 134.71
+        },
+        {
+          "d": "06-16",
+          "c": 133.25
+        },
+        {
+          "d": "06-17",
+          "c": 130.63
+        },
+        {
+          "d": "06-18",
+          "c": 128.47
+        },
+        {
+          "d": "06-22",
+          "c": 119.5
+        },
+        {
+          "d": "06-23",
+          "c": 118.36
+        }
+      ]
+    },
+    {
+      "id": "7e460fc574c5a09c",
+      "date": "Fri, 10 Apr 2026",
+      "ts": "2026-04-10T07:00:00+00:00",
+      "date_display": "Apr 10, 2026",
+      "source": "The Hill",
+      "type": "news",
+      "quote": "Palantir stock briefly jumps after Trump praise on Truth Social - The Hill Palantir stock briefly jumps after Trump praise",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 7.97,
+      "change": -1.85,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43M0swMG8wRlNuN2JQQXVzbzNlTVF4LUF0ZFNJdF9kNGR2Uy1LLW05eW11WGhnNEpDaGxRcmJiME51bGREbTFfRzVxTXVzLXJtdlMyMEw3UHpXWnNXUVdTTk5ueVN2Tlg0TWtTX0tTam53a2o3VlVXZk9ZX2zSAYIBQVVfeXFMTUw2TzN0SE5FRUkxR1NOSTM4M3VCTmVCZklsSzJLS1E5cjJxd2F0Qk9kZFFqbHh3eTBnSk1Hc2xTeW1ob0lBMkdBcmdRRmZYcDFzSmgxY1V4LXBrcFZMTHQ0ZkZjTElDenFuR25VUGNKeW5vUlpxN2tMRVdwR0lhcktOdw?oc=5",
+      "image": null,
+      "headline": "Palantir stock briefly jumps after Trump praise on Truth Social - The Hill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.97
         }
       ]
     },
