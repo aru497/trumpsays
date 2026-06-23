@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-06-23T13:25:30.147060+00:00",
-  "count": 317,
+  "updated_at": "2026-06-23T14:17:50.714184+00:00",
+  "count": 320,
   "mentions": [
+    {
+      "id": "6214f593d139c613",
+      "date": "Tue, 23 Jun 2026",
+      "ts": "2026-06-23T13:17:11+00:00",
+      "date_display": "Jun 23, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Iran agrees to nuclear inspections and humanitarian aid - Fox Business Trump announces Iran agrees to nuclear",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 44.47,
+      "change": -1.02,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLZ2hMMDl2RW9tNWlnbVlLQldZZDNfd2pyYkUwQkZPV3dkdWtDWGpDMzBQWU5RY2xucUZ3djFMNlY2RE9lRjdjUDJTZG0zbHNaVUI2Z0MwekhmNVk?oc=5",
+      "image": null,
+      "headline": "Trump announces Iran agrees to nuclear inspections and humanitarian aid - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 58.08
+        },
+        {
+          "d": "05-27",
+          "c": 58.62
+        },
+        {
+          "d": "05-28",
+          "c": 59.23
+        },
+        {
+          "d": "05-29",
+          "c": 57.39
+        },
+        {
+          "d": "06-01",
+          "c": 59.84
+        },
+        {
+          "d": "06-02",
+          "c": 58.65
+        },
+        {
+          "d": "06-03",
+          "c": 57.44
+        },
+        {
+          "d": "06-04",
+          "c": 58.73
+        },
+        {
+          "d": "06-05",
+          "c": 59.88
+        },
+        {
+          "d": "06-08",
+          "c": 60.34
+        },
+        {
+          "d": "06-09",
+          "c": 60.9
+        },
+        {
+          "d": "06-10",
+          "c": 61.03
+        },
+        {
+          "d": "06-11",
+          "c": 61.36
+        },
+        {
+          "d": "06-12",
+          "c": 58.92
+        },
+        {
+          "d": "06-15",
+          "c": 49.96
+        },
+        {
+          "d": "06-16",
+          "c": 47.95
+        },
+        {
+          "d": "06-17",
+          "c": 46.73
+        },
+        {
+          "d": "06-18",
+          "c": 46.95
+        },
+        {
+          "d": "06-22",
+          "c": 44.93
+        },
+        {
+          "d": "06-23",
+          "c": 44.47
+        }
+      ]
+    },
     {
       "id": "4c0c89f2bb674dc8",
       "date": "Tue, 23 Jun 2026",
@@ -95,6 +195,206 @@
         {
           "d": "06-22",
           "c": 252.22
+        }
+      ]
+    },
+    {
+      "id": "b82ce526d263d307",
+      "date": "Tue, 23 Jun 2026",
+      "ts": "2026-06-23T07:43:02+00:00",
+      "date_display": "Jun 23, 2026",
+      "source": "Kyiv Post",
+      "type": "news",
+      "quote": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post Trump Says",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 13.96,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4Ykt6cnpXNGpLNDBCUEtKYVVjd2R2WjBfUnZxTmtDenVoTTVQbmtNN2RoTE5UMGpQYzBDaklrNVRNaVFVNm1mdUFMVQ?oc=5",
+      "image": null,
+      "headline": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 15.32
+        },
+        {
+          "d": "05-27",
+          "c": 15.88
+        },
+        {
+          "d": "05-28",
+          "c": 16.65
+        },
+        {
+          "d": "05-29",
+          "c": 17.44
+        },
+        {
+          "d": "06-01",
+          "c": 16.63
+        },
+        {
+          "d": "06-02",
+          "c": 16.15
+        },
+        {
+          "d": "06-03",
+          "c": 15.71
+        },
+        {
+          "d": "06-04",
+          "c": 15.34
+        },
+        {
+          "d": "06-05",
+          "c": 14.9
+        },
+        {
+          "d": "06-08",
+          "c": 15.0
+        },
+        {
+          "d": "06-09",
+          "c": 14.95
+        },
+        {
+          "d": "06-10",
+          "c": 14.3
+        },
+        {
+          "d": "06-11",
+          "c": 14.71
+        },
+        {
+          "d": "06-12",
+          "c": 14.84
+        },
+        {
+          "d": "06-15",
+          "c": 14.77
+        },
+        {
+          "d": "06-16",
+          "c": 14.41
+        },
+        {
+          "d": "06-17",
+          "c": 13.96
+        },
+        {
+          "d": "06-18",
+          "c": 14.06
+        },
+        {
+          "d": "06-22",
+          "c": 14.11
+        },
+        {
+          "d": "06-23",
+          "c": 13.96
+        }
+      ]
+    },
+    {
+      "id": "c2bce18551d0ce52",
+      "date": "Tue, 23 Jun 2026",
+      "ts": "2026-06-23T07:43:02+00:00",
+      "date_display": "Jun 23, 2026",
+      "source": "Kyiv Post",
+      "type": "news",
+      "quote": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post",
+      "company": "Gm",
+      "ticker": "GM",
+      "price": 79.58,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4Ykt6cnpXNGpLNDBCUEtKYVVjd2R2WjBfUnZxTmtDenVoTTVQbmtNN2RoTE5UMGpQYzBDaklrNVRNaVFVNm1mdUFMVQ?oc=5",
+      "image": null,
+      "headline": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 79.62
+        },
+        {
+          "d": "05-27",
+          "c": 83.94
+        },
+        {
+          "d": "05-28",
+          "c": 84.17
+        },
+        {
+          "d": "05-29",
+          "c": 83.06
+        },
+        {
+          "d": "06-01",
+          "c": 82.5
+        },
+        {
+          "d": "06-02",
+          "c": 81.55
+        },
+        {
+          "d": "06-03",
+          "c": 81.52
+        },
+        {
+          "d": "06-04",
+          "c": 83.04
+        },
+        {
+          "d": "06-05",
+          "c": 82.11
+        },
+        {
+          "d": "06-08",
+          "c": 83.77
+        },
+        {
+          "d": "06-09",
+          "c": 83.76
+        },
+        {
+          "d": "06-10",
+          "c": 79.4
+        },
+        {
+          "d": "06-11",
+          "c": 80.85
+        },
+        {
+          "d": "06-12",
+          "c": 81.5
+        },
+        {
+          "d": "06-15",
+          "c": 84.07
+        },
+        {
+          "d": "06-16",
+          "c": 82.51
+        },
+        {
+          "d": "06-17",
+          "c": 79.58
+        },
+        {
+          "d": "06-18",
+          "c": 79.29
+        },
+        {
+          "d": "06-22",
+          "c": 80.43
+        },
+        {
+          "d": "06-23",
+          "c": 79.58
         }
       ]
     },
