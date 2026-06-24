@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-06-24T17:35:04.098903+00:00",
-  "count": 346,
+  "updated_at": "2026-06-24T18:31:58.053041+00:00",
+  "count": 348,
   "mentions": [
+    {
+      "id": "000e966c3053febc",
+      "date": "Wed, 24 Jun 2026",
+      "ts": "2026-06-24T18:09:05+00:00",
+      "date_display": "Jun 24, 2026",
+      "source": "Futurism",
+      "type": "news",
+      "quote": "Trump\u2019s Truth Social Stock Just Hit Its Lowest Point Ever - Futurism Trump\u2019s",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 7.67,
+      "change": -2.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLWWhicjdjZ1FEWldlSDFDSUtGc0lrc18yR0V3RjZqdUZvcWNoajh3b2g1RXMyTjlfUlB0UWFmd1ZNSzNubnd4VENJSVR6eC1lWW5Vcm1NTm9aR1VlWmdMUTg2TEdUcmlwM3V2bTVCMjRUTUxfRW1BY3RaWUZnZw?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Truth Social Stock Just Hit Its Lowest Point Ever - Futurism",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.67
+        }
+      ]
+    },
     {
       "id": "58af1f60ccd1107b",
       "date": "Wed, 24 Jun 2026",
@@ -21493,6 +21597,110 @@
         {
           "d": "06-18",
           "c": 8.49
+        }
+      ]
+    },
+    {
+      "id": "067196c1fef3bc59",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T07:00:00+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "Quiver Quantitative",
+      "type": "news",
+      "quote": "Trump Media and TAE Technologies Scrap Truth Social Spinoff, Remain",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 7.67,
+      "change": -2.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSG5aUDhwX2xnZW55THFvREMtWDV4SzN0WWl3QnVtR2NMX25RQVFHRkZSY3R0ZG50bnJ5TVU4Q3RvT3hZZUF0dUtwWnBYNW01c0dNRnNsY0dGVTNIYmxTd3RJYnRfUnZVeW5INUl2WFF1NTYxbnlMa1JEcFhtS2I2Wk5rYVFmY0FfRlI4Z2YxelNyR2l0VnNPR0JDQkN1ZlJJd1ZldUdzaDBLMzMwSGptc1AyeERlSEtLVzZpSGpKWE56MVRCNVFwUVM1Y242UUpJ?oc=5",
+      "image": null,
+      "headline": "Trump Media and TAE Technologies Scrap Truth Social Spinoff, Remain Committed to $6 Billion Merger - Quiver Quantitative",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.67
         }
       ]
     },
