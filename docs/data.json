@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-06-24T21:59:42.112285+00:00",
-  "count": 351,
+  "updated_at": "2026-06-24T22:35:10.651547+00:00",
+  "count": 353,
   "mentions": [
+    {
+      "id": "8ef94005a6bf4f83",
+      "date": "Wed, 24 Jun 2026",
+      "ts": "2026-06-24T21:11:47+00:00",
+      "date_display": "Jun 24, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says Exxon, Chevron among firms probed as part of surge in gas prices",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 136.9,
+      "change": -2.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWxhdzNlZ3B2VldKRVg5RHRMcmFhdjl5eHM0MmlBTTZkTkxtc3NvektpVy05d05xMWdTWUVPdUhVN1RWaWdNRGpqMngxVmgwVG93YXp1LTJFV3ZLbEdYa2hlTXhnclNZNWxrY1NMbTBZMUlOalZPbldpTmJicFNFQmdiMTlxVmY1T2x5S0c0QzBMZHhJbFVYRVFMMjNDTjNPNExESnZyRWZWNjA2eUJmRDd5V2lFVksw?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon, Chevron among firms probed as part of surge in gas prices - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 149.81
+        },
+        {
+          "d": "05-27",
+          "c": 147.9
+        },
+        {
+          "d": "05-28",
+          "c": 146.96
+        },
+        {
+          "d": "05-29",
+          "c": 145.26
+        },
+        {
+          "d": "06-01",
+          "c": 149.38
+        },
+        {
+          "d": "06-02",
+          "c": 149.56
+        },
+        {
+          "d": "06-03",
+          "c": 152.53
+        },
+        {
+          "d": "06-04",
+          "c": 152.04
+        },
+        {
+          "d": "06-05",
+          "c": 149.92
+        },
+        {
+          "d": "06-08",
+          "c": 151.75
+        },
+        {
+          "d": "06-09",
+          "c": 148.91
+        },
+        {
+          "d": "06-10",
+          "c": 150.62
+        },
+        {
+          "d": "06-11",
+          "c": 146.6
+        },
+        {
+          "d": "06-12",
+          "c": 147.01
+        },
+        {
+          "d": "06-15",
+          "c": 140.92
+        },
+        {
+          "d": "06-16",
+          "c": 141.86
+        },
+        {
+          "d": "06-17",
+          "c": 140.74
+        },
+        {
+          "d": "06-18",
+          "c": 137.81
+        },
+        {
+          "d": "06-22",
+          "c": 138.47
+        },
+        {
+          "d": "06-23",
+          "c": 139.73
+        },
+        {
+          "d": "06-24",
+          "c": 136.9
+        }
+      ]
+    },
+    {
+      "id": "288ce42716379abb",
+      "date": "Wed, 24 Jun 2026",
+      "ts": "2026-06-24T21:11:47+00:00",
+      "date_display": "Jun 24, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says Exxon, Chevron among firms probed as part of surge in gas prices -",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 171.45,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWxhdzNlZ3B2VldKRVg5RHRMcmFhdjl5eHM0MmlBTTZkTkxtc3NvektpVy05d05xMWdTWUVPdUhVN1RWaWdNRGpqMngxVmgwVG93YXp1LTJFV3ZLbEdYa2hlTXhnclNZNWxrY1NMbTBZMUlOalZPbldpTmJicFNFQmdiMTlxVmY1T2x5S0c0QzBMZHhJbFVYRVFMMjNDTjNPNExESnZyRWZWNjA2eUJmRDd5V2lFVksw?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon, Chevron among firms probed as part of surge in gas prices - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 184.71
+        },
+        {
+          "d": "05-27",
+          "c": 182.4
+        },
+        {
+          "d": "05-28",
+          "c": 183.03
+        },
+        {
+          "d": "05-29",
+          "c": 182.46
+        },
+        {
+          "d": "06-01",
+          "c": 185.83
+        },
+        {
+          "d": "06-02",
+          "c": 187.55
+        },
+        {
+          "d": "06-03",
+          "c": 189.71
+        },
+        {
+          "d": "06-04",
+          "c": 188.35
+        },
+        {
+          "d": "06-05",
+          "c": 187.31
+        },
+        {
+          "d": "06-08",
+          "c": 189.24
+        },
+        {
+          "d": "06-09",
+          "c": 186.76
+        },
+        {
+          "d": "06-10",
+          "c": 189.8
+        },
+        {
+          "d": "06-11",
+          "c": 185.82
+        },
+        {
+          "d": "06-12",
+          "c": 187.22
+        },
+        {
+          "d": "06-15",
+          "c": 180.4
+        },
+        {
+          "d": "06-16",
+          "c": 180.11
+        },
+        {
+          "d": "06-17",
+          "c": 177.58
+        },
+        {
+          "d": "06-18",
+          "c": 173.63
+        },
+        {
+          "d": "06-22",
+          "c": 175.06
+        },
+        {
+          "d": "06-23",
+          "c": 175.98
+        },
+        {
+          "d": "06-24",
+          "c": 171.45
+        }
+      ]
+    },
     {
       "id": "8a9a98dac5235aa2",
       "date": "Wed, 24 Jun 2026",
