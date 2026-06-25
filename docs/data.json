@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-06-25T00:27:15.548538+00:00",
-  "count": 353,
+  "updated_at": "2026-06-25T01:24:41.706476+00:00",
+  "count": 359,
   "mentions": [
+    {
+      "id": "1ff0177f6473c7cb",
+      "date": "Thu, 25 Jun 2026",
+      "ts": "2026-06-25T00:17:17+00:00",
+      "date_display": "Jun 25, 2026",
+      "source": "Firstpost",
+      "type": "news",
+      "quote": "Why aren't gasoline prices falling? Trump says Exxon, Chevron among firms under probe - Firstpost Why aren't",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 136.9,
+      "change": -2.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0xSenhpZXBaTGJ2R0pDcU13a3NmTVgxSnlEZHJZZDl4ajBrWlNqS1ZEaFVDNUVpRUdnZTFhclRzSlZqb0xBZ2hmZHlPV01IeTM0OTY3U2lKbzlUUUNhQVpYVTlJbnZGS3pSX1Q4RzlUSUo2MnB2YjlmOG1DR0VZWnJVZ28wcDdTSS1HbnJHYnB1alZoeWVhYnoyaXpLbTBRRFRqUkpYaG1lWEdDM2VBTnVGdHNXNjcyN1BmWjJwVWQwZEtGeW5GWTc2Y0xkcnQ2MTRr0gHYAUFVX3lxTE1ZS3BZOWItZlpqNm9tdlhKZHBzUll6Z1pqTmhkNkhHeUdJUlNaTWpRWXRtWERBVnpYbmtSLWx6Rm5uRFJJUldEbFp5RnA4czZVbURiMWxiV19tSmdxNFpUM21PM0xYdEwzWFVId21vdldyZnFUZmdXZUlybHVTVllveXlBQXRFdTJSUGhDN0NuN0d6SzFrU2hIdS03M1VvWm84TjF0MFdPRmZKMTRRMEYwcVk1S1pSdjA3S1hoZ19zN0o1b0NLVS10X3dNU05DRndvZUxORGdDVw?oc=5",
+      "image": null,
+      "headline": "Why aren't gasoline prices falling? Trump says Exxon, Chevron among firms under probe - Firstpost",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 149.81
+        },
+        {
+          "d": "05-27",
+          "c": 147.9
+        },
+        {
+          "d": "05-28",
+          "c": 146.96
+        },
+        {
+          "d": "05-29",
+          "c": 145.26
+        },
+        {
+          "d": "06-01",
+          "c": 149.38
+        },
+        {
+          "d": "06-02",
+          "c": 149.56
+        },
+        {
+          "d": "06-03",
+          "c": 152.53
+        },
+        {
+          "d": "06-04",
+          "c": 152.04
+        },
+        {
+          "d": "06-05",
+          "c": 149.92
+        },
+        {
+          "d": "06-08",
+          "c": 151.75
+        },
+        {
+          "d": "06-09",
+          "c": 148.91
+        },
+        {
+          "d": "06-10",
+          "c": 150.62
+        },
+        {
+          "d": "06-11",
+          "c": 146.6
+        },
+        {
+          "d": "06-12",
+          "c": 147.01
+        },
+        {
+          "d": "06-15",
+          "c": 140.92
+        },
+        {
+          "d": "06-16",
+          "c": 141.86
+        },
+        {
+          "d": "06-17",
+          "c": 140.74
+        },
+        {
+          "d": "06-18",
+          "c": 137.81
+        },
+        {
+          "d": "06-22",
+          "c": 138.47
+        },
+        {
+          "d": "06-23",
+          "c": 139.73
+        },
+        {
+          "d": "06-24",
+          "c": 136.9
+        }
+      ]
+    },
+    {
+      "id": "982fac90bf6b493a",
+      "date": "Thu, 25 Jun 2026",
+      "ts": "2026-06-25T00:17:17+00:00",
+      "date_display": "Jun 25, 2026",
+      "source": "Firstpost",
+      "type": "news",
+      "quote": "Why aren't gasoline prices falling? Trump says Exxon, Chevron among firms under probe - Firstpost Why aren't gasoline",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 171.45,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0xSenhpZXBaTGJ2R0pDcU13a3NmTVgxSnlEZHJZZDl4ajBrWlNqS1ZEaFVDNUVpRUdnZTFhclRzSlZqb0xBZ2hmZHlPV01IeTM0OTY3U2lKbzlUUUNhQVpYVTlJbnZGS3pSX1Q4RzlUSUo2MnB2YjlmOG1DR0VZWnJVZ28wcDdTSS1HbnJHYnB1alZoeWVhYnoyaXpLbTBRRFRqUkpYaG1lWEdDM2VBTnVGdHNXNjcyN1BmWjJwVWQwZEtGeW5GWTc2Y0xkcnQ2MTRr0gHYAUFVX3lxTE1ZS3BZOWItZlpqNm9tdlhKZHBzUll6Z1pqTmhkNkhHeUdJUlNaTWpRWXRtWERBVnpYbmtSLWx6Rm5uRFJJUldEbFp5RnA4czZVbURiMWxiV19tSmdxNFpUM21PM0xYdEwzWFVId21vdldyZnFUZmdXZUlybHVTVllveXlBQXRFdTJSUGhDN0NuN0d6SzFrU2hIdS03M1VvWm84TjF0MFdPRmZKMTRRMEYwcVk1S1pSdjA3S1hoZ19zN0o1b0NLVS10X3dNU05DRndvZUxORGdDVw?oc=5",
+      "image": null,
+      "headline": "Why aren't gasoline prices falling? Trump says Exxon, Chevron among firms under probe - Firstpost",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 184.71
+        },
+        {
+          "d": "05-27",
+          "c": 182.4
+        },
+        {
+          "d": "05-28",
+          "c": 183.03
+        },
+        {
+          "d": "05-29",
+          "c": 182.46
+        },
+        {
+          "d": "06-01",
+          "c": 185.83
+        },
+        {
+          "d": "06-02",
+          "c": 187.55
+        },
+        {
+          "d": "06-03",
+          "c": 189.71
+        },
+        {
+          "d": "06-04",
+          "c": 188.35
+        },
+        {
+          "d": "06-05",
+          "c": 187.31
+        },
+        {
+          "d": "06-08",
+          "c": 189.24
+        },
+        {
+          "d": "06-09",
+          "c": 186.76
+        },
+        {
+          "d": "06-10",
+          "c": 189.8
+        },
+        {
+          "d": "06-11",
+          "c": 185.82
+        },
+        {
+          "d": "06-12",
+          "c": 187.22
+        },
+        {
+          "d": "06-15",
+          "c": 180.4
+        },
+        {
+          "d": "06-16",
+          "c": 180.11
+        },
+        {
+          "d": "06-17",
+          "c": 177.58
+        },
+        {
+          "d": "06-18",
+          "c": 173.63
+        },
+        {
+          "d": "06-22",
+          "c": 175.06
+        },
+        {
+          "d": "06-23",
+          "c": 175.98
+        },
+        {
+          "d": "06-24",
+          "c": 171.45
+        }
+      ]
+    },
     {
       "id": "8ef94005a6bf4f83",
       "date": "Wed, 24 Jun 2026",
@@ -27720,6 +27928,214 @@
       ]
     },
     {
+      "id": "8524715035d9f965",
+      "date": "Sat, 16 May 2026",
+      "ts": "2026-05-16T07:00:00+00:00",
+      "date_display": "May 16, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 113.5,
+      "change": -2.74,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHQ1SEkzS1hJS1Npa1RQUGp2RVoxbUxPLXltTkNiNUpjN1hlNXpRbTlSTFNMc2MwTVlwWmtVY3o0RGM5MkpXWmdYclhDcE1mREw3cVp5M0NiclZMdDlZY0hrblFjTDU3U3dIOWxuNEdRSkUzNjZGalpObGU0RWVaQVlRY2w1bHZGeW9malF0blJoY3JVblJvclI5eklJRFNZWVFNRElrYUNOMlppUWVmZGJvMF8tTEpSbVFuREJMM0drOHg2TlhrVzRvU3poOWlkMHBkRmh4LVdhaXRJbE9nV0ZPQ19WbWpCT2FMbENoVHVtVTI5UjZKQ1FlQQ?oc=5",
+      "image": null,
+      "headline": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 136.6
+        },
+        {
+          "d": "05-27",
+          "c": 132.51
+        },
+        {
+          "d": "05-28",
+          "c": 143.34
+        },
+        {
+          "d": "05-29",
+          "c": 156.54
+        },
+        {
+          "d": "06-01",
+          "c": 160.65
+        },
+        {
+          "d": "06-02",
+          "c": 152.17
+        },
+        {
+          "d": "06-03",
+          "c": 142.2
+        },
+        {
+          "d": "06-04",
+          "c": 141.7
+        },
+        {
+          "d": "06-05",
+          "c": 135.53
+        },
+        {
+          "d": "06-08",
+          "c": 136.47
+        },
+        {
+          "d": "06-09",
+          "c": 132.07
+        },
+        {
+          "d": "06-10",
+          "c": 130.21
+        },
+        {
+          "d": "06-11",
+          "c": 131.08
+        },
+        {
+          "d": "06-12",
+          "c": 127.99
+        },
+        {
+          "d": "06-15",
+          "c": 134.71
+        },
+        {
+          "d": "06-16",
+          "c": 133.25
+        },
+        {
+          "d": "06-17",
+          "c": 130.63
+        },
+        {
+          "d": "06-18",
+          "c": 128.47
+        },
+        {
+          "d": "06-22",
+          "c": 119.5
+        },
+        {
+          "d": "06-23",
+          "c": 116.7
+        },
+        {
+          "d": "06-24",
+          "c": 113.5
+        }
+      ]
+    },
+    {
+      "id": "639ffff96c248962",
+      "date": "Sat, 16 May 2026",
+      "ts": "2026-05-16T07:00:00+00:00",
+      "date_display": "May 16, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga Trump Loaded Up On Palantir Shares Months",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 7.52,
+      "change": -4.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHQ1SEkzS1hJS1Npa1RQUGp2RVoxbUxPLXltTkNiNUpjN1hlNXpRbTlSTFNMc2MwTVlwWmtVY3o0RGM5MkpXWmdYclhDcE1mREw3cVp5M0NiclZMdDlZY0hrblFjTDU3U3dIOWxuNEdRSkUzNjZGalpObGU0RWVaQVlRY2w1bHZGeW9malF0blJoY3JVblJvclI5eklJRFNZWVFNRElrYUNOMlppUWVmZGJvMF8tTEpSbVFuREJMM0drOHg2TlhrVzRvU3poOWlkMHBkRmh4LVdhaXRJbE9nV0ZPQ19WbWpCT2FMbENoVHVtVTI5UjZKQ1FlQQ?oc=5",
+      "image": null,
+      "headline": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        }
+      ]
+    },
+    {
       "id": "c7af539f7011bece",
       "date": "Fri, 15 May 2026",
       "ts": "2026-05-15T07:00:00+00:00",
@@ -31468,6 +31884,110 @@
       ]
     },
     {
+      "id": "6f52ec8c5a61f7e4",
+      "date": "Tue, 28 Apr 2026",
+      "ts": "2026-04-28T17:05:03+00:00",
+      "date_display": "Apr 28, 2026",
+      "source": "The Well News",
+      "type": "news",
+      "quote": "GM Expects $500M Tariff Refund From Trump Levies the Supreme",
+      "company": "Gm",
+      "ticker": "GM",
+      "price": 78.95,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjk3Y19ZcGdSa3NxVmFMNWFISTdiV2FmNlRGdXlrVlNMZnoxT0xwM0U1OWZteUp3Vm9pdUd3M0tkd3kwalNTRnFCMGdzaUlqSGJPSUVNcDYxY1R3RXk0MnVhcDJZYkVaV1dobTkwcmdyazZac0NWUzdJMW43ZDgtUzBpVm9uU2tyeUN2VWdpakpmakpZNlJIUW51cnk2VVVzbHNCNHZ1RVJjaUM2dGJwajI5TGUydw?oc=5",
+      "image": null,
+      "headline": "GM Expects $500M Tariff Refund From Trump Levies the Supreme Court Struck Down - The Well News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 79.62
+        },
+        {
+          "d": "05-27",
+          "c": 83.94
+        },
+        {
+          "d": "05-28",
+          "c": 84.17
+        },
+        {
+          "d": "05-29",
+          "c": 83.06
+        },
+        {
+          "d": "06-01",
+          "c": 82.5
+        },
+        {
+          "d": "06-02",
+          "c": 81.55
+        },
+        {
+          "d": "06-03",
+          "c": 81.52
+        },
+        {
+          "d": "06-04",
+          "c": 83.04
+        },
+        {
+          "d": "06-05",
+          "c": 82.11
+        },
+        {
+          "d": "06-08",
+          "c": 83.77
+        },
+        {
+          "d": "06-09",
+          "c": 83.76
+        },
+        {
+          "d": "06-10",
+          "c": 79.4
+        },
+        {
+          "d": "06-11",
+          "c": 80.85
+        },
+        {
+          "d": "06-12",
+          "c": 81.5
+        },
+        {
+          "d": "06-15",
+          "c": 84.07
+        },
+        {
+          "d": "06-16",
+          "c": 82.51
+        },
+        {
+          "d": "06-17",
+          "c": 79.58
+        },
+        {
+          "d": "06-18",
+          "c": 79.29
+        },
+        {
+          "d": "06-22",
+          "c": 80.43
+        },
+        {
+          "d": "06-23",
+          "c": 78.95
+        },
+        {
+          "d": "06-24",
+          "c": 78.95
+        }
+      ]
+    },
+    {
       "id": "454c61c6fc308214",
       "date": "Tue, 28 Apr 2026",
       "ts": "2026-04-28T07:00:00+00:00",
@@ -31568,6 +32088,110 @@
         {
           "d": "06-17",
           "c": 79.58
+        }
+      ]
+    },
+    {
+      "id": "5a0697a387730744",
+      "date": "Tue, 28 Apr 2026",
+      "ts": "2026-04-28T07:00:00+00:00",
+      "date_display": "Apr 28, 2026",
+      "source": "BanklessTimes",
+      "type": "news",
+      "quote": "Here\u2019s Why Trump Media Stock May Crash to $5 and Below Soona - BanklessTimes",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 7.52,
+      "change": -4.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHFvSFR2SjNDU0liNmgyS3V2dExTbkFDUVA1MG50OE9hallEVFpzbWZtY3FvajQ0YmlabjZSYWN2a0hnMk1la19uVldFWTRjQ1AyME1mcWpOMlVpUmEydFZFVjM4d0hicG4yTDc4a1JYUUg2aWR5VHNVVTJNU1NOY3NiYWk4V05WLXlhQXpjOC1hRUQ2YTU0ZUMyWTlUX0RCRDdXQXJzWDNKamNa?oc=5",
+      "image": null,
+      "headline": "Here\u2019s Why Trump Media Stock May Crash to $5 and Below Soona - BanklessTimes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-26",
+          "c": 8.28
+        },
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
         }
       ]
     },
