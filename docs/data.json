@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-06-26T16:36:47.896807+00:00",
-  "count": 374,
+  "updated_at": "2026-06-26T17:31:48.823569+00:00",
+  "count": 376,
   "mentions": [
+    {
+      "id": "cadd1336c2e0c560",
+      "date": "Fri, 26 Jun 2026",
+      "ts": "2026-06-26T15:22:09+00:00",
+      "date_display": "Jun 26, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other",
+      "company": "Eli Lilly",
+      "ticker": "LLY",
+      "price": 1202.56,
+      "change": 6.64,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnVEdDl1MlM0cmc0YWd6ZFRSQ0kwQW5UaVkxWUMzMkNNM1dLU1A5MnNGempTeV9hMEpLd2N6WHlfNjYzYUlXRnlyMlJ1RUd5bU52Yks5V3lTLWdvZ1dQbm5NRXg3MjJ2bkJCOWMwcU1HRWp0ZFZZOFdfMjRkaVRzTU81VXBxdEFXbFhKa1o0emVhanRPVUtDaQ?oc=5",
+      "image": null,
+      "headline": "Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-27",
+          "c": 1082.92
+        },
+        {
+          "d": "05-28",
+          "c": 1126.8
+        },
+        {
+          "d": "05-29",
+          "c": 1105.0
+        },
+        {
+          "d": "06-01",
+          "c": 1082.2
+        },
+        {
+          "d": "06-02",
+          "c": 1064.15
+        },
+        {
+          "d": "06-03",
+          "c": 1078.78
+        },
+        {
+          "d": "06-04",
+          "c": 1125.27
+        },
+        {
+          "d": "06-05",
+          "c": 1131.42
+        },
+        {
+          "d": "06-08",
+          "c": 1149.15
+        },
+        {
+          "d": "06-09",
+          "c": 1144.68
+        },
+        {
+          "d": "06-10",
+          "c": 1136.37
+        },
+        {
+          "d": "06-11",
+          "c": 1160.95
+        },
+        {
+          "d": "06-12",
+          "c": 1133.0
+        },
+        {
+          "d": "06-15",
+          "c": 1129.35
+        },
+        {
+          "d": "06-16",
+          "c": 1122.5
+        },
+        {
+          "d": "06-17",
+          "c": 1112.0
+        },
+        {
+          "d": "06-18",
+          "c": 1098.57
+        },
+        {
+          "d": "06-22",
+          "c": 1102.08
+        },
+        {
+          "d": "06-23",
+          "c": 1107.08
+        },
+        {
+          "d": "06-24",
+          "c": 1117.26
+        },
+        {
+          "d": "06-25",
+          "c": 1127.69
+        },
+        {
+          "d": "06-26",
+          "c": 1202.56
+        }
+      ]
+    },
     {
       "id": "cea836f04d3b69fa",
       "date": "Fri, 26 Jun 2026",
@@ -215,6 +323,114 @@
         {
           "d": "06-25",
           "c": 7.06
+        }
+      ]
+    },
+    {
+      "id": "3e4c2c3c38c33221",
+      "date": "Thu, 25 Jun 2026",
+      "ts": "2026-06-25T14:40:44+00:00",
+      "date_display": "Jun 25, 2026",
+      "source": "National Memo",
+      "type": "news",
+      "quote": "Trump's DJT Stock Dives Amid Accusations Of Insider Trading And Fraud",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 7.29,
+      "change": 3.26,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUFNWM2xDLTQ2Q3FfdjhuUlBXMmpibGJteUtZbkZwQTM1S3BjM2F3SGJ2aDJiTThHVGw5WWNSZE9qWGVtWHU2bGtEWGRiMTcyUlIxVkFOTk1EbTdBT21YUjFPOHo1clhGTUVR?oc=5",
+      "image": null,
+      "headline": "Trump's DJT Stock Dives Amid Accusations Of Insider Trading And Fraud - National Memo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.29
         }
       ]
     },
