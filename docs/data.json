@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T14:10:47.689883+00:00",
-  "count": 380,
+  "updated_at": "2026-06-27T15:00:14.754838+00:00",
+  "count": 382,
   "mentions": [
     {
       "id": "8724b5dda8fd38e5",
@@ -24475,6 +24475,214 @@
         {
           "d": "06-23",
           "c": 72.83
+        }
+      ]
+    },
+    {
+      "id": "26522482767779e6",
+      "date": "Thu, 04 Jun 2026",
+      "ts": "2026-06-04T07:00:00+00:00",
+      "date_display": "Jun 04, 2026",
+      "source": "Detroit Free Press",
+      "type": "news",
+      "quote": "Trump says Ford, GM pushing bill to restrict right to repair - Detroit",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 14.11,
+      "change": 1.95,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEpNVzZTNUZ2c3p3cXpWSmdxRWpXSTdrbW1zaVFmRmdodDJhSlF1ekFseV9OSXFrYkJQVzZQcG13a1BPbGlmbWF0X2V5MjZLNDVfZ2NUX0Iyc2t6M2ROY1pQTWtxR3UxbnJjcFR1SGxzbDg1djhEME5hRzNoZ3FpR2Uxa0Q0ZEloRzdUbVJaQjlaNC1UTzBReWlpMURMNGU2Z3FLNXNtOUFlOUF1dFdRejQ1Tjk5WFFIcWphS2tUYTdVRjlxTnVybzVnLTJwdXF0TThoZjhJdV96SERR?oc=5",
+      "image": null,
+      "headline": "Trump says Ford, GM pushing bill to restrict right to repair - Detroit Free Press",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-27",
+          "c": 15.88
+        },
+        {
+          "d": "05-28",
+          "c": 16.65
+        },
+        {
+          "d": "05-29",
+          "c": 17.44
+        },
+        {
+          "d": "06-01",
+          "c": 16.63
+        },
+        {
+          "d": "06-02",
+          "c": 16.15
+        },
+        {
+          "d": "06-03",
+          "c": 15.71
+        },
+        {
+          "d": "06-04",
+          "c": 15.34
+        },
+        {
+          "d": "06-05",
+          "c": 14.9
+        },
+        {
+          "d": "06-08",
+          "c": 15.0
+        },
+        {
+          "d": "06-09",
+          "c": 14.95
+        },
+        {
+          "d": "06-10",
+          "c": 14.3
+        },
+        {
+          "d": "06-11",
+          "c": 14.71
+        },
+        {
+          "d": "06-12",
+          "c": 14.84
+        },
+        {
+          "d": "06-15",
+          "c": 14.77
+        },
+        {
+          "d": "06-16",
+          "c": 14.41
+        },
+        {
+          "d": "06-17",
+          "c": 13.96
+        },
+        {
+          "d": "06-18",
+          "c": 14.06
+        },
+        {
+          "d": "06-22",
+          "c": 14.11
+        },
+        {
+          "d": "06-23",
+          "c": 14.0
+        },
+        {
+          "d": "06-24",
+          "c": 13.84
+        },
+        {
+          "d": "06-25",
+          "c": 14.11
+        }
+      ]
+    },
+    {
+      "id": "93d0e9615ed47c74",
+      "date": "Thu, 04 Jun 2026",
+      "ts": "2026-06-04T07:00:00+00:00",
+      "date_display": "Jun 04, 2026",
+      "source": "Detroit Free Press",
+      "type": "news",
+      "quote": "Trump says Ford, GM pushing bill to restrict right to repair - Detroit Free",
+      "company": "Gm",
+      "ticker": "GM",
+      "price": 78.53,
+      "change": -0.53,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEpNVzZTNUZ2c3p3cXpWSmdxRWpXSTdrbW1zaVFmRmdodDJhSlF1ekFseV9OSXFrYkJQVzZQcG13a1BPbGlmbWF0X2V5MjZLNDVfZ2NUX0Iyc2t6M2ROY1pQTWtxR3UxbnJjcFR1SGxzbDg1djhEME5hRzNoZ3FpR2Uxa0Q0ZEloRzdUbVJaQjlaNC1UTzBReWlpMURMNGU2Z3FLNXNtOUFlOUF1dFdRejQ1Tjk5WFFIcWphS2tUYTdVRjlxTnVybzVnLTJwdXF0TThoZjhJdV96SERR?oc=5",
+      "image": null,
+      "headline": "Trump says Ford, GM pushing bill to restrict right to repair - Detroit Free Press",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-27",
+          "c": 83.94
+        },
+        {
+          "d": "05-28",
+          "c": 84.17
+        },
+        {
+          "d": "05-29",
+          "c": 83.06
+        },
+        {
+          "d": "06-01",
+          "c": 82.5
+        },
+        {
+          "d": "06-02",
+          "c": 81.55
+        },
+        {
+          "d": "06-03",
+          "c": 81.52
+        },
+        {
+          "d": "06-04",
+          "c": 83.04
+        },
+        {
+          "d": "06-05",
+          "c": 82.11
+        },
+        {
+          "d": "06-08",
+          "c": 83.77
+        },
+        {
+          "d": "06-09",
+          "c": 83.76
+        },
+        {
+          "d": "06-10",
+          "c": 79.4
+        },
+        {
+          "d": "06-11",
+          "c": 80.85
+        },
+        {
+          "d": "06-12",
+          "c": 81.5
+        },
+        {
+          "d": "06-15",
+          "c": 84.07
+        },
+        {
+          "d": "06-16",
+          "c": 82.51
+        },
+        {
+          "d": "06-17",
+          "c": 79.58
+        },
+        {
+          "d": "06-18",
+          "c": 79.29
+        },
+        {
+          "d": "06-22",
+          "c": 80.43
+        },
+        {
+          "d": "06-23",
+          "c": 78.95
+        },
+        {
+          "d": "06-24",
+          "c": 78.95
+        },
+        {
+          "d": "06-25",
+          "c": 78.53
         }
       ]
     },
