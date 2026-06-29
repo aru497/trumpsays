@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-06-29T16:57:50.602359+00:00",
+  "updated_at": "2026-06-29T17:52:41.224167+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1d3c908d0be162a2",
+      "date": "Mon, 29 Jun 2026",
+      "ts": "2026-06-29T16:57:33+00:00",
+      "date_display": "Jun 29, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "against CNN Dershowitz had urged the court to reconsider New York Times Co. v. Sullivan. The landmark First Amendment case that",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.17,
+      "change": -1.0,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/supreme-court-wont-revive-alan-dershowitzs-300-million-suit-against-cnn",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-29T133401Z_919499453_RC2YP7A0SHO0_RTRMADP_3_USA-COURT-DERSHOWITZ-CNN-1024x683.jpg",
+      "headline": "Supreme Court won't revive Alan Dershowitz's $300 million suit against CNN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-29",
+          "c": 75.21
+        },
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
+        },
+        {
+          "d": "06-18",
+          "c": 73.06
+        },
+        {
+          "d": "06-22",
+          "c": 72.08
+        },
+        {
+          "d": "06-23",
+          "c": 72.83
+        },
+        {
+          "d": "06-24",
+          "c": 71.22
+        },
+        {
+          "d": "06-25",
+          "c": 68.57
+        },
+        {
+          "d": "06-26",
+          "c": 70.88
+        },
+        {
+          "d": "06-29",
+          "c": 70.17
+        }
+      ]
+    },
     {
       "id": "11da147aa48d2515",
       "date": "Mon, 29 Jun 2026",
@@ -41421,114 +41525,6 @@
         {
           "d": "06-18",
           "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "3cdae081fb29e4cd",
-      "date": "Fri, 10 Apr 2026",
-      "ts": "2026-04-10T07:00:00+00:00",
-      "date_display": "Apr 10, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on -",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 128.47,
-      "change": -1.65,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWxWbzZPUWxxaUp2Y21CT3h5QXhEaHRfOXpfRUh1NExieGpNM3h4T0pLZko1ZkZJa2stYk9CTmZ2RTNSb3BiU2hCVHFRZEROVkJzZ1hCdTF5WkZYemZlUXFnZlo1U3RNMXVtakswcmMxMTdRSEpQSVMwejRaZ3FSUzFUSzI1RG9BdjZENGVBc1BXRzJXTElfUHp5SS1SNDAyY2RLWnVTaE9qTTZ0V1RiQ3BjWjYtV2s4bDNhNUZ2V3VOOVBoNkd6WXpOYjlGUzh3NzVtWFdpVFdOZWNPc1Qw?oc=5",
-      "image": null,
-      "headline": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 135.26
-        },
-        {
-          "d": "05-20",
-          "c": 137.15
-        },
-        {
-          "d": "05-21",
-          "c": 137.41
-        },
-        {
-          "d": "05-22",
-          "c": 136.88
-        },
-        {
-          "d": "05-26",
-          "c": 136.6
-        },
-        {
-          "d": "05-27",
-          "c": 132.51
-        },
-        {
-          "d": "05-28",
-          "c": 143.34
-        },
-        {
-          "d": "05-29",
-          "c": 156.54
-        },
-        {
-          "d": "06-01",
-          "c": 160.65
-        },
-        {
-          "d": "06-02",
-          "c": 152.17
-        },
-        {
-          "d": "06-03",
-          "c": 142.2
-        },
-        {
-          "d": "06-04",
-          "c": 141.7
-        },
-        {
-          "d": "06-05",
-          "c": 135.53
-        },
-        {
-          "d": "06-08",
-          "c": 136.47
-        },
-        {
-          "d": "06-09",
-          "c": 132.07
-        },
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        },
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        },
-        {
-          "d": "06-18",
-          "c": 128.47
         }
       ]
     }
