@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-06-29T03:47:12.395135+00:00",
+  "updated_at": "2026-06-29T05:31:18.367708+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c9454f0a0973966a",
+      "date": "Mon, 29 Jun 2026",
+      "ts": "2026-06-29T04:02:38+00:00",
+      "date_display": "Jun 29, 2026",
+      "source": "Stocktwits",
+      "type": "news",
+      "quote": "DJT Stock Heads For Worst Month This Year: Peter Schiff Says",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 7.42,
+      "change": 5.1,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmU0RXE0cm91N0dEcGVWTExPRTlUTUFwUHRhX1FERHUyNWZiaGRYQ2dUUW1BdkFLdWlITWlpaFZZNDc0MFkyaWNRR2pDSlkyM0FDbGtrbXJhLVlMVmt5U0oycHpmY1NNeElBbXlKcWVRdVhEWnRvS2Y2QmVOX1hIS0taRGJkVWFlNGtOM0szbjBEeXJzUnQybmVybnFQem1OVmU2N0w0VmpxZi16T09MbHRIeDltME9WUEE?oc=5",
+      "image": null,
+      "headline": "DJT Stock Heads For Worst Month This Year: Peter Schiff Says \u2018Harbinger Of What's To Come\u2019 - Stocktwits",
+      "channel": "News",
+      "series": [
+        {
+          "d": "05-27",
+          "c": 8.57
+        },
+        {
+          "d": "05-28",
+          "c": 8.9
+        },
+        {
+          "d": "05-29",
+          "c": 9.31
+        },
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        }
+      ]
+    },
     {
       "id": "fafa47a243217276",
       "date": "Sun, 28 Jun 2026",
@@ -41514,114 +41622,6 @@
         {
           "d": "06-26",
           "c": 70.88
-        }
-      ]
-    },
-    {
-      "id": "fab3d864bda96173",
-      "date": "Tue, 31 Mar 2026",
-      "ts": "2026-03-31T07:00:00+00:00",
-      "date_display": "Mar 31, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Institutional Interest Growing in Trump Media & Technology Group (DJT) - Yahoo Finance Institutional",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.03,
-      "change": -0.86,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk9iVTNYX1k5WkkyNWUxc2V4Ry1kM2NuOHBwYkJJRElSVkM4S3VSN2VUSmtNNHRpR3B2SkM1Z1hySmVKTF9TLWdQRUViMjZxSHpvaVUzc2dBcnJEU1FlMnBNVzNiaFkycmE1YVF5WV9PakYxcFJrVDhHVEJXbi1lNVlPcFBvc1REMk05eXoyQW9XX3htdHNiWkZ1NHhQa0xFNU1fRF9PQ3hEUk0?oc=5",
-      "image": null,
-      "headline": "Institutional Interest Growing in Trump Media & Technology Group (DJT) - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.03
         }
       ]
     }
