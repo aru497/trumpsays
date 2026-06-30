@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-06-30T23:25:55.469458+00:00",
+  "updated_at": "2026-06-30T23:52:10.384909+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "94d126f8a7ac17db",
+      "date": "Tue, 30 Jun 2026",
+      "ts": "2026-06-30T22:48:00+00:00",
+      "date_display": "Jun 30, 2026",
+      "source": "MarketWatch",
+      "type": "news",
+      "quote": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto - MarketWatch Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 289.36,
+      "change": 2.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkxXcV9tc1hBa0ppeFV5MTdRb004dmVzUWxFOGxTdHlNWVRNUDdIcW1TMDZKenVteVJRTThqcEpzMEY5b3Y3eDB6UGhyaXFKaHVUc3dtZjZweF9uTTVfZUwwSUJEN1NGU2xGT1N4YTJmYmZQaEhqMTZ4U2l3eWNGV0NlZ3NfMDZJRVZDTTlEV0RfLWNXR1ZhOEpyQ0pkMlVUUFJCUXRrcEo5cEM4WU9xR1hnaEpMNlp5LXFvUWVKdy0zSFAwZ3FvWFZaTTZUU2gzSVE?oc=5",
+      "image": null,
+      "headline": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto - MarketWatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 306.31
+        },
+        {
+          "d": "06-02",
+          "c": 315.2
+        },
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        },
+        {
+          "d": "06-22",
+          "c": 297.01
+        },
+        {
+          "d": "06-23",
+          "c": 294.3
+        },
+        {
+          "d": "06-24",
+          "c": 293.08
+        },
+        {
+          "d": "06-25",
+          "c": 275.15
+        },
+        {
+          "d": "06-26",
+          "c": 283.78
+        },
+        {
+          "d": "06-29",
+          "c": 281.74
+        },
+        {
+          "d": "06-30",
+          "c": 289.36
+        }
+      ]
+    },
     {
       "id": "b9a4b2d3b1752c20",
       "date": "Tue, 30 Jun 2026",
@@ -41365,114 +41469,6 @@
         {
           "d": "06-12",
           "c": 73.38
-        }
-      ]
-    },
-    {
-      "id": "592325a4941002a9",
-      "date": "Tue, 21 Apr 2026",
-      "ts": "2026-04-21T07:00:00+00:00",
-      "date_display": "Apr 21, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Devin Nunes Departs Trump Media After 4 Years as C.E.O. - The New York Times Devin Nunes",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFMtVVZlVXpaZndKYzlZamhTOE04b25aLV9ma291d2NhaUFHTDVyMlYyOGJGT0loX3ZaX19YeVFRbTlHUGF3TzFJbXRFWUVoUkY1alVEaHM3S1RPSG9nS2RTYi14VDZ4MGZ4Zjg0SFhLWW92WXpzSXdxWjhmZVdaWjVuX0IwaldFSVRn?oc=5",
-      "image": null,
-      "headline": "Devin Nunes Departs Trump Media After 4 Years as C.E.O. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
         }
       ]
     }
