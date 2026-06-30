@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-06-30T08:10:14.967635+00:00",
+  "updated_at": "2026-06-30T09:43:56.770359+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "237891129a66280d",
+      "date": "Tue, 30 Jun 2026",
+      "ts": "2026-06-30T09:00:00+00:00",
+      "date_display": "Jun 30, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Inside the coordinated strategy to radically reshape U.S. immigration As the Supreme Court",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 92.68,
+      "change": 12.6,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
+      "image": null,
+      "headline": "Inside the coordinated strategy to radically reshape U.S. immigration",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 149.78
+        },
+        {
+          "d": "06-02",
+          "c": 136.08
+        },
+        {
+          "d": "06-03",
+          "c": 126.55
+        },
+        {
+          "d": "06-04",
+          "c": 129.37
+        },
+        {
+          "d": "06-05",
+          "c": 120.44
+        },
+        {
+          "d": "06-08",
+          "c": 127.2
+        },
+        {
+          "d": "06-09",
+          "c": 117.02
+        },
+        {
+          "d": "06-10",
+          "c": 115.35
+        },
+        {
+          "d": "06-11",
+          "c": 120.15
+        },
+        {
+          "d": "06-12",
+          "c": 123.97
+        },
+        {
+          "d": "06-15",
+          "c": 131.14
+        },
+        {
+          "d": "06-16",
+          "c": 122.81
+        },
+        {
+          "d": "06-17",
+          "c": 116.56
+        },
+        {
+          "d": "06-18",
+          "c": 112.53
+        },
+        {
+          "d": "06-22",
+          "c": 109.46
+        },
+        {
+          "d": "06-23",
+          "c": 103.84
+        },
+        {
+          "d": "06-24",
+          "c": 94.13
+        },
+        {
+          "d": "06-25",
+          "c": 85.33
+        },
+        {
+          "d": "06-26",
+          "c": 82.31
+        },
+        {
+          "d": "06-29",
+          "c": 92.68
+        }
+      ]
+    },
     {
       "id": "6a3eb5812932afeb",
       "date": "Mon, 29 Jun 2026",
@@ -37237,6 +37337,106 @@
       ]
     },
     {
+      "id": "1438c2c3167a7093",
+      "date": "Sat, 25 Apr 2026",
+      "ts": "2026-04-25T07:00:00+00:00",
+      "date_display": "Apr 25, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Devin Nunes is out as Trump Media CEO after 4 years \u2014 and revenue came in 99.8% below what",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 7.49,
+      "change": 0.94,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEpHNW0zNGlaSFJoZTBoSFJzdTFEQmlOUmRreEhHYmFXSHN1ZlpYR1NLVEw5a0pGczZvQUI3emlocDRITnd6ODNiZDNQdm1obFA2YUh2ZU9FYk90MEJJeXFSSk9KVXZCajFkMVd4Uk44MWx2R0NHcXFicm8wc19IWE5xRHhwTzlRbENHYTBwVzF3NXB2a2pR?oc=5",
+      "image": null,
+      "headline": "Devin Nunes is out as Trump Media CEO after 4 years \u2014 and revenue came in 99.8% below what investors were promised - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 9.47
+        },
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        }
+      ]
+    },
+    {
       "id": "e5143034b94b184d",
       "date": "Fri, 24 Apr 2026",
       "ts": "2026-04-24T07:00:00+00:00",
@@ -41285,206 +41485,6 @@
         {
           "d": "06-18",
           "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "0e7c621b1a7ea343",
-      "date": "Tue, 21 Apr 2026",
-      "ts": "2026-04-21T07:00:00+00:00",
-      "date_display": "Apr 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Former Republican Rep. Devin Nunes out as Trump Media CEO - Yahoo Finance Former Republican Rep. Devin Nunes out",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.88,
-      "change": -2.96,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2xBdjRBNGVQSW9ONG1SX3lMMDJEeEpmRjVTT3NiQ3hnbFp0dEVDR19wenZudkRoZGJUV0lMc2hTX09ObVgxVHdJb3VPUGNZbnBFVFpQc1lxYmhnbHRRYzdkMGdxRG91ZTNwdjVuT01zNzZRWUV3Rmk2a0JFZzBNeVRVSG02NTRrMEN6cDBrVHNRWmlTTDgzRE4xUnR3Nkk?oc=5",
-      "image": null,
-      "headline": "Former Republican Rep. Devin Nunes out as Trump Media CEO - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        }
-      ]
-    },
-    {
-      "id": "b2d76593e370b6f8",
-      "date": "Tue, 21 Apr 2026",
-      "ts": "2026-04-21T07:00:00+00:00",
-      "date_display": "Apr 21, 2026",
-      "source": "Forbes",
-      "type": "news",
-      "quote": "Says Tim Cook Called To \u2018Kiss My Ass\u2019 In Long Post About Apple CEO - Forbes Trump Says Tim Cook Called To \u2018Kiss My Ass\u2019",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 294.3,
-      "change": -0.91,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0pNWTFQUFhicDJ4ZXcyUHJqNDEzdWFZRU9aN0RvbjRMZTFWV0tkM0QxZ0hOcXBVdUkzNUg5eXMyQk91Yi1qR1Z6WUgzRDV5TWhoVnZXQl9OaWRsZzJCdF9QVmJVdnpYX3dnUXNKOF81ai1BTGk3cFlWNTFsQ0RkMjZSOWRfMzJkTlRjSnNjaXRPY05XWHBYU1NxS1BZNDJCZTNiRzdxRGFCRU04NWlrM3poVDdWbVYtdGt4QVpLMUpWUQ?oc=5",
-      "image": null,
-      "headline": "Trump Says Tim Cook Called To \u2018Kiss My Ass\u2019 In Long Post About Apple CEO - Forbes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
-        },
-        {
-          "d": "06-22",
-          "c": 297.01
-        },
-        {
-          "d": "06-23",
-          "c": 294.3
         }
       ]
     }
