@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-07-01T22:37:07.729652+00:00",
+  "updated_at": "2026-07-01T23:26:53.475442+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7472fceb27bbc253",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T22:55:35+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Geoff Bennett discussed more with Eric Lipton of The New York Times.",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 71.79,
+      "change": 2.59,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/trumps-2b-income-in-2025-raises-fresh-questions-about-profiting-off-presidency",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/profitpresident-1024x683.jpg",
+      "headline": "Trump's $2B income in 2025 raises fresh questions about profiting off presidency",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
+        },
+        {
+          "d": "06-18",
+          "c": 73.06
+        },
+        {
+          "d": "06-22",
+          "c": 72.08
+        },
+        {
+          "d": "06-23",
+          "c": 72.83
+        },
+        {
+          "d": "06-24",
+          "c": 71.22
+        },
+        {
+          "d": "06-25",
+          "c": 68.57
+        },
+        {
+          "d": "06-26",
+          "c": 70.88
+        },
+        {
+          "d": "06-29",
+          "c": 70.65
+        },
+        {
+          "d": "06-30",
+          "c": 69.98
+        },
+        {
+          "d": "07-01",
+          "c": 71.79
+        }
+      ]
+    },
+    {
+      "id": "d0285154c7a6a83c",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T22:34:10+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "clear whether the order applied only to reporters from The New York Times, which filed the lawsuit, or to the entire press corps.",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 71.79,
+      "change": 2.59,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/judge-orders-pentagon-to-lift-policy-requiring-journalists-to-be-accompanied-by-an-escort",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-13T022541Z_1464200907_RC2QHDAOADPJ_RTRMADP_3_CHINA-USA-COMPANIES-1024x683.jpg",
+      "headline": "Judge orders Pentagon to lift policy requiring journalists to be accompanied by an escort",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
+        },
+        {
+          "d": "06-18",
+          "c": 73.06
+        },
+        {
+          "d": "06-22",
+          "c": 72.08
+        },
+        {
+          "d": "06-23",
+          "c": 72.83
+        },
+        {
+          "d": "06-24",
+          "c": 71.22
+        },
+        {
+          "d": "06-25",
+          "c": 68.57
+        },
+        {
+          "d": "06-26",
+          "c": 70.88
+        },
+        {
+          "d": "06-29",
+          "c": 70.65
+        },
+        {
+          "d": "06-30",
+          "c": 69.98
+        },
+        {
+          "d": "07-01",
+          "c": 71.79
+        }
+      ]
+    },
     {
       "id": "43c209da43908c72",
       "date": "Wed, 01 Jul 2026",
@@ -313,6 +521,25 @@
           "c": 1032.28
         }
       ]
+    },
+    {
+      "id": "90a927dde57290e4",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T19:16:58+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "The Block",
+      "type": "news",
+      "quote": "stock split in bid to maintain Nasdaq listing - The Block Trump-backed American Bitcoin sets 1-for-15 reverse stock",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjFnTm9CUjF2d1dqdnJ5cFRXbHlybXE2YmFVNWZCS3VNRm1DQTdid201enBQMmJTVUJTTUgxdU45Ukt5X01BMWRaZUZHcnBhQ3VBNUNyYW9LZDc0VFVjTkFPMzNGajFEd2Y3em5XS1YtTlhMUzhBcWtZOVVwUm5UbzlHMkhDQU40cUFFR2dncTVTTTl5bW4yLVFCNkJfNzBpLUVzbGN5bTZLbHVwZHJfVDVTbER4N1NVakE?oc=5",
+      "image": null,
+      "headline": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split in bid to maintain Nasdaq listing - The Block",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "6e839bdce2bac7ef",
@@ -41052,330 +41279,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYURDQ3JaSGhYaVV3QTN5V05DTVZ5S0htVzdjczZ2WXloanVvY0JqWEpDZlQ0Q0p1V1E2RXVlRlNWTlo5bmRUVmd3TDlYa2JIZ3JNNHpkWDlfazdHTEtFYUNqWEVxdFRQRmxaZGhOMm1qTF9UWFJ4LXVsSUluTmdSRnlGQU92VWZWX19GXzVpdGlXRC1uSXBYdk9B?oc=5",
       "image": null,
       "headline": "Truth Social CEO Out After $1.1 Billion in Losses - Mother Jones",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "760c4caab19a5afb",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "The Daily Beast",
-      "type": "news",
-      "quote": "Trump Media CEO Replaced After Stock Plunge - The Daily Beast Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVBra0lCOHlCWkY4VWRaOW1ZWWZQdzRQWGQ5S09rV3lPTWt4RGVHVFZiYXBFLXc5aUtKQzlDTVU0d1BTSGR0RnE4OUFaLU1qczBYaWpMdUdxanpDQjRXNVk2YnpWeURRRzVTM0lQaGhnRFFOQkd6UzVEdG5RUVd2ZEhNU25HZE1VMXc?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO Replaced After Stock Plunge - The Daily Beast",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "ebd504a527a20b25",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "KATV",
-      "type": "news",
-      "quote": "Trump Media replaces Devin Nunes as CEO amid stock price drop - KATV",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVY1ZjVxOWlQZEpzWDdsYk1OUzhLVmNUbG9TTkRzQW5RcVpkUHppX3JzeDJUWEFVWm1ya2pXOV9lQzRqVnN6dTVCVEkyb1p6cXowN1Ytbno4TFJFMjJXakQ5RXZmQzdGSGtpY0RiQmg5WFp5LUZzNl93cE1wRW1PYUQyOUZlY21RNlBqdU9RQ0U0S2UxX29mcmZkQW05amk1SHVCSDNwV3RHZzF0emhZbmFINkYyaGp3c1E?oc=5",
-      "image": null,
-      "headline": "Trump Media replaces Devin Nunes as CEO amid stock price drop - KATV",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "9eda657cb998a5eb",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Trump Media CEO Exits Suddenly. Why the Stock Plunged 63% in a Year. -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TcExiQ01WMVBWUlZpaGlFYWc0aEpqenJVT3p0bjlCUmZNNThrZmdnRXhkRjBsY1FTdHNENlJDLUZyUFZxUURibGE2U2VJcjJWaHdZUEQwdHo5Y2FOSXdqRFNZeVh3MWZLQ0hlUHJTMm9sQWk4MUJhWU1OLV9hSUE?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO Exits Suddenly. Why the Stock Plunged 63% in a Year. - Barron's",
       "channel": "News",
       "series": [
         {
