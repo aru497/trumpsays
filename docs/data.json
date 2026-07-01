@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-07-01T18:10:05.606622+00:00",
+  "updated_at": "2026-07-01T19:08:45.538621+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "6e839bdce2bac7ef",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T18:15:00+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "Idaho County Free Press",
+      "type": "news",
+      "quote": "Micron announces Trump Account contributions for Idaho families -",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 1052.6,
+      "change": -8.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcE5rM29jWG96Yl9rdVg2YlhEYVd5Rjk5NnFwOWZZeHhqU1BTR0E4NTdfR3N6OFE4NHZNS1VUVWpJUUxwS2QydGV3d2lpQ3dpU0djMlJyWW1jVDhJWG9BaUFFcHdDNUlDNE5rME5BUDJfcnNza1pkWTBCMWZnR1c0dGNlbmNCNVBPZTBySEsyamoxaGJBUEljazhMcWpBTjNVNEhPanRCYW1oTXM5ckl5SHN0MERreW9tM2FjVmNSaW53M1Mtb3VtX2dMZDlSVGNqOXJkR0ZWdWRtN0lSUmxPNHZ1M0FGOHZEeno3T3VXX0tkLUE?oc=5",
+      "image": null,
+      "headline": "Micron announces Trump Account contributions for Idaho families - Idaho County Free Press",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 1035.5
+        },
+        {
+          "d": "06-02",
+          "c": 1064.1
+        },
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1052.6
+        }
+      ]
+    },
+    {
+      "id": "2be6c9772881cf63",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T17:34:00+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "ANI News",
+      "type": "news",
+      "quote": "US President says Micron announced investment of USD 250 million in Trump Accounts",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 1052.6,
+      "change": -8.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWGo2UXpRLTluWkVnRG80LVBIOHlCRy1vbzNyQUdla25ZQ3BYaDBTSEtmMFlnWkk3d2R3VGw2Tm01WnQ3U3ZZYU1NSzN0ZGdFcFZFajNhRHBQeXlTcE54ZGYtSG1OMTNVNjQtUmRjZmRnSUkyTzBnXzg5M0pDTXpVV1NtS01fdWRZb3gyOGFOTWxqRXhTdFNDTWdiYWxOZ3VCQ0t4TThGM3JOdzhGelpFbG5ERS1kb0Y3MC1UbjB5V1p2QzUxaW8ybXU1b19Kdw?oc=5",
+      "image": null,
+      "headline": "US President says Micron announced investment of USD 250 million in Trump Accounts - ANI News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 1035.5
+        },
+        {
+          "d": "06-02",
+          "c": 1064.1
+        },
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1052.6
+        }
+      ]
+    },
+    {
+      "id": "95621f29b94d0674",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T16:56:03+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "to Donate $250 Million to Trump Accounts, Trump Says - The New York Times Micron to Donate $250 Million to Trump Accounts, Trump",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.5,
+      "change": 3.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkgxeF94RGFoZVNycU5RNnpRUXk4STE5Q0tDdzk1azBhcERLWVRaek1sYXRIdU11amFpZ0pHSzVCaEFMc1NPQ3BFc3FtZ1FkdnNyZ3l6SjNlQUZWSWVaUkR3ekNFeEpkVmNlX19iWmJodXJDNDNrS0JQdEtQeHV6WG9IdXB1Z1VPejNaaVQyeU1ybzQ1TGNHUmEzd1RmQWc?oc=5",
+      "image": null,
+      "headline": "Micron to Donate $250 Million to Trump Accounts, Trump Says - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 76.21
+        },
+        {
+          "d": "06-02",
+          "c": 75.24
+        },
+        {
+          "d": "06-03",
+          "c": 75.17
+        },
+        {
+          "d": "06-04",
+          "c": 75.25
+        },
+        {
+          "d": "06-05",
+          "c": 76.88
+        },
+        {
+          "d": "06-08",
+          "c": 74.02
+        },
+        {
+          "d": "06-09",
+          "c": 73.59
+        },
+        {
+          "d": "06-10",
+          "c": 73.0
+        },
+        {
+          "d": "06-11",
+          "c": 74.2
+        },
+        {
+          "d": "06-12",
+          "c": 73.38
+        },
+        {
+          "d": "06-15",
+          "c": 73.8
+        },
+        {
+          "d": "06-16",
+          "c": 73.83
+        },
+        {
+          "d": "06-17",
+          "c": 74.46
+        },
+        {
+          "d": "06-18",
+          "c": 73.06
+        },
+        {
+          "d": "06-22",
+          "c": 72.08
+        },
+        {
+          "d": "06-23",
+          "c": 72.83
+        },
+        {
+          "d": "06-24",
+          "c": 71.22
+        },
+        {
+          "d": "06-25",
+          "c": 68.57
+        },
+        {
+          "d": "06-26",
+          "c": 70.88
+        },
+        {
+          "d": "06-29",
+          "c": 70.65
+        },
+        {
+          "d": "06-30",
+          "c": 69.98
+        },
+        {
+          "d": "07-01",
+          "c": 72.5
+        }
+      ]
+    },
+    {
+      "id": "700865636a90cd51",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T16:56:03+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Micron to Donate $250 Million to Trump Accounts, Trump Says - The",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 1052.6,
+      "change": -8.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkgxeF94RGFoZVNycU5RNnpRUXk4STE5Q0tDdzk1azBhcERLWVRaek1sYXRIdU11amFpZ0pHSzVCaEFMc1NPQ3BFc3FtZ1FkdnNyZ3l6SjNlQUZWSWVaUkR3ekNFeEpkVmNlX19iWmJodXJDNDNrS0JQdEtQeHV6WG9IdXB1Z1VPejNaaVQyeU1ybzQ1TGNHUmEzd1RmQWc?oc=5",
+      "image": null,
+      "headline": "Micron to Donate $250 Million to Trump Accounts, Trump Says - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 1035.5
+        },
+        {
+          "d": "06-02",
+          "c": 1064.1
+        },
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1052.6
+        }
+      ]
+    },
     {
       "id": "1d50f2a39022b5df",
       "date": "Wed, 01 Jul 2026",
@@ -27554,6 +27986,114 @@
       ]
     },
     {
+      "id": "b7860bb6886da392",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T07:00:00+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Citigroup shares outperform down market after Trump endorsement -",
+      "company": "Citigroup",
+      "ticker": "C",
+      "price": 140.38,
+      "change": 0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczZfNENqeDlwTU1Kcm83eDdxUE9LZmd3cGF5cVEwV2NKbU1ibWkxNG9rYWppdVJ4RkZ5TU4xcDl1MVhqdDRaY2kyVXRVUV8yUDRDdVRMMlZieHdmMXJfWU45NV9vQi1BaUhvdVZCY3U4WWExYldrREJURUd4V0JhbnZuTjVRREN6VUNZVDlSZDZBYXJDRUJSQmlVVktuQ1g4OGfSAacBQVVfeXFMTjYzSnZoSEFmZXVXWnE4T3dQOWZEZ1JtM05ub0FEandZYWJXdzBCdXc0VUhIejRwTE1pVlFPOTlyVkZQcTFteVdYUDJaNTBmUFd6UVZkeWNZb19PVy1ERXRBR2JGVEpSd0JmZ2poMDlXWktmbnQzWDJvMjhETlIyZmxEazBLdHk1clJwTm1SMFpLTUVtVUM5VlhYSnVSZGliWEFLSHRtSFU?oc=5",
+      "image": null,
+      "headline": "Citigroup shares outperform down market after Trump endorsement - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-01",
+          "c": 129.09
+        },
+        {
+          "d": "06-02",
+          "c": 131.26
+        },
+        {
+          "d": "06-03",
+          "c": 129.93
+        },
+        {
+          "d": "06-04",
+          "c": 135.15
+        },
+        {
+          "d": "06-05",
+          "c": 132.47
+        },
+        {
+          "d": "06-08",
+          "c": 133.28
+        },
+        {
+          "d": "06-09",
+          "c": 134.73
+        },
+        {
+          "d": "06-10",
+          "c": 133.38
+        },
+        {
+          "d": "06-11",
+          "c": 138.07
+        },
+        {
+          "d": "06-12",
+          "c": 139.83
+        },
+        {
+          "d": "06-15",
+          "c": 141.21
+        },
+        {
+          "d": "06-16",
+          "c": 142.99
+        },
+        {
+          "d": "06-17",
+          "c": 143.78
+        },
+        {
+          "d": "06-18",
+          "c": 143.06
+        },
+        {
+          "d": "06-22",
+          "c": 145.67
+        },
+        {
+          "d": "06-23",
+          "c": 144.97
+        },
+        {
+          "d": "06-24",
+          "c": 143.59
+        },
+        {
+          "d": "06-25",
+          "c": 144.98
+        },
+        {
+          "d": "06-26",
+          "c": 141.76
+        },
+        {
+          "d": "06-29",
+          "c": 142.49
+        },
+        {
+          "d": "06-30",
+          "c": 139.96
+        },
+        {
+          "d": "07-01",
+          "c": 140.38
+        }
+      ]
+    },
+    {
       "id": "975ccc239c0d5ee5",
       "date": "Tue, 09 Jun 2026",
       "ts": "2026-06-09T23:14:14+00:00",
@@ -40929,526 +41469,6 @@
         {
           "d": "06-15",
           "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "9717ebd255246604",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Trump Media replaces CEO Devin Nunes as its losses top $1 billion -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.44,
-      "change": 8.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOW9IOEJ1U0NKTEQzYlVuV2Zfajg2eGdXRHZiRkpGdFoteEE1UkFZN1hEbkFBMi1xNXF1VERySnhZR0EyeWdsaThSLXBWdWVodU91TlNveDlFM2NtUHMyVlFXR1ZDWUcyWHZIczNIWjBUaUt2MWs0MlBlcEl1NE4zV3llZnpOUHpGMWJKRzZPcXEzTEdQUGfSAZsBQVVfeXFMUGlmVWZfdjdVU21iREk0OC1LRUpzY3dFaFNuVm9KVEJ4SWRzSHlBWm5qOF9ESTZKU25HMHMtSDJUTE5oY2ZmYS16ZUxEUWRRTEJLcloxNDdGTUJXcWF6aUVlSzVTUTlqaGNTWmVxMlloSC00LXd1WWRvd3RLV3R1Ui1fTUhldDlHZVJYMl9Sc0VWeWZySVZXT2dXX28?oc=5",
-      "image": null,
-      "headline": "Trump Media replaces CEO Devin Nunes as its losses top $1 billion - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "d6b499e997930c12",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "Boston Herald",
-      "type": "news",
-      "quote": "Ticker: Trump media company replaces CEO; SpaceX in $60B deal to to buy AI",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.44,
-      "change": 8.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV09LOWhUaUdYYXZqTE9OTGU0R0hEYTRmRmFhNVBvQnJPdk8wQjd0YVNWSEIxRE1tTDc3dk5PMjlPYnRwT1FQYVZrWXpHVkxEYkw5MUp3Vkswand5MEpoQjZZZFA0MFRPaUloMmJLREFpcG1JRElENEhPU3UtcV85UGxYdm9wNTlOQ2JVcUVaUkgyLTBmdUc5aHBUZkxnZEF6SUlrd1VEdkN0SG1iSktEU3EyeTRVZDFzSWRBdFFEeW9IZw?oc=5",
-      "image": null,
-      "headline": "Ticker: Trump media company replaces CEO; SpaceX in $60B deal to to buy AI coding tool - Boston Herald",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "094c01c153f343c1",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "mynews4.com",
-      "type": "news",
-      "quote": "Trump Media replaces Devin Nunes as CEO amid stock price drop -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.1,
-      "change": -0.74,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEs0WHVrMGJYM3ZncVRXNl95Vk9VNzE4TXNaUm5VcnFnZlQ1YlQ2VlBtZ2doVmtUdmcxY3pUaHphWXZVU2NpSU55QXcyZ1NyRGJIQngtUVdHQVlqQmZlY2lUak9lYXZReUJHVWZoajlXZy1KaTZjUXNqdGFtRVcyZGM5RWszUG1JZ3E4aTl3S0xsTFlDQ3ViQ1k1a2JJbjlaU3JZS05SV1hHYWUwYnFxaTVIYU83V2htTnJsTTBR?oc=5",
-      "image": null,
-      "headline": "Trump Media replaces Devin Nunes as CEO amid stock price drop - mynews4.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        }
-      ]
-    },
-    {
-      "id": "7ac9e4dbf4c34479",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "The New Republic",
-      "type": "news",
-      "quote": "Trump Media CEO Leaves After Massive Stock Collapse - The New Republic",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTlKbVNuY0pyblFlR2J3TlVxeHpfaWxyeDlmcXQ3dS1zem9pdDFSckdrNVhVWTFCZV9yUFVrdjNVd1pUTG9RMkpEclJtTnhmcEtDNHlXQVNCei1laXdrRHZuUUdhTm5JR0NrVkNBU2phUkJSUW55M0V1V0ludjlEUmpEVDVFWDZa?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO Leaves After Massive Stock Collapse - The New Republic",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "f1dd6db5bc284a97",
-      "date": "Wed, 22 Apr 2026",
-      "ts": "2026-04-22T07:00:00+00:00",
-      "date_display": "Apr 22, 2026",
-      "source": "WRGB",
-      "type": "news",
-      "quote": "Trump Media replaces Devin Nunes as CEO amid stock price drop - WRGB",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjI5N2xFSjRVMk1NY0NpOGhKT0tfQktBQVdJeXgtM1BSOGdOT2t5NzlCVDg5dDZBYVozMm50NUhuMTdwV24xNUEzeEJMRzFER3dGTGhaanZKVlhrY3R1Tk5HOXdGTzltR2RjSmpFSEdMV3ExcUcxMmx1dXN3dlF4UXJyTjRuZ2I4UnlrandTVzY0NHJmMmI3Zlc1ODBfRlVQMkhVa1U5cTRFY1VaOU13NE5kMzNNTW90cl9Ia0dHWXc1Zw?oc=5",
-      "image": null,
-      "headline": "Trump Media replaces Devin Nunes as CEO amid stock price drop - WRGB",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
         }
       ]
     }
