@@ -1,7 +1,253 @@
 {
-  "updated_at": "2026-07-02T06:13:27.556113+00:00",
+  "updated_at": "2026-07-02T09:40:08.962565+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8eb9782cccf3fdb5",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T09:13:30+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "inkl",
+      "type": "news",
+      "quote": "Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 1032.28,
+      "change": -10.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGpaUk95R1h2cW45YUZYQXM5SE9pWllFX0t1Y1h1b1JRdFlaQnQ2Zmx2TGFsWnZON2hHYWFRVnJhVWxWRG4zVGhWNjlPMkNxOVpLTTVMYTdld0RpRzFhaEVSRjlpV3VmUHhoUUV0amYwanB3UWg0LUkwM0xmajJpV09GZjRQOHBsTFpibWpQWW5iN1NXcWFWeVhDS1lIN0VoaFhmcnJTRzRBODNmLUs2YW9OSFZEUWt6a00teUhReWhMb3I2b3VhejgwUjVEVlVIUnc?oc=5",
+      "image": null,
+      "headline": "Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investment - inkl",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 1064.1
+        },
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        }
+      ]
+    },
+    {
+      "id": "396858627a1f9fa2",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T09:05:33+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "CNN",
+      "type": "news",
+      "quote": "OpenAI in talks to give Trump administration a 5% stake in the",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mb0VyRUF3TlRzWUd6dHFSQjQ5eE9PSFdJbHF3S0NUNVdXYkNETFV3UzRuMTItRjdhYTIyb3A2dk1neldfdkhCMDBkc2JvZjB3MlZhNHV2NDVIMFVZdG5qVUxCaktNb09TMGRSTjA2SXU?oc=5",
+      "image": null,
+      "headline": "OpenAI in talks to give Trump administration a 5% stake in the company - CNN",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "7aeb878fe5ca3f34",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T08:47:26+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "his first flight on the new Air Force One yesterday. The Boeing 747 luxury jet was given to the U.S. by the government of",
+      "company": "Boeing",
+      "ticker": "BA",
+      "price": 218.58,
+      "change": 0.97,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/07/02/nx-s1-5877618/trump-takes-first-flight-on-new-air-force-one-gifted-by-the-qatari-government",
+      "image": null,
+      "headline": "Trump takes first flight on new Air Force One gifted by the Qatari government",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 217.7
+        },
+        {
+          "d": "06-03",
+          "c": 210.58
+        },
+        {
+          "d": "06-04",
+          "c": 217.42
+        },
+        {
+          "d": "06-05",
+          "c": 215.45
+        },
+        {
+          "d": "06-08",
+          "c": 215.92
+        },
+        {
+          "d": "06-09",
+          "c": 214.51
+        },
+        {
+          "d": "06-10",
+          "c": 209.0
+        },
+        {
+          "d": "06-11",
+          "c": 221.63
+        },
+        {
+          "d": "06-12",
+          "c": 219.05
+        },
+        {
+          "d": "06-15",
+          "c": 228.95
+        },
+        {
+          "d": "06-16",
+          "c": 227.49
+        },
+        {
+          "d": "06-17",
+          "c": 225.63
+        },
+        {
+          "d": "06-18",
+          "c": 222.72
+        },
+        {
+          "d": "06-22",
+          "c": 220.83
+        },
+        {
+          "d": "06-23",
+          "c": 216.71
+        },
+        {
+          "d": "06-24",
+          "c": 220.25
+        },
+        {
+          "d": "06-25",
+          "c": 218.12
+        },
+        {
+          "d": "06-26",
+          "c": 217.25
+        },
+        {
+          "d": "06-29",
+          "c": 214.69
+        },
+        {
+          "d": "06-30",
+          "c": 216.47
+        },
+        {
+          "d": "07-01",
+          "c": 218.58
+        }
+      ]
+    },
+    {
+      "id": "ffb3b7353c9d783e",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T04:41:30+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "OpenAI proposes 5% stake to Trump administration to ease",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmlORndTRDBueEJHV25lbTl2ejNISG9xT09Vbk01NzNCNnoxNmpIdVZJeUdHV19qWU9IUWdncnQ3Q1BYRjZ3SFJCaE53REFzYVN2em1TbldqYi03eklMaFRJVk9NVm9XM2F3My1xN2k1czcxQU9uOG9fSWFHa1oxRUVzRFk4QmI2Smd4cG9wZTN0OURZTkZOQ2dsOHdzWW8wYTFEQ0V6Q3lKR1NSYS1YcWVaMFJYQdIBuwFBVV95cUxPWEdwWkRiR25HQmRfNTB5VG10bElQUDYzb3lQQ3UxNHU5dmd2UTRDdmxfeHdoMkZza21yTEhOWWI3NGxxVlJXOHp0T25fT2FDYXhfX0RzM2l6c1ppZXpkLVNFMHlfVVBDWTJvVW5EQndfcUpIWDZVdDlVR3gwTjFxTXl0LUktRUl1RmtGaFBuN1FJQnRSMDY3X0dMLW9GQmJPemdBUE1US29ELTdFcFBrM2diMmV3RjZpQzM0?oc=5",
+      "image": null,
+      "headline": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report - CNBC",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "6718e27059d50512",
       "date": "Thu, 02 Jul 2026",
@@ -29588,6 +29834,110 @@
       ]
     },
     {
+      "id": "05605ec21aecc6ae",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T07:00:00+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "Investing.com",
+      "type": "news",
+      "quote": "Trump Media scraps plan to spin off Truth Social platform, shares down",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.02,
+      "change": 3.62,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXpwenlaZFh4VEJPSFU0U3hPbTZsMDF0ZENUYnZLZTZHbWdqdmtzc2dWTklvSUtZZWFvX0pONGo4Y2c3SmwxaVJkSDNyaksyOHIyWU9KUXQtTHdWSjd4c3RoOVRlUjcwdnJKS21USUpIdWtsQ1diRldNa0J5Yjc0U1lGUERnbi1xR1YwODRZekRvRDlJUG9ZLS1Jc1ZBTkQ0Zk42bzZ1Ti1PVWtwTDFNNEU3Z25Nc3d4LWVpaGdydzBnZ0Jl?oc=5",
+      "image": null,
+      "headline": "Trump Media scraps plan to spin off Truth Social platform, shares down - Investing.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        }
+      ]
+    },
+    {
       "id": "975ccc239c0d5ee5",
       "date": "Tue, 09 Jun 2026",
       "ts": "2026-06-09T23:14:14+00:00",
@@ -40731,530 +41081,6 @@
         {
           "d": "06-24",
           "c": 78.95
-        }
-      ]
-    },
-    {
-      "id": "454c61c6fc308214",
-      "date": "Tue, 28 Apr 2026",
-      "ts": "2026-04-28T07:00:00+00:00",
-      "date_display": "Apr 28, 2026",
-      "source": "KCCI",
-      "type": "news",
-      "quote": "GM expects a $500 million tariff refund from Trump levies",
-      "company": "Gm",
-      "ticker": "GM",
-      "price": 79.58,
-      "change": -3.55,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHNjWkRkUGM5M21aQ2VEMDltM1k3aG13eng5ZXBnSEx0RTNTNUgteWxNYU5PSWR1Q0NncE9Bb3RmQ2w0MEx5b2FDMFFKYzJYeHJrZUJQZnhlNlBOVXNIVk9iTG9aYVNObXpsTTl5RV9DMklwOU5nY2hXVXpnRTlpZ1M0bld6UzJzMzN5UmU0emtzTXZPekFhNjlaWEhHWXI0STd4cWhtaDhXblpfUDBv?oc=5",
-      "image": null,
-      "headline": "GM expects a $500 million tariff refund from Trump levies struck down by Supreme Court - KCCI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 72.47
-        },
-        {
-          "d": "05-20",
-          "c": 75.98
-        },
-        {
-          "d": "05-21",
-          "c": 77.04
-        },
-        {
-          "d": "05-22",
-          "c": 78.62
-        },
-        {
-          "d": "05-26",
-          "c": 79.62
-        },
-        {
-          "d": "05-27",
-          "c": 83.94
-        },
-        {
-          "d": "05-28",
-          "c": 84.17
-        },
-        {
-          "d": "05-29",
-          "c": 83.06
-        },
-        {
-          "d": "06-01",
-          "c": 82.5
-        },
-        {
-          "d": "06-02",
-          "c": 81.55
-        },
-        {
-          "d": "06-03",
-          "c": 81.52
-        },
-        {
-          "d": "06-04",
-          "c": 83.04
-        },
-        {
-          "d": "06-05",
-          "c": 82.11
-        },
-        {
-          "d": "06-08",
-          "c": 83.77
-        },
-        {
-          "d": "06-09",
-          "c": 83.76
-        },
-        {
-          "d": "06-10",
-          "c": 79.4
-        },
-        {
-          "d": "06-11",
-          "c": 80.85
-        },
-        {
-          "d": "06-12",
-          "c": 81.5
-        },
-        {
-          "d": "06-15",
-          "c": 84.07
-        },
-        {
-          "d": "06-16",
-          "c": 82.51
-        },
-        {
-          "d": "06-17",
-          "c": 79.58
-        }
-      ]
-    },
-    {
-      "id": "5a0697a387730744",
-      "date": "Tue, 28 Apr 2026",
-      "ts": "2026-04-28T07:00:00+00:00",
-      "date_display": "Apr 28, 2026",
-      "source": "BanklessTimes",
-      "type": "news",
-      "quote": "Here\u2019s Why Trump Media Stock May Crash to $5 and Below Soona - BanklessTimes",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.52,
-      "change": -4.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHFvSFR2SjNDU0liNmgyS3V2dExTbkFDUVA1MG50OE9hallEVFpzbWZtY3FvajQ0YmlabjZSYWN2a0hnMk1la19uVldFWTRjQ1AyME1mcWpOMlVpUmEydFZFVjM4d0hicG4yTDc4a1JYUUg2aWR5VHNVVTJNU1NOY3NiYWk4V05WLXlhQXpjOC1hRUQ2YTU0ZUMyWTlUX0RCRDdXQXJzWDNKamNa?oc=5",
-      "image": null,
-      "headline": "Here\u2019s Why Trump Media Stock May Crash to $5 and Below Soona - BanklessTimes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        }
-      ]
-    },
-    {
-      "id": "4c34f3c493623c89",
-      "date": "Sat, 25 Apr 2026",
-      "ts": "2026-04-25T07:00:00+00:00",
-      "date_display": "Apr 25, 2026",
-      "source": "The Globe and Mail",
-      "type": "news",
-      "quote": "Truth Social installs interim CEO amid leadership reshuffle - The Globe",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.42,
-      "change": 5.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUxja0tWaVFVRWFISThuQlFfeVBNWDZ0LUpmNDkxX1VMZ3NWX2EtTkVpZFFNVkZ0NjZ0aXFyUDNtXzJoUzhQSDVCbG5QLXZoQVBhekpSel9fY3U1WmliOVFvdjVUZjVkRjRuc2dCRE1kUnpDTzRPVjNCcjRtN202ZHJQRGE3RnJ5Z3o4QV9ydmhyMk80RW9nOUxKUXdIZnRsTjlDdGRXZl9nc09OcU9uNjFSMGVzd1g4Wk5ZY0JuNUdIal9kY1A2RHJzd0NiOFFzSVhlWVJieFF3Y3M?oc=5",
-      "image": null,
-      "headline": "Truth Social installs interim CEO amid leadership reshuffle - The Globe and Mail",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "1438c2c3167a7093",
-      "date": "Sat, 25 Apr 2026",
-      "ts": "2026-04-25T07:00:00+00:00",
-      "date_display": "Apr 25, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Devin Nunes is out as Trump Media CEO after 4 years \u2014 and revenue came in 99.8% below what",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.49,
-      "change": 0.94,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEpHNW0zNGlaSFJoZTBoSFJzdTFEQmlOUmRreEhHYmFXSHN1ZlpYR1NLVEw5a0pGczZvQUI3emlocDRITnd6ODNiZDNQdm1obFA2YUh2ZU9FYk90MEJJeXFSSk9KVXZCajFkMVd4Uk44MWx2R0NHcXFicm8wc19IWE5xRHhwTzlRbENHYTBwVzF3NXB2a2pR?oc=5",
-      "image": null,
-      "headline": "Devin Nunes is out as Trump Media CEO after 4 years \u2014 and revenue came in 99.8% below what investors were promised - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        }
-      ]
-    },
-    {
-      "id": "e5143034b94b184d",
-      "date": "Fri, 24 Apr 2026",
-      "ts": "2026-04-24T07:00:00+00:00",
-      "date_display": "Apr 24, 2026",
-      "source": "Investopedia",
-      "type": "news",
-      "quote": "Trump Media Has Big Plans\u2014And Falling Shares. What\u2019s Next for \u2018DJT\u2019",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXRXZlU2QjZLYXM3TkdOR2xLNWZCR0JLNmI0clJLcUhPOHozYmVtMExwUTY3eG90d1FsUDZKLXh3anlGeEMtX2w2QkR0Z2FINEpZajV5VjA1WjVtUmVnREhmSzhSbXktMmRRakdsUTFlTVVyYmpNUmxPZXd5RmRkcDFYZzFlcUQtN3RWUDRJU1FVZUVUc1hlQVl0R3J0bEtaODhBMHVRTlZ1cmZo?oc=5",
-      "image": null,
-      "headline": "Trump Media Has Big Plans\u2014And Falling Shares. What\u2019s Next for \u2018DJT\u2019 Stock? - Investopedia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
         }
       ]
     }
