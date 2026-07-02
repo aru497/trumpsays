@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-07-02T16:43:44.648105+00:00",
+  "updated_at": "2026-07-02T18:22:07.147788+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3f6c3f28ae217f8f",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T17:21:00+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "Barron's",
+      "type": "news",
+      "quote": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling -",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 964.28,
+      "change": -6.59,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
+      "image": null,
+      "headline": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 1064.1
+        },
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 964.28
+        }
+      ]
+    },
     {
       "id": "cc6f9b5b7200f746",
       "date": "Thu, 02 Jul 2026",
@@ -40552,114 +40660,6 @@
         {
           "d": "06-16",
           "c": 73.83
-        }
-      ]
-    },
-    {
-      "id": "2a6ce3abb047c327",
-      "date": "Tue, 05 May 2026",
-      "ts": "2026-05-05T07:00:00+00:00",
-      "date_display": "May 05, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times UAE Reports Missiles and Drone Threats; Trump Says U.S.",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.38,
-      "change": -1.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5",
-      "image": null,
-      "headline": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 77.0
-        },
-        {
-          "d": "05-14",
-          "c": 75.5
-        },
-        {
-          "d": "05-15",
-          "c": 74.48
-        },
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
         }
       ]
     }
