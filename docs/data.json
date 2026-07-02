@@ -1,7 +1,172 @@
 {
-  "updated_at": "2026-07-02T12:01:01.874621+00:00",
+  "updated_at": "2026-07-02T14:34:52.820235+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "28ca9a762ab7372e",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T13:40:00+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "OpenAI \u2018in early talks to give 5% stake to US government\u2019 - The",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdDM0xqUWpsNGxvS0NWd2RXRE5XVXZISXE3ZXE3VGtxNFNEUmhXNXA4bGNLekhtZlYwVjlUNDY3TWVIaktpZjBuY0NLYmtnWF9CbFFLRnRtVmdDcXlzd1h0X1hHR3F6YVdxSGRaQ0dCcnR5R3N2VUk5WmMxM3RWY3BiWEpXcEpQdlk5dWQtbnE0V0dKLVE?oc=5",
+      "image": null,
+      "headline": "OpenAI \u2018in early talks to give 5% stake to US government\u2019 - The Guardian",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "a6698eb4f0a373f0",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T12:31:00+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "Barron's",
+      "type": "news",
+      "quote": "Micron Stock Rebounds as Chip Slump Suddenly Reverses - Barron's",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 1008.33,
+      "change": -2.32,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
+      "image": null,
+      "headline": "Micron Stock Rebounds as Chip Slump Suddenly Reverses - Barron's",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 1064.1
+        },
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 1008.33
+        }
+      ]
+    },
+    {
+      "id": "248de2e36fcfbdf0",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T12:05:00+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "en.ain.ua",
+      "type": "news",
+      "quote": "OpenAI offers to transfer 5% of its shares to the US government -",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXVlbnpiRlpyV1ZRdHFNQVo0VkxRaFVjNUVQemFYbXlXbWR1QU1Ubl9QTzZmaWlOWkhEM2d4Q3Mzd1hMd1c0N0hZYndBdTlOOE9Kc1E4b21JaHFDRUhGT0FGQUhtRmF0Q1BSQzlNckUzVXZUVWkxaHM4WXdPZ3VER0tjRVFnZzJZYk80dmhfTnpNRmRhdFE?oc=5",
+      "image": null,
+      "headline": "OpenAI offers to transfer 5% of its shares to the US government - en.ain.ua",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "75311deeee23b51f",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T11:46:32+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "The Globe and Mail",
+      "type": "news",
+      "quote": "OpenAI discussed giving 5% stake to Trump administration, media",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORVRmZ05tTGVlam44SjdlUHpvLWcxZEcxeTZwMm53RVpYR1g4QVY1YXVLRVZuQmJXQjNuSFRfb0stcW9WcjVDLTZwNUR5bFg3ekt1SS1oNGY2LXVyWHRrWHdRUU5lSmJrbUxldV9jNGJ4Vmd4NjNXWW81XzRaajBPX3J0UVBkaFhaYXlCV2E2WjczdHY2WFZzSUNoYWpYWlczeUk4ekpCNXk3S2toeTJMOUpKYjFmc21rcFV5ZE5QNlpHMDF0dUM0d0dJNmt3TUE?oc=5",
+      "image": null,
+      "headline": "OpenAI discussed giving 5% stake to Trump administration, media report says - The Globe and Mail",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "8eb9782cccf3fdb5",
       "date": "Thu, 02 Jul 2026",
@@ -803,6 +968,222 @@
         {
           "d": "07-01",
           "c": 71.79
+        }
+      ]
+    },
+    {
+      "id": "b712413b0125b94b",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T21:48:41+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "MEXC",
+      "type": "news",
+      "quote": "DJT Stock: Is Trump Media a Turnaround Trade or a Political Meme Stock? - MEXC DJT",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.52,
+      "change": 6.23,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSEltbE11Z1VxeEg1aFVKRHpleGxobDNWa1NzcHIxaHhIemNfdFlXZUpiNzI5Z18wanpqYXhwaERFTzkzYnJ2V3ZRRkJYVDNXRk00ZjJ6U3dQRVFuSzlielRwV0YxaVJ3dC1RSkxoaEdOWlZ0bU1lUUstdmhYQ1VMLWtmMlpQQnhvZk8xd21sQUU2ejRhVEs2TTd5UEd6Wmp3ZXN1U2pBSDZCUjh1aFpDQ2tn?oc=5",
+      "image": null,
+      "headline": "DJT Stock: Is Trump Media a Turnaround Trade or a Political Meme Stock? - MEXC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 9.04
+        },
+        {
+          "d": "06-03",
+          "c": 8.63
+        },
+        {
+          "d": "06-04",
+          "c": 8.8
+        },
+        {
+          "d": "06-05",
+          "c": 8.27
+        },
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.52
+        }
+      ]
+    },
+    {
+      "id": "0a0f869c0f6770e0",
+      "date": "Wed, 01 Jul 2026",
+      "ts": "2026-07-01T21:11:00+00:00",
+      "date_display": "Jul 01, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "empire: Altcoins, Bitcoin\u2014and a stake in Michael Saylor\u2019s Strategy - Fortune Inside Trump\u2019s $1.4 billion crypto empire:",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 101.33,
+      "change": 8.5,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemw3VFFKYVVTVjdwOFlLWTk0VGJIQVRRU2hPU0NZUEt0am4tUG1jeDNLbWJ5aGVYOWZzVjk5cEZVam9jdEZYSWxjWWF3cjE1Z1JnU2JHNUhCbmhoUWJQazg1VTdINFU1dEJ6RlVnSTdDc3dveTluVWpRMGd0MXFsNG9yZFVhWTdESWF5S19rbHd1N1BnRXhnWXEyT0dBUQ?oc=5",
+      "image": null,
+      "headline": "Inside Trump\u2019s $1.4 billion crypto empire: Altcoins, Bitcoin\u2014and a stake in Michael Saylor\u2019s Strategy - Fortune",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 136.08
+        },
+        {
+          "d": "06-03",
+          "c": 126.55
+        },
+        {
+          "d": "06-04",
+          "c": 129.37
+        },
+        {
+          "d": "06-05",
+          "c": 120.44
+        },
+        {
+          "d": "06-08",
+          "c": 127.2
+        },
+        {
+          "d": "06-09",
+          "c": 117.02
+        },
+        {
+          "d": "06-10",
+          "c": 115.35
+        },
+        {
+          "d": "06-11",
+          "c": 120.15
+        },
+        {
+          "d": "06-12",
+          "c": 123.97
+        },
+        {
+          "d": "06-15",
+          "c": 131.14
+        },
+        {
+          "d": "06-16",
+          "c": 122.81
+        },
+        {
+          "d": "06-17",
+          "c": 116.56
+        },
+        {
+          "d": "06-18",
+          "c": 112.53
+        },
+        {
+          "d": "06-22",
+          "c": 109.46
+        },
+        {
+          "d": "06-23",
+          "c": 103.84
+        },
+        {
+          "d": "06-24",
+          "c": 94.13
+        },
+        {
+          "d": "06-25",
+          "c": 85.33
+        },
+        {
+          "d": "06-26",
+          "c": 82.31
+        },
+        {
+          "d": "06-29",
+          "c": 92.68
+        },
+        {
+          "d": "06-30",
+          "c": 86.93
+        },
+        {
+          "d": "07-01",
+          "c": 93.39
+        },
+        {
+          "d": "07-02",
+          "c": 101.33
         }
       ]
     },
@@ -29957,6 +30338,114 @@
       ]
     },
     {
+      "id": "fc964072a231a211",
+      "date": "Wed, 10 Jun 2026",
+      "ts": "2026-06-10T07:00:00+00:00",
+      "date_display": "Jun 10, 2026",
+      "source": "Financial Times",
+      "type": "news",
+      "quote": "Trump baffles Wall Street with top dealmaker praise for Citi - Financial Times Trump baffles Wall Street with top",
+      "company": "Citi",
+      "ticker": "C",
+      "price": 140.26,
+      "change": 0.09,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmZsM2pFa3kzbjNuNzQxZDJQaWdfTnlWSF9VYWtEZ0FkMjlFcnJrdE1oc2ozSU0tc1FmYjBDMV9heV9CTVJuZzJCdmt6Q2wwRkZReW9TZzJtWVloZVhwTzZ6UDFoTlRHZXhCVU1SMmZ4MkthNDFXZmdIYkloY0VVVWVEcC0?oc=5",
+      "image": null,
+      "headline": "Trump baffles Wall Street with top dealmaker praise for Citi - Financial Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-02",
+          "c": 131.26
+        },
+        {
+          "d": "06-03",
+          "c": 129.93
+        },
+        {
+          "d": "06-04",
+          "c": 135.15
+        },
+        {
+          "d": "06-05",
+          "c": 132.47
+        },
+        {
+          "d": "06-08",
+          "c": 133.28
+        },
+        {
+          "d": "06-09",
+          "c": 134.73
+        },
+        {
+          "d": "06-10",
+          "c": 133.38
+        },
+        {
+          "d": "06-11",
+          "c": 138.07
+        },
+        {
+          "d": "06-12",
+          "c": 139.83
+        },
+        {
+          "d": "06-15",
+          "c": 141.21
+        },
+        {
+          "d": "06-16",
+          "c": 142.99
+        },
+        {
+          "d": "06-17",
+          "c": 143.78
+        },
+        {
+          "d": "06-18",
+          "c": 143.06
+        },
+        {
+          "d": "06-22",
+          "c": 145.67
+        },
+        {
+          "d": "06-23",
+          "c": 144.97
+        },
+        {
+          "d": "06-24",
+          "c": 143.59
+        },
+        {
+          "d": "06-25",
+          "c": 144.98
+        },
+        {
+          "d": "06-26",
+          "c": 141.76
+        },
+        {
+          "d": "06-29",
+          "c": 142.49
+        },
+        {
+          "d": "06-30",
+          "c": 139.96
+        },
+        {
+          "d": "07-01",
+          "c": 140.13
+        },
+        {
+          "d": "07-02",
+          "c": 140.26
+        }
+      ]
+    },
+    {
       "id": "975ccc239c0d5ee5",
       "date": "Tue, 09 Jun 2026",
       "ts": "2026-06-09T23:14:14+00:00",
@@ -40256,746 +40745,6 @@
         {
           "d": "06-26",
           "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "8bf768f50e281a62",
-      "date": "Sun, 03 May 2026",
-      "ts": "2026-05-03T07:00:00+00:00",
-      "date_display": "May 03, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Donald Trump's Truth Social stake hit $4 billion. Everyday investors who chased the",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.44,
-      "change": 8.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWVBXS3dnc3pjN0VkZTlZUkwtTTI1VEZISDJGUkNNLUpQYkx0bk9Ma3NjY0k4SmNSeHItMV8zdXdCOERraEkxaHZUTmR4d2ZuWUhXUDF0TU1hWC1RbFhIaFN5Njk4anhQT2lfa29MNmc5SFpDblh1QW43WThBdFVTUlYwaWFGcHhXLVF0Rzc0ZzhKY3h3MER4U1I1WGV5TmlpOVg4ZERzZTJUM3d1azZUWjBBem1NanhJalFNS0NOOE9OdTN5ejZ3SlRJcFRQMFJsOGFFQXVOTnlqWkU1LWJ1SVJoMW1oQVF3dFZWX3NKMDE4Sm1jdi1NTXdPY3JwX2VR?oc=5",
-      "image": null,
-      "headline": "Donald Trump's Truth Social stake hit $4 billion. Everyday investors who chased the 'DJT' meme stock have watched billions evaporate - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "9926a386f2025538",
-      "date": "Fri, 01 May 2026",
-      "ts": "2026-05-01T07:00:00+00:00",
-      "date_display": "May 01, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Trump Media\u2019s Latest Pivot Is a Leadership Shake-Up - WSJ Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM1dObmhoR211ejFldDlxZF9HcFFiVzVaMzhmNENJUENCX3FOdUJsbmJTeTM0cmwwdVhXanZRSUg5ZVdYM25UemJwbmFXb1FlUkFLODYtWmdiblNqU2w4d2tDQTMxU0hxd2pldGEwb3Z6RllLbDRmdlBaQ1R0WXNHN1d6N1IxVTM0Q1hLVmpoaVVVQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s Latest Pivot Is a Leadership Shake-Up - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "02e953c048cc8805",
-      "date": "Fri, 01 May 2026",
-      "ts": "2026-05-01T07:00:00+00:00",
-      "date_display": "May 01, 2026",
-      "source": "Fast Company",
-      "type": "news",
-      "quote": "We\u2019re all on Truth Social now - Fast Company We\u2019re all on Truth Social",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.44,
-      "change": 8.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sNFBpcy1NWUo1RnVIZWNZRUg1RGp4UWlrQjNLaDZwR1JTY3hYWjJvd0V5ejdIVDhKTm03MzlzUVlBZ1haQUd3cXYtM0hacFJsQmtNTk9OT3pIeTQ2aUhwcXJsUGhxSDYxQlFqN3BRaw?oc=5",
-      "image": null,
-      "headline": "We\u2019re all on Truth Social now - Fast Company",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "d0e748957219f198",
-      "date": "Fri, 01 May 2026",
-      "ts": "2026-05-01T07:00:00+00:00",
-      "date_display": "May 01, 2026",
-      "source": "marketscreener.com",
-      "type": "news",
-      "quote": "Trump Media considering spinning out Truth Social and Truth+ into",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.42,
-      "change": 5.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb0VzdHRoVDNUdFp1eHlDMEw5VkVNOGp3Nlp1SUZkcGoxSy1QTmNjT0Y1T2UydDZ0NXhKa241WllwSFZaQnE1bGRJYVh0aVdfcHdueHBkWFFxaS1kdWl5RTFyWnVvYjR2eUZzS0VCb184VnItS1hBSTJ6MHY3T0ZBNzI3a25VcGQ2SzlNN3FjTjNORzk2SDd1NGw2MkhlZk5XVGtWbnl3R3AxRUhyUlZPWWd6Ni1HV0pKcGZrQTBFS2hxbjlHSlNFNzQwV3I2ZkJEQ2liYUVvNDdzckY5clIxQjJiMHZhUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media considering spinning out Truth Social and Truth+ into separate listed company, while also pursuing a merger with TAE Technologies - WSJ - marketscreener.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "4bcc0e500d756958",
-      "date": "Thu, 30 Apr 2026",
-      "ts": "2026-04-30T07:00:00+00:00",
-      "date_display": "Apr 30, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "King Charles, questions UK leadership on Iran conflict - Fox Business President Trump praises King Charles, questions",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.92,
-      "change": -3.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0eTQxZmFJRDlPanVTYlhDVGplbzZHUFJrZDQ4Znl1YTU2SThSb2pmTU1tN1R0TmQxeVZjQjk3OTdYQW1VQXdQdVlhRTZkZXZPRzFidkxxUS1RZUE?oc=5",
-      "image": null,
-      "headline": "President Trump praises King Charles, questions UK leadership on Iran conflict - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 59.47
-        },
-        {
-          "d": "05-14",
-          "c": 58.6
-        },
-        {
-          "d": "05-15",
-          "c": 57.87
-        },
-        {
-          "d": "05-18",
-          "c": 58.99
-        },
-        {
-          "d": "05-19",
-          "c": 58.09
-        },
-        {
-          "d": "05-20",
-          "c": 57.38
-        },
-        {
-          "d": "05-21",
-          "c": 57.63
-        },
-        {
-          "d": "05-22",
-          "c": 57.24
-        },
-        {
-          "d": "05-26",
-          "c": 58.08
-        },
-        {
-          "d": "05-27",
-          "c": 58.62
-        },
-        {
-          "d": "05-28",
-          "c": 59.23
-        },
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        }
-      ]
-    },
-    {
-      "id": "d797c8c71deb3788",
-      "date": "Thu, 30 Apr 2026",
-      "ts": "2026-04-30T07:00:00+00:00",
-      "date_display": "Apr 30, 2026",
-      "source": "CNN",
-      "type": "news",
-      "quote": "Trump says ABC had \u2018better\u2019 fire Kimmel as Disney stands firm - CNN Trump says ABC had \u2018better\u2019 fire Kimmel",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 100.04,
-      "change": -0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zRnRnUC13R1BuWUpxSjhvaVR4N0sxVEZJZk5EcE43TGpvbEhsb0dIOTVodXVXTV9FOXZJRlRTaGppSjItYzZ4SWhldzFUVFdreU5VR1R6YUFzSi1fOUdOejVzZFZ6aENhVk51OFVyMm9Wdw?oc=5",
-      "image": null,
-      "headline": "Trump says ABC had \u2018better\u2019 fire Kimmel as Disney stands firm - CNN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 104.9
-        },
-        {
-          "d": "05-14",
-          "c": 105.42
-        },
-        {
-          "d": "05-15",
-          "c": 102.72
-        },
-        {
-          "d": "05-18",
-          "c": 103.91
-        },
-        {
-          "d": "05-19",
-          "c": 102.29
-        },
-        {
-          "d": "05-20",
-          "c": 104.08
-        },
-        {
-          "d": "05-21",
-          "c": 103.58
-        },
-        {
-          "d": "05-22",
-          "c": 103.0
-        },
-        {
-          "d": "05-26",
-          "c": 103.28
-        },
-        {
-          "d": "05-27",
-          "c": 104.18
-        },
-        {
-          "d": "05-28",
-          "c": 103.73
-        },
-        {
-          "d": "05-29",
-          "c": 101.83
-        },
-        {
-          "d": "06-01",
-          "c": 102.85
-        },
-        {
-          "d": "06-02",
-          "c": 101.41
-        },
-        {
-          "d": "06-03",
-          "c": 99.39
-        },
-        {
-          "d": "06-04",
-          "c": 99.34
-        },
-        {
-          "d": "06-05",
-          "c": 99.71
-        },
-        {
-          "d": "06-08",
-          "c": 98.87
-        },
-        {
-          "d": "06-09",
-          "c": 99.33
-        },
-        {
-          "d": "06-10",
-          "c": 98.61
-        },
-        {
-          "d": "06-11",
-          "c": 100.34
-        },
-        {
-          "d": "06-12",
-          "c": 100.04
-        }
-      ]
-    },
-    {
-      "id": "aac3872e5de945ca",
-      "date": "Thu, 30 Apr 2026",
-      "ts": "2026-04-30T06:35:33+00:00",
-      "date_display": "Apr 30, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "INTC shares rise after hours on President Trump\u2019s Truth Social endorsement - MSN INTC shares rise after hours on",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEE1aWlvcTVJRGs4VHBPWWJzS2Rrbk9iekhJWXFXSHJRZDFhNHk2NG14dkpZWVJ5RkxwNF92NHNEZmxjV1dEcU9qR3Q0em5zUUppQTNXemQ3SnRYZG41NDQwVUdsT3hreWlGclYyS2F4YWNsalFSTkNGNEZhTFk3ZnQ1S3NtZG5YckNwRm1oWUFLc1g3Z1VMQ1BGdzBUSVNTRVVKS0pVN1RRWlg4UFVIc2FUc2ZRejFfWFZaNjB0MU9HTmprV2xB?oc=5",
-      "image": null,
-      "headline": "INTC shares rise after hours on President Trump\u2019s Truth Social endorsement - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
         }
       ]
     }
