@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-07-03T08:45:58.891025+00:00",
+  "updated_at": "2026-07-03T11:24:23.370262+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d0b4d9ff29e34d33",
+      "date": "Fri, 03 Jul 2026",
+      "ts": "2026-07-03T08:56:00+00:00",
+      "date_display": "Jul 03, 2026",
+      "source": "The Times of India",
+      "type": "news",
+      "quote": "Dell's $6.25 billion Trump Accounts donation, chip giant Micron gifts millions of its own; CEO Sanj - The Times of India",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 975.56,
+      "change": -5.49,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNUmk2MndCdXZVR2NaYUpERWg4QnpRd2JJd21acjM4NGpfUmRhMFNkZjVVUjgyNkxMN1FHc1JwUk41aVdObDRRbjhmNl95UDdpZ3hGSVJHanV1emZUWDNtZEZLS25MVTNuYnhsb09wajRkeHlIS1ZzdTZiQXVVVERCVzM4cEdfRnhRMDMtRUJ2ZWdzbFJPUHZabHZrV0FHWFR0R2RCVkIyalB0SHRSVGlVN1k5UFlYR1BySC02ZTZCVF9VTkpUSjZoa0dtS0JqMDI5ZEpvVGUwNHlvdHRRc2ptZHFFbFlWS0diUVRJNzVnSVVzZ0l4M1c3Zzg0dU13TlpnMjlERjZMMnRFYnkwblQ2cHFSRnpEZzVNZDM4TFkxVTN6eGtmb0d3YUlwY2c1bGtnT1dTM2lDWC0wc3pzM3E3LWRLV1RhZkNTYmxydlJuYjl2OHNJbnJSbDN30gHfAkFVX3lxTFBMaXNXQUJSNnlra0RYMG90UDZuVkFMeGg2cDN2SjlPTF9YYkhoVEFMQWloeEVTbkxoZjdVdlEwcHl2aGYwYV9BVWtRTHlPQXhibElNUnpvU1VnWURzNkJTQy03TDI0VlllQ2xMU0xlQWYyeG9UcDRXNWEwVFh1Z1ZTNnVvaEJqRFduTTZfUmVCV2lNRkxSUWo4UTZ6Q2lkbENEcVFUVmt2QXhQaVZKNUh3eFpUcWxMdW9ya0U5NzlyY3JqNGVQMUxPTTVubUZHeUF0akF5N3dXXzQ3MVJaM09ZQnlGbEhUNHl3dWx2ekZuVHlSdlBYdEM3ZGJ4eHhZYzRFZ29neHROa1hLdTE3eE9LUGVsRzQtSEwtdTJUaVhTeTVXemFoNlZuRDZ4aFU5VDBBWTZEU3hRZEJXRkg1MkEzMUxjTnhnLWtOUGhTN2RSN2VZV3gzOUV4TGRGcTRjTQ?oc=5",
+      "image": null,
+      "headline": "After Dell's $6.25 billion Trump Accounts donation, chip giant Micron gifts millions of its own; CEO Sanj - The Times of India",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 975.56
+        }
+      ]
+    },
+    {
+      "id": "32c4ae7955877bf6",
+      "date": "Fri, 03 Jul 2026",
+      "ts": "2026-07-03T08:56:00+00:00",
+      "date_display": "Jul 03, 2026",
+      "source": "The Times of India",
+      "type": "news",
+      "quote": "After Dell's $6.25 billion Trump Accounts donation, chip giant Micron",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 394.32,
+      "change": -7.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNUmk2MndCdXZVR2NaYUpERWg4QnpRd2JJd21acjM4NGpfUmRhMFNkZjVVUjgyNkxMN1FHc1JwUk41aVdObDRRbjhmNl95UDdpZ3hGSVJHanV1emZUWDNtZEZLS25MVTNuYnhsb09wajRkeHlIS1ZzdTZiQXVVVERCVzM4cEdfRnhRMDMtRUJ2ZWdzbFJPUHZabHZrV0FHWFR0R2RCVkIyalB0SHRSVGlVN1k5UFlYR1BySC02ZTZCVF9VTkpUSjZoa0dtS0JqMDI5ZEpvVGUwNHlvdHRRc2ptZHFFbFlWS0diUVRJNzVnSVVzZ0l4M1c3Zzg0dU13TlpnMjlERjZMMnRFYnkwblQ2cHFSRnpEZzVNZDM4TFkxVTN6eGtmb0d3YUlwY2c1bGtnT1dTM2lDWC0wc3pzM3E3LWRLV1RhZkNTYmxydlJuYjl2OHNJbnJSbDN30gHfAkFVX3lxTFBMaXNXQUJSNnlra0RYMG90UDZuVkFMeGg2cDN2SjlPTF9YYkhoVEFMQWloeEVTbkxoZjdVdlEwcHl2aGYwYV9BVWtRTHlPQXhibElNUnpvU1VnWURzNkJTQy03TDI0VlllQ2xMU0xlQWYyeG9UcDRXNWEwVFh1Z1ZTNnVvaEJqRFduTTZfUmVCV2lNRkxSUWo4UTZ6Q2lkbENEcVFUVmt2QXhQaVZKNUh3eFpUcWxMdW9ya0U5NzlyY3JqNGVQMUxPTTVubUZHeUF0akF5N3dXXzQ3MVJaM09ZQnlGbEhUNHl3dWx2ekZuVHlSdlBYdEM3ZGJ4eHhZYzRFZ29neHROa1hLdTE3eE9LUGVsRzQtSEwtdTJUaVhTeTVXemFoNlZuRDZ4aFU5VDBBWTZEU3hRZEJXRkg1MkEzMUxjTnhnLWtOUGhTN2RSN2VZV3gzOUV4TGRGcTRjTQ?oc=5",
+      "image": null,
+      "headline": "After Dell's $6.25 billion Trump Accounts donation, chip giant Micron gifts millions of its own; CEO Sanj - The Times of India",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 421.08
+        },
+        {
+          "d": "06-04",
+          "c": 422.05
+        },
+        {
+          "d": "06-05",
+          "c": 394.39
+        },
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        }
+      ]
+    },
     {
       "id": "f4c35923e9d36cae",
       "date": "Fri, 03 Jul 2026",
@@ -207,6 +415,214 @@
         {
           "d": "07-02",
           "c": 975.56
+        }
+      ]
+    },
+    {
+      "id": "99a0ab7fbdcc3d79",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T18:37:05+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump bought Apple, Nvidia and other tech giants before tariff reversal",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 308.63,
+      "change": 4.84,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uU09BV2VxQk4wa2RVdFM0c1pfb2hsNlZoREp2a1h0OHFNQVRmVGk1aDFqZEl6ajhhY1p4WDRFeDVKSUkzN1NmSlVvOHFMZktfRDg0bEJITDFsT1dRNkxGclFRMFFmb1lIODh1TkFCU3ZaYXdHSVBzUmx4RkjSAYIBQVVfeXFMT1U5UVUxWUp0RXNqdGwxazBxbVRqU1JqNVY1MXUxTmtIa0J2dnlYc0NWNGhDMnlrbGlaRUpuV2wzNGJJOVIxNlVfeUZBZ3cxSzFXNl9od195bkFmNElDazlyYXdyd1NhbnlsMXhJRXRUTG5KQzFrLThoMGp3bG5vZEtHZw?oc=5",
+      "image": null,
+      "headline": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 310.26
+        },
+        {
+          "d": "06-04",
+          "c": 311.23
+        },
+        {
+          "d": "06-05",
+          "c": 307.34
+        },
+        {
+          "d": "06-08",
+          "c": 301.54
+        },
+        {
+          "d": "06-09",
+          "c": 290.55
+        },
+        {
+          "d": "06-10",
+          "c": 291.58
+        },
+        {
+          "d": "06-11",
+          "c": 295.63
+        },
+        {
+          "d": "06-12",
+          "c": 291.13
+        },
+        {
+          "d": "06-15",
+          "c": 296.42
+        },
+        {
+          "d": "06-16",
+          "c": 299.24
+        },
+        {
+          "d": "06-17",
+          "c": 295.95
+        },
+        {
+          "d": "06-18",
+          "c": 298.01
+        },
+        {
+          "d": "06-22",
+          "c": 297.01
+        },
+        {
+          "d": "06-23",
+          "c": 294.3
+        },
+        {
+          "d": "06-24",
+          "c": 293.08
+        },
+        {
+          "d": "06-25",
+          "c": 275.15
+        },
+        {
+          "d": "06-26",
+          "c": 283.78
+        },
+        {
+          "d": "06-29",
+          "c": 281.74
+        },
+        {
+          "d": "06-30",
+          "c": 289.36
+        },
+        {
+          "d": "07-01",
+          "c": 294.38
+        },
+        {
+          "d": "07-02",
+          "c": 308.63
+        }
+      ]
+    },
+    {
+      "id": "79dc026edfc1f966",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T18:37:05+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 194.83,
+      "change": -1.39,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uU09BV2VxQk4wa2RVdFM0c1pfb2hsNlZoREp2a1h0OHFNQVRmVGk1aDFqZEl6ajhhY1p4WDRFeDVKSUkzN1NmSlVvOHFMZktfRDg0bEJITDFsT1dRNkxGclFRMFFmb1lIODh1TkFCU3ZaYXdHSVBzUmx4RkjSAYIBQVVfeXFMT1U5UVUxWUp0RXNqdGwxazBxbVRqU1JqNVY1MXUxTmtIa0J2dnlYc0NWNGhDMnlrbGlaRUpuV2wzNGJJOVIxNlVfeUZBZ3cxSzFXNl9od195bkFmNElDazlyYXdyd1NhbnlsMXhJRXRUTG5KQzFrLThoMGp3bG5vZEtHZw?oc=5",
+      "image": null,
+      "headline": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 214.5
+        },
+        {
+          "d": "06-04",
+          "c": 218.66
+        },
+        {
+          "d": "06-05",
+          "c": 205.1
+        },
+        {
+          "d": "06-08",
+          "c": 208.64
+        },
+        {
+          "d": "06-09",
+          "c": 208.19
+        },
+        {
+          "d": "06-10",
+          "c": 200.42
+        },
+        {
+          "d": "06-11",
+          "c": 204.87
+        },
+        {
+          "d": "06-12",
+          "c": 205.19
+        },
+        {
+          "d": "06-15",
+          "c": 212.45
+        },
+        {
+          "d": "06-16",
+          "c": 207.41
+        },
+        {
+          "d": "06-17",
+          "c": 204.65
+        },
+        {
+          "d": "06-18",
+          "c": 210.69
+        },
+        {
+          "d": "06-22",
+          "c": 208.65
+        },
+        {
+          "d": "06-23",
+          "c": 200.04
+        },
+        {
+          "d": "06-24",
+          "c": 199.0
+        },
+        {
+          "d": "06-25",
+          "c": 195.74
+        },
+        {
+          "d": "06-26",
+          "c": 192.53
+        },
+        {
+          "d": "06-29",
+          "c": 194.97
+        },
+        {
+          "d": "06-30",
+          "c": 200.09
+        },
+        {
+          "d": "07-01",
+          "c": 197.58
+        },
+        {
+          "d": "07-02",
+          "c": 194.83
         }
       ]
     },
@@ -40228,438 +40644,6 @@
         {
           "d": "06-18",
           "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "c3cfbd767c6c986f",
-      "date": "Sat, 09 May 2026",
-      "ts": "2026-05-09T07:00:00+00:00",
-      "date_display": "May 09, 2026",
-      "source": "Tekedia",
-      "type": "news",
-      "quote": "Trump Media Posts $406m Quarterly Loss as Crypto Bet Overshadows Truth",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZU4tUkRNR1hJNERtTEpyZGM5MzZsTTdJWkltMUVocnkxLTFiTnF4dGd3b2k0WlIxRk1RcFlZNjlfU1RUOVhwRW5GRzM5S0luNHlQT1pOQ3RJak5NT0cyNk1EZEVjTmZTOW5saHN2cVJuSTBoeUROUjk3ekx5WXFScE95aEd0Zm5KckNYYUZ3bDJFbUtaemZFdnZuZ1FSVlp0aGNvYmZkcm5LSHp3WExKTDVzUGxPQURSbGFUWjNFamJ2eUxrSzZjNDV0RFd2UFBVNGY1R2NyX1NrUnBjNXhoR1I0dTFBd2c5MlE?oc=5",
-      "image": null,
-      "headline": "Trump Media Posts $406m Quarterly Loss as Crypto Bet Overshadows Truth Social Revenue, Deepening Questions Over Long-Term Viability - Tekedia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "e39dbcad8c66c1e6",
-      "date": "Sat, 09 May 2026",
-      "ts": "2026-05-09T07:00:00+00:00",
-      "date_display": "May 09, 2026",
-      "source": "Al Arabiya English",
-      "type": "news",
-      "quote": "Parent company of Trump\u2019s Truth Social reports $400 million loss - Al Arabiya English Parent",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.42,
-      "change": 5.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMjRXci1PT3JIemVzekNKRFU0cnJ6R2NEN2VWb1dHX2lReTdPTkNIQVlIc2hYN3NnUHRRQVlqWml3elE5X1BMM1ZLOTNZMkNYdGRtaGF0bzFZck1SZ2tUR0VMQnhobFNPVFU4WWhvRTc0M1FISDhaZHVISmNOYV9nTmw1N2pFSENyQXdGUHJ3MDJIMUdIZXg5SV9xWTJXNTVBVmNQakZKWkpjRnlDaU1uaWh6djRfSzhPcGRHSTJkaFl1Z9IBxwFBVV95cUxOdUx1RklyMjF2S2NSMU5Va213clc0aTZUUlUxN00xRnc5LVRlejZJZzFOZ0xzWkNwaGxzZWdnbnh1RHpZbkdWVGw4UHBzMGphUnotenZxZVBtbzdqSlUtQ1F5em1ETXl4SDUtMEtSTENva01wOFUyMHBMajZMVGZZOXFyamViNUx5bWNIcE5RYU9xdEJkUldJRFhjRDBqX3p4d1U0V1dUX1pIb1pZbU9TTUUxbU9ES1FvYjNFN3RQTE1tcGFRYlZr?oc=5",
-      "image": null,
-      "headline": "Parent company of Trump\u2019s Truth Social reports $400 million loss - Al Arabiya English",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "47eccf460978f49e",
-      "date": "Fri, 08 May 2026",
-      "ts": "2026-05-08T23:07:46+00:00",
-      "date_display": "May 08, 2026",
-      "source": "AOL.com",
-      "type": "news",
-      "quote": "Trump Media, Truth Social's Parent Company, Reports $405 Million In",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW1mb2Z0MF81VkQ5NGhuajBjaW9kTGx0TmloWU9FZmtZcDJ0MUdSUER5d2dxWkhNdjM0WEZGenNBeWtWaTJJWEE4MUcyTVNSeGpnWW5TTTc3Z3BmMUh3T2lwb1BXTHZ3UWJqWi1ycEw2NlA2ZGlWOHVXeHVFOThSNEp3?oc=5",
-      "image": null,
-      "headline": "Trump Media, Truth Social's Parent Company, Reports $405 Million In Losses - AOL.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "7ea99a3a89cccd57",
-      "date": "Fri, 08 May 2026",
-      "ts": "2026-05-08T07:00:00+00:00",
-      "date_display": "May 08, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Media, Truth Social's Parent Company, Reports $405 Million In",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzI3b0N3Mkh5Zl9Pdk5YSjZuaTRjRmNsbEtqQ2hzbXFCcnp1YWRuQ0x3cDZlZ1p2aWxNUDZ2Mll0OTZTLXdYVERFNGhzaWlfTjRYUWNpUVFIYmpHZFRDekpsNVAwLUtHeVY5T0NhNkE3UTl3aEJBUkZTaC1LOVhlVnFkNS1COUxFTmhtT0lCVHFyVjdFYnROUGc1MUloZw?oc=5",
-      "image": null,
-      "headline": "Trump Media, Truth Social's Parent Company, Reports $405 Million In Losses - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
         }
       ]
     }
