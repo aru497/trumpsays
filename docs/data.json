@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-03T17:11:01.296433+00:00",
+  "updated_at": "2026-07-03T18:44:05.475048+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "6acd60bfde10ea16",
+      "date": "Fri, 03 Jul 2026",
+      "ts": "2026-07-03T17:17:34+00:00",
+      "date_display": "Jul 03, 2026",
+      "source": "IndiaWest",
+      "type": "news",
+      "quote": "Micron CEO Sanjay Mehrotra Announces $250 Million for Trump",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 975.56,
+      "change": -5.49,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN6b3BHak5pa0NXN1pudDdKMEIwWE85QlN6eXZ3NXFBLWd3YTczRkd3RWJvdGJnSm91U3dOdmNZSWM0NmwtOUltMjZKU2hSYWFyVzdpSlA5SW5tLU5Ca2RJanhJak0tNXRyMXRjSEJBQ3Q1UTg3SWFhLW10WE5BVUdrN3N0dE9HdlRnNmw5bHYyQQ?oc=5",
+      "image": null,
+      "headline": "Micron CEO Sanjay Mehrotra Announces $250 Million for Trump Accounts - IndiaWest",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 975.56
+        }
+      ]
+    },
     {
       "id": "d0b4d9ff29e34d33",
       "date": "Fri, 03 Jul 2026",
@@ -40536,110 +40640,6 @@
         {
           "d": "06-16",
           "c": 8.3
-        }
-      ]
-    },
-    {
-      "id": "f1687283f04ae9b4",
-      "date": "Sat, 09 May 2026",
-      "ts": "2026-05-09T07:00:00+00:00",
-      "date_display": "May 09, 2026",
-      "source": "Fortune",
-      "type": "news",
-      "quote": "Trump Media posts $405 million loss driven by crypto holdings -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.16,
-      "change": -3.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS04zVkZrYm8wdjBOSDdJdk5VSFZ5VmVUOFh2SFJiNEFHcUZWWFVRcm9nVFpwa2NxT05XTTVSQVFVcjdLOXQ1QWtMS3FBeDVBYUtHNG0waXQybnA5R3VrcUZYdkxuempYYnAtb1NCbzhFTHZQVW9LeU5wUEMxZzJCeFJZSDd2SFZmeFBJYmN5VnBiSXQ0NnFtcnE5YTd6QQ?oc=5",
-      "image": null,
-      "headline": "Trump Media posts $405 million loss driven by crypto holdings - Fortune",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
         }
       ]
     }
