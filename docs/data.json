@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-07-03T05:41:55.703961+00:00",
+  "updated_at": "2026-07-03T08:45:58.891025+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f4c35923e9d36cae",
+      "date": "Fri, 03 Jul 2026",
+      "ts": "2026-07-03T06:23:41+00:00",
+      "date_display": "Jul 03, 2026",
+      "source": "36Kr",
+      "type": "news",
+      "quote": "Launches on July 4: Trump Urges Musk to Donate Stocks, Micron Invests $250M - 36Kr \"American Dolls Playing the Stock",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 975.56,
+      "change": -5.49,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZVhTazd4elN5U2RKWmVONWdkN0tJOTU1WWgwMGl2aEF0ZFNTeUQ1VEYwZFVnMTF0b0FwYXNvV2NQazV0RlIweERseU5mbEhkbEhB?oc=5",
+      "image": null,
+      "headline": "\"American Dolls Playing the Stock Market\" Launches on July 4: Trump Urges Musk to Donate Stocks, Micron Invests $250M - 36Kr",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 975.56
+        }
+      ]
+    },
+    {
+      "id": "2b56ab9f2ee168a7",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T19:34:52+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "77 WABC",
+      "type": "news",
+      "quote": "Trump Praises Micron As Chip Stock Keeps Sliding - 77 WABC Trump Praises Micron",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 975.56,
+      "change": -5.49,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QNmp6YnN4RHlBYk11Vnpwa3hWU1FyQ1gyUHpycks3b0R0UmFPdjRyNUU5UzgwWkEzYkZsandLV0RsZUplOFVMRzZkdmRTTHBsNXRNZXpScGlwWWNoUm44bFAxc1hTNTBGYWF6T2xpTlp1WTkxWmhJMF83SzQ?oc=5",
+      "image": null,
+      "headline": "Trump Praises Micron As Chip Stock Keeps Sliding - 77 WABC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 975.56
+        }
+      ]
+    },
     {
       "id": "3f6c3f28ae217f8f",
       "date": "Thu, 02 Jul 2026",
@@ -40363,222 +40571,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzI3b0N3Mkh5Zl9Pdk5YSjZuaTRjRmNsbEtqQ2hzbXFCcnp1YWRuQ0x3cDZlZ1p2aWxNUDZ2Mll0OTZTLXdYVERFNGhzaWlfTjRYUWNpUVFIYmpHZFRDekpsNVAwLUtHeVY5T0NhNkE3UTl3aEJBUkZTaC1LOVhlVnFkNS1COUxFTmhtT0lCVHFyVjdFYnROUGc1MUloZw?oc=5",
       "image": null,
       "headline": "Trump Media, Truth Social's Parent Company, Reports $405 Million In Losses - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "275a1046a17f048d",
-      "date": "Fri, 08 May 2026",
-      "ts": "2026-05-08T07:00:00+00:00",
-      "date_display": "May 08, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Media Lost More Than $400 Million Last Quarter \u2013 While Notching",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckNIZVhUR1dwQ1NBZk9vRV9wUi1jUUN4a0Y5SXRqU3U0LXk2NUtKRDRmVnJNQkhVblhIa2lBNmRTQll3SGxaUGd4cndCR2xnX1I5THMtZ0taS0pMWGJSek4xd09jZnRvdUJrWjUzQUh5NWw3NWVrYkJ5UzN5YVUycVRZOEV1QVUwaUNNSnZxOEQxS1df?oc=5",
-      "image": null,
-      "headline": "Trump Media Lost More Than $400 Million Last Quarter \u2013 While Notching Paltry Sales Figure - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "78b09a9205b77ba4",
-      "date": "Fri, 08 May 2026",
-      "ts": "2026-05-08T07:00:00+00:00",
-      "date_display": "May 08, 2026",
-      "source": "BNN Bloomberg",
-      "type": "news",
-      "quote": "Parent company of Trump\u2019s Truth Social reports $400M loss - BNN Bloomberg Parent company of",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzczMmlLc3VyT2k2QjhSb1FZV2tPcVZNQ0ZBTzk5ZlFadXgyaEVMeFJBZHpJa003Q2VleHlmbTVPclZLUm5EVVlFc0NzX004TEFUakgycHdIYTU4eUt2ZEhSb2ZTNnJjVzU5c0NuMTBmRWhXaGxObTh5Ny1wZ18zTkc5V19QbDhsUXdaUVFPM1RVOUxKeW41MmQzM2pxb3RQZ0lWcV96VHIybnBxa1FOd1c4SU9Fdmk0?oc=5",
-      "image": null,
-      "headline": "Parent company of Trump\u2019s Truth Social reports $400M loss - BNN Bloomberg",
       "channel": "News",
       "series": [
         {
