@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-04T17:54:20.647454+00:00",
+  "updated_at": "2026-07-04T18:53:36.499543+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a0401f87a19cfdff",
+      "date": "Sat, 04 Jul 2026",
+      "ts": "2026-07-04T12:16:13+00:00",
+      "date_display": "Jul 04, 2026",
+      "source": "moneywise.com",
+      "type": "news",
+      "quote": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 975.56,
+      "change": -5.49,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOelV5a3BrMmJySWlsd0hlQ1dRRERtSENEX1dvRERMdVVfSW02dXpyUlZ4SGhMVjlwY3dWR1NBd2FEMldQRnljTW5sb0hJalZXbmVqdjVSRlhwSEIzUXZsckhDeVhHY2dxWndMVkNjRFAzNk5fUG9HbXVhX3lTZHFRcmJPUjJJOHlodE00QVowWQ?oc=5",
+      "image": null,
+      "headline": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it \u2018undermines\u2019 the system - moneywise.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 1079.57
+        },
+        {
+          "d": "06-04",
+          "c": 996.0
+        },
+        {
+          "d": "06-05",
+          "c": 864.01
+        },
+        {
+          "d": "06-08",
+          "c": 949.28
+        },
+        {
+          "d": "06-09",
+          "c": 935.89
+        },
+        {
+          "d": "06-10",
+          "c": 891.88
+        },
+        {
+          "d": "06-11",
+          "c": 995.87
+        },
+        {
+          "d": "06-12",
+          "c": 981.61
+        },
+        {
+          "d": "06-15",
+          "c": 1087.99
+        },
+        {
+          "d": "06-16",
+          "c": 1020.76
+        },
+        {
+          "d": "06-17",
+          "c": 1043.19
+        },
+        {
+          "d": "06-18",
+          "c": 1133.99
+        },
+        {
+          "d": "06-22",
+          "c": 1211.38
+        },
+        {
+          "d": "06-23",
+          "c": 1051.77
+        },
+        {
+          "d": "06-24",
+          "c": 1048.51
+        },
+        {
+          "d": "06-25",
+          "c": 1213.56
+        },
+        {
+          "d": "06-26",
+          "c": 1132.33
+        },
+        {
+          "d": "06-29",
+          "c": 1145.28
+        },
+        {
+          "d": "06-30",
+          "c": 1154.29
+        },
+        {
+          "d": "07-01",
+          "c": 1032.28
+        },
+        {
+          "d": "07-02",
+          "c": 975.56
+        }
+      ]
+    },
     {
       "id": "6cf4ff9eb70f1b4f",
       "date": "Sat, 04 Jul 2026",
@@ -935,6 +1039,110 @@
         {
           "d": "07-02",
           "c": 975.56
+        }
+      ]
+    },
+    {
+      "id": "8b83fdd1626435c5",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T19:32:00+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm",
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "price": 242.67,
+      "change": 0.4,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWZydEVhQ0dMR2lfUm96Q2RXeWNvMUxDdENuXzJ4VVNZcC1PREFrVlA5U3J3NkxEaHpZaUgyamZkN0VjYmNUZzJiOTQwVjJIQ1NrS0RPeTdSX3RPcTdvWG55V3lnNkRTVUtmMEVuZzUxTmc0TlAtNDk2NTVXb2xDbmY5VElNQl9rNTZtd2FHaEhZX2VXV3RqcVMzSmZCdmdVX3U3S1JnX2xyU09STjVsZVhLNkJsTTRFU3NkZmVNbzdzLU9I?oc=5",
+      "image": null,
+      "headline": "Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-03",
+          "c": 250.02
+        },
+        {
+          "d": "06-04",
+          "c": 253.79
+        },
+        {
+          "d": "06-05",
+          "c": 246.03
+        },
+        {
+          "d": "06-08",
+          "c": 245.22
+        },
+        {
+          "d": "06-09",
+          "c": 244.19
+        },
+        {
+          "d": "06-10",
+          "c": 238.0
+        },
+        {
+          "d": "06-11",
+          "c": 241.51
+        },
+        {
+          "d": "06-12",
+          "c": 238.55
+        },
+        {
+          "d": "06-15",
+          "c": 246.02
+        },
+        {
+          "d": "06-16",
+          "c": 246.0
+        },
+        {
+          "d": "06-17",
+          "c": 237.5
+        },
+        {
+          "d": "06-18",
+          "c": 244.39
+        },
+        {
+          "d": "06-22",
+          "c": 232.79
+        },
+        {
+          "d": "06-23",
+          "c": 234.11
+        },
+        {
+          "d": "06-24",
+          "c": 234.27
+        },
+        {
+          "d": "06-25",
+          "c": 227.01
+        },
+        {
+          "d": "06-26",
+          "c": 232.69
+        },
+        {
+          "d": "06-29",
+          "c": 240.14
+        },
+        {
+          "d": "06-30",
+          "c": 238.34
+        },
+        {
+          "d": "07-01",
+          "c": 241.7
+        },
+        {
+          "d": "07-02",
+          "c": 242.67
         }
       ]
     },
@@ -40424,214 +40632,6 @@
         {
           "d": "06-23",
           "c": 7.88
-        }
-      ]
-    },
-    {
-      "id": "b15d0e60cec2bae5",
-      "date": "Sun, 10 May 2026",
-      "ts": "2026-05-10T07:00:00+00:00",
-      "date_display": "May 10, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "Trump Media and Technology Group lost $406m in first three months of",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.44,
-      "change": 8.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE5jQWRYUllDdVJidDhpLTJRM3N3SDNxVGNza1FlRk02Mlc0QzR4bVJSX09hYlhiUDMxQXZYODh4NUUyS0lpQ3Z4bEIzUEtQSHhXcW1Hb2xzNWdSUWJuUUpJczFRRFJDZjJScTlYMl9ZOGxCWHg1SmdudU80R3ptYkRKV0JKS0lYV0VuMzZpRThoWng1SVNyajBCdmhCZ1RTX3VDeTBJdnRGTHFaV2Rn?oc=5",
-      "image": null,
-      "headline": "Trump Media and Technology Group lost $406m in first three months of 2026 - The Guardian",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "c42e11c960fa2349",
-      "date": "Sun, 10 May 2026",
-      "ts": "2026-05-10T07:00:00+00:00",
-      "date_display": "May 10, 2026",
-      "source": "Macau Business",
-      "type": "news",
-      "quote": "Parent company of Trump\u2019s Truth Social reports $400 mn loss - Macau Business Parent company of",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzhSYmJ2N3cyZ1JXeEtTMzZwVGtQUnBfM3MwYXZISGM1ajlzdE9FbkpVemlhWnhPdV9xd0FWTTVkNUd2eXdvZnIyN0hSU2pGUjhPM04xSlpNZW5sMGgyWVNxWkJfMGZlS1dlLXRtZFoxUWRjTWxvQ25qRE9wRjhQQUFtU0hmV1YtczFMUg?oc=5",
-      "image": null,
-      "headline": "Parent company of Trump\u2019s Truth Social reports $400 mn loss - Macau Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
         }
       ]
     }
