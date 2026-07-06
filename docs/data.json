@@ -1,7 +1,199 @@
 {
-  "updated_at": "2026-07-06T22:43:28.571630+00:00",
+  "updated_at": "2026-07-06T23:56:54.785273+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9962bdc2d12e3ba6",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T23:28:00+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Newser",
+      "type": "news",
+      "quote": "Trump Claims Credit After Walmart Announces Sale - Newser Trump Claims Credit After Walmart",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSW5hMXotNnBXaDJGMnU4R1dFWnNwNXQwMnFyelZFbG9xeDRUV3BBTjFvSFlZS3UtSjhzUWV2SjFFMjhMVGJadzY0S3FWd3dlS0QzTV9ZN1RwbkU5U2lvQnN4UFJNcm5Cd0VPNFBrMFVBUFBnWHFOeHN0QnJtVnRfZUJHZlV6TFp5R1E?oc=5",
+      "image": null,
+      "headline": "Trump Claims Credit After Walmart Announces Sale - Newser",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
+    {
+      "id": "65f58f2f6a47d0e5",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T22:48:34+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "WKMG",
+      "type": "news",
+      "quote": "Trump says Walmart cut prices at his request, but Walmart statement omits",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVjBWS0VYZ0I3LXNuWTRlcVRGQzZzbGQ2aTBEald2Vk4zS0NNVFRYYnp0NUhrZlg3N3pRSlRmUmxJTkIzcS1CM0J1Z3RySFhyS09WOC1qNUtVRy1PYWR1bWg2Y21kbmJxRnptSngtRDlQajBVcl9UcW9HMmpmN0o0b3o5dW1FQkNWWkdJMWVoMDJ6Szl4WXMwRU9nMTFVSnhPaklrb1JrRnpJYjJZY3VKZXRCUUlnZl8xb0V5YkdUQzRwdzBaNVNxTTNjeUl6cDNCZDdZdXZRQW5EbmM?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart cut prices at his request, but Walmart statement omits administration's role - WKMG",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
     {
       "id": "280f14fd88b44d46",
       "date": "Mon, 06 Jul 2026",
@@ -387,6 +579,102 @@
       ]
     },
     {
+      "id": "ae161ab80a4e84c9",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T21:37:38+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says Walmart will lower prices on ground beef, other items - Reuters",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVFPbnM1STRBMzd5c09xOVpoOEpELXdqMENhNjFjVUp5eWYtdTVyQW9pcUNaSW1FSzBSZmlNSG0wOHFnTGZCWFh2NHFUNlJVeVJaTklDRHcxUTdBQVAzV3lrVmt3Q0pLbVgxZ090eE4xczBjQ3ItX3lsdnZ2VmRiSHAtcEdJbGhuc0lwUi1LbkRQZFlST0JrYmI3VQ?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart will lower prices on ground beef, other items - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
+    {
       "id": "2c9ece26957f3f29",
       "date": "Mon, 06 Jul 2026",
       "ts": "2026-07-06T21:11:15+00:00",
@@ -498,6 +786,102 @@
       "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjlnNE9tbld5RkNRbnVPU1dJbGZZQm1OcC0yMVhQZlhTSEEzSjAzQXVhMzZmLXM5em40bllNeVZQNm53R1A1QXdNWG5jV1NfZ3RDSTIxN2liY19oc2h3LVBmV3lNNDBsejNnZ3ZZMEZoWDh2LWxsUHpKeGJTNzFsMGxqMmVjODR6S0poUEhoU3dZMnNTR2xQQ2QwVTJZUUJEVWFWbEln?oc=5",
       "image": null,
       "headline": "Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading - MarketWatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.8
+        }
+      ]
+    },
+    {
+      "id": "a49973653e66c5a3",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T20:05:58+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Business Insider Africa",
+      "type": "news",
+      "quote": "Dell shares jump after Trump tells Americans to 'go out and buy",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.8,
+      "change": 4.43,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejVkV3RHRjhkOU94ZFZHMXlBcjVYTTRhVnE2NmpiUFBoaEdtYTk0bkFrWkN0eDhLME1RbG93cFFzSm1ISDhGdGFqZHRXa255LTNSOU5FS0FnbTVaYTFRNEhVMXJRZjNlZVQ1aWhXSTNyQmljRGhzaDBWYk1FVzZsa2JpamVVWllmOVlmWGZIc2NqMU9FM2JsT19DNDNUc2ZaVnJmbjdEVDI1T3oza3lvVEs3cFpOU0tkZGdaQw?oc=5",
+      "image": null,
+      "headline": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - Business Insider Africa",
       "channel": "News",
       "series": [
         {
@@ -39954,438 +40338,6 @@
         {
           "d": "06-12",
           "c": 80.34
-        }
-      ]
-    },
-    {
-      "id": "1c4ae74c06d220a5",
-      "date": "Wed, 20 May 2026",
-      "ts": "2026-05-20T07:00:00+00:00",
-      "date_display": "May 20, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly - Yahoo",
-      "company": "Jpmorgan",
-      "ticker": "JPM",
-      "price": 320.72,
-      "change": 2.31,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZVFSNUljNkl6bk9vSlBhb1RKWE56QWVFY0RxRklEWnk3V0xwLTRZd1ljVnBwM2FBcUp3QXVubGVKb20wTEtBbE5PMUxnWk5BcURONUxsSE1VTjEtYWFMdklXT2FTUHF5SDR6Vms4YW5RQzlBRWl6R2xBSmVHVWlaWmFzOGpzTmN0TkZXV3o2SWZoLUt3cXJtcG95V3M4ME5UQzVucHpOV19qd3BDWk9EQm5pME42WU9uOVI4d3kwZUZhTmRVN0dLbk1UVGttOEU1ZmRQVnVmTDhobUszaGVCWnlvLXJQS0VlRWt0X1BGb2FESnRRYkYxN1VsWExOMFFk?oc=5",
-      "image": null,
-      "headline": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 300.25
-        },
-        {
-          "d": "05-14",
-          "c": 299.91
-        },
-        {
-          "d": "05-15",
-          "c": 297.81
-        },
-        {
-          "d": "05-18",
-          "c": 300.73
-        },
-        {
-          "d": "05-19",
-          "c": 295.7
-        },
-        {
-          "d": "05-20",
-          "c": 301.98
-        },
-        {
-          "d": "05-21",
-          "c": 303.0
-        },
-        {
-          "d": "05-22",
-          "c": 306.38
-        },
-        {
-          "d": "05-26",
-          "c": 306.74
-        },
-        {
-          "d": "05-27",
-          "c": 299.28
-        },
-        {
-          "d": "05-28",
-          "c": 296.73
-        },
-        {
-          "d": "05-29",
-          "c": 299.31
-        },
-        {
-          "d": "06-01",
-          "c": 296.58
-        },
-        {
-          "d": "06-02",
-          "c": 300.96
-        },
-        {
-          "d": "06-03",
-          "c": 300.85
-        },
-        {
-          "d": "06-04",
-          "c": 310.89
-        },
-        {
-          "d": "06-05",
-          "c": 312.37
-        },
-        {
-          "d": "06-08",
-          "c": 311.11
-        },
-        {
-          "d": "06-09",
-          "c": 312.7
-        },
-        {
-          "d": "06-10",
-          "c": 309.14
-        },
-        {
-          "d": "06-11",
-          "c": 313.49
-        },
-        {
-          "d": "06-12",
-          "c": 320.72
-        }
-      ]
-    },
-    {
-      "id": "574b6f3999d364ce",
-      "date": "Wed, 20 May 2026",
-      "ts": "2026-05-20T07:00:00+00:00",
-      "date_display": "May 20, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 100.04,
-      "change": -0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZVFSNUljNkl6bk9vSlBhb1RKWE56QWVFY0RxRklEWnk3V0xwLTRZd1ljVnBwM2FBcUp3QXVubGVKb20wTEtBbE5PMUxnWk5BcURONUxsSE1VTjEtYWFMdklXT2FTUHF5SDR6Vms4YW5RQzlBRWl6R2xBSmVHVWlaWmFzOGpzTmN0TkZXV3o2SWZoLUt3cXJtcG95V3M4ME5UQzVucHpOV19qd3BDWk9EQm5pME42WU9uOVI4d3kwZUZhTmRVN0dLbk1UVGttOEU1ZmRQVnVmTDhobUszaGVCWnlvLXJQS0VlRWt0X1BGb2FESnRRYkYxN1VsWExOMFFk?oc=5",
-      "image": null,
-      "headline": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 104.9
-        },
-        {
-          "d": "05-14",
-          "c": 105.42
-        },
-        {
-          "d": "05-15",
-          "c": 102.72
-        },
-        {
-          "d": "05-18",
-          "c": 103.91
-        },
-        {
-          "d": "05-19",
-          "c": 102.29
-        },
-        {
-          "d": "05-20",
-          "c": 104.08
-        },
-        {
-          "d": "05-21",
-          "c": 103.58
-        },
-        {
-          "d": "05-22",
-          "c": 103.0
-        },
-        {
-          "d": "05-26",
-          "c": 103.28
-        },
-        {
-          "d": "05-27",
-          "c": 104.18
-        },
-        {
-          "d": "05-28",
-          "c": 103.73
-        },
-        {
-          "d": "05-29",
-          "c": 101.83
-        },
-        {
-          "d": "06-01",
-          "c": 102.85
-        },
-        {
-          "d": "06-02",
-          "c": 101.41
-        },
-        {
-          "d": "06-03",
-          "c": 99.39
-        },
-        {
-          "d": "06-04",
-          "c": 99.34
-        },
-        {
-          "d": "06-05",
-          "c": 99.71
-        },
-        {
-          "d": "06-08",
-          "c": 98.87
-        },
-        {
-          "d": "06-09",
-          "c": 99.33
-        },
-        {
-          "d": "06-10",
-          "c": 98.61
-        },
-        {
-          "d": "06-11",
-          "c": 100.34
-        },
-        {
-          "d": "06-12",
-          "c": 100.04
-        }
-      ]
-    },
-    {
-      "id": "c19f7cf518296135",
-      "date": "Wed, 20 May 2026",
-      "ts": "2026-05-20T07:00:00+00:00",
-      "date_display": "May 20, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "President Trump\u2019s Truth Social Withdraws Bitcoin ETF Application - Yahoo Finance",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTVOOWl3c0pwSlVtYVN1VTFfb0hOaExKNXZFOE95QU1sVVBNWnhvNm9BZGp5WWhCREF5MU9KcTZFTjBjTklvV1YtTTI1Skg0YUZFcGMwRmhlTWVrMV9zVW5MSU5ETGwxR1gwZFNkQkNBUk9QcWM5OXdDZkpxNGRMM1AyRDIxLXFWRGZCVGVEWW53cXZiRXNJeDFIMjd3Y1RiT2E3cmpB?oc=5",
-      "image": null,
-      "headline": "President Trump\u2019s Truth Social Withdraws Bitcoin ETF Application - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "f23c5ce3cef1ddaa",
-      "date": "Wed, 20 May 2026",
-      "ts": "2026-05-20T07:00:00+00:00",
-      "date_display": "May 20, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Bezos Praises Trump\u2019s Second Term as \u2018More Mature\u2019 - The New York Times Jeff Bezos Praises Trump\u2019s Second Term as \u2018More",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.38,
-      "change": -1.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGlaMnAyaFJBQTFzMnIwWUNMQnNWd2JSWkxxMEhIZlpycF9wNjd4SEpuVkhIWEZsX3o5WkFDN3Q1MmhPTGJHMzNJV3dVbEM1WUJxb1VYNzhMLXBGeFVYMEVMeGlPSnlGejVqQlIyM3pIWEdrTW1ESTRZTDhjWFJDcWpPVEkxd0FQOHNjOEsyMHU?oc=5",
-      "image": null,
-      "headline": "Jeff Bezos Praises Trump\u2019s Second Term as \u2018More Mature\u2019 - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 77.0
-        },
-        {
-          "d": "05-14",
-          "c": 75.5
-        },
-        {
-          "d": "05-15",
-          "c": 74.48
-        },
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
         }
       ]
     }
