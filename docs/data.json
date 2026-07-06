@@ -1,7 +1,698 @@
 {
-  "updated_at": "2026-07-06T17:37:21.259483+00:00",
+  "updated_at": "2026-07-06T19:30:41.042882+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "87445589469da275",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T17:58:00+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Barron's",
+      "type": "news",
+      "quote": "Dell Stock: Trump Wants You to Buy a Computer. Investors Are",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xRlRJNkV4SzVUU3N2cEVvdzFPX3RGU042QzlMQ3BldjNuYVpRdEVRbkQtTlpUaUpGUmxuVnhtbDlOcGQxNmVTanNOZlhvdHE4cHlEQS1kTm1nWUFFYi1tbXdyWEZDMWFweW50WkhlNXgxLVY4RjhN?oc=5",
+      "image": null,
+      "headline": "Dell Stock: Trump Wants You to Buy a Computer. Investors Are Buying Its Shares. - Barron's",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
+    {
+      "id": "758d539d6e103359",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T17:07:00+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "New York Post",
+      "type": "news",
+      "quote": "Dell stock jumps after Trump tells Americans, \u2018Go out and buy a",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3Y1VENSVUM5YUd5V203ZjUzTmNpcEpYb2YwR2FseThGRFR6SktxbGJwejVNRHVFUncyWVpFM2hoVGFNOVBNYTA2X0Y4ZG85ZkFfRUg3SmdiY2xKMk1MTGxZR2tNSHRCdWVtYkpBNlZud1FsZVZSVVVFUWxXZ0kxU0p6VGJyTGJIT0hyaWJLdjMtQnpiUTFhcHR0SDRYeGl4emgwY0VsQ1I0Rk9KdVpxSHFGcnJSZw?oc=5",
+      "image": null,
+      "headline": "Dell stock jumps after Trump tells Americans, \u2018Go out and buy a Dell computer\u2019 - New York Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
+    {
+      "id": "2e4836c14ec038b7",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T16:11:39+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "upi.com",
+      "type": "news",
+      "quote": "Trump opens market from Oval Office, promotes Dell stock before bump - upi.com Trump opens market from Oval",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXlkb29VMXg5VG16d19ycU53Q0VfdURubDhHeDVtcFFqVmh3RFM1bTlUY2FoVXVXQkNELXAtU01fX05hWjZ4VF82aFZMUDZZOTdTc1RGMTJLMTJnQ0syYzNsRWRDeEtLa3hPa0R0dFdiZjJyT3A4MVpNZGZxbTY4MUdZSXZQeFFkUTMzc1FsRXMyVk9jdC1PYTQ3ekVfa3c0MmfSAacBQVVfeXFMT1pOSDNGTW02akhGSHV5OEFhX2dFY1ZnT3B0VFZkS1ZtX3FpNUVWQU5abTVVMTBhOXR5VTdGQkFRSmxmdVBwd1JXaGJNSlBtakltVWhZLU5kUEtiRkNwOUY3NmFxeGYzQllxUlNaYTg5MUFIUnJudmhQel8wSmlhczhjSmcwRmQ4cjlkWmNDQUFuNGc5YWV2WEJwX3VBcXhXQ0lBRzdfRGc?oc=5",
+      "image": null,
+      "headline": "Trump opens market from Oval Office, promotes Dell stock before bump - upi.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
+    {
+      "id": "6799d37419459408",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T16:05:41+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGh4UFRXZWtydnlBczNYSDYwa0FmM1BJeTI2bnNJbEFlaGt0ZGlBQ1d2cklsV2JBNG05SGhFMHkzZGhQYmkzYmRpZUxWSHo1bmlwTlRIbGVDWFk5N1hGTlhRWjRIbUtiaVhUOTZvd1ZLVHJMQ1VBMS1CNkdVY0lQMDFkeWVEdzl6TXhrQmlITUtpWVV1T1I4V3lPYmM4ZVdDRms5Zktn?oc=5",
+      "image": null,
+      "headline": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
+    {
+      "id": "0feb4dad57156202",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T15:57:54+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "qz.com",
+      "type": "news",
+      "quote": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com Trump tells",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Jjc2V5NW8wbXZmcUtYM0F3TmRIbUowdFAyLUM5V3pLUVBfZWhtdHNuTkNfb3NfbEwxZF84UWxWU012U1RYdXFOQTc3eHBjeUtOTnhYQVhabGctZWlPWEZSUlFRWmJsaXZIdlNTZXc0R2J6azNsRFhXeTZKbkNVOGpPR0M?oc=5",
+      "image": null,
+      "headline": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
+    {
+      "id": "d3eca04db881a45d",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T15:57:00+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Tech Times",
+      "type": "news",
+      "quote": "Trump's Three Dell Endorsements: Family-Managed Trust Does Not Remove",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3BrSGRmZ0dIT014OURXbG8zdENsa0hydWltV1AwdWM2NjJYeTlWUE5jLWUwdnlfVzNTc2Z1VlROelcwdE1uQ1dBSE4yUHJWS2hLYktwS0NfQUh4RG5oZDFQQVc1ejJvdmNYR0sxblA2TFZiWWNEbUlmVVBCYnBNMDllWXMxVzhHZkxyZ2Y3THhUbndVeWhzYWd1bms3MEdTdE9qcFJtdU9nUmtFRDdjVko1dDJRaUgwZEdoTGxPaW52LXBGMlhzS2RPOU5rbHozLTlyMjlhTQ?oc=5",
+      "image": null,
+      "headline": "Trump's Three Dell Endorsements: Family-Managed Trust Does Not Remove Conflict of Interest - Tech Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
+    {
+      "id": "57ae510e2c5faa9f",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T15:53:22+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "The Block",
+      "type": "news",
+      "quote": "distancing himself from family's crypto ventures - The Block President Trump says he's a 'big crypto guy,' while",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUotZWhKNVJqNk83clA3RHBGZV9LbkR2aWQ4N3RVeHFKM3NfcTFybXNVaDd2NHlyWC1nM3o4dGFJUkNpaGdTRXJqUVdvOHZpSWg3NXZKRlVMR2ZTcXhoT1RJMXVuT1p5em1vbTU0ZkZ0Qkg2RFFvTzEwZXhSdFhLSWEzby1SS3V6STlWMURnTkdTQWV0dm0zTG15TEhaU3FVb1dN?oc=5",
+      "image": null,
+      "headline": "President Trump says he's a 'big crypto guy,' while distancing himself from family's crypto ventures - The Block",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "30c258b309150ee1",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T13:27:05+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump plugs Dell at first-ever White House opening bell, sending shares",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 411.3,
+      "change": 4.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzlPbE90c1RTVVYydHRSdnRwOXVHUlZEYnowNmFnd2RGblhZNlZfRkdGQmhnRjJWeFdtN1VaQXhCRXlFTnExc0Qya0ZHdEV4Ti16VTRqMGxtbWFkbU5pdDFyNWhzUDlzdUR2OU90WjBmWlNrR2kxVl82Si1TVlF1Q0N6dXpTWS1ISVNHeE1BRTDSAZYBQVVfeXFMTVRvMnd2MVBJM1FVNE1FLXN4SWMxY0VGOG1BajlqbC15NXVSS2I5ZzlhTDhJUFNxeWpqdXMwZ3UtZzZ5TS1ldklCT3hIZDZVM3h5Y1B4Qmk3VTdxTHlYM3lINnNlNWNXdEdtbHlUVVptYVdaSUpMeGtKbEtCcElQQ0lGV0lMSlo4LVJoUGM5LTlmc1lwNVFn?oc=5",
+      "image": null,
+      "headline": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.3
+        }
+      ]
+    },
     {
       "id": "892da15354acf114",
       "date": "Mon, 06 Jul 2026",
@@ -39739,818 +40430,6 @@
         {
           "d": "06-25",
           "c": 131.04
-        }
-      ]
-    },
-    {
-      "id": "8524715035d9f965",
-      "date": "Sat, 16 May 2026",
-      "ts": "2026-05-16T07:00:00+00:00",
-      "date_display": "May 16, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 113.5,
-      "change": -2.74,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHQ1SEkzS1hJS1Npa1RQUGp2RVoxbUxPLXltTkNiNUpjN1hlNXpRbTlSTFNMc2MwTVlwWmtVY3o0RGM5MkpXWmdYclhDcE1mREw3cVp5M0NiclZMdDlZY0hrblFjTDU3U3dIOWxuNEdRSkUzNjZGalpObGU0RWVaQVlRY2w1bHZGeW9malF0blJoY3JVblJvclI5eklJRFNZWVFNRElrYUNOMlppUWVmZGJvMF8tTEpSbVFuREJMM0drOHg2TlhrVzRvU3poOWlkMHBkRmh4LVdhaXRJbE9nV0ZPQ19WbWpCT2FMbENoVHVtVTI5UjZKQ1FlQQ?oc=5",
-      "image": null,
-      "headline": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 136.6
-        },
-        {
-          "d": "05-27",
-          "c": 132.51
-        },
-        {
-          "d": "05-28",
-          "c": 143.34
-        },
-        {
-          "d": "05-29",
-          "c": 156.54
-        },
-        {
-          "d": "06-01",
-          "c": 160.65
-        },
-        {
-          "d": "06-02",
-          "c": 152.17
-        },
-        {
-          "d": "06-03",
-          "c": 142.2
-        },
-        {
-          "d": "06-04",
-          "c": 141.7
-        },
-        {
-          "d": "06-05",
-          "c": 135.53
-        },
-        {
-          "d": "06-08",
-          "c": 136.47
-        },
-        {
-          "d": "06-09",
-          "c": 132.07
-        },
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        },
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        },
-        {
-          "d": "06-18",
-          "c": 128.47
-        },
-        {
-          "d": "06-22",
-          "c": 119.5
-        },
-        {
-          "d": "06-23",
-          "c": 116.7
-        },
-        {
-          "d": "06-24",
-          "c": 113.5
-        }
-      ]
-    },
-    {
-      "id": "639ffff96c248962",
-      "date": "Sat, 16 May 2026",
-      "ts": "2026-05-16T07:00:00+00:00",
-      "date_display": "May 16, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga Trump Loaded Up On Palantir Shares Months",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.52,
-      "change": -4.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHQ1SEkzS1hJS1Npa1RQUGp2RVoxbUxPLXltTkNiNUpjN1hlNXpRbTlSTFNMc2MwTVlwWmtVY3o0RGM5MkpXWmdYclhDcE1mREw3cVp5M0NiclZMdDlZY0hrblFjTDU3U3dIOWxuNEdRSkUzNjZGalpObGU0RWVaQVlRY2w1bHZGeW9malF0blJoY3JVblJvclI5eklJRFNZWVFNRElrYUNOMlppUWVmZGJvMF8tTEpSbVFuREJMM0drOHg2TlhrVzRvU3poOWlkMHBkRmh4LVdhaXRJbE9nV0ZPQ19WbWpCT2FMbENoVHVtVTI5UjZKQ1FlQQ?oc=5",
-      "image": null,
-      "headline": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        }
-      ]
-    },
-    {
-      "id": "c7af539f7011bece",
-      "date": "Fri, 15 May 2026",
-      "ts": "2026-05-15T07:00:00+00:00",
-      "date_display": "May 15, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Trump touted Palantir on Truth Social after buying the company's stock, records",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 127.99,
-      "change": -2.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GVGIweHVvV2RYckIyRlExd3ZZd1pneWlhUUpfTmVURjE1NFhpeXkxc3daX1FJUDh3TkJMRzkxT1htZXE4MzBhRVJ6YXF2RXJ1bGZBZEx0aEZlLUV4NVBJXzRJb0lYTXVFVDZDWlN5VENpRUhjZWNVRkJn0gF_QVVfeXFMTnVPN1dreEFHMU1HSDNVT1M2SjREMUY4SXJlUFl5YWxacHFqSWxTNzJyeFJmNlhzUjBteExIaVdidVdHT21SREtMWTZXVGRkcFdTZUliQjI4eXozNWFCM1ZrQnBjUk5BT3NZUWZZeHdOU1ZYYXpLR1k3VW80Y2JwWQ?oc=5",
-      "image": null,
-      "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 130.05
-        },
-        {
-          "d": "05-14",
-          "c": 133.73
-        },
-        {
-          "d": "05-15",
-          "c": 133.99
-        },
-        {
-          "d": "05-18",
-          "c": 135.14
-        },
-        {
-          "d": "05-19",
-          "c": 135.26
-        },
-        {
-          "d": "05-20",
-          "c": 137.15
-        },
-        {
-          "d": "05-21",
-          "c": 137.41
-        },
-        {
-          "d": "05-22",
-          "c": 136.88
-        },
-        {
-          "d": "05-26",
-          "c": 136.6
-        },
-        {
-          "d": "05-27",
-          "c": 132.51
-        },
-        {
-          "d": "05-28",
-          "c": 143.34
-        },
-        {
-          "d": "05-29",
-          "c": 156.54
-        },
-        {
-          "d": "06-01",
-          "c": 160.65
-        },
-        {
-          "d": "06-02",
-          "c": 152.17
-        },
-        {
-          "d": "06-03",
-          "c": 142.2
-        },
-        {
-          "d": "06-04",
-          "c": 141.7
-        },
-        {
-          "d": "06-05",
-          "c": 135.53
-        },
-        {
-          "d": "06-08",
-          "c": 136.47
-        },
-        {
-          "d": "06-09",
-          "c": 132.07
-        },
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        }
-      ]
-    },
-    {
-      "id": "4609f081e69eeb2d",
-      "date": "Fri, 15 May 2026",
-      "ts": "2026-05-15T07:00:00+00:00",
-      "date_display": "May 15, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Trump touted Palantir on Truth Social after buying the company's stock, records show - CNBC",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GVGIweHVvV2RYckIyRlExd3ZZd1pneWlhUUpfTmVURjE1NFhpeXkxc3daX1FJUDh3TkJMRzkxT1htZXE4MzBhRVJ6YXF2RXJ1bGZBZEx0aEZlLUV4NVBJXzRJb0lYTXVFVDZDWlN5VENpRUhjZWNVRkJn0gF_QVVfeXFMTnVPN1dreEFHMU1HSDNVT1M2SjREMUY4SXJlUFl5YWxacHFqSWxTNzJyeFJmNlhzUjBteExIaVdidVdHT21SREtMWTZXVGRkcFdTZUliQjI4eXozNWFCM1ZrQnBjUk5BT3NZUWZZeHdOU1ZYYXpLR1k3VW80Y2JwWQ?oc=5",
-      "image": null,
-      "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "238932c83f43369a",
-      "date": "Fri, 15 May 2026",
-      "ts": "2026-05-15T07:00:00+00:00",
-      "date_display": "May 15, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Trump says China to buy 200 Boeing jets, order could rise up to 750 - Reuters Trump says",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 219.05,
-      "change": -1.16,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1hHTkdXZjdMZHlLVXhjOXlIczlkUWhiVUtZWUZTNmhSeGNGVEVONF9QZzRPcWJmRTJkUWFNTWhPTTRmQTcwa1U0TmprdVJoZE0yTlJvTG1MdERPOVpIanJBam51ZGg0MU05SW8wREZxWksyd2dULVYwck92MzVVcXBncDhJTndpaUVWUHZ6cVdMajBFT0NMQ3Q4MXhWZWdTZXFaSFV1T3NvNkEwb1A4OG9qVQ?oc=5",
-      "image": null,
-      "headline": "Trump says China to buy 200 Boeing jets, order could rise up to 750 - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 220.61
-        },
-        {
-          "d": "05-19",
-          "c": 215.01
-        },
-        {
-          "d": "05-20",
-          "c": 222.2
-        },
-        {
-          "d": "05-21",
-          "c": 219.61
-        },
-        {
-          "d": "05-22",
-          "c": 219.02
-        },
-        {
-          "d": "05-26",
-          "c": 218.9
-        },
-        {
-          "d": "05-27",
-          "c": 224.3
-        },
-        {
-          "d": "05-28",
-          "c": 228.78
-        },
-        {
-          "d": "05-29",
-          "c": 231.15
-        },
-        {
-          "d": "06-01",
-          "c": 224.3
-        },
-        {
-          "d": "06-02",
-          "c": 217.7
-        },
-        {
-          "d": "06-03",
-          "c": 210.58
-        },
-        {
-          "d": "06-04",
-          "c": 217.42
-        },
-        {
-          "d": "06-05",
-          "c": 215.45
-        },
-        {
-          "d": "06-08",
-          "c": 215.92
-        },
-        {
-          "d": "06-09",
-          "c": 214.51
-        },
-        {
-          "d": "06-10",
-          "c": 209.0
-        },
-        {
-          "d": "06-11",
-          "c": 221.63
-        },
-        {
-          "d": "06-12",
-          "c": 219.05
-        }
-      ]
-    },
-    {
-      "id": "267c273118beef91",
-      "date": "Fri, 15 May 2026",
-      "ts": "2026-05-15T07:00:00+00:00",
-      "date_display": "May 15, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump and Boeing Announce China Will Purchase 200 Planes - The New York",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 219.05,
-      "change": -1.16,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1M5bERheUtjTUd5bnlIdnNoYkFUZDRmVVFsaUFpOW5vR0FibFBUVWhIdHF1M09LOUY2V2dicWYyVmF0WmtydmktdUQ3UzNvck9FUDd6MDhSSmpNX280V28zUElmb2pOUVBCSmtMdk1rem5BU2pySG9HMXpZOFJrVg?oc=5",
-      "image": null,
-      "headline": "Trump and Boeing Announce China Will Purchase 200 Planes - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 220.61
-        },
-        {
-          "d": "05-19",
-          "c": 215.01
-        },
-        {
-          "d": "05-20",
-          "c": 222.2
-        },
-        {
-          "d": "05-21",
-          "c": 219.61
-        },
-        {
-          "d": "05-22",
-          "c": 219.02
-        },
-        {
-          "d": "05-26",
-          "c": 218.9
-        },
-        {
-          "d": "05-27",
-          "c": 224.3
-        },
-        {
-          "d": "05-28",
-          "c": 228.78
-        },
-        {
-          "d": "05-29",
-          "c": 231.15
-        },
-        {
-          "d": "06-01",
-          "c": 224.3
-        },
-        {
-          "d": "06-02",
-          "c": 217.7
-        },
-        {
-          "d": "06-03",
-          "c": 210.58
-        },
-        {
-          "d": "06-04",
-          "c": 217.42
-        },
-        {
-          "d": "06-05",
-          "c": 215.45
-        },
-        {
-          "d": "06-08",
-          "c": 215.92
-        },
-        {
-          "d": "06-09",
-          "c": 214.51
-        },
-        {
-          "d": "06-10",
-          "c": 209.0
-        },
-        {
-          "d": "06-11",
-          "c": 221.63
-        },
-        {
-          "d": "06-12",
-          "c": 219.05
-        }
-      ]
-    },
-    {
-      "id": "05036c436d885f2f",
-      "date": "Fri, 15 May 2026",
-      "ts": "2026-05-15T07:00:00+00:00",
-      "date_display": "May 15, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "and Boeing Announce China Will Purchase 200 Planes - The New York Times Trump and Boeing Announce China Will Purchase 200",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.38,
-      "change": -1.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1M5bERheUtjTUd5bnlIdnNoYkFUZDRmVVFsaUFpOW5vR0FibFBUVWhIdHF1M09LOUY2V2dicWYyVmF0WmtydmktdUQ3UzNvck9FUDd6MDhSSmpNX280V28zUElmb2pOUVBCSmtMdk1rem5BU2pySG9HMXpZOFJrVg?oc=5",
-      "image": null,
-      "headline": "Trump and Boeing Announce China Will Purchase 200 Planes - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        }
-      ]
-    },
-    {
-      "id": "89835e1611416f4c",
-      "date": "Fri, 15 May 2026",
-      "ts": "2026-05-15T07:00:00+00:00",
-      "date_display": "May 15, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "China and the U.S. Clash Behind the Scenes - The New York Times Spies, Sanctions, Cyberattacks: China and the U.S. Clash",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.83,
-      "change": 1.04,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
-      "image": null,
-      "headline": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
         }
       ]
     }
