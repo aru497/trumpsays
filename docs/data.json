@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T02:00:11.437751+00:00",
+  "updated_at": "2026-07-06T06:38:13.049265+00:00",
   "count": 400,
   "mentions": [
     {
@@ -2544,6 +2544,25 @@
       "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmlORndTRDBueEJHV25lbTl2ejNISG9xT09Vbk01NzNCNnoxNmpIdVZJeUdHV19qWU9IUWdncnQ3Q1BYRjZ3SFJCaE53REFzYVN2em1TbldqYi03eklMaFRJVk9NVm9XM2F3My1xN2k1czcxQU9uOG9fSWFHa1oxRUVzRFk4QmI2Smd4cG9wZTN0OURZTkZOQ2dsOHdzWW8wYTFEQ0V6Q3lKR1NSYS1YcWVaMFJYQdIBuwFBVV95cUxPWEdwWkRiR25HQmRfNTB5VG10bElQUDYzb3lQQ3UxNHU5dmd2UTRDdmxfeHdoMkZza21yTEhOWWI3NGxxVlJXOHp0T25fT2FDYXhfX0RzM2l6c1ppZXpkLVNFMHlfVVBDWTJvVW5EQndfcUpIWDZVdDlVR3gwTjFxTXl0LUktRUl1RmtGaFBuN1FJQnRSMDY3X0dMLW9GQmJPemdBUE1US29ELTdFcFBrM2diMmV3RjZpQzM0?oc=5",
       "image": null,
       "headline": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report - CNBC",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "d05f13544bead94e",
+      "date": "Thu, 02 Jul 2026",
+      "ts": "2026-07-02T04:08:26+00:00",
+      "date_display": "Jul 02, 2026",
+      "source": "Financial Times",
+      "type": "news",
+      "quote": "OpenAI proposes handing Trump administration 5% stake - Financial",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVFSLVZmZnlwTE9XTWNBVmo0WXFobFR5ZUgzODhuQTlZTlJVRnZlMElQT00zMTRLTVRzeVpINlpndkF5bFB1QTZhV0l6SXByMW1UVHpYZm02Z2RQVWJDaDZiU2JBcUdYbi0wenh5ck0xQWpVSnJTX3FhZ0Qwa2xkdEZkRm8?oc=5",
+      "image": null,
+      "headline": "OpenAI proposes handing Trump administration 5% stake - Financial Times",
       "channel": "News",
       "series": null
     },
@@ -40536,102 +40555,6 @@
         {
           "d": "06-26",
           "c": 217.25
-        }
-      ]
-    },
-    {
-      "id": "6b9f9c70c9227748",
-      "date": "Thu, 14 May 2026",
-      "ts": "2026-05-14T07:00:00+00:00",
-      "date_display": "May 14, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Boeing shares drop 4% after Trump announces China orders just 200",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 220.83,
-      "change": -0.85,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVG5aMmxHckU2Y2N6eExzdTJjSkhFS1MzRHVzSmVldTczTDNnWGlvS29wc0dicnNKOWlQVlRJZFl3UXBQTmtnUHVMbHpqZDlpeDM3VFM4c0lLNENHWFh4QnhoU25ZbUEwZ0FtdWstdHdqNGlhY1VtSWtyRWZTVDVBd0Uwa2IwTFhYaTRPaXVKVDNlcTlxaXdzSXM0Y1Y5VVBvb3ZOdWt4VnhVdnVKdFJKNUFlZw?oc=5",
-      "image": null,
-      "headline": "Boeing shares drop 4% after Trump announces China orders just 200 jets - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 218.9
-        },
-        {
-          "d": "05-27",
-          "c": 224.3
-        },
-        {
-          "d": "05-28",
-          "c": 228.78
-        },
-        {
-          "d": "05-29",
-          "c": 231.15
-        },
-        {
-          "d": "06-01",
-          "c": 224.3
-        },
-        {
-          "d": "06-02",
-          "c": 217.7
-        },
-        {
-          "d": "06-03",
-          "c": 210.58
-        },
-        {
-          "d": "06-04",
-          "c": 217.42
-        },
-        {
-          "d": "06-05",
-          "c": 215.45
-        },
-        {
-          "d": "06-08",
-          "c": 215.92
-        },
-        {
-          "d": "06-09",
-          "c": 214.51
-        },
-        {
-          "d": "06-10",
-          "c": 209.0
-        },
-        {
-          "d": "06-11",
-          "c": 221.63
-        },
-        {
-          "d": "06-12",
-          "c": 219.05
-        },
-        {
-          "d": "06-15",
-          "c": 228.95
-        },
-        {
-          "d": "06-16",
-          "c": 227.49
-        },
-        {
-          "d": "06-17",
-          "c": 225.63
-        },
-        {
-          "d": "06-18",
-          "c": 222.72
-        },
-        {
-          "d": "06-22",
-          "c": 220.83
         }
       ]
     }
