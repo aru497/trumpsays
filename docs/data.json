@@ -1,7 +1,487 @@
 {
-  "updated_at": "2026-07-06T21:19:12.614344+00:00",
+  "updated_at": "2026-07-06T22:43:28.571630+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "280f14fd88b44d46",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T22:38:00+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "The Business Times",
+      "type": "news",
+      "quote": "Trump says Walmart will lower prices on ground beef, other items - The",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGhLT2dBblFxb015YTJZbjVWWlZnSGVjNGI5bC1kU3BRU0pOcGNFTG5iOWcxUDVKRUoyRWFLSzR6T2cyWWgtR0JQMTJialR5U3k5Q1BRMTZLOFR6N3ZrM2lxbDB0aUVEaXJIZE11UGpzNkdQekV4THVlX0ZJT2s2R2xld0hZd2hxZ2Y2Sk9Oai1BdUpOenBLYWRSUWgxN2ZIbUFkblNHU0hzZlk?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart will lower prices on ground beef, other items - The Business Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
+    {
+      "id": "c018e23e244580ff",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T22:18:00+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "Trump says Walmart to cut beef prices by nearly 15% for America 250 -",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd18tektIekhJQmlZQkItcHB4N0FrMjM3YmhuLXkwR19NX2NQdWFDRE9uTjU2UXJmek1BU3NEYTdZVVFDcXNtMEJ2NHQybEpNVnhHYWZRN3F3WjFrb3dGMGtuQldKRDdRc29oTXdsWDRxTnJlZkpQMFdzZlBCTExMbHFPQmlFV0UtcG85OGlfcTFVNE5qTkdn?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart to cut beef prices by nearly 15% for America 250 - Washington Examiner",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
+    {
+      "id": "295285b795319318",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T21:39:18+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Trump says that Walmart agreed to lower prices for America's 250th anniversary -",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkcyU3dLYS1oeVcxWmo0MzFpNWduUkFSRzVhcFJfYW1KekU4TUJaTXozWTcyQXRqVTNGTDJWWWJsQWt6SVNibnc4SGJNTXZvbC1oMm9vSnpyTDRJVC1kSHh2U2RIWU5BREw1VEtQZzBENlhId1hMQnhQN1RJcTY2NHV1bDlnWGl4NlFBS3hB?oc=5",
+      "image": null,
+      "headline": "Trump says that Walmart agreed to lower prices for America's 250th anniversary - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
+    {
+      "id": "9297d514fa592e09",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T21:39:09+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Business Insider Africa",
+      "type": "news",
+      "quote": "Trump says Walmart will lower prices after White House request - Business",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUh2TzQ4YjNseTMyVlZ1LVNyZEdxdm92NWNxWU5WUGZyUG9QTFl0ejhXbm9HeDVvTTFTT1BDYzBGTXZ2MDdJYUZ2VERoQlJuX0I4NmwyNVdjR2lsbDVWMXgtT19qY05UVzVKNHl2eFliZjJ2T3R5aUVCclp6TUFESk1iOTZudFFtd2EwNG1abE1wRTlIWWhqTHFzNU9iSnNGbEFEZjhIYy05LXdHNS1N?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart will lower prices after White House request - Business Insider Africa",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
+    {
+      "id": "2c9ece26957f3f29",
+      "date": "Mon, 06 Jul 2026",
+      "ts": "2026-07-06T21:11:15+00:00",
+      "date_display": "Jul 06, 2026",
+      "source": "Investing.com",
+      "type": "news",
+      "quote": "Trump says Walmart to cut prices at administration\u2019s request - Investing.com",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 110.65,
+      "change": -1.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5vSE1UT2N5aWZlRVNLVkNabm91cXFycFdjcFRiY3ZjRG1NZ09kWlRoNDlfOHFWa1hYTWdmWjBLUllPekp4dUpzbFBfNEVRVGJXaEpLbW85UndQOV9fbFhJWHdBdVFnNVEzaHhQOUpDN2lMYWpxTWkyeEFITTRobDFJUlJPR1Qzd3JESDc2OUxrSFZiX1VOZW1fdE9VaDJTWmhSU1dfYlB4Q1o1OVp2SQ?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart to cut prices at administration\u2019s request - Investing.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        }
+      ]
+    },
     {
       "id": "46762c87cfe40a20",
       "date": "Mon, 06 Jul 2026",
@@ -39906,518 +40386,6 @@
         {
           "d": "06-12",
           "c": 73.38
-        }
-      ]
-    },
-    {
-      "id": "1f914c4e9a714a0b",
-      "date": "Wed, 20 May 2026",
-      "ts": "2026-05-20T07:00:00+00:00",
-      "date_display": "May 20, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump's Truth Social Pulls Bitcoin ETF Application From SEC Review - Yahoo",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.88,
-      "change": -2.96,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGl2N0h0S3EzTlhTZVZuVXhXclJZUEQwTTZvcGRNUmtwWDJWb2pueXhhM0ctd3l0dURXck1nV3czb2ZiUERCZDZpSG83QU5WbjE1NWtLNzZEVVYwUmhteDlsZEJWa1VHTkx0VkkybUpCTjV3U2pYU0NiRi1kc18tSGlJb2EyOFdPcjRRVlcxQ2kxQ0MzWURWZFVhTVd5bG8?oc=5",
-      "image": null,
-      "headline": "Trump's Truth Social Pulls Bitcoin ETF Application From SEC Review - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        }
-      ]
-    },
-    {
-      "id": "7dbcd4ba27605d78",
-      "date": "Tue, 19 May 2026",
-      "ts": "2026-05-19T07:00:00+00:00",
-      "date_display": "May 19, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Eyebrows. The Family Says He Keeps His Hands Off. - The New York Times Trump\u2019s Stock Trades Raise Eyebrows. The Family Says He",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.38,
-      "change": -1.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhT0hGVUo5eUZLeUEyRUhobFFqQk42eHJ5d3NFR1VielBkREF5YjdoXzZfU3RhRFN3aTczc2NRRTBkY2p2aGRyRV9ZclFHUFhrY2RBRGhzWkVfVGh4cV9yNXhJVnFaX0FTRzUxdkJDRkFRYnh1d2huXzB3?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Stock Trades Raise Eyebrows. The Family Says He Keeps His Hands Off. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 77.0
-        },
-        {
-          "d": "05-14",
-          "c": 75.5
-        },
-        {
-          "d": "05-15",
-          "c": 74.48
-        },
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        }
-      ]
-    },
-    {
-      "id": "6eb272d6f99af3d8",
-      "date": "Tue, 19 May 2026",
-      "ts": "2026-05-19T07:00:00+00:00",
-      "date_display": "May 19, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump praised Palantir after major stock purchase - MSN Trump praised Palantir",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 130.63,
-      "change": -1.97,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRjlSVjJxR3RvUzlOSlFNNWVxNDZaQnNUTjBCMlFDQkhhMVFkRFp4aU1vNEJBdHhPS3B2S1BWWldyb0RaOV9OTlRfTDJ1SVFodExNa3Z6dlU4T0ZUSWNNTXNSd0tsWldzejRLZ0lkZGV2YXlTd0dxUS1pbFVvdWVnejJBOG5KMzRQemsxN1VaWmkwN1pNdHNHallELWJoemRvNVJoaG9iM3E3NzhaUExPVlhMb202Q3hORFc5OHYyeHdxNDJKNW5QaHh1YThrWnNBV21WRzRtMkgyZjR6Zk9CY0RyZHdKdw?oc=5",
-      "image": null,
-      "headline": "Trump praised Palantir after major stock purchase - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 135.26
-        },
-        {
-          "d": "05-20",
-          "c": 137.15
-        },
-        {
-          "d": "05-21",
-          "c": 137.41
-        },
-        {
-          "d": "05-22",
-          "c": 136.88
-        },
-        {
-          "d": "05-26",
-          "c": 136.6
-        },
-        {
-          "d": "05-27",
-          "c": 132.51
-        },
-        {
-          "d": "05-28",
-          "c": 143.34
-        },
-        {
-          "d": "05-29",
-          "c": 156.54
-        },
-        {
-          "d": "06-01",
-          "c": 160.65
-        },
-        {
-          "d": "06-02",
-          "c": 152.17
-        },
-        {
-          "d": "06-03",
-          "c": 142.2
-        },
-        {
-          "d": "06-04",
-          "c": 141.7
-        },
-        {
-          "d": "06-05",
-          "c": 135.53
-        },
-        {
-          "d": "06-08",
-          "c": 136.47
-        },
-        {
-          "d": "06-09",
-          "c": 132.07
-        },
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        },
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        }
-      ]
-    },
-    {
-      "id": "92ce9719199d5465",
-      "date": "Tue, 19 May 2026",
-      "ts": "2026-05-19T07:00:00+00:00",
-      "date_display": "May 19, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump bought Palantir shares weeks before public praise - MSN Trump bought",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 130.63,
-      "change": -1.97,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0ptcjZLem9DVXZMeFp3TVVrN01VNFpIeEpTa3V0YXRpNGNEMHRaQ3puMEx4MkVtV1FPSjdfSXk5RGJYck1YMGJweG9KRzE0blVCb3ZaaFJVUnNUNTN4U2RjWnkyZTFhMmJEWGdmNzg4enNjQm00RzJGTXNFUW4wWHZIOG9nNnk4S1VVVkFXUVJjLTZLdUUxM2RGS0ItelFJeEZqQTEyTlM1bGNOTVhlWG5lRjlHQU42UzkyRVZ4Z0FSSmlwbnc2UEJ4OUpjTGQ0OWVBVFdKNlNTTHluZktCaGFZN3JxajNEeGV2S2hR?oc=5",
-      "image": null,
-      "headline": "Trump bought Palantir shares weeks before public praise - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 135.26
-        },
-        {
-          "d": "05-20",
-          "c": 137.15
-        },
-        {
-          "d": "05-21",
-          "c": 137.41
-        },
-        {
-          "d": "05-22",
-          "c": 136.88
-        },
-        {
-          "d": "05-26",
-          "c": 136.6
-        },
-        {
-          "d": "05-27",
-          "c": 132.51
-        },
-        {
-          "d": "05-28",
-          "c": 143.34
-        },
-        {
-          "d": "05-29",
-          "c": 156.54
-        },
-        {
-          "d": "06-01",
-          "c": 160.65
-        },
-        {
-          "d": "06-02",
-          "c": 152.17
-        },
-        {
-          "d": "06-03",
-          "c": 142.2
-        },
-        {
-          "d": "06-04",
-          "c": 141.7
-        },
-        {
-          "d": "06-05",
-          "c": 135.53
-        },
-        {
-          "d": "06-08",
-          "c": 136.47
-        },
-        {
-          "d": "06-09",
-          "c": 132.07
-        },
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        },
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        }
-      ]
-    },
-    {
-      "id": "2888685510cd84d9",
-      "date": "Mon, 18 May 2026",
-      "ts": "2026-05-18T07:00:00+00:00",
-      "date_display": "May 18, 2026",
-      "source": "American Enterprise Institute - AEI",
-      "type": "news",
-      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - American Enterprise",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 208.65,
-      "change": -0.97,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOElDbVZkeUExNFZ6aVZQd1VGSFMzNW9KMGZMR1BGWGo4MjNEOWhDdFVDQVpjTHF0cGsySnZZUk82QldqWWFWVjdNdlozdWJKUk5VMThnR3pzdW5CTlhCZlpFQUx5WGhUMGxHNXhLUTVPX3RTLXc1d080MHJRTzgzeC1QUTNhNHBqSkdLR29oNUdfQXB0ZVE?oc=5",
-      "image": null,
-      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - American Enterprise Institute - AEI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 214.61
-        },
-        {
-          "d": "05-27",
-          "c": 212.35
-        },
-        {
-          "d": "05-28",
-          "c": 214.0
-        },
-        {
-          "d": "05-29",
-          "c": 210.89
-        },
-        {
-          "d": "06-01",
-          "c": 224.1
-        },
-        {
-          "d": "06-02",
-          "c": 222.56
-        },
-        {
-          "d": "06-03",
-          "c": 214.5
-        },
-        {
-          "d": "06-04",
-          "c": 218.66
-        },
-        {
-          "d": "06-05",
-          "c": 205.1
-        },
-        {
-          "d": "06-08",
-          "c": 208.64
-        },
-        {
-          "d": "06-09",
-          "c": 208.19
-        },
-        {
-          "d": "06-10",
-          "c": 200.42
-        },
-        {
-          "d": "06-11",
-          "c": 204.87
-        },
-        {
-          "d": "06-12",
-          "c": 205.19
-        },
-        {
-          "d": "06-15",
-          "c": 212.45
-        },
-        {
-          "d": "06-16",
-          "c": 207.41
-        },
-        {
-          "d": "06-17",
-          "c": 204.65
-        },
-        {
-          "d": "06-18",
-          "c": 210.69
-        },
-        {
-          "d": "06-22",
-          "c": 208.65
         }
       ]
     }
