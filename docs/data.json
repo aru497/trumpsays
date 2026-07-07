@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-07T21:13:29.137930+00:00",
+  "updated_at": "2026-07-07T22:34:44.895726+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "58baaf5e4eb01d24",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T22:25:39+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "a judge to quash the subpoena, arguing it was meant to \"target, harass and punish the President's perceived political",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 127.55,
+      "change": 1.15,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/judge-rejects-justice-departments-unreasonable-attempt-to-get-names-of-2020-election-workers-in-fulton-county",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2024/09/votetape-1024x683.jpg",
+      "headline": "Judge rejects Justice Department's 'unreasonable' attempt to get names of 2020 election workers in Fulton County",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 123.97
+        },
+        {
+          "d": "06-09",
+          "c": 126.61
+        },
+        {
+          "d": "06-10",
+          "c": 127.98
+        },
+        {
+          "d": "06-11",
+          "c": 132.64
+        },
+        {
+          "d": "06-12",
+          "c": 135.23
+        },
+        {
+          "d": "06-15",
+          "c": 133.17
+        },
+        {
+          "d": "06-16",
+          "c": 133.4
+        },
+        {
+          "d": "06-17",
+          "c": 127.81
+        },
+        {
+          "d": "06-18",
+          "c": 130.74
+        },
+        {
+          "d": "06-22",
+          "c": 129.73
+        },
+        {
+          "d": "06-23",
+          "c": 134.11
+        },
+        {
+          "d": "06-24",
+          "c": 141.2
+        },
+        {
+          "d": "06-25",
+          "c": 139.57
+        },
+        {
+          "d": "06-26",
+          "c": 140.39
+        },
+        {
+          "d": "06-29",
+          "c": 133.92
+        },
+        {
+          "d": "06-30",
+          "c": 130.61
+        },
+        {
+          "d": "07-01",
+          "c": 130.29
+        },
+        {
+          "d": "07-02",
+          "c": 130.21
+        },
+        {
+          "d": "07-06",
+          "c": 126.1
+        },
+        {
+          "d": "07-07",
+          "c": 127.55
+        }
+      ]
+    },
     {
       "id": "994a040669f440ce",
       "date": "Tue, 07 Jul 2026",
@@ -12274,6 +12374,106 @@
         {
           "d": "06-24",
           "c": 7.52
+        }
+      ]
+    },
+    {
+      "id": "f5b36cb1c0908ce0",
+      "date": "Thu, 25 Jun 2026",
+      "ts": "2026-06-25T07:00:00+00:00",
+      "date_display": "Jun 25, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "DJT Stock Hits All-Time Low - Forbes DJT Stock Hits All-Time",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 8.13,
+      "change": -6.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTduMUF5M0ZrWUN3b0p1bjZBbkljZHF0bzh6RHpqYlFHd0dodlBwczJMSndvRGh6akNhVGxFZzZYTzdUNml0QUNuODNjTWRvSWM0LW51UTFxRkltMElMaXVOZTJIaUVnMEV0RUpjYkJ0RThmZjNpdWJMaXJLMXpFblBQUVF2SlROR1FUemoxdVlaQllkQVhBRGNIdFQ0X1FTQ2pZTGRzWFJSZ21fX3F1X1lyS0xLLVk?oc=5",
+      "image": null,
+      "headline": "DJT Stock Hits All-Time Low - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
         }
       ]
     },
@@ -40006,222 +40206,6 @@
         {
           "d": "06-12",
           "c": 981.61
-        }
-      ]
-    },
-    {
-      "id": "3d5719459d8616b6",
-      "date": "Wed, 27 May 2026",
-      "ts": "2026-05-27T07:00:00+00:00",
-      "date_display": "May 27, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Donald Trump Shouted Out Intel, Then Dell, Then Micron: Look At His Own Stock Filings To See Who May",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 395.57,
-      "change": 1.05,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUk4VzdQMkg5RzBkZmYwWHZNNVd2T0drTDZKU1RnN0tYVFp6RWJnWk5iRnh3MDVfU0YzWEVsRC1MUmc1eUFUZzVUWm12YjVQY3Fyc3cxOWFicmJGdGd6NW5rZmVHZ3BJckMySUZkSnAwS1NDc3Vxc0kteGc1YjNuOVg1S1ZzX3JsbUw0eDFyVkx1djBQQzF6SHF1bS0?oc=5",
-      "image": null,
-      "headline": "Donald Trump Shouted Out Intel, Then Dell, Then Micron: Look At His Own Stock Filings To See Who May Get The Next Shoutout - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 243.87
-        },
-        {
-          "d": "05-14",
-          "c": 247.89
-        },
-        {
-          "d": "05-15",
-          "c": 241.99
-        },
-        {
-          "d": "05-18",
-          "c": 238.03
-        },
-        {
-          "d": "05-19",
-          "c": 235.26
-        },
-        {
-          "d": "05-20",
-          "c": 242.93
-        },
-        {
-          "d": "05-21",
-          "c": 252.8
-        },
-        {
-          "d": "05-22",
-          "c": 295.19
-        },
-        {
-          "d": "05-26",
-          "c": 305.08
-        },
-        {
-          "d": "05-27",
-          "c": 305.32
-        },
-        {
-          "d": "05-28",
-          "c": 317.05
-        },
-        {
-          "d": "05-29",
-          "c": 420.91
-        },
-        {
-          "d": "06-01",
-          "c": 465.96
-        },
-        {
-          "d": "06-02",
-          "c": 435.31
-        },
-        {
-          "d": "06-03",
-          "c": 421.08
-        },
-        {
-          "d": "06-04",
-          "c": 422.05
-        },
-        {
-          "d": "06-05",
-          "c": 394.39
-        },
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        }
-      ]
-    },
-    {
-      "id": "2cdc5418f00061f8",
-      "date": "Wed, 27 May 2026",
-      "ts": "2026-05-27T07:00:00+00:00",
-      "date_display": "May 27, 2026",
-      "source": "Stock Titan",
-      "type": "news",
-      "quote": "Trump Media (NASDAQ: DJT) files to sell 17,355 restricted shares -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUVWeWM2dHczdEh3OUM3bzRibWwtcjcwTVZaZGN5TmYzR0dnLWdPaU5zaWgtNUZQWXBJenZhNE1FN0NmdFdveWc5UHZneGhzaE41UGp1OWFyQVpiaHRuN01PSnlYeV9HLXFXU2VHYXlBT1M3ZHhyLWJKMXFQaFVDR2E2ZmJIZWdRWWJDMTNFOHRTc3AzVWhzM0J2d1U2cnhMNVZlLVdrZ0ExV2JVQVE?oc=5",
-      "image": null,
-      "headline": "Trump Media (NASDAQ: DJT) files to sell 17,355 restricted shares - Stock Titan",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
         }
       ]
     }
