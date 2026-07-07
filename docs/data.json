@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-07T15:38:53.112652+00:00",
+  "updated_at": "2026-07-07T17:50:11.298913+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "244b040e3b715180",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T16:32:50+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "Yellow.com",
+      "type": "news",
+      "quote": "Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 422.94,
+      "change": 2.71,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bks4WVpUVlpSeDItT0tBR2d0QjBDV1RaOXZuZk1mUnJpS2s4ZlRSSGZHeVg2clRkWXpkX1BsNTZVa2NtRVZkeC0tX09JdHJzRXhkUEpxYw?oc=5",
+      "image": null,
+      "headline": "Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy - Yellow.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.8
+        },
+        {
+          "d": "07-07",
+          "c": 422.94
+        }
+      ]
+    },
     {
       "id": "bd571071ded237ca",
       "date": "Tue, 07 Jul 2026",
@@ -99,6 +199,206 @@
         {
           "d": "07-07",
           "c": 111.86
+        }
+      ]
+    },
+    {
+      "id": "8aaffe40f40b2a3b",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T14:30:29+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "oil flowing despite Iran threats, Energy secretary says - Fox Business Trump's leadership kept global oil flowing",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 49.84,
+      "change": -0.12,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uM0VYVV96WUxGOWlCa3hTVy1vNEdCd2QxZ0E2eW5mdXlHSzBzYzZhY1FyZFRvTjl1MTkySmtma25FZDNHckxOOFpPOUl6VFl5Q3FhN21NdFpkcTA?oc=5",
+      "image": null,
+      "headline": "Trump's leadership kept global oil flowing despite Iran threats, Energy secretary says - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 60.34
+        },
+        {
+          "d": "06-09",
+          "c": 60.9
+        },
+        {
+          "d": "06-10",
+          "c": 61.03
+        },
+        {
+          "d": "06-11",
+          "c": 61.36
+        },
+        {
+          "d": "06-12",
+          "c": 58.92
+        },
+        {
+          "d": "06-15",
+          "c": 49.96
+        },
+        {
+          "d": "06-16",
+          "c": 47.95
+        },
+        {
+          "d": "06-17",
+          "c": 46.73
+        },
+        {
+          "d": "06-18",
+          "c": 46.95
+        },
+        {
+          "d": "06-22",
+          "c": 44.93
+        },
+        {
+          "d": "06-23",
+          "c": 44.55
+        },
+        {
+          "d": "06-24",
+          "c": 45.37
+        },
+        {
+          "d": "06-25",
+          "c": 44.39
+        },
+        {
+          "d": "06-26",
+          "c": 45.91
+        },
+        {
+          "d": "06-29",
+          "c": 45.71
+        },
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.84
+        }
+      ]
+    },
+    {
+      "id": "b5c7d4d7add2a750",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T12:47:00+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "Trump says Walmart cut prices at his request, but Walmart doesn't mention the",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 111.83,
+      "change": 1.07,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12RGZMazRkRG1iR01KYnNldW5GekxVQzRkV2dzN1pXVkxuQV9NQThNNHlZazRWWE5SUGpmRG1oczFLRU4xcmtzWXJpLXFzenZIQ2NuWTY4YnY2MWR6ZWxCaXExVktuVjFXTk5nNzdueGlCbUgt?oc=5",
+      "image": null,
+      "headline": "Trump says Walmart cut prices at his request, but Walmart doesn't mention the president - Fortune",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        },
+        {
+          "d": "07-07",
+          "c": 111.83
         }
       ]
     },
@@ -39934,322 +40234,6 @@
         {
           "d": "06-29",
           "c": 7.14
-        }
-      ]
-    },
-    {
-      "id": "14b031e08b97b8bf",
-      "date": "Tue, 26 May 2026",
-      "ts": "2026-05-26T07:00:00+00:00",
-      "date_display": "May 26, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "attacks, assassination attempts against President Trump - Fox Business Timeline reveals numerous attacks, assassination",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.92,
-      "change": -3.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GbF9sRHR0QUhJYlZJUkZuTjdTcG5iSXVtUzktYzNteWNUNGdDako2dXE2YVEySTlJT0JJWW5FSWJEZk5DSjVrZXdaSDRuRUtjOW9vVmMzZThULVU?oc=5",
-      "image": null,
-      "headline": "Timeline reveals numerous attacks, assassination attempts against President Trump - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 59.47
-        },
-        {
-          "d": "05-14",
-          "c": 58.6
-        },
-        {
-          "d": "05-15",
-          "c": 57.87
-        },
-        {
-          "d": "05-18",
-          "c": 58.99
-        },
-        {
-          "d": "05-19",
-          "c": 58.09
-        },
-        {
-          "d": "05-20",
-          "c": 57.38
-        },
-        {
-          "d": "05-21",
-          "c": 57.63
-        },
-        {
-          "d": "05-22",
-          "c": 57.24
-        },
-        {
-          "d": "05-26",
-          "c": 58.08
-        },
-        {
-          "d": "05-27",
-          "c": 58.62
-        },
-        {
-          "d": "05-28",
-          "c": 59.23
-        },
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        }
-      ]
-    },
-    {
-      "id": "30943a189a3dc3d3",
-      "date": "Mon, 25 May 2026",
-      "ts": "2026-05-25T07:00:00+00:00",
-      "date_display": "May 25, 2026",
-      "source": "thegazette.com",
-      "type": "news",
-      "quote": "In flurry of trading activity, Trump purchases John Deere stock - thegazette.com In flurry of trading activity,",
-      "company": "Deere",
-      "ticker": "DE",
-      "price": 585.29,
-      "change": 1.71,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNREFJbmlzQ0tzYmRHTTRHdVJxbHltQjV1SVpETHFPemF0cUZiaFBTejNOcU1GcDBzRk51bm5xbTdaZDhsdDA5UjlzOUExUTBvSUdOWU5Idl9TOVMzU1BNTldBRzdlb0tIN08ta1RQQlRHOVdDa0hMazduejNrcWZMYUV5NGNPOF83YzkyZ2tUMHBLa1FsNlZiWGVIMDlVSlVEdUdTWGlBNDZpQzh6aDBqaHZKek92Z203MXBLRXFwMzJld2s2b3FES1hrSGVrTXFERTJ0T0VZbzdyNEk3?oc=5",
-      "image": null,
-      "headline": "In flurry of trading activity, Trump purchases John Deere stock - thegazette.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 564.49
-        },
-        {
-          "d": "05-19",
-          "c": 558.07
-        },
-        {
-          "d": "05-20",
-          "c": 560.46
-        },
-        {
-          "d": "05-21",
-          "c": 531.35
-        },
-        {
-          "d": "05-22",
-          "c": 529.15
-        },
-        {
-          "d": "05-26",
-          "c": 529.12
-        },
-        {
-          "d": "05-27",
-          "c": 529.39
-        },
-        {
-          "d": "05-28",
-          "c": 539.0
-        },
-        {
-          "d": "05-29",
-          "c": 542.18
-        },
-        {
-          "d": "06-01",
-          "c": 542.43
-        },
-        {
-          "d": "06-02",
-          "c": 579.25
-        },
-        {
-          "d": "06-03",
-          "c": 588.29
-        },
-        {
-          "d": "06-04",
-          "c": 591.75
-        },
-        {
-          "d": "06-05",
-          "c": 583.44
-        },
-        {
-          "d": "06-08",
-          "c": 573.66
-        },
-        {
-          "d": "06-09",
-          "c": 577.33
-        },
-        {
-          "d": "06-10",
-          "c": 560.05
-        },
-        {
-          "d": "06-11",
-          "c": 568.64
-        },
-        {
-          "d": "06-12",
-          "c": 577.48
-        },
-        {
-          "d": "06-15",
-          "c": 575.47
-        },
-        {
-          "d": "06-16",
-          "c": 585.29
-        }
-      ]
-    },
-    {
-      "id": "3f1fc18777ea3aac",
-      "date": "Sun, 24 May 2026",
-      "ts": "2026-05-24T07:00:00+00:00",
-      "date_display": "May 24, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance Trump traded",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 299.24,
-      "change": 0.95,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHM5d2N2eW5McUQ5dW9GS2hjdDN0WDhZZzNiS05BTGVCRThnX2dqazdRSExXd016R1J4ZDlSc1VzOFJVQUNSekJIQ1huamtPZGQ5bDVSaTgyVGo5ZVI4VUU5akNlNFBUdnZ1MFA0Y1o1R1RKdHdleFlJc3hvdURPU0swRUJ2cEgtNDVjR3diWEVZSFJ5akhRZGJIdTV4N0tyOWFrVVF1UDdZaUdwZjBrSGVWeEtqbkFGQ2NTM1F1SkRyNHI2ZlVROHNKdkgxSVlsaUI5YUFrQkZOaWhjMktkdGlNdDM5aFhUSDBiWFNzbWg1ZWtvOUFJUl9keUhNb2lUclc3c2g5Wi1sUQ?oc=5",
-      "image": null,
-      "headline": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 297.84
-        },
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
         }
       ]
     }
