@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-08T04:40:31.380439+00:00",
+  "updated_at": "2026-07-08T07:22:06.895207+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1a594091ddd65f3e",
+      "date": "Wed, 08 Jul 2026",
+      "ts": "2026-07-08T06:14:28+00:00",
+      "date_display": "Jul 08, 2026",
+      "source": "Stocktwits",
+      "type": "news",
+      "quote": "DJT Stock In Focus: Federal Judge Throws Out Trump Media Defamation Lawsuit Against The Washington Post -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.13,
+      "change": -6.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYl9lWGpiQ0VPVmQtUjZwQ3NCQ084S05PSzNmRmJlZWZXdmwwaVV4Y1dGc3JjM09JSE5hRUo2amRvRlk5ODNkcVptTmpwSGtSZ3NBazA5dWZveWlfMUVua3c5M29oci1pWGR6QmVWNEJ6VUlieVljSzRHNWxhd0FVMTkyc29aZVE3VVhtaE11TXl5Q2VaaklhbDE2a1o3RF9UNmNrdm5fRDlPblZjcG4yUEJyd2l0NTE1ZVRLekl3UnM2SzhBUk1IVUpOZFR3TllwdFNERFpCWjVrNVctOFZCVXl4Q1ZOUzBacTlCWmpPS19faFJuSmZIbXV3?oc=5",
+      "image": null,
+      "headline": "DJT Stock In Focus: Federal Judge Throws Out Trump Media Defamation Lawsuit Against The Washington Post - Stocktwits",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        }
+      ]
+    },
     {
       "id": "dd156b9e96ef4d62",
       "date": "Tue, 07 Jul 2026",
@@ -1099,6 +1199,106 @@
         {
           "d": "07-07",
           "c": 407.05
+        }
+      ]
+    },
+    {
+      "id": "991886a36d1ec929",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T11:15:04+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "TIKR.com",
+      "type": "news",
+      "quote": "Dell Stock Surges After President Trump Promotes Computer Maker",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 417.28,
+      "change": 1.33,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFVEczJwT1R2cUdZNlVlWWhxcG5RMWFrTkRFNVY5ckRaQU9sZkFkU1NDckVXeVFvc3kwOW93b3RrSjVHbzltSTdmRlgzcHRKWUxGMzQ4N3dicWVWRzhfdnhxRzFTN3NZMHZISFE4NUV3MVVaOUNQTUVEU25KT2xLdEl1VE1oWGdmUnZiZ1haS3htdl9XSmVJRU5IOVJBSmJGOUZHTTdGYjROR1NZaUNF?oc=5",
+      "image": null,
+      "headline": "Dell Stock Surges After President Trump Promotes Computer Maker at White House Event - TIKR.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 400.77
+        },
+        {
+          "d": "06-09",
+          "c": 381.78
+        },
+        {
+          "d": "06-10",
+          "c": 369.83
+        },
+        {
+          "d": "06-11",
+          "c": 391.45
+        },
+        {
+          "d": "06-12",
+          "c": 395.57
+        },
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.8
+        },
+        {
+          "d": "07-07",
+          "c": 417.28
         }
       ]
     },
@@ -39994,210 +40194,6 @@
         {
           "d": "06-12",
           "c": 395.57
-        }
-      ]
-    },
-    {
-      "id": "f25e0489d61acfa7",
-      "date": "Thu, 28 May 2026",
-      "ts": "2026-05-28T07:00:00+00:00",
-      "date_display": "May 28, 2026",
-      "source": "The Washington Post",
-      "type": "news",
-      "quote": "Opinion | Please take your Intel winnings, sir, and exit the casino - The Washington Post",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 124.57,
-      "change": 6.51,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1c0aEhiOFJjUldWbUoxdlVzQktaSUpDcmgzT295NW5LUE5zeWlNV3ByODRxLVV0Q182N0dKMWVJVUljMkVpM1ljS2diVVlCOGh1ZFFDQ0ZOYWxoUEV0Qk1rZkpFdEZuUG0yV1o2WGtJNUhZWFA2SEFONjRON1lKMzZiemhTVXRzX0pnT1p5Z1BFTmU5RGFSaTh5c3d2NE8xT0padkszdw?oc=5",
-      "image": null,
-      "headline": "Opinion | Please take your Intel winnings, sir, and exit the casino - The Washington Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 108.17
-        },
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        }
-      ]
-    },
-    {
-      "id": "89ce0e95e24fc3c4",
-      "date": "Wed, 27 May 2026",
-      "ts": "2026-05-27T07:00:00+00:00",
-      "date_display": "May 27, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Donald Trump Shouted Out Intel, Then Dell, Then Micron: Look At His Own Stock Filings To",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 124.57,
-      "change": 6.51,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUk4VzdQMkg5RzBkZmYwWHZNNVd2T0drTDZKU1RnN0tYVFp6RWJnWk5iRnh3MDVfU0YzWEVsRC1MUmc1eUFUZzVUWm12YjVQY3Fyc3cxOWFicmJGdGd6NW5rZmVHZ3BJckMySUZkSnAwS1NDc3Vxc0kteGc1YjNuOVg1S1ZzX3JsbUw0eDFyVkx1djBQQzF6SHF1bS0?oc=5",
-      "image": null,
-      "headline": "Donald Trump Shouted Out Intel, Then Dell, Then Micron: Look At His Own Stock Filings To See Who May Get The Next Shoutout - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 120.29
-        },
-        {
-          "d": "05-14",
-          "c": 115.93
-        },
-        {
-          "d": "05-15",
-          "c": 108.77
-        },
-        {
-          "d": "05-18",
-          "c": 108.17
-        },
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
         }
       ]
     }
