@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-07T23:44:30.578954+00:00",
+  "updated_at": "2026-07-08T01:26:07.050040+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "dd156b9e96ef4d62",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T22:46:00+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "The Arkansas Democrat-Gazette",
+      "type": "news",
+      "quote": "Walmart announces price cuts; Trump claims White House influence -",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 111.54,
+      "change": 0.8,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVlTMWJZWE5xWFRXUTZTUFZtSEZiVmlfOTFHQ0tJM3dXQ184Zzh5b0Z6UW1VOG1VeUc1TlZzQjhPWXlGZE5IZUpPeUJHbnRpeUM0RUZtYjhFU2pDZ05XR0tWTU4zRDF3S0JWSWVRS2NrOGF6ZUNnYzZTWnlLam9yUW1xVlhRMlJtZVV2ZHIxRGw0c2FaZVFhdzgxQjI?oc=5",
+      "image": null,
+      "headline": "Walmart announces price cuts; Trump claims White House influence - The Arkansas Democrat-Gazette",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 119.83
+        },
+        {
+          "d": "06-09",
+          "c": 118.88
+        },
+        {
+          "d": "06-10",
+          "c": 120.59
+        },
+        {
+          "d": "06-11",
+          "c": 120.5
+        },
+        {
+          "d": "06-12",
+          "c": 121.04
+        },
+        {
+          "d": "06-15",
+          "c": 120.82
+        },
+        {
+          "d": "06-16",
+          "c": 121.03
+        },
+        {
+          "d": "06-17",
+          "c": 118.13
+        },
+        {
+          "d": "06-18",
+          "c": 117.18
+        },
+        {
+          "d": "06-22",
+          "c": 117.18
+        },
+        {
+          "d": "06-23",
+          "c": 119.42
+        },
+        {
+          "d": "06-24",
+          "c": 119.0
+        },
+        {
+          "d": "06-25",
+          "c": 115.78
+        },
+        {
+          "d": "06-26",
+          "c": 115.69
+        },
+        {
+          "d": "06-29",
+          "c": 114.6
+        },
+        {
+          "d": "06-30",
+          "c": 113.26
+        },
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        },
+        {
+          "d": "07-07",
+          "c": 111.54
+        }
+      ]
+    },
     {
       "id": "58baaf5e4eb01d24",
       "date": "Tue, 07 Jul 2026",
@@ -40098,114 +40198,6 @@
         {
           "d": "06-12",
           "c": 124.57
-        }
-      ]
-    },
-    {
-      "id": "50c12bbb6154d125",
-      "date": "Wed, 27 May 2026",
-      "ts": "2026-05-27T07:00:00+00:00",
-      "date_display": "May 27, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Donald Trump Shouted Out Intel, Then Dell, Then Micron: Look At His Own Stock Filings To See Who May Get The Next",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 981.61,
-      "change": -1.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUk4VzdQMkg5RzBkZmYwWHZNNVd2T0drTDZKU1RnN0tYVFp6RWJnWk5iRnh3MDVfU0YzWEVsRC1MUmc1eUFUZzVUWm12YjVQY3Fyc3cxOWFicmJGdGd6NW5rZmVHZ3BJckMySUZkSnAwS1NDc3Vxc0kteGc1YjNuOVg1S1ZzX3JsbUw0eDFyVkx1djBQQzF6SHF1bS0?oc=5",
-      "image": null,
-      "headline": "Donald Trump Shouted Out Intel, Then Dell, Then Micron: Look At His Own Stock Filings To See Who May Get The Next Shoutout - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 803.63
-        },
-        {
-          "d": "05-14",
-          "c": 776.01
-        },
-        {
-          "d": "05-15",
-          "c": 724.66
-        },
-        {
-          "d": "05-18",
-          "c": 681.54
-        },
-        {
-          "d": "05-19",
-          "c": 698.74
-        },
-        {
-          "d": "05-20",
-          "c": 731.99
-        },
-        {
-          "d": "05-21",
-          "c": 762.1
-        },
-        {
-          "d": "05-22",
-          "c": 751.0
-        },
-        {
-          "d": "05-26",
-          "c": 895.88
-        },
-        {
-          "d": "05-27",
-          "c": 928.41
-        },
-        {
-          "d": "05-28",
-          "c": 923.52
-        },
-        {
-          "d": "05-29",
-          "c": 971.0
-        },
-        {
-          "d": "06-01",
-          "c": 1035.5
-        },
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
         }
       ]
     }
