@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-08T17:17:26.624303+00:00",
+  "updated_at": "2026-07-08T18:52:14.195976+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5b2967df3941b8ca",
+      "date": "Wed, 08 Jul 2026",
+      "ts": "2026-07-08T17:30:00+00:00",
+      "date_display": "Jul 08, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "investor Brad Gerstner predicts $100B in new commitments - Fox Business Corporate America backs Trump Accounts as",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 48.38,
+      "change": -1.67,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREZYb0N4aXo0a3I5RjU3NEZ3RGRQb25TRzlyNUNoNDhWN0x0SVpCODFiVEtweGNFU2hnOWxhNUJITjRvMURsRWlKbmtidlc2Qjg2RUJ0TUhKeUdtLVBMSDlMalA3TzlJN1JwanFyOE13c3Q5QUxpdWhUSldNcnctRDE0VjRNcEEwV2RoMjJkaUJERFB6YkNnU3h2bkp3Tzc0ZUxMTkduV0dFb2Y0ZWpKRGppU05IbEViWlpRVGVibWtwZ2fSAcgBQVVfeXFMUDcyS3ZLaU94Y3kzYmZzSjFBWWNTSlVWUDRseTZhNEhZZ3ZueXh3X0YxOE9ZTTY5SmE5VzZlOHRzS2t6RW9DanpyQjQzSElLbGVJNk5zMTZmdHdyMjNwMnpVNGxHMTNncDdqb25MYVdFbG1wOFQyaEcxZzQ1QUpJUVlMTGtYNjJlTmdtNURmanZEb3FVaGVfNWNTMXBLRnRkbm5TZnhTMTdOcllHU3ljZ2RPWDRaYTg4ZjI1TXJGWkJFYXFTUWZDbTY?oc=5",
+      "image": null,
+      "headline": "Corporate America backs Trump Accounts as investor Brad Gerstner predicts $100B in new commitments - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 60.34
+        },
+        {
+          "d": "06-09",
+          "c": 60.9
+        },
+        {
+          "d": "06-10",
+          "c": 61.03
+        },
+        {
+          "d": "06-11",
+          "c": 61.36
+        },
+        {
+          "d": "06-12",
+          "c": 58.92
+        },
+        {
+          "d": "06-15",
+          "c": 49.96
+        },
+        {
+          "d": "06-16",
+          "c": 47.95
+        },
+        {
+          "d": "06-17",
+          "c": 46.73
+        },
+        {
+          "d": "06-18",
+          "c": 46.95
+        },
+        {
+          "d": "06-22",
+          "c": 44.93
+        },
+        {
+          "d": "06-23",
+          "c": 44.55
+        },
+        {
+          "d": "06-24",
+          "c": 45.37
+        },
+        {
+          "d": "06-25",
+          "c": 44.39
+        },
+        {
+          "d": "06-26",
+          "c": 45.91
+        },
+        {
+          "d": "06-29",
+          "c": 45.71
+        },
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 48.38
+        }
+      ]
+    },
     {
       "id": "d43ff6864a291795",
       "date": "Wed, 08 Jul 2026",
@@ -103,6 +207,110 @@
         {
           "d": "07-08",
           "c": 393.34
+        }
+      ]
+    },
+    {
+      "id": "1da48153ab4aac8a",
+      "date": "Wed, 08 Jul 2026",
+      "ts": "2026-07-08T12:07:00+00:00",
+      "date_display": "Jul 08, 2026",
+      "source": "Saudi Gazette",
+      "type": "news",
+      "quote": "Judge tosses Trump Media\u2019s $3.8bn defamation suit against The Washington Post -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.24,
+      "change": 1.35,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBacmE2bzc0c0poMVEzNGVQM1NqYlMtdHd6VXlPaEVPMUNNbTZPVEUtVk56eEtJRW92NjFQVTVTb2daUHhGZjIxYWVNM0Fza2hkRFFWQw?oc=5",
+      "image": null,
+      "headline": "Judge tosses Trump Media\u2019s $3.8bn defamation suit against The Washington Post - Saudi Gazette",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-08",
+          "c": 8.15
+        },
+        {
+          "d": "06-09",
+          "c": 8.16
+        },
+        {
+          "d": "06-10",
+          "c": 7.79
+        },
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.24
         }
       ]
     },
@@ -39885,222 +40093,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWhycV9KMlBDUlZud1g2MHlGWnV4M1hGaUZjVXNRS3dzckppOXliU2hjYm1fS3VJRlJhR1plRXVqa1JMUHEwNXNHMTZudG1yQU53VXVGUVpHLXh3aE9vdUxiZGxvQWpIaUE0NGRObXA4MWJidS1pdDNwRVZodXM3SkEyVms?oc=5",
       "image": null,
       "headline": "Dell Gets a $9.7 Billion Defense Contract. Trump\u2019s Portfolio Stands to Benefit. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 243.87
-        },
-        {
-          "d": "05-14",
-          "c": 247.89
-        },
-        {
-          "d": "05-15",
-          "c": 241.99
-        },
-        {
-          "d": "05-18",
-          "c": 238.03
-        },
-        {
-          "d": "05-19",
-          "c": 235.26
-        },
-        {
-          "d": "05-20",
-          "c": 242.93
-        },
-        {
-          "d": "05-21",
-          "c": 252.8
-        },
-        {
-          "d": "05-22",
-          "c": 295.19
-        },
-        {
-          "d": "05-26",
-          "c": 305.08
-        },
-        {
-          "d": "05-27",
-          "c": 305.32
-        },
-        {
-          "d": "05-28",
-          "c": 317.05
-        },
-        {
-          "d": "05-29",
-          "c": 420.91
-        },
-        {
-          "d": "06-01",
-          "c": 465.96
-        },
-        {
-          "d": "06-02",
-          "c": 435.31
-        },
-        {
-          "d": "06-03",
-          "c": 421.08
-        },
-        {
-          "d": "06-04",
-          "c": 422.05
-        },
-        {
-          "d": "06-05",
-          "c": 394.39
-        },
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        }
-      ]
-    },
-    {
-      "id": "2b1a9c39cbb27bf8",
-      "date": "Thu, 28 May 2026",
-      "ts": "2026-05-28T07:00:00+00:00",
-      "date_display": "May 28, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Michael Dell courted Trump early. His company has reaped rewards - CNBC",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 395.57,
-      "change": 1.05,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMVMxcF9ESkN0S3hEQ1U5bFNPdjlTSFh1MllqLVlwc1N6VkhLWll4VVNlZlRhQmszTnZvMDhEQnphek9FMkpjN1dUYmdwOVhJQUxnVXpGdWxqVTVaSlRLaWZhNUNDd05zRXlXeFV0WnBOUFpCbnlj0gF8QVVfeXFMTlhBUjFGbk9RY3hKTGktSVZwcnpLTHVaSnhTYmpnWk9vQUhIWXVoRTlTNl8waXFuLVJjVUROZ2J5WkM1aFlaNUVyZWJHaVpVcktZQnJWSE4wc0d2bEpCUWIzelhhdVRSUUZKZ1pRUk1YY1RpY3l1eDhkemFCOQ?oc=5",
-      "image": null,
-      "headline": "Michael Dell courted Trump early. His company has reaped rewards - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 243.87
-        },
-        {
-          "d": "05-14",
-          "c": 247.89
-        },
-        {
-          "d": "05-15",
-          "c": 241.99
-        },
-        {
-          "d": "05-18",
-          "c": 238.03
-        },
-        {
-          "d": "05-19",
-          "c": 235.26
-        },
-        {
-          "d": "05-20",
-          "c": 242.93
-        },
-        {
-          "d": "05-21",
-          "c": 252.8
-        },
-        {
-          "d": "05-22",
-          "c": 295.19
-        },
-        {
-          "d": "05-26",
-          "c": 305.08
-        },
-        {
-          "d": "05-27",
-          "c": 305.32
-        },
-        {
-          "d": "05-28",
-          "c": 317.05
-        },
-        {
-          "d": "05-29",
-          "c": 420.91
-        },
-        {
-          "d": "06-01",
-          "c": 465.96
-        },
-        {
-          "d": "06-02",
-          "c": 435.31
-        },
-        {
-          "d": "06-03",
-          "c": 421.08
-        },
-        {
-          "d": "06-04",
-          "c": 422.05
-        },
-        {
-          "d": "06-05",
-          "c": 394.39
-        },
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        }
-      ]
-    },
-    {
-      "id": "eed398c0955a899e",
-      "date": "Thu, 28 May 2026",
-      "ts": "2026-05-28T07:00:00+00:00",
-      "date_display": "May 28, 2026",
-      "source": "HuffPost",
-      "type": "news",
-      "quote": "Trump Bought Lots Of Dell Stock \u2014 Then The Pentagon Gave Dell A $9.7 Billion",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 395.57,
-      "change": 1.05,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGQ0WTRiS3hUSjBHbTVyRGk5Y19ENkFWd1dEb3p3OXNKNzItWGkxR0FtdkdmT1dsdVBPSG5QVjhKeDBWNko4T1F5X3pjV0RkXzNMZko5eEp3VmFjaVl2c3IySnZrbGlRS2cybnJZMXRXMEsySEEwekUtbm9WUFJabC14VFBBWllCWUVhaTdZd9IBlAFBVV95cUxOU1cyaU9ramROQVZUSHNITl8zYXdkZHBvRk9tTGR3R2o3STRodm1kT2djcWtXRy1fRlNhZTUwR0pWcUh2V3NKUXM5RE5Zak9EQzYyNGtkbkFkQ3VhWWtEeVEyLVFTUGxqZEJWY2NxOHo2TmJ5N21HMmhtQW4tVG1Ma0w3MzNQVFRMbE9GY2tFR3RmRTNE?oc=5",
-      "image": null,
-      "headline": "Trump Bought Lots Of Dell Stock \u2014 Then The Pentagon Gave Dell A $9.7 Billion Contract - HuffPost",
       "channel": "News",
       "series": [
         {
