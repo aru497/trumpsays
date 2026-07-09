@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-09T06:43:19.226737+00:00",
+  "updated_at": "2026-07-09T15:51:23.057362+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e4b49dd06f3f2284",
+      "date": "Thu, 09 Jul 2026",
+      "ts": "2026-07-09T08:58:57+00:00",
+      "date_display": "Jul 09, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "left Turkey in an older Air Force One plane instead of the Boeing 787 luxury jet donated by Qatar last year, raising",
+      "company": "Boeing",
+      "ticker": "BA",
+      "price": 223.41,
+      "change": -0.68,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/07/09/nx-s1-5886306/trump-returns-to-u-s-in-old-air-force-one-raising-questions-about-security",
+      "image": null,
+      "headline": "Trump returns to U.S. in old Air Force One, raising questions about security",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-09",
+          "c": 214.51
+        },
+        {
+          "d": "06-10",
+          "c": 209.0
+        },
+        {
+          "d": "06-11",
+          "c": 221.63
+        },
+        {
+          "d": "06-12",
+          "c": 219.05
+        },
+        {
+          "d": "06-15",
+          "c": 228.95
+        },
+        {
+          "d": "06-16",
+          "c": 227.49
+        },
+        {
+          "d": "06-17",
+          "c": 225.63
+        },
+        {
+          "d": "06-18",
+          "c": 222.72
+        },
+        {
+          "d": "06-22",
+          "c": 220.83
+        },
+        {
+          "d": "06-23",
+          "c": 216.71
+        },
+        {
+          "d": "06-24",
+          "c": 220.25
+        },
+        {
+          "d": "06-25",
+          "c": 218.12
+        },
+        {
+          "d": "06-26",
+          "c": 217.25
+        },
+        {
+          "d": "06-29",
+          "c": 214.69
+        },
+        {
+          "d": "06-30",
+          "c": 216.47
+        },
+        {
+          "d": "07-01",
+          "c": 218.58
+        },
+        {
+          "d": "07-02",
+          "c": 226.49
+        },
+        {
+          "d": "07-06",
+          "c": 234.54
+        },
+        {
+          "d": "07-07",
+          "c": 231.68
+        },
+        {
+          "d": "07-08",
+          "c": 224.95
+        },
+        {
+          "d": "07-09",
+          "c": 223.41
+        }
+      ]
+    },
     {
       "id": "46c4bb3cb9d1a59e",
       "date": "Wed, 08 Jul 2026",
@@ -40046,114 +40150,6 @@
         {
           "d": "06-12",
           "c": 577.48
-        }
-      ]
-    },
-    {
-      "id": "25121adc6369f843",
-      "date": "Fri, 29 May 2026",
-      "ts": "2026-05-29T07:00:00+00:00",
-      "date_display": "May 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "while promoting White House UFC event - The Athletic - The New York Times Trump spent thousands on TKO stock while promoting White",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.38,
-      "change": -1.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENCX3FMRFc4dDd5ZFJBSG1XZXJQUkZ5dGRrQ1hiSldzR0JRQjdVY1lTQXU4WHh1VmtOdUJOTlVrLTBDTWtVV3c1X2N3OEoyZG1SWkZsNHpnMkYxZUlMeUhmbnI0UWZLX083cEJNcXBLUGR1Sm94MmJSRExSMXdYdGdXTGYxcTVDQ2ZaMnliWQ?oc=5",
-      "image": null,
-      "headline": "Trump spent thousands on TKO stock while promoting White House UFC event - The Athletic - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 77.0
-        },
-        {
-          "d": "05-14",
-          "c": 75.5
-        },
-        {
-          "d": "05-15",
-          "c": 74.48
-        },
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
         }
       ]
     }
