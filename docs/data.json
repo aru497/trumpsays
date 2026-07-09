@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-08T23:58:52.789241+00:00",
+  "updated_at": "2026-07-09T02:45:44.973064+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "46c4bb3cb9d1a59e",
+      "date": "Wed, 08 Jul 2026",
+      "ts": "2026-07-08T20:07:35+00:00",
+      "date_display": "Jul 08, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Missiles Could Help Ukraine Defend Against Russia - The New York Times License to Make Patriot Missiles Could Help Ukraine Defend",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.16,
+      "change": -0.45,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWW1vTTVPQTIzUk5BUE1rUENMR2RuYnJtSHkycXRVcno2N2RMSmR5eFh6b3JTUkdvUDVETV9rRGVRVjBQNFVLQTRMaHc3NlBvZldqX1Y5azhua3JldGg0clk2N3ZyMzBPUTdmQm1GTDZ4Y2Y0X1ROQVZvWW16TWpOUklPNkJHcnhHV0JJR3I3R1lVekFDZkhpVzV4WS1nZWM4dnI2Q0QyMVZ3bHNIN1UteFpwVHN2NThISjZ2dEtydEx6cTg?oc=5",
+      "image": null,
+      "headline": "License to Make Patriot Missiles Could Help Ukraine Defend Against Russia - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-09",
+          "c": 73.36
+        },
+        {
+          "d": "06-10",
+          "c": 72.77
+        },
+        {
+          "d": "06-11",
+          "c": 73.97
+        },
+        {
+          "d": "06-12",
+          "c": 73.15
+        },
+        {
+          "d": "06-15",
+          "c": 73.57
+        },
+        {
+          "d": "06-16",
+          "c": 73.6
+        },
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        }
+      ]
+    },
     {
       "id": "5b2967df3941b8ca",
       "date": "Wed, 08 Jul 2026",
@@ -207,6 +307,106 @@
         {
           "d": "07-08",
           "c": 393.34
+        }
+      ]
+    },
+    {
+      "id": "e92340b8aef70f23",
+      "date": "Wed, 08 Jul 2026",
+      "ts": "2026-07-08T13:41:17+00:00",
+      "date_display": "Jul 08, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Iran leaders are 'liars, cheats' as ceasefire unravels - Fox Business President Trump says Iran leaders are 'liars,",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 47.95,
+      "change": -2.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdnhvREdRalZZNDN0LUVZc2pNTlFaajJfLTJ6Vml5RDJaNmxWZnN3N25feDB1ZVpQZnpJVGN4S1ltMWJSU1c0WlJCb3Z5ZVRZRHVjV1FrVTVsUHM?oc=5",
+      "image": null,
+      "headline": "President Trump says Iran leaders are 'liars, cheats' as ceasefire unravels - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-09",
+          "c": 60.9
+        },
+        {
+          "d": "06-10",
+          "c": 61.03
+        },
+        {
+          "d": "06-11",
+          "c": 61.36
+        },
+        {
+          "d": "06-12",
+          "c": 58.92
+        },
+        {
+          "d": "06-15",
+          "c": 49.96
+        },
+        {
+          "d": "06-16",
+          "c": 47.95
+        },
+        {
+          "d": "06-17",
+          "c": 46.73
+        },
+        {
+          "d": "06-18",
+          "c": 46.95
+        },
+        {
+          "d": "06-22",
+          "c": 44.93
+        },
+        {
+          "d": "06-23",
+          "c": 44.55
+        },
+        {
+          "d": "06-24",
+          "c": 45.37
+        },
+        {
+          "d": "06-25",
+          "c": 44.39
+        },
+        {
+          "d": "06-26",
+          "c": 45.91
+        },
+        {
+          "d": "06-29",
+          "c": 45.71
+        },
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 47.95
         }
       ]
     },
@@ -39958,214 +40158,6 @@
         {
           "d": "06-22",
           "c": 8.12
-        }
-      ]
-    },
-    {
-      "id": "b917b656657009c3",
-      "date": "Fri, 29 May 2026",
-      "ts": "2026-05-29T07:00:00+00:00",
-      "date_display": "May 29, 2026",
-      "source": "FOX 2",
-      "type": "news",
-      "quote": "$9B Dell deal sparks Trump conflict of interest concerns - FOX 2 Pentagon\u2019s $9B Dell deal sparks Trump conflict of",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 45.42,
-      "change": -1.07,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3dfOURGcXVuZmZYQ2lVVVAzeFZJTktaZFVKMldaMDdQNnFmdUlGVGljWFQ5enhnVG9aa3dPWDBaWU12ZW1XV2pzc1c4bGZmOHdZNE1nc0Zkc2lMdU5KRk5YOURtV2xTM3FGaUVSbzFYZjZEbVVaUjhmQ3lDbUlqbGFTU3FHV3ktSERodmJ5SVlnWXp1WERtRnJoUDZGZVR1TWfSAacBQVVfeXFMTmpZUUZCOWVBSVJnUkZjandzejFmWGJ6WHJGd2dfdW9KakliYWlCMjJKcTZuN0FLbHpuLTRTNkNJSVNHZDduWlJ4Nk90SWRoUEM5blFpSTNXMmlWcmFIbTdJSGVvSHlBUHhyeDF3TEs3VVQ5VDVOLXVidGVsWnVGZUxXellrRmdGX1N5VGlQeVNrU2VfS2dBQ043d200TkU0cmFIU1FUWGc?oc=5",
-      "image": null,
-      "headline": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - FOX 2",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.42
-        }
-      ]
-    },
-    {
-      "id": "60e5df1094ba1b8e",
-      "date": "Fri, 29 May 2026",
-      "ts": "2026-05-29T07:00:00+00:00",
-      "date_display": "May 29, 2026",
-      "source": "FOX 2",
-      "type": "news",
-      "quote": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - FOX 2",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 394.18,
-      "change": -1.33,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3dfOURGcXVuZmZYQ2lVVVAzeFZJTktaZFVKMldaMDdQNnFmdUlGVGljWFQ5enhnVG9aa3dPWDBaWU12ZW1XV2pzc1c4bGZmOHdZNE1nc0Zkc2lMdU5KRk5YOURtV2xTM3FGaUVSbzFYZjZEbVVaUjhmQ3lDbUlqbGFTU3FHV3ktSERodmJ5SVlnWXp1WERtRnJoUDZGZVR1TWfSAacBQVVfeXFMTmpZUUZCOWVBSVJnUkZjandzejFmWGJ6WHJGd2dfdW9KakliYWlCMjJKcTZuN0FLbHpuLTRTNkNJSVNHZDduWlJ4Nk90SWRoUEM5blFpSTNXMmlWcmFIbTdJSGVvSHlBUHhyeDF3TEs3VVQ5VDVOLXVidGVsWnVGZUxXellrRmdGX1N5VGlQeVNrU2VfS2dBQ043d200TkU0cmFIU1FUWGc?oc=5",
-      "image": null,
-      "headline": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - FOX 2",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-29",
-          "c": 420.91
-        },
-        {
-          "d": "06-01",
-          "c": 465.96
-        },
-        {
-          "d": "06-02",
-          "c": 435.31
-        },
-        {
-          "d": "06-03",
-          "c": 421.08
-        },
-        {
-          "d": "06-04",
-          "c": 422.05
-        },
-        {
-          "d": "06-05",
-          "c": 394.39
-        },
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        },
-        {
-          "d": "06-15",
-          "c": 409.07
-        },
-        {
-          "d": "06-16",
-          "c": 404.08
-        },
-        {
-          "d": "06-17",
-          "c": 419.32
-        },
-        {
-          "d": "06-18",
-          "c": 409.5
-        },
-        {
-          "d": "06-22",
-          "c": 418.71
-        },
-        {
-          "d": "06-23",
-          "c": 427.78
-        },
-        {
-          "d": "06-24",
-          "c": 434.06
-        },
-        {
-          "d": "06-25",
-          "c": 409.45
-        },
-        {
-          "d": "06-26",
-          "c": 399.49
-        },
-        {
-          "d": "06-29",
-          "c": 394.18
         }
       ]
     }
