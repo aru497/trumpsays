@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-10T08:57:59.268148+00:00",
+  "updated_at": "2026-07-10T11:46:53.386968+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7446a228e6ed5831",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T09:00:00+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "One U.S. visa program is growing rapidly. No one is happy with it",
+      "company": "Visa",
+      "ticker": "V",
+      "price": 348.2,
+      "change": 0.19,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program",
+      "image": null,
+      "headline": "One U.S. visa program is growing rapidly. No one is happy with it",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-10",
+          "c": 322.96
+        },
+        {
+          "d": "06-11",
+          "c": 319.05
+        },
+        {
+          "d": "06-12",
+          "c": 322.39
+        },
+        {
+          "d": "06-15",
+          "c": 323.82
+        },
+        {
+          "d": "06-16",
+          "c": 333.12
+        },
+        {
+          "d": "06-17",
+          "c": 330.38
+        },
+        {
+          "d": "06-18",
+          "c": 327.24
+        },
+        {
+          "d": "06-22",
+          "c": 326.6
+        },
+        {
+          "d": "06-23",
+          "c": 328.48
+        },
+        {
+          "d": "06-24",
+          "c": 332.23
+        },
+        {
+          "d": "06-25",
+          "c": 330.52
+        },
+        {
+          "d": "06-26",
+          "c": 336.23
+        },
+        {
+          "d": "06-29",
+          "c": 341.65
+        },
+        {
+          "d": "06-30",
+          "c": 343.09
+        },
+        {
+          "d": "07-01",
+          "c": 351.08
+        },
+        {
+          "d": "07-02",
+          "c": 362.13
+        },
+        {
+          "d": "07-06",
+          "c": 357.25
+        },
+        {
+          "d": "07-07",
+          "c": 352.2
+        },
+        {
+          "d": "07-08",
+          "c": 347.53
+        },
+        {
+          "d": "07-09",
+          "c": 348.2
+        }
+      ]
+    },
     {
       "id": "3783a51ce07f256d",
       "date": "Fri, 10 Jul 2026",
@@ -40022,110 +40122,6 @@
         {
           "d": "06-12",
           "c": 272.24
-        }
-      ]
-    },
-    {
-      "id": "3038fae0d37a2db2",
-      "date": "Mon, 01 Jun 2026",
-      "ts": "2026-06-01T07:00:00+00:00",
-      "date_display": "Jun 01, 2026",
-      "source": "Bloomberg.com",
-      "type": "news",
-      "quote": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates -",
-      "company": "Ibm",
-      "ticker": "IBM",
-      "price": 270.81,
-      "change": 0.78,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEEyVWh6UjJlMUtEU2s1RzF5cWdpSHJfQXdrY0FxdXJERi1CdFdTcFc3b3dXTTdFdTdnZEdZc2N5cHRHd1FzN0pyU0ZNTm8zNC1iMTN2aDlnRzVfTUZkMVc3NzhYOENDdDIzWnV1UE1rSXlTX3VCNm1XTVI1VU0zZ0hGejRKcFRsZ1RiOUFZc2pQa1Q5WkdSX0ZCQ0wzSmNhbk54bUliY29OTzNaLWd0SG9HbHc3QQ?oc=5",
-      "image": null,
-      "headline": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Bloomberg.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 222.75
-        },
-        {
-          "d": "05-19",
-          "c": 222.33
-        },
-        {
-          "d": "05-20",
-          "c": 225.0
-        },
-        {
-          "d": "05-21",
-          "c": 252.97
-        },
-        {
-          "d": "05-22",
-          "c": 253.84
-        },
-        {
-          "d": "05-26",
-          "c": 250.69
-        },
-        {
-          "d": "05-27",
-          "c": 255.2
-        },
-        {
-          "d": "05-28",
-          "c": 264.22
-        },
-        {
-          "d": "05-29",
-          "c": 297.8
-        },
-        {
-          "d": "06-01",
-          "c": 320.42
-        },
-        {
-          "d": "06-02",
-          "c": 329.23
-        },
-        {
-          "d": "06-03",
-          "c": 305.63
-        },
-        {
-          "d": "06-04",
-          "c": 301.77
-        },
-        {
-          "d": "06-05",
-          "c": 284.84
-        },
-        {
-          "d": "06-08",
-          "c": 280.82
-        },
-        {
-          "d": "06-09",
-          "c": 277.49
-        },
-        {
-          "d": "06-10",
-          "c": 272.36
-        },
-        {
-          "d": "06-11",
-          "c": 274.85
-        },
-        {
-          "d": "06-12",
-          "c": 272.24
-        },
-        {
-          "d": "06-15",
-          "c": 268.71
-        },
-        {
-          "d": "06-16",
-          "c": 270.81
         }
       ]
     }
