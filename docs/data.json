@@ -1,7 +1,207 @@
 {
-  "updated_at": "2026-07-10T01:46:07.312315+00:00",
+  "updated_at": "2026-07-10T05:52:01.057625+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3783a51ce07f256d",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T02:05:25+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "TradingKey",
+      "type": "news",
+      "quote": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered, Trump Bought - Is the Bottom",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 202.78,
+      "change": -0.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRk4yeGYtcENyUVhRUmRUNEhVUmZndEE0eEtpcVV2MDhSZnFWU0VtazdCTGJKR0x5YVZ4Y1ppaGNKaGszUTFIb0NXQkNMQUpRMkZ5RmIwWC0xTklSalpTamVJOGswM3VPWElyWEF3QXhGdVliWjY5TEZEd3VuNGRYXzRlbWdNaWdNdGdlRUZzOGY0akZTRE5UQWZzOFQxYXBKSWdFVGdzQzFlZHAtRllhYVJZOGppbnVBZ0dvRmRlcUJLNVlqNElTbHFfVUFiNnBQNWppQw?oc=5",
+      "image": null,
+      "headline": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered, Trump Bought - Is the Bottom In? - TradingKey",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-10",
+          "c": 200.42
+        },
+        {
+          "d": "06-11",
+          "c": 204.87
+        },
+        {
+          "d": "06-12",
+          "c": 205.19
+        },
+        {
+          "d": "06-15",
+          "c": 212.45
+        },
+        {
+          "d": "06-16",
+          "c": 207.41
+        },
+        {
+          "d": "06-17",
+          "c": 204.65
+        },
+        {
+          "d": "06-18",
+          "c": 210.69
+        },
+        {
+          "d": "06-22",
+          "c": 208.65
+        },
+        {
+          "d": "06-23",
+          "c": 200.04
+        },
+        {
+          "d": "06-24",
+          "c": 199.0
+        },
+        {
+          "d": "06-25",
+          "c": 195.74
+        },
+        {
+          "d": "06-26",
+          "c": 192.53
+        },
+        {
+          "d": "06-29",
+          "c": 194.97
+        },
+        {
+          "d": "06-30",
+          "c": 200.09
+        },
+        {
+          "d": "07-01",
+          "c": 197.58
+        },
+        {
+          "d": "07-02",
+          "c": 194.83
+        },
+        {
+          "d": "07-06",
+          "c": 195.55
+        },
+        {
+          "d": "07-07",
+          "c": 196.93
+        },
+        {
+          "d": "07-08",
+          "c": 204.12
+        },
+        {
+          "d": "07-09",
+          "c": 202.78
+        }
+      ]
+    },
+    {
+      "id": "be67754f12cc4996",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T02:05:25+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "TradingKey",
+      "type": "news",
+      "quote": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered,",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 129.04,
+      "change": -2.41,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRk4yeGYtcENyUVhRUmRUNEhVUmZndEE0eEtpcVV2MDhSZnFWU0VtazdCTGJKR0x5YVZ4Y1ppaGNKaGszUTFIb0NXQkNMQUpRMkZ5RmIwWC0xTklSalpTamVJOGswM3VPWElyWEF3QXhGdVliWjY5TEZEd3VuNGRYXzRlbWdNaWdNdGdlRUZzOGY0akZTRE5UQWZzOFQxYXBKSWdFVGdzQzFlZHAtRllhYVJZOGppbnVBZ0dvRmRlcUJLNVlqNElTbHFfVUFiNnBQNWppQw?oc=5",
+      "image": null,
+      "headline": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered, Trump Bought - Is the Bottom In? - TradingKey",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-10",
+          "c": 130.21
+        },
+        {
+          "d": "06-11",
+          "c": 131.08
+        },
+        {
+          "d": "06-12",
+          "c": 127.99
+        },
+        {
+          "d": "06-15",
+          "c": 134.71
+        },
+        {
+          "d": "06-16",
+          "c": 133.25
+        },
+        {
+          "d": "06-17",
+          "c": 130.63
+        },
+        {
+          "d": "06-18",
+          "c": 128.47
+        },
+        {
+          "d": "06-22",
+          "c": 119.5
+        },
+        {
+          "d": "06-23",
+          "c": 116.7
+        },
+        {
+          "d": "06-24",
+          "c": 113.5
+        },
+        {
+          "d": "06-25",
+          "c": 107.27
+        },
+        {
+          "d": "06-26",
+          "c": 112.93
+        },
+        {
+          "d": "06-29",
+          "c": 115.7
+        },
+        {
+          "d": "06-30",
+          "c": 116.67
+        },
+        {
+          "d": "07-01",
+          "c": 125.73
+        },
+        {
+          "d": "07-02",
+          "c": 129.3
+        },
+        {
+          "d": "07-06",
+          "c": 132.54
+        },
+        {
+          "d": "07-07",
+          "c": 134.37
+        },
+        {
+          "d": "07-08",
+          "c": 132.22
+        },
+        {
+          "d": "07-09",
+          "c": 129.04
+        }
+      ]
+    },
     {
       "id": "23d30639d839da10",
       "date": "Thu, 09 Jul 2026",
@@ -39926,218 +40126,6 @@
         {
           "d": "06-16",
           "c": 270.81
-        }
-      ]
-    },
-    {
-      "id": "8030dad7e71059e9",
-      "date": "Mon, 01 Jun 2026",
-      "ts": "2026-06-01T07:00:00+00:00",
-      "date_display": "Jun 01, 2026",
-      "source": "Bloomberg",
-      "type": "news",
-      "quote": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates -",
-      "company": "Ibm",
-      "ticker": "IBM",
-      "price": 262.96,
-      "change": -0.75,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEEyVWh6UjJlMUtEU2s1RzF5cWdpSHJfQXdrY0FxdXJERi1CdFdTcFc3b3dXTTdFdTdnZEdZc2N5cHRHd1FzN0pyU0ZNTm8zNC1iMTN2aDlnRzVfTUZkMVc3NzhYOENDdDIzWnV1UE1rSXlTX3VCNm1XTVI1VU0zZ0hGejRKcFRsZ1RiOUFZc2pQa1Q5WkdSX0ZCQ0wzSmNhbk54bUliY29OTzNaLWd0SG9HbHc3QQ?oc=5",
-      "image": null,
-      "headline": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Bloomberg",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 250.69
-        },
-        {
-          "d": "05-27",
-          "c": 255.2
-        },
-        {
-          "d": "05-28",
-          "c": 264.22
-        },
-        {
-          "d": "05-29",
-          "c": 297.8
-        },
-        {
-          "d": "06-01",
-          "c": 320.42
-        },
-        {
-          "d": "06-02",
-          "c": 329.23
-        },
-        {
-          "d": "06-03",
-          "c": 305.63
-        },
-        {
-          "d": "06-04",
-          "c": 301.77
-        },
-        {
-          "d": "06-05",
-          "c": 284.84
-        },
-        {
-          "d": "06-08",
-          "c": 280.82
-        },
-        {
-          "d": "06-09",
-          "c": 277.49
-        },
-        {
-          "d": "06-10",
-          "c": 272.36
-        },
-        {
-          "d": "06-11",
-          "c": 274.85
-        },
-        {
-          "d": "06-12",
-          "c": 272.24
-        },
-        {
-          "d": "06-15",
-          "c": 268.71
-        },
-        {
-          "d": "06-16",
-          "c": 270.81
-        },
-        {
-          "d": "06-17",
-          "c": 262.35
-        },
-        {
-          "d": "06-18",
-          "c": 249.1
-        },
-        {
-          "d": "06-22",
-          "c": 252.22
-        },
-        {
-          "d": "06-23",
-          "c": 264.94
-        },
-        {
-          "d": "06-24",
-          "c": 262.96
-        }
-      ]
-    },
-    {
-      "id": "f1621d4dae025d55",
-      "date": "Sun, 31 May 2026",
-      "ts": "2026-05-31T07:00:00+00:00",
-      "date_display": "May 31, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014",
-      "company": "Ibm",
-      "ticker": "IBM",
-      "price": 272.24,
-      "change": -0.95,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTlINHRMbC1IQlJya3JLX2ZFdW9NMng0aDc0N1pEU3NVRkxKTm82M3QzV0FtUlV3TTRFeDFjd3FURThmQWhjOVJyZDU0WTdiNG1KcVhfOWhpcXNzZlduT3NmaE9CbElUN1V1Ny1EZlF2M2JJQ1NpSGRwc0h0ZTdLZmYwSElGTTlveEZBanJhb2FyN2praHR3T25B?oc=5",
-      "image": null,
-      "headline": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 214.64
-        },
-        {
-          "d": "05-14",
-          "c": 218.37
-        },
-        {
-          "d": "05-15",
-          "c": 219.3
-        },
-        {
-          "d": "05-18",
-          "c": 222.75
-        },
-        {
-          "d": "05-19",
-          "c": 222.33
-        },
-        {
-          "d": "05-20",
-          "c": 225.0
-        },
-        {
-          "d": "05-21",
-          "c": 252.97
-        },
-        {
-          "d": "05-22",
-          "c": 253.84
-        },
-        {
-          "d": "05-26",
-          "c": 250.69
-        },
-        {
-          "d": "05-27",
-          "c": 255.2
-        },
-        {
-          "d": "05-28",
-          "c": 264.22
-        },
-        {
-          "d": "05-29",
-          "c": 297.8
-        },
-        {
-          "d": "06-01",
-          "c": 320.42
-        },
-        {
-          "d": "06-02",
-          "c": 329.23
-        },
-        {
-          "d": "06-03",
-          "c": 305.63
-        },
-        {
-          "d": "06-04",
-          "c": 301.77
-        },
-        {
-          "d": "06-05",
-          "c": 284.84
-        },
-        {
-          "d": "06-08",
-          "c": 280.82
-        },
-        {
-          "d": "06-09",
-          "c": 277.49
-        },
-        {
-          "d": "06-10",
-          "c": 272.36
-        },
-        {
-          "d": "06-11",
-          "c": 274.85
-        },
-        {
-          "d": "06-12",
-          "c": 272.24
         }
       ]
     }
