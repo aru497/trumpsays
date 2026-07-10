@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-10T19:56:38.489385+00:00",
+  "updated_at": "2026-07-10T21:00:37.824777+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3e933bdfae46b3d6",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T20:04:30+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media & Technology Group (DJT) director George Holding steps",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.54,
+      "change": -0.12,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2pNZndFN2FpQV9IaEo2UVhBSTJ3dzUyQllWVS1RSEl2STZpSkFLb2VfRmtieTY2ZmZpRDRrWDVob0dXWWU5VmZWWTk1eWRnLXVZVkN4QjE3UVlmUnFjcFgwa2RmMUhSNlhtQ21BbVdzSEdUMFhDVUxiQl93N09OWVJJZ1IyUmxaY3hpUmNXWTJ4eGFUWG42dlZBOTE3YnI2MmVlSU4xT3E3YnlwSDVNUkhnNXFCOTNVSHUyRjl3?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group (DJT) director George Holding steps down from board - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        }
+      ]
+    },
     {
       "id": "f9268843fabefe89",
       "date": "Fri, 10 Jul 2026",
@@ -40010,110 +40110,6 @@
         {
           "d": "06-25",
           "c": 14.11
-        }
-      ]
-    },
-    {
-      "id": "93d0e9615ed47c74",
-      "date": "Thu, 04 Jun 2026",
-      "ts": "2026-06-04T07:00:00+00:00",
-      "date_display": "Jun 04, 2026",
-      "source": "Detroit Free Press",
-      "type": "news",
-      "quote": "Trump says Ford, GM pushing bill to restrict right to repair - Detroit Free",
-      "company": "Gm",
-      "ticker": "GM",
-      "price": 78.53,
-      "change": -0.53,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEpNVzZTNUZ2c3p3cXpWSmdxRWpXSTdrbW1zaVFmRmdodDJhSlF1ekFseV9OSXFrYkJQVzZQcG13a1BPbGlmbWF0X2V5MjZLNDVfZ2NUX0Iyc2t6M2ROY1pQTWtxR3UxbnJjcFR1SGxzbDg1djhEME5hRzNoZ3FpR2Uxa0Q0ZEloRzdUbVJaQjlaNC1UTzBReWlpMURMNGU2Z3FLNXNtOUFlOUF1dFdRejQ1Tjk5WFFIcWphS2tUYTdVRjlxTnVybzVnLTJwdXF0TThoZjhJdV96SERR?oc=5",
-      "image": null,
-      "headline": "Trump says Ford, GM pushing bill to restrict right to repair - Detroit Free Press",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 83.94
-        },
-        {
-          "d": "05-28",
-          "c": 84.17
-        },
-        {
-          "d": "05-29",
-          "c": 83.06
-        },
-        {
-          "d": "06-01",
-          "c": 82.5
-        },
-        {
-          "d": "06-02",
-          "c": 81.55
-        },
-        {
-          "d": "06-03",
-          "c": 81.52
-        },
-        {
-          "d": "06-04",
-          "c": 83.04
-        },
-        {
-          "d": "06-05",
-          "c": 82.11
-        },
-        {
-          "d": "06-08",
-          "c": 83.77
-        },
-        {
-          "d": "06-09",
-          "c": 83.76
-        },
-        {
-          "d": "06-10",
-          "c": 79.4
-        },
-        {
-          "d": "06-11",
-          "c": 80.85
-        },
-        {
-          "d": "06-12",
-          "c": 81.5
-        },
-        {
-          "d": "06-15",
-          "c": 84.07
-        },
-        {
-          "d": "06-16",
-          "c": 82.51
-        },
-        {
-          "d": "06-17",
-          "c": 79.58
-        },
-        {
-          "d": "06-18",
-          "c": 79.29
-        },
-        {
-          "d": "06-22",
-          "c": 80.43
-        },
-        {
-          "d": "06-23",
-          "c": 78.95
-        },
-        {
-          "d": "06-24",
-          "c": 78.95
-        },
-        {
-          "d": "06-25",
-          "c": 78.53
         }
       ]
     }
