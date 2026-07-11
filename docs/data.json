@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-11T10:52:38.574396+00:00",
+  "updated_at": "2026-07-11T11:42:43.291059+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7b3bb866f33ad854",
+      "date": "Sat, 11 Jul 2026",
+      "ts": "2026-07-11T11:00:08+00:00",
+      "date_display": "Jul 11, 2026",
+      "source": "Financial Times",
+      "type": "news",
+      "quote": "Donald Trump ups the pressure on US companies in drive to lower prices -",
+      "company": "Ups",
+      "ticker": "UPS",
+      "price": 112.47,
+      "change": 1.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04a2lkZEpMNGpReG1zdWxtRTVnSU4zQ081Wkl6SHRLTHJtaGVYazJwMGF0VVh3a3BITHBiUnJEbDBEWEtIVVRob2JkbHljdndodldKcE1OeE15WERkOUZ3N0VKT01wUTNjclJMSFRWc2s?oc=5",
+      "image": null,
+      "headline": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 108.65
+        },
+        {
+          "d": "06-12",
+          "c": 108.1
+        },
+        {
+          "d": "06-15",
+          "c": 108.83
+        },
+        {
+          "d": "06-16",
+          "c": 110.02
+        },
+        {
+          "d": "06-17",
+          "c": 105.13
+        },
+        {
+          "d": "06-18",
+          "c": 104.86
+        },
+        {
+          "d": "06-22",
+          "c": 107.24
+        },
+        {
+          "d": "06-23",
+          "c": 105.83
+        },
+        {
+          "d": "06-24",
+          "c": 106.14
+        },
+        {
+          "d": "06-25",
+          "c": 109.31
+        },
+        {
+          "d": "06-26",
+          "c": 108.14
+        },
+        {
+          "d": "06-29",
+          "c": 108.01
+        },
+        {
+          "d": "06-30",
+          "c": 107.5
+        },
+        {
+          "d": "07-01",
+          "c": 109.54
+        },
+        {
+          "d": "07-02",
+          "c": 110.66
+        },
+        {
+          "d": "07-06",
+          "c": 110.02
+        },
+        {
+          "d": "07-07",
+          "c": 111.96
+        },
+        {
+          "d": "07-08",
+          "c": 109.94
+        },
+        {
+          "d": "07-09",
+          "c": 110.74
+        },
+        {
+          "d": "07-10",
+          "c": 112.47
+        }
+      ]
+    },
     {
       "id": "155224fa1967eaab",
       "date": "Sat, 11 Jul 2026",
@@ -503,6 +603,106 @@
         {
           "d": "07-10",
           "c": 433.73
+        }
+      ]
+    },
+    {
+      "id": "caf28796a16a9e03",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T15:12:02+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "Supply Chain Dive",
+      "type": "news",
+      "quote": "Tariff exemptions: Ford, Nestl\u00e9 and others seek relief from proposed levies -",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 14.0,
+      "change": 2.87,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUR3NTI0ajloTG5BdTI2cWJPR1ZlS0tjY1FHUXUyQ3hFVlFEeUpaVE1pdGRPbk54WEFQZGNwSW81NlRmbFd0cWttTEhHazc2V1gyM1UyaVhKX0dfdVdHSXlKY054azRoQXZ5ajJ3TnN3cG9KVjZRTTY5MzhSa3EzR3NTcER0amM4My11WVA3Nmt5ZXdIOE9HZFY0aUtLbnNwNktYNEVKdC1qN2NIMmpwNjZ1UVo1bFlNaEE?oc=5",
+      "image": null,
+      "headline": "Tariff exemptions: Ford, Nestl\u00e9 and others seek relief from proposed levies - Supply Chain Dive",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 14.71
+        },
+        {
+          "d": "06-12",
+          "c": 14.84
+        },
+        {
+          "d": "06-15",
+          "c": 14.77
+        },
+        {
+          "d": "06-16",
+          "c": 14.41
+        },
+        {
+          "d": "06-17",
+          "c": 13.96
+        },
+        {
+          "d": "06-18",
+          "c": 14.06
+        },
+        {
+          "d": "06-22",
+          "c": 14.11
+        },
+        {
+          "d": "06-23",
+          "c": 14.0
+        },
+        {
+          "d": "06-24",
+          "c": 13.84
+        },
+        {
+          "d": "06-25",
+          "c": 14.11
+        },
+        {
+          "d": "06-26",
+          "c": 14.13
+        },
+        {
+          "d": "06-29",
+          "c": 14.02
+        },
+        {
+          "d": "06-30",
+          "c": 13.9
+        },
+        {
+          "d": "07-01",
+          "c": 13.64
+        },
+        {
+          "d": "07-02",
+          "c": 13.36
+        },
+        {
+          "d": "07-06",
+          "c": 13.83
+        },
+        {
+          "d": "07-07",
+          "c": 13.56
+        },
+        {
+          "d": "07-08",
+          "c": 13.5
+        },
+        {
+          "d": "07-09",
+          "c": 13.61
+        },
+        {
+          "d": "07-10",
+          "c": 14.0
         }
       ]
     },
@@ -39898,218 +40098,6 @@
         {
           "d": "07-02",
           "c": 140.26
-        }
-      ]
-    },
-    {
-      "id": "975ccc239c0d5ee5",
-      "date": "Tue, 09 Jun 2026",
-      "ts": "2026-06-09T23:14:14+00:00",
-      "date_display": "Jun 09, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "3M Retail Investors Cheer Guidance After Company Reduces",
-      "company": "3M",
-      "ticker": "MMM",
-      "price": 159.23,
-      "change": -1.48,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQZjQtTloxVEIySXVIbjRmWVdzc1pFYU1EUmtyVEp1aHotRS04akhhRjE5WHpiRk1ISm0yVWRqYWV3a0IwTVhhU2JMZnBkeHRkc1VxemNNeTU3Y1drT3d2MUNtV3RXQzZlM3FJS3MwNkRSek15cFp5YXRTNUxHS21KYzZPS1l2ellpSWFxWWdGQUttZDNOdVhvakZodjJJMlE4MmZyQ0hnVDhBX21MMzY5ZUdUTE5YVFAyamdZZG8tNGtqSUF1MzAzZXEtVHJUd3RGRWFPZ0d3X3VLQVBIQUc4UFdWZmtZcHVjTlQ4N3dic09rclBCRjFGUm9UdERja1BEV1FCc2xGUnpQR19GY0hBM3pUNDd1LTlCeEZWUzVKTmFGeFlfVlpGWmJxVjlZenRCRlozWUxXcTI1aG9wdENtc0V5T3NLOXRINDE1NE9NNjV5Mkx5V09MaThoblRKWVMtSUQxdU1RMm14Y21PRHdiQjRFaGpaaGRHdmlLWmdwU2dRTDhlNC1fTWFpQzBSMzQ?oc=5",
-      "image": null,
-      "headline": "3M Retail Investors Cheer Guidance After Company Reduces Trump Tariff Impact Forecast - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 148.59
-        },
-        {
-          "d": "05-20",
-          "c": 149.01
-        },
-        {
-          "d": "05-21",
-          "c": 150.82
-        },
-        {
-          "d": "05-22",
-          "c": 152.44
-        },
-        {
-          "d": "05-26",
-          "c": 154.03
-        },
-        {
-          "d": "05-27",
-          "c": 155.17
-        },
-        {
-          "d": "05-28",
-          "c": 152.85
-        },
-        {
-          "d": "05-29",
-          "c": 153.13
-        },
-        {
-          "d": "06-01",
-          "c": 150.93
-        },
-        {
-          "d": "06-02",
-          "c": 152.9
-        },
-        {
-          "d": "06-03",
-          "c": 151.65
-        },
-        {
-          "d": "06-04",
-          "c": 152.77
-        },
-        {
-          "d": "06-05",
-          "c": 153.76
-        },
-        {
-          "d": "06-08",
-          "c": 153.85
-        },
-        {
-          "d": "06-09",
-          "c": 156.39
-        },
-        {
-          "d": "06-10",
-          "c": 156.85
-        },
-        {
-          "d": "06-11",
-          "c": 157.91
-        },
-        {
-          "d": "06-12",
-          "c": 158.32
-        },
-        {
-          "d": "06-15",
-          "c": 158.23
-        },
-        {
-          "d": "06-16",
-          "c": 161.63
-        },
-        {
-          "d": "06-17",
-          "c": 159.23
-        }
-      ]
-    },
-    {
-      "id": "d06ff686a3796ca6",
-      "date": "Fri, 05 Jun 2026",
-      "ts": "2026-06-05T18:58:00+00:00",
-      "date_display": "Jun 05, 2026",
-      "source": "Ahram Online",
-      "type": "news",
-      "quote": "Trump taps Truth Social CEO to lead intelligence advisory board - Ahram Online",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmtpN09YWGNrQ2V3aWIzMDE1dnVwMTBRX2RKMkhLTGgyTExRT0tndng3NDBMREZOZ3JLQ0NXZ1BTdnc2cHY4dFNrN0dTOFBXYkVYa3VZalV6NGhDUVpfMEZnTzBfeFktUGtHSE1hb3ZJM204T29sU1I1ZDViOVFWY01rUTNjQQ?oc=5",
-      "image": null,
-      "headline": "Trump taps Truth Social CEO to lead intelligence advisory board - Ahram Online",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
         }
       ]
     }
