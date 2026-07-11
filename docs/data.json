@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-11T11:42:43.291059+00:00",
+  "updated_at": "2026-07-11T12:50:44.373891+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4c08a037c4323821",
+      "date": "Sat, 11 Jul 2026",
+      "ts": "2026-07-11T11:44:31+00:00",
+      "date_display": "Jul 11, 2026",
+      "source": "The Globe and Mail",
+      "type": "news",
+      "quote": "Trump's Financial Disclosure Revealed a $1.67 Million Micron Stock Stake - The Globe and Mail Trump's Financial",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 979.3,
+      "change": -1.24,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdlMzSnpUOUNjejJCeUNTbUFjb3FOLXNaZGQ3cTA3S0hWd0d5UVVfVUpoYWNWOGFKTVJiYU9taUhoa3pudnRsdThncS1ISjBjcnNHaHNGQ0J1M2VKN1dNMVl5YkRtOG5MVDdnWWVQekpqc2NsZ0N6Nm9Ob1c2eldEREV2cHpZUDkxLU9HZDBOTDdjamszZDktQzdBV1liQkF3cS1VR3loNUR3NEZkcnlOYVoyOGc2Y0hsb2gwckY4bXd2VnFPeklLaC1pUmgwS2lXai1kZ1RHQWQwbGlSSWUwUnU0Nmg?oc=5",
+      "image": null,
+      "headline": "Trump's Financial Disclosure Revealed a $1.67 Million Micron Stock Stake - The Globe and Mail",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 995.72
+        },
+        {
+          "d": "06-12",
+          "c": 981.46
+        },
+        {
+          "d": "06-15",
+          "c": 1087.82
+        },
+        {
+          "d": "06-16",
+          "c": 1020.6
+        },
+        {
+          "d": "06-17",
+          "c": 1043.03
+        },
+        {
+          "d": "06-18",
+          "c": 1133.82
+        },
+        {
+          "d": "06-22",
+          "c": 1211.19
+        },
+        {
+          "d": "06-23",
+          "c": 1051.61
+        },
+        {
+          "d": "06-24",
+          "c": 1048.35
+        },
+        {
+          "d": "06-25",
+          "c": 1213.37
+        },
+        {
+          "d": "06-26",
+          "c": 1132.16
+        },
+        {
+          "d": "06-29",
+          "c": 1145.1
+        },
+        {
+          "d": "06-30",
+          "c": 1154.11
+        },
+        {
+          "d": "07-01",
+          "c": 1032.12
+        },
+        {
+          "d": "07-02",
+          "c": 975.41
+        },
+        {
+          "d": "07-06",
+          "c": 984.75
+        },
+        {
+          "d": "07-07",
+          "c": 938.38
+        },
+        {
+          "d": "07-08",
+          "c": 948.8
+        },
+        {
+          "d": "07-09",
+          "c": 991.64
+        },
+        {
+          "d": "07-10",
+          "c": 979.3
+        }
+      ]
+    },
     {
       "id": "7b3bb866f33ad854",
       "date": "Sat, 11 Jul 2026",
@@ -39990,114 +40090,6 @@
         {
           "d": "07-01",
           "c": 8.02
-        }
-      ]
-    },
-    {
-      "id": "fc964072a231a211",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T07:00:00+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "Financial Times",
-      "type": "news",
-      "quote": "Trump baffles Wall Street with top dealmaker praise for Citi - Financial Times Trump baffles Wall Street with top",
-      "company": "Citi",
-      "ticker": "C",
-      "price": 140.26,
-      "change": 0.09,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmZsM2pFa3kzbjNuNzQxZDJQaWdfTnlWSF9VYWtEZ0FkMjlFcnJrdE1oc2ozSU0tc1FmYjBDMV9heV9CTVJuZzJCdmt6Q2wwRkZReW9TZzJtWVloZVhwTzZ6UDFoTlRHZXhCVU1SMmZ4MkthNDFXZmdIYkloY0VVVWVEcC0?oc=5",
-      "image": null,
-      "headline": "Trump baffles Wall Street with top dealmaker praise for Citi - Financial Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 131.26
-        },
-        {
-          "d": "06-03",
-          "c": 129.93
-        },
-        {
-          "d": "06-04",
-          "c": 135.15
-        },
-        {
-          "d": "06-05",
-          "c": 132.47
-        },
-        {
-          "d": "06-08",
-          "c": 133.28
-        },
-        {
-          "d": "06-09",
-          "c": 134.73
-        },
-        {
-          "d": "06-10",
-          "c": 133.38
-        },
-        {
-          "d": "06-11",
-          "c": 138.07
-        },
-        {
-          "d": "06-12",
-          "c": 139.83
-        },
-        {
-          "d": "06-15",
-          "c": 141.21
-        },
-        {
-          "d": "06-16",
-          "c": 142.99
-        },
-        {
-          "d": "06-17",
-          "c": 143.78
-        },
-        {
-          "d": "06-18",
-          "c": 143.06
-        },
-        {
-          "d": "06-22",
-          "c": 145.67
-        },
-        {
-          "d": "06-23",
-          "c": 144.97
-        },
-        {
-          "d": "06-24",
-          "c": 143.59
-        },
-        {
-          "d": "06-25",
-          "c": 144.98
-        },
-        {
-          "d": "06-26",
-          "c": 141.76
-        },
-        {
-          "d": "06-29",
-          "c": 142.49
-        },
-        {
-          "d": "06-30",
-          "c": 139.96
-        },
-        {
-          "d": "07-01",
-          "c": 140.13
-        },
-        {
-          "d": "07-02",
-          "c": 140.26
         }
       ]
     }
