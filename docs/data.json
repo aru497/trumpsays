@@ -1,7 +1,207 @@
 {
-  "updated_at": "2026-07-11T16:24:03.885587+00:00",
+  "updated_at": "2026-07-11T17:27:50.558972+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "74bb3331c0d15ae5",
+      "date": "Sat, 11 Jul 2026",
+      "ts": "2026-07-11T17:13:39+00:00",
+      "date_display": "Jul 11, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "New York Times reporters are subpoenaed after Air Force One stories,",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.96,
+      "change": 0.89,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-09T052503Z_938252908_RC2Z9MADOSSA_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 73.97
+        },
+        {
+          "d": "06-12",
+          "c": 73.15
+        },
+        {
+          "d": "06-15",
+          "c": 73.57
+        },
+        {
+          "d": "06-16",
+          "c": 73.6
+        },
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        }
+      ]
+    },
+    {
+      "id": "a8eeb89f6b47c095",
+      "date": "Sat, 11 Jul 2026",
+      "ts": "2026-07-11T16:35:24+00:00",
+      "date_display": "Jul 11, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Justice Department subpoenas New York Times reporters over Air Force One reporting The Times says",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.96,
+      "change": 0.89,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+      "image": null,
+      "headline": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 73.97
+        },
+        {
+          "d": "06-12",
+          "c": 73.15
+        },
+        {
+          "d": "06-15",
+          "c": 73.57
+        },
+        {
+          "d": "06-16",
+          "c": 73.6
+        },
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        }
+      ]
+    },
     {
       "id": "4c08a037c4323821",
       "date": "Sat, 11 Jul 2026",
@@ -39874,218 +40074,6 @@
         {
           "d": "06-29",
           "c": 7.49
-        }
-      ]
-    },
-    {
-      "id": "b7860bb6886da392",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T07:00:00+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Citigroup shares outperform down market after Trump endorsement -",
-      "company": "Citigroup",
-      "ticker": "C",
-      "price": 140.38,
-      "change": 0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczZfNENqeDlwTU1Kcm83eDdxUE9LZmd3cGF5cVEwV2NKbU1ibWkxNG9rYWppdVJ4RkZ5TU4xcDl1MVhqdDRaY2kyVXRVUV8yUDRDdVRMMlZieHdmMXJfWU45NV9vQi1BaUhvdVZCY3U4WWExYldrREJURUd4V0JhbnZuTjVRREN6VUNZVDlSZDZBYXJDRUJSQmlVVktuQ1g4OGfSAacBQVVfeXFMTjYzSnZoSEFmZXVXWnE4T3dQOWZEZ1JtM05ub0FEandZYWJXdzBCdXc0VUhIejRwTE1pVlFPOTlyVkZQcTFteVdYUDJaNTBmUFd6UVZkeWNZb19PVy1ERXRBR2JGVEpSd0JmZ2poMDlXWktmbnQzWDJvMjhETlIyZmxEazBLdHk1clJwTm1SMFpLTUVtVUM5VlhYSnVSZGliWEFLSHRtSFU?oc=5",
-      "image": null,
-      "headline": "Citigroup shares outperform down market after Trump endorsement - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 129.09
-        },
-        {
-          "d": "06-02",
-          "c": 131.26
-        },
-        {
-          "d": "06-03",
-          "c": 129.93
-        },
-        {
-          "d": "06-04",
-          "c": 135.15
-        },
-        {
-          "d": "06-05",
-          "c": 132.47
-        },
-        {
-          "d": "06-08",
-          "c": 133.28
-        },
-        {
-          "d": "06-09",
-          "c": 134.73
-        },
-        {
-          "d": "06-10",
-          "c": 133.38
-        },
-        {
-          "d": "06-11",
-          "c": 138.07
-        },
-        {
-          "d": "06-12",
-          "c": 139.83
-        },
-        {
-          "d": "06-15",
-          "c": 141.21
-        },
-        {
-          "d": "06-16",
-          "c": 142.99
-        },
-        {
-          "d": "06-17",
-          "c": 143.78
-        },
-        {
-          "d": "06-18",
-          "c": 143.06
-        },
-        {
-          "d": "06-22",
-          "c": 145.67
-        },
-        {
-          "d": "06-23",
-          "c": 144.97
-        },
-        {
-          "d": "06-24",
-          "c": 143.59
-        },
-        {
-          "d": "06-25",
-          "c": 144.98
-        },
-        {
-          "d": "06-26",
-          "c": 141.76
-        },
-        {
-          "d": "06-29",
-          "c": 142.49
-        },
-        {
-          "d": "06-30",
-          "c": 139.96
-        },
-        {
-          "d": "07-01",
-          "c": 140.38
-        }
-      ]
-    },
-    {
-      "id": "cedfa77eba29ff78",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T07:00:00+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Again Shrugs Off High Prices Amid War With Iran - The New York Times White House Again Shrugs Off High Prices Amid War With",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 71.79,
-      "change": 2.59,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3BUT2hyVXdVeXcwVFZqbmF0WHNzYm9EYjhfQ3RSRlYxLXNuMWJnYWNxd05WUUhmS0owZERrZFRtYUdoMXdBNkdYSEdOeTV0UkZoWmZkSHV6aTNrRGVxRFNHdTBKVTlxUUZZX0tkTUNtcGZlWXNVd2NicmczNnZMXzQ1NzdSMUh3?oc=5",
-      "image": null,
-      "headline": "White House Again Shrugs Off High Prices Amid War With Iran - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        },
-        {
-          "d": "06-24",
-          "c": 71.22
-        },
-        {
-          "d": "06-25",
-          "c": 68.57
-        },
-        {
-          "d": "06-26",
-          "c": 70.88
-        },
-        {
-          "d": "06-29",
-          "c": 70.65
-        },
-        {
-          "d": "06-30",
-          "c": 69.98
-        },
-        {
-          "d": "07-01",
-          "c": 71.79
         }
       ]
     }
