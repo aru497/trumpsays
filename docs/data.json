@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-12T04:48:54.189449+00:00",
+  "updated_at": "2026-07-12T07:24:10.230155+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5df61adc6de4b767",
+      "date": "Sat, 11 Jul 2026",
+      "ts": "2026-07-11T21:58:24+00:00",
+      "date_display": "Jul 11, 2026",
+      "source": "Kavout | AI",
+      "type": "news",
+      "quote": "What's Driving Trump Media's Decision to Spin Off Truth Social - Kavout | AI What's",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.54,
+      "change": -0.12,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDBRdTBNVmpwZnNiMlZFT2wtNWxJUFVSLXFYOXNtWHdtc0x3STRhUTNWUGdHN3E5OGZSeE9jNk1uOUYyNzNsTXdmczJvQ2VzV3NuRHd3S0czZVdEcEJpQTBLajFfTU9VNkpTVFJJSjN5MGVnRTFJQjNCQVFTUEhqM1NlSFNkUWI1alIwZUlqZVE5V1k0dXZBX1NqZDRydw?oc=5",
+      "image": null,
+      "headline": "What's Driving Trump Media's Decision to Spin Off Truth Social - Kavout | AI",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 8.25
+        },
+        {
+          "d": "06-12",
+          "c": 7.8
+        },
+        {
+          "d": "06-15",
+          "c": 8.44
+        },
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        }
+      ]
+    },
     {
       "id": "74bb3331c0d15ae5",
       "date": "Sat, 11 Jul 2026",
@@ -399,6 +499,106 @@
         {
           "d": "07-10",
           "c": 112.47
+        }
+      ]
+    },
+    {
+      "id": "dae08c7ece54c2c0",
+      "date": "Sat, 11 Jul 2026",
+      "ts": "2026-07-11T09:02:14+00:00",
+      "date_display": "Jul 11, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "$2 Billion Made as President With Inaccurate Claims - The New York Times Trump Justifies $2 Billion Made as President With",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.96,
+      "change": 0.89,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmtCNUNlMmp6QWllVHc5ZV9XVTR0TWRKQ3JVSWg1VVI2UFl5aWcxeDR5RnNudHRuMmdwUDE3VkNIWXViY0lPY2o3NzdaZmFUalZ4alBKeUZsdWhzX0c4QjFHaUpnVlBHREVqUlBiLWplUHphd1Fpcm9yUjRXV1RNMENCaFdGejZKRVc5VWM3WQ?oc=5",
+      "image": null,
+      "headline": "Trump Justifies $2 Billion Made as President With Inaccurate Claims - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-11",
+          "c": 73.97
+        },
+        {
+          "d": "06-12",
+          "c": 73.15
+        },
+        {
+          "d": "06-15",
+          "c": 73.57
+        },
+        {
+          "d": "06-16",
+          "c": 73.6
+        },
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
         }
       ]
     },
@@ -39874,206 +40074,6 @@
         {
           "d": "06-26",
           "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "59a20b486544d198",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T07:00:00+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Administration Labels Tesla Rival Nio A Chinese Military Company\u2014EV Maker Says 'Not",
-      "company": "Tesla",
-      "ticker": "TSLA",
-      "price": 411.84,
-      "change": 8.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFpiSUgyRmRrM1lZeGZ1UU1GbXF3YmRlX1FfTThtOEFMcHNpdEUxTDl6YjR1ajVqTjJrRnVuTVBDclpLRWVwUUc5d3Y1U3dCc3lMcW1rZ3JleU5JOTFlbWo3ejBPeXhwR1kzX0twUE1zQzhvRVRrcVNjNnpzcUcxZGJxdWZLWGxSVnZ3RUJzUllfSC05ODZLcEpmVjRHRUJqUzBFVDNEZw?oc=5",
-      "image": null,
-      "headline": "Trump Administration Labels Tesla Rival Nio A Chinese Military Company\u2014EV Maker Says 'Not Justified' - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 415.88
-        },
-        {
-          "d": "06-02",
-          "c": 423.74
-        },
-        {
-          "d": "06-03",
-          "c": 423.7
-        },
-        {
-          "d": "06-04",
-          "c": 418.45
-        },
-        {
-          "d": "06-05",
-          "c": 391.0
-        },
-        {
-          "d": "06-08",
-          "c": 408.95
-        },
-        {
-          "d": "06-09",
-          "c": 396.68
-        },
-        {
-          "d": "06-10",
-          "c": 381.59
-        },
-        {
-          "d": "06-11",
-          "c": 399.15
-        },
-        {
-          "d": "06-12",
-          "c": 406.43
-        },
-        {
-          "d": "06-15",
-          "c": 411.15
-        },
-        {
-          "d": "06-16",
-          "c": 404.66
-        },
-        {
-          "d": "06-17",
-          "c": 396.38
-        },
-        {
-          "d": "06-18",
-          "c": 400.49
-        },
-        {
-          "d": "06-22",
-          "c": 405.05
-        },
-        {
-          "d": "06-23",
-          "c": 381.61
-        },
-        {
-          "d": "06-24",
-          "c": 375.53
-        },
-        {
-          "d": "06-25",
-          "c": 375.12
-        },
-        {
-          "d": "06-26",
-          "c": 379.71
-        },
-        {
-          "d": "06-29",
-          "c": 411.84
-        }
-      ]
-    },
-    {
-      "id": "643407ad1421717f",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T07:00:00+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "NDTV Profit",
-      "type": "news",
-      "quote": "Trump Media Drops Truth Social Spinoff Plan, Sticks With $6 Billion",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.49,
-      "change": 0.94,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmRZUlNDb19mOUcxUUV0NWJXMEpvQ3V1YVVKalY4d095SHJtRFBZbHFuRzNhTUdrajNySHNNcFdkejh5eUk3VG9OcHRvWDJCX0hkQlBKd1l2RTVKNVJDWTRyR1pCb3FYSVdZbmdTTFZVaUYycVAxay15bGdpamltVkRNaDFvU0JhRDJHcVZPSE9RZXc4RUpPQ1ZvVmU4dGZJSHhOUlNZc1dGTlZBUlVEV0YtczRYYnMxc244dkxR0gHGAUFVX3lxTE85Zk5vTThMSzZESkIwMHNJZ0FsWlB3a3JIWjNTUFhSQmt1MnJaQ05hMklyNHlMZzFGSGlPX01zWHhzY0lhX01wVGFtU3R4R0NGYjF3bDBua3FKdFB6VTQxckwzMUQ0aGYwbmV0QTVDN3pyMUU0NWI4NTZOSXJhWHlrM2stdndodXBuaEU4ZU1QY3B3Ujd0aE9Oa2M1aDcyYkxsXzZwOFhQaC1lel8tbTB5LTNXNU9SbnlGX3M3QU15NFA4LW5XZw?oc=5",
-      "image": null,
-      "headline": "Trump Media Drops Truth Social Spinoff Plan, Sticks With $6 Billion TAE Merger - NDTV Profit",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
         }
       ]
     }
