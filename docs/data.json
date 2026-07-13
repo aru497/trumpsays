@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-07-13T19:56:07.981137+00:00",
+  "updated_at": "2026-07-13T20:48:54.021957+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9722ba565fcf431e",
+      "date": "Mon, 13 Jul 2026",
+      "ts": "2026-07-13T19:52:22+00:00",
+      "date_display": "Jul 13, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "was driving in circles in an intersection in Biddeford, southwest of Portland.",
+      "company": "Southwest",
+      "ticker": "LUV",
+      "price": 47.92,
+      "change": -1.05,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-13T160758Z_599309357_RC23DMAZK9FY_RTRMADP_3_USA-MIGRATION-MAINE-SHOOTING-1024x683.jpg",
+      "headline": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-15",
+          "c": 46.08
+        },
+        {
+          "d": "06-16",
+          "c": 47.43
+        },
+        {
+          "d": "06-17",
+          "c": 46.66
+        },
+        {
+          "d": "06-18",
+          "c": 47.97
+        },
+        {
+          "d": "06-22",
+          "c": 48.57
+        },
+        {
+          "d": "06-23",
+          "c": 49.41
+        },
+        {
+          "d": "06-24",
+          "c": 50.94
+        },
+        {
+          "d": "06-25",
+          "c": 52.09
+        },
+        {
+          "d": "06-26",
+          "c": 51.91
+        },
+        {
+          "d": "06-29",
+          "c": 51.6
+        },
+        {
+          "d": "06-30",
+          "c": 51.42
+        },
+        {
+          "d": "07-01",
+          "c": 50.47
+        },
+        {
+          "d": "07-02",
+          "c": 50.25
+        },
+        {
+          "d": "07-06",
+          "c": 50.81
+        },
+        {
+          "d": "07-07",
+          "c": 49.43
+        },
+        {
+          "d": "07-08",
+          "c": 48.66
+        },
+        {
+          "d": "07-09",
+          "c": 49.22
+        },
+        {
+          "d": "07-10",
+          "c": 48.43
+        },
+        {
+          "d": "07-13",
+          "c": 47.92
+        }
+      ]
+    },
     {
       "id": "febddcad9541c1fa",
       "date": "Mon, 13 Jul 2026",
@@ -39906,114 +40002,6 @@
         {
           "d": "06-12",
           "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "96e5cefaae6848d3",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T12:55:41+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "Investing.com South Africa",
-      "type": "news",
-      "quote": "Trump Media scraps Truth Social spin-off, focuses on TAE merger By",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb05raFBmcC1vQVkwQ3ZPN1FaWE5vY1NNMmpUQ3hLWEpJdVVpTUJ0VkZOVm4ydHB2dTJEaDFiRzAwOURsU3JveUhKdVpweGxsWFh6SkNfU2NHNXFNcks3RnMyVUg0akhTYlZ3a0o5LWx3aktZT0dTQ0ExQ1hkdDE4aXpYSWZ2bHlKQ3dLZjRZczU5XzdZcDd5Rndpck5wNkVSRm14SFlsVW1yTWZvYkpHZElzYldFRU5NNTFKb0lPZw?oc=5",
-      "image": null,
-      "headline": "Trump Media scraps Truth Social spin-off, focuses on TAE merger By Investing.com - Investing.com South Africa",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
         }
       ]
     }
