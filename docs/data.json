@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-07-13T16:33:34.627179+00:00",
+  "updated_at": "2026-07-13T18:25:43.293126+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "febddcad9541c1fa",
+      "date": "Mon, 13 Jul 2026",
+      "ts": "2026-07-13T17:31:05+00:00",
+      "date_display": "Jul 13, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "discipline The ruling from U.S. District Judge Kathleen Williams amounts to a stinging rebuke of the Republican president's",
+      "company": "Williams",
+      "ticker": "WMB",
+      "price": 75.05,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/judge-blasts-trumps-irs-lawsuit-as-filed-for-improper-purpose-recommends-attorney-discipline",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-08T165147Z_1745762622_RC2S9MASL1NA_RTRMADP_3_NATO-SUMMIT-TRUMP-1024x675.jpg",
+      "headline": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-15",
+          "c": 71.49
+        },
+        {
+          "d": "06-16",
+          "c": 71.48
+        },
+        {
+          "d": "06-17",
+          "c": 71.25
+        },
+        {
+          "d": "06-18",
+          "c": 73.12
+        },
+        {
+          "d": "06-22",
+          "c": 74.95
+        },
+        {
+          "d": "06-23",
+          "c": 75.79
+        },
+        {
+          "d": "06-24",
+          "c": 75.87
+        },
+        {
+          "d": "06-25",
+          "c": 77.53
+        },
+        {
+          "d": "06-26",
+          "c": 77.92
+        },
+        {
+          "d": "06-29",
+          "c": 75.06
+        },
+        {
+          "d": "06-30",
+          "c": 74.34
+        },
+        {
+          "d": "07-01",
+          "c": 72.77
+        },
+        {
+          "d": "07-02",
+          "c": 73.14
+        },
+        {
+          "d": "07-06",
+          "c": 72.82
+        },
+        {
+          "d": "07-07",
+          "c": 75.08
+        },
+        {
+          "d": "07-08",
+          "c": 75.27
+        },
+        {
+          "d": "07-09",
+          "c": 75.45
+        },
+        {
+          "d": "07-10",
+          "c": 75.02
+        },
+        {
+          "d": "07-13",
+          "c": 75.05
+        }
+      ]
+    },
     {
       "id": "bb493a54adc83c8f",
       "date": "Mon, 13 Jul 2026",
@@ -39930,114 +40026,6 @@
         {
           "d": "06-18",
           "c": 8.34
-        }
-      ]
-    },
-    {
-      "id": "5cc16f637fed3fd4",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T07:00:00+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "Moomoo",
-      "type": "news",
-      "quote": "Trump Media Drops Plans for Truth Social Spinoff - Moomoo Trump Media",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXlkd2w1MUJ5WGVHYnNCbm5idzk3dDB6UDYtckI3bWoxUDljaTV6Rm9lVDh3R2FJTFluZlJZTm1zYnI0NnRMcHZXQWFHYW40am01UkpCSHJpUVJGajZXUFBnNU9lMW1QTTU1d2NPX1JRd20zOGJJTng4WncyX1E0Y2hvNjZ0X25CTUNFR0tfUlRxcFRK?oc=5",
-      "image": null,
-      "headline": "Trump Media Drops Plans for Truth Social Spinoff - Moomoo",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
         }
       ]
     }
