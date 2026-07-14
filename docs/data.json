@@ -1,7 +1,199 @@
 {
-  "updated_at": "2026-07-14T08:58:22.044744+00:00",
+  "updated_at": "2026-07-14T10:42:18.887399+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "419f6019fd670c42",
+      "date": "Tue, 14 Jul 2026",
+      "ts": "2026-07-14T09:32:11+00:00",
+      "date_display": "Jul 14, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Michael Dell has nailed his relationship with Donald Trump, and it's",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 427.11,
+      "change": -1.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1ZIWHBTZ1paN2RCTy00NE51MzdQQU5QVTRmU3Jja3ExbVltQ2JtcVI0ekgwZ1d2NUwyTTFlMlhDTDNOV28tN3pzVWdUMDFUaFVyUDdfakNnbHdjRDRwREs5UUYwb1AwTnlObEVpMjVxUHRCSlUxalFXTWtyRTNGNDVRX2JQUi1pdmFGVG1OaUREaHNXaE1CVGxzVQ?oc=5",
+      "image": null,
+      "headline": "Michael Dell has nailed his relationship with Donald Trump, and it's paying off - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-15",
+          "c": 409.07
+        },
+        {
+          "d": "06-16",
+          "c": 404.08
+        },
+        {
+          "d": "06-17",
+          "c": 419.32
+        },
+        {
+          "d": "06-18",
+          "c": 409.5
+        },
+        {
+          "d": "06-22",
+          "c": 418.71
+        },
+        {
+          "d": "06-23",
+          "c": 427.78
+        },
+        {
+          "d": "06-24",
+          "c": 434.06
+        },
+        {
+          "d": "06-25",
+          "c": 409.45
+        },
+        {
+          "d": "06-26",
+          "c": 399.49
+        },
+        {
+          "d": "06-29",
+          "c": 414.61
+        },
+        {
+          "d": "06-30",
+          "c": 431.46
+        },
+        {
+          "d": "07-01",
+          "c": 425.25
+        },
+        {
+          "d": "07-02",
+          "c": 394.32
+        },
+        {
+          "d": "07-06",
+          "c": 411.8
+        },
+        {
+          "d": "07-07",
+          "c": 417.28
+        },
+        {
+          "d": "07-08",
+          "c": 431.97
+        },
+        {
+          "d": "07-09",
+          "c": 450.22
+        },
+        {
+          "d": "07-10",
+          "c": 434.97
+        },
+        {
+          "d": "07-13",
+          "c": 427.11
+        }
+      ]
+    },
+    {
+      "id": "16b9a31be254bc43",
+      "date": "Tue, 14 Jul 2026",
+      "ts": "2026-07-14T08:48:09+00:00",
+      "date_display": "Jul 14, 2026",
+      "source": "The Globe and Mail",
+      "type": "news",
+      "quote": "President Trump Sells Micron Stock and Buys an AI Stock Up 1,340% Since 2023 - The",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 937.0,
+      "change": -4.32,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVkZuVDlWMGQtZGdUVUZKZ1JFa3QxbVBIdzNtMDZ0eHI4UUxTcjFWSmlZUkYyc3QtUlJKZ3R1M0hZdm00WjFSbVByWHFEOXhMNGZWMC1pNENjVHVYQzdxbXJOUFEzQnZlWF9aNENtSnE1MGJoNkkzMjhBR1pDeWRXdjh0MERJUWFEQmdDVVVQYjMxZHdnVC1sQmlfdGZIS09sYk9BUVhFV3lLTnZHb1ZMXzFiR2piWTByMGprcTBZQTJzTVY1VVZaeHcxSF9Md1pnZm10UUJGZER0Z3pYbXhVVTA1ZGI5V2Q4UVJvcFNOVGM?oc=5",
+      "image": null,
+      "headline": "President Trump Sells Micron Stock and Buys an AI Stock Up 1,340% Since 2023 - The Globe and Mail",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-15",
+          "c": 1087.82
+        },
+        {
+          "d": "06-16",
+          "c": 1020.6
+        },
+        {
+          "d": "06-17",
+          "c": 1043.03
+        },
+        {
+          "d": "06-18",
+          "c": 1133.82
+        },
+        {
+          "d": "06-22",
+          "c": 1211.19
+        },
+        {
+          "d": "06-23",
+          "c": 1051.61
+        },
+        {
+          "d": "06-24",
+          "c": 1048.35
+        },
+        {
+          "d": "06-25",
+          "c": 1213.37
+        },
+        {
+          "d": "06-26",
+          "c": 1132.16
+        },
+        {
+          "d": "06-29",
+          "c": 1145.1
+        },
+        {
+          "d": "06-30",
+          "c": 1154.11
+        },
+        {
+          "d": "07-01",
+          "c": 1032.12
+        },
+        {
+          "d": "07-02",
+          "c": 975.41
+        },
+        {
+          "d": "07-06",
+          "c": 984.75
+        },
+        {
+          "d": "07-07",
+          "c": 938.38
+        },
+        {
+          "d": "07-08",
+          "c": 948.8
+        },
+        {
+          "d": "07-09",
+          "c": 991.64
+        },
+        {
+          "d": "07-10",
+          "c": 979.3
+        },
+        {
+          "d": "07-13",
+          "c": 937.0
+        }
+      ]
+    },
     {
       "id": "8ba54d6a5aa12102",
       "date": "Mon, 13 Jul 2026",
@@ -39604,222 +39796,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWVHVzJNcnB1REpEenotaURoWlZYMVI3TUhmVVF5Y3Yya0NQRktFYjgwTFlRNHBqMlBVV2lyWG5NbXJ1dXhVU2pQMWNCb1hGQzhPbTkzSElVWHVQcVc2N1o3cXdoLWZtUDM2MGlPdERBVTV5c1lHbjA1Ty1HVjJCMUY1dVppVi1xU2NTQlFPdUhnNVNtdUVR?oc=5",
       "image": null,
       "headline": "Truth Social Spin-Off Plans Scrapped \u2013 DJT Stock Gains After Trump Media Says TAE Merger Completion Remains On Track - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 8.95
-        },
-        {
-          "d": "05-14",
-          "c": 8.95
-        },
-        {
-          "d": "05-15",
-          "c": 8.67
-        },
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "c05307be705cf261",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T13:54:54+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump Media and TAE Technologies will not spin off Truth Social - MSN",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWV4czZmMVo5Z0otTUFoQjBjQTNaSXp6d2o1TmhPNS1oajVkZHp5TlNFZEE5ckxZdHV2bEVzdTRPSTVtTXUyNExPY1pWWXhmTTBOVG5xTVl0THZOeHJDUVV5WERRWldXMVltWUpDODc3d1hTQXRiMnlFRlJDaE5VNXd5UGxjOUhSUGtDLURXMUJNck13dFczaVBaM0xIRTJJeVJubnhwTl9zQXJEQ3BqZVBSUkJCSFVG?oc=5",
-      "image": null,
-      "headline": "Trump Media and TAE Technologies will not spin off Truth Social - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        }
-      ]
-    },
-    {
-      "id": "6157b8ea27fbc2fb",
-      "date": "Wed, 10 Jun 2026",
-      "ts": "2026-06-10T13:13:06+00:00",
-      "date_display": "Jun 10, 2026",
-      "source": "Bloomberg.com",
-      "type": "news",
-      "quote": "Trump Media, TAE No Longer Pursuing Truth Social Spinoff -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.8,
-      "change": -5.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc201QmhTOWhqVHRpQVQ4VDZtbW5mN3JheThpenFhZEdiQWNGSzhkWi0wZmhkYXRyWG1QQmo5bER2b21lMnpLajVKckRmSUZacHM4OTg0Vy1CRk1EcGRUQzV0X3l5MmRZbFRYLXJqTDBFNVF0eFdoeFVKM1dMbHBjeUVFbXAwWU9HaGF5RWFHMGwyQnNua0RyaGxPNWJ0cU5FWkRNLXFTV3BEQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media, TAE No Longer Pursuing Truth Social Spinoff - Bloomberg.com",
       "channel": "News",
       "series": [
         {
