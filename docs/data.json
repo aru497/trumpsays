@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T00:11:09.754978+00:00",
+  "updated_at": "2026-07-15T03:42:20.661012+00:00",
   "count": 400,
   "mentions": [
     {
@@ -18,6 +18,25 @@
       "article_link": "https://www.pbs.org/newshour/politics/watch-live-senate-democrats-block-1-trillion-annual-defense-bill-in-protest-over-iran-war",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-23T210036Z_387269564_RC2UZLALRATB_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
       "headline": "WATCH LIVE: Senate Democrats block $1 trillion annual defense bill in protest over Iran war",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "c1b96c3b8a913bc6",
+      "date": "Tue, 14 Jul 2026",
+      "ts": "2026-07-14T21:19:36+00:00",
+      "date_display": "Jul 14, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "WATCH: Senate Democrats block $1 trillion annual defense bill in protest over Iran war",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-senate-democrats-block-1-trillion-annual-defense-bill-in-protest-over-iran-war",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-23T210036Z_387269564_RC2UZLALRATB_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
+      "headline": "WATCH: Senate Democrats block $1 trillion annual defense bill in protest over Iran war",
       "channel": "News",
       "series": null
     },
@@ -410,6 +429,106 @@
         {
           "d": "07-13",
           "c": 937.0
+        }
+      ]
+    },
+    {
+      "id": "ed4dbf9db0c71a2e",
+      "date": "Tue, 14 Jul 2026",
+      "ts": "2026-07-14T08:44:00+00:00",
+      "date_display": "Jul 14, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "President Trump Sells Micron Stock and Buys an AI Stock Up 1,340% Since 2023 - Yahoo",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 983.12,
+      "change": 4.92,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGE4bGEtbXpKSndOQmNKSkhMSlBpM2JORFlYOWpwQm10V0Y5Nk5NTlh4WWxDV0hoVWk5VVdEZGZFY3JzZEpWNkJUVEVnLTc1cTltR3FXYUNjekhEUTUtT2V3dDRNMGN0RVU0bWE0Skd2TzVUQ3VNblA1Ql9EZ3BFd01OODRCc3JhUnc5NTRXOWU1ZG9YTGVVcFQyWEpZMzZI?oc=5",
+      "image": null,
+      "headline": "President Trump Sells Micron Stock and Buys an AI Stock Up 1,340% Since 2023 - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-15",
+          "c": 1087.82
+        },
+        {
+          "d": "06-16",
+          "c": 1020.6
+        },
+        {
+          "d": "06-17",
+          "c": 1043.03
+        },
+        {
+          "d": "06-18",
+          "c": 1133.82
+        },
+        {
+          "d": "06-22",
+          "c": 1211.19
+        },
+        {
+          "d": "06-23",
+          "c": 1051.61
+        },
+        {
+          "d": "06-24",
+          "c": 1048.35
+        },
+        {
+          "d": "06-25",
+          "c": 1213.37
+        },
+        {
+          "d": "06-26",
+          "c": 1132.16
+        },
+        {
+          "d": "06-29",
+          "c": 1145.1
+        },
+        {
+          "d": "06-30",
+          "c": 1154.11
+        },
+        {
+          "d": "07-01",
+          "c": 1032.12
+        },
+        {
+          "d": "07-02",
+          "c": 975.41
+        },
+        {
+          "d": "07-06",
+          "c": 984.75
+        },
+        {
+          "d": "07-07",
+          "c": 938.38
+        },
+        {
+          "d": "07-08",
+          "c": 948.8
+        },
+        {
+          "d": "07-09",
+          "c": 991.64
+        },
+        {
+          "d": "07-10",
+          "c": 979.3
+        },
+        {
+          "d": "07-13",
+          "c": 937.0
+        },
+        {
+          "d": "07-14",
+          "c": 983.12
         }
       ]
     },
@@ -39548,214 +39667,6 @@
         {
           "d": "06-26",
           "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "55f084c6b59fa430",
-      "date": "Thu, 11 Jun 2026",
-      "ts": "2026-06-11T07:00:00+00:00",
-      "date_display": "Jun 11, 2026",
-      "source": "Cryptonews.net",
-      "type": "news",
-      "quote": "Trump Media and TAE Technologies scrap Truth Social spin-off, double",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.54,
-      "change": 6.48,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwU0hMYVNockZBZFJfeWlxVUMyZVhDd2RhbWowZXNVNG43RDJVSFlrTW1jbm5aNGExbVFycFduSF90TWV6SGRIZmtrV2FPQjJ1VF9iVmhMQ0s?oc=5",
-      "image": null,
-      "headline": "Trump Media and TAE Technologies scrap Truth Social spin-off, double down on $6B merger deal - Cryptonews.net",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        }
-      ]
-    },
-    {
-      "id": "e242e8c11d60875b",
-      "date": "Thu, 11 Jun 2026",
-      "ts": "2026-06-11T07:00:00+00:00",
-      "date_display": "Jun 11, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Military Attacks Iran\u2019s Oil Export Hub, Trump Says - The New York Times U.S. Military Attacks Iran\u2019s Oil Export Hub, Trump",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.85,
-      "change": 2.87,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbTAydmVETEVIUkpKc1NIY1A2RWdwa1pYZkhfckdGNk9UX3pWRlBidlZ0bEhGZnNJR1pPNDdBY2x6N3BrOGphdm56U01CSzBXNWYxSk12OFVSQ1VZZnJ4dGtMUFJoQkl4bkJ0WGpvb2JKUkY1R2tsUVFIaw?oc=5",
-      "image": null,
-      "headline": "U.S. Military Attacks Iran\u2019s Oil Export Hub, Trump Says - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        },
-        {
-          "d": "06-24",
-          "c": 71.22
-        },
-        {
-          "d": "06-25",
-          "c": 68.57
-        },
-        {
-          "d": "06-26",
-          "c": 70.88
-        },
-        {
-          "d": "06-29",
-          "c": 70.65
-        },
-        {
-          "d": "06-30",
-          "c": 69.98
-        },
-        {
-          "d": "07-01",
-          "c": 71.79
-        },
-        {
-          "d": "07-02",
-          "c": 73.85
         }
       ]
     }
