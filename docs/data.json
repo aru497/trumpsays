@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-15T22:27:24.825890+00:00",
+  "updated_at": "2026-07-15T23:26:56.018201+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "eedcbe11879ea7e2",
+      "date": "Wed, 15 Jul 2026",
+      "ts": "2026-07-15T22:40:19+00:00",
+      "date_display": "Jul 15, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 75.22,
+      "change": 3.07,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/freedompress-1024x683.jpg",
+      "headline": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 73.6
+        },
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        }
+      ]
+    },
     {
       "id": "b960d6a9037b4ffe",
       "date": "Wed, 15 Jul 2026",
@@ -39521,114 +39621,6 @@
       "headline": "Judge extends block on Trump's $1.8 billion 'Anti-Weaponization Fund'",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "88aeff138d2f02e3",
-      "date": "Thu, 11 Jun 2026",
-      "ts": "2026-06-11T13:58:45+00:00",
-      "date_display": "Jun 11, 2026",
-      "source": "Tekedia",
-      "type": "news",
-      "quote": "Trump Media Drops Truth Social Spinoff Plan as It Doubles Down on",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.49,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUJiUmdEQS1zM05pYW96MTZBNTR4cUFTTDMyNHNYM3IybW5CcWR1dllzQzlCenhzMUx6Y190V0d1bHZ4SkV2aldvMlpKNWJDVFBiT2lLV01sVnhlbFlNWHRfeUE0aWZiUWhtQmRoSklyYjF5U2pBZzJhdHBPTlBZTW91XzkwcU9aZU15ZnA4R01EMHphOG9qZmQyM1hsMUgxcWFJYnNoWVVHQm9J?oc=5",
-      "image": null,
-      "headline": "Trump Media Drops Truth Social Spinoff Plan as It Doubles Down on Fusion Energy Bet - Tekedia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        }
-      ]
     }
   ]
 }
