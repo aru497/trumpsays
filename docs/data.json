@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-15T23:26:56.018201+00:00",
+  "updated_at": "2026-07-16T00:54:20.369504+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4f5801159ebe4740",
+      "date": "Wed, 15 Jul 2026",
+      "ts": "2026-07-15T22:49:00+00:00",
+      "date_display": "Jul 15, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "military as Iran's IRGC loses 90% of weapons capability - Fox Business Trump says US rebuilding military as Iran's IRGC",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 50.39,
+      "change": 1.8,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2Zwd3JKTXFObUVwU1M1N0JqWkFPZ0wydmpsamp3MDRTNXdWVTBDZ0dQS0FwcjNlUjdLTGk3RGVzS1ZTN0t5OUdDSnBlS2Y2QlJfR0pIQlRwWW9wVW1kdy1mc1RDY25TZ05wNWtvd3V5TWVHRURDVFZZeTJJV1NBM1pUU3dac3dzQjhaclZxUHdLbWsycXFHN00wRTZod2wyTFkxNS1DRWpWY3NOeGh2dEJB0gG3AUFVX3lxTE1aUm04akZGY0tCYnA5Vk9LRGY3cFFjTGxqemE3TC1ENDktTVQxUXN3eEpTUXBQeF9UdnVQTllSa19lVHZualB0N1E4YlRqRnJYMldmUy1wS1V6QVRRLXJkVnlnUl92ZkNJNG1qbVVtQV9pRkxJQVZ4UmRyMkNWblZiVHY1Q1F4NzRSOFJONnJQaDN6cjFrb2lvS1BRQUdIYXhVMER0akZIeVBOVGpUa3VuSlVFSTlHVQ?oc=5",
+      "image": null,
+      "headline": "Trump says US rebuilding military as Iran's IRGC loses 90% of weapons capability - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 47.95
+        },
+        {
+          "d": "06-17",
+          "c": 46.73
+        },
+        {
+          "d": "06-18",
+          "c": 46.95
+        },
+        {
+          "d": "06-22",
+          "c": 44.93
+        },
+        {
+          "d": "06-23",
+          "c": 44.55
+        },
+        {
+          "d": "06-24",
+          "c": 45.37
+        },
+        {
+          "d": "06-25",
+          "c": 44.39
+        },
+        {
+          "d": "06-26",
+          "c": 45.91
+        },
+        {
+          "d": "06-29",
+          "c": 45.71
+        },
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 47.95
+        },
+        {
+          "d": "07-09",
+          "c": 48.44
+        },
+        {
+          "d": "07-10",
+          "c": 48.75
+        },
+        {
+          "d": "07-13",
+          "c": 50.22
+        },
+        {
+          "d": "07-14",
+          "c": 49.5
+        },
+        {
+          "d": "07-15",
+          "c": 50.39
+        }
+      ]
+    },
     {
       "id": "eedcbe11879ea7e2",
       "date": "Wed, 15 Jul 2026",
@@ -101,6 +201,25 @@
           "c": 75.22
         }
       ]
+    },
+    {
+      "id": "d73c91d737f856ea",
+      "date": "Wed, 15 Jul 2026",
+      "ts": "2026-07-15T22:34:00+00:00",
+      "date_display": "Jul 15, 2026",
+      "source": "Deadline",
+      "type": "news",
+      "quote": "Paramount Shareholder Sues Ellisons, Board For Alleged Side Deal,",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcS1uUTBqYzhaaVhVZndwRkY2X2dPZTg2V2loeFI2S2V0MlVYaUh4R0pPVFM0VWYxV184R1Uzc1p1U1kwd3E5NHduSjVoMjhGZ1JWSG81ZkZrWGVuaHlxMlJVMVBZbElRbFpCZk14dVQ5ZUVYdWdtTmczSFkyZExsMEluNDBUZUUyMjNQaU13OVZjcTVNU01IeGxHaw?oc=5",
+      "image": null,
+      "headline": "Paramount Shareholder Sues Ellisons, Board For Alleged Side Deal, Promises To Donald Trump - Deadline",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "b960d6a9037b4ffe",
@@ -39581,44 +39700,6 @@
       "article_link": "https://www.pbs.org/newshour/show/news-wrap-judge-says-kennedy-center-must-remove-trumps-name-by-friday-deadline",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/newswrapkennedycenter-1024x684.jpg",
       "headline": "News Wrap: Judge says Kennedy Center must remove Trump's name by Friday deadline",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "283314347d9fada7",
-      "date": "Fri, 12 Jun 2026",
-      "ts": "2026-06-12T22:45:19+00:00",
-      "date_display": "Jun 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "'anti-weaponization' fund and the DOJ signed off on Paramount's $110 billion bid for Warner Bros.",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-judge-says-kennedy-center-must-remove-trumps-name-by-friday-deadline",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/newswrapkennedycenter-1024x684.jpg",
-      "headline": "News Wrap: Judge says Kennedy Center must remove Trump's name by Friday deadline",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "f10067494a80180d",
-      "date": "Fri, 12 Jun 2026",
-      "ts": "2026-06-12T15:57:37+00:00",
-      "date_display": "Jun 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Judge extends block on Trump's $1.8 billion 'Anti-Weaponization Fund' U.S.",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/judge-extends-block-on-trumps-1-8-billion-anti-weaponization-fund",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-11T153444Z_2097773870_RC2MRLAIJHLB_RTRMADP_3_USA-TRUMP-MIGRATION-CHILDREN-1024x684.jpg",
-      "headline": "Judge extends block on Trump's $1.8 billion 'Anti-Weaponization Fund'",
       "channel": "News",
       "series": null
     }
