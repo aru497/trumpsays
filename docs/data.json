@@ -1,7 +1,527 @@
 {
-  "updated_at": "2026-07-16T18:36:53.875882+00:00",
+  "updated_at": "2026-07-16T19:55:04.627241+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8b6351f4d0016db2",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T19:48:53+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "CBS News",
+      "type": "news",
+      "quote": "Trump Media to sell faster access to president's Truth Social posts -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.6,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04bWx5dXBLZDdjM2doSHpac1duSXNCSHZkeTgySms5SXpFSV82eWNKNTJTTlc3VG9BUGk3aDJfRGo3VjdoN3V0NFJKYTlNdFhLeGtRX2QwcnM4dUxaYi1kVg?oc=5",
+      "image": null,
+      "headline": "Trump Media to sell faster access to president's Truth Social posts - CBS News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.6
+        }
+      ]
+    },
+    {
+      "id": "1b86806d142d829d",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T19:27:04+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "MyNorthwest.com",
+      "type": "news",
+      "quote": "Trump media firm plans to sell high speed access to Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.6,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXJxRi1LMmVjdXBtSGV1SVpYVVFVNHpoYU8xUmkwdWk5Tk9rR0J2bXlncVdoSmhIS2psMHZjMWo1aml3T2o1WERQR0UwdE90TGpTZmpfVVhZWElESkxuWVFSX3Y4WThFQ3lMaU53aXdBYVdpNENkSS1Fb0UwWnRURjd4R1lMNVdUbV8xM29heXdveE1keDlUT3RvV2tsNEV6ZEk4S1VqWVZ6ZC15eUtxSDZ0RkJLNlNnY2Rmbmdzd25XZkU0a2VtWE83VQ?oc=5",
+      "image": null,
+      "headline": "Trump media firm plans to sell high speed access to Truth Social posts, possibly Trump's own - MyNorthwest.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.6
+        }
+      ]
+    },
+    {
+      "id": "5ffd12591b5c9ebf",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T19:26:45+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "News of the United States - NOTUS",
+      "type": "news",
+      "quote": "Trump Media Plans to Sell Quicker Access to the President\u2019s Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.6,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlOTRzbjgxRVFja21vSUpva1BqaEJxMHA2SG9rRGEzT3ZjMlJENjNYNEFFemctS2tKWE1sZXVHVHJpSmZwTEpha2Nsc3dNRi1Xc29JYzJrRDZ3N2JUcVpTZXBpb1U1Y25XWlZV?oc=5",
+      "image": null,
+      "headline": "Trump Media Plans to Sell Quicker Access to the President\u2019s Truth Social Posts - News of the United States - NOTUS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.6
+        }
+      ]
+    },
+    {
+      "id": "56a354f8de0f8a92",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T19:22:37+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "WAAY 31 News",
+      "type": "news",
+      "quote": "Truth Social will sell Wall Street quicker access to posts - WAAY 31",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.6,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZElKUVdQUHMyUDF5czlTbWI4Q3k1N2sxMXJzUWZNR3lIaE5OWWc5bUg5ZUk0ZnV4Qk5xZmNiQ1JIM280azcxeElfQWtncFdtM2p6VDg3M3dJdG9MUEhBeWp0dGQ5N2N6VFdTZC03NW9aNHdkbllHOFM5UTBXQUZwSjJrNnRicUtlb1BFRVJVcXpRZ090dXFwUWhyWEZNZFJVSDliWTFXaXl3VXd1YjEwQnB1TGhmSmloVGNhSzF3UFM5Yl81QjZZU0ZQZFh3UUxITXp6UVF3LXRHN28?oc=5",
+      "image": null,
+      "headline": "Truth Social will sell Wall Street quicker access to posts - WAAY 31 News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.6
+        }
+      ]
+    },
+    {
+      "id": "4524a0997f23ad5a",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T18:43:01+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "Hindustan Times",
+      "type": "news",
+      "quote": "Trump Media launches Truth API to give banks faster access to Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.6,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOenZ4Ym5MT2VCWWpyZUw4NkZ5UDhuU0MxVk9qTGFCUzB1VTVGV0c1T0NqWXdoQ25MbWtxVURlVHFkbHRRYngwaUdZZlgtUXlza0pneWRZbk82OHRfV05Da1VVby1faUNhNld4U3dJUW9RY0l4QmdNQ3c3Nk01MkZ1UjBjYy04clI2M1lpMjBIdTlfU1lkUjh3TGNnOXVPdjlwTTAwa0FocTcwMTY4eTV6alo3MVJ4aG1odkNSM2tlNHVuaEhJM2RNeFRLc2pCMnZBcWNETXprT3RGeWpkUVhQSlBDNWVad9IB6wFBVV95cUxNZ2JhSU1tSzRNSFJLMktHcU0xVV9NU3Zac2NjR1pPNUdreG1yWS0yUVVZQlBzRGxMUnFLWXNwcmduOEhBQjRFNXJuUnNmdzVtdE5XSW80YVlmVGJHTW00UXR6RnlRQ09Td09uZHNFdWtHVENxNThQMHZWcmFDRnhBcXFwNENGbDFxdm1Pa3VVbXJlcnhEc2VlZ3pzUDZBaHhqS2p3aTlyOFZWbnAzdl91NllnbWRJbHJxYzBkeVp0VHVUSVFDaXl4UGFteFZZaURvZ1lOeU1iczhtV0ZlSWk5OHdETF9obEkzN1ZB?oc=5",
+      "image": null,
+      "headline": "Trump Media launches Truth API to give banks faster access to Truth Social posts | Hindustan Times - Hindustan Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.6
+        }
+      ]
+    },
     {
       "id": "6d7160a1079ef60b",
       "date": "Thu, 16 Jul 2026",
@@ -1975,6 +2495,110 @@
         {
           "d": "07-16",
           "c": 9.25
+        }
+      ]
+    },
+    {
+      "id": "b92ae04b22794447",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T13:01:12+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "NDTV Profit",
+      "type": "news",
+      "quote": "Wall Street's New Feed: Trump Media Cashes In On Truth Social Data - NDTV Profit Wall Street's",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.6,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVFYNzlWR0t2YjRxZjk5a2VjV3V3Q193OWcyajRaZTZsWmJtWHA1dUxKS2dfalNEZzhkbUEtcXhmaHI5MTV1ek1nNGx1TlBzSnktdUhXTGdCcjQ3elZKcDJ3WF9vSDVCbXFOUGJ0VWx3VzlRUTA0WElBWGZSMFFEb0Y3MEhEUWFHa2Y0REUyMWdaRmxmUEZhYlVWcUdZelpvQTZwTGFjdWdTb1dORmfSAbYBQVVfeXFMT2RyeEJDYXItSmJ3eW4wb3FObE5GMFF4YmlqM3d4U2RRakVyNjJmYmZ2VWN5dG5MWnFVcGNyaEs3akQya0dhUEhGUTdoQWVwUmJHNmc1M2VsMmNpUDIzeGstSnh4dlA1X3plbjQ2RWhVU1ptUl9nYlFzZUs4Tlg5cXJGa2NsU1V1MUNoQVE0ZVhTd0VfZjZxWTNhVGVpMHZBQXVCQm11dGVXSXIyQUlQN3M2SEw5SlE?oc=5",
+      "image": null,
+      "headline": "Wall Street's New Feed: Trump Media Cashes In On Truth Social Data - NDTV Profit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.6
         }
       ]
     },
@@ -39218,646 +39842,6 @@
         {
           "d": "06-17",
           "c": 295.95
-        }
-      ]
-    },
-    {
-      "id": "0dfe8c15ef9e66e9",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T04:46:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Trump says Apple to partner with Intel on US chip design, production - Reuters Trump says Apple",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 121.1,
-      "change": 3.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnN4Ym4xVHp1d21VWFd5dFFMRWd6OGQ3MFRYT1NjMUVqYk13NGFydVJwU3BCTGZjRzdKQ3RMd2kzSVZOZW52X1hRM1BQQ3N0VUpfeTh2aHhvSjZJSTFSX3UzUnpfZ2hVMzRwWmxJcVAxQU1saXV5ZXJjdk94OGE2YnhtQndZWEFEQkdiUnFMSURWcjBwWXlWY1ZfYWZENWM?oc=5",
-      "image": null,
-      "headline": "Trump says Apple to partner with Intel on US chip design, production - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 108.17
-        },
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        }
-      ]
-    },
-    {
-      "id": "9345a0a7db7d5225",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T04:44:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump says Apple to partner with Intel on US chip design, production -",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNi1sQmpORGRwamFsUG5EdnpoWnVOMTduZzNLbWg0ZkdyU2pyODhJWHpGb3lHT190WVBjd1I2ZEFqYVJfc2dRaV9fNkUtNk5ZTTBZRUQyN0dPSl9kcTRUelc5RF9oYTZkZ1dKRFFvM1Bud2xiNEhpb0I3aUdKMXNsdFIzSm9WZElQRkltTmNWS3NlNzdaQzBudzVlMA?oc=5",
-      "image": null,
-      "headline": "Trump says Apple to partner with Intel on US chip design, production - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
-        }
-      ]
-    },
-    {
-      "id": "f8944f8489aab842",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T04:44:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump says Apple to partner with Intel on US chip design, production - Yahoo Finance Trump says",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.99,
-      "change": 10.64,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNi1sQmpORGRwamFsUG5EdnpoWnVOMTduZzNLbWg0ZkdyU2pyODhJWHpGb3lHT190WVBjd1I2ZEFqYVJfc2dRaV9fNkUtNk5ZTTBZRUQyN0dPSl9kcTRUelc5RF9oYTZkZ1dKRFFvM1Bud2xiNEhpb0I3aUdKMXNsdFIzSm9WZElQRkltTmNWS3NlNzdaQzBudzVlMA?oc=5",
-      "image": null,
-      "headline": "Trump says Apple to partner with Intel on US chip design, production - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.99
-        }
-      ]
-    },
-    {
-      "id": "189a148a3adea3eb",
-      "date": "Wed, 17 Jun 2026",
-      "ts": "2026-06-17T19:27:48+00:00",
-      "date_display": "Jun 17, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Stake Loses $1.3 Billion as His Golf Empire Posts Record",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.1,
-      "change": -0.74,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVk5TY3ZPY29FNGJBSlF1YzdrY1dCNTJPdzc3NlBaYlpNb3B1T1lPdkhQRy1zWG4xR01LMXo4cTRJbTBtNjR4SWhDUkMxU0ozYlYtWHgxOS00REFuUlJOMXZIMWc0QmJuMzRZYWlzemdwVVE1T21XV08xUlNvSUJhR1BabWNXMjFIZ3Ixc2ZQMDBsRnUzYTFPb1hMQmpBYjZac3dWRWVweUJIMUdsOC1saldNX0NOTjdESl9SVjIwTnRGV19QcXc?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Stake Loses $1.3 Billion as His Golf Empire Posts Record Profits - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        }
-      ]
-    },
-    {
-      "id": "1a3ca4683f9bd45a",
-      "date": "Wed, 17 Jun 2026",
-      "ts": "2026-06-17T12:02:19+00:00",
-      "date_display": "Jun 17, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "anti-drone technology as defense startup lands $200M - Fox Business Trump praises anti-drone technology as defense",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 48.03,
-      "change": -3.86,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ucjJXeHpzR0M3UlZqM3RkSG1tei1OOEFNWUZTaDhqWl85a3p2d3hvbldWTVBMU2xPbHRqZ0JIX2NiNUhaM0swek8zMzNtOHVoR2lPcXlzMUoyLUU?oc=5",
-      "image": null,
-      "headline": "Trump praises anti-drone technology as defense startup lands $200M - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 58.99
-        },
-        {
-          "d": "05-19",
-          "c": 58.09
-        },
-        {
-          "d": "05-20",
-          "c": 57.38
-        },
-        {
-          "d": "05-21",
-          "c": 57.63
-        },
-        {
-          "d": "05-22",
-          "c": 57.24
-        },
-        {
-          "d": "05-26",
-          "c": 58.08
-        },
-        {
-          "d": "05-27",
-          "c": 58.62
-        },
-        {
-          "d": "05-28",
-          "c": 59.23
-        },
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-17",
-          "c": 48.03
-        }
-      ]
-    },
-    {
-      "id": "ef5ed8b7cbc61e79",
-      "date": "Wed, 17 Jun 2026",
-      "ts": "2026-06-17T11:18:03+00:00",
-      "date_display": "Jun 17, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "President Trump calls to delay nomination of intel pick Jay Clayton The Senate was set to begin the",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 117.05,
-      "change": -8.45,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
-      "image": null,
-      "headline": "President Trump calls to delay nomination of intel pick Jay Clayton",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 108.17
-        },
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
         }
       ]
     }
