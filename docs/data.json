@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T06:09:17.780078+00:00",
+  "updated_at": "2026-07-16T08:38:32.389920+00:00",
   "count": 400,
   "mentions": [
     {
@@ -239,6 +239,106 @@
       "headline": "Paramount Shareholder Sues Ellisons, Board For Alleged Side Deal, Promises To Donald Trump - Deadline",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "4059acd5f1e44356",
+      "date": "Wed, 15 Jul 2026",
+      "ts": "2026-07-15T18:56:56+00:00",
+      "date_display": "Jul 15, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "to dictators like Hitler and Stalin, journalist says The New York Times journalist Jonathan Swan says the president is fixated on",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 75.22,
+      "change": 3.07,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman",
+      "image": null,
+      "headline": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 73.6
+        },
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        }
+      ]
     },
     {
       "id": "b960d6a9037b4ffe",
@@ -39592,114 +39692,6 @@
         {
           "d": "06-12",
           "c": 7.8
-        }
-      ]
-    },
-    {
-      "id": "b8e2e117e5397a89",
-      "date": "Fri, 12 Jun 2026",
-      "ts": "2026-06-12T22:45:19+00:00",
-      "date_display": "Jun 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "and the DOJ signed off on Paramount's $110 billion bid for Warner Bros.",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 26.98,
-      "change": 0.45,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-judge-says-kennedy-center-must-remove-trumps-name-by-friday-deadline",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/newswrapkennedycenter-1024x684.jpg",
-      "headline": "News Wrap: Judge says Kennedy Center must remove Trump's name by Friday deadline",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 27.25
-        },
-        {
-          "d": "05-14",
-          "c": 27.12
-        },
-        {
-          "d": "05-15",
-          "c": 26.98
-        },
-        {
-          "d": "05-18",
-          "c": 27.1
-        },
-        {
-          "d": "05-19",
-          "c": 27.09
-        },
-        {
-          "d": "05-20",
-          "c": 27.42
-        },
-        {
-          "d": "05-21",
-          "c": 27.1
-        },
-        {
-          "d": "05-22",
-          "c": 27.03
-        },
-        {
-          "d": "05-26",
-          "c": 27.0
-        },
-        {
-          "d": "05-27",
-          "c": 27.14
-        },
-        {
-          "d": "05-28",
-          "c": 27.04
-        },
-        {
-          "d": "05-29",
-          "c": 27.01
-        },
-        {
-          "d": "06-01",
-          "c": 27.25
-        },
-        {
-          "d": "06-02",
-          "c": 27.18
-        },
-        {
-          "d": "06-03",
-          "c": 27.0
-        },
-        {
-          "d": "06-04",
-          "c": 27.0
-        },
-        {
-          "d": "06-05",
-          "c": 26.24
-        },
-        {
-          "d": "06-08",
-          "c": 26.47
-        },
-        {
-          "d": "06-09",
-          "c": 26.56
-        },
-        {
-          "d": "06-10",
-          "c": 26.23
-        },
-        {
-          "d": "06-11",
-          "c": 26.86
-        },
-        {
-          "d": "06-12",
-          "c": 26.98
         }
       ]
     }
