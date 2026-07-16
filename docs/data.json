@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-07-16T12:13:09.365138+00:00",
+  "updated_at": "2026-07-16T14:29:49.612930+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4143fd979058abf0",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T14:11:30+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "KELO-AM",
+      "type": "news",
+      "quote": "Trump Media unveils data feed for businesses tracking Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.25,
+      "change": -3.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkhaQml5NlI1RnNqeHVoUnh3N3hnSWRtYmlXT0l1QmZQSFVaRnVfUjBsZHhTY25KZ2N0UjU0MkFBbVAyQjl5X3hHY29SYVZyQUFfcHhLR2ozQ2tnUWhXUmJzSjRPS3d4NUNNcUtZVTF3bWFXY3o5amwxZElzZk9YeVM2LVNGWXdTMjd1ME9vN3hTdTRFeGVfd3RmNzIzXzEzMUZn?oc=5",
+      "image": null,
+      "headline": "Trump Media unveils data feed for businesses tracking Truth Social posts - KELO-AM",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.25
+        }
+      ]
+    },
+    {
+      "id": "1df91743a866cdb6",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T13:20:09+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "The Manila Times",
+      "type": "news",
+      "quote": "Trump Media and Technology Group Launches Truth API, a New Licensed",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.25,
+      "change": -3.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPTXhINi1qUDJoZHFCRFBab21oQXlHT21Dd25uZVpGck00Wjdybmd2VGZHRDl5bjBYUk1Dem1EdFhnNVBtRnNEZmlPdEduN3dIN1VpR1VGN0dUTi03LS1EZTViTmZNNnBDaVdDWldTcGFPLXgzekdYcXNkSjdSaHc1TXdqc25MYzRHeVpMajh5MG8yenhleWJaRlpfeEpRVElPVkN5NkYtek5YM1drTEtHaEJUb0lEQWQ0TzJLYktYYUZOeF9vTmh1V09rOVdSam53UU1xNWRwM0pWNm1tTWpCaU9raTFYb1hyWWNhTUo1cTFrZFJsR2dFZURvcHJDYUwtR0dpdTlHQXdmeVgxWTFELVE5WThrU0Y0TUNhLVBVQmk2bjhISk5Zak1FUF9CcVBVN25DNGFkNFp2bTlHbERDdF9xcXhMbnlEYXFQYWtobnYtZmg4NVR1S1RKc3BjVTF2dE1WcDhyVGk3MnZNQndfUS1kZ1pTVk1B0gH-AkFVX3lxTE9DSmdIaWhHUS1pV1FobXJIMF9ZaEgxWkl3b09CWW0ybEV6eDFtZ3FicGd4c0wtWjlLQnl4X3dral9WYnBmREdXajdWaE9mNUFrbUhZdl81M0tCcUNUeVhfM3F3NUVFdTRmMFFTMjJVOXN6Y2pPQnpOcHJUczQ3cWRUNHRqQkFKRzRCRDlEZU04dUxvdjAxV1BITEJHbjY1dUh5X29KOHBSUHMwZFRrZFQ4bW90YjNVM2JJU2c1NDdCcUhpWmZkWEtMbUNQYkFfdlhIZWhXNUpaU2NxektWN2lBTVVoanJqWEtnYWlLcTBmeFZsSUJybTJfMnVyQXZ1SVU4SUQ0ZVZfU2VMN0YxMl9Od25SWmVVckpRcUtyZEZWZVhlVFVlU0JSQ2JtSGUyUDNiUDRrM2dzX09zd20tWTVSQ3YtZ2NCeGh1cDluVG9YTlVDUUlXNnNRTjY2UUVjaGhVVDBFQVhDb0U1aTdNc0NaejV2YnVwT3pzSXpBa2c?oc=5",
+      "image": null,
+      "headline": "Trump Media and Technology Group Launches Truth API, a New Licensed Data Service for Financial Services Partners That Provides the Fastest Access to Truth Social\u2019s Most Influential Accounts - The Manila Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.25
+        }
+      ]
+    },
+    {
+      "id": "9b833fea05dfce20",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T13:17:09+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "Crypto Briefing",
+      "type": "news",
+      "quote": "Trump Media to launch paid Truth Social API for financial firms -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.25,
+      "change": -3.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnNkak0zRDdUdk4wSUNxVHNUMHpYdEJEV0ZFWUQtU0plLUtEOGtxTEh6YWxpMXg4RkQwRVhudTJ6bHRoNkItQ1VFU2Rjb1ZlQVF3cllIRWxGRUQxVDlMY0xYSm9SSER6WW5YdEF6UmZDNjhVbkw5NGJRbkQwN053akQwZTZfVlZ2ckZXRDZkM1Brb2NmdGc?oc=5",
+      "image": null,
+      "headline": "Trump Media to launch paid Truth Social API for financial firms - Crypto Briefing",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.25
+        }
+      ]
+    },
+    {
+      "id": "9325e4f80693757a",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T12:49:47+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Exclusive: Truth Social to license its data to Wall Street - Axios Exclusive:",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.25,
+      "change": -3.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vYU5NYVgtSzloWkctT09pVGF6bGV3X2xJUUJWVjhyZ0hsUVF0WnhUSG5jTFplYU9PYU5WNlRsQXdTY05hN043aVJ5d3NyWkhoUEpnMlFUWHM2TXpyS3BiTXpMQmNyNTVtOG1ObndnNTRfZzJFa0ZONmpB?oc=5",
+      "image": null,
+      "headline": "Exclusive: Truth Social to license its data to Wall Street - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.25
+        }
+      ]
+    },
     {
       "id": "53779d9b28269816",
       "date": "Thu, 16 Jul 2026",
@@ -39260,426 +39676,6 @@
         {
           "d": "06-15",
           "c": 133.48
-        }
-      ]
-    },
-    {
-      "id": "25121adc6369f843",
-      "date": "Mon, 15 Jun 2026",
-      "ts": "2026-06-15T07:00:00+00:00",
-      "date_display": "Jun 15, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "while promoting White House UFC event - The Athletic - The New York Times Trump spent thousands on TKO stock while promoting White",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.99,
-      "change": 1.13,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENCX3FMRFc4dDd5ZFJBSG1XZXJQUkZ5dGRrQ1hiSldzR0JRQjdVY1lTQXU4WHh1VmtOdUJOTlVrLTBDTWtVV3c1X2N3OEoyZG1SWkZsNHpnMkYxZUlMeUhmbnI0UWZLX083cEJNcXBLUGR1Sm94MmJSRExSMXdYdGdXTGYxcTVDQ2ZaMnliWQ?oc=5",
-      "image": null,
-      "headline": "Trump spent thousands on TKO stock while promoting White House UFC event - The Athletic - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-09",
-          "c": 73.36
-        },
-        {
-          "d": "06-10",
-          "c": 72.77
-        },
-        {
-          "d": "06-11",
-          "c": 73.97
-        },
-        {
-          "d": "06-12",
-          "c": 73.15
-        },
-        {
-          "d": "06-15",
-          "c": 73.57
-        },
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 73.99
-        }
-      ]
-    },
-    {
-      "id": "6b4015410b51a7ec",
-      "date": "Mon, 15 Jun 2026",
-      "ts": "2026-06-15T00:27:00+00:00",
-      "date_display": "Jun 15, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "triggered export controls on latest AI models - Fox Business Trump admin says Anthropic's 'recklessness'",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 49.84,
-      "change": -15.41,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGhWZVJ3WUdteEFtM1FPYVhDcThGcTB0LTl0blJlSE9YZElJSGlrVWNxRkRFSWc1cVNZenh4aXVDM3czUS16VktFa2ZFOGwxamppN2tYQjFhVERnVGtjaVhKaTJybzZCcGFTdFBldUVsMHh1QVRNQmx6SFhERnpleUJmdTYzdlg3X3BnbUhlSXoxSVlVeWRVWEw2aTlJRGxYQzV0M3hhMWRuYWFPVk0wWlpFSjN4MWx4Wlp2eNIBwgFBVV95cUxNNURscjEzcnV6bVZlRHo3V3p1ZklCbEoyM25nYjVSMjl3N1FaZGJtb0dEVHNPdTBTdGlYcnhiSXJFRE42cDM1aHJrdVppS3doVHRZWmQ1bVdiT2lZRnlsczBYbW5OWkp1WGEzYXlNVjdJTVpxY0hFcUNuVGpLYTdWMDNrVHFnMWlPcDdWQkF5YWFYanJsenNaU1hGb1lpMWJkSHFka1hRMTJYTU5zNXl1ZEpYTGdCUUw4S0VzX0xhMnFVZw?oc=5",
-      "image": null,
-      "headline": "Trump admin says Anthropic's 'recklessness' triggered export controls on latest AI models - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-15",
-          "c": 57.87
-        },
-        {
-          "d": "05-18",
-          "c": 58.99
-        },
-        {
-          "d": "05-19",
-          "c": 58.09
-        },
-        {
-          "d": "05-20",
-          "c": 57.38
-        },
-        {
-          "d": "05-21",
-          "c": 57.63
-        },
-        {
-          "d": "05-22",
-          "c": 57.24
-        },
-        {
-          "d": "05-26",
-          "c": 58.08
-        },
-        {
-          "d": "05-27",
-          "c": 58.62
-        },
-        {
-          "d": "05-28",
-          "c": 59.23
-        },
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.84
-        }
-      ]
-    },
-    {
-      "id": "cd3c02ec8c71d733",
-      "date": "Sun, 14 Jun 2026",
-      "ts": "2026-06-14T22:22:56+00:00",
-      "date_display": "Jun 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Reach Preliminary Deal to Reopen Strait of Hormuz - The New York Times Stocks Surge as U.S. and Iran Reach Preliminary Deal to",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.85,
-      "change": 0.07,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PUV9MNExyY21ZM3FaaFJ5bHl3aVhZWllTUEZKcU1KT3NIZnVkM1dPMVJwODNHRXBtTDc0R2hGeVhqQktDZGExZ29MTzBFZDVkUlZLOENzbGlqX1JzbExhZVNhQmNLWXdUb19UWmZWaXhwM1FlMFFR?oc=5",
-      "image": null,
-      "headline": "Stocks Surge as U.S. and Iran Reach Preliminary Deal to Reopen Strait of Hormuz - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.85
-        }
-      ]
-    },
-    {
-      "id": "330b2d8f7f389dd9",
-      "date": "Sun, 14 Jun 2026",
-      "ts": "2026-06-14T17:33:04+00:00",
-      "date_display": "Jun 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Hosting U.F.C. Bout as Part of His Vast Holdings - The New York Times Trump Owns Shares in Company Hosting U.F.C. Bout as Part",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.38,
-      "change": -1.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyWHEtNkN4WElxU2dVeVBWVEtQUHpXRUJtajhQdXJkNDZyczZxV1dfeENGZ2Q4dFRFR3JOdlBaRDhWbE5FUTZYTFh4QmgwXzZBQ0hDa29Qdnh0SEhiZUVFNVNjVjJBNWJrdjY4TVltUWZHQmJVcm81aXJ4TQ?oc=5",
-      "image": null,
-      "headline": "Trump Owns Shares in Company Hosting U.F.C. Bout as Part of His Vast Holdings - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-13",
-          "c": 77.0
-        },
-        {
-          "d": "05-14",
-          "c": 75.5
-        },
-        {
-          "d": "05-15",
-          "c": 74.48
-        },
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
         }
       ]
     }
