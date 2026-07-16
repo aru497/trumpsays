@@ -1,7 +1,319 @@
 {
-  "updated_at": "2026-07-16T15:56:08.004134+00:00",
+  "updated_at": "2026-07-16T17:03:08.086252+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "18d45adeba9b74bd",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T16:33:43+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "CoinGape",
+      "type": "news",
+      "quote": "Trump Media Launches Truth Social API for Wall Street Firms - CoinGape",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.35,
+      "change": -2.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHY4YnkwUzVrZ3lPZTlhU05YM2NEeHBGUlFPeFVybEprRXltLWdCc2RPa2NsUlozTDgtcDdReE82MVNtc1NMTFJ1cTd5ZjRYWU9nRUV2SzdoemtFTmtCNUpwU1hoaThfNnEyNTFtNndDZ2lzaEJrTXhnSzNLNXNFUW95QzJKN2dr?oc=5",
+      "image": null,
+      "headline": "Trump Media Launches Truth Social API for Wall Street Firms - CoinGape",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.35
+        }
+      ]
+    },
+    {
+      "id": "a74b77d8160e8e11",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T16:25:44+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Truth Social to sell banks 'fastest' access to Trump's posts - Reuters",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.35,
+      "change": -2.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVk5MnVRbV9GOVVMeUJ2ZWc1T2FROUJpZzRLa092cWc1N3gwMW5vQmVxWGY4WUNTT3ZjQkt3MVhJSERGVU5VQmowa19vVHpxUjRWYThEZW5iWnc1S1AwRjdfdGRVb29QVGtlSzlzWFplZ0F1eGJtSnVLeTR3eE9KWlo5UDhLc3JOWjB5NWc3ZURvZDZ4NHZlSkZ1dXhqOG9mZWpNVUNBM0tDbTNZa2FMLXhHQUtKZw?oc=5",
+      "image": null,
+      "headline": "Truth Social to sell banks 'fastest' access to Trump's posts - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.35
+        }
+      ]
+    },
+    {
+      "id": "68e041b38b77bf6e",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T15:40:00+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "The Straits Times",
+      "type": "news",
+      "quote": "Trump Media to license Truth Social data to financial services firms -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.35,
+      "change": -2.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUl9rc2JQTFNSQmJHWXIySW04cDZseFlKYkUwV1l3N2pZdWg4dmNydGpCNDNIM0RjTUV1WHM2S19LdHVGRTFQcGl4RlptNnhadjctdGFfYjk3eThoRDBmYklYei1RUFVoMnhrUlFodXdvRGN6RThreENHTUFMc09XRE1DcUtsSGdjQ3RVa29KTUFtR0tzUXhuMFdRZV9ZQldTOExwWUw3anFDdGhKZk16UVplbkdJbnl6?oc=5",
+      "image": null,
+      "headline": "Trump Media to license Truth Social data to financial services firms - The Straits Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.35
+        }
+      ]
+    },
     {
       "id": "4c8a99ec3f5c7259",
       "date": "Thu, 16 Jul 2026",
@@ -103,6 +415,110 @@
         {
           "d": "07-16",
           "c": 9.28
+        }
+      ]
+    },
+    {
+      "id": "5653d3941c0bd1f2",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T15:36:55+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "Wccftech",
+      "type": "news",
+      "quote": "Trump's \"Anti-Establishment\" Truth Social Will Now License Real-Time Sentiment From Its Top 10",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.35,
+      "change": -2.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0FVSDB3Q0drVU5jZFBnQVcycjd4WVkzWkhhRThydDVrc2pBT2RvVmNNTy1YaHR4LWJJM3RNU0UzQTVFTy1MY09uNGZIQno3b0pIZGNGVWlKVkRKTS1OcDA1OHlIdlMtSzRlbnNULVM1RURHMUVGMFVnVEpTZF9tQWJXR0hjTW5iR2U5V25JMzhiWS1sTVFWVUNqUWNDM0JSR2pJOVhxMjJMSXBZSi1vemEycDBBb3BUOWlzVEI5R3hYRjR6YVFFUE93a3dTN2lnZkR2RkxveURKekxZcFlnWnpmdDNBOGVIaHc?oc=5",
+      "image": null,
+      "headline": "Trump's \"Anti-Establishment\" Truth Social Will Now License Real-Time Sentiment From Its Top 10 Accounts To High-Frequency Trading Firms - Wccftech",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 8.16
+        },
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.35
         }
       ]
     },
@@ -2527,6 +2943,110 @@
         {
           "d": "07-14",
           "c": 49.25
+        }
+      ]
+    },
+    {
+      "id": "f71c275eb09130c2",
+      "date": "Tue, 14 Jul 2026",
+      "ts": "2026-07-14T11:08:53+00:00",
+      "date_display": "Jul 14, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "Trump sells Micron shares, buys AI stock soarin... - Pluang Trump sells",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 847.75,
+      "change": -6.25,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONklpY1VfVlhmekdHYkRLUVYwTVctU05zbVpwTGtYS0NHLUc1aV9ZeHYtQ0kzd1BCbWZFQWl3OUFlMEhBbzU1bWZsWF9hdC00NUxIakw1Yk5oVTBQcnlxcWtDdnIwbV84Zl9uUEFPa09LcEE5Tmw5WTNkaXotYXdhZF9pc3JYOGtEUVhnTWNpeWl4U3owYkR2Y2pKVUJ5ZWFq?oc=5",
+      "image": null,
+      "headline": "Trump sells Micron shares, buys AI stock soarin... - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-16",
+          "c": 1020.6
+        },
+        {
+          "d": "06-17",
+          "c": 1043.03
+        },
+        {
+          "d": "06-18",
+          "c": 1133.82
+        },
+        {
+          "d": "06-22",
+          "c": 1211.19
+        },
+        {
+          "d": "06-23",
+          "c": 1051.61
+        },
+        {
+          "d": "06-24",
+          "c": 1048.35
+        },
+        {
+          "d": "06-25",
+          "c": 1213.37
+        },
+        {
+          "d": "06-26",
+          "c": 1132.16
+        },
+        {
+          "d": "06-29",
+          "c": 1145.1
+        },
+        {
+          "d": "06-30",
+          "c": 1154.11
+        },
+        {
+          "d": "07-01",
+          "c": 1032.12
+        },
+        {
+          "d": "07-02",
+          "c": 975.41
+        },
+        {
+          "d": "07-06",
+          "c": 984.75
+        },
+        {
+          "d": "07-07",
+          "c": 938.38
+        },
+        {
+          "d": "07-08",
+          "c": 948.8
+        },
+        {
+          "d": "07-09",
+          "c": 991.64
+        },
+        {
+          "d": "07-10",
+          "c": 979.3
+        },
+        {
+          "d": "07-13",
+          "c": 937.0
+        },
+        {
+          "d": "07-14",
+          "c": 983.12
+        },
+        {
+          "d": "07-15",
+          "c": 904.28
+        },
+        {
+          "d": "07-16",
+          "c": 847.75
         }
       ]
     },
@@ -39352,348 +39872,6 @@
           "c": 339.63
         }
       ]
-    },
-    {
-      "id": "d1c0433a06aa96a2",
-      "date": "Wed, 17 Jun 2026",
-      "ts": "2026-06-17T07:00:00+00:00",
-      "date_display": "Jun 17, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 - CNBC 'A signal of where power",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZE9yRkF4ZWRCUXlTM3JoR0RKVDE4Q1VfS2xNdHBZODdUTjNrcF9OVVFlMXpvZHg5REFaYy1IdGxvSkhGTGlkcWU2WjNZWEY4N0VZZWdyNWtDMG5BN3RaamlfcXlEYzl0M1Npc1ZZN0dkYXphQzVrU1RGMFk3ZE92eGZsSkJVMDd3bUJMRUhB0gGTAUFVX3lxTE9QVktTTi1feHFDS21EU2ozTTV1UTdoNS1JdEVJMURhQWxjdVVudnVMZUplWGQ5N21Yd0ZfcFZsTE9JOWxNVWNnT3JlLXRkWTU5T2R2cFdaREgwUlg2MTd3TDJjTXctRVdJRVhsX1h3NHhTYldvUzFRZUh2RUR2THpKcmJndXl1c0hWNHZRblRFVG14UQ?oc=5",
-      "image": null,
-      "headline": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 - CNBC",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "fb63a2436587f325",
-      "date": "Tue, 16 Jun 2026",
-      "ts": "2026-06-16T14:48:16+00:00",
-      "date_display": "Jun 16, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump announces U.S.-Iran peace deal in Switzerland - Fox Business Oil prices plunge after Trump announces U.S.-Iran",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 49.96,
-      "change": -15.21,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wdlY0RENoU19seWRqQjBWd0swQ1B3R2l3aDVUMU1UMzJ6aFZzZUQ3Yy14bmNoWkNJWjJ6SWs3ajRsWUFsNGtIZU1PYWFISVlHTllNQTdJdTQwSXM?oc=5",
-      "image": null,
-      "headline": "Oil prices plunge after Trump announces U.S.-Iran peace deal in Switzerland - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 58.99
-        },
-        {
-          "d": "05-19",
-          "c": 58.09
-        },
-        {
-          "d": "05-20",
-          "c": 57.38
-        },
-        {
-          "d": "05-21",
-          "c": 57.63
-        },
-        {
-          "d": "05-22",
-          "c": 57.24
-        },
-        {
-          "d": "05-26",
-          "c": 58.08
-        },
-        {
-          "d": "05-27",
-          "c": 58.62
-        },
-        {
-          "d": "05-28",
-          "c": 59.23
-        },
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        }
-      ]
-    },
-    {
-      "id": "10e41b89a4431d3c",
-      "date": "Tue, 16 Jun 2026",
-      "ts": "2026-06-16T07:00:26+00:00",
-      "date_display": "Jun 16, 2026",
-      "source": "Kavout",
-      "type": "news",
-      "quote": "What's Driving the Hype Around Trump Media & Technology Group ($DJT) - Kavout What's Driving the Hype",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.44,
-      "change": 8.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmNjRldISEF3alVuMzAtdnoySDR5NVhpUWg3Q1RSSXQ3R0hpMmJpQXFsX01GeHE1ZHZjdUpoOFRHLVNhZnlUYlZrVGdDQVVqU0xkSWhBYmJqZm5EYVVvMjRDY3N4eExzUFMzTno1alZTejY3MGJDMzZMblBKbHlub0R2aGJDUmhtQVIwaGtwcVQ4ajhEampSbmpPaGhqLTg?oc=5",
-      "image": null,
-      "headline": "What's Driving the Hype Around Trump Media & Technology Group ($DJT) - Kavout",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 8.27
-        },
-        {
-          "d": "05-19",
-          "c": 8.0
-        },
-        {
-          "d": "05-20",
-          "c": 8.06
-        },
-        {
-          "d": "05-21",
-          "c": 7.95
-        },
-        {
-          "d": "05-22",
-          "c": 7.95
-        },
-        {
-          "d": "05-26",
-          "c": 8.28
-        },
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        }
-      ]
-    },
-    {
-      "id": "0a2e49d738d9329f",
-      "date": "Tue, 16 Jun 2026",
-      "ts": "2026-06-16T03:29:50+00:00",
-      "date_display": "Jun 16, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Newsom Says Trump Is Investigating Him and His Wife - The New York Times Gov. Gavin Newsom Says Trump Is Investigating Him and His",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.85,
-      "change": 0.07,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PV2E0UVZiRG1JREN6Snd5bnZuNExMUmpidWxjVGV2UER3OU8ydVJJbVlIWFRrSDVnS0xQdXdRcHk1U3Z0S2Z6SzgxQzJjMFRoT3dNU0Q3WHlZdW4tdFc4VlltMU4wOWlyT0diaGN6S3k1akxnTWU3bWtDTHVtUQ?oc=5",
-      "image": null,
-      "headline": "Gov. Gavin Newsom Says Trump Is Investigating Him and His Wife - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 76.68
-        },
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.85
-        }
-      ]
-    },
-    {
-      "id": "0095d80a733a6381",
-      "date": "Mon, 15 Jun 2026",
-      "ts": "2026-06-15T22:24:00+00:00",
-      "date_display": "Jun 15, 2026",
-      "source": "Fortune",
-      "type": "news",
-      "quote": "the White House got Trump family stablecoins\u2014and a legal gap makes it possible - Fortune UFC fighters at the White",
-      "company": "Gap",
-      "ticker": "GPS",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUV4dmQ1QXh0Rmw4VjRiazFmMUYyX3QtS2tZQzZqVldHLU52ZEZic09UdjZxWmJWZ3hrLXU1aU9WMmh1Q1FqazBCU05BT3BKbHE5RFBWUWN5OEgxN0JnN2Jjakt4Z3VnTjQ1ZHRVeEV3NlpZUWplS24ySWxBTVUxSFcyUmQtdk95UTNuSkdyM3BGRDNq?oc=5",
-      "image": null,
-      "headline": "UFC fighters at the White House got Trump family stablecoins\u2014and a legal gap makes it possible - Fortune",
-      "channel": "News",
-      "series": null
     }
   ]
 }
