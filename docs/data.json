@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-07-16T03:54:29.884965+00:00",
+  "updated_at": "2026-07-16T06:09:17.780078+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "33fc453934403ecd",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T00:30:00+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "Deadline",
+      "type": "news",
+      "quote": "Paramount Calls Shareholder Suit Vs Ellisons, Board Recycled",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcS1uUTBqYzhaaVhVZndwRkY2X2dPZTg2V2loeFI2S2V0MlVYaUh4R0pPVFM0VWYxV184R1Uzc1p1U1kwd3E5NHduSjVoMjhGZ1JWSG81ZkZrWGVuaHlxMlJVMVBZbElRbFpCZk14dVQ5ZUVYdWdtTmczSFkyZExsMEluNDBUZUUyMjNQaU13OVZjcTVNU01IeGxHaw?oc=5",
+      "image": null,
+      "headline": "Paramount Calls Shareholder Suit Vs Ellisons, Board Recycled Allegations, Says No Commitments Made On News Coverage While Pursuing WBD - Deadline",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "4f5801159ebe4740",
       "date": "Wed, 15 Jul 2026",
@@ -39683,25 +39702,6 @@
           "c": 26.98
         }
       ]
-    },
-    {
-      "id": "d2ae395a0fab26c2",
-      "date": "Fri, 12 Jun 2026",
-      "ts": "2026-06-12T22:45:19+00:00",
-      "date_display": "Jun 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Trump's name from the institution, a judge extended a block on the Justice Department's proposed $1.8 billion",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-judge-says-kennedy-center-must-remove-trumps-name-by-friday-deadline",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/newswrapkennedycenter-1024x684.jpg",
-      "headline": "News Wrap: Judge says Kennedy Center must remove Trump's name by Friday deadline",
-      "channel": "News",
-      "series": null
     }
   ]
 }
