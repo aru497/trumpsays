@@ -1,7 +1,631 @@
 {
-  "updated_at": "2026-07-17T16:57:40.916307+00:00",
+  "updated_at": "2026-07-17T18:00:01.234572+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7fe65b2d5c81ee90",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T17:45:49+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk - Benzinga",
+      "company": "Disney",
+      "ticker": "DIS",
+      "price": 97.44,
+      "change": -2.28,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkRPalBFZ1Y5WE05bXlNV3lrLVd6M1ZVN3hmcUlONS04eDExaHQyLVhvS0FYOEZfaXkwVm5aVjNuZ2puZDcwV0tFdm83SkYzVFM1LXY0YVhmV05QelQ3NWQ3YjVpdVBjcU8yRlc4dno5LTNKb3ZZOEZ1cXpyRXdLZFZncGdCXzRLamk3dUd2V1NFdEVuNG9TNlZ4d2tqSDh6dzFkdFRjc3lnN0VsMlpnXzBadW92OVRPckY0LTJHRDlXeTlGbm84NjNIVGJtVVI5?oc=5",
+      "image": null,
+      "headline": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 100.09
+        },
+        {
+          "d": "06-18",
+          "c": 103.1
+        },
+        {
+          "d": "06-22",
+          "c": 101.67
+        },
+        {
+          "d": "06-23",
+          "c": 102.74
+        },
+        {
+          "d": "06-24",
+          "c": 100.35
+        },
+        {
+          "d": "06-25",
+          "c": 97.3
+        },
+        {
+          "d": "06-26",
+          "c": 98.04
+        },
+        {
+          "d": "06-29",
+          "c": 97.88
+        },
+        {
+          "d": "06-30",
+          "c": 96.25
+        },
+        {
+          "d": "07-01",
+          "c": 95.71
+        },
+        {
+          "d": "07-02",
+          "c": 99.5
+        },
+        {
+          "d": "07-06",
+          "c": 97.41
+        },
+        {
+          "d": "07-07",
+          "c": 97.48
+        },
+        {
+          "d": "07-08",
+          "c": 96.7
+        },
+        {
+          "d": "07-09",
+          "c": 96.17
+        },
+        {
+          "d": "07-10",
+          "c": 95.62
+        },
+        {
+          "d": "07-13",
+          "c": 96.0
+        },
+        {
+          "d": "07-14",
+          "c": 95.87
+        },
+        {
+          "d": "07-15",
+          "c": 97.15
+        },
+        {
+          "d": "07-16",
+          "c": 99.71
+        },
+        {
+          "d": "07-17",
+          "c": 97.44
+        }
+      ]
+    },
+    {
+      "id": "ef9c350bcd5860a9",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T17:45:49+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk",
+      "company": "Comcast",
+      "ticker": "CMCSA",
+      "price": 23.8,
+      "change": -1.24,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkRPalBFZ1Y5WE05bXlNV3lrLVd6M1ZVN3hmcUlONS04eDExaHQyLVhvS0FYOEZfaXkwVm5aVjNuZ2puZDcwV0tFdm83SkYzVFM1LXY0YVhmV05QelQ3NWQ3YjVpdVBjcU8yRlc4dno5LTNKb3ZZOEZ1cXpyRXdLZFZncGdCXzRLamk3dUd2V1NFdEVuNG9TNlZ4d2tqSDh6dzFkdFRjc3lnN0VsMlpnXzBadW92OVRPckY0LTJHRDlXeTlGbm84NjNIVGJtVVI5?oc=5",
+      "image": null,
+      "headline": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 22.39
+        },
+        {
+          "d": "06-18",
+          "c": 22.13
+        },
+        {
+          "d": "06-22",
+          "c": 22.02
+        },
+        {
+          "d": "06-23",
+          "c": 22.49
+        },
+        {
+          "d": "06-24",
+          "c": 22.34
+        },
+        {
+          "d": "06-25",
+          "c": 22.39
+        },
+        {
+          "d": "06-26",
+          "c": 22.86
+        },
+        {
+          "d": "06-29",
+          "c": 23.89
+        },
+        {
+          "d": "06-30",
+          "c": 24.22
+        },
+        {
+          "d": "07-01",
+          "c": 23.73
+        },
+        {
+          "d": "07-02",
+          "c": 23.79
+        },
+        {
+          "d": "07-06",
+          "c": 23.38
+        },
+        {
+          "d": "07-07",
+          "c": 23.41
+        },
+        {
+          "d": "07-08",
+          "c": 23.19
+        },
+        {
+          "d": "07-09",
+          "c": 23.35
+        },
+        {
+          "d": "07-10",
+          "c": 23.57
+        },
+        {
+          "d": "07-13",
+          "c": 23.97
+        },
+        {
+          "d": "07-14",
+          "c": 23.19
+        },
+        {
+          "d": "07-15",
+          "c": 23.49
+        },
+        {
+          "d": "07-16",
+          "c": 24.1
+        },
+        {
+          "d": "07-17",
+          "c": 23.8
+        }
+      ]
+    },
+    {
+      "id": "e6f8f4813489a16a",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T17:20:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "The Times",
+      "type": "news",
+      "quote": "Trump media company to charge $100,000 a month for fast access to",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.64,
+      "change": 0.1,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUZsMlNXV09FUWk0ZHU3QTRmVHpoelNkRkVzU1oxVExSRGNDMzcydTlLUl90VWtvUllhMzloT3diWGEwLTFBdlVyZkRfWXZRZDRyYkdDT1E1d3A0N1FudjNldmJxQThZRHloVFljT3ZLSFRIemM0alRNVFVCR3ZfRVVJaFRQdGRhUkxjcXFEX1ROWjVQaE8wbDVTU2NwOUxHakNzYkVQMGxPUQ?oc=5",
+      "image": null,
+      "headline": "Trump media company to charge $100,000 a month for fast access to posts - The Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.64
+        }
+      ]
+    },
+    {
+      "id": "3a807d7bd93424fd",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T17:06:44+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump Media pitched $100,000 monthly fee for 'fastest' feed of US",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.64,
+      "change": 0.1,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXhybkhSVTZzdG9mUEw1S0ZveDNCRm81ZEJmYWl2dW1BTzdGWkMxbTM3TWhqTVRlaGN4M3ZZMWNsU21hd0lYRnhtLVBBbWxZcHFLRmpmeHFSTFBfaVZjVFItUWlXMjRlbWpBYlM5b00wYXlnbFU5bnpWX2hwSGdrTzBVWm5ySTcwZnFwNHpqbnlJRVRGQUdDUGR4NFhlVzRqZmJLN1ZPUkdremVHR3VGUkdIOTJ0OVE4dFl3aGVJUmxwYjhMcDJZWC1XTGp6SWFxVThhUg?oc=5",
+      "image": null,
+      "headline": "Trump Media pitched $100,000 monthly fee for 'fastest' feed of US president's posts, FT reports - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.64
+        }
+      ]
+    },
+    {
+      "id": "10749a6f0a9862ba",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T16:57:03+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "MS NOW",
+      "type": "news",
+      "quote": "Trump Media to sell Wall Street access to market-moving Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.64,
+      "change": 0.1,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxcGF6QmRaMHkwaEx0anRsNmJUWXZoZVhqTnpZZTM2bzdQSW15VVFWNFh6aGpGZ2drQlR1d0NqbndxaHliMzBELU9aLWRLaXFqd1FBVDhqTHU5d1UwdTBUM1RtTkpwaXVHdXRNbjhFSy1tMHdaZGhGbU8yRWc?oc=5",
+      "image": null,
+      "headline": "Trump Media to sell Wall Street access to market-moving Truth Social posts - MS NOW",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.64
+        }
+      ]
+    },
+    {
+      "id": "8b5a67d94e0e8d6c",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T16:54:16+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media pitched $100,000 monthly fee for fast feed of US",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.64,
+      "change": 0.1,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGh2ZWRMTFdqTzNlZ2JtTFpWNmlTYkVDbTYxSElNbGhhM3V1Yl9tZzVIeHl2QllscEVXZWd4MHNkWmNfeU9tM2RNRnNIQzI0M3F2U1lXSXFXUWNTN1pSaElsOUllWUhLQklUMEFrT0tCQTlZNDdDWlhZV1BhOVoyTjJ0eFc0a2tLZUpxQ1JqVDQ0cGpTVkJIczFyRQ?oc=5",
+      "image": null,
+      "headline": "Trump Media pitched $100,000 monthly fee for fast feed of US president's posts, FT reports - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.64
+        }
+      ]
+    },
     {
       "id": "694e3999e04bc7ca",
       "date": "Fri, 17 Jul 2026",
@@ -38739,654 +39363,6 @@
         {
           "d": "06-18",
           "c": 298.01
-        }
-      ]
-    },
-    {
-      "id": "7b18c8787e7fd68e",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:31:41+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The Mercury News",
-      "type": "news",
-      "quote": "Intel rallies after Trump says it struck Apple chip deal - The",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.99,
-      "change": 10.64,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXFPdk5ZUVM1MTBaNjM0aEl1R3F0bmVHQUpjMlBwa1RXLVBseDI1c3B2ejk2MWh5alZLcUdDR0ZwNnpHLV8xM3NwU0xrWU1GdGtOLU92bXZMelFNY3BNbXNPRlB2T2E0QnBwZDRZeGY1TEs0VjhPQzZtRHlkVTZoM0lSUnQtaXRsSExiSXU1VDd3NTNkcmZoUW9zR07SAaIBQVVfeXFMTjRuLXFiQjRlRzgwdUUwNkxoQXVLT2J5b3YxWWgybTRnZ2M0YVJGSV9oXzl3QmM2TzBrVmZiSnJfTUNOcENMUFlhNThlZmo1LUl3V3E0WjlEUGo5RVRxemt6RFF1U2s4SDRZUlRaYUp0OThaYTR0TE1MZkl4dFJfeFpRSkZhMFJzOFpQYUlIWW82NVQ0aXM5S3JWOGxYZWhzSXlB?oc=5",
-      "image": null,
-      "headline": "Intel rallies after Trump says it struck Apple chip deal - The Mercury News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.99
-        }
-      ]
-    },
-    {
-      "id": "9b4ed5a8da713a4b",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:04:24+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The American Bazaar",
-      "type": "news",
-      "quote": "Trump says Apple will manufacture chips in US with Intel - The American",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.52,
-      "change": 0.53,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEpMVk40NlpLaGpQakxoRUdTMUVSQjVTNk5GN0RZemcxU3NoNS0zaUQyY3otREhtWXdsdE80cGpGbTBGdXRrWV9PbzBDV1ZnaFlJUlhRMXB1ODQwTVN3Y3VXVGVUOGo3TnRUX09kd2dLTmlyMHQydkIxbEhxVTBmUlpRRVdIV1NYbVRiTVpKc3ZQck5VU1N1RDFRanNxcmR6aVNBN3FmbFdZeU1H?oc=5",
-      "image": null,
-      "headline": "Trump says Apple will manufacture chips in US with Intel - The American Bazaar",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 297.52
-        }
-      ]
-    },
-    {
-      "id": "83b3f51703a9b42e",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:04:24+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The American Bazaar",
-      "type": "news",
-      "quote": "Trump says Apple will manufacture chips in US with Intel - The American Bazaar Trump says Apple will manufacture",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.66,
-      "change": 10.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEpMVk40NlpLaGpQakxoRUdTMUVSQjVTNk5GN0RZemcxU3NoNS0zaUQyY3otREhtWXdsdE80cGpGbTBGdXRrWV9PbzBDV1ZnaFlJUlhRMXB1ODQwTVN3Y3VXVGVUOGo3TnRUX09kd2dLTmlyMHQydkIxbEhxVTBmUlpRRVdIV1NYbVRiTVpKc3ZQck5VU1N1RDFRanNxcmR6aVNBN3FmbFdZeU1H?oc=5",
-      "image": null,
-      "headline": "Trump says Apple will manufacture chips in US with Intel - The American Bazaar",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.66
-        }
-      ]
-    },
-    {
-      "id": "ec62f7ae8b467379",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:02:54+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Apple to Buy Computer Chips From Intel, Trump Says - The New",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.52,
-      "change": 0.53,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
-      "image": null,
-      "headline": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 297.52
-        }
-      ]
-    },
-    {
-      "id": "7f4a45607ddc205b",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:02:54+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times Apple to Buy Computer",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.66,
-      "change": 10.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
-      "image": null,
-      "headline": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.66
-        }
-      ]
-    },
-    {
-      "id": "9ffbbf5ef655259c",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:02:54+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times Apple to Buy Computer Chips From Intel, Trump",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.13,
-      "change": -1.79,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
-      "image": null,
-      "headline": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 75.26
-        },
-        {
-          "d": "05-20",
-          "c": 74.33
-        },
-        {
-          "d": "05-21",
-          "c": 74.26
-        },
-        {
-          "d": "05-22",
-          "c": 74.96
-        },
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.13
         }
       ]
     }
