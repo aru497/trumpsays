@@ -1,7 +1,507 @@
 {
-  "updated_at": "2026-07-16T23:47:09.693053+00:00",
+  "updated_at": "2026-07-17T01:27:09.439254+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "01cde3e909149e1a",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T01:15:49+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "qz.com",
+      "type": "news",
+      "quote": "Trump Media is selling Wall Street faster access to Trump's",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zTVZNdWxKNmtoSllud2pKMy1ZWkoxMkZJb0xqTERMR1ctblBtRVp6czJJQi10TnVRUHMwV3poTjFmRllPNXdiblp1QWE0S1JQZlY4dmxER25MUXFsTnhTX29lSnM0bFIwRE9NbER2SUlib0VIajRFRDF3?oc=5",
+      "image": null,
+      "headline": "Trump Media is selling Wall Street faster access to Trump's market-moving posts - qz.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "92531e61c8155c0f",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T00:52:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Yahoo! Finance Canada",
+      "type": "news",
+      "quote": "Trump Media to Sell Wall Street Early Access to Market-Moving Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFdFY05meE5IWjhPbU9MS3dGLWR5cm1FZGhNcmNNdl9lRzc3T0x4N0hFVUpfbXpROGUwYjJKZm5GcGhzZWFyZTcwZm1GN1JKdzNTT1dHdDhINFBvTVJCc1FOd3FfZGVteHF4a3ItUi03cUVZeFQ3SUV3V3hXRXNSQndjUQ?oc=5",
+      "image": null,
+      "headline": "Trump Media to Sell Wall Street Early Access to Market-Moving Truth Social Posts - Yahoo! Finance Canada",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "2c356c7884843450",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T00:28:29+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Social Parent to Sell Faster Access to Trump\u2019s Posts - The New York Times Truth Social Parent to Sell Faster Access to Trump\u2019s",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 76.71,
+      "change": 1.98,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlkbjk3N3M2S3RKaVZfdnpTOTFvYUlvLUxuRVQ0THZEMjNuVlBNNjQ0QnE3a3V0RWZVYWlibUFRZVRkTlNtSlhweUJHNUNKYnVpN1pvS3I5SV9pTUFJdWhRNF8wODdVbjBQd0RUR25yNDVUZDRuQ0p5ZmdQOVNFYmxIcllvSFdnWURnTkV2OXRaS2pBZmJOWFQ2aUZ1Zw?oc=5",
+      "image": null,
+      "headline": "Truth Social Parent to Sell Faster Access to Trump\u2019s Posts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 74.23
+        },
+        {
+          "d": "06-18",
+          "c": 72.83
+        },
+        {
+          "d": "06-22",
+          "c": 71.86
+        },
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        }
+      ]
+    },
+    {
+      "id": "4f3f0ca957788c58",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T00:28:29+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Truth Social Parent to Sell Faster Access to Trump\u2019s Posts - The New",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlkbjk3N3M2S3RKaVZfdnpTOTFvYUlvLUxuRVQ0THZEMjNuVlBNNjQ0QnE3a3V0RWZVYWlibUFRZVRkTlNtSlhweUJHNUNKYnVpN1pvS3I5SV9pTUFJdWhRNF8wODdVbjBQd0RUR25yNDVUZDRuQ0p5ZmdQOVNFYmxIcllvSFdnWURnTkV2OXRaS2pBZmJOWFQ2aUZ1Zw?oc=5",
+      "image": null,
+      "headline": "Truth Social Parent to Sell Faster Access to Trump\u2019s Posts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "fd44b89aec9f567d",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T00:13:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "\u2018Brazen corruption\u2019: critics denounce Trump media plan to sell priority access to Truth Social posts - The",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzItZU5TQlRFWVo3Vm9HaVQ0N2ZMR3pkV0lUSDVxN3BIa0lNcmNScDB1VThsd3BmNnRNeHNqLTV6ZU5UV2dWMEh0Z2lraEdvTGlPOTZlbFhMOXFLdndMb2JobzlIVzEyMUpaZ0VuLW14REdhNnREYTlGZjBVUTZKSUhVeEg?oc=5",
+      "image": null,
+      "headline": "\u2018Brazen corruption\u2019: critics denounce Trump media plan to sell priority access to Truth Social posts - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
     {
       "id": "6ce28d4108078d8d",
       "date": "Thu, 16 Jul 2026",
@@ -1218,6 +1718,106 @@
       "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlVZRWdaTi1GTkpJUURBbkpkU3l0OU9rRXNRR2RyWnVKM2taMGZNRkRqOW9HYU1mVmVTRUJDdnhIcUZVMWxRWjZOSUdwVHlFOEpwSDVWZzNVckYwRWIwYVhRYjRFRjY2QnNmSUFaOFZ1OGhoQjFPN3NUWlVHUFZnTC1EMzY3SkFrMVB1TUhjVC15RG51NGhidlZVVGlzZVVHREFsYkZR0gGrAUFVX3lxTE5qNmpHMnlTZWVMRU5Wa3c4ZFdnLVV6ejZmbE5TLWx4bmY1TjBDNFdEV2tfYmpvVGdxLTJiU2UtQnltTS1TTkNiWHNOOWJ6aFJpSmNrTDNmbkdTZXpNTUN5VHNYeVZNUVI1ZXJOUk1SQnBGcXF4b1E5WmxyaDRsajY4aFRfcGFIaFBIVzljWEFKNjcxTDY1dWpKMVhCcFdUM2NyQTlJV1RoNTZwWQ?oc=5",
       "image": null,
       "headline": "Trump media to sell faster access to president\u2019s Truth Social posts - Vanguard News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "d0e48e5b0f5c94d6",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T21:44:10+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "HuffPost",
+      "type": "news",
+      "quote": "Trump Firm Plans To Sell Priority Access To Truth Social Posts, Possibly His Own - HuffPost Trump Firm Plans To",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGlxU25aS1pWV3RobHBpYk5PN2pKMEhweVZUYnZpdkRfb3Y4SmQwVWZMc1dTVWRxWkxPWFJZTGpRTHhKTUtKTWtvUUFLMmc4MUFGWEtiX3hBeXJzbWZLblNsejdkNjdDRlNtNjUyNGZwbENOLWcwMEszY0s5RGNJMjRRX1h4QlU4YXJibXZyeFpqMkloLXRVTzlR0gGfAUFVX3lxTFBfdzFQdXVYYkh2VkNGTnltUXFnenlFT0dLbUNzYmkydFhuQnFObnJYbV9QU3g2SVd4OVd6a0N0Y0VoXzBVSUl1b29tQmYwX0E1TnUwd3JOZmlUZU5GS1NhREhKMHF6bUhCVmpJVTJ4ZE9WdnE2d3ZBbENjNVNqUVBmUkNpVWdRVWRWb2lrd1E0TmFDS0NiS3lyczdHWGF4WQ?oc=5",
+      "image": null,
+      "headline": "Trump Firm Plans To Sell Priority Access To Truth Social Posts, Possibly His Own - HuffPost",
       "channel": "News",
       "series": [
         {
@@ -38982,654 +39582,6 @@
         {
           "d": "06-18",
           "c": 134.97
-        }
-      ]
-    },
-    {
-      "id": "40836e6b6049186f",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T09:16:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "shares rally as Trump says company will build chips for Apple in the U.S. - MarketWatch Intel shares rally as Trump says",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 295.95,
-      "change": -1.1,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0kxd0R6dUFKSXB1eHpYNkRWSnpLZ0g2V0dVMDJJMXV3MXc2MF9oTWdjb1l3d2JPb1JJNnFXc0lQbkhnZnVQbFA3b05RY2NOLUh1Z3pzbEZNaGMyUFlETWV1OWhMNVNwT3dHcDc1RlZMOHZ0eEtfYlo5YlIxQWRENEpwY2JQeWEyVGxaYjZwNGdwQUYtNEFhSV9GWFA1b2VGUnZiNFlUUEVXR0RFM28tYkxMbUxfaDktSzRhYWt3?oc=5",
-      "image": null,
-      "headline": "Intel shares rally as Trump says company will build chips for Apple in the U.S. - MarketWatch",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 297.84
-        },
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        }
-      ]
-    },
-    {
-      "id": "5cae9f1928f89468",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T09:16:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "Intel shares rally as Trump says company will build chips for",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 121.1,
-      "change": 3.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0kxd0R6dUFKSXB1eHpYNkRWSnpLZ0g2V0dVMDJJMXV3MXc2MF9oTWdjb1l3d2JPb1JJNnFXc0lQbkhnZnVQbFA3b05RY2NOLUh1Z3pzbEZNaGMyUFlETWV1OWhMNVNwT3dHcDc1RlZMOHZ0eEtfYlo5YlIxQWRENEpwY2JQeWEyVGxaYjZwNGdwQUYtNEFhSV9GWFA1b2VGUnZiNFlUUEVXR0RFM28tYkxMbUxfaDktSzRhYWt3?oc=5",
-      "image": null,
-      "headline": "Intel shares rally as Trump says company will build chips for Apple in the U.S. - MarketWatch",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 108.17
-        },
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        }
-      ]
-    },
-    {
-      "id": "743ad8b954df3c22",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T09:16:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip deal might start small - MarketWatch Intel\u2019s stock",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.52,
-      "change": 0.53,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0kxd0R6dUFKSXB1eHpYNkRWSnpLZ0g2V0dVMDJJMXV3MXc2MF9oTWdjb1l3d2JPb1JJNnFXc0lQbkhnZnVQbFA3b05RY2NOLUh1Z3pzbEZNaGMyUFlETWV1OWhMNVNwT3dHcDc1RlZMOHZ0eEtfYlo5YlIxQWRENEpwY2JQeWEyVGxaYjZwNGdwQUYtNEFhSV9GWFA1b2VGUnZiNFlUUEVXR0RFM28tYkxMbUxfaDktSzRhYWt3?oc=5",
-      "image": null,
-      "headline": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip deal might start small - MarketWatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 297.52
-        }
-      ]
-    },
-    {
-      "id": "57bca9d9a69af651",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T09:16:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.66,
-      "change": 10.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0kxd0R6dUFKSXB1eHpYNkRWSnpLZ0g2V0dVMDJJMXV3MXc2MF9oTWdjb1l3d2JPb1JJNnFXc0lQbkhnZnVQbFA3b05RY2NOLUh1Z3pzbEZNaGMyUFlETWV1OWhMNVNwT3dHcDc1RlZMOHZ0eEtfYlo5YlIxQWRENEpwY2JQeWEyVGxaYjZwNGdwQUYtNEFhSV9GWFA1b2VGUnZiNFlUUEVXR0RFM28tYkxMbUxfaDktSzRhYWt3?oc=5",
-      "image": null,
-      "headline": "Intel\u2019s stock jumps 11% \u2014 even as analysts say new Apple chip deal might start small - MarketWatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.66
-        }
-      ]
-    },
-    {
-      "id": "dc40dc94ce76af39",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T09:15:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Intel Shares Bounce Premarket After Trump Announces Apple Partnership - WSJ Intel Shares Bounce Premarket After",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 295.95,
-      "change": -1.1,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFJLWllMc0xIMjdEd3l2S0JqQlJ4dkM4UEo3WEtQdkQ0M0EtQngtcE5vVjNybVZFNWFVSkkwVjhkeW9vVlBxd0Y2V1l4TWhqMDdMNWh0NXFUUElIdm1UZDFWT2t4cDVVQkk5N2FEMFI2T3JKMm1sdGE5YmFYWklHdUJNY0dkMkc2OWFrYnk1bGZmc2ZXZlRubm1IWjdBblNoeTZkaHNB?oc=5",
-      "image": null,
-      "headline": "Intel Shares Bounce Premarket After Trump Announces Apple Partnership - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 297.84
-        },
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        }
-      ]
-    },
-    {
-      "id": "ffec0b8924f576c5",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T09:15:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Intel Shares Bounce Premarket After Trump Announces Apple",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 121.1,
-      "change": 3.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFJLWllMc0xIMjdEd3l2S0JqQlJ4dkM4UEo3WEtQdkQ0M0EtQngtcE5vVjNybVZFNWFVSkkwVjhkeW9vVlBxd0Y2V1l4TWhqMDdMNWh0NXFUUElIdm1UZDFWT2t4cDVVQkk5N2FEMFI2T3JKMm1sdGE5YmFYWklHdUJNY0dkMkc2OWFrYnk1bGZmc2ZXZlRubm1IWjdBblNoeTZkaHNB?oc=5",
-      "image": null,
-      "headline": "Intel Shares Bounce Premarket After Trump Announces Apple Partnership - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-18",
-          "c": 108.17
-        },
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
         }
       ]
     }
