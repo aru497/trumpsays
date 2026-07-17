@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-07-17T11:00:54.037588+00:00",
+  "updated_at": "2026-07-17T12:39:42.358158+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "47a91a2530ee6ae6",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T12:20:02+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "\uc870\uc120\uc77c\ubcf4",
+      "type": "news",
+      "quote": "Trump's Truth Social Charges for Faster Policy Access - \uc870\uc120\uc77c\ubcf4 Trump's Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWI2Yy1lbEZEcU5vR0hFSEo1X0JKN3lhdjNfd2ZPSFhqWFhzcEJlWDNvSU9lNEFkNGt2cEJfWEc5RFhlSFZlQ2ZiN1htZnZZREl3MmFlZGZXR1JwZ1dId2paUUpORFh2MUxoVjBfZll3Y0xXWmtsNG0xRy1NOUpSUmNLMEI?oc=5",
+      "image": null,
+      "headline": "Trump's Truth Social Charges for Faster Policy Access - \uc870\uc120\uc77c\ubcf4",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "7e2d2294c5df699f",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T10:28:25+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "TheBanker.com",
+      "type": "news",
+      "quote": "Truth Social to sell banks access to Trump posts; Stripe\u2019s PayPal bid \u2018undervalues\u2019 company - TheBanker.com Truth Social to",
+      "company": "Paypal",
+      "ticker": "PYPL",
+      "price": 56.73,
+      "change": 2.18,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oZ1lRZjRVeWhJSFpEZS1JZy1MRkc0WGNhU09rNzBFV2draXN0NWR0S1Z5TnNJc2o2U2dIc08wNFdPbGozRk5UcTg0ZkptUXNYdGJxNUtBU0d5b2V5QVpOSW5TRHFLMjRzZUI5QU1JdkFLbmhaRmp2VzFB?oc=5",
+      "image": null,
+      "headline": "Truth Social to sell banks access to Trump posts; Stripe\u2019s PayPal bid \u2018undervalues\u2019 company - TheBanker.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 42.08
+        },
+        {
+          "d": "06-18",
+          "c": 42.51
+        },
+        {
+          "d": "06-22",
+          "c": 42.34
+        },
+        {
+          "d": "06-23",
+          "c": 41.7
+        },
+        {
+          "d": "06-24",
+          "c": 42.48
+        },
+        {
+          "d": "06-25",
+          "c": 42.38
+        },
+        {
+          "d": "06-26",
+          "c": 44.29
+        },
+        {
+          "d": "06-29",
+          "c": 44.38
+        },
+        {
+          "d": "06-30",
+          "c": 43.18
+        },
+        {
+          "d": "07-01",
+          "c": 44.07
+        },
+        {
+          "d": "07-02",
+          "c": 45.47
+        },
+        {
+          "d": "07-06",
+          "c": 45.09
+        },
+        {
+          "d": "07-07",
+          "c": 45.65
+        },
+        {
+          "d": "07-08",
+          "c": 44.53
+        },
+        {
+          "d": "07-09",
+          "c": 45.32
+        },
+        {
+          "d": "07-10",
+          "c": 46.32
+        },
+        {
+          "d": "07-13",
+          "c": 47.65
+        },
+        {
+          "d": "07-14",
+          "c": 47.37
+        },
+        {
+          "d": "07-15",
+          "c": 55.52
+        },
+        {
+          "d": "07-16",
+          "c": 56.73
+        }
+      ]
+    },
+    {
+      "id": "6371b35dd3a98a17",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T10:28:25+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "TheBanker.com",
+      "type": "news",
+      "quote": "Truth Social to sell banks access to Trump posts; Stripe\u2019s PayPal bid",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oZ1lRZjRVeWhJSFpEZS1JZy1MRkc0WGNhU09rNzBFV2draXN0NWR0S1Z5TnNJc2o2U2dIc08wNFdPbGozRk5UcTg0ZkptUXNYdGJxNUtBU0d5b2V5QVpOSW5TRHFLMjRzZUI5QU1JdkFLbmhaRmp2VzFB?oc=5",
+      "image": null,
+      "headline": "Truth Social to sell banks access to Trump posts; Stripe\u2019s PayPal bid \u2018undervalues\u2019 company - TheBanker.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
     {
       "id": "2fb3c0513e47bfbf",
       "date": "Fri, 17 Jul 2026",
@@ -118,6 +418,106 @@
       "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUVJR1U1WFA3c1lTd1NfYnFIdXRzRXpIbWZjTWtjMzhvdGtUWEk0eHVnN2EwZ0lNcUJQczE2Y3RRV0dUc2dEMGVWTTJZamhTNkhaNVMzM1J2djVBbW9nVE55bV9YV0o0a2dCb1BsbUYzdEsyLTZTUE1PdlpmY2pSc2pwbw?oc=5",
       "image": null,
       "headline": "Trump Media to Sell Traders \u2018the Fastest\u2019 Access to Truth Social Posts - Time Magazine",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "fad610696b68394c",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T09:24:07+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Kavout | AI",
+      "type": "news",
+      "quote": "Is Trump Media & Technology Group (DJT) Pivoting Again with a Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnFGNDhONExIQ2V0XzRUN1BkcGg1a0lIVDRDa0c1ZGxwaHo3WUZvNTdlQkhabXFwcV9JTzRubnlYSTJYUXhnaUc1Q3dDSk8wY21OMXlraE9Ib2RGUlJRem9KUTdfYXdhcUNfZk5IZFZEWWRMcm9tVVQwM21hSHEzSVBTcm9LQWVScUs4VmNZYVkyVkpROWFLcXFieHBxem1veUt5NXNzRHU0bXp0dnVWVFVKc3o?oc=5",
+      "image": null,
+      "headline": "Is Trump Media & Technology Group (DJT) Pivoting Again with a Truth Social Spin-Off - Kavout | AI",
       "channel": "News",
       "series": [
         {
@@ -618,6 +1018,106 @@
       "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUZsMlNXV09FUWk0ZHU3QTRmVHpoelNkRkVzU1oxVExSRGNDMzcydTlLUl90VWtvUllhMzloT3diWGEwLTFBdlVyZkRfWXZRZDRyYkdDT1E1d3A0N1FudjNldmJxQThZRHloVFljT3ZLSFRIemM0alRNVFVCR3ZfRVVJaFRQdGRhUkxjcXFEX1ROWjVQaE8wbDVTU2NwOUxHakNzYkVQMGxPUQ?oc=5",
       "image": null,
       "headline": "Trump media company to sell high-speed access to his posts - The Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "f2bc3ff182bf996f",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T07:30:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Newser",
+      "type": "news",
+      "quote": "Truth Social Has a New Money-Making Plan - Newser Truth Social Has a",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.63,
+      "change": 0.63,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWFVdDZORHhHelY1OVZHamJHRHpObzBEWWh4WGtUWFliMkhralByZjl2TEZ5TlBNMVM2Y1RYSGY0QnVOVVZ6N3Vqd3VXRGtSTnNuU1BvYXV4MXpSUHVtVGgzdzhsdEI4YWRuX2xab0hWc3lrMlRXVGM1cDVSZUxsbVhDSEp0MVBLUXg5b2NEYjV2ZXU3aXJJWHNKT2VaMl9pS2c?oc=5",
+      "image": null,
+      "headline": "Truth Social Has a New Money-Making Plan - Newser",
       "channel": "News",
       "series": [
         {
@@ -38931,546 +39431,6 @@
         {
           "d": "06-18",
           "c": 131.09
-        }
-      ]
-    },
-    {
-      "id": "1352bb00d693be48",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:02:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Intel shares leap after Trump says it's working with Apple to make chips in the U.S. - CBS News Intel shares leap",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 299.02,
-      "change": 1.04,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZ2FqQWNWOEE2bjBXY1VnazVBMWFLamR4WTNtLWRnZ2htV3IwWngtdm1IMmpOS0I3ZU53d3ZMWHZaRlI5QTV5VTg2S1hZWVgtYWZlZ0Q3WEx0T0pZY0ExR0Rhc3J5WWtCOVJIOTZycC1lMndIYURrSFhvcklKeUU?oc=5",
-      "image": null,
-      "headline": "Intel shares leap after Trump says it's working with Apple to make chips in the U.S. - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 299.02
-        }
-      ]
-    },
-    {
-      "id": "234f661145be8282",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:02:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Intel shares leap after Trump says it's working with Apple to",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 131.09,
-      "change": 8.25,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZ2FqQWNWOEE2bjBXY1VnazVBMWFLamR4WTNtLWRnZ2htV3IwWngtdm1IMmpOS0I3ZU53d3ZMWHZaRlI5QTV5VTg2S1hZWVgtYWZlZ0Q3WEx0T0pZY0ExR0Rhc3J5WWtCOVJIOTZycC1lMndIYURrSFhvcklKeUU?oc=5",
-      "image": null,
-      "headline": "Intel shares leap after Trump says it's working with Apple to make chips in the U.S. - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 131.09
-        }
-      ]
-    },
-    {
-      "id": "325036e52ff19f5b",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T13:19:02+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 296.06,
-      "change": 0.04,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
-      "image": null,
-      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 296.06
-        }
-      ]
-    },
-    {
-      "id": "1423e6e02cb5e365",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T13:19:02+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga Intel",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 207.13,
-      "change": 1.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
-      "image": null,
-      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 220.35
-        },
-        {
-          "d": "05-20",
-          "c": 223.21
-        },
-        {
-          "d": "05-21",
-          "c": 219.25
-        },
-        {
-          "d": "05-22",
-          "c": 215.08
-        },
-        {
-          "d": "05-26",
-          "c": 214.61
-        },
-        {
-          "d": "05-27",
-          "c": 212.35
-        },
-        {
-          "d": "05-28",
-          "c": 214.0
-        },
-        {
-          "d": "05-29",
-          "c": 210.89
-        },
-        {
-          "d": "06-01",
-          "c": 224.1
-        },
-        {
-          "d": "06-02",
-          "c": 222.56
-        },
-        {
-          "d": "06-03",
-          "c": 214.5
-        },
-        {
-          "d": "06-04",
-          "c": 218.66
-        },
-        {
-          "d": "06-05",
-          "c": 205.1
-        },
-        {
-          "d": "06-08",
-          "c": 208.64
-        },
-        {
-          "d": "06-09",
-          "c": 208.19
-        },
-        {
-          "d": "06-10",
-          "c": 200.42
-        },
-        {
-          "d": "06-11",
-          "c": 204.87
-        },
-        {
-          "d": "06-12",
-          "c": 205.19
-        },
-        {
-          "d": "06-15",
-          "c": 212.45
-        },
-        {
-          "d": "06-16",
-          "c": 207.41
-        },
-        {
-          "d": "06-17",
-          "c": 204.65
-        },
-        {
-          "d": "06-18",
-          "c": 207.13
-        }
-      ]
-    },
-    {
-      "id": "e61e653a89cb0f20",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T13:19:02+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 134.97,
-      "change": 11.45,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
-      "image": null,
-      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 134.97
         }
       ]
     }
