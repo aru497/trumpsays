@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-07-17T21:12:42.521140+00:00",
+  "updated_at": "2026-07-17T22:11:14.494268+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7878df5def3974d9",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T21:55:24+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Jacksonville Journal-Courier",
+      "type": "news",
+      "quote": "Paying for early access to Trump's Truth Social could raise big money - and major ethical issues -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.66,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY04zTjV5NEVLTlUxbFdnblROWWRoYm5qU0lsTkhmN2tXVmpJbVVhZ0tSTG0xZm9LejZ2QUVCdnNRblpqU292d1M3Z29DeEFnOUlBdUtheThLWWl0emFYUUpMTFpVbmVkanpSdmw3T25sM3JjTUh1Y2kxNTZBYS1BNXRwMVBuaHc3RnpzMGFLeTQ4WWJvX2Z2cEw3ZW1qTDFuY1RUX292NkpiWkRONmc4NDVpZFZOQQ?oc=5",
+      "image": null,
+      "headline": "Paying for early access to Trump's Truth Social could raise big money - and major ethical issues - Jacksonville Journal-Courier",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        }
+      ]
+    },
+    {
+      "id": "e91769d71f563f86",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T21:39:27+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump Media pitched $100,000 monthly fee for fastest feed of US",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.66,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXhybkhSVTZzdG9mUEw1S0ZveDNCRm81ZEJmYWl2dW1BTzdGWkMxbTM3TWhqTVRlaGN4M3ZZMWNsU21hd0lYRnhtLVBBbWxZcHFLRmpmeHFSTFBfaVZjVFItUWlXMjRlbWpBYlM5b00wYXlnbFU5bnpWX2hwSGdrTzBVWm5ySTcwZnFwNHpqbnlJRVRGQUdDUGR4NFhlVzRqZmJLN1ZPUkdremVHR3VGUkdIOTJ0OVE4dFl3aGVJUmxwYjhMcDJZWC1XTGp6SWFxVThhUg?oc=5",
+      "image": null,
+      "headline": "Trump Media pitched $100,000 monthly fee for fastest feed of US president's posts, sources say - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        }
+      ]
+    },
+    {
+      "id": "dab188f7a38a0180",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T21:15:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "WSJ",
+      "type": "news",
+      "quote": "Opinion | Trump and Truth Social - WSJ Opinion | Trump and Truth Social&nbsp;&nbsp;WSJ",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.66,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45di1QTjJ6QkVxSExYbzZ6b2JfUHdOcDFTSGpxYVhxQTlPdWRjOTNyRERzVWpLUjNCT2t1ajBWMjZ6Vlo1WnBvbU9TZVMzdS1Jd05QR3pCdzRQQVV6cE9nRGVZYkdvbzFScHNF?oc=5",
+      "image": null,
+      "headline": "Opinion | Trump and Truth Social - WSJ",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        }
+      ]
+    },
     {
       "id": "7fe65b2d5c81ee90",
       "date": "Fri, 17 Jul 2026",
@@ -39027,330 +39327,6 @@
         {
           "d": "06-18",
           "c": 133.94
-        }
-      ]
-    },
-    {
-      "id": "2899404a23c1a530",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:48:19+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The Edge Malaysia",
-      "type": "news",
-      "quote": "Intel jumps 12% after Trump says it struck Apple chip deal - The Edge Malaysia Intel jumps 12% after Trump",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.6,
-      "change": 0.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjOHFrbFZpbjBWVGFTaTZxbjFWS1NXc0UxU1hDWXlsazJOcnN2eFhTRTRTdklXWE4tTjd5UkVxVk1HY1BJbHFjYWFBd1lMRklQ?oc=5",
-      "image": null,
-      "headline": "Intel jumps 12% after Trump says it struck Apple chip deal - The Edge Malaysia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 297.6
-        }
-      ]
-    },
-    {
-      "id": "415cf64c1b1b11a1",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:48:19+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The Edge Malaysia",
-      "type": "news",
-      "quote": "Intel jumps 12% after Trump says it struck Apple chip deal - The",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.3,
-      "change": 10.07,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjOHFrbFZpbjBWVGFTaTZxbjFWS1NXc0UxU1hDWXlsazJOcnN2eFhTRTRTdklXWE4tTjd5UkVxVk1HY1BJbHFjYWFBd1lMRklQ?oc=5",
-      "image": null,
-      "headline": "Intel jumps 12% after Trump says it struck Apple chip deal - The Edge Malaysia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.3
-        }
-      ]
-    },
-    {
-      "id": "6eba8f0db61db290",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T16:37:25+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "KRIS 6 News Corpus Christi",
-      "type": "news",
-      "quote": "Trump says Intel has struck deal with Apple to make chips in the US - KRIS 6 News Corpus Christi Trump",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2tyTWRWNmpEQTVqdnN0T0J5QVlFUnM3R3BibVNJWUg1aFB1QWpINWhfZlRMbm0zLThicVZ2aUoxUVBFLXpOWjJuV3prV3dsb2JtalpwZ0VmOGJhLUZvREp4UGJSUlZ0Ui1qWHNId0dvRTFPcFJOR3JhWHN1NnoxdnJ5akFXSnNBRlpsZlNXODFQUk5ORG9SaTZFc0d4eExPVjl0LVgyR0JLSENacjh0WW9R?oc=5",
-      "image": null,
-      "headline": "Trump says Intel has struck deal with Apple to make chips in the US - KRIS 6 News Corpus Christi",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
         }
       ]
     }
