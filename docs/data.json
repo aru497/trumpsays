@@ -1,7 +1,527 @@
 {
-  "updated_at": "2026-07-17T14:23:48.969969+00:00",
+  "updated_at": "2026-07-17T15:52:09.665143+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "efd0a7a916a3d5f8",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T15:09:04+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "WTVC",
+      "type": "news",
+      "quote": "Early alerts: Trump Media plans paid fast-track access to Truth Social posts - WTVC",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -8.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOWpNdXRaRW9VWFZiMDVIODN1NE9uWnFCRTQ2ZjRfLWFqUmJRUFRONWIwRl8yT2VLblRTc201bXgyZERWQjhjcng2akc5eG15VHQybW5maUlmV3VRYmNFOUlIakFodVA5U01QMFNvWnFRMkNtc19Ncl9CdFVZanJiM29BU1dyS01rWU4wYVVXb0lOVTl4OVp2TjllTFZDLVdrTHdVaElOWDNVaFVDRVo0ZkR0Q1E5ZjJTWmFrb0Q2bWZxclZYdDN5bXBGX29xN1MwZ21QN0JkRm9TdUViby14aTM1Vzcyb3lIZFBYb090SklCZGhJaVoyRE5WQzVKTEtaR25oSmc5RjNVQmZmUWg0SXlLakJRZXk5eFBjcQ?oc=5",
+      "image": null,
+      "headline": "Early alerts: Trump Media plans paid fast-track access to Truth Social posts - WTVC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "739eb999a17b59fe",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T14:39:20+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Finextra Research",
+      "type": "news",
+      "quote": "Trump Media to sell traders instant access to market moving Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -8.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndMWkxvOWNoMXpNUHhmSE1JRDFiZk1XbkpBX2VIMXIwUDhpZDF6WG1abjN2S3IxSmRwSEJvZ2Zhd3dNeUFiQjBCWm93WkVfSHd3TEJSNDlHWldyd1U0OENQc1pBRW5NcTc4bWVNZndCZUdhQ255YkcyRDJCTWF1M1BfNnBmSThMU0hnWlJiWDBuYkJDeS1vUG1IUmZGYVhYY0t0b0RqUlpUbmZpUl9sZFQtZG1CVHhPdndZRzB3?oc=5",
+      "image": null,
+      "headline": "Trump Media to sell traders instant access to market moving Truth Social posts - Finextra Research",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "1af82cd0aa9c59d8",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T14:35:08+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Democracy Now!",
+      "type": "news",
+      "quote": "\u201cTruth Social\u201d Plans to Sell Priority Access to Trump\u2019s Posts -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -8.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSFRKSTF3V3lNdWUtNXJyc2NmOFdMelRmdnpCN2RZSHNWN3E4R1pjdXktTzhUYW54VkQwWG9Val81ZzBTUzZ3WG1GbXQ1OS15WFV0Uk53bi1HM2x4eTk5dDlKMGJjbmczOVhvS0Q2Q3FiYllQckp4RUFYWmp2bWVRcEFhN05IU0RoeGRpUFhMVS1CYVRRdTMzSzVhUGFNLVNVS3cyWXBXUGU3Rlk?oc=5",
+      "image": null,
+      "headline": "\u201cTruth Social\u201d Plans to Sell Priority Access to Trump\u2019s Posts - Democracy Now!",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "f07e6d60448a744c",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T13:31:46+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "MS NOW",
+      "type": "news",
+      "quote": "Trump\u2019s social media company Truth Social to sell faster access to president\u2019s posts - MS NOW",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -8.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUMtd0VVdTZobDczejQ1ekJmTGJKajBLbVVzakpLZGVfZFhYUnFOQ2hlbDh1QmhDXy0wajlweDlkVktGSGpNYkdLMkFWcjJhRDFKbThiRDJ4XzFLSUFWaWhLZlpQcXdyaVdmb2swbFc2ZGllRUlmY0d0QkpZUndkX2FHR0R1WV9NWGpNX3Q2TmtyQWU0b3R0UDEwY2VlOVdoT19LZGpRREloQ254Q0tBa2o4TGhuZnYtdDNDaXNrUVpNcm5CUGdITWpBXzAxcTAtRUNyYzhVOTRab0oz?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s social media company Truth Social to sell faster access to president\u2019s posts - MS NOW",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "6cd723d89d052c9a",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T13:28:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Mezha",
+      "type": "news",
+      "quote": "Trump Media will sell fast access to Trump's posts on Truth Social -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -8.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWdHUDdUTENwVW56OEhTMm5tdTFZQkJvZnlZZjRhbHBNbEZoWFpCZWFzWU5CMzJ4bzVNdkpUc0JzMGluc2J4ZWotZk9pYlZtcjlRWGxpQlR6OENONWp6NVJ1MFJmWjRfWG1NdFc0NVBIN2VGY0J4ZDBWV0t2MUg3YjFpc29vNHlnTkxZU1FMSEJPODBmbzhWLdIBngFBVV95cUxNcUQyUTNELXNySFd5Q2xyM3hGdEozNmlkNW5pbjNXMHRtT2w5VGk2VVFwYjB4LUdPQ29ReGVuTHRzWU8tSXRadmlwNUY0eUU0TXpudUVJUXBjbnpOUV9RcjRSUlhudy1yT21fMzB0ZGEzWFhfaXY1aG5KSWo1d0Y3dXl0eDVlRGMwUWV0VWROV2RUemJQYVdUbllrd28tZw?oc=5",
+      "image": null,
+      "headline": "Trump Media will sell fast access to Trump's posts on Truth Social - Mezha",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 8.85
+        }
+      ]
+    },
     {
       "id": "c4fbdecaeefca1b5",
       "date": "Fri, 17 Jul 2026",
@@ -1703,6 +2223,110 @@
         {
           "d": "07-16",
           "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "c5a83347fe93f1f6",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T07:28:11+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "Euronews",
+      "type": "news",
+      "quote": "Trump Media to sell faster access to key market-moving social posts -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -8.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3ZvcmJQVEdDcTdRaVhHOXNUTkhlWC1WRVdwWklMT1dNVXItRTJ3Q1h5elNKRW1HQjlNM0hidFdBM3ZKSkNjRGh6SkgtMERzNWV5Vm5yZVdSVHVvcjV4RUhUa2FCLWxqdWVXUUVDN3lUendxTXZxd3NJOHdqbTVkeUNRWDctZzI3SUplMFB5N0pYeWtzQVVXMmpDREJFQU5EYUZrOUNWVVd0LTB3LWZkLWVn?oc=5",
+      "image": null,
+      "headline": "Trump Media to sell faster access to key market-moving social posts - Euronews",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-17",
+          "c": 8.1
+        },
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 8.85
         }
       ]
     },
@@ -38771,654 +39395,6 @@
         {
           "d": "06-18",
           "c": 133.99
-        }
-      ]
-    },
-    {
-      "id": "b4228482f3568892",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:50:06+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "eciks.org",
-      "type": "news",
-      "quote": "Trump says Apple will work with Intel to design and manufacture chips in",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 299.02,
-      "change": 1.04,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSDBCX05sejdSeGY2U2xDMHZ4elVYY1lUUjlibU9BSGtkdWhTWlA3N0RrWklYaVU5bUtEUnFubElUWk0yRkdoOUFBdFo0QjlROTR1ekQzZDJ1cUVqVmtSTlo2WW5LUnFvRFl5dVNxSDl2UQ?oc=5",
-      "image": null,
-      "headline": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending shares up 9% - eciks.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 299.02
-        }
-      ]
-    },
-    {
-      "id": "613d8890a7c0ea39",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:50:06+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "eciks.org",
-      "type": "news",
-      "quote": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 131.09,
-      "change": 8.25,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSDBCX05sejdSeGY2U2xDMHZ4elVYY1lUUjlibU9BSGtkdWhTWlA3N0RrWklYaVU5bUtEUnFubElUWk0yRkdoOUFBdFo0QjlROTR1ekQzZDJ1cUVqVmtSTlo2WW5LUnFvRFl5dVNxSDl2UQ?oc=5",
-      "image": null,
-      "headline": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending shares up 9% - eciks.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 131.09
-        }
-      ]
-    },
-    {
-      "id": "9f4dc18456fcfb6f",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:16:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "WION",
-      "type": "news",
-      "quote": "Apple to collaborate with Intel for domestic chip production,",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.6,
-      "change": 0.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDBNXzdkQWI0cGxsd0dwckxheVNVYTJQdEJ0S3hWcHdWMnlxUndub1k5OW5odHg1RUItbjNWOGpVWERHUGVVUDJ2ZDJGN0lzUWtYWTR5VmpKcWoteUpHaVRBcUxxNE9fcU5wNWVJZWRwNFl5SEszYkZJb29BbnFhQjM5NjZfRlVSQUlNN3NwdFk3QmQ2eFozRkhWRlFPVm11UzdJVmdnUXBWNmlMNDFFRHpRZ216aHVxZXJkTtIBwgFBVV95cUxPSGRGc3ZFb1M0TlB4M3ZranQ4bTJ1aE5rSVp5aEdUQzhPa1IwMTA5SzJMaFVVOUxBV0RTOFJXcWlVeWRrNTRkUHMtWVNYUUwzQVA5d0hwRFAxb1F2WWZCSHg5WEFRaEFENVVfLVNHc0NlRmQ2aEEzRHR5bEtBeWlvY0RrQXlheWNVZ3dpS1cxb2Nxd1RKOXcxMmxhS2VFTDVUblozaVhRS0pWNnMxVHQybEwxaVpFRG1YQWNvZ0Nrc3lHZw?oc=5",
-      "image": null,
-      "headline": "Apple to collaborate with Intel for domestic chip production, Trump announces - WION",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 297.6
-        }
-      ]
-    },
-    {
-      "id": "839878effa656f36",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:16:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "WION",
-      "type": "news",
-      "quote": "Apple to collaborate with Intel for domestic chip production, Trump announces - WION Apple",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.3,
-      "change": 10.07,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDBNXzdkQWI0cGxsd0dwckxheVNVYTJQdEJ0S3hWcHdWMnlxUndub1k5OW5odHg1RUItbjNWOGpVWERHUGVVUDJ2ZDJGN0lzUWtYWTR5VmpKcWoteUpHaVRBcUxxNE9fcU5wNWVJZWRwNFl5SEszYkZJb29BbnFhQjM5NjZfRlVSQUlNN3NwdFk3QmQ2eFozRkhWRlFPVm11UzdJVmdnUXBWNmlMNDFFRHpRZ216aHVxZXJkTtIBwgFBVV95cUxPSGRGc3ZFb1M0TlB4M3ZranQ4bTJ1aE5rSVp5aEdUQzhPa1IwMTA5SzJMaFVVOUxBV0RTOFJXcWlVeWRrNTRkUHMtWVNYUUwzQVA5d0hwRFAxb1F2WWZCSHg5WEFRaEFENVVfLVNHc0NlRmQ2aEEzRHR5bEtBeWlvY0RrQXlheWNVZ3dpS1cxb2Nxd1RKOXcxMmxhS2VFTDVUblozaVhRS0pWNnMxVHQybEwxaVpFRG1YQWNvZ0Nrc3lHZw?oc=5",
-      "image": null,
-      "headline": "Apple to collaborate with Intel for domestic chip production, Trump announces - WION",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.3
-        }
-      ]
-    },
-    {
-      "id": "d813d7c141368c9e",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:14:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The Columbus Dispatch",
-      "type": "news",
-      "quote": "Intel and Apple strike chip deal, Trump says in Truth Social post - The",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.52,
-      "change": 0.53,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTFqQmVCb0VDeE9oaE1sc3ZIVGRIc1pLcU1lZHNTTm8xczhIb3ZBcUxOSGV4MElYUi1kakdiUGttTkN1NWUwQS0ybkFwek5TUHAzejRCQU15V19Mak1YajlUMXZkYWJsdVE3TFV5Z2JQTUtTYnMzaGt1QlRTcjh5dGVvRFZBR0hDSzdOMjBDWEdtYXZ0aTdlb1ZpdXJIdjFldHVIY1NzdXdLclpJemFfMVdlNA?oc=5",
-      "image": null,
-      "headline": "Intel and Apple strike chip deal, Trump says in Truth Social post - The Columbus Dispatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 297.52
-        }
-      ]
-    },
-    {
-      "id": "cff8019da13741ba",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T14:14:00+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "The Columbus Dispatch",
-      "type": "news",
-      "quote": "Intel and Apple strike chip deal, Trump says in Truth Social",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.66,
-      "change": 10.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTFqQmVCb0VDeE9oaE1sc3ZIVGRIc1pLcU1lZHNTTm8xczhIb3ZBcUxOSGV4MElYUi1kakdiUGttTkN1NWUwQS0ybkFwek5TUHAzejRCQU15V19Mak1YajlUMXZkYWJsdVE3TFV5Z2JQTUtTYnMzaGt1QlRTcjh5dGVvRFZBR0hDSzdOMjBDWEdtYXZ0aTdlb1ZpdXJIdjFldHVIY1NzdXdLclpJemFfMVdlNA?oc=5",
-      "image": null,
-      "headline": "Intel and Apple strike chip deal, Trump says in Truth Social post - The Columbus Dispatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.66
         }
       ]
     }
