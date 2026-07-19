@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-19T21:40:10.158856+00:00",
+  "updated_at": "2026-07-19T22:40:00.257269+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7933ce2758a11342",
+      "date": "Sun, 19 Jul 2026",
+      "ts": "2026-07-19T22:05:40+00:00",
+      "date_display": "Jul 19, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Media Says Co Settles Legal Disputes - TradingView Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.66,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGpDa1FMME16eGxWT1Jmd0tQcWNGcWFMUGNnTC03SXpkTkZiVXpNbzAwV2hDSjZLZmhaZlZoOTJVNzhXd0QzZV9KWWxIeFBmUTNyZVlldVhqVUhPQnkwUFREcVo1WG1LREtTTV83aGs5RUoxenNrZFVDSm0zcktMbFQtTElKVkJlTFA4UWMtVkN5MEFQQ0xBZmZyNjFsN2xFbkZOTUJHdjliTzhtcGZhQnZ3?oc=5",
+      "image": null,
+      "headline": "Trump Media Says Co Settles Legal Disputes - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-18",
+          "c": 8.49
+        },
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        }
+      ]
+    },
     {
       "id": "52fcf53e8d86076a",
       "date": "Sun, 19 Jul 2026",
@@ -39115,114 +39215,6 @@
         {
           "d": "06-18",
           "c": 133.99
-        }
-      ]
-    },
-    {
-      "id": "8fac992b113fe464",
-      "date": "Thu, 18 Jun 2026",
-      "ts": "2026-06-18T19:48:04+00:00",
-      "date_display": "Jun 18, 2026",
-      "source": "FXLeaders",
-      "type": "news",
-      "quote": "INTC Stock Eyes $150 as Trump Announces Intel-Apple Partnership to Build Chips in t US - FXLeaders INTC Stock",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczBnZy1yYjJJT1pXcDBSM3FkNVJLYWxzTU5UWTFndmJkd3p6bElyMEdSMi12TGVrY3Z2Z2JMTWNRRzZmTGg4YVRKZVhWLTE4V0NHdFlxSV8tbVFydC13MXd0STM1ZDY2OTlFQVAwTFZDOVUtQzlBeDB3X1hIclNpcTUtUkRYSHNrbXppNmJ0WXFBUU5HOS15QzZZQVdOdUk2T0tCcG5Db2JxVWVQdEpKUVU0NTBmdlNhcG9STHNfZnJJZXJTbWJhSkZn?oc=5",
-      "image": null,
-      "headline": "INTC Stock Eyes $150 as Trump Announces Intel-Apple Partnership to Build Chips in t US - FXLeaders",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
         }
       ]
     }
