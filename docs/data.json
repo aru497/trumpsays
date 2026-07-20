@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-20T20:15:44.415424+00:00",
+  "updated_at": "2026-07-20T21:38:06.032924+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9ddef27b90e1937a",
+      "date": "Mon, 20 Jul 2026",
+      "ts": "2026-07-20T20:48:18+00:00",
+      "date_display": "Jul 20, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Media Targets Traders With Truth API and Trump's 12.9 Million",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.74,
+      "change": 0.83,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOE5PWklsVUlsUkNNdlZpZUZNdGxiQkpsa1JKMldRNEE0LS1pdUxRQXpyTHp2UEFSalZDOWN6OVhJVkNFX1pvcTBMSC1BZGticXJVTzhkaFJDQVlWRVlaUGd3MTc2TEswX3ZXU240WEdsdnEzblY4LTJWMVFTR0dmS0puSGVqSWRHV0ZtTnNGQkdFbXFjY1lmSnBWVnUyT3l0Z3E5M1VhUFM0dWtYUmpDdTZNV0lPRXBBWUZFOFI0X291ZzJiRlRCWTh2N1BzSlk2WnpV?oc=5",
+      "image": null,
+      "headline": "Trump Media Targets Traders With Truth API and Trump's 12.9 Million Followers - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        }
+      ]
+    },
     {
       "id": "8ba3c6965d792315",
       "date": "Mon, 20 Jul 2026",
@@ -39035,114 +39135,6 @@
         {
           "d": "06-17",
           "c": 74.46
-        }
-      ]
-    },
-    {
-      "id": "97d5b5bb5ac473f2",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T01:11:55+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "GuruFocus",
-      "type": "news",
-      "quote": "Intel (INTC) Shares Surge After Trump Confirms Apple Chip Produc - GuruFocus Intel (INTC) Shares Surge After",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3lLdnpCSEpMUHN4Rl9wWjN2UlhSVW9zWUs0LWNWNmhHWEgxRDhNZGJqS25tRkxMYUxSXzlXTmxnQlRPelhLNi13ZzlQTFdoQ2NYYlJzSFpEQWNidHNmZ2dtMHRjaDR0ZnVRbmhLcF85SGJQeHlLMi1rNHdTMFVWLTJQc05oRkFCSHZpWTBIaG1aREVMeXA0cFBLcEhqNHRjanBMTlhyTUE?oc=5",
-      "image": null,
-      "headline": "Intel (INTC) Shares Surge After Trump Confirms Apple Chip Produc - GuruFocus",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
         }
       ]
     }
