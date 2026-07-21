@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-07-21T21:03:06.847305+00:00",
+  "updated_at": "2026-07-21T22:24:37.910712+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "088a7470ab2e926c",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T22:12:47+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data - Axios Scoop:",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.82,
+      "change": 0.82,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uS0JvTUxmMXo1LUo1RTktNUVOVm02QmdOQllNa19LWDd4dXZQR0JXdzNWVVlYN2wtUW4tbUFFTWZuU3lxMFN1cFlmMkxUUWpEa3puT1FzRkNYaEJmQ2hMSEdtYlNEQ09veFlYWjhR?oc=5",
+      "image": null,
+      "headline": "Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        }
+      ]
+    },
+    {
+      "id": "d507839baaaefb32",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T22:05:00+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "foreignpolicyjournal.com",
+      "type": "news",
+      "quote": "Trump Media & Technology Group (NASDAQ: DJT) Targets Institutional",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.82,
+      "change": 0.82,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTXNVTFloR0g1SU9nakV4eHJjNzFUMFpuTlJQczd1cWNjTmlGdG16TkRBRTFvcDJTNDExMjVXTEJybzRLYlVkTkpJeGJ1MG9jRGtOUFJETTNvMjQyeDZYXzZISFl3aFltY0JPc3Bkc1hwZTRmNG5KZXdMQktUQzRXdlU5VVVpUjFKbExVVTk4ZHU1cGVWTVBDY0RhY0k1YXVwWS1SbGlPZnA3UnR3VnV5aEJTTmVrMWZpOVhxZWJWcTVUZm9hQXd6VWJRNXB1UVZMeWNlTUJSMFIxU2lzeDVnU0g1VGE?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group (NASDAQ: DJT) Targets Institutional Clients With New Truth API Data Product - foreignpolicyjournal.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        }
+      ]
+    },
+    {
+      "id": "686b67b643447051",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T21:55:27+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Donald Trump said Tuesday that the United States will soon target the area near Pickaxe Mountain \u2014 a fortified underground",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 138.48,
+      "change": -0.8,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-will-hit-area-of-irans-pickaxe-mountain-very-heavily",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-21T153133Z_1513803753_RC2BIMAMN5BM_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "WATCH: Trump says U.S. will hit area of Iran's Pickaxe Mountain 'very heavily'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 129.73
+        },
+        {
+          "d": "06-23",
+          "c": 134.11
+        },
+        {
+          "d": "06-24",
+          "c": 141.2
+        },
+        {
+          "d": "06-25",
+          "c": 139.57
+        },
+        {
+          "d": "06-26",
+          "c": 140.39
+        },
+        {
+          "d": "06-29",
+          "c": 133.92
+        },
+        {
+          "d": "06-30",
+          "c": 130.61
+        },
+        {
+          "d": "07-01",
+          "c": 130.29
+        },
+        {
+          "d": "07-02",
+          "c": 130.21
+        },
+        {
+          "d": "07-06",
+          "c": 126.1
+        },
+        {
+          "d": "07-07",
+          "c": 127.55
+        },
+        {
+          "d": "07-08",
+          "c": 132.42
+        },
+        {
+          "d": "07-09",
+          "c": 132.27
+        },
+        {
+          "d": "07-10",
+          "c": 135.14
+        },
+        {
+          "d": "07-13",
+          "c": 134.77
+        },
+        {
+          "d": "07-14",
+          "c": 134.0
+        },
+        {
+          "d": "07-15",
+          "c": 138.29
+        },
+        {
+          "d": "07-16",
+          "c": 140.21
+        },
+        {
+          "d": "07-17",
+          "c": 139.6
+        },
+        {
+          "d": "07-20",
+          "c": 139.59
+        },
+        {
+          "d": "07-21",
+          "c": 138.48
+        }
+      ]
+    },
+    {
+      "id": "f72068473e1e2361",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T21:23:39+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "Bloomberg.com",
+      "type": "news",
+      "quote": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Bloomberg.com Senators Question \u2018Insider\u2019 Access",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.82,
+      "change": 0.82,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnB0YnBXc2NobkdEbnJCOENhaUN2QUdXT3NjUU5PQWkyd0dyNEJXamxhY2VFU3ROXzZobGhWaXpsZk1saEZkV3VGek9Wa0p5a3ZKZU1mS3Jnb3dmd29Vek1WUW1ZbWh0QW9kbjZHUldsRDdqdlE0eGVJT0FrYVB0M1NmLWZGZHA3RndnVno2Qk9NYU50SkQ5eG1RNFFoWERkMzZxbkZ6TmFsekJ0eElWRg?oc=5",
+      "image": null,
+      "headline": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Bloomberg.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        }
+      ]
+    },
     {
       "id": "8f3c7225a304e08e",
       "date": "Tue, 21 Jul 2026",
@@ -38586,434 +39002,6 @@
         {
           "d": "06-17",
           "c": 74.46
-        }
-      ]
-    },
-    {
-      "id": "f3675dc1651cd104",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T15:38:22+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Favorite AI Chip Stock in 2026 That Performed Better Than Nvidia (NVDA) - Yahoo Finance Donald Trump\u2019s Favorite AI Chip",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 210.69,
-      "change": 2.95,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVVOVGpJRlRkR2lrNUNENTBDb3JVX2xkc2wtOFJTZEdtTnNWMk1ndmRhUDY4N2ZCYk5kREtfcG5kNGxZVnhEdmdqeGpSd1ppRWotR1NIUVAzT2t2RHIzSjZIeG9kNVpFVWJlbEpWS1VmZFp0SzkwcE5sN2R3b2JoYU1ORTJoRV8wZlZfUVRLaXhkNHpPYi1lRw?oc=5",
-      "image": null,
-      "headline": "Donald Trump\u2019s Favorite AI Chip Stock in 2026 That Performed Better Than Nvidia (NVDA) - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 220.35
-        },
-        {
-          "d": "05-20",
-          "c": 223.21
-        },
-        {
-          "d": "05-21",
-          "c": 219.25
-        },
-        {
-          "d": "05-22",
-          "c": 215.08
-        },
-        {
-          "d": "05-26",
-          "c": 214.61
-        },
-        {
-          "d": "05-27",
-          "c": 212.35
-        },
-        {
-          "d": "05-28",
-          "c": 214.0
-        },
-        {
-          "d": "05-29",
-          "c": 210.89
-        },
-        {
-          "d": "06-01",
-          "c": 224.1
-        },
-        {
-          "d": "06-02",
-          "c": 222.56
-        },
-        {
-          "d": "06-03",
-          "c": 214.5
-        },
-        {
-          "d": "06-04",
-          "c": 218.66
-        },
-        {
-          "d": "06-05",
-          "c": 205.1
-        },
-        {
-          "d": "06-08",
-          "c": 208.64
-        },
-        {
-          "d": "06-09",
-          "c": 208.19
-        },
-        {
-          "d": "06-10",
-          "c": 200.42
-        },
-        {
-          "d": "06-11",
-          "c": 204.87
-        },
-        {
-          "d": "06-12",
-          "c": 205.19
-        },
-        {
-          "d": "06-15",
-          "c": 212.45
-        },
-        {
-          "d": "06-16",
-          "c": 207.41
-        },
-        {
-          "d": "06-17",
-          "c": 204.65
-        },
-        {
-          "d": "06-18",
-          "c": 210.69
-        }
-      ]
-    },
-    {
-      "id": "541020d26c49e29b",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T15:33:05+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Dell Technologies (DELL) is Among The Best Donad Trump Stock",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 409.5,
-      "change": -2.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1VCYUw2QVRNUUNVVnF2VFFMVm0xNkVDUHlVX2JpUWMxeEhNanRIUXFfQUdBb0s5UHJkSi1FLWpBZkJTRkdZWUdMXzJ2LVhydzhic0wxczkwalFMUm1rM2RHMHpvSTNGWUg1Q1hJRE9POHREM2tOSlJRb2FicG1hRzVJbEJ6YndMLUgzMUtBTVN6U0ZpTTl2amRkSTBkY1k?oc=5",
-      "image": null,
-      "headline": "Dell Technologies (DELL) is Among The Best Donad Trump Stock Picks in 2026 - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 235.26
-        },
-        {
-          "d": "05-20",
-          "c": 242.93
-        },
-        {
-          "d": "05-21",
-          "c": 252.8
-        },
-        {
-          "d": "05-22",
-          "c": 295.19
-        },
-        {
-          "d": "05-26",
-          "c": 305.08
-        },
-        {
-          "d": "05-27",
-          "c": 305.32
-        },
-        {
-          "d": "05-28",
-          "c": 317.05
-        },
-        {
-          "d": "05-29",
-          "c": 420.91
-        },
-        {
-          "d": "06-01",
-          "c": 465.96
-        },
-        {
-          "d": "06-02",
-          "c": 435.31
-        },
-        {
-          "d": "06-03",
-          "c": 421.08
-        },
-        {
-          "d": "06-04",
-          "c": 422.05
-        },
-        {
-          "d": "06-05",
-          "c": 394.39
-        },
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        },
-        {
-          "d": "06-15",
-          "c": 409.07
-        },
-        {
-          "d": "06-16",
-          "c": 404.08
-        },
-        {
-          "d": "06-17",
-          "c": 419.32
-        },
-        {
-          "d": "06-18",
-          "c": 409.5
-        }
-      ]
-    },
-    {
-      "id": "345e7e9feb25e708",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T12:57:00+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "BeInCrypto",
-      "type": "news",
-      "quote": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging - BeInCrypto",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 121.1,
-      "change": 3.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBja2dvU2RSNWMybTMyQXRZaEwxZ3J6c0FnTXdJdUZ2ZU0yT2sxa2k2RUpuQnh6bGI5N1JBbDc2MWluM3pPLVdwNl9jT1JqamRwYmNYZjhZVHBKZk9TQW12ekFSWFpTMlh4VGNJejY4ZGhnVlpq?oc=5",
-      "image": null,
-      "headline": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging - BeInCrypto",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        }
-      ]
-    },
-    {
-      "id": "669ccb1813db7ac8",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T06:39:36+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "Tekedia",
-      "type": "news",
-      "quote": "Surges 9% After Trump Announced Company Will Partner With Apple On U.S. Chip Design - Tekedia Intel Surges 9% After Trump",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYURCTk16OVBpeVFOcG5CWkNzMjdCUDdDSFA1amZvdGtuV3FuREc0azg1UE9jbmxoaDNTbDFiTlZ1ZmxBNnZ4ekZDLXBoNnQ2OXVQcTFHN0dET2x2Vk04WVVEQUhkcGczWUFBcktGT3lGWG10bVNDcE1sNlJFRTN2LVRZU0VvTkI0ZHlkc2VwMThkZGhTMUhIdEYzclFhLTU4Vkl6ZVNicWEtSm1DNkd6YUVB?oc=5",
-      "image": null,
-      "headline": "Intel Surges 9% After Trump Announced Company Will Partner With Apple On U.S. Chip Design - Tekedia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
         }
       ]
     }
