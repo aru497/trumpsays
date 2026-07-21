@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-21T15:20:42.881191+00:00",
+  "updated_at": "2026-07-21T16:52:04.829567+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "fca88c481f6d90e7",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T15:53:06+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.67,
+      "change": -0.72,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHZQRWwydmhYUWNzWktYdnRnM01IcDgyWmprUzZ6NXFIbE9wb1lCVDJmbHA0aVV4OVBVcldFVWFnM0dRdkFGRENLMzVFRURfZFI0b0JxMXV0UGdleGoxTGNVSHppNmNXWFZyMm14aEFqYWI2blUyTTAza3JENTBrNGRCSTNQS24xX1hzeXBaWl8xd29haktQR25iS1NFRmJXaFgzNVBCa2ZIMUMzZmhaS3FEbTZpMGhjMG40ZmNR?oc=5",
+      "image": null,
+      "headline": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.67
+        }
+      ]
+    },
     {
       "id": "26dfe4909a4dab50",
       "date": "Tue, 21 Jul 2026",
@@ -10171,6 +10275,110 @@
         {
           "d": "07-16",
           "c": 9.63
+        }
+      ]
+    },
+    {
+      "id": "32e425d3a60fda0c",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T20:47:17+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "MediaPost",
+      "type": "news",
+      "quote": "Trump Media Weighs 'Truth' Spin-Off 03/02/2026 - MediaPost Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.67,
+      "change": -0.72,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelBIN0lncFRDTWRtbWlmb0pZWGRsT0hKUFRxSzhHRzJnWl9xazRybmptaU5vdFRLUXVxWXBUaGUySUQ5Vk9RaDJmVHFyZm9LVjVQb3VfczgydzJEYkJtRkFaS3dTS0NhX055WWdaRGJDNDRKUUZHUV95WnRlUE80ME1BZzdvR01aQ0tvdmZfSDFpalo5Y2t3?oc=5",
+      "image": null,
+      "headline": "Trump Media Weighs 'Truth' Spin-Off 03/02/2026 - MediaPost",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-22",
+          "c": 8.12
+        },
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.67
         }
       ]
     },
@@ -38907,218 +39115,6 @@
         {
           "d": "06-17",
           "c": 295.95
-        }
-      ]
-    },
-    {
-      "id": "26ca1a5d51372397",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T03:16:00+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "The Motley Fool",
-      "type": "news",
-      "quote": "Intel Stock Soared After Trump Said Apple Will Build Chips With",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 121.1,
-      "change": 3.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdktITVhSY3hJVXo0a2NqeTNKSldnb3JtNUFnVVhtX0o3d0JlUUNjZVRPNHJMSERaclBkVEI4UlJlTDQxb0l2OEhjNmtSSUtNXzNyWDNYekNMREFzTlhHcGZoNEYzQUI3Vk1QUjU2d3Q5a0lpRjhaS1FDVXQxU0F0WmM1OXVhR2RDSWdEWlFrcnRmM2Y3Z1VGeQ?oc=5",
-      "image": null,
-      "headline": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy? - The Motley Fool",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        }
-      ]
-    },
-    {
-      "id": "49ae8b9922bfeaca",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T01:57:30+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "The Spokesman-Review",
-      "type": "news",
-      "quote": "Intel shares soar after Trump says it struck Apple chip deal - The Spokesman-Review Intel shares soar after",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckpxcnZqTVhKRUh4dlhKX1FOWUZIOHctRmZVVm1DQ3pXenc4ZFNkOUZzX1EtckZJeVgtU2JiRGQ2a0E4RHNwd0hmdkNuVDJHYXRleFk3dWp4ZHpKR0szMGJoV3BUOFB1RlRqZHFPeXFqbWVvdEtxUTdYMXlPZENINkdWUTl4d3k5ZnRiMF9IbnF3ZVByMjZXMkZZbk9GUQ?oc=5",
-      "image": null,
-      "headline": "Intel shares soar after Trump says it struck Apple chip deal - The Spokesman-Review",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
         }
       ]
     }
