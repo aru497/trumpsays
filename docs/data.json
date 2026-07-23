@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-07-23T18:56:53.298557+00:00",
+  "updated_at": "2026-07-23T20:08:06.479261+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "384c96149837c7e0",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T19:44:23+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Says Firms Should Pay More for Electricity - The New York Times As A.I. Backlash Grows, Trump Says Firms Should Pay More",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.18,
+      "change": -3.85,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNVJpMVZ0VVVCdjRTVlhVdlh3dG5wcE16TFc5ZTBYUGdrUG5nbm5jTDc3OFJ6cUhPMnJzcGdmSFJDUDhKeU9fQ0RBVHo4ejdvcmFlYnY4Vkdvd3FWUVZrb1RoWXhZNnpiT2JGLTk0cnZ1b25qNXVOSA?oc=5",
+      "image": null,
+      "headline": "As A.I. Backlash Grows, Trump Says Firms Should Pay More for Electricity - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.18
+        }
+      ]
+    },
+    {
+      "id": "9aa36ea5d817cfa3",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T19:40:00+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "OpenAI Commits to Cover Costs for Planned $20B Georgia Project -",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHE3TG9RX012UlJITWdHbzdjYldHVGxjOExrMnE5aTVaMDBLdGQxSm5QNDFUY0p3ZXY4MkY3RU1ySWNzSjhBUDA3VmtTRHVBUTdsZU9QVWJ5VkZ2M3B6N2lkdGlWbS12ZXZ2Z0JsclZUWkRFTUhnZWxPNV9TZWNwSmc4Q0dnenY2QmVoNW5mOHJOMTNWd2lPS2V6bEtUU19YVVZxLWw0TFJMajd4eG5PY0xDbGpKVjBocDB3TjdB?oc=5",
+      "image": null,
+      "headline": "OpenAI Commits to Cover Costs for Planned $20B Georgia Project - Stock Titan",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "2e2e61455687a475",
       "date": "Thu, 23 Jul 2026",
@@ -1491,6 +1614,110 @@
         {
           "d": "07-22",
           "c": 72.99
+        }
+      ]
+    },
+    {
+      "id": "282c88238773553b",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T04:01:27+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "Financial Times",
+      "type": "news",
+      "quote": "Trump Media fast feed for president\u2019s posts sparks Wall Street",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.89,
+      "change": -3.68,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkppb2lMaEpWZEdKdjFiaHdBbnE2dWROQU9GYWg0NE5xaHhYYXVTUHdiN01qUUY3cWwtVEVjRXAwa2tCZlNHYVduNDNuLVNFQzBvQUcxWWtEM2lHVTFZUmdpYzlvdEk5WmNmR2ZGZmJKcEFtMkdtcGdJR09wZFNBTTAwbDA?oc=5",
+      "image": null,
+      "headline": "Trump Media fast feed for president\u2019s posts sparks Wall Street backlash - Financial Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
         }
       ]
     },
@@ -38645,302 +38872,6 @@
         {
           "d": "06-23",
           "c": 44.47
-        }
-      ]
-    },
-    {
-      "id": "4c0c89f2bb674dc8",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T09:39:47+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US",
-      "company": "Ibm",
-      "ticker": "IBM",
-      "price": 252.22,
-      "change": 1.25,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2FCVEN2YXQxdzlCNlYxWlQ5T0xpWXo2anlpUmxza0xHTno1ZW9pNy1ObHdFZ2VsNmJSZTBCdEZpdHR1YkJOd2x5VEdQQUlHMEZfbWI5NDdiRC04QWNpVVlJSXN6ampXM1lWaVhacU5EUGpYa0VBYllBREhBU2VqVmF4cGJNM3kxMDFoTk1BczVmZmNTWlZPclcyYWltMG1rMXRxcFhuLTNFNnRhYXIxcTRiQldfU0pETlRWQ1lKWDBMel82OFRCODZDaWVGTzlCMTAxSTE3VlJGYVQ0SkdTT19iOGFnd1RtVGVCTlV4eExlWnlvNnphSS1nZy1UbTJX?oc=5",
-      "image": null,
-      "headline": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 250.69
-        },
-        {
-          "d": "05-27",
-          "c": 255.2
-        },
-        {
-          "d": "05-28",
-          "c": 264.22
-        },
-        {
-          "d": "05-29",
-          "c": 297.8
-        },
-        {
-          "d": "06-01",
-          "c": 320.42
-        },
-        {
-          "d": "06-02",
-          "c": 329.23
-        },
-        {
-          "d": "06-03",
-          "c": 305.63
-        },
-        {
-          "d": "06-04",
-          "c": 301.77
-        },
-        {
-          "d": "06-05",
-          "c": 284.84
-        },
-        {
-          "d": "06-08",
-          "c": 280.82
-        },
-        {
-          "d": "06-09",
-          "c": 277.49
-        },
-        {
-          "d": "06-10",
-          "c": 272.36
-        },
-        {
-          "d": "06-11",
-          "c": 274.85
-        },
-        {
-          "d": "06-12",
-          "c": 272.24
-        },
-        {
-          "d": "06-15",
-          "c": 268.71
-        },
-        {
-          "d": "06-16",
-          "c": 270.81
-        },
-        {
-          "d": "06-17",
-          "c": 262.35
-        },
-        {
-          "d": "06-18",
-          "c": 249.1
-        },
-        {
-          "d": "06-22",
-          "c": 252.22
-        }
-      ]
-    },
-    {
-      "id": "b82ce526d263d307",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T07:43:02+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Kyiv Post",
-      "type": "news",
-      "quote": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post Trump Says",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 13.96,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4Ykt6cnpXNGpLNDBCUEtKYVVjd2R2WjBfUnZxTmtDenVoTTVQbmtNN2RoTE5UMGpQYzBDaklrNVRNaVFVNm1mdUFMVQ?oc=5",
-      "image": null,
-      "headline": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 15.32
-        },
-        {
-          "d": "05-27",
-          "c": 15.88
-        },
-        {
-          "d": "05-28",
-          "c": 16.65
-        },
-        {
-          "d": "05-29",
-          "c": 17.44
-        },
-        {
-          "d": "06-01",
-          "c": 16.63
-        },
-        {
-          "d": "06-02",
-          "c": 16.15
-        },
-        {
-          "d": "06-03",
-          "c": 15.71
-        },
-        {
-          "d": "06-04",
-          "c": 15.34
-        },
-        {
-          "d": "06-05",
-          "c": 14.9
-        },
-        {
-          "d": "06-08",
-          "c": 15.0
-        },
-        {
-          "d": "06-09",
-          "c": 14.95
-        },
-        {
-          "d": "06-10",
-          "c": 14.3
-        },
-        {
-          "d": "06-11",
-          "c": 14.71
-        },
-        {
-          "d": "06-12",
-          "c": 14.84
-        },
-        {
-          "d": "06-15",
-          "c": 14.77
-        },
-        {
-          "d": "06-16",
-          "c": 14.41
-        },
-        {
-          "d": "06-17",
-          "c": 13.96
-        },
-        {
-          "d": "06-18",
-          "c": 14.06
-        },
-        {
-          "d": "06-22",
-          "c": 14.11
-        },
-        {
-          "d": "06-23",
-          "c": 13.96
-        }
-      ]
-    },
-    {
-      "id": "c2bce18551d0ce52",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T07:43:02+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Kyiv Post",
-      "type": "news",
-      "quote": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post",
-      "company": "Gm",
-      "ticker": "GM",
-      "price": 79.58,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4Ykt6cnpXNGpLNDBCUEtKYVVjd2R2WjBfUnZxTmtDenVoTTVQbmtNN2RoTE5UMGpQYzBDaklrNVRNaVFVNm1mdUFMVQ?oc=5",
-      "image": null,
-      "headline": "Trump Says GM, Ford to Build Patriot, Tomahawk Missiles - Kyiv Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 79.62
-        },
-        {
-          "d": "05-27",
-          "c": 83.94
-        },
-        {
-          "d": "05-28",
-          "c": 84.17
-        },
-        {
-          "d": "05-29",
-          "c": 83.06
-        },
-        {
-          "d": "06-01",
-          "c": 82.5
-        },
-        {
-          "d": "06-02",
-          "c": 81.55
-        },
-        {
-          "d": "06-03",
-          "c": 81.52
-        },
-        {
-          "d": "06-04",
-          "c": 83.04
-        },
-        {
-          "d": "06-05",
-          "c": 82.11
-        },
-        {
-          "d": "06-08",
-          "c": 83.77
-        },
-        {
-          "d": "06-09",
-          "c": 83.76
-        },
-        {
-          "d": "06-10",
-          "c": 79.4
-        },
-        {
-          "d": "06-11",
-          "c": 80.85
-        },
-        {
-          "d": "06-12",
-          "c": 81.5
-        },
-        {
-          "d": "06-15",
-          "c": 84.07
-        },
-        {
-          "d": "06-16",
-          "c": 82.51
-        },
-        {
-          "d": "06-17",
-          "c": 79.58
-        },
-        {
-          "d": "06-18",
-          "c": 79.29
-        },
-        {
-          "d": "06-22",
-          "c": 80.43
-        },
-        {
-          "d": "06-23",
-          "c": 79.58
         }
       ]
     }
