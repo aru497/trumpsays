@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-07-23T14:38:38.197045+00:00",
+  "updated_at": "2026-07-23T16:18:31.137360+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8f7e6d04cfa2363f",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T16:11:24+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Who is Jes Staley? Former JPMorgan executive interviewed about Epstein ties American banker",
+      "company": "Jpmorgan",
+      "ticker": "JPM",
+      "price": 348.03,
+      "change": -0.05,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/who-is-jes-staley-former-jpmorgan-executive-interviewed-about-epstein-ties",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2025-03-03T171131Z_1331752146_RC2S5DA3G06I_RTRMADP_3_BARCLAYS-STALEY-EPSTEIN-1024x689.jpg",
+      "headline": "Who is Jes Staley? Former JPMorgan executive interviewed about Epstein ties",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 332.64
+        },
+        {
+          "d": "06-24",
+          "c": 331.95
+        },
+        {
+          "d": "06-25",
+          "c": 333.62
+        },
+        {
+          "d": "06-26",
+          "c": 327.57
+        },
+        {
+          "d": "06-29",
+          "c": 327.91
+        },
+        {
+          "d": "06-30",
+          "c": 325.86
+        },
+        {
+          "d": "07-01",
+          "c": 332.57
+        },
+        {
+          "d": "07-02",
+          "c": 332.97
+        },
+        {
+          "d": "07-06",
+          "c": 337.72
+        },
+        {
+          "d": "07-07",
+          "c": 339.22
+        },
+        {
+          "d": "07-08",
+          "c": 330.62
+        },
+        {
+          "d": "07-09",
+          "c": 335.47
+        },
+        {
+          "d": "07-10",
+          "c": 336.47
+        },
+        {
+          "d": "07-13",
+          "c": 334.53
+        },
+        {
+          "d": "07-14",
+          "c": 342.89
+        },
+        {
+          "d": "07-15",
+          "c": 346.91
+        },
+        {
+          "d": "07-16",
+          "c": 343.15
+        },
+        {
+          "d": "07-17",
+          "c": 341.1
+        },
+        {
+          "d": "07-20",
+          "c": 338.87
+        },
+        {
+          "d": "07-21",
+          "c": 345.23
+        },
+        {
+          "d": "07-22",
+          "c": 348.21
+        },
+        {
+          "d": "07-23",
+          "c": 348.03
+        }
+      ]
+    },
+    {
+      "id": "80216f487a4e4927",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T15:56:00+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "Variety",
+      "type": "news",
+      "quote": "Trump Media's Plan to Sell 'Real-Time' Access to His Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.82,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemRBQ0pTcmttOHJlT0JuZjJwM0ZfeF8zY3JfNFBlT0ZIRHdlOFhlWUNLS0F4QXNrVHJlZk51eTFOYkZvLWx6eGUtQWdGbTg1ekRjUjZOOVlOcWtqcHplVWswcDEyeExYdXNjbW1rX2lzeHRlNXpjVUh3anF2eEJjYVBMMTFpLVA3X2VJSDdOdUdnNndxTWVjZXktUVE3Mzd0cjJ5dGl5ZnVMZw?oc=5",
+      "image": null,
+      "headline": "Trump Media's Plan to Sell 'Real-Time' Access to His Truth Social Posts Draws GOP Rebukes - Variety",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.82
+        }
+      ]
+    },
+    {
+      "id": "7f74c594b99fe391",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T15:46:23+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "Hindustan Times",
+      "type": "news",
+      "quote": "Why are Republicans criticizing Trump's Truth Social plan? $100,000 subscription explained | Hindustan Times -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.82,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZTJFSnJZWHRTU2YzM1NFRTNQYmFuUWFoaXR6MkFWZFhCWVU2cEdnMXduczM2OERkNWxSZ3IyLTlFWVpiTlljUkt4ZlNkYnZmU19WQTdfVmI4ZGRfNGUyYVYzdWRwSXozVkFmWFpDQVVzbVlNeFBjdklpM2NuZldZZ1ZkaEp0a0VDVnRTOGFTcmdPcHNmV2hkNEJUbzJBalUtRTdqNzhLWWFEbDZDdmdvSnNDT3F6bndOeVlwN2NiRHAyczN4UjhoWFVsc2NfS21jVHlOWW9EX240bDRuRlpkeGU4enNlZW1DUDR2OWl6SdIB9AFBVV95cUxPVHRvb1hWdHJZa0dlYUhTemtwZXRILVk1VkRnLW54dHZVSlgtWklWZXI0eF9qb0V1MkRrLWJqeDZCWGl1Nk1kQm9sTTVmM1lnVmVGODVRM0hLUkw1UWlLMFRnSXNQRVpyUG9POFRUaERvbFBXS1ZFQkRTakRSVlJDTU8yRHJHS1cxd0w0X01rYWpKQ3Zhd1JqQlNGS3p5alBrTndxWW45aVp6NFRGV0prckhZVlFkSEpkMmUyVTdlWmd6cG9aWkY0WmFEM0pWeTl3N0pKTHdqTVQ4N2FUUHk1eGo4Z29WNm5STm5aOWZIRFRvaGxo?oc=5",
+      "image": null,
+      "headline": "Why are Republicans criticizing Trump's Truth Social plan? $100,000 subscription explained | Hindustan Times - Hindustan Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.82
+        }
+      ]
+    },
     {
       "id": "12acc5c9ad9839af",
       "date": "Thu, 23 Jul 2026",
@@ -107,6 +431,114 @@
         {
           "d": "07-23",
           "c": 134.24
+        }
+      ]
+    },
+    {
+      "id": "a1c5495a0899ac8a",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T14:12:45+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "investigations of President Trump and has been a frequent target of Trump's ire on social media.",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 134.65,
+      "change": -2.37,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+      "image": null,
+      "headline": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 134.11
+        },
+        {
+          "d": "06-24",
+          "c": 141.2
+        },
+        {
+          "d": "06-25",
+          "c": 139.57
+        },
+        {
+          "d": "06-26",
+          "c": 140.39
+        },
+        {
+          "d": "06-29",
+          "c": 133.92
+        },
+        {
+          "d": "06-30",
+          "c": 130.61
+        },
+        {
+          "d": "07-01",
+          "c": 130.29
+        },
+        {
+          "d": "07-02",
+          "c": 130.21
+        },
+        {
+          "d": "07-06",
+          "c": 126.1
+        },
+        {
+          "d": "07-07",
+          "c": 127.55
+        },
+        {
+          "d": "07-08",
+          "c": 132.42
+        },
+        {
+          "d": "07-09",
+          "c": 132.27
+        },
+        {
+          "d": "07-10",
+          "c": 135.14
+        },
+        {
+          "d": "07-13",
+          "c": 134.77
+        },
+        {
+          "d": "07-14",
+          "c": 134.0
+        },
+        {
+          "d": "07-15",
+          "c": 138.29
+        },
+        {
+          "d": "07-16",
+          "c": 140.21
+        },
+        {
+          "d": "07-17",
+          "c": 139.6
+        },
+        {
+          "d": "07-20",
+          "c": 139.59
+        },
+        {
+          "d": "07-21",
+          "c": 138.48
+        },
+        {
+          "d": "07-22",
+          "c": 137.92
+        },
+        {
+          "d": "07-23",
+          "c": 134.65
         }
       ]
     },
@@ -38473,410 +38905,6 @@
         {
           "d": "06-22",
           "c": 109.46
-        }
-      ]
-    },
-    {
-      "id": "efdec246fd7202b9",
-      "date": "Mon, 22 Jun 2026",
-      "ts": "2026-06-22T22:25:00+00:00",
-      "date_display": "Jun 22, 2026",
-      "source": "BeInCrypto",
-      "type": "news",
-      "quote": "Trump Calls Stock Buybacks Fake: MicroStrategy Bitcoin Model Shows Another Way to Boost Valuations -",
-      "company": "Microstrategy",
-      "ticker": "MSTR",
-      "price": 109.46,
-      "change": -2.73,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKSFhuS0E4eWRXU296WnY0V0MxNTZuOUpFeDFvdDZVSFgtTWxiUnF2X3hfa1RaQV81SElVa3BSLTVORm5VVXFQeDBPMUM4VlI1ckxyNHY2cVd3OFQyQ3hUdmJER1NaZlVpc2ZQR2R0VlFBVnVR?oc=5",
-      "image": null,
-      "headline": "Trump Calls Stock Buybacks Fake: MicroStrategy Bitcoin Model Shows Another Way to Boost Valuations - BeInCrypto",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 159.93
-        },
-        {
-          "d": "05-27",
-          "c": 154.2
-        },
-        {
-          "d": "05-28",
-          "c": 151.64
-        },
-        {
-          "d": "05-29",
-          "c": 159.09
-        },
-        {
-          "d": "06-01",
-          "c": 149.78
-        },
-        {
-          "d": "06-02",
-          "c": 136.08
-        },
-        {
-          "d": "06-03",
-          "c": 126.55
-        },
-        {
-          "d": "06-04",
-          "c": 129.37
-        },
-        {
-          "d": "06-05",
-          "c": 120.44
-        },
-        {
-          "d": "06-08",
-          "c": 127.2
-        },
-        {
-          "d": "06-09",
-          "c": 117.02
-        },
-        {
-          "d": "06-10",
-          "c": 115.35
-        },
-        {
-          "d": "06-11",
-          "c": 120.15
-        },
-        {
-          "d": "06-12",
-          "c": 123.97
-        },
-        {
-          "d": "06-15",
-          "c": 131.14
-        },
-        {
-          "d": "06-16",
-          "c": 122.81
-        },
-        {
-          "d": "06-17",
-          "c": 116.56
-        },
-        {
-          "d": "06-18",
-          "c": 112.53
-        },
-        {
-          "d": "06-22",
-          "c": 109.46
-        }
-      ]
-    },
-    {
-      "id": "cb3ef7d700866d06",
-      "date": "Sun, 21 Jun 2026",
-      "ts": "2026-06-21T19:13:30+00:00",
-      "date_display": "Jun 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 300.12,
-      "change": 0.71,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT19Ma2FzVGdnTFFZZ0hFVXlYbTY0d2JyTXZNSHFmUEtUc0xDLW1BR1ZWWGl0bEV1WDRMOWZRTU9PeFVpTFY0SUxsVkg2c3RKa18yRktiWHFUZnRnNl9IcTZZMXVZa1hWN2Z6UzF6S2ZHS0hlNjVGX0JBS1BDMVp5OXo4cmNUZmZuZnVQMm5BZnRkUms?oc=5",
-      "image": null,
-      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
-        },
-        {
-          "d": "06-22",
-          "c": 300.12
-        }
-      ]
-    },
-    {
-      "id": "a9238deba64c95c3",
-      "date": "Sun, 21 Jun 2026",
-      "ts": "2026-06-21T19:13:30+00:00",
-      "date_display": "Jun 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump says Intel will make chips for Apple in a major win for U.S.",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 139.55,
-      "change": 4.15,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT19Ma2FzVGdnTFFZZ0hFVXlYbTY0d2JyTXZNSHFmUEtUc0xDLW1BR1ZWWGl0bEV1WDRMOWZRTU9PeFVpTFY0SUxsVkg2c3RKa18yRktiWHFUZnRnNl9IcTZZMXVZa1hWN2Z6UzF6S2ZHS0hlNjVGX0JBS1BDMVp5OXo4cmNUZmZuZnVQMm5BZnRkUms?oc=5",
-      "image": null,
-      "headline": "Trump says Intel will make chips for Apple in a major win for U.S. manufacturing - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.99
-        },
-        {
-          "d": "06-22",
-          "c": 139.55
-        }
-      ]
-    },
-    {
-      "id": "aa479baef6a33878",
-      "date": "Sun, 21 Jun 2026",
-      "ts": "2026-06-21T17:07:12+00:00",
-      "date_display": "Jun 21, 2026",
-      "source": "TechStock\u00b2",
-      "type": "news",
-      "quote": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock\u00b2 What Donald",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 210.69,
-      "change": 2.95,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGIxaUNWNWVoN0NQSmM2bklZQVdhWkRWT05HM2JBUy1adkJIQzdqamdIME1ocENvYlZUekZFZ1Q4YlFUb3ByLVQtUWVnRlJBRU1SaDRNclNPR3J4c0tCR3RiSDJSaHpKY0IxYVNmODZDN1E0QWtuSkg0VlNqMVpocF9UX0czcVNqYjBnbllWTmtsRURQTGxCQWhCZFlKYnNXWWZFaXZjcjRRVDJz?oc=5",
-      "image": null,
-      "headline": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock\u00b2",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 220.35
-        },
-        {
-          "d": "05-20",
-          "c": 223.21
-        },
-        {
-          "d": "05-21",
-          "c": 219.25
-        },
-        {
-          "d": "05-22",
-          "c": 215.08
-        },
-        {
-          "d": "05-26",
-          "c": 214.61
-        },
-        {
-          "d": "05-27",
-          "c": 212.35
-        },
-        {
-          "d": "05-28",
-          "c": 214.0
-        },
-        {
-          "d": "05-29",
-          "c": 210.89
-        },
-        {
-          "d": "06-01",
-          "c": 224.1
-        },
-        {
-          "d": "06-02",
-          "c": 222.56
-        },
-        {
-          "d": "06-03",
-          "c": 214.5
-        },
-        {
-          "d": "06-04",
-          "c": 218.66
-        },
-        {
-          "d": "06-05",
-          "c": 205.1
-        },
-        {
-          "d": "06-08",
-          "c": 208.64
-        },
-        {
-          "d": "06-09",
-          "c": 208.19
-        },
-        {
-          "d": "06-10",
-          "c": 200.42
-        },
-        {
-          "d": "06-11",
-          "c": 204.87
-        },
-        {
-          "d": "06-12",
-          "c": 205.19
-        },
-        {
-          "d": "06-15",
-          "c": 212.45
-        },
-        {
-          "d": "06-16",
-          "c": 207.41
-        },
-        {
-          "d": "06-17",
-          "c": 204.65
-        },
-        {
-          "d": "06-18",
-          "c": 210.69
         }
       ]
     }
