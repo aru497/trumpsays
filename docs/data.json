@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-07-23T17:53:12.751503+00:00",
+  "updated_at": "2026-07-23T18:56:53.298557+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2e2e61455687a475",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T18:45:42+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "TheWrap",
+      "type": "news",
+      "quote": "Slam Trump's Plan to Sell Wall Street Early Access to Truth Social Posts: 'Doesn\u2019t Look Right' - TheWrap GOP Senators Slam",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbE5yeW1sTWtrczBhNkNWS2Z5VXY3SDRKM1ZPeHI0VFJiYXowc0g1WFFRU2ZJUlNuOXhIaTBrWkdFMU1FR2xUTnFOY0Y0d0NjSVRYdlNBaElCVmo1bXZ2eXV6ZGlEanppWkVYUjFPU3g3cFozT3p2UFVlZE1KU3lZTFRXMHg1UUFBSmNyZnFvdGVmNXYwUmt4VGRncWNGeWFiQzhILVYtZGVTVHZzRG9kNzhn?oc=5",
+      "image": null,
+      "headline": "GOP Senators Slam Trump's Plan to Sell Wall Street Early Access to Truth Social Posts: 'Doesn\u2019t Look Right' - TheWrap",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "1127b686c86289ca",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T17:34:00+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "Yahoo",
+      "type": "news",
+      "quote": "GOP senators slam Trump media plan to sell early access to Truth Social posts - Yahoo",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEx2dlZRYzV6VEZHWkM2SjJzUkFRVVJIYk1JQ3Qwdi0xTzBobTNtUGdJUUFJU1E1ZGNiWHplZTdBeko0UmJqWVRIQlJQSFNFNVJMclJMX3kyNm1vZS00V3lhXzNjNFN3OUEzRnRUQXg2MUlQU0JCTWh2VDlwa0Mwa1pYNmE?oc=5",
+      "image": null,
+      "headline": "GOP senators slam Trump media plan to sell early access to Truth Social posts - Yahoo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.85
+        }
+      ]
+    },
     {
       "id": "795352cae46de5e2",
       "date": "Thu, 23 Jul 2026",
@@ -38725,198 +38941,6 @@
         {
           "d": "06-23",
           "c": 79.58
-        }
-      ]
-    },
-    {
-      "id": "db8e2bef7024cf4b",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T01:38:42+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Memeburn",
-      "type": "news",
-      "quote": "Trump Says Apple Will Partner With Intel on US Chips in 2026 - Memeburn",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 297.01,
-      "change": -0.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeF9rM1M2Z3RnWXJDWGd2WjZCNExzQ09scVVsSjNpcHRSM0Y5d2FmME1sd3loa1NraTNxZmljUDNkcm0taUxweWVSRjZ3cGx5OGhjUGZVWGo1TERsSi16NDNFZDNJTXpDRmJFb0FwMzFiRHh3Q0FfcUVFMEpXZ2JCa21tQnFlbnpUenc?oc=5",
-      "image": null,
-      "headline": "Trump Says Apple Will Partner With Intel on US Chips in 2026 - Memeburn",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
-        },
-        {
-          "d": "06-22",
-          "c": 297.01
-        }
-      ]
-    },
-    {
-      "id": "08578b2420fafe2b",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T01:38:42+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Memeburn",
-      "type": "news",
-      "quote": "Trump Says Apple Will Partner With Intel on US Chips in 2026 - Memeburn Trump Says Apple Will",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 140.94,
-      "change": 5.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeF9rM1M2Z3RnWXJDWGd2WjZCNExzQ09scVVsSjNpcHRSM0Y5d2FmME1sd3loa1NraTNxZmljUDNkcm0taUxweWVSRjZ3cGx5OGhjUGZVWGo1TERsSi16NDNFZDNJTXpDRmJFb0FwMzFiRHh3Q0FfcUVFMEpXZ2JCa21tQnFlbnpUenc?oc=5",
-      "image": null,
-      "headline": "Trump Says Apple Will Partner With Intel on US Chips in 2026 - Memeburn",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.99
-        },
-        {
-          "d": "06-22",
-          "c": 140.94
         }
       ]
     }
