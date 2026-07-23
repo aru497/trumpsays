@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-22T23:53:28.386354+00:00",
+  "updated_at": "2026-07-23T01:43:11.752492+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "50169dd340c8d004",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T01:01:35+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "WSJ",
+      "type": "news",
+      "quote": "The New Jersey Financier Behind Trump Media\u2019s Pivot Into Nuclear Energy - WSJ The New Jersey Financier",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.23,
+      "change": -6.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3dOV1N3S3l6UUtDaGdWZi1NVV9vMW5xZ2NPdy10SS14UVFBU3phSU4tY2NyYzlPeGdOSThDaU1BbXMyb1VGZEZaQ09wYkxoZXprNlZ4LWNIT053T1ZSbmNWeU5nQWlLaEJpTW5velp2SHJYQWhRek5PYy1MNy05cUFQOG5SczZxNWh4Q0dWeGd3UHNqRTNRTTdMZkl5bXVsazlReFRaRy1JSDQ?oc=5",
+      "image": null,
+      "headline": "The New Jersey Financier Behind Trump Media\u2019s Pivot Into Nuclear Energy - WSJ",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 7.88
+        },
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        }
+      ]
+    },
     {
       "id": "a0583ac265ab934d",
       "date": "Wed, 22 Jul 2026",
@@ -19840,6 +19944,214 @@
       ]
     },
     {
+      "id": "373e1f049e550ccc",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T07:00:00+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 325.89,
+      "change": -0.56,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWtRNFpvTkZ6MjNjbTZ3SGw3REIxMndMZUc1MDkwajMxQ0dUZVBPTFJiR2FMMDJXdG10UXRLOUUzSnBRaFA1SDhfVFV4VjVxLS16U1VoMEN4X2JOMmVIbjJJUl9uRkVZS0ZjaDFHX2ZqQnNtYUxsM1pmWEhsaHlKeGxKU1ZzOVFCUFNCVkZBMWVjQjk5REJR?oc=5",
+      "image": null,
+      "headline": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 294.3
+        },
+        {
+          "d": "06-24",
+          "c": 293.08
+        },
+        {
+          "d": "06-25",
+          "c": 275.15
+        },
+        {
+          "d": "06-26",
+          "c": 283.78
+        },
+        {
+          "d": "06-29",
+          "c": 281.74
+        },
+        {
+          "d": "06-30",
+          "c": 289.36
+        },
+        {
+          "d": "07-01",
+          "c": 294.38
+        },
+        {
+          "d": "07-02",
+          "c": 308.63
+        },
+        {
+          "d": "07-06",
+          "c": 312.66
+        },
+        {
+          "d": "07-07",
+          "c": 310.66
+        },
+        {
+          "d": "07-08",
+          "c": 313.39
+        },
+        {
+          "d": "07-09",
+          "c": 316.22
+        },
+        {
+          "d": "07-10",
+          "c": 315.32
+        },
+        {
+          "d": "07-13",
+          "c": 317.31
+        },
+        {
+          "d": "07-14",
+          "c": 314.86
+        },
+        {
+          "d": "07-15",
+          "c": 327.5
+        },
+        {
+          "d": "07-16",
+          "c": 333.26
+        },
+        {
+          "d": "07-17",
+          "c": 333.74
+        },
+        {
+          "d": "07-20",
+          "c": 326.59
+        },
+        {
+          "d": "07-21",
+          "c": 327.74
+        },
+        {
+          "d": "07-22",
+          "c": 325.89
+        }
+      ]
+    },
+    {
+      "id": "ffae95d3b7b4b0c4",
+      "date": "Fri, 10 Jul 2026",
+      "ts": "2026-07-10T07:00:00+00:00",
+      "date_display": "Jul 10, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - Yahoo",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 212.06,
+      "change": 2.3,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWtRNFpvTkZ6MjNjbTZ3SGw3REIxMndMZUc1MDkwajMxQ0dUZVBPTFJiR2FMMDJXdG10UXRLOUUzSnBRaFA1SDhfVFV4VjVxLS16U1VoMEN4X2JOMmVIbjJJUl9uRkVZS0ZjaDFHX2ZqQnNtYUxsM1pmWEhsaHlKeGxKU1ZzOVFCUFNCVkZBMWVjQjk5REJR?oc=5",
+      "image": null,
+      "headline": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 200.04
+        },
+        {
+          "d": "06-24",
+          "c": 199.0
+        },
+        {
+          "d": "06-25",
+          "c": 195.74
+        },
+        {
+          "d": "06-26",
+          "c": 192.53
+        },
+        {
+          "d": "06-29",
+          "c": 194.97
+        },
+        {
+          "d": "06-30",
+          "c": 200.09
+        },
+        {
+          "d": "07-01",
+          "c": 197.58
+        },
+        {
+          "d": "07-02",
+          "c": 194.83
+        },
+        {
+          "d": "07-06",
+          "c": 195.55
+        },
+        {
+          "d": "07-07",
+          "c": 196.93
+        },
+        {
+          "d": "07-08",
+          "c": 204.12
+        },
+        {
+          "d": "07-09",
+          "c": 202.78
+        },
+        {
+          "d": "07-10",
+          "c": 210.96
+        },
+        {
+          "d": "07-13",
+          "c": 203.53
+        },
+        {
+          "d": "07-14",
+          "c": 211.8
+        },
+        {
+          "d": "07-15",
+          "c": 212.5
+        },
+        {
+          "d": "07-16",
+          "c": 207.4
+        },
+        {
+          "d": "07-17",
+          "c": 202.81
+        },
+        {
+          "d": "07-20",
+          "c": 203.28
+        },
+        {
+          "d": "07-21",
+          "c": 207.29
+        },
+        {
+          "d": "07-22",
+          "c": 212.06
+        }
+      ]
+    },
+    {
       "id": "3783a51ce07f256d",
       "date": "Fri, 10 Jul 2026",
       "ts": "2026-07-10T02:05:25+00:00",
@@ -38577,330 +38889,6 @@
         {
           "d": "06-18",
           "c": 298.01
-        }
-      ]
-    },
-    {
-      "id": "3ed0e4163a2821a1",
-      "date": "Sat, 20 Jun 2026",
-      "ts": "2026-06-20T10:58:23+00:00",
-      "date_display": "Jun 20, 2026",
-      "source": "Tech Times",
-      "type": "news",
-      "quote": "Apple and Intel to Build Chips in US: Trump Confirms Deal, Stock Climbs",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 133.99,
-      "change": 10.64,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEp5NFNsR3dqOHBVdG9DWUsyNDlETWNweVNZdHJYbWlWVFV0el8ydXhjdW1ZVW9rSHlMRWVlaWNTUVRYdEh2Vk83QXpxbWFKakU2ZEtBenJMU2FDOE5FTEFmXzVxcWZsT1drUlNyZTB1M2YwdGVteDBVOVR3b2xzcGpOcXdDRzRFbG55M0RFeW9WYXBSVENyVF9rTURRSlVHTkpObDJTN2szV2k3V0V3QWVSWU91OUdUdGc?oc=5",
-      "image": null,
-      "headline": "Apple and Intel to Build Chips in US: Trump Confirms Deal, Stock Climbs 10.5% - Tech Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 110.8
-        },
-        {
-          "d": "05-20",
-          "c": 118.96
-        },
-        {
-          "d": "05-21",
-          "c": 118.5
-        },
-        {
-          "d": "05-22",
-          "c": 119.84
-        },
-        {
-          "d": "05-26",
-          "c": 123.52
-        },
-        {
-          "d": "05-27",
-          "c": 121.77
-        },
-        {
-          "d": "05-28",
-          "c": 120.89
-        },
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.99
-        }
-      ]
-    },
-    {
-      "id": "659e6626a738d5f8",
-      "date": "Sat, 20 Jun 2026",
-      "ts": "2026-06-20T07:00:00+00:00",
-      "date_display": "Jun 20, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump Says He Hopes to Put War in \u2018Rearview Mirror\u2019 - The New York Times Trump Says He Hopes to Put War in \u2018Rearview",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.88,
-      "change": 3.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VT1pHX2pPM0VfUEpBRE03d21OVHNsbG81Q2REd29uWnhXSGJMQ0FVQVNxMFBHYUplY3lJeUg2eV9faTZiMUtYNHlGel9xZVI1T0djSEl2RUl1akl6M1BEd0xxcmVPbDlQMjkxRW1RdE8taWt2VXZz?oc=5",
-      "image": null,
-      "headline": "Trump Says He Hopes to Put War in \u2018Rearview Mirror\u2019 - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        },
-        {
-          "d": "06-24",
-          "c": 71.22
-        },
-        {
-          "d": "06-25",
-          "c": 68.57
-        },
-        {
-          "d": "06-26",
-          "c": 70.88
-        }
-      ]
-    },
-    {
-      "id": "ad12a0c9cff96d47",
-      "date": "Fri, 19 Jun 2026",
-      "ts": "2026-06-19T23:59:50+00:00",
-      "date_display": "Jun 19, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump Media\u2019s losses deepen as Truth Social keeps struggling to scale",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 7.42,
-      "change": 5.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWlBERzlyb1dWSzh3RzRTQzJXekVBZVdyalVYaVFZS1pyNG01M1RHeF9vZy12WHpEcFB4X0tUSHllSTdqYXh5eS1iMkRNYWYzM1c1eXhRYVktaHNyU3VDcDJFZmU5bzh4Q1o1YW5FSEdBNF9yTVMwMlprNzFUb2Utb0thS0NUUnpKQzlSSEZtTUN4SE0zUXV0d0NBV0E5U3Z3STBpWFJBanl4X2JyVTZ1djlLM1RsRmMxeWVES3dIV2hiVnFaWVdzbw?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s losses deepen as Truth Social keeps struggling to scale - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
         }
       ]
     }
