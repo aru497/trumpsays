@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-23T05:13:47.678961+00:00",
+  "updated_at": "2026-07-23T07:54:15.779162+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f2c5de7d167e2450",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-23T05:24:44+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "at event with former Atlanta manager Brian Snitker - The New York Times Trump praises Braves, jabs Mets at event with former",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.99,
+      "change": -2.28,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmUzMmxnX25YWFNkMlFodndmcFhMSllMMEFPbmc0RDRMS2sxUXJWOGJhVVpIUWxqWS1xdFpLMG92ZEVlSGpIemJlOEQwRzdqTWZJSkFQa01KT3Jfc20wMGNfVGdCZEFYSGRGQVJHRG1ZMUY0ZENVOXdFVXVhUnRRd1VZMTh3SEtiTlJMTHoxblBzYXFvWXpBODd0c250dw?oc=5",
+      "image": null,
+      "headline": "Trump praises Braves, jabs Mets at event with former Atlanta manager Brian Snitker - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-23",
+          "c": 72.6
+        },
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        }
+      ]
+    },
     {
       "id": "50169dd340c8d004",
       "date": "Thu, 23 Jul 2026",
@@ -38781,114 +38885,6 @@
         {
           "d": "06-22",
           "c": 72.08
-        }
-      ]
-    },
-    {
-      "id": "9dc0de3e078a78a8",
-      "date": "Sat, 20 Jun 2026",
-      "ts": "2026-06-20T10:58:23+00:00",
-      "date_display": "Jun 20, 2026",
-      "source": "Tech Times",
-      "type": "news",
-      "quote": "Apple and Intel to Build Chips in US: Trump Confirms Deal, Stock",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 298.01,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEp5NFNsR3dqOHBVdG9DWUsyNDlETWNweVNZdHJYbWlWVFV0el8ydXhjdW1ZVW9rSHlMRWVlaWNTUVRYdEh2Vk83QXpxbWFKakU2ZEtBenJMU2FDOE5FTEFmXzVxcWZsT1drUlNyZTB1M2YwdGVteDBVOVR3b2xzcGpOcXdDRzRFbG55M0RFeW9WYXBSVENyVF9rTURRSlVHTkpObDJTN2szV2k3V0V3QWVSWU91OUdUdGc?oc=5",
-      "image": null,
-      "headline": "Apple and Intel to Build Chips in US: Trump Confirms Deal, Stock Climbs 10.5% - Tech Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-19",
-          "c": 298.97
-        },
-        {
-          "d": "05-20",
-          "c": 302.25
-        },
-        {
-          "d": "05-21",
-          "c": 304.99
-        },
-        {
-          "d": "05-22",
-          "c": 308.82
-        },
-        {
-          "d": "05-26",
-          "c": 308.33
-        },
-        {
-          "d": "05-27",
-          "c": 310.85
-        },
-        {
-          "d": "05-28",
-          "c": 312.51
-        },
-        {
-          "d": "05-29",
-          "c": 312.06
-        },
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
         }
       ]
     }
