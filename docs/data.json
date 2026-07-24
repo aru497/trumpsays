@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-24T01:27:51.413059+00:00",
+  "updated_at": "2026-07-24T04:44:59.689875+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d892855784d2250c",
+      "date": "Thu, 23 Jul 2026",
+      "ts": "2026-07-24T03:31:19+00:00",
+      "date_display": "Jul 23, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge The Justice",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.17,
+      "change": -3.86,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
+      "image": null,
+      "headline": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 71.0
+        },
+        {
+          "d": "06-25",
+          "c": 68.36
+        },
+        {
+          "d": "06-26",
+          "c": 70.66
+        },
+        {
+          "d": "06-29",
+          "c": 70.43
+        },
+        {
+          "d": "06-30",
+          "c": 69.76
+        },
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        }
+      ]
+    },
     {
       "id": "4a28f169cec52f10",
       "date": "Thu, 23 Jul 2026",
@@ -3127,6 +3231,110 @@
         {
           "d": "07-21",
           "c": 9.67
+        }
+      ]
+    },
+    {
+      "id": "d929e75f6158d983",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T15:53:06+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.89,
+      "change": -3.68,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmEyd1ltbU5saWJGNjBBcWVtR3BPNWNLLS1wVTVvRmpiU1g4R1F5UWNUTmRRa1ZCWHpuNllRVnFvc0pGdGN6YjdxWWVqY0VwcktheTU5SDVmelpyQzNfVjhpQUlqbU1DaHd3dnp5dTV1dTY2elJzaEQtZXlhZl9seDJKWjBxbG5tWDdvVmtKSmpSV2Y5cFhSMHFn?oc=5",
+      "image": null,
+      "headline": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
         }
       ]
     },
@@ -38591,206 +38799,6 @@
         {
           "d": "06-23",
           "c": 264.94
-        }
-      ]
-    },
-    {
-      "id": "5847d0855d09c255",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T16:10:56+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Eli Lilly says Trump pricing policy will affect obesity drug",
-      "company": "Eli Lilly",
-      "ticker": "LLY",
-      "price": 1103.41,
-      "change": 0.12,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS19YR0Rfb3Z3TmZVaFd1X3Z2SkFuWFBJX3ZiczlRTGtaM0YwWnVuam1BVkpxai1XdmhfUXV6RlFXTE5PRkJuM0kxdFVSYW0wamJQUVpGNnBGbTdiZWtGdC1iSG0xNGZacW5oZE9qby1QQlRhdWVCS056Z1VHR0NSc3htbC1ya3UtS3R1ckdnaFUtSXNKTFNMSWlWb2NCaExWeWtodkF0dGlGQVRyWnBJY0g2NkRUTlltTFE5cVRUVWp4LVh6bTA5ZWhIaDAtTmQ5NGR4Skd6Um8zTmU1TjE5NGpn?oc=5",
-      "image": null,
-      "headline": "Eli Lilly says Trump pricing policy will affect obesity drug launches in Europe - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 1064.74
-        },
-        {
-          "d": "05-27",
-          "c": 1082.92
-        },
-        {
-          "d": "05-28",
-          "c": 1126.8
-        },
-        {
-          "d": "05-29",
-          "c": 1105.0
-        },
-        {
-          "d": "06-01",
-          "c": 1082.2
-        },
-        {
-          "d": "06-02",
-          "c": 1064.15
-        },
-        {
-          "d": "06-03",
-          "c": 1078.78
-        },
-        {
-          "d": "06-04",
-          "c": 1125.27
-        },
-        {
-          "d": "06-05",
-          "c": 1131.42
-        },
-        {
-          "d": "06-08",
-          "c": 1149.15
-        },
-        {
-          "d": "06-09",
-          "c": 1144.68
-        },
-        {
-          "d": "06-10",
-          "c": 1136.37
-        },
-        {
-          "d": "06-11",
-          "c": 1160.95
-        },
-        {
-          "d": "06-12",
-          "c": 1133.0
-        },
-        {
-          "d": "06-15",
-          "c": 1129.35
-        },
-        {
-          "d": "06-16",
-          "c": 1122.5
-        },
-        {
-          "d": "06-17",
-          "c": 1112.0
-        },
-        {
-          "d": "06-18",
-          "c": 1098.57
-        },
-        {
-          "d": "06-22",
-          "c": 1102.08
-        },
-        {
-          "d": "06-23",
-          "c": 1103.41
-        }
-      ]
-    },
-    {
-      "id": "5691f2b24a8c4f46",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T15:04:51+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Supreme Court OKs ExxonMobil lawsuit over Cuban property seized by Fidel Castro's",
-      "company": "Exxonmobil",
-      "ticker": "XOM",
-      "price": 140.1,
-      "change": 1.18,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/supreme-court-oks-exxonmobil-lawsuit-over-cuban-property-seized-by-fidel-castros-government",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-14T194620Z_132249818_RC279LA9THV0_RTRMADP_3_USA-COURT-1024x683.jpg",
-      "headline": "Supreme Court OKs ExxonMobil lawsuit over Cuban property seized by Fidel Castro's government",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 149.81
-        },
-        {
-          "d": "05-27",
-          "c": 147.9
-        },
-        {
-          "d": "05-28",
-          "c": 146.96
-        },
-        {
-          "d": "05-29",
-          "c": 145.26
-        },
-        {
-          "d": "06-01",
-          "c": 149.38
-        },
-        {
-          "d": "06-02",
-          "c": 149.56
-        },
-        {
-          "d": "06-03",
-          "c": 152.53
-        },
-        {
-          "d": "06-04",
-          "c": 152.04
-        },
-        {
-          "d": "06-05",
-          "c": 149.92
-        },
-        {
-          "d": "06-08",
-          "c": 151.75
-        },
-        {
-          "d": "06-09",
-          "c": 148.91
-        },
-        {
-          "d": "06-10",
-          "c": 150.62
-        },
-        {
-          "d": "06-11",
-          "c": 146.6
-        },
-        {
-          "d": "06-12",
-          "c": 147.01
-        },
-        {
-          "d": "06-15",
-          "c": 140.92
-        },
-        {
-          "d": "06-16",
-          "c": 141.86
-        },
-        {
-          "d": "06-17",
-          "c": 140.74
-        },
-        {
-          "d": "06-18",
-          "c": 137.81
-        },
-        {
-          "d": "06-22",
-          "c": 138.47
-        },
-        {
-          "d": "06-23",
-          "c": 140.1
         }
       ]
     }
