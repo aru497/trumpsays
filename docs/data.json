@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-07-24T14:47:22.857923+00:00",
+  "updated_at": "2026-07-24T17:57:01.195061+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "b552fdb266b81242",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T17:36:56+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says US to launch EU probe over 'illegal' Google fine - Reuters Trump says US to launch EU probe over",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 320.04,
+      "change": 0.74,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3dXSEd1bktIXy1XcmlsWGFYekt3d2dPeW53TVdyeVBiT0RkdDJERks0eXp0cVlheW54SFVPYU5aYnhwaFNfLVdXNWc3dVQxM0FTR3Y4UUlEQVZLd1JFZmhGZmx0U282TzdnaXJxbnQ5QkVlczlLZExqdmdTbk4tblE0RXNWMzNlOGk5ZkdXenptLUNLRHZXaS1aNmVocTEz?oc=5",
+      "image": null,
+      "headline": "Trump says US to launch EU probe over 'illegal' Google fine - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 345.29
+        },
+        {
+          "d": "06-25",
+          "c": 343.71
+        },
+        {
+          "d": "06-26",
+          "c": 337.39
+        },
+        {
+          "d": "06-29",
+          "c": 353.65
+        },
+        {
+          "d": "06-30",
+          "c": 357.37
+        },
+        {
+          "d": "07-01",
+          "c": 361.21
+        },
+        {
+          "d": "07-02",
+          "c": 359.91
+        },
+        {
+          "d": "07-06",
+          "c": 366.46
+        },
+        {
+          "d": "07-07",
+          "c": 367.03
+        },
+        {
+          "d": "07-08",
+          "c": 361.92
+        },
+        {
+          "d": "07-09",
+          "c": 358.89
+        },
+        {
+          "d": "07-10",
+          "c": 357.18
+        },
+        {
+          "d": "07-13",
+          "c": 352.51
+        },
+        {
+          "d": "07-14",
+          "c": 359.51
+        },
+        {
+          "d": "07-15",
+          "c": 370.92
+        },
+        {
+          "d": "07-16",
+          "c": 354.46
+        },
+        {
+          "d": "07-17",
+          "c": 346.77
+        },
+        {
+          "d": "07-20",
+          "c": 351.99
+        },
+        {
+          "d": "07-21",
+          "c": 347.15
+        },
+        {
+          "d": "07-22",
+          "c": 342.09
+        },
+        {
+          "d": "07-23",
+          "c": 317.69
+        },
+        {
+          "d": "07-24",
+          "c": 320.04
+        }
+      ]
+    },
+    {
+      "id": "59e75dd480bf430e",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T15:32:41+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "Kurdistan24",
+      "type": "news",
+      "quote": "Trump Says China, Russia Pledged Not to Arm Iran as US sanctions Iranian financial network -",
+      "company": "Arm",
+      "ticker": "ARM",
+      "price": 267.31,
+      "change": -5.56,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY29iSUcyV2tsandtRkwxSzMwUVVHN2J6ZHdrNGR1UWd1c2pORVNJZ18wSmFnWjJWekFEQjZzTzBxcjRPN0pKWGt0YloweHRJOXhacThjemEwUnZVbFl4SjNobDNRaUpMVEQwS1VYbHVqWnRJOEM2YlhyOTR6YzZvamhWeDU5Y0lXNzdlM0NFSnFQMFEwUjYxc2MzUEt2WHpIQzUxcDItU1JQWVdNMV91SEF5ZlRkTTVtNGNjLVJhYVlDUVlDNEVrRksxUTJ6QQ?oc=5",
+      "image": null,
+      "headline": "Trump Says China, Russia Pledged Not to Arm Iran as US sanctions Iranian financial network - Kurdistan24",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 359.08
+        },
+        {
+          "d": "06-25",
+          "c": 347.71
+        },
+        {
+          "d": "06-26",
+          "c": 334.27
+        },
+        {
+          "d": "06-29",
+          "c": 343.58
+        },
+        {
+          "d": "06-30",
+          "c": 354.57
+        },
+        {
+          "d": "07-01",
+          "c": 337.47
+        },
+        {
+          "d": "07-02",
+          "c": 315.28
+        },
+        {
+          "d": "07-06",
+          "c": 322.24
+        },
+        {
+          "d": "07-07",
+          "c": 300.43
+        },
+        {
+          "d": "07-08",
+          "c": 300.24
+        },
+        {
+          "d": "07-09",
+          "c": 327.87
+        },
+        {
+          "d": "07-10",
+          "c": 323.39
+        },
+        {
+          "d": "07-13",
+          "c": 298.99
+        },
+        {
+          "d": "07-14",
+          "c": 281.17
+        },
+        {
+          "d": "07-15",
+          "c": 277.01
+        },
+        {
+          "d": "07-16",
+          "c": 262.01
+        },
+        {
+          "d": "07-17",
+          "c": 267.19
+        },
+        {
+          "d": "07-20",
+          "c": 269.61
+        },
+        {
+          "d": "07-21",
+          "c": 289.73
+        },
+        {
+          "d": "07-22",
+          "c": 283.4
+        },
+        {
+          "d": "07-23",
+          "c": 283.04
+        },
+        {
+          "d": "07-24",
+          "c": 267.31
+        }
+      ]
+    },
+    {
+      "id": "d6d9eee8f4cbbb49",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T12:20:35+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "Kavout | AI",
+      "type": "news",
+      "quote": "What's Driving the Hype Around Trump Media & Technology Group ($DJT) - Kavout | AI What's Driving the",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": 0.22,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmNjRldISEF3alVuMzAtdnoySDR5NVhpUWg3Q1RSSXQ3R0hpMmJpQXFsX01GeHE1ZHZjdUpoOFRHLVNhZnlUYlZrVGdDQVVqU0xkSWhBYmJqZm5EYVVvMjRDY3N4eExzUFMzTno1alZTejY3MGJDMzZMblBKbHlub0R2aGJDUmhtQVIwaGtwcVQ4ajhEampSbmpPaGhqLTg?oc=5",
+      "image": null,
+      "headline": "What's Driving the Hype Around Trump Media & Technology Group ($DJT) - Kavout | AI",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.91
+        }
+      ]
+    },
     {
       "id": "78c84a30e02d9f96",
       "date": "Fri, 24 Jul 2026",
@@ -29028,6 +29352,25 @@
       ]
     },
     {
+      "id": "19fb3ca07d5e8218",
+      "date": "Fri, 03 Jul 2026",
+      "ts": "2026-07-03T07:00:00+00:00",
+      "date_display": "Jul 03, 2026",
+      "source": "Time Magazine",
+      "type": "news",
+      "quote": "OpenAI Woos Trump Administration as Investor - Time Magazine",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHlvU3F0S1FQX0pLVzZkOWZqMTBOZ0NiUWE2VGtiT3RnRXBuOVNoSGlXekRFN1UzaE5rSGNmclMwMGExQmdqZHBIa0hkVkJtMU9GSHphbmZoTWEwTE8zN0hINXk5SHI5TE1xMl9PYlFMbHYtRm4tSDlINTl5RWVTejNUelE2WXZmZUhRdXZR?oc=5",
+      "image": null,
+      "headline": "OpenAI Woos Trump Administration as Investor - Time Magazine",
+      "channel": "News",
+      "series": null
+    },
+    {
       "id": "3b346c49a43263df",
       "date": "Fri, 03 Jul 2026",
       "ts": "2026-07-03T06:55:02+00:00",
@@ -38474,341 +38817,6 @@
           "c": 78.95
         }
       ]
-    },
-    {
-      "id": "42fbf9dd63744a6b",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T21:26:11+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "IndyStar",
-      "type": "news",
-      "quote": "Fact check: Who did Eli Lilly give access to its obesity drug? White House says not",
-      "company": "Eli Lilly",
-      "ticker": "LLY",
-      "price": 1117.26,
-      "change": 0.92,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV9JN1hWNTE3TmVWcGZFbzNXcS1ROFFWZW1vZ09WcDdjNEU0Smhkbnp6WGRweWtyV2dSc3REUWlKZTdGOUtaOTZmX3ZHdVJidnlIb1FvV09qT0lSY1hzVGJJY1Q1T1M2NTM3TGhCTGRaMXBGOWJVZlJNSENPOXhSWURabWNlcXVnZXE0Y1hvalpDd3NiTEVuTWhxNkJUbko4TE9XOWNnc0pmV0xCOU9rcWh2eDBtQTlpbDd6UV9pV2tyTEhoazBnNHJVUmdYc0U1a0VxWHpZblBSbTdrTUlFRl9USHpOMlNjeHVnYw?oc=5",
-      "image": null,
-      "headline": "Fact check: Who did Eli Lilly give access to its obesity drug? White House says not Trump - IndyStar",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 1064.74
-        },
-        {
-          "d": "05-27",
-          "c": 1082.92
-        },
-        {
-          "d": "05-28",
-          "c": 1126.8
-        },
-        {
-          "d": "05-29",
-          "c": 1105.0
-        },
-        {
-          "d": "06-01",
-          "c": 1082.2
-        },
-        {
-          "d": "06-02",
-          "c": 1064.15
-        },
-        {
-          "d": "06-03",
-          "c": 1078.78
-        },
-        {
-          "d": "06-04",
-          "c": 1125.27
-        },
-        {
-          "d": "06-05",
-          "c": 1131.42
-        },
-        {
-          "d": "06-08",
-          "c": 1149.15
-        },
-        {
-          "d": "06-09",
-          "c": 1144.68
-        },
-        {
-          "d": "06-10",
-          "c": 1136.37
-        },
-        {
-          "d": "06-11",
-          "c": 1160.95
-        },
-        {
-          "d": "06-12",
-          "c": 1133.0
-        },
-        {
-          "d": "06-15",
-          "c": 1129.35
-        },
-        {
-          "d": "06-16",
-          "c": 1122.5
-        },
-        {
-          "d": "06-17",
-          "c": 1112.0
-        },
-        {
-          "d": "06-18",
-          "c": 1098.57
-        },
-        {
-          "d": "06-22",
-          "c": 1102.08
-        },
-        {
-          "d": "06-23",
-          "c": 1107.08
-        },
-        {
-          "d": "06-24",
-          "c": 1117.26
-        }
-      ]
-    },
-    {
-      "id": "b4aa101964fd053b",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T20:25:38+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "district to tout economic agenda as midterms loom - Fox Business Trump visits Mack Trucks plant in battleground",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 45.73,
-      "change": 2.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjRhbGxUekRsT3NVNFJrR1FsaE53UmVla0FjLTJRb0tJRFVTUDRaZ3dXd1FXVWpsZUY5b285OVg0WkhHUUdWZXE1LTNFbFl2MGZ6aEYyN3RucGxrVjlzMzNaajdwX3o1NXdKZXZ6RER5TmlZOEFRQnAwZ3kyX2Y4WW1hMnFDdE40VVlsMWJmbkRfSGxuS2FHMjRINGFvSmpGaFVoWHR5N3otaTFtVlJHV0tRMWk3VXdHQkFxZ3k0c1JaeW54UmhhclRPN2hDU0ZOcjRESFVpNNIB3AFBVV95cUxOWVFLaDRZWnMtb2lzbTJUZzhDek9fX1QwY2drTWZQMGRMSVcxQTVQUnJGcUt2UUd5aEpia3RNVm1tMVVxekNEeW9ETm81ZldDcXdIc0o4ajVVLTVmTHZCNUxqeF9iTHk2RXN2R1l3MW1seEJvR05VRF9XZV9pTndoRnJjS2VyeXhLZDlmLU9Fa21saVZ0am9NVjh5aWhZUUpjdlhNcnNkdXBhUEJBb2JsUk13WHRDRU8zQVZFR1doa0l2N2JxSHVpVU5nZ2UzT2VXNm11WG9BcVYzZW5N?oc=5",
-      "image": null,
-      "headline": "Trump visits Mack Trucks plant in battleground Pennsylvania district to tout economic agenda as midterms loom - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 58.08
-        },
-        {
-          "d": "05-27",
-          "c": 58.62
-        },
-        {
-          "d": "05-28",
-          "c": 59.23
-        },
-        {
-          "d": "05-29",
-          "c": 57.39
-        },
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.73
-        }
-      ]
-    },
-    {
-      "id": "916245ea4e2205e6",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T20:02:29+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Pool Problems. Internal Records Tell Another Story. - The New York Times Trump Blames Vandals for Reflecting Pool Problems.",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 68.57,
-      "change": -3.72,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjZGMHdETThSZWphRTBpVkc5V3ZXWWx5TEs1T0M3VUNCcHJtVzZvMW96c2lzUC0xV1R6WGRpWVEyZUxEYXZDVXB1MjhfVkZJNmVjanRVTmFNQlgzYnZCWVdtUkJiMzYyMEpfWS1PdW5Vd01xZ1Z0NndVMDIzblpiVFZvVHg?oc=5",
-      "image": null,
-      "headline": "Trump Blames Vandals for Reflecting Pool Problems. Internal Records Tell Another Story. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        },
-        {
-          "d": "06-24",
-          "c": 71.22
-        },
-        {
-          "d": "06-25",
-          "c": 68.57
-        }
-      ]
-    },
-    {
-      "id": "fd28a259fa1045e3",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T18:13:56+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "time, the Senate will vote on a war powers resolution to block U.S. military action against Iran.",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/senate-again-set-to-vote-on-war-powers-resolution-to-halt-iran-conflict",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-18T132905Z_1571114249_RC2DWLAH4P3G_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
-      "headline": "Senate again set to vote on war powers resolution to halt Iran conflict",
-      "channel": "News",
-      "series": null
     }
   ]
 }
