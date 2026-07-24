@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-07-24T17:57:01.195061+00:00",
+  "updated_at": "2026-07-24T19:15:03.192688+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4ee7bc660e695b0b",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T18:54:31+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "dw.com",
+      "type": "news",
+      "quote": "Trump threatens EU with tariff probe over Google, tech fines - dw.com Trump threatens EU with tariff probe",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 319.96,
+      "change": 0.71,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDNRLUxEQ1p6dV8xY2tjS2JPNXgzZWFTNkRoTjJFbTR1ZUVBMHVGOTdHV1hzM280Mk1MOHN2a3Q4VUMzajFKV2tvem9MZ20yYkowUjFLd3ZNZnY2ZEtNVUgzQzVsLVhsWEVIZWpuZUY0OV9VdjRfYVgxOXplNFYzaFY5aXBVRTI4bi1BcXdBR0FSVXZqMFU00gGXAUFVX3lxTFBfWHVfU21MTGNubWRLMlN6d3FvX2F4ZW53clhWZlFLY19KbFRKdFhYTjU4b08yd01ncllaSUREYlU0YU5DWlVOZlFMdkNXazRETm5RZU1VcTUwTVd2VWpxcHJfUi11b19LWjRKdWs1UFNxeHhlTnJBd0lqbG80SlJsZ2kwWC1tSk5CWk9sVlFuMnk3dXhXblk?oc=5",
+      "image": null,
+      "headline": "Trump threatens EU with tariff probe over Google, tech fines - dw.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 345.29
+        },
+        {
+          "d": "06-25",
+          "c": 343.71
+        },
+        {
+          "d": "06-26",
+          "c": 337.39
+        },
+        {
+          "d": "06-29",
+          "c": 353.65
+        },
+        {
+          "d": "06-30",
+          "c": 357.37
+        },
+        {
+          "d": "07-01",
+          "c": 361.21
+        },
+        {
+          "d": "07-02",
+          "c": 359.91
+        },
+        {
+          "d": "07-06",
+          "c": 366.46
+        },
+        {
+          "d": "07-07",
+          "c": 367.03
+        },
+        {
+          "d": "07-08",
+          "c": 361.92
+        },
+        {
+          "d": "07-09",
+          "c": 358.89
+        },
+        {
+          "d": "07-10",
+          "c": 357.18
+        },
+        {
+          "d": "07-13",
+          "c": 352.51
+        },
+        {
+          "d": "07-14",
+          "c": 359.51
+        },
+        {
+          "d": "07-15",
+          "c": 370.92
+        },
+        {
+          "d": "07-16",
+          "c": 354.46
+        },
+        {
+          "d": "07-17",
+          "c": 346.77
+        },
+        {
+          "d": "07-20",
+          "c": 351.99
+        },
+        {
+          "d": "07-21",
+          "c": 347.15
+        },
+        {
+          "d": "07-22",
+          "c": 342.09
+        },
+        {
+          "d": "07-23",
+          "c": 317.69
+        },
+        {
+          "d": "07-24",
+          "c": 319.96
+        }
+      ]
+    },
+    {
+      "id": "d6d0e526bd75eff5",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T18:25:38+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "MS NOW",
+      "type": "news",
+      "quote": "Trump Media plan to sell special access to social media posts faces",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.7,
+      "change": -2.14,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1lTTkJUS2F3eVBfRk9oUnNrNHY1eUl0WG4zMlo2cGlZa0JnS2lJVy1SdEE2MHRXcU90ZlpBd2RPdmRQbWNIeFpscE9wclVrUEdoQjRZdk1JZm5XV0ZfZDNwY0RHVy05dGhDVjBRRXFRT25seHRuZU5md2hQMHJNRUFZNWxwWEl6ZEl4T0ZsbW9EN0w4R0NvYnVVYTRKQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media plan to sell special access to social media posts faces bipartisan pushback - MS NOW",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 7.52
+        },
+        {
+          "d": "06-25",
+          "c": 7.06
+        },
+        {
+          "d": "06-26",
+          "c": 7.42
+        },
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.7
+        }
+      ]
+    },
+    {
+      "id": "429a51a34cc52a27",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T18:00:00+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "Macau Business",
+      "type": "news",
+      "quote": "UPDATE: Trump says EU to pay \u2018very big price\u2019 for Google fine - Macau Business UPDATE: Trump says EU to pay \u2018very",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 319.96,
+      "change": 0.71,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEgzUHVjOGJ2cG5hTDNKTk1LM0poSWtaSFUyZkFPbTBJSGhhdmx0ckJSN2RFS0t1ak0yZEJacDNaWnM2OUJGYVdYbkduX1hXNXVBRjRuQzZvMDZDeVhqZjlENGRVTGpWTXlGb0FQX3c1ZWF4LVc2U21tdU5Wa1RxMzg3QlE?oc=5",
+      "image": null,
+      "headline": "UPDATE: Trump says EU to pay \u2018very big price\u2019 for Google fine - Macau Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 345.29
+        },
+        {
+          "d": "06-25",
+          "c": 343.71
+        },
+        {
+          "d": "06-26",
+          "c": 337.39
+        },
+        {
+          "d": "06-29",
+          "c": 353.65
+        },
+        {
+          "d": "06-30",
+          "c": 357.37
+        },
+        {
+          "d": "07-01",
+          "c": 361.21
+        },
+        {
+          "d": "07-02",
+          "c": 359.91
+        },
+        {
+          "d": "07-06",
+          "c": 366.46
+        },
+        {
+          "d": "07-07",
+          "c": 367.03
+        },
+        {
+          "d": "07-08",
+          "c": 361.92
+        },
+        {
+          "d": "07-09",
+          "c": 358.89
+        },
+        {
+          "d": "07-10",
+          "c": 357.18
+        },
+        {
+          "d": "07-13",
+          "c": 352.51
+        },
+        {
+          "d": "07-14",
+          "c": 359.51
+        },
+        {
+          "d": "07-15",
+          "c": 370.92
+        },
+        {
+          "d": "07-16",
+          "c": 354.46
+        },
+        {
+          "d": "07-17",
+          "c": 346.77
+        },
+        {
+          "d": "07-20",
+          "c": 351.99
+        },
+        {
+          "d": "07-21",
+          "c": 347.15
+        },
+        {
+          "d": "07-22",
+          "c": 342.09
+        },
+        {
+          "d": "07-23",
+          "c": 317.69
+        },
+        {
+          "d": "07-24",
+          "c": 319.96
+        }
+      ]
+    },
     {
       "id": "b552fdb266b81242",
       "date": "Fri, 24 Jul 2026",
@@ -215,6 +539,114 @@
         {
           "d": "07-24",
           "c": 267.31
+        }
+      ]
+    },
+    {
+      "id": "0e70d2815695b99e",
+      "date": "Fri, 24 Jul 2026",
+      "ts": "2026-07-24T15:16:31+00:00",
+      "date_display": "Jul 24, 2026",
+      "source": "TechCrunch",
+      "type": "news",
+      "quote": "Rivian sues the US government for \u2018full refund\u2019 of Trump tariffs",
+      "company": "Rivian",
+      "ticker": "RIVN",
+      "price": 15.71,
+      "change": -4.56,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelNUSWJBRDZ2aGY0TmdOaTVKazZIUjlkZ1R1NmFsOXU0eUhTTlNiaFkxaWJjUC05TmRsMmU1S1VnU2pRcXJwTndadXpjczNKUE13dUoxdF8zVlpJRC1mX1hSeFBGQmNLZjBNN3pXOWl5QkQtT1p0b1lCMC1nWWM2YmNvc1BUWjRkRkN4OGJMSTVWVVp2SExybm5YM1pXUQ?oc=5",
+      "image": null,
+      "headline": "Rivian sues the US government for \u2018full refund\u2019 of Trump tariffs - TechCrunch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-24",
+          "c": 14.64
+        },
+        {
+          "d": "06-25",
+          "c": 14.86
+        },
+        {
+          "d": "06-26",
+          "c": 15.63
+        },
+        {
+          "d": "06-29",
+          "c": 16.81
+        },
+        {
+          "d": "06-30",
+          "c": 17.35
+        },
+        {
+          "d": "07-01",
+          "c": 17.18
+        },
+        {
+          "d": "07-02",
+          "c": 18.63
+        },
+        {
+          "d": "07-06",
+          "c": 20.14
+        },
+        {
+          "d": "07-07",
+          "c": 16.49
+        },
+        {
+          "d": "07-08",
+          "c": 16.66
+        },
+        {
+          "d": "07-09",
+          "c": 18.12
+        },
+        {
+          "d": "07-10",
+          "c": 17.48
+        },
+        {
+          "d": "07-13",
+          "c": 17.31
+        },
+        {
+          "d": "07-14",
+          "c": 17.5
+        },
+        {
+          "d": "07-15",
+          "c": 17.8
+        },
+        {
+          "d": "07-16",
+          "c": 17.09
+        },
+        {
+          "d": "07-17",
+          "c": 17.45
+        },
+        {
+          "d": "07-20",
+          "c": 17.24
+        },
+        {
+          "d": "07-21",
+          "c": 17.76
+        },
+        {
+          "d": "07-22",
+          "c": 17.18
+        },
+        {
+          "d": "07-23",
+          "c": 16.46
+        },
+        {
+          "d": "07-24",
+          "c": 15.71
         }
       ]
     },
@@ -38415,406 +38847,6 @@
         {
           "d": "06-23",
           "c": 1107.08
-        }
-      ]
-    },
-    {
-      "id": "08a00c5363a7de04",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T22:10:52+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Reflecting Pool. Internal Documents Raise Doubts. - The New York Times Trump Says Vandals Sabotaged the Reflecting Pool. Internal",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.83,
-      "change": 1.04,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjZGMHdETThSZWphRTBpVkc5V3ZXWWx5TEs1T0M3VUNCcHJtVzZvMW96c2lzUC0xV1R6WGRpWVEyZUxEYXZDVXB1MjhfVkZJNmVjanRVTmFNQlgzYnZCWVdtUkJiMzYyMEpfWS1PdW5Vd01xZ1Z0NndVMDIzblpiVFZvVHg?oc=5",
-      "image": null,
-      "headline": "Trump Says Vandals Sabotaged the Reflecting Pool. Internal Documents Raise Doubts. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 74.99
-        },
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        }
-      ]
-    },
-    {
-      "id": "50d3c14e79cfa9cb",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T21:50:55+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "inc.com",
-      "type": "news",
-      "quote": "FedEx Tops Expectations With $25 Billion Quarter, But the Tariff",
-      "company": "Fedex",
-      "ticker": "FDX",
-      "price": 317.24,
-      "change": -3.51,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3c3N0xqWFVYakRtZm9seF9iRm4xQ0tFOGMwN1d2YzhiTENQVUpfUEhTWlpRNFNvSWpJcDIzT0U3bFNCSXZyaGJFYXFCSHJYYjFTVkdHZzlxdTlJa2VQODl1Mm1TOVZjSmJmZ2d2alJjX3pIWnBGZk8tXzh1NENlamRkUWJOUmd1OGNteS1MdXRsUU1RMXBCYnFoRW4wdms4Ulg3SHZWZHdtYkVnX1JFS1lyRndFcE0?oc=5",
-      "image": null,
-      "headline": "FedEx Tops Expectations With $25 Billion Quarter, But the Tariff Headache Isn\u2019t Over - inc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 321.12
-        },
-        {
-          "d": "05-27",
-          "c": 330.57
-        },
-        {
-          "d": "05-28",
-          "c": 330.27
-        },
-        {
-          "d": "05-29",
-          "c": 330.55
-        },
-        {
-          "d": "06-01",
-          "c": 337.22
-        },
-        {
-          "d": "06-02",
-          "c": 327.77
-        },
-        {
-          "d": "06-03",
-          "c": 323.25
-        },
-        {
-          "d": "06-04",
-          "c": 326.77
-        },
-        {
-          "d": "06-05",
-          "c": 329.76
-        },
-        {
-          "d": "06-08",
-          "c": 328.98
-        },
-        {
-          "d": "06-09",
-          "c": 330.52
-        },
-        {
-          "d": "06-10",
-          "c": 318.06
-        },
-        {
-          "d": "06-11",
-          "c": 336.74
-        },
-        {
-          "d": "06-12",
-          "c": 337.04
-        },
-        {
-          "d": "06-15",
-          "c": 337.48
-        },
-        {
-          "d": "06-16",
-          "c": 334.48
-        },
-        {
-          "d": "06-17",
-          "c": 324.71
-        },
-        {
-          "d": "06-18",
-          "c": 324.98
-        },
-        {
-          "d": "06-22",
-          "c": 328.78
-        },
-        {
-          "d": "06-23",
-          "c": 317.24
-        }
-      ]
-    },
-    {
-      "id": "72c050da55508e23",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T21:28:00+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Trump says Ford, GM in talks with defense contractors about possible",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 14.0,
-      "change": -0.78,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGpIbGNSU3ZXemZ6b0pxMW9OdEFoR0tzTXJ0Mzdsa2h3UF9mYVdEa2owUnRPQlcxNE9hY19GaHp4aDNzQVc0SlkyS3BrdmpRejU0T2JxSVo3dEprOWdqWWtTaGtnS3RrcmlCeXJDUDRKdF9nRUdBY0kzaWxOWHhSd3ByZnNPZ1oyQmFnRkVRYURPay04?oc=5",
-      "image": null,
-      "headline": "Trump says Ford, GM in talks with defense contractors about possible weapons production - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 15.32
-        },
-        {
-          "d": "05-27",
-          "c": 15.88
-        },
-        {
-          "d": "05-28",
-          "c": 16.65
-        },
-        {
-          "d": "05-29",
-          "c": 17.44
-        },
-        {
-          "d": "06-01",
-          "c": 16.63
-        },
-        {
-          "d": "06-02",
-          "c": 16.15
-        },
-        {
-          "d": "06-03",
-          "c": 15.71
-        },
-        {
-          "d": "06-04",
-          "c": 15.34
-        },
-        {
-          "d": "06-05",
-          "c": 14.9
-        },
-        {
-          "d": "06-08",
-          "c": 15.0
-        },
-        {
-          "d": "06-09",
-          "c": 14.95
-        },
-        {
-          "d": "06-10",
-          "c": 14.3
-        },
-        {
-          "d": "06-11",
-          "c": 14.71
-        },
-        {
-          "d": "06-12",
-          "c": 14.84
-        },
-        {
-          "d": "06-15",
-          "c": 14.77
-        },
-        {
-          "d": "06-16",
-          "c": 14.41
-        },
-        {
-          "d": "06-17",
-          "c": 13.96
-        },
-        {
-          "d": "06-18",
-          "c": 14.06
-        },
-        {
-          "d": "06-22",
-          "c": 14.11
-        },
-        {
-          "d": "06-23",
-          "c": 14.0
-        }
-      ]
-    },
-    {
-      "id": "0e0069387b021912",
-      "date": "Tue, 23 Jun 2026",
-      "ts": "2026-06-23T21:28:00+00:00",
-      "date_display": "Jun 23, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Trump says Ford, GM in talks with defense contractors about possible weapons",
-      "company": "Gm",
-      "ticker": "GM",
-      "price": 78.95,
-      "change": -1.84,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGpIbGNSU3ZXemZ6b0pxMW9OdEFoR0tzTXJ0Mzdsa2h3UF9mYVdEa2owUnRPQlcxNE9hY19GaHp4aDNzQVc0SlkyS3BrdmpRejU0T2JxSVo3dEprOWdqWWtTaGtnS3RrcmlCeXJDUDRKdF9nRUdBY0kzaWxOWHhSd3ByZnNPZ1oyQmFnRkVRYURPay04?oc=5",
-      "image": null,
-      "headline": "Trump says Ford, GM in talks with defense contractors about possible weapons production - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-26",
-          "c": 79.62
-        },
-        {
-          "d": "05-27",
-          "c": 83.94
-        },
-        {
-          "d": "05-28",
-          "c": 84.17
-        },
-        {
-          "d": "05-29",
-          "c": 83.06
-        },
-        {
-          "d": "06-01",
-          "c": 82.5
-        },
-        {
-          "d": "06-02",
-          "c": 81.55
-        },
-        {
-          "d": "06-03",
-          "c": 81.52
-        },
-        {
-          "d": "06-04",
-          "c": 83.04
-        },
-        {
-          "d": "06-05",
-          "c": 82.11
-        },
-        {
-          "d": "06-08",
-          "c": 83.77
-        },
-        {
-          "d": "06-09",
-          "c": 83.76
-        },
-        {
-          "d": "06-10",
-          "c": 79.4
-        },
-        {
-          "d": "06-11",
-          "c": 80.85
-        },
-        {
-          "d": "06-12",
-          "c": 81.5
-        },
-        {
-          "d": "06-15",
-          "c": 84.07
-        },
-        {
-          "d": "06-16",
-          "c": 82.51
-        },
-        {
-          "d": "06-17",
-          "c": 79.58
-        },
-        {
-          "d": "06-18",
-          "c": 79.29
-        },
-        {
-          "d": "06-22",
-          "c": 80.43
-        },
-        {
-          "d": "06-23",
-          "c": 78.95
         }
       ]
     }
