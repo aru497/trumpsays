@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-28T12:18:34.065131+00:00",
+  "updated_at": "2026-07-28T14:56:12.383893+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4b14070675cb2b8d",
+      "date": "Tue, 28 Jul 2026",
+      "ts": "2026-07-28T13:21:18+00:00",
+      "date_display": "Jul 28, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "is expected to deliver remarks at the cathedral, alongside Fox News' Sean Hannity and other conservative leaders.",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 51.91,
+      "change": 2.16,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-sen-lindsey-graham-remembered-in-funeral-service-at-washington-national-cathedral",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-21T194048Z_1188856133_RC2JIMADWVP5_RTRMADP_3_USA-BUDGET-CONGRESS-1024x683.jpg",
+      "headline": "WATCH LIVE: Sen. Lindsey Graham remembered in funeral service at Washington National Cathedral",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "06-29",
+          "c": 45.71
+        },
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 47.95
+        },
+        {
+          "d": "07-09",
+          "c": 48.44
+        },
+        {
+          "d": "07-10",
+          "c": 48.75
+        },
+        {
+          "d": "07-13",
+          "c": 50.22
+        },
+        {
+          "d": "07-14",
+          "c": 49.5
+        },
+        {
+          "d": "07-15",
+          "c": 50.39
+        },
+        {
+          "d": "07-16",
+          "c": 51.08
+        },
+        {
+          "d": "07-17",
+          "c": 51.63
+        },
+        {
+          "d": "07-20",
+          "c": 51.55
+        },
+        {
+          "d": "07-21",
+          "c": 51.47
+        },
+        {
+          "d": "07-22",
+          "c": 50.63
+        },
+        {
+          "d": "07-23",
+          "c": 49.18
+        },
+        {
+          "d": "07-27",
+          "c": 50.81
+        },
+        {
+          "d": "07-28",
+          "c": 51.91
+        }
+      ]
+    },
     {
       "id": "063c63be9593917f",
       "date": "Mon, 27 Jul 2026",
@@ -38691,114 +38791,6 @@
         {
           "d": "06-29",
           "c": 128.46
-        }
-      ]
-    },
-    {
-      "id": "cea836f04d3b69fa",
-      "date": "Fri, 26 Jun 2026",
-      "ts": "2026-06-26T02:31:00+00:00",
-      "date_display": "Jun 26, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019 -",
-      "company": "Eli Lilly",
-      "ticker": "LLY",
-      "price": 1151.95,
-      "change": 2.15,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHMtVjcxcUlwRm5nRkZ1OFJTblF3RlpMZ3RqN0NOVFNJa0RYZFMyakZZYlg5UzRkOS1ZSjg0YlBfXzVjMW1GSnVXcmM5eDMtWF81UkZLcHc1QkREQ2t0X0pMamtqRkU3d18tSHFnMzNZUndwRHJtMlR3eXQ3SGE0NVlnN1FaYlotaVhBSnV5MFNkSTJ1ampGcTlMQTRDUQ?oc=5",
-      "image": null,
-      "headline": "Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019 - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 1082.92
-        },
-        {
-          "d": "05-28",
-          "c": 1126.8
-        },
-        {
-          "d": "05-29",
-          "c": 1105.0
-        },
-        {
-          "d": "06-01",
-          "c": 1082.2
-        },
-        {
-          "d": "06-02",
-          "c": 1064.15
-        },
-        {
-          "d": "06-03",
-          "c": 1078.78
-        },
-        {
-          "d": "06-04",
-          "c": 1125.27
-        },
-        {
-          "d": "06-05",
-          "c": 1131.42
-        },
-        {
-          "d": "06-08",
-          "c": 1149.15
-        },
-        {
-          "d": "06-09",
-          "c": 1144.68
-        },
-        {
-          "d": "06-10",
-          "c": 1136.37
-        },
-        {
-          "d": "06-11",
-          "c": 1160.95
-        },
-        {
-          "d": "06-12",
-          "c": 1133.0
-        },
-        {
-          "d": "06-15",
-          "c": 1129.35
-        },
-        {
-          "d": "06-16",
-          "c": 1122.5
-        },
-        {
-          "d": "06-17",
-          "c": 1112.0
-        },
-        {
-          "d": "06-18",
-          "c": 1098.57
-        },
-        {
-          "d": "06-22",
-          "c": 1102.08
-        },
-        {
-          "d": "06-23",
-          "c": 1107.08
-        },
-        {
-          "d": "06-24",
-          "c": 1117.26
-        },
-        {
-          "d": "06-25",
-          "c": 1127.69
-        },
-        {
-          "d": "06-26",
-          "c": 1151.95
         }
       ]
     }
