@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-07-28T16:28:09.215384+00:00",
+  "updated_at": "2026-07-28T17:51:12.268373+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0ee0584dc4221fd7",
+      "date": "Tue, 28 Jul 2026",
+      "ts": "2026-07-28T17:39:53+00:00",
+      "date_display": "Jul 28, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump says tariffs have made the US 'a fortune' - Fox Business Trump says tariffs have made the US 'a",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 51.81,
+      "change": 1.97,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81dDhwUkVSMmY0akJvNGZ1cEtISFFBYUxVTU1QNWlKSl9tUzJid1luTWRDb3duSTg4UGdObXBhT0U5YUlMM0ZUWE1tRktrLU5mQkxoRTgxU2FRaFU?oc=5",
+      "image": null,
+      "headline": "Trump says tariffs have made the US 'a fortune' - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-29",
+          "c": 45.71
+        },
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 47.95
+        },
+        {
+          "d": "07-09",
+          "c": 48.44
+        },
+        {
+          "d": "07-10",
+          "c": 48.75
+        },
+        {
+          "d": "07-13",
+          "c": 50.22
+        },
+        {
+          "d": "07-14",
+          "c": 49.5
+        },
+        {
+          "d": "07-15",
+          "c": 50.39
+        },
+        {
+          "d": "07-16",
+          "c": 51.08
+        },
+        {
+          "d": "07-17",
+          "c": 51.63
+        },
+        {
+          "d": "07-20",
+          "c": 51.55
+        },
+        {
+          "d": "07-21",
+          "c": 51.47
+        },
+        {
+          "d": "07-22",
+          "c": 50.63
+        },
+        {
+          "d": "07-23",
+          "c": 49.18
+        },
+        {
+          "d": "07-27",
+          "c": 50.81
+        },
+        {
+          "d": "07-28",
+          "c": 51.81
+        }
+      ]
+    },
     {
       "id": "4b14070675cb2b8d",
       "date": "Tue, 28 Jul 2026",
@@ -38687,110 +38787,6 @@
         {
           "d": "06-29",
           "c": 280.26
-        }
-      ]
-    },
-    {
-      "id": "92b281c1596e67ef",
-      "date": "Fri, 26 Jun 2026",
-      "ts": "2026-06-26T10:19:59+00:00",
-      "date_display": "Jun 26, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Intel shares surge after Trump announces Apple partnership - MSN",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 128.46,
-      "change": 0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEFOTWo1WUxKbmlqc1VsRk1HVGRDWGVJdFFYU2dpMkM5M1daRHdZd3UzNlhuLWxwOGxab0VUMkV0N0xRS0kzaHd6VXRTSk9jX3VIWF96REhqRlViaFBWYUEtVDY4ZWx4aGRmV21OTnlLTFhqejRBSEhGV2tJX284b01qX1lUYjZManhXSDF0X1ktV3dkRllzcmV0ZF9WQUxlV25mVlhUdDJNeElJcWpTMWMzX0JiTW0tRHE2VnFRLVc?oc=5",
-      "image": null,
-      "headline": "Intel shares surge after Trump announces Apple partnership - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-29",
-          "c": 114.68
-        },
-        {
-          "d": "06-01",
-          "c": 109.33
-        },
-        {
-          "d": "06-02",
-          "c": 107.93
-        },
-        {
-          "d": "06-03",
-          "c": 112.71
-        },
-        {
-          "d": "06-04",
-          "c": 111.78
-        },
-        {
-          "d": "06-05",
-          "c": 99.17
-        },
-        {
-          "d": "06-08",
-          "c": 110.27
-        },
-        {
-          "d": "06-09",
-          "c": 107.92
-        },
-        {
-          "d": "06-10",
-          "c": 107.04
-        },
-        {
-          "d": "06-11",
-          "c": 116.96
-        },
-        {
-          "d": "06-12",
-          "c": 124.57
-        },
-        {
-          "d": "06-15",
-          "c": 127.86
-        },
-        {
-          "d": "06-16",
-          "c": 117.05
-        },
-        {
-          "d": "06-17",
-          "c": 121.1
-        },
-        {
-          "d": "06-18",
-          "c": 133.99
-        },
-        {
-          "d": "06-22",
-          "c": 140.94
-        },
-        {
-          "d": "06-23",
-          "c": 132.28
-        },
-        {
-          "d": "06-24",
-          "c": 131.65
-        },
-        {
-          "d": "06-25",
-          "c": 132.87
-        },
-        {
-          "d": "06-26",
-          "c": 128.32
-        },
-        {
-          "d": "06-29",
-          "c": 128.46
         }
       ]
     }
