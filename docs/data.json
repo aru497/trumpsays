@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-07-29T22:26:55.481034+00:00",
+  "updated_at": "2026-07-29T23:29:14.104756+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9402217baf87c145",
+      "date": "Wed, 29 Jul 2026",
+      "ts": "2026-07-29T22:30:00+00:00",
+      "date_display": "Jul 29, 2026",
+      "source": "Al Jazeera",
+      "type": "news",
+      "quote": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies - Al Jazeera Sam Altman meets",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3RQOWNQQ01tOHA3cWFDU2JvdGdNWXVDNVZmVE5Lb0pzZUx0a1h0TlM4UW1zeHlrSXdkWEtCSFhfVkZyQXhYa0xSWFpvUXRiWEhnc1BwZXRpN2NkYjd0TW9IQ1FLMzdHLWJaWW5XSmtoSGRWbWo5LXRQN3VEZHdBUnQ0bEFybE03NWhRMWhIdWpRVU95YlpMR3ZvSWJoVWg4TEhYeFVHVkZqWER6eHFxY1psWdIBuAFBVV95cUxQQ2thdU95RUVlSEN0a1QtVXdNaTRLTDNPYnFQWDE2MDV6dFlSSmpnSHFDb29LbVphWTU0dGVudjk3aUdpNVBsbVh1ZjFoMWVadVhzQkZpclk4YW9hbk1iNjEtdEc5VGZ4Q0pQOTBoazBqUlhMVlY4blhvQ052UEcwSExZYlZUZHVjUk9RN3lYckRoUFBOcFZnZFIxdG1LNEgwRXdJMjRBa2NVWXcwbF9Cdjk3WVB2NVBV?oc=5",
+      "image": null,
+      "headline": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies - Al Jazeera",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "a57c52fc8370ee56",
       "date": "Wed, 29 Jul 2026",
@@ -20,6 +39,110 @@
       "headline": "Judge weighs bid to block or reverse transfers of transgender inmates into a segregated prison unit",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "c2531cf6b924f94f",
+      "date": "Wed, 29 Jul 2026",
+      "ts": "2026-07-29T21:08:22+00:00",
+      "date_display": "Jul 29, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "announces $22B makeover for Dulles International Airport - Fox Business Trump announces $22B makeover for Dulles",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 52.73,
+      "change": 2.13,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZRHc3N0NCVVdQOW1iTG1lUTJSMW1XRG10R3NPMzVMUTlwdllXMzhRUEdzdDIzUmpRRXhJUE9JWThkUWN6WEoxOW1ydzhRNjlIbGJLTnBILVR4a2c?oc=5",
+      "image": null,
+      "headline": "Trump announces $22B makeover for Dulles International Airport - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 46.84
+        },
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 47.95
+        },
+        {
+          "d": "07-09",
+          "c": 48.44
+        },
+        {
+          "d": "07-10",
+          "c": 48.75
+        },
+        {
+          "d": "07-13",
+          "c": 50.22
+        },
+        {
+          "d": "07-14",
+          "c": 49.5
+        },
+        {
+          "d": "07-15",
+          "c": 50.39
+        },
+        {
+          "d": "07-16",
+          "c": 51.08
+        },
+        {
+          "d": "07-17",
+          "c": 51.63
+        },
+        {
+          "d": "07-20",
+          "c": 51.55
+        },
+        {
+          "d": "07-21",
+          "c": 51.47
+        },
+        {
+          "d": "07-22",
+          "c": 50.63
+        },
+        {
+          "d": "07-23",
+          "c": 49.18
+        },
+        {
+          "d": "07-24",
+          "c": 49.41
+        },
+        {
+          "d": "07-27",
+          "c": 50.81
+        },
+        {
+          "d": "07-28",
+          "c": 51.63
+        },
+        {
+          "d": "07-29",
+          "c": 52.73
+        }
+      ]
     },
     {
       "id": "1b82572a3d7d1ed7",
@@ -38636,214 +38759,6 @@
         {
           "d": "06-30",
           "c": 1154.29
-        }
-      ]
-    },
-    {
-      "id": "fa78776cbed89062",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T16:30:28+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "got 'all the cards' against Iran, Secretary Burgum says - Fox Business Trump's got 'all the cards' against Iran,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 46.67,
-      "change": 2.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZXZOc1V6TnZoVU5aM3htOW5Sd0JFZGFRTlRzMXNiekFKMTJHS25ZSkZBVmhwcWlCN1QxcEo5cFhyUVZMNHJJajBiclBCRjg5OHBjQ2lTOVlLYzg?oc=5",
-      "image": null,
-      "headline": "Trump's got 'all the cards' against Iran, Secretary Burgum says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.67
-        }
-      ]
-    },
-    {
-      "id": "7ffa94be7cdd3d18",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T14:59:16+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "INDIA New England News",
-      "type": "news",
-      "quote": "Trump Backs New Boeing Deal With India, U.S. Envoy Says - INDIA New England News",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 215.46,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcURQRVhIdHRLMVI3S3g4LUpReVlHdmJCMlZtVmppVmZiaE1MdmhjWjc4TWRCWmUxNmJoRnJhbFRzclBnWGhzNkNVeVA2azJOdkk0bkhLZGpqeEYxUmxtQzFQSHEwRU5UN1NPTHVvWkg4OUdUYS0tN3o4TnJObXN5b1QwODcta21lSGc?oc=5",
-      "image": null,
-      "headline": "Trump Backs New Boeing Deal With India, U.S. Envoy Says - INDIA New England News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 224.3
-        },
-        {
-          "d": "06-02",
-          "c": 217.7
-        },
-        {
-          "d": "06-03",
-          "c": 210.58
-        },
-        {
-          "d": "06-04",
-          "c": 217.42
-        },
-        {
-          "d": "06-05",
-          "c": 215.45
-        },
-        {
-          "d": "06-08",
-          "c": 215.92
-        },
-        {
-          "d": "06-09",
-          "c": 214.51
-        },
-        {
-          "d": "06-10",
-          "c": 209.0
-        },
-        {
-          "d": "06-11",
-          "c": 221.63
-        },
-        {
-          "d": "06-12",
-          "c": 219.05
-        },
-        {
-          "d": "06-15",
-          "c": 228.95
-        },
-        {
-          "d": "06-16",
-          "c": 227.49
-        },
-        {
-          "d": "06-17",
-          "c": 225.63
-        },
-        {
-          "d": "06-18",
-          "c": 222.72
-        },
-        {
-          "d": "06-22",
-          "c": 220.83
-        },
-        {
-          "d": "06-23",
-          "c": 216.71
-        },
-        {
-          "d": "06-24",
-          "c": 220.25
-        },
-        {
-          "d": "06-25",
-          "c": 218.12
-        },
-        {
-          "d": "06-26",
-          "c": 217.25
-        },
-        {
-          "d": "06-29",
-          "c": 214.69
-        },
-        {
-          "d": "06-30",
-          "c": 215.46
         }
       ]
     }
