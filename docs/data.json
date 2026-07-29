@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-07-29T14:39:31.929898+00:00",
+  "updated_at": "2026-07-29T16:14:34.101990+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8d5b739860dc4da9",
+      "date": "Wed, 29 Jul 2026",
+      "ts": "2026-07-29T15:41:03+00:00",
+      "date_display": "Jul 29, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.7,
+      "change": 1.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS21GOHpRNG1ZY1ltMkpuRjhjdVhOblUyUG9mYk5FMjcyVjlWTjFFSEpybVNncDVyMzJHYVVqeFV2WnluZ18xei0ta0luUWplZ1A1T3NFbFhlR2pFTXNDZldNa0FWeG82RWlnQnB4R0xLQTVGNzB4VS1ldVJ5d0kxdlg2U3ZjMDM1TlHSAY8BQVVfeXFMUFhpOEcwMmFvZm00Z2FLMWpWRzdjOHJGOXg2WEt4RWV6Y21kclh1X0hHNWdkVXVZVUdpWVJqbFNWWXRiMWVPWEx5Nnh2Qld0MHA0YjI2akstWG9JSXNBN1ZuOEtPbTRtR3JtOU81TWFSb2p5aDhqcV92WlhUSEtYZm51cjF0RXVFLXZ2cFEyNW8?oc=5",
+      "image": null,
+      "headline": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-29",
+          "c": 7.49
+        },
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-29",
+          "c": 9.7
+        }
+      ]
+    },
     {
       "id": "0059651a286ec172",
       "date": "Wed, 29 Jul 2026",
@@ -895,6 +999,106 @@
         {
           "d": "07-27",
           "c": 87.04
+        }
+      ]
+    },
+    {
+      "id": "e38cd0060c2a21a7",
+      "date": "Mon, 27 Jul 2026",
+      "ts": "2026-07-27T22:00:00+00:00",
+      "date_display": "Jul 27, 2026",
+      "source": "ttnews.com",
+      "type": "news",
+      "quote": "Trump praises GM and defends tariffs during Michigan visit - ttnews.com",
+      "company": "Gm",
+      "ticker": "GM",
+      "price": 89.79,
+      "change": 3.16,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MEhxcjdBeFNibmxEOWFXdmoteUlSQWpXTkI5X0s0TGw2Wm1ZX0F1QUc4M2hSckJUQzM2TmdXTUk4dklDdi1DV081Wi14T2VrbVlNelMwVXYwd0pIN3Vlb1hrVVcwT1dI?oc=5",
+      "image": null,
+      "headline": "Trump praises GM and defends tariffs during Michigan visit - ttnews.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-29",
+          "c": 77.34
+        },
+        {
+          "d": "06-30",
+          "c": 77.08
+        },
+        {
+          "d": "07-01",
+          "c": 75.52
+        },
+        {
+          "d": "07-02",
+          "c": 76.0
+        },
+        {
+          "d": "07-06",
+          "c": 77.85
+        },
+        {
+          "d": "07-07",
+          "c": 76.03
+        },
+        {
+          "d": "07-08",
+          "c": 76.24
+        },
+        {
+          "d": "07-09",
+          "c": 76.65
+        },
+        {
+          "d": "07-10",
+          "c": 77.85
+        },
+        {
+          "d": "07-13",
+          "c": 76.72
+        },
+        {
+          "d": "07-14",
+          "c": 76.87
+        },
+        {
+          "d": "07-15",
+          "c": 77.64
+        },
+        {
+          "d": "07-16",
+          "c": 77.72
+        },
+        {
+          "d": "07-17",
+          "c": 76.07
+        },
+        {
+          "d": "07-20",
+          "c": 75.8
+        },
+        {
+          "d": "07-21",
+          "c": 79.52
+        },
+        {
+          "d": "07-22",
+          "c": 82.13
+        },
+        {
+          "d": "07-23",
+          "c": 80.67
+        },
+        {
+          "d": "07-27",
+          "c": 87.04
+        },
+        {
+          "d": "07-29",
+          "c": 89.79
         }
       ]
     },
@@ -38705,222 +38909,6 @@
         {
           "d": "06-26",
           "c": 38.98
-        }
-      ]
-    },
-    {
-      "id": "c9454f0a0973966a",
-      "date": "Mon, 29 Jun 2026",
-      "ts": "2026-06-29T04:02:38+00:00",
-      "date_display": "Jun 29, 2026",
-      "source": "Stocktwits",
-      "type": "news",
-      "quote": "DJT Stock Heads For Worst Month This Year: Peter Schiff Says",
-      "company": "Djt",
-      "ticker": "DJT",
-      "price": 7.42,
-      "change": 5.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmU0RXE0cm91N0dEcGVWTExPRTlUTUFwUHRhX1FERHUyNWZiaGRYQ2dUUW1BdkFLdWlITWlpaFZZNDc0MFkyaWNRR2pDSlkyM0FDbGtrbXJhLVlMVmt5U0oycHpmY1NNeElBbXlKcWVRdVhEWnRvS2Y2QmVOX1hIS0taRGJkVWFlNGtOM0szbjBEeXJzUnQybmVybnFQem1OVmU2N0w0VmpxZi16T09MbHRIeDltME9WUEE?oc=5",
-      "image": null,
-      "headline": "DJT Stock Heads For Worst Month This Year: Peter Schiff Says \u2018Harbinger Of What's To Come\u2019 - Stocktwits",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 8.57
-        },
-        {
-          "d": "05-28",
-          "c": 8.9
-        },
-        {
-          "d": "05-29",
-          "c": 9.31
-        },
-        {
-          "d": "06-01",
-          "c": 9.47
-        },
-        {
-          "d": "06-02",
-          "c": 9.04
-        },
-        {
-          "d": "06-03",
-          "c": 8.63
-        },
-        {
-          "d": "06-04",
-          "c": 8.8
-        },
-        {
-          "d": "06-05",
-          "c": 8.27
-        },
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        }
-      ]
-    },
-    {
-      "id": "fafa47a243217276",
-      "date": "Sun, 28 Jun 2026",
-      "ts": "2026-06-28T09:39:20+00:00",
-      "date_display": "Jun 28, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Mining Deal. His Sons Stand to Profit. - The New York Times Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.88,
-      "change": 3.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzN3SGRBU2VJYVpQY0NBS01fQmNvTE5uNGVQSGNyODluTE1iYTRENnFWZ1hIdE00RC1WSjg4US1qdzZqU3J0enBtZXhhdjg1bUtqSXJmV3E2Z3c5UmlQNzg0TzJnZ2xHV1hnN0k3MERZWUNKODlvU0xqSmZMaXNfdmxJeG93Wk1nZmc?oc=5",
-      "image": null,
-      "headline": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "05-27",
-          "c": 74.8
-        },
-        {
-          "d": "05-28",
-          "c": 75.0
-        },
-        {
-          "d": "05-29",
-          "c": 75.21
-        },
-        {
-          "d": "06-01",
-          "c": 76.21
-        },
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        },
-        {
-          "d": "06-24",
-          "c": 71.22
-        },
-        {
-          "d": "06-25",
-          "c": 68.57
-        },
-        {
-          "d": "06-26",
-          "c": 70.88
         }
       ]
     }
