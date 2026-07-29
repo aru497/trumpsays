@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-07-29T21:24:21.940113+00:00",
+  "updated_at": "2026-07-29T22:26:55.481034+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a57c52fc8370ee56",
+      "date": "Wed, 29 Jul 2026",
+      "ts": "2026-07-29T22:11:48+00:00",
+      "date_display": "Jul 29, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Judge weighs bid to block or reverse transfers of transgender inmates into a",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/judge-weighs-bid-to-block-or-reverse-transfers-of-transgender-inmates-into-a-segregated-prison-unit",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-04-27T170303Z_557619832_RC2TXKAVJ8EC_RTRMADP_3_USA-TRUMP-DINNER-SUSPECT-1024x683.jpg",
+      "headline": "Judge weighs bid to block or reverse transfers of transgender inmates into a segregated prison unit",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "1b82572a3d7d1ed7",
+      "date": "Wed, 29 Jul 2026",
+      "ts": "2026-07-29T19:42:21+00:00",
+      "date_display": "Jul 29, 2026",
+      "source": "reuters.com",
+      "type": "news",
+      "quote": "US Democratic lawmakers press SEC to probe Trump Media's fast feed - reuters.com US Democratic lawmakers press",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.85,
+      "change": -0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmtBOGJJcnozSzc2SGJnVUgxN0xiZ2JZMHlKTGlzTVJpWThKZ3pheUVDOHdEWkdWT2NsMkRqaW5kY3lDNXVnakEtMk1rTFFmNHBIdXhjd1N4Q0xsT2JEYXRsY3QtclhHVXdNU0hwaFhCUl91UG54ZU9oRUw2ZjFnVGJIa05aYlRhSk8wY0hJRXN5bTc3eXZVZnVGQi12bEswNi1nTnc5a3lzX1BBSnlydmJacHk4UQ?oc=5",
+      "image": null,
+      "headline": "US Democratic lawmakers press SEC to probe Trump Media's fast feed - reuters.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        }
+      ]
+    },
     {
       "id": "6469c5dd9c44ebba",
       "date": "Wed, 29 Jul 2026",
@@ -14135,6 +14258,110 @@
         {
           "d": "07-29",
           "c": 9.75
+        }
+      ]
+    },
+    {
+      "id": "aabfd7d3ba21bec7",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T07:00:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "reuters.com",
+      "type": "news",
+      "quote": "Truth Social to sell trading firms 'fastest' access to Trump's posts -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.85,
+      "change": -0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVk5MnVRbV9GOVVMeUJ2ZWc1T2FROUJpZzRLa092cWc1N3gwMW5vQmVxWGY4WUNTT3ZjQkt3MVhJSERGVU5VQmowa19vVHpxUjRWYThEZW5iWnc1S1AwRjdfdGRVb29QVGtlSzlzWFplZ0F1eGJtSnVLeTR3eE9KWlo5UDhLc3JOWjB5NWc3ZURvZDZ4NHZlSkZ1dXhqOG9mZWpNVUNBM0tDbTNZa2FMLXhHQUtKZw?oc=5",
+      "image": null,
+      "headline": "Truth Social to sell trading firms 'fastest' access to Trump's posts - reuters.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
         }
       ]
     },
@@ -38617,318 +38844,6 @@
         {
           "d": "06-30",
           "c": 215.46
-        }
-      ]
-    },
-    {
-      "id": "6f8d7fbc46ad1f1c",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T13:54:35+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "Tekedia",
-      "type": "news",
-      "quote": "Robinhood Launches Trump Accounts as SpaceX Stock Donations Enter",
-      "company": "Robinhood",
-      "ticker": "HOOD",
-      "price": 99.94,
-      "change": -1.86,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTk43SHpaQk92T2VVODlhbkVNZGlpUnFNWml5THZobGp3UDVYSkN5dHBwMV9naVdQa0FNbjR2LVpJb1ZKZmFIUFVhRWRRUnRnVVhjV1RmWEItUUhkOTJ4QWE1TW9QSzNkRldxTS05VHlQeDVWT1Bnc2RwcWJ1Sk9sRzMxZDdmMWZuQVZWeVgteV8zbXpPTmxpSkFBRzhDRFVOdVEyeXotSjJubUY4Wk11TQ?oc=5",
-      "image": null,
-      "headline": "Robinhood Launches Trump Accounts as SpaceX Stock Donations Enter Political Discussion - Tekedia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 90.73
-        },
-        {
-          "d": "06-02",
-          "c": 88.16
-        },
-        {
-          "d": "06-03",
-          "c": 82.85
-        },
-        {
-          "d": "06-04",
-          "c": 88.33
-        },
-        {
-          "d": "06-05",
-          "c": 82.47
-        },
-        {
-          "d": "06-08",
-          "c": 85.04
-        },
-        {
-          "d": "06-09",
-          "c": 83.77
-        },
-        {
-          "d": "06-10",
-          "c": 86.36
-        },
-        {
-          "d": "06-11",
-          "c": 92.23
-        },
-        {
-          "d": "06-12",
-          "c": 93.19
-        },
-        {
-          "d": "06-15",
-          "c": 98.12
-        },
-        {
-          "d": "06-16",
-          "c": 96.71
-        },
-        {
-          "d": "06-17",
-          "c": 105.2
-        },
-        {
-          "d": "06-18",
-          "c": 108.15
-        },
-        {
-          "d": "06-22",
-          "c": 105.71
-        },
-        {
-          "d": "06-23",
-          "c": 103.25
-        },
-        {
-          "d": "06-24",
-          "c": 97.19
-        },
-        {
-          "d": "06-25",
-          "c": 93.47
-        },
-        {
-          "d": "06-26",
-          "c": 98.69
-        },
-        {
-          "d": "06-29",
-          "c": 101.83
-        },
-        {
-          "d": "06-30",
-          "c": 99.94
-        }
-      ]
-    },
-    {
-      "id": "03f48ed16c3d85bf",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T13:30:00+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "WBKB11.com",
-      "type": "news",
-      "quote": "Trump\u2019s tariffs aren\u2019t saving jobs at Whirlpool\u2019s Iowa refrigerator plant - WBKB11.com Trump\u2019s tariffs",
-      "company": "Whirlpool",
-      "ticker": "WHR",
-      "price": 37.76,
-      "change": -0.63,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1hQUUllVUhlRG9VXzllVllQUHdNQUphbVRoRnZFcHpVak55Z1dKRXd4dmVxVWVSWVFROHJkN2NOUnNEUDFHMURlNzE2UHljQllNdmdrT1ZuVFNhRl91X3R5QVBlaHJCblpBSTRLMFZyWkFnQ2lFMUx1NHZqQm9IX2pYN3VTWFJRY2FqRVIwMlV2b2hIUmRlbEJDQXFPaFVlQmYzRElrb1NqMmpiMUJleVg3emY0RndhcFB3N0ZzT0NWb1JmeFJoeVhIMklCZkNLdkFwTThGUl9rZWd1Szc0WmFncm5uRkVnX1Y5aEJ3?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s tariffs aren\u2019t saving jobs at Whirlpool\u2019s Iowa refrigerator plant - WBKB11.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 42.44
-        },
-        {
-          "d": "06-02",
-          "c": 41.01
-        },
-        {
-          "d": "06-03",
-          "c": 40.71
-        },
-        {
-          "d": "06-04",
-          "c": 40.0
-        },
-        {
-          "d": "06-05",
-          "c": 39.47
-        },
-        {
-          "d": "06-08",
-          "c": 39.56
-        },
-        {
-          "d": "06-09",
-          "c": 41.44
-        },
-        {
-          "d": "06-10",
-          "c": 40.11
-        },
-        {
-          "d": "06-11",
-          "c": 42.41
-        },
-        {
-          "d": "06-12",
-          "c": 42.89
-        },
-        {
-          "d": "06-15",
-          "c": 41.86
-        },
-        {
-          "d": "06-16",
-          "c": 40.11
-        },
-        {
-          "d": "06-17",
-          "c": 38.64
-        },
-        {
-          "d": "06-18",
-          "c": 38.86
-        },
-        {
-          "d": "06-22",
-          "c": 36.57
-        },
-        {
-          "d": "06-23",
-          "c": 36.19
-        },
-        {
-          "d": "06-24",
-          "c": 37.86
-        },
-        {
-          "d": "06-25",
-          "c": 37.74
-        },
-        {
-          "d": "06-26",
-          "c": 38.98
-        },
-        {
-          "d": "06-29",
-          "c": 38.0
-        },
-        {
-          "d": "06-30",
-          "c": 37.76
-        }
-      ]
-    },
-    {
-      "id": "2667537f5b30c322",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T13:22:00+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "Yahoo Finance UK",
-      "type": "news",
-      "quote": "Micron Announces $250 Million Investment in Trump Accounts",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1154.29,
-      "change": 0.79,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTJYdmRubUEtSDFRZVNlbVlFbWc3dTdzWHFiMURoMUU5aXhCVU9vcEVvZWlGbzdvZVN3dFdSNy1FUGNfMy11dDJSbTJuSkJ6Y0EtNm9ydzJiUXM0VmJ6Mzh6dktWanlYZjMzbjZyQVdiNVp3M0J1blJVWVpUQ01SZ0JPbHZpcTlNY0FqNzBlSmMtdw?oc=5",
-      "image": null,
-      "headline": "Micron Announces $250 Million Investment in Trump Accounts Reaching 1 Million Children, Families and the Future Workforce - Yahoo Finance UK",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 1035.5
-        },
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
         }
       ]
     }
