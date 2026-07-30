@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T00:54:30.053426+00:00",
+  "updated_at": "2026-07-30T03:49:14.338491+00:00",
   "count": 400,
   "mentions": [
     {
@@ -37,6 +37,25 @@
       "article_link": "https://www.pbs.org/newshour/politics/judge-weighs-bid-to-block-or-reverse-transfers-of-transgender-inmates-into-a-segregated-prison-unit",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-04-27T170303Z_557619832_RC2TXKAVJ8EC_RTRMADP_3_USA-TRUMP-DINNER-SUSPECT-1024x683.jpg",
       "headline": "Judge weighs bid to block or reverse transfers of transgender inmates into a segregated prison unit",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "49ecb3bf5ec80d35",
+      "date": "Wed, 29 Jul 2026",
+      "ts": "2026-07-29T21:39:45+00:00",
+      "date_display": "Jul 29, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "OpenAI's Sam Altman discusses rogue agent with US senators, as",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejhjek5UdU8zQTFoVHhhUHQ5QVBISGpCenZVVlA4RUw5R2FkZUpCYXJNNnBDV0x1ZUhNaW8wdVRDcnpDc2lYNWNmOGF4a3NTbmZ1aFNNbHI0OE1vQ0pud0haNFZsSjhOaVVCOS01UHZrSEo3OHB3U1ZqQUtaRkphNkhFbnBpZUVxaE50ZXZBcmV4M0ZGbzlWVE93NElKc3gzWHI0MG1NQndMYWM5MlBQTGRTODZMN24wU0pmQ2dRSFRTZw?oc=5",
+      "image": null,
+      "headline": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls - Reuters",
       "channel": "News",
       "series": null
     },
@@ -23025,6 +23044,110 @@
       ]
     },
     {
+      "id": "f8c3afa5da3ad6d0",
+      "date": "Thu, 16 Jul 2026",
+      "ts": "2026-07-16T07:00:00+00:00",
+      "date_display": "Jul 16, 2026",
+      "source": "cnn.com",
+      "type": "news",
+      "quote": "Trump promoted companies on Truth Social days after buying their stocks - cnn.com Trump promoted",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.85,
+      "change": -0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWFFXdnV0eVdtRnZwU3gyV1RFUktJd0dFSFRremZ5S3R3dWJtWmpENzd2QmZ0WFBlU0UtVXlUTWE0REI5R0pRd1BjenRDU28wak9YY0wyU0lPX09fUlRTV0xSRHM2b0VYZDA5bm9xQ19mSTNISUQtNUlDODRSZw?oc=5",
+      "image": null,
+      "headline": "Trump promoted companies on Truth Social days after buying their stocks - cnn.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        }
+      ]
+    },
+    {
       "id": "c418ddaeb402aa47",
       "date": "Thu, 16 Jul 2026",
       "ts": "2026-07-16T01:05:51+00:00",
@@ -38551,214 +38674,6 @@
         {
           "d": "07-02",
           "c": 73.85
-        }
-      ]
-    },
-    {
-      "id": "94d126f8a7ac17db",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T22:48:00+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto - MarketWatch Trump",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 289.36,
-      "change": 2.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkxXcV9tc1hBa0ppeFV5MTdRb004dmVzUWxFOGxTdHlNWVRNUDdIcW1TMDZKenVteVJRTThqcEpzMEY5b3Y3eDB6UGhyaXFKaHVUc3dtZjZweF9uTTVfZUwwSUJEN1NGU2xGT1N4YTJmYmZQaEhqMTZ4U2l3eWNGV0NlZ3NfMDZJRVZDTTlEV0RfLWNXR1ZhOEpyQ0pkMlVUUFJCUXRrcEo5cEM4WU9xR1hnaEpMNlp5LXFvUWVKdy0zSFAwZ3FvWFZaTTZUU2gzSVE?oc=5",
-      "image": null,
-      "headline": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto - MarketWatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
-        },
-        {
-          "d": "06-22",
-          "c": 297.01
-        },
-        {
-          "d": "06-23",
-          "c": 294.3
-        },
-        {
-          "d": "06-24",
-          "c": 293.08
-        },
-        {
-          "d": "06-25",
-          "c": 275.15
-        },
-        {
-          "d": "06-26",
-          "c": 283.78
-        },
-        {
-          "d": "06-29",
-          "c": 281.74
-        },
-        {
-          "d": "06-30",
-          "c": 289.36
-        }
-      ]
-    },
-    {
-      "id": "b9a4b2d3b1752c20",
-      "date": "Tue, 30 Jun 2026",
-      "ts": "2026-06-30T21:31:38+00:00",
-      "date_display": "Jun 30, 2026",
-      "source": "Idaho Education News",
-      "type": "news",
-      "quote": "Micron announces Trump Account contributions for Idaho families -",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1154.29,
-      "change": 0.79,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjNCcm9xYVVPN05NWGdDRTVUeU9LVTJDT1ZXeHdqRTdPS090WEJLU3JhRFRtSGl0Y1VvN2RCa29GdUkyNUhpV0cyTzlwa3pkdGZiOUpha0dRXzNLUXRzTWx2aEtGSFJJRElVZmVGWTVDMlRieFFEcUE0cWhtb25VZFBxMy1VYWhmSTQxekJNcnd2VVpoN0lKdjhRM0xMdw?oc=5",
-      "image": null,
-      "headline": "Micron announces Trump Account contributions for Idaho families - Idaho Education News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 1035.5
-        },
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
         }
       ]
     }
