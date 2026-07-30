@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-07-30T21:07:20.343574+00:00",
+  "updated_at": "2026-07-30T22:32:49.469972+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9d116473da7bcef5",
+      "date": "Thu, 30 Jul 2026",
+      "ts": "2026-07-30T21:13:09+00:00",
+      "date_display": "Jul 30, 2026",
+      "source": "aei.org",
+      "type": "news",
+      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org Trump Buys",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 195.04,
+      "change": 2.65,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhGc293QjBicEpoOVFvSG40NExpdnFNNWhvT3U1YXRadHlPcnhwdWl5WGhYR1g5R29wY05JSWQyS0FnTTJXUEd1VzgtMTNIMlUzNVJmRDd6UTRnTXRKSWUxaWR5cXl2ZnQyYlN6MTNpVDh2NjM3ZGhjUWJJbF93TFFFRzkzS1k3UHphNXFnaFd1Y013NEdya0FR?oc=5",
+      "image": null,
+      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 200.09
+        },
+        {
+          "d": "07-01",
+          "c": 197.58
+        },
+        {
+          "d": "07-02",
+          "c": 194.83
+        },
+        {
+          "d": "07-06",
+          "c": 195.55
+        },
+        {
+          "d": "07-07",
+          "c": 196.93
+        },
+        {
+          "d": "07-08",
+          "c": 204.12
+        },
+        {
+          "d": "07-09",
+          "c": 202.78
+        },
+        {
+          "d": "07-10",
+          "c": 210.96
+        },
+        {
+          "d": "07-13",
+          "c": 203.53
+        },
+        {
+          "d": "07-14",
+          "c": 211.8
+        },
+        {
+          "d": "07-15",
+          "c": 212.5
+        },
+        {
+          "d": "07-16",
+          "c": 207.4
+        },
+        {
+          "d": "07-17",
+          "c": 202.81
+        },
+        {
+          "d": "07-20",
+          "c": 203.28
+        },
+        {
+          "d": "07-21",
+          "c": 207.29
+        },
+        {
+          "d": "07-22",
+          "c": 212.06
+        },
+        {
+          "d": "07-23",
+          "c": 208.76
+        },
+        {
+          "d": "07-24",
+          "c": 206.84
+        },
+        {
+          "d": "07-27",
+          "c": 196.51
+        },
+        {
+          "d": "07-28",
+          "c": 197.01
+        },
+        {
+          "d": "07-29",
+          "c": 190.01
+        },
+        {
+          "d": "07-30",
+          "c": 195.04
+        }
+      ]
+    },
+    {
+      "id": "7352b511e30ac4d8",
+      "date": "Thu, 30 Jul 2026",
+      "ts": "2026-07-30T21:13:09+00:00",
+      "date_display": "Jul 30, 2026",
+      "source": "aei.org",
+      "type": "news",
+      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org",
+      "company": "Boeing",
+      "ticker": "BA",
+      "price": 220.9,
+      "change": 3.22,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhGc293QjBicEpoOVFvSG40NExpdnFNNWhvT3U1YXRadHlPcnhwdWl5WGhYR1g5R29wY05JSWQyS0FnTTJXUEd1VzgtMTNIMlUzNVJmRDd6UTRnTXRKSWUxaWR5cXl2ZnQyYlN6MTNpVDh2NjM3ZGhjUWJJbF93TFFFRzkzS1k3UHphNXFnaFd1Y013NEdya0FR?oc=5",
+      "image": null,
+      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 216.47
+        },
+        {
+          "d": "07-01",
+          "c": 218.58
+        },
+        {
+          "d": "07-02",
+          "c": 226.49
+        },
+        {
+          "d": "07-06",
+          "c": 234.54
+        },
+        {
+          "d": "07-07",
+          "c": 231.68
+        },
+        {
+          "d": "07-08",
+          "c": 224.95
+        },
+        {
+          "d": "07-09",
+          "c": 223.11
+        },
+        {
+          "d": "07-10",
+          "c": 222.28
+        },
+        {
+          "d": "07-13",
+          "c": 215.51
+        },
+        {
+          "d": "07-14",
+          "c": 217.11
+        },
+        {
+          "d": "07-15",
+          "c": 218.12
+        },
+        {
+          "d": "07-16",
+          "c": 214.34
+        },
+        {
+          "d": "07-17",
+          "c": 214.03
+        },
+        {
+          "d": "07-20",
+          "c": 209.48
+        },
+        {
+          "d": "07-21",
+          "c": 204.8
+        },
+        {
+          "d": "07-22",
+          "c": 208.65
+        },
+        {
+          "d": "07-23",
+          "c": 209.23
+        },
+        {
+          "d": "07-24",
+          "c": 209.52
+        },
+        {
+          "d": "07-27",
+          "c": 211.5
+        },
+        {
+          "d": "07-28",
+          "c": 221.56
+        },
+        {
+          "d": "07-29",
+          "c": 214.01
+        },
+        {
+          "d": "07-30",
+          "c": 220.9
+        }
+      ]
+    },
     {
       "id": "ddb6f71a68172dd2",
       "date": "Thu, 30 Jul 2026",
@@ -323,6 +539,114 @@
         {
           "d": "07-30",
           "c": 10.39
+        }
+      ]
+    },
+    {
+      "id": "1b9e758f50b60987",
+      "date": "Thu, 30 Jul 2026",
+      "ts": "2026-07-30T18:27:00+00:00",
+      "date_display": "Jul 30, 2026",
+      "source": "pionline.com",
+      "type": "news",
+      "quote": "Democrats ramp up pressure on SEC over Trump Media\u2019s paid data feed - pionline.com Democrats ramp up pressure",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.38,
+      "change": 5.38,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVG45MDVKb1FCTW05bUMyaEVBYm5pWjd6S0ZldnFzTGRjSVY5bXptcUgyeGtXVUFsd2c5V21oNmtGaW1LVWpQLWdrRWpxTE1zUkg0YXpSZ1AxWW1zVUFJamFKdVM3OXVOZGNMNUZaOGhUTjlCQUFJakIydUVncWl1VFZtS3ZpTzAzazFob0hxNFd5b1JYWmFWRVpFTlhVVjQ3eEVqTzRHMzdmdw?oc=5",
+      "image": null,
+      "headline": "Democrats ramp up pressure on SEC over Trump Media\u2019s paid data feed - pionline.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
         }
       ]
     },
@@ -15961,6 +16285,114 @@
         {
           "d": "07-30",
           "c": 10.26
+        }
+      ]
+    },
+    {
+      "id": "df4ccfc6fe19ecd1",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T07:00:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "time.com",
+      "type": "news",
+      "quote": "Trump Media to Sell Traders \u2018the Fastest\u2019 Access to Truth Social Posts",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.38,
+      "change": 5.38,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUVJR1U1WFA3c1lTd1NfYnFIdXRzRXpIbWZjTWtjMzhvdGtUWEk0eHVnN2EwZ0lNcUJQczE2Y3RRV0dUc2dEMGVWTTJZamhTNkhaNVMzM1J2djVBbW9nVE55bV9YV0o0a2dCb1BsbUYzdEsyLTZTUE1PdlpmY2pSc2pwbw?oc=5",
+      "image": null,
+      "headline": "Trump Media to Sell Traders \u2018the Fastest\u2019 Access to Truth Social Posts - time.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
         }
       ]
     },
@@ -38104,422 +38536,6 @@
         {
           "d": "07-01",
           "c": 127.02
-        }
-      ]
-    },
-    {
-      "id": "780cee6ee238b1fa",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T19:42:14+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Receive $250 Million Donation From Chip Maker Micron - The New York Times Trump Accounts to Receive $250 Million Donation From Chip",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 71.79,
-      "change": 2.59,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkgxeF94RGFoZVNycU5RNnpRUXk4STE5Q0tDdzk1azBhcERLWVRaek1sYXRIdU11amFpZ0pHSzVCaEFMc1NPQ3BFc3FtZ1FkdnNyZ3l6SjNlQUZWSWVaUkR3ekNFeEpkVmNlX19iWmJodXJDNDNrS0JQdEtQeHV6WG9IdXB1Z1VPejNaaVQyeU1ybzQ1TGNHUmEzd1RmQWc?oc=5",
-      "image": null,
-      "headline": "Trump Accounts to Receive $250 Million Donation From Chip Maker Micron - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 75.24
-        },
-        {
-          "d": "06-03",
-          "c": 75.17
-        },
-        {
-          "d": "06-04",
-          "c": 75.25
-        },
-        {
-          "d": "06-05",
-          "c": 76.88
-        },
-        {
-          "d": "06-08",
-          "c": 74.02
-        },
-        {
-          "d": "06-09",
-          "c": 73.59
-        },
-        {
-          "d": "06-10",
-          "c": 73.0
-        },
-        {
-          "d": "06-11",
-          "c": 74.2
-        },
-        {
-          "d": "06-12",
-          "c": 73.38
-        },
-        {
-          "d": "06-15",
-          "c": 73.8
-        },
-        {
-          "d": "06-16",
-          "c": 73.83
-        },
-        {
-          "d": "06-17",
-          "c": 74.46
-        },
-        {
-          "d": "06-18",
-          "c": 73.06
-        },
-        {
-          "d": "06-22",
-          "c": 72.08
-        },
-        {
-          "d": "06-23",
-          "c": 72.83
-        },
-        {
-          "d": "06-24",
-          "c": 71.22
-        },
-        {
-          "d": "06-25",
-          "c": 68.57
-        },
-        {
-          "d": "06-26",
-          "c": 70.88
-        },
-        {
-          "d": "06-29",
-          "c": 70.65
-        },
-        {
-          "d": "06-30",
-          "c": 69.98
-        },
-        {
-          "d": "07-01",
-          "c": 71.79
-        }
-      ]
-    },
-    {
-      "id": "c955a1669317d7d1",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T19:42:14+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Accounts to Receive $250 Million Donation From Chip Maker Micron - The New York Times Trump Accounts to Receive $250",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1032.28,
-      "change": -10.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkgxeF94RGFoZVNycU5RNnpRUXk4STE5Q0tDdzk1azBhcERLWVRaek1sYXRIdU11amFpZ0pHSzVCaEFMc1NPQ3BFc3FtZ1FkdnNyZ3l6SjNlQUZWSWVaUkR3ekNFeEpkVmNlX19iWmJodXJDNDNrS0JQdEtQeHV6WG9IdXB1Z1VPejNaaVQyeU1ybzQ1TGNHUmEzd1RmQWc?oc=5",
-      "image": null,
-      "headline": "Trump Accounts to Receive $250 Million Donation From Chip Maker Micron - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        }
-      ]
-    },
-    {
-      "id": "b17f0dba4335fa16",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T19:41:15+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "Baton Rouge Business Report",
-      "type": "news",
-      "quote": "Trump says Micron will donate $250M to his investment initiative for",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1032.28,
-      "change": -10.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcld4OXJvNkpfN3VsODNXS0t5RTFnVTNlSThMUFNIbDFsc2RJYzRHbjAxRk95OV9TOUlLaHNvTlJZOFF4U3VDckczNFh0ZVo0TExMZjU5aFoxcjR2ZDdsMkNOcFpfbjdWTE5BeE1CNGRtUmVRQWV0b2xQTGhCa1M1NTFNRW1LOGRoNUxQRmlyaHNGR2lDQ25PSU9BbG9sWmpxNEZHTmtoMFhjajA0N3F5c2tDMGZ3Z9IBvgFBVV95cUxNc3p0NGxjZDlTQ0JBN3V6X2JyYjlnb0xtdkg0bFVLS29NRkhPWEEtczlFV2hKYk1SOUt5Q3hkdnJfOWVCQnhRaFlBU2xJUks1Y1B1RElQcE95YkVnblp0d2JtS3hBUmdWcFZuQmNxeU1QQ2Jza29KN3FWUTZTN3lOVVFfNUE5d05aTkQ2UndfZmw4UEJQU1FDNzNqV0NxYjFCeE82TWhOcnZZTGt3Q1JvUDd6ajd4a21jV1ROVWRB?oc=5",
-      "image": null,
-      "headline": "Trump says Micron will donate $250M to his investment initiative for children - Baton Rouge Business Report",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        }
-      ]
-    },
-    {
-      "id": "3edc3dd6d6072e23",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T19:41:15+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "Baton Rouge Business Report",
-      "type": "news",
-      "quote": "Micron will donate $250M to Trump\u2019s investment initiative for",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1032.28,
-      "change": -10.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcld4OXJvNkpfN3VsODNXS0t5RTFnVTNlSThMUFNIbDFsc2RJYzRHbjAxRk95OV9TOUlLaHNvTlJZOFF4U3VDckczNFh0ZVo0TExMZjU5aFoxcjR2ZDdsMkNOcFpfbjdWTE5BeE1CNGRtUmVRQWV0b2xQTGhCa1M1NTFNRW1LOGRoNUxQRmlyaHNGR2lDQ25PSU9BbG9sWmpxNEZHTmtoMFhjajA0N3F5c2tDMGZ3Z9IBvgFBVV95cUxNc3p0NGxjZDlTQ0JBN3V6X2JyYjlnb0xtdkg0bFVLS29NRkhPWEEtczlFV2hKYk1SOUt5Q3hkdnJfOWVCQnhRaFlBU2xJUks1Y1B1RElQcE95YkVnblp0d2JtS3hBUmdWcFZuQmNxeU1QQ2Jza29KN3FWUTZTN3lOVVFfNUE5d05aTkQ2UndfZmw4UEJQU1FDNzNqV0NxYjFCeE82TWhOcnZZTGt3Q1JvUDd6ajd4a21jV1ROVWRB?oc=5",
-      "image": null,
-      "headline": "Micron will donate $250M to Trump\u2019s investment initiative for children - Baton Rouge Business Report",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
         }
       ]
     }
