@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-07-30T13:01:33.023336+00:00",
+  "updated_at": "2026-07-30T15:28:43.234629+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0300d0c4a682982a",
+      "date": "Thu, 30 Jul 2026",
+      "ts": "2026-07-30T09:12:20+00:00",
+      "date_display": "Jul 30, 2026",
+      "source": "The Jakarta Post",
+      "type": "news",
+      "quote": "Trump says he's looking at AI controls after OpenAI rogue agent - The Jakarta Post Trump says he's looking at",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVZ4Zm5GZTNSekJxWFVtLVVYMGRZby1xV3ZxNlpLRDlLM3lwVDJtX0ZGc1FfOEZTNHlPMm9aNlVYZC03ay1oRkNsVFRzb0RZc3hldWRfNEpTYzl0ajRMUy1KNFdUUXdzLWJ4S3NQX245S2lYLTJaWjZNTHhDVi1lTkpHOXZVb2ZYMGpNbWtzNTRJRGI5M2lKWWJGZW4yNUItdHBKQTNmUUdEM2xpcGVB?oc=5",
+      "image": null,
+      "headline": "Trump says he's looking at AI controls after OpenAI rogue agent - The Jakarta Post",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "b1a40e8b2da3dae0",
       "date": "Thu, 30 Jul 2026",
@@ -39,6 +58,114 @@
       "headline": "Trump considering AI controls after OpenAI hacking incidents - bbc.com",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "24864cfa09e1bc66",
+      "date": "Thu, 30 Jul 2026",
+      "ts": "2026-07-30T07:00:00+00:00",
+      "date_display": "Jul 30, 2026",
+      "source": "NPR",
+      "type": "news",
+      "quote": "Trump\u2019s new Truth Social plan: pay $100K : The Indicator from Planet Money - NPR",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.88,
+      "change": 0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82Ql8xcm9RQ1dPNXM1Umo1VG02My1yeUh5b2VKMkVud1oxRFV3eHBmdmtMVVZ0WHRFUTcxdzREVm4xQmM0ZkFfQ1Vwd1NGMVBNUkJqOXozd0s?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s new Truth Social plan: pay $100K : The Indicator from Planet Money - NPR",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 9.88
+        }
+      ]
     },
     {
       "id": "9402217baf87c145",
@@ -14646,6 +14773,114 @@
         {
           "d": "07-29",
           "c": 9.85
+        }
+      ]
+    },
+    {
+      "id": "6741cd5c8d059810",
+      "date": "Fri, 17 Jul 2026",
+      "ts": "2026-07-17T07:00:00+00:00",
+      "date_display": "Jul 17, 2026",
+      "source": "engadget.com",
+      "type": "news",
+      "quote": "There's Now An API For Mainlining Trump's Truth Social Posts - engadget.com There's Now An API For Mainlining",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.88,
+      "change": 0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2ZUVEVwR3JWdUQwcEdITHFYNmtHcXFTSGpMdDdNemxKenVLX2NlMGNiWXhXT0d1SGhxOUtxSXhWdlQtMGxQOXVTZXg0TXJRYXFhLUVQa2JlaXdKdXZtY2pTdVZ1VUJPRXBSSkl1dDhYSUdPTUFpTVRUSm5fcDBzanYwTUNIckxlSnNycEtlNkFyVnd2OW1PbmFB?oc=5",
+      "image": null,
+      "headline": "There's Now An API For Mainlining Trump's Truth Social Posts - engadget.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "06-30",
+          "c": 7.74
+        },
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 9.88
         }
       ]
     },
@@ -38180,330 +38415,6 @@
         {
           "d": "07-01",
           "c": 73.21
-        }
-      ]
-    },
-    {
-      "id": "417b3891274b621d",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T13:48:00+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "is doubling the size of chipmaking plant in Arizona - Fox Business Trump says Taiwan is doubling the size of",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 48.74,
-      "change": 4.06,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGZxTXF0R3lBT0lYS2JtOHlEZWFjN2d2X1hfbGhCV0RPZzREV09HVzJ1QVBVNDZBZFNFV3ZGMmg5UFpXWHRYMDNlTnhEdFVya3NzWVVYaXZXLVFxb3J4dzlIVmEyaEZPbXpiTHhkZEVjalpBdmNqMXF4UUZUT0ZPR0RuY0ZkNURzR0wtWGFXNFAzSUVKQksw0gGcAUFVX3lxTE9fMHJPSEdpME1CN3p1MDV6dmV6UFVWQzN0VVg3ZEY1eTZVdXROajAxOERYVFNEZlV0Z2dzUmMtYkMyaDZmUlhUQ3owNnVPY29vT2VNQkNMbkZpY0dYcWhZMnZXR0lRendPb0hpdTBuVzdfeWQ1NnRxeWYtcnlfU2hGTTRycHdsYm1fRkk3Z3NqWFgzTXdWWFluQm1pVA?oc=5",
-      "image": null,
-      "headline": "Trump says Taiwan is doubling the size of chipmaking plant in Arizona - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 59.84
-        },
-        {
-          "d": "06-02",
-          "c": 58.65
-        },
-        {
-          "d": "06-03",
-          "c": 57.44
-        },
-        {
-          "d": "06-04",
-          "c": 58.73
-        },
-        {
-          "d": "06-05",
-          "c": 59.88
-        },
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.74
-        }
-      ]
-    },
-    {
-      "id": "b0c344a3ef7cd1bc",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T12:45:00+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Palantir Stock, Apple and Crypto Billions\u2014What Trump\u2019s Latest Financial Filing",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 292.81,
-      "change": 1.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUZrbl80QVZnRlVpbHdaMUltaUtTdGl3RVlqVG1BTGZFQVZIS3NyNWJadkRxbm9YeFVPOXBrTFFmYTMySERLam1vOUo1eE1yTE45dGlUdUlZN2t3WFhPU0MtMks4YnBjc2UyMjlkYmlGaWItcmp4VTlPcXRuSzFaaW5yYjRJYkloZmc?oc=5",
-      "image": null,
-      "headline": "Palantir Stock, Apple and Crypto Billions\u2014What Trump\u2019s Latest Financial Filing Reveals - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 306.31
-        },
-        {
-          "d": "06-02",
-          "c": 315.2
-        },
-        {
-          "d": "06-03",
-          "c": 310.26
-        },
-        {
-          "d": "06-04",
-          "c": 311.23
-        },
-        {
-          "d": "06-05",
-          "c": 307.34
-        },
-        {
-          "d": "06-08",
-          "c": 301.54
-        },
-        {
-          "d": "06-09",
-          "c": 290.55
-        },
-        {
-          "d": "06-10",
-          "c": 291.58
-        },
-        {
-          "d": "06-11",
-          "c": 295.63
-        },
-        {
-          "d": "06-12",
-          "c": 291.13
-        },
-        {
-          "d": "06-15",
-          "c": 296.42
-        },
-        {
-          "d": "06-16",
-          "c": 299.24
-        },
-        {
-          "d": "06-17",
-          "c": 295.95
-        },
-        {
-          "d": "06-18",
-          "c": 298.01
-        },
-        {
-          "d": "06-22",
-          "c": 297.01
-        },
-        {
-          "d": "06-23",
-          "c": 294.3
-        },
-        {
-          "d": "06-24",
-          "c": 293.08
-        },
-        {
-          "d": "06-25",
-          "c": 275.15
-        },
-        {
-          "d": "06-26",
-          "c": 283.78
-        },
-        {
-          "d": "06-29",
-          "c": 281.74
-        },
-        {
-          "d": "06-30",
-          "c": 289.36
-        },
-        {
-          "d": "07-01",
-          "c": 292.81
-        }
-      ]
-    },
-    {
-      "id": "4ebbdff5f0515b47",
-      "date": "Wed, 01 Jul 2026",
-      "ts": "2026-07-01T12:45:00+00:00",
-      "date_display": "Jul 01, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Palantir Stock, Apple and Crypto Billions\u2014What Trump\u2019s Latest",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 125.28,
-      "change": 7.38,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUZrbl80QVZnRlVpbHdaMUltaUtTdGl3RVlqVG1BTGZFQVZIS3NyNWJadkRxbm9YeFVPOXBrTFFmYTMySERLam1vOUo1eE1yTE45dGlUdUlZN2t3WFhPU0MtMks4YnBjc2UyMjlkYmlGaWItcmp4VTlPcXRuSzFaaW5yYjRJYkloZmc?oc=5",
-      "image": null,
-      "headline": "Palantir Stock, Apple and Crypto Billions\u2014What Trump\u2019s Latest Financial Filing Reveals - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-01",
-          "c": 160.65
-        },
-        {
-          "d": "06-02",
-          "c": 152.17
-        },
-        {
-          "d": "06-03",
-          "c": 142.2
-        },
-        {
-          "d": "06-04",
-          "c": 141.7
-        },
-        {
-          "d": "06-05",
-          "c": 135.53
-        },
-        {
-          "d": "06-08",
-          "c": 136.47
-        },
-        {
-          "d": "06-09",
-          "c": 132.07
-        },
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        },
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        },
-        {
-          "d": "06-18",
-          "c": 128.47
-        },
-        {
-          "d": "06-22",
-          "c": 119.5
-        },
-        {
-          "d": "06-23",
-          "c": 116.7
-        },
-        {
-          "d": "06-24",
-          "c": 113.5
-        },
-        {
-          "d": "06-25",
-          "c": 107.27
-        },
-        {
-          "d": "06-26",
-          "c": 112.93
-        },
-        {
-          "d": "06-29",
-          "c": 115.7
-        },
-        {
-          "d": "06-30",
-          "c": 116.67
-        },
-        {
-          "d": "07-01",
-          "c": 125.28
         }
       ]
     }
