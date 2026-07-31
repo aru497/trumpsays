@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-07-31T21:33:46.417052+00:00",
+  "updated_at": "2026-07-31T22:49:23.290019+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3f4323bd3972abf5",
+      "date": "Fri, 31 Jul 2026",
+      "ts": "2026-07-31T22:40:06+00:00",
+      "date_display": "Jul 31, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.89,
+      "change": -1.24,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/costofwar-1024x685.jpg",
+      "headline": "How Iranians are living through months of war and government crackdowns",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        }
+      ]
+    },
     {
       "id": "85ae59e92aec45f2",
       "date": "Fri, 31 Jul 2026",
@@ -11008,6 +11116,114 @@
         {
           "d": "07-20",
           "c": 97.82
+        }
+      ]
+    },
+    {
+      "id": "17c1a39e577b405e",
+      "date": "Tue, 21 Jul 2026",
+      "ts": "2026-07-21T07:00:00+00:00",
+      "date_display": "Jul 21, 2026",
+      "source": "reuters.com",
+      "type": "news",
+      "quote": "Breakingviews - Truth Social data trade faces diminishing returns - reuters.com",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3JrUmdpdFVTQjJINzhrQ1NMb2ZldENlaGE2S3dpVlZGamFvbjdONmg4VDMtdGxTd3ppeUZROWprZUVvbE56XzBkc0c1aEhPeER2ZUdLazVFTGk1Q2FGdTZ5Slp2aHMtU3VhUG16WWNxMVJYXzJvS0g3cDRsYnNQM2RpNzhfdm5BUk8tbHU4eFhuTjNrTHc1ZkZWNWFoOFFQeS1oUzUxaE5wZ1diSXpr?oc=5",
+      "image": null,
+      "headline": "Breakingviews - Truth Social data trade faces diminishing returns - reuters.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
         }
       ]
     },
@@ -38975,133 +39191,6 @@
         {
           "d": "07-02",
           "c": 977.33
-        }
-      ]
-    },
-    {
-      "id": "28ca9a762ab7372e",
-      "date": "Thu, 02 Jul 2026",
-      "ts": "2026-07-02T13:40:00+00:00",
-      "date_display": "Jul 02, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "OpenAI \u2018in early talks to give 5% stake to US government\u2019 - The",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdDM0xqUWpsNGxvS0NWd2RXRE5XVXZISXE3ZXE3VGtxNFNEUmhXNXA4bGNLekhtZlYwVjlUNDY3TWVIaktpZjBuY0NLYmtnWF9CbFFLRnRtVmdDcXlzd1h0X1hHR3F6YVdxSGRaQ0dCcnR5R3N2VUk5WmMxM3RWY3BiWEpXcEpQdlk5dWQtbnE0V0dKLVE?oc=5",
-      "image": null,
-      "headline": "OpenAI \u2018in early talks to give 5% stake to US government\u2019 - The Guardian",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "a6698eb4f0a373f0",
-      "date": "Thu, 02 Jul 2026",
-      "ts": "2026-07-02T12:31:00+00:00",
-      "date_display": "Jul 02, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Micron Stock Rebounds as Chip Slump Suddenly Reverses - Barron's",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1008.33,
-      "change": -2.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
-      "image": null,
-      "headline": "Micron Stock Rebounds as Chip Slump Suddenly Reverses - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        },
-        {
-          "d": "07-02",
-          "c": 1008.33
         }
       ]
     }
