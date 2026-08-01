@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-08-01T15:34:08.012490+00:00",
+  "updated_at": "2026-08-01T16:45:27.860928+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "be466d9cd8bc5b38",
+      "date": "Sat, 01 Aug 2026",
+      "ts": "2026-08-01T16:25:30+00:00",
+      "date_display": "Aug 01, 2026",
+      "source": "Washington Times",
+      "type": "news",
+      "quote": "Trump Media launches services for faster access to Truth Social posts",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0FFcWRqVUJIZERGZy1FODZMVXhYb3o5cFBmSzBTRnU0SUdlUkdZZVJHb29IM2hCYU5xUjcyTlpoN3BoaGJ4OW5fakVLTWtKNlZMaXhuaW9tY0hPWUtPdXUzbXJkUktwMjNEVl9ka1Z1eGtGWDllSW9LQUxma2dUUjhMR2FDOXJmaC1wT1hleVpfSXoySWhwN2k5UEktal9HUFdlMjVWVmNrUTRPWmJXeQ?oc=5",
+      "image": null,
+      "headline": "Trump Media launches services for faster access to Truth Social posts - Washington Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
+    {
+      "id": "82181557bf0d3c40",
+      "date": "Sat, 01 Aug 2026",
+      "ts": "2026-08-01T16:23:00+00:00",
+      "date_display": "Aug 01, 2026",
+      "source": "The Independent",
+      "type": "news",
+      "quote": "Trump\u2019s paid early access to Truth Social posts launches and the details are murky - The Independent",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEdfbFdEWE5VRWtFNUp4SnVuREdiWWFHRTVzSUZpWGR5ZTd2U01VMGxkUEZyMHpPMHpfVTdkZ05TdWlLUm5aclJYX2VEMDdhYzdqcXlqbjZzSEtTa01GN2tFVTQ2X0FaRTNCbDVUeWt5NXhIazJEbjFtTzVvUVBxLXlpa1JYakE5LXVqU2phZjJnZmlod2pDUnk0TUtPcno5Z0pXQk0yejZrYk9rNEN2Qw?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s paid early access to Truth Social posts launches and the details are murky - The Independent",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
+    {
+      "id": "943eccb620f822b2",
+      "date": "Sat, 01 Aug 2026",
+      "ts": "2026-08-01T16:15:42+00:00",
+      "date_display": "Aug 01, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "into attorney general talks Trump asserted in a Truth Social post that he would keep acting Attorney General Todd",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-31T204944Z_959013350_RC27PMATYV9Y_RTRMADP_3_USA-TRUMP-2-1024x683.jpg",
+      "headline": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
+    {
+      "id": "5565babdc378598c",
+      "date": "Sat, 01 Aug 2026",
+      "ts": "2026-08-01T14:17:45+00:00",
+      "date_display": "Aug 01, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump Media's new paid data service goes live, giving clients faster",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUdrb05ENkFWMGRpUXJFeWxOdmp5TXhKOERjQ21QcTVxc1VLUE55eFpuY1FuV2FBcGZ4X2VXb2podUVJTW10Z3VfZVFGT0thQldaSlZfSVBDeHBYQURfMWt3Yi1uZnpkWnhzQVlnb2toM3hPN0VmTmpINGV4U3FVR01hVFd3UDlxVnFSWHJqaVJRMTRmLWlJeDdVN0k1bTVZSFZ3YdIBqgFBVV95cUxPbDRrNWRoYlI1RXJrLWJnbXVvZFlzWUl2M2ZGbzg1ZGZWTmN6WTc3TXRoSVRncGt1VUoxWW5XbEMzZC1XMkY3b1hUY0NMbkNNVjdpemJtQVloWGxUWVV6UE1BX3o3V1RjS2IwWHFFN01SZ0NQQzljS1RxNmlGY1ZRMGpoT2Zjd2U0Rzh0UWJFS21uWVBIaXhBdzMtZGN6TlVaRG0wYnJXcWVEUQ?oc=5",
+      "image": null,
+      "headline": "Trump Media's new paid data service goes live, giving clients faster access to Trump\u2019s posts - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
     {
       "id": "e2e99ce93572a840",
       "date": "Sat, 01 Aug 2026",
@@ -38985,422 +39417,6 @@
         {
           "d": "07-02",
           "c": 129.3
-        }
-      ]
-    },
-    {
-      "id": "db0234153e1c153e",
-      "date": "Sat, 04 Jul 2026",
-      "ts": "2026-07-04T02:38:12+00:00",
-      "date_display": "Jul 04, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Faces New Questions As Report Says Boeing, Lockheed, Palantir And Other Federal Contractors Support - Benzinga",
-      "company": "Lockheed",
-      "ticker": "LMT",
-      "price": 545.91,
-      "change": 4.62,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZzdrd3JwekoyVS1uMDJZaWFtZV94YV9LeTI2Ym1yVTgwdFJlU09tX1VySTZjQWpELVBlV1dKeEJUMXFzZEQ0S2RNUnRVMWlPRmZ4LXViUFJwaUhmR0VacUlSeUtraUtMY2dIS09iQ2ltdEM2dC14bTUyc3c2QmF4emZ6RzJLWXFIY2V3bkpjTE8zUFVodl9zX2U5aTQxUzZ1SVZ3WklmQ185MnVOSWIxQTQ4dWE1NS1kNlVlNHlIUmZPOEFxTmxKczFoV1BKMm1iUHJmMzMycm5HMUI3M0prUzBPYW1PSE1fUWdJYmwxWGlZR2pGU0dic1dGbjVjMGhGRjhockVLZzlLSngyU1NWcWQ2ajhxZUhPR0FpT1lmMldQM2RzRDBkM0xjRjFJRk0?oc=5",
-      "image": null,
-      "headline": "Trump Faces New Questions As Report Says Boeing, Lockheed, Palantir And Other Federal Contractors Support - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-03",
-          "c": 512.03
-        },
-        {
-          "d": "06-04",
-          "c": 519.05
-        },
-        {
-          "d": "06-05",
-          "c": 523.76
-        },
-        {
-          "d": "06-08",
-          "c": 520.07
-        },
-        {
-          "d": "06-09",
-          "c": 530.13
-        },
-        {
-          "d": "06-10",
-          "c": 525.02
-        },
-        {
-          "d": "06-11",
-          "c": 548.68
-        },
-        {
-          "d": "06-12",
-          "c": 540.33
-        },
-        {
-          "d": "06-15",
-          "c": 530.36
-        },
-        {
-          "d": "06-16",
-          "c": 535.95
-        },
-        {
-          "d": "06-17",
-          "c": 532.32
-        },
-        {
-          "d": "06-18",
-          "c": 510.95
-        },
-        {
-          "d": "06-22",
-          "c": 493.6
-        },
-        {
-          "d": "06-23",
-          "c": 503.67
-        },
-        {
-          "d": "06-24",
-          "c": 491.64
-        },
-        {
-          "d": "06-25",
-          "c": 505.02
-        },
-        {
-          "d": "06-26",
-          "c": 507.4
-        },
-        {
-          "d": "06-29",
-          "c": 502.07
-        },
-        {
-          "d": "06-30",
-          "c": 509.46
-        },
-        {
-          "d": "07-01",
-          "c": 521.82
-        },
-        {
-          "d": "07-02",
-          "c": 545.91
-        }
-      ]
-    },
-    {
-      "id": "e1ecbe03f12d235a",
-      "date": "Sat, 04 Jul 2026",
-      "ts": "2026-07-04T02:38:12+00:00",
-      "date_display": "Jul 04, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Faces New Questions As Report Says Boeing, Lockheed, Palantir And Other Federal Contractors Support",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 226.49,
-      "change": 3.62,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZzdrd3JwekoyVS1uMDJZaWFtZV94YV9LeTI2Ym1yVTgwdFJlU09tX1VySTZjQWpELVBlV1dKeEJUMXFzZEQ0S2RNUnRVMWlPRmZ4LXViUFJwaUhmR0VacUlSeUtraUtMY2dIS09iQ2ltdEM2dC14bTUyc3c2QmF4emZ6RzJLWXFIY2V3bkpjTE8zUFVodl9zX2U5aTQxUzZ1SVZ3WklmQ185MnVOSWIxQTQ4dWE1NS1kNlVlNHlIUmZPOEFxTmxKczFoV1BKMm1iUHJmMzMycm5HMUI3M0prUzBPYW1PSE1fUWdJYmwxWGlZR2pGU0dic1dGbjVjMGhGRjhockVLZzlLSngyU1NWcWQ2ajhxZUhPR0FpT1lmMldQM2RzRDBkM0xjRjFJRk0?oc=5",
-      "image": null,
-      "headline": "Trump Faces New Questions As Report Says Boeing, Lockheed, Palantir And Other Federal Contractors Support - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-03",
-          "c": 210.58
-        },
-        {
-          "d": "06-04",
-          "c": 217.42
-        },
-        {
-          "d": "06-05",
-          "c": 215.45
-        },
-        {
-          "d": "06-08",
-          "c": 215.92
-        },
-        {
-          "d": "06-09",
-          "c": 214.51
-        },
-        {
-          "d": "06-10",
-          "c": 209.0
-        },
-        {
-          "d": "06-11",
-          "c": 221.63
-        },
-        {
-          "d": "06-12",
-          "c": 219.05
-        },
-        {
-          "d": "06-15",
-          "c": 228.95
-        },
-        {
-          "d": "06-16",
-          "c": 227.49
-        },
-        {
-          "d": "06-17",
-          "c": 225.63
-        },
-        {
-          "d": "06-18",
-          "c": 222.72
-        },
-        {
-          "d": "06-22",
-          "c": 220.83
-        },
-        {
-          "d": "06-23",
-          "c": 216.71
-        },
-        {
-          "d": "06-24",
-          "c": 220.25
-        },
-        {
-          "d": "06-25",
-          "c": 218.12
-        },
-        {
-          "d": "06-26",
-          "c": 217.25
-        },
-        {
-          "d": "06-29",
-          "c": 214.69
-        },
-        {
-          "d": "06-30",
-          "c": 216.47
-        },
-        {
-          "d": "07-01",
-          "c": 218.58
-        },
-        {
-          "d": "07-02",
-          "c": 226.49
-        }
-      ]
-    },
-    {
-      "id": "6acd60bfde10ea16",
-      "date": "Fri, 03 Jul 2026",
-      "ts": "2026-07-03T17:17:34+00:00",
-      "date_display": "Jul 03, 2026",
-      "source": "IndiaWest",
-      "type": "news",
-      "quote": "Micron CEO Sanjay Mehrotra Announces $250 Million for Trump",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 975.56,
-      "change": -5.49,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN6b3BHak5pa0NXN1pudDdKMEIwWE85QlN6eXZ3NXFBLWd3YTczRkd3RWJvdGJnSm91U3dOdmNZSWM0NmwtOUltMjZKU2hSYWFyVzdpSlA5SW5tLU5Ca2RJanhJak0tNXRyMXRjSEJBQ3Q1UTg3SWFhLW10WE5BVUdrN3N0dE9HdlRnNmw5bHYyQQ?oc=5",
-      "image": null,
-      "headline": "Micron CEO Sanjay Mehrotra Announces $250 Million for Trump Accounts - IndiaWest",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        },
-        {
-          "d": "07-02",
-          "c": 975.56
-        }
-      ]
-    },
-    {
-      "id": "d0b4d9ff29e34d33",
-      "date": "Fri, 03 Jul 2026",
-      "ts": "2026-07-03T08:56:00+00:00",
-      "date_display": "Jul 03, 2026",
-      "source": "The Times of India",
-      "type": "news",
-      "quote": "Dell's $6.25 billion Trump Accounts donation, chip giant Micron gifts millions of its own; CEO Sanj - The Times of India",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 975.56,
-      "change": -5.49,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNUmk2MndCdXZVR2NaYUpERWg4QnpRd2JJd21acjM4NGpfUmRhMFNkZjVVUjgyNkxMN1FHc1JwUk41aVdObDRRbjhmNl95UDdpZ3hGSVJHanV1emZUWDNtZEZLS25MVTNuYnhsb09wajRkeHlIS1ZzdTZiQXVVVERCVzM4cEdfRnhRMDMtRUJ2ZWdzbFJPUHZabHZrV0FHWFR0R2RCVkIyalB0SHRSVGlVN1k5UFlYR1BySC02ZTZCVF9VTkpUSjZoa0dtS0JqMDI5ZEpvVGUwNHlvdHRRc2ptZHFFbFlWS0diUVRJNzVnSVVzZ0l4M1c3Zzg0dU13TlpnMjlERjZMMnRFYnkwblQ2cHFSRnpEZzVNZDM4TFkxVTN6eGtmb0d3YUlwY2c1bGtnT1dTM2lDWC0wc3pzM3E3LWRLV1RhZkNTYmxydlJuYjl2OHNJbnJSbDN30gHfAkFVX3lxTFBMaXNXQUJSNnlra0RYMG90UDZuVkFMeGg2cDN2SjlPTF9YYkhoVEFMQWloeEVTbkxoZjdVdlEwcHl2aGYwYV9BVWtRTHlPQXhibElNUnpvU1VnWURzNkJTQy03TDI0VlllQ2xMU0xlQWYyeG9UcDRXNWEwVFh1Z1ZTNnVvaEJqRFduTTZfUmVCV2lNRkxSUWo4UTZ6Q2lkbENEcVFUVmt2QXhQaVZKNUh3eFpUcWxMdW9ya0U5NzlyY3JqNGVQMUxPTTVubUZHeUF0akF5N3dXXzQ3MVJaM09ZQnlGbEhUNHl3dWx2ekZuVHlSdlBYdEM3ZGJ4eHhZYzRFZ29neHROa1hLdTE3eE9LUGVsRzQtSEwtdTJUaVhTeTVXemFoNlZuRDZ4aFU5VDBBWTZEU3hRZEJXRkg1MkEzMUxjTnhnLWtOUGhTN2RSN2VZV3gzOUV4TGRGcTRjTQ?oc=5",
-      "image": null,
-      "headline": "After Dell's $6.25 billion Trump Accounts donation, chip giant Micron gifts millions of its own; CEO Sanj - The Times of India",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        },
-        {
-          "d": "07-02",
-          "c": 975.56
         }
       ]
     }
