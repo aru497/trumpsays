@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-01T05:16:55.846172+00:00",
+  "updated_at": "2026-08-01T07:39:42.830497+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2b74cd5254140fbc",
+      "date": "Sat, 01 Aug 2026",
+      "ts": "2026-08-01T05:15:22+00:00",
+      "date_display": "Aug 01, 2026",
+      "source": "tippahnews.com",
+      "type": "news",
+      "quote": "Amazon receives $600 million in Trump tariff refunds, plans to",
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "price": 271.58,
+      "change": 15.32,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWp6ZFQ3MnNoRDIxWUkxS2l4eWY4VmcwYlhCOUJYWm9tbThiUW04NGdCRXVnbGtBQnRZNW44QWFxQklhYVByM3FWTEdpV29PNFhZTHIwU2VoOTJsRGtXSmNTS0UzM1V5WkR1WXAwTWJHWXhJZnZ0TzBFSmFJT0xsYzV5Z2RBRlRnM0ZILWdZVFBvX3B1V0ZLelBaeGNvTWFXazY4bkFZYm1IWTFVYWpYZFFmWEdwYW9KSWU3cnB3?oc=5",
+      "image": null,
+      "headline": "Amazon receives $600 million in Trump tariff refunds, plans to pass some to customers - tippahnews.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 241.7
+        },
+        {
+          "d": "07-02",
+          "c": 242.67
+        },
+        {
+          "d": "07-06",
+          "c": 244.16
+        },
+        {
+          "d": "07-07",
+          "c": 245.98
+        },
+        {
+          "d": "07-08",
+          "c": 243.62
+        },
+        {
+          "d": "07-09",
+          "c": 247.04
+        },
+        {
+          "d": "07-10",
+          "c": 245.34
+        },
+        {
+          "d": "07-13",
+          "c": 247.31
+        },
+        {
+          "d": "07-14",
+          "c": 247.49
+        },
+        {
+          "d": "07-15",
+          "c": 254.96
+        },
+        {
+          "d": "07-16",
+          "c": 249.89
+        },
+        {
+          "d": "07-17",
+          "c": 247.23
+        },
+        {
+          "d": "07-20",
+          "c": 249.99
+        },
+        {
+          "d": "07-21",
+          "c": 247.55
+        },
+        {
+          "d": "07-22",
+          "c": 244.85
+        },
+        {
+          "d": "07-23",
+          "c": 233.66
+        },
+        {
+          "d": "07-24",
+          "c": 232.11
+        },
+        {
+          "d": "07-27",
+          "c": 231.39
+        },
+        {
+          "d": "07-28",
+          "c": 230.86
+        },
+        {
+          "d": "07-29",
+          "c": 226.65
+        },
+        {
+          "d": "07-30",
+          "c": 235.5
+        },
+        {
+          "d": "07-31",
+          "c": 271.58
+        }
+      ]
+    },
     {
       "id": "3e6807621c43d652",
       "date": "Sat, 01 Aug 2026",
@@ -2699,6 +2807,114 @@
         {
           "d": "07-30",
           "c": 10.39
+        }
+      ]
+    },
+    {
+      "id": "d38428dbba95a237",
+      "date": "Thu, 30 Jul 2026",
+      "ts": "2026-07-30T15:02:43+00:00",
+      "date_display": "Jul 30, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Diamonds, Oil and Gas, Copper and Other Items - The New York Times Trump\u2019s Tariff Exemptions Include Diamonds, Oil and Gas,",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 74.89,
+      "change": -1.24,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazdNNHB3UGpJaVhJQjNyZmZwOGs1ZlVpbWVRcFQzSnZPemtOaW1OdlAzRDRKTDNYSXpZRU9WNmpjZG9aT2l0d0RBOS1HQjEwU05Vb1VvMkowNnc1bXJZMENMcWlmMWEyVE56bHdVRl9HZklMUHFfaG9pS0pvVGF4cW5JS2lvSk5y?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 71.57
+        },
+        {
+          "d": "07-02",
+          "c": 73.62
+        },
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
         }
       ]
     },
@@ -39068,222 +39284,6 @@
         {
           "d": "07-02",
           "c": 194.83
-        }
-      ]
-    },
-    {
-      "id": "3f6c3f28ae217f8f",
-      "date": "Thu, 02 Jul 2026",
-      "ts": "2026-07-02T17:21:00+00:00",
-      "date_display": "Jul 02, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling -",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 964.28,
-      "change": -6.59,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
-      "image": null,
-      "headline": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        },
-        {
-          "d": "07-02",
-          "c": 964.28
-        }
-      ]
-    },
-    {
-      "id": "cc6f9b5b7200f746",
-      "date": "Thu, 02 Jul 2026",
-      "ts": "2026-07-02T16:15:53+00:00",
-      "date_display": "Jul 02, 2026",
-      "source": "Blockonomi",
-      "type": "news",
-      "quote": "Micron (MU) Stock Falls Over 10% Despite Trump\u2019s \u2018Hottest",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 977.33,
-      "change": -5.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDdVWUpvZGxRcUhIcTVJbEZPaEFQcUt0VTZjSlZXZUNkVHFqanNKVlZIdmx4YTFYdlQwdTRtczFRR01LbDJJaFE5NEJ6aWVBSHctc29mamJhc1FQRDhkSmdFNFAtX0Vyb0lERmpMZjRNYUxJOWg0Vm9EeF8zSi0xTHdVd1laTlhQeVJvb01fSEhWa1pk?oc=5",
-      "image": null,
-      "headline": "Micron (MU) Stock Falls Over 10% Despite Trump\u2019s \u2018Hottest Company\u2019 Label - Blockonomi",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-02",
-          "c": 1064.1
-        },
-        {
-          "d": "06-03",
-          "c": 1079.57
-        },
-        {
-          "d": "06-04",
-          "c": 996.0
-        },
-        {
-          "d": "06-05",
-          "c": 864.01
-        },
-        {
-          "d": "06-08",
-          "c": 949.28
-        },
-        {
-          "d": "06-09",
-          "c": 935.89
-        },
-        {
-          "d": "06-10",
-          "c": 891.88
-        },
-        {
-          "d": "06-11",
-          "c": 995.87
-        },
-        {
-          "d": "06-12",
-          "c": 981.61
-        },
-        {
-          "d": "06-15",
-          "c": 1087.99
-        },
-        {
-          "d": "06-16",
-          "c": 1020.76
-        },
-        {
-          "d": "06-17",
-          "c": 1043.19
-        },
-        {
-          "d": "06-18",
-          "c": 1133.99
-        },
-        {
-          "d": "06-22",
-          "c": 1211.38
-        },
-        {
-          "d": "06-23",
-          "c": 1051.77
-        },
-        {
-          "d": "06-24",
-          "c": 1048.51
-        },
-        {
-          "d": "06-25",
-          "c": 1213.56
-        },
-        {
-          "d": "06-26",
-          "c": 1132.33
-        },
-        {
-          "d": "06-29",
-          "c": 1145.28
-        },
-        {
-          "d": "06-30",
-          "c": 1154.29
-        },
-        {
-          "d": "07-01",
-          "c": 1032.28
-        },
-        {
-          "d": "07-02",
-          "c": 977.33
         }
       ]
     }
