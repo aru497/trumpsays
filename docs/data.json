@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-02T13:20:07.494263+00:00",
+  "updated_at": "2026-08-02T14:45:18.816685+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1f375437da2263c4",
+      "date": "Sun, 02 Aug 2026",
+      "ts": "2026-08-02T14:05:24+00:00",
+      "date_display": "Aug 02, 2026",
+      "source": "i24news.tv",
+      "type": "news",
+      "quote": "Trump is planning next? US President launches $100,000 Truth Social feed - i24news.tv What to know what Trump is planning",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjFWemNscjZ1T0ZFMTRCQlJtS013R2JaM19jakZ3R2pNVC0tN0lFUEhHVzZ5Sll1RmYwV25kWkFtbzY0VUs3OC10R05aSUFyRDUwOHlhVEtUNk1WRjBBaVJmdDlhREdjQ3h5UWZsWTF2UUY3djhLV0NCSXdtb3ZtN2hHNE1GS0RXU1FlY3BlQW9SeFNIakMtcGwwYXVxS3J1Z1FuZWo2cXU2N1FNd0VTUXFYeFQ1RWg3eE9IOFcwY2FFYUlCcldjeFpJLVBQRmp2dTBTM0N2QW5LUElWV01IdQ?oc=5",
+      "image": null,
+      "headline": "What to know what Trump is planning next? US President launches $100,000 Truth Social feed - i24news.tv",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
     {
       "id": "30b3dc5cdeaf8eb8",
       "date": "Sun, 02 Aug 2026",
@@ -863,6 +971,114 @@
         {
           "d": "07-31",
           "c": 9.86
+        }
+      ]
+    },
+    {
+      "id": "c0ebcc7aaaf6a4e0",
+      "date": "Sun, 02 Aug 2026",
+      "ts": "2026-08-02T01:05:31+00:00",
+      "date_display": "Aug 02, 2026",
+      "source": "Seeking Alpha",
+      "type": "news",
+      "quote": "Capital One says it closed Trump Organization accounts after AML probe",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 209.01,
+      "change": -0.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUI1TmpZckxRcEoxc0w3OC1KMk1xMHdCb2dNNDhFVlRpT3JLR1V5X0lrSU9rdm45Z2NhR2hSS245Tzl6aWtVRkNqTXVyM1ZoSVZhaDhDVGpnTmZqdmlrUkRFc0xkWDlpQmRzLTF0bFVZZFJaTjd3SW9GQnRneUVLRldGM3VxZU9fYkdybDR2Zzl1cGNBN2UzNk1iWF9wYWpyaXMxbVVpSlVEVVJsX2pwcGhSOW9vdw?oc=5",
+      "image": null,
+      "headline": "Capital One says it closed Trump Organization accounts after AML probe - report (COF:NYSE) - Seeking Alpha",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 204.82
+        },
+        {
+          "d": "07-02",
+          "c": 205.12
+        },
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
         }
       ]
     },
@@ -38630,6 +38846,114 @@
       ]
     },
     {
+      "id": "8a3f4d5dd3041cc1",
+      "date": "Tue, 07 Jul 2026",
+      "ts": "2026-07-07T07:00:00+00:00",
+      "date_display": "Jul 07, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Walmart rolls back barbecue staple prices after Trump says",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 111.2,
+      "change": 0.09,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVFPbnM1STRBMzd5c09xOVpoOEpELXdqMENhNjFjVUp5eWYtdTVyQW9pcUNaSW1FSzBSZmlNSG0wOHFnTGZCWFh2NHFUNlJVeVJaTklDRHcxUTdBQVAzV3lrVmt3Q0pLbVgxZ090eE4xczBjQ3ItX3lsdnZ2VmRiSHAtcEdJbGhuc0lwUi1LbkRQZFlST0JrYmI3VQ?oc=5",
+      "image": null,
+      "headline": "Walmart rolls back barbecue staple prices after Trump says retailer acted at his request - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 108.82
+        },
+        {
+          "d": "07-02",
+          "c": 111.84
+        },
+        {
+          "d": "07-06",
+          "c": 110.65
+        },
+        {
+          "d": "07-07",
+          "c": 111.54
+        },
+        {
+          "d": "07-08",
+          "c": 113.1
+        },
+        {
+          "d": "07-09",
+          "c": 112.21
+        },
+        {
+          "d": "07-10",
+          "c": 113.9
+        },
+        {
+          "d": "07-13",
+          "c": 114.78
+        },
+        {
+          "d": "07-14",
+          "c": 113.7
+        },
+        {
+          "d": "07-15",
+          "c": 112.53
+        },
+        {
+          "d": "07-16",
+          "c": 114.95
+        },
+        {
+          "d": "07-17",
+          "c": 114.24
+        },
+        {
+          "d": "07-20",
+          "c": 112.2
+        },
+        {
+          "d": "07-21",
+          "c": 110.39
+        },
+        {
+          "d": "07-22",
+          "c": 109.33
+        },
+        {
+          "d": "07-23",
+          "c": 108.4
+        },
+        {
+          "d": "07-24",
+          "c": 109.47
+        },
+        {
+          "d": "07-27",
+          "c": 111.74
+        },
+        {
+          "d": "07-28",
+          "c": 113.1
+        },
+        {
+          "d": "07-29",
+          "c": 114.22
+        },
+        {
+          "d": "07-30",
+          "c": 111.1
+        },
+        {
+          "d": "07-31",
+          "c": 111.2
+        }
+      ]
+    },
+    {
       "id": "5f464cb03bbd4443",
       "date": "Tue, 07 Jul 2026",
       "ts": "2026-07-07T00:01:00+00:00",
@@ -39325,294 +39649,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd18tektIekhJQmlZQkItcHB4N0FrMjM3YmhuLXkwR19NX2NQdWFDRE9uTjU2UXJmek1BU3NEYTdZVVFDcXNtMEJ2NHQybEpNVnhHYWZRN3F3WjFrb3dGMGtuQldKRDdRc29oTXdsWDRxTnJlZkpQMFdzZlBCTExMbHFPQmlFV0UtcG85OGlfcTFVNE5qTkdn?oc=5",
       "image": null,
       "headline": "Trump says Walmart to cut beef prices by nearly 15% for America 250 - Washington Examiner",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 119.83
-        },
-        {
-          "d": "06-09",
-          "c": 118.88
-        },
-        {
-          "d": "06-10",
-          "c": 120.59
-        },
-        {
-          "d": "06-11",
-          "c": 120.5
-        },
-        {
-          "d": "06-12",
-          "c": 121.04
-        },
-        {
-          "d": "06-15",
-          "c": 120.82
-        },
-        {
-          "d": "06-16",
-          "c": 121.03
-        },
-        {
-          "d": "06-17",
-          "c": 118.13
-        },
-        {
-          "d": "06-18",
-          "c": 117.18
-        },
-        {
-          "d": "06-22",
-          "c": 117.18
-        },
-        {
-          "d": "06-23",
-          "c": 119.42
-        },
-        {
-          "d": "06-24",
-          "c": 119.0
-        },
-        {
-          "d": "06-25",
-          "c": 115.78
-        },
-        {
-          "d": "06-26",
-          "c": 115.69
-        },
-        {
-          "d": "06-29",
-          "c": 114.6
-        },
-        {
-          "d": "06-30",
-          "c": 113.26
-        },
-        {
-          "d": "07-01",
-          "c": 108.82
-        },
-        {
-          "d": "07-02",
-          "c": 111.84
-        },
-        {
-          "d": "07-06",
-          "c": 110.65
-        }
-      ]
-    },
-    {
-      "id": "295285b795319318",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T21:39:18+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "Business Insider",
-      "type": "news",
-      "quote": "Trump says that Walmart agreed to lower prices for America's 250th anniversary -",
-      "company": "Walmart",
-      "ticker": "WMT",
-      "price": 110.65,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkcyU3dLYS1oeVcxWmo0MzFpNWduUkFSRzVhcFJfYW1KekU4TUJaTXozWTcyQXRqVTNGTDJWWWJsQWt6SVNibnc4SGJNTXZvbC1oMm9vSnpyTDRJVC1kSHh2U2RIWU5BREw1VEtQZzBENlhId1hMQnhQN1RJcTY2NHV1bDlnWGl4NlFBS3hB?oc=5",
-      "image": null,
-      "headline": "Trump says that Walmart agreed to lower prices for America's 250th anniversary - Business Insider",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 119.83
-        },
-        {
-          "d": "06-09",
-          "c": 118.88
-        },
-        {
-          "d": "06-10",
-          "c": 120.59
-        },
-        {
-          "d": "06-11",
-          "c": 120.5
-        },
-        {
-          "d": "06-12",
-          "c": 121.04
-        },
-        {
-          "d": "06-15",
-          "c": 120.82
-        },
-        {
-          "d": "06-16",
-          "c": 121.03
-        },
-        {
-          "d": "06-17",
-          "c": 118.13
-        },
-        {
-          "d": "06-18",
-          "c": 117.18
-        },
-        {
-          "d": "06-22",
-          "c": 117.18
-        },
-        {
-          "d": "06-23",
-          "c": 119.42
-        },
-        {
-          "d": "06-24",
-          "c": 119.0
-        },
-        {
-          "d": "06-25",
-          "c": 115.78
-        },
-        {
-          "d": "06-26",
-          "c": 115.69
-        },
-        {
-          "d": "06-29",
-          "c": 114.6
-        },
-        {
-          "d": "06-30",
-          "c": 113.26
-        },
-        {
-          "d": "07-01",
-          "c": 108.82
-        },
-        {
-          "d": "07-02",
-          "c": 111.84
-        },
-        {
-          "d": "07-06",
-          "c": 110.65
-        }
-      ]
-    },
-    {
-      "id": "9297d514fa592e09",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T21:39:09+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "Business Insider Africa",
-      "type": "news",
-      "quote": "Trump says Walmart will lower prices after White House request - Business",
-      "company": "Walmart",
-      "ticker": "WMT",
-      "price": 110.65,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUh2TzQ4YjNseTMyVlZ1LVNyZEdxdm92NWNxWU5WUGZyUG9QTFl0ejhXbm9HeDVvTTFTT1BDYzBGTXZ2MDdJYUZ2VERoQlJuX0I4NmwyNVdjR2lsbDVWMXgtT19qY05UVzVKNHl2eFliZjJ2T3R5aUVCclp6TUFESk1iOTZudFFtd2EwNG1abE1wRTlIWWhqTHFzNU9iSnNGbEFEZjhIYy05LXdHNS1N?oc=5",
-      "image": null,
-      "headline": "Trump says Walmart will lower prices after White House request - Business Insider Africa",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 119.83
-        },
-        {
-          "d": "06-09",
-          "c": 118.88
-        },
-        {
-          "d": "06-10",
-          "c": 120.59
-        },
-        {
-          "d": "06-11",
-          "c": 120.5
-        },
-        {
-          "d": "06-12",
-          "c": 121.04
-        },
-        {
-          "d": "06-15",
-          "c": 120.82
-        },
-        {
-          "d": "06-16",
-          "c": 121.03
-        },
-        {
-          "d": "06-17",
-          "c": 118.13
-        },
-        {
-          "d": "06-18",
-          "c": 117.18
-        },
-        {
-          "d": "06-22",
-          "c": 117.18
-        },
-        {
-          "d": "06-23",
-          "c": 119.42
-        },
-        {
-          "d": "06-24",
-          "c": 119.0
-        },
-        {
-          "d": "06-25",
-          "c": 115.78
-        },
-        {
-          "d": "06-26",
-          "c": 115.69
-        },
-        {
-          "d": "06-29",
-          "c": 114.6
-        },
-        {
-          "d": "06-30",
-          "c": 113.26
-        },
-        {
-          "d": "07-01",
-          "c": 108.82
-        },
-        {
-          "d": "07-02",
-          "c": 111.84
-        },
-        {
-          "d": "07-06",
-          "c": 110.65
-        }
-      ]
-    },
-    {
-      "id": "ae161ab80a4e84c9",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T21:37:38+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Trump says Walmart will lower prices on ground beef, other items - Reuters",
-      "company": "Walmart",
-      "ticker": "WMT",
-      "price": 110.65,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVFPbnM1STRBMzd5c09xOVpoOEpELXdqMENhNjFjVUp5eWYtdTVyQW9pcUNaSW1FSzBSZmlNSG0wOHFnTGZCWFh2NHFUNlJVeVJaTklDRHcxUTdBQVAzV3lrVmt3Q0pLbVgxZ090eE4xczBjQ3ItX3lsdnZ2VmRiSHAtcEdJbGhuc0lwUi1LbkRQZFlST0JrYmI3VQ?oc=5",
-      "image": null,
-      "headline": "Trump says Walmart will lower prices on ground beef, other items - Reuters",
       "channel": "News",
       "series": [
         {
