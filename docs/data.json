@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-01T23:24:54.655111+00:00",
+  "updated_at": "2026-08-02T01:02:24.846714+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1857701e6b992434",
+      "date": "Sat, 01 Aug 2026",
+      "ts": "2026-08-01T23:23:32+00:00",
+      "date_display": "Aug 01, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Capital One says it closed Trump Organization's accounts after",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 209.01,
+      "change": -0.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
+      "image": null,
+      "headline": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 204.82
+        },
+        {
+          "d": "07-02",
+          "c": 205.12
+        },
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        }
+      ]
+    },
     {
       "id": "de579411ac5295ea",
       "date": "Sat, 01 Aug 2026",
@@ -39363,102 +39471,6 @@
       "headline": "President Trump says he's a 'big crypto guy,' while distancing himself from family's crypto ventures - The Block",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "845c616b94f725ee",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T15:07:18+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "eciks.org",
-      "type": "news",
-      "quote": "Dell stock surges 8% after Trump urges Americans to buy",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 411.8,
-      "change": 4.43,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94OTRBbl8zaTQtSkpGNVIxUU1CUVI5Z0JEQl9jVU5DSGhjc001Q0ZEQXk5SGFvSGIxQXh0cDlHZ0J0UHpySHliQ0JvMDNJU3FGek5QT0RmOVFPbk8tYUJOYWdURHRsSXhzeXdvTk5mTnV0Zw?oc=5",
-      "image": null,
-      "headline": "Dell stock surges 8% after Trump urges Americans to buy computers - eciks.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        },
-        {
-          "d": "06-15",
-          "c": 409.07
-        },
-        {
-          "d": "06-16",
-          "c": 404.08
-        },
-        {
-          "d": "06-17",
-          "c": 419.32
-        },
-        {
-          "d": "06-18",
-          "c": 409.5
-        },
-        {
-          "d": "06-22",
-          "c": 418.71
-        },
-        {
-          "d": "06-23",
-          "c": 427.78
-        },
-        {
-          "d": "06-24",
-          "c": 434.06
-        },
-        {
-          "d": "06-25",
-          "c": 409.45
-        },
-        {
-          "d": "06-26",
-          "c": 399.49
-        },
-        {
-          "d": "06-29",
-          "c": 414.61
-        },
-        {
-          "d": "06-30",
-          "c": 431.46
-        },
-        {
-          "d": "07-01",
-          "c": 425.25
-        },
-        {
-          "d": "07-02",
-          "c": 394.32
-        },
-        {
-          "d": "07-06",
-          "c": 411.8
-        }
-      ]
     }
   ]
 }
