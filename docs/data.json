@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-08-02T11:59:34.520358+00:00",
+  "updated_at": "2026-08-02T13:20:07.494263+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "30b3dc5cdeaf8eb8",
+      "date": "Sun, 02 Aug 2026",
+      "ts": "2026-08-02T12:13:30+00:00",
+      "date_display": "Aug 02, 2026",
+      "source": "Ynetnews",
+      "type": "news",
+      "quote": "Pay $100,000 to get Trump\u2019s war announcements first: Truth Social sparks corruption claims - Ynetnews Pay $100,000 to get",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tSGV3SnM2SjZsczgwa09pRjlVaFFEVGRELUZOS1NrTHhNTWdXN3U3M2dqRG1lTVJseERkbC1XNFhrdm8wYWxNVjV5RFNRUGdOcjJmUlFR?oc=5",
+      "image": null,
+      "headline": "Pay $100,000 to get Trump\u2019s war announcements first: Truth Social sparks corruption claims - Ynetnews",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
+    {
+      "id": "c75e0cf2d6f83d74",
+      "date": "Sun, 02 Aug 2026",
+      "ts": "2026-08-02T12:08:02+00:00",
+      "date_display": "Aug 02, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Democrats use the war and high prices for their midterm strategy? We look at how the Democratic party is approaching the",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 93.28,
+      "change": -4.56,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy",
+      "image": null,
+      "headline": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 93.39
+        },
+        {
+          "d": "07-02",
+          "c": 100.77
+        },
+        {
+          "d": "07-06",
+          "c": 100.77
+        },
+        {
+          "d": "07-07",
+          "c": 97.36
+        },
+        {
+          "d": "07-08",
+          "c": 93.87
+        },
+        {
+          "d": "07-09",
+          "c": 93.89
+        },
+        {
+          "d": "07-10",
+          "c": 94.64
+        },
+        {
+          "d": "07-13",
+          "c": 92.1
+        },
+        {
+          "d": "07-14",
+          "c": 97.58
+        },
+        {
+          "d": "07-15",
+          "c": 97.47
+        },
+        {
+          "d": "07-16",
+          "c": 94.03
+        },
+        {
+          "d": "07-17",
+          "c": 94.85
+        },
+        {
+          "d": "07-20",
+          "c": 97.82
+        },
+        {
+          "d": "07-21",
+          "c": 101.95
+        },
+        {
+          "d": "07-22",
+          "c": 100.01
+        },
+        {
+          "d": "07-23",
+          "c": 93.63
+        },
+        {
+          "d": "07-24",
+          "c": 91.67
+        },
+        {
+          "d": "07-27",
+          "c": 98.65
+        },
+        {
+          "d": "07-28",
+          "c": 96.16
+        },
+        {
+          "d": "07-29",
+          "c": 93.33
+        },
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        }
+      ]
+    },
+    {
+      "id": "ec0f202fa839066d",
+      "date": "Sun, 02 Aug 2026",
+      "ts": "2026-08-02T12:00:48+00:00",
+      "date_display": "Aug 02, 2026",
+      "source": "AMBCrypto",
+      "type": "news",
+      "quote": "Trump Media sells BTC at $145M loss \u2013 Bitcoin treasuries bleed $49B",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.86,
+      "change": -5.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenBlUGt6RU5GaVloUUNXOVhwbmZEeE9yekc3N1lEc2VBN2ZmNE9qVGx5WklDdG5vVHRwMzVEWWx5NVJKa3k1UzlQNTlBTnU4M2JkeGtLUEtfV25OZDJlTUdKOTIyQUhwd3VJRW90MEhJaXR1ZEFfbFo1aFNIejRXR2o4eFN2alhvX1V5SHdvRE9Pb2hhV3VzcUM1Ty1YVTJCaUduVC1R?oc=5",
+      "image": null,
+      "headline": "Trump Media sells BTC at $145M loss \u2013 Bitcoin treasuries bleed $49B since 2025 highs - AMBCrypto",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 8.02
+        },
+        {
+          "d": "07-02",
+          "c": 8.54
+        },
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        }
+      ]
+    },
     {
       "id": "8dc5a3a355e19d0c",
       "date": "Sun, 02 Aug 2026",
@@ -39366,294 +39690,6 @@
         {
           "d": "07-06",
           "c": 110.65
-        }
-      ]
-    },
-    {
-      "id": "2c9ece26957f3f29",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T21:11:15+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "Investing.com",
-      "type": "news",
-      "quote": "Trump says Walmart to cut prices at administration\u2019s request - Investing.com",
-      "company": "Walmart",
-      "ticker": "WMT",
-      "price": 110.65,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5vSE1UT2N5aWZlRVNLVkNabm91cXFycFdjcFRiY3ZjRG1NZ09kWlRoNDlfOHFWa1hYTWdmWjBLUllPekp4dUpzbFBfNEVRVGJXaEpLbW85UndQOV9fbFhJWHdBdVFnNVEzaHhQOUpDN2lMYWpxTWkyeEFITTRobDFJUlJPR1Qzd3JESDc2OUxrSFZiX1VOZW1fdE9VaDJTWmhSU1dfYlB4Q1o1OVp2SQ?oc=5",
-      "image": null,
-      "headline": "Trump says Walmart to cut prices at administration\u2019s request - Investing.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 119.83
-        },
-        {
-          "d": "06-09",
-          "c": 118.88
-        },
-        {
-          "d": "06-10",
-          "c": 120.59
-        },
-        {
-          "d": "06-11",
-          "c": 120.5
-        },
-        {
-          "d": "06-12",
-          "c": 121.04
-        },
-        {
-          "d": "06-15",
-          "c": 120.82
-        },
-        {
-          "d": "06-16",
-          "c": 121.03
-        },
-        {
-          "d": "06-17",
-          "c": 118.13
-        },
-        {
-          "d": "06-18",
-          "c": 117.18
-        },
-        {
-          "d": "06-22",
-          "c": 117.18
-        },
-        {
-          "d": "06-23",
-          "c": 119.42
-        },
-        {
-          "d": "06-24",
-          "c": 119.0
-        },
-        {
-          "d": "06-25",
-          "c": 115.78
-        },
-        {
-          "d": "06-26",
-          "c": 115.69
-        },
-        {
-          "d": "06-29",
-          "c": 114.6
-        },
-        {
-          "d": "06-30",
-          "c": 113.26
-        },
-        {
-          "d": "07-01",
-          "c": 108.82
-        },
-        {
-          "d": "07-02",
-          "c": 111.84
-        },
-        {
-          "d": "07-06",
-          "c": 110.65
-        }
-      ]
-    },
-    {
-      "id": "8a3f4d5dd3041cc1",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T20:53:00+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Walmart rolls back barbecue staple prices after Trump says",
-      "company": "Walmart",
-      "ticker": "WMT",
-      "price": 110.65,
-      "change": -1.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVFPbnM1STRBMzd5c09xOVpoOEpELXdqMENhNjFjVUp5eWYtdTVyQW9pcUNaSW1FSzBSZmlNSG0wOHFnTGZCWFh2NHFUNlJVeVJaTklDRHcxUTdBQVAzV3lrVmt3Q0pLbVgxZ090eE4xczBjQ3ItX3lsdnZ2VmRiSHAtcEdJbGhuc0lwUi1LbkRQZFlST0JrYmI3VQ?oc=5",
-      "image": null,
-      "headline": "Walmart rolls back barbecue staple prices after Trump says retailer acted at his request - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 119.83
-        },
-        {
-          "d": "06-09",
-          "c": 118.88
-        },
-        {
-          "d": "06-10",
-          "c": 120.59
-        },
-        {
-          "d": "06-11",
-          "c": 120.5
-        },
-        {
-          "d": "06-12",
-          "c": 121.04
-        },
-        {
-          "d": "06-15",
-          "c": 120.82
-        },
-        {
-          "d": "06-16",
-          "c": 121.03
-        },
-        {
-          "d": "06-17",
-          "c": 118.13
-        },
-        {
-          "d": "06-18",
-          "c": 117.18
-        },
-        {
-          "d": "06-22",
-          "c": 117.18
-        },
-        {
-          "d": "06-23",
-          "c": 119.42
-        },
-        {
-          "d": "06-24",
-          "c": 119.0
-        },
-        {
-          "d": "06-25",
-          "c": 115.78
-        },
-        {
-          "d": "06-26",
-          "c": 115.69
-        },
-        {
-          "d": "06-29",
-          "c": 114.6
-        },
-        {
-          "d": "06-30",
-          "c": 113.26
-        },
-        {
-          "d": "07-01",
-          "c": 108.82
-        },
-        {
-          "d": "07-02",
-          "c": 111.84
-        },
-        {
-          "d": "07-06",
-          "c": 110.65
-        }
-      ]
-    },
-    {
-      "id": "46762c87cfe40a20",
-      "date": "Mon, 06 Jul 2026",
-      "ts": "2026-07-06T20:14:00+00:00",
-      "date_display": "Jul 06, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 411.8,
-      "change": 4.43,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjlnNE9tbld5RkNRbnVPU1dJbGZZQm1OcC0yMVhQZlhTSEEzSjAzQXVhMzZmLXM5em40bllNeVZQNm53R1A1QXdNWG5jV1NfZ3RDSTIxN2liY19oc2h3LVBmV3lNNDBsejNnZ3ZZMEZoWDh2LWxsUHpKeGJTNzFsMGxqMmVjODR6S0poUEhoU3dZMnNTR2xQQ2QwVTJZUUJEVWFWbEln?oc=5",
-      "image": null,
-      "headline": "Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading - MarketWatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        },
-        {
-          "d": "06-15",
-          "c": 409.07
-        },
-        {
-          "d": "06-16",
-          "c": 404.08
-        },
-        {
-          "d": "06-17",
-          "c": 419.32
-        },
-        {
-          "d": "06-18",
-          "c": 409.5
-        },
-        {
-          "d": "06-22",
-          "c": 418.71
-        },
-        {
-          "d": "06-23",
-          "c": 427.78
-        },
-        {
-          "d": "06-24",
-          "c": 434.06
-        },
-        {
-          "d": "06-25",
-          "c": 409.45
-        },
-        {
-          "d": "06-26",
-          "c": 399.49
-        },
-        {
-          "d": "06-29",
-          "c": 414.61
-        },
-        {
-          "d": "06-30",
-          "c": 431.46
-        },
-        {
-          "d": "07-01",
-          "c": 425.25
-        },
-        {
-          "d": "07-02",
-          "c": 394.32
-        },
-        {
-          "d": "07-06",
-          "c": 411.8
         }
       ]
     }
