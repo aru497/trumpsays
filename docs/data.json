@@ -1,7 +1,338 @@
 {
-  "updated_at": "2026-08-03T11:52:13.848082+00:00",
+  "updated_at": "2026-08-03T14:12:02.840776+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2f030675f7ba2eaa",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T13:42:30+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "fund' for Trump allies after GOP senators threaten to block his AG bid Acting Attorney General Todd Blanche has issued",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-02T214058Z_536394695_RC2XLLAI4QCF_RTRMADP_3_USA-JUSTICE-BLANCHE-1024x683.jpg",
+      "headline": "Blanche rescinds 'anti-weaponization fund' for Trump allies after GOP senators threaten to block his AG bid",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "4fbe15af4901d3b0",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T13:37:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Paid Access to Truth Social Is Here\u2014Who Runs the Most Influential Accounts? - Newsweek",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 10.2,
+      "change": 3.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkhFMG0xeHpTdG52VjVta1RLVFNuMm5hSDNVb1AwRnY3TmZ2OUJnTUR0Q1BXSTFablotNTNMTjJsMVdWVS1CUV9SNVZ4bGtVNW9qd0RQRVJJRlM4ckRUVWZHNFpmQ2RyaGhpb0RvTjNFcmFKNzlBNDFGNTd5QWMxR0xrdEtUZ2EyUzJDNWJ6cGUwczBYbGcza3FWaklrRGFPQW5UTTJNOEdpZ1hJ?oc=5",
+      "image": null,
+      "headline": "Paid Access to Truth Social Is Here\u2014Who Runs the Most Influential Accounts? - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.2
+        }
+      ]
+    },
+    {
+      "id": "d17b56e53fb17968",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T12:32:41+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "qz.com",
+      "type": "news",
+      "quote": "Trump Media Truth API data feed launches amid SEC scrutiny - qz.com",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.2,
+      "change": 3.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lQnkyYTl1NXFGRk0zb2FmLTJXLUZlc3QzbVplTm5Dc0pPd2tVMmNUdS0zWWhmWElGTHhyV2Z2SHdZdWpuT1YxOEN3WFY5WXlOS0hnTlVvRTlOeDJTcUZhNl9OYkZxbWhpc2c2VjRlLVduVWRQT0VsZjA2cHVLdw?oc=5",
+      "image": null,
+      "headline": "Trump Media Truth API data feed launches amid SEC scrutiny - qz.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.2
+        }
+      ]
+    },
+    {
+      "id": "ee147fd93a021d43",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T12:02:05+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Sierra Sun Times",
+      "type": "news",
+      "quote": "U.S. Senator Adam Schiff Calls on SEC to Investigate Trump Media\u2019s Plan to Give Wall Street Firms Faster Access to Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.2,
+      "change": 3.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQMkdPQUp3VXlncTI2Y0VZVDMzb20waUVORDhzQnozcGplejh2MXJyTUlXcjRGLTlueFFlX2xjWFVlMVZkZWt2SExHemFHZ00wUnJydjVQLTFlZ2lTbUpVdWJ5REJPbmcxbTFUTkhvb01DYXZscU9TaEUwNXZRRE5QNmpvTXNaX0RUbkNGTU5iZUN3Z0xldnE3UDZYaGdFZGgtMkc4SndocV9VMi1raXFjQ25pVnZNUVZTT0x6SHVFamxXWjRNR3NqRDh1aE1TZkN2d0J5UWoxek5yNVFacFVEVWNqbkpaaExRZ0xheTZQMGJuVTRzVkVCZ1NlSTlDcjZ4TU9sdklaanhXd05wUllKajZuZ1c0NU1PaHlpQW9HaXBWR3p2MkRSYkpHTTgzTlUwOUZQcnl1a3k3azRQbDcyem1XeTdCaVpRbFZYWGkxREEzekNrMGN6TmgyS2xKYXpaQTlHWkZlQUVuOG83c1FReU1IOXdTR090MXBUUThHN3BBYVlzX3hpSDRHSUoxRGlDRTE0RzRWTzQ1Vmw4SktBc3kzMTJ0eFph?oc=5",
+      "image": null,
+      "headline": "California U.S. Senator Adam Schiff Calls on SEC to Investigate Trump Media\u2019s Plan to Give Wall Street Firms Faster Access to Truth Social Posts, Say, Posts Will Be Offered for Between $60,000 and $100,000 for a Monthly Subscription - Sierra Sun Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.2
+        }
+      ]
+    },
     {
       "id": "0a1609ea657a244f",
       "date": "Mon, 03 Aug 2026",
@@ -39421,410 +39752,6 @@
         {
           "d": "07-08",
           "c": 47.95
-        }
-      ]
-    },
-    {
-      "id": "954c2bf7cd82383d",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T07:00:00+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Make Patriot Missiles, but It Could Take Years - The New York Times Trump Says He\u2019ll Let Ukraine Make Patriot Missiles, but It",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 75.18,
-      "change": 3.88,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWW1vTTVPQTIzUk5BUE1rUENMR2RuYnJtSHkycXRVcno2N2RMSmR5eFh6b3JTUkdvUDVETV9rRGVRVjBQNFVLQTRMaHc3NlBvZldqX1Y5azhua3JldGg0clk2N3ZyMzBPUTdmQm1GTDZ4Y2Y0X1ROQVZvWW16TWpOUklPNkJHcnhHV0JJR3I3R1lVekFDZkhpVzV4WS1nZWM4dnI2Q0QyMVZ3bHNIN1UteFpwVHN2NThISjZ2dEtydEx6cTg?oc=5",
-      "image": null,
-      "headline": "Trump Says He\u2019ll Let Ukraine Make Patriot Missiles, but It Could Take Years - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        }
-      ]
-    },
-    {
-      "id": "1a594091ddd65f3e",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T06:14:28+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Stocktwits",
-      "type": "news",
-      "quote": "DJT Stock In Focus: Federal Judge Throws Out Trump Media Defamation Lawsuit Against The Washington Post -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.13,
-      "change": -6.12,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYl9lWGpiQ0VPVmQtUjZwQ3NCQ084S05PSzNmRmJlZWZXdmwwaVV4Y1dGc3JjM09JSE5hRUo2amRvRlk5ODNkcVptTmpwSGtSZ3NBazA5dWZveWlfMUVua3c5M29oci1pWGR6QmVWNEJ6VUlieVljSzRHNWxhd0FVMTkyc29aZVE3VVhtaE11TXl5Q2VaaklhbDE2a1o3RF9UNmNrdm5fRDlPblZjcG4yUEJyd2l0NTE1ZVRLekl3UnM2SzhBUk1IVUpOZFR3TllwdFNERFpCWjVrNVctOFZCVXl4Q1ZOUzBacTlCWmpPS19faFJuSmZIbXV3?oc=5",
-      "image": null,
-      "headline": "DJT Stock In Focus: Federal Judge Throws Out Trump Media Defamation Lawsuit Against The Washington Post - Stocktwits",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        }
-      ]
-    },
-    {
-      "id": "dd156b9e96ef4d62",
-      "date": "Tue, 07 Jul 2026",
-      "ts": "2026-07-07T22:46:00+00:00",
-      "date_display": "Jul 07, 2026",
-      "source": "The Arkansas Democrat-Gazette",
-      "type": "news",
-      "quote": "Walmart announces price cuts; Trump claims White House influence -",
-      "company": "Walmart",
-      "ticker": "WMT",
-      "price": 111.54,
-      "change": 0.8,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVlTMWJZWE5xWFRXUTZTUFZtSEZiVmlfOTFHQ0tJM3dXQ184Zzh5b0Z6UW1VOG1VeUc1TlZzQjhPWXlGZE5IZUpPeUJHbnRpeUM0RUZtYjhFU2pDZ05XR0tWTU4zRDF3S0JWSWVRS2NrOGF6ZUNnYzZTWnlLam9yUW1xVlhRMlJtZVV2ZHIxRGw0c2FaZVFhdzgxQjI?oc=5",
-      "image": null,
-      "headline": "Walmart announces price cuts; Trump claims White House influence - The Arkansas Democrat-Gazette",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 119.83
-        },
-        {
-          "d": "06-09",
-          "c": 118.88
-        },
-        {
-          "d": "06-10",
-          "c": 120.59
-        },
-        {
-          "d": "06-11",
-          "c": 120.5
-        },
-        {
-          "d": "06-12",
-          "c": 121.04
-        },
-        {
-          "d": "06-15",
-          "c": 120.82
-        },
-        {
-          "d": "06-16",
-          "c": 121.03
-        },
-        {
-          "d": "06-17",
-          "c": 118.13
-        },
-        {
-          "d": "06-18",
-          "c": 117.18
-        },
-        {
-          "d": "06-22",
-          "c": 117.18
-        },
-        {
-          "d": "06-23",
-          "c": 119.42
-        },
-        {
-          "d": "06-24",
-          "c": 119.0
-        },
-        {
-          "d": "06-25",
-          "c": 115.78
-        },
-        {
-          "d": "06-26",
-          "c": 115.69
-        },
-        {
-          "d": "06-29",
-          "c": 114.6
-        },
-        {
-          "d": "06-30",
-          "c": 113.26
-        },
-        {
-          "d": "07-01",
-          "c": 108.82
-        },
-        {
-          "d": "07-02",
-          "c": 111.84
-        },
-        {
-          "d": "07-06",
-          "c": 110.65
-        },
-        {
-          "d": "07-07",
-          "c": 111.54
-        }
-      ]
-    },
-    {
-      "id": "58baaf5e4eb01d24",
-      "date": "Tue, 07 Jul 2026",
-      "ts": "2026-07-07T22:25:39+00:00",
-      "date_display": "Jul 07, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "a judge to quash the subpoena, arguing it was meant to \"target, harass and punish the President's perceived political",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 127.55,
-      "change": 1.15,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/judge-rejects-justice-departments-unreasonable-attempt-to-get-names-of-2020-election-workers-in-fulton-county",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2024/09/votetape-1024x683.jpg",
-      "headline": "Judge rejects Justice Department's 'unreasonable' attempt to get names of 2020 election workers in Fulton County",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 123.97
-        },
-        {
-          "d": "06-09",
-          "c": 126.61
-        },
-        {
-          "d": "06-10",
-          "c": 127.98
-        },
-        {
-          "d": "06-11",
-          "c": 132.64
-        },
-        {
-          "d": "06-12",
-          "c": 135.23
-        },
-        {
-          "d": "06-15",
-          "c": 133.17
-        },
-        {
-          "d": "06-16",
-          "c": 133.4
-        },
-        {
-          "d": "06-17",
-          "c": 127.81
-        },
-        {
-          "d": "06-18",
-          "c": 130.74
-        },
-        {
-          "d": "06-22",
-          "c": 129.73
-        },
-        {
-          "d": "06-23",
-          "c": 134.11
-        },
-        {
-          "d": "06-24",
-          "c": 141.2
-        },
-        {
-          "d": "06-25",
-          "c": 139.57
-        },
-        {
-          "d": "06-26",
-          "c": 140.39
-        },
-        {
-          "d": "06-29",
-          "c": 133.92
-        },
-        {
-          "d": "06-30",
-          "c": 130.61
-        },
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
         }
       ]
     }
