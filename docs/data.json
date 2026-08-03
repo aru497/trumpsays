@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-03T08:20:11.927397+00:00",
+  "updated_at": "2026-08-03T11:52:13.848082+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0a1609ea657a244f",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T10:19:12+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "in Congress says renewable energy companies have put a target on his back - Fox News Key Trump ally in Congress says",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 144.49,
+      "change": -0.01,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlOUdLRlV1dXltQUJULWRBSERUY3JVMmFEREtjLTNnZlNSX0o0YUtrVVNNQzl0ZmdDa3RpR2NPRW5oa29ublJWZmlZR1FSbFRSRjB6UlZR?oc=5",
+      "image": null,
+      "headline": "Key Trump ally in Congress says renewable energy companies have put a target on his back - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 130.29
+        },
+        {
+          "d": "07-02",
+          "c": 130.21
+        },
+        {
+          "d": "07-06",
+          "c": 126.1
+        },
+        {
+          "d": "07-07",
+          "c": 127.55
+        },
+        {
+          "d": "07-08",
+          "c": 132.42
+        },
+        {
+          "d": "07-09",
+          "c": 132.27
+        },
+        {
+          "d": "07-10",
+          "c": 135.14
+        },
+        {
+          "d": "07-13",
+          "c": 134.77
+        },
+        {
+          "d": "07-14",
+          "c": 134.0
+        },
+        {
+          "d": "07-15",
+          "c": 138.29
+        },
+        {
+          "d": "07-16",
+          "c": 140.21
+        },
+        {
+          "d": "07-17",
+          "c": 139.6
+        },
+        {
+          "d": "07-20",
+          "c": 139.59
+        },
+        {
+          "d": "07-21",
+          "c": 138.48
+        },
+        {
+          "d": "07-22",
+          "c": 137.92
+        },
+        {
+          "d": "07-23",
+          "c": 134.48
+        },
+        {
+          "d": "07-24",
+          "c": 136.78
+        },
+        {
+          "d": "07-27",
+          "c": 140.34
+        },
+        {
+          "d": "07-28",
+          "c": 144.2
+        },
+        {
+          "d": "07-29",
+          "c": 145.9
+        },
+        {
+          "d": "07-30",
+          "c": 144.51
+        },
+        {
+          "d": "07-31",
+          "c": 144.49
+        }
+      ]
+    },
+    {
+      "id": "fb4ba0a52ae16eeb",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T10:19:12+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "renewable energy companies have put a target on his back - Fox News Key Trump ally in Congress says renewable energy",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 51.94,
+      "change": -0.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlOUdLRlV1dXltQUJULWRBSERUY3JVMmFEREtjLTNnZlNSX0o0YUtrVVNNQzl0ZmdDa3RpR2NPRW5oa29ublJWZmlZR1FSbFRSRjB6UlZR?oc=5",
+      "image": null,
+      "headline": "Key Trump ally in Congress says renewable energy companies have put a target on his back - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-01",
+          "c": 48.42
+        },
+        {
+          "d": "07-02",
+          "c": 50.56
+        },
+        {
+          "d": "07-06",
+          "c": 49.9
+        },
+        {
+          "d": "07-07",
+          "c": 49.2
+        },
+        {
+          "d": "07-08",
+          "c": 47.95
+        },
+        {
+          "d": "07-09",
+          "c": 48.44
+        },
+        {
+          "d": "07-10",
+          "c": 48.75
+        },
+        {
+          "d": "07-13",
+          "c": 50.22
+        },
+        {
+          "d": "07-14",
+          "c": 49.5
+        },
+        {
+          "d": "07-15",
+          "c": 50.39
+        },
+        {
+          "d": "07-16",
+          "c": 51.08
+        },
+        {
+          "d": "07-17",
+          "c": 51.63
+        },
+        {
+          "d": "07-20",
+          "c": 51.55
+        },
+        {
+          "d": "07-21",
+          "c": 51.47
+        },
+        {
+          "d": "07-22",
+          "c": 50.63
+        },
+        {
+          "d": "07-23",
+          "c": 49.18
+        },
+        {
+          "d": "07-24",
+          "c": 49.41
+        },
+        {
+          "d": "07-27",
+          "c": 50.81
+        },
+        {
+          "d": "07-28",
+          "c": 51.63
+        },
+        {
+          "d": "07-29",
+          "c": 52.73
+        },
+        {
+          "d": "07-30",
+          "c": 52.34
+        },
+        {
+          "d": "07-31",
+          "c": 51.94
+        }
+      ]
+    },
     {
       "id": "13e81055404f8ab5",
       "date": "Mon, 03 Aug 2026",
@@ -39609,206 +39825,6 @@
         {
           "d": "07-07",
           "c": 127.55
-        }
-      ]
-    },
-    {
-      "id": "994a040669f440ce",
-      "date": "Tue, 07 Jul 2026",
-      "ts": "2026-07-07T20:18:59+00:00",
-      "date_display": "Jul 07, 2026",
-      "source": "The Washington Post",
-      "type": "news",
-      "quote": "The Washington Post in $3.8B defamation suit brought by Trump Media - The Washington Post Judge rules for The Washington Post",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.13,
-      "change": -6.12,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjRkM3Z4Y2FrcThIVk5TaDhka2JRVDg0dE9hN29WYTl2eVJGWTQtT3Q1LVdDS3ExUkw3MnBEMVJVaU1XWWRNNGZyaUxSclpVZUhIeDJQQXhvUThaMHVscEJFa0ZpbkVqM0lJeUpjaGtiSXR0eHJDV09Gekl4WjVCYlAyQlRKdURKY054ZWtSbWNpSnJPMTVaYjhYNVU2UzY4VTlIUWtlSGhHNjI4ZERKc0ZMNEF6d09mRmlpTWRDMA?oc=5",
-      "image": null,
-      "headline": "Judge rules for The Washington Post in $3.8B defamation suit brought by Trump Media - The Washington Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        }
-      ]
-    },
-    {
-      "id": "b9fbeb10d6159457",
-      "date": "Tue, 07 Jul 2026",
-      "ts": "2026-07-07T19:29:00+00:00",
-      "date_display": "Jul 07, 2026",
-      "source": "Fortune",
-      "type": "news",
-      "quote": "White House ethics lawyer says. Trump keeps choosing Dell - Fortune Presidents aren't supposed to pick winners,",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 417.28,
-      "change": 1.33,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEVxajBtdm5abmpWdXhGdzQzUG5mSDkwdUkxQTVsZndER3dHOGprYkRncGNGV0lxTmxYZ09VeEExOHM2aFJEQTVLbTNGeG8wS0tGeFR4a29XWEdxRll6TkFNd1g2VHR4NTR4UDA0RjNYNzJCV2xIWjBNNWd4Y1lBZ3ZIc3k1dGxIY2hYNG9lSGtoRmpvNGRiVkREaGZYdzVf?oc=5",
-      "image": null,
-      "headline": "Presidents aren't supposed to pick winners, former White House ethics lawyer says. Trump keeps choosing Dell - Fortune",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 400.77
-        },
-        {
-          "d": "06-09",
-          "c": 381.78
-        },
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        },
-        {
-          "d": "06-15",
-          "c": 409.07
-        },
-        {
-          "d": "06-16",
-          "c": 404.08
-        },
-        {
-          "d": "06-17",
-          "c": 419.32
-        },
-        {
-          "d": "06-18",
-          "c": 409.5
-        },
-        {
-          "d": "06-22",
-          "c": 418.71
-        },
-        {
-          "d": "06-23",
-          "c": 427.78
-        },
-        {
-          "d": "06-24",
-          "c": 434.06
-        },
-        {
-          "d": "06-25",
-          "c": 409.45
-        },
-        {
-          "d": "06-26",
-          "c": 399.49
-        },
-        {
-          "d": "06-29",
-          "c": 414.61
-        },
-        {
-          "d": "06-30",
-          "c": 431.46
-        },
-        {
-          "d": "07-01",
-          "c": 425.25
-        },
-        {
-          "d": "07-02",
-          "c": 394.32
-        },
-        {
-          "d": "07-06",
-          "c": 411.8
-        },
-        {
-          "d": "07-07",
-          "c": 417.28
         }
       ]
     }
