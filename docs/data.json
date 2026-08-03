@@ -1,7 +1,754 @@
 {
-  "updated_at": "2026-08-03T20:19:31.972426+00:00",
+  "updated_at": "2026-08-03T21:35:57.337699+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1643d062021dc623",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T21:23:20+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing -",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 373.51,
+      "change": 4.88,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+      "image": null,
+      "headline": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 366.46
+        },
+        {
+          "d": "07-07",
+          "c": 367.03
+        },
+        {
+          "d": "07-08",
+          "c": 361.92
+        },
+        {
+          "d": "07-09",
+          "c": 358.89
+        },
+        {
+          "d": "07-10",
+          "c": 357.18
+        },
+        {
+          "d": "07-13",
+          "c": 352.51
+        },
+        {
+          "d": "07-14",
+          "c": 359.51
+        },
+        {
+          "d": "07-15",
+          "c": 370.92
+        },
+        {
+          "d": "07-16",
+          "c": 354.46
+        },
+        {
+          "d": "07-17",
+          "c": 346.77
+        },
+        {
+          "d": "07-20",
+          "c": 351.99
+        },
+        {
+          "d": "07-21",
+          "c": 347.15
+        },
+        {
+          "d": "07-22",
+          "c": 342.09
+        },
+        {
+          "d": "07-23",
+          "c": 317.69
+        },
+        {
+          "d": "07-24",
+          "c": 319.74
+        },
+        {
+          "d": "07-27",
+          "c": 326.56
+        },
+        {
+          "d": "07-28",
+          "c": 333.71
+        },
+        {
+          "d": "07-29",
+          "c": 336.71
+        },
+        {
+          "d": "07-30",
+          "c": 333.66
+        },
+        {
+          "d": "07-31",
+          "c": 356.13
+        },
+        {
+          "d": "08-03",
+          "c": 373.51
+        }
+      ]
+    },
+    {
+      "id": "cac0970fef56dbab",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T21:23:20+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Meta, Anthropic, Google, OpenAI to meet Trump officials about",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 590.24,
+      "change": 6.02,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+      "image": null,
+      "headline": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 600.29
+        },
+        {
+          "d": "07-07",
+          "c": 615.58
+        },
+        {
+          "d": "07-08",
+          "c": 603.12
+        },
+        {
+          "d": "07-09",
+          "c": 631.48
+        },
+        {
+          "d": "07-10",
+          "c": 669.21
+        },
+        {
+          "d": "07-13",
+          "c": 656.73
+        },
+        {
+          "d": "07-14",
+          "c": 661.04
+        },
+        {
+          "d": "07-15",
+          "c": 681.31
+        },
+        {
+          "d": "07-16",
+          "c": 664.54
+        },
+        {
+          "d": "07-17",
+          "c": 646.01
+        },
+        {
+          "d": "07-20",
+          "c": 645.85
+        },
+        {
+          "d": "07-21",
+          "c": 643.81
+        },
+        {
+          "d": "07-22",
+          "c": 627.17
+        },
+        {
+          "d": "07-23",
+          "c": 606.1
+        },
+        {
+          "d": "07-24",
+          "c": 595.19
+        },
+        {
+          "d": "07-27",
+          "c": 593.87
+        },
+        {
+          "d": "07-28",
+          "c": 593.41
+        },
+        {
+          "d": "07-29",
+          "c": 585.61
+        },
+        {
+          "d": "07-30",
+          "c": 539.03
+        },
+        {
+          "d": "07-31",
+          "c": 556.71
+        },
+        {
+          "d": "08-03",
+          "c": 590.24
+        }
+      ]
+    },
+    {
+      "id": "2b7cbccbf3413378",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T21:23:20+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+      "image": null,
+      "headline": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "722e61046b20d117",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T20:51:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "Capital One says it terminated Trump account over money laundering",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 217.68,
+      "change": 4.15,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS091VjVNUjk2WFlQZTRyTVJKY2k0R3E4R0VsbnB6Q2taTXZsNjlLYU1DNmlEcmNpM3FtYnlLZUFkSC1la3JxbkVNOU9mbFVWY3ZicF9iU1lrM01pSmFhZHB4TmJkTTdhWDRxVks0clZpQW94a1pWeEFIajE3THgtU0ZKWDhXQTdPTUhOLUhwaTB0M1FnUHpabXJOeE1LMGxqNGxpSy1naXE3TmpJRnc?oc=5",
+      "image": null,
+      "headline": "Capital One says it terminated Trump account over money laundering concerns - Washington Examiner",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 217.68
+        }
+      ]
+    },
+    {
+      "id": "030cfdebc034c862",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T20:44:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Trump says Exxon, Chevron are 'making too much money' amid Iran war - USA",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 155.06,
+      "change": -0.24,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdyM3AwNTVFeDR4REtkRTJoZzFyVUJOOFVwa1VKSHZJeFM3Zmd0Vi1JZlZZa0gzSE4wLTVoajdkdjJZNTIxWlJUQl9VdG1tZjBsZGtjVm8xM2tlMzN6Z1Yzc0tHT243cjdZOWxIVXZyRTJFMFlNbjNCdV9BUXdqUWVVX2p6SUhobWJHbXU1d1E3NjBjTUFtWXkxT1NjTVYwcnNsNkpnZTlBcHA2LS1FdzBhX194eTRDNlJz?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon, Chevron are 'making too much money' amid Iran war - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        }
+      ]
+    },
+    {
+      "id": "55719bba1d29549e",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T20:44:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Trump says Exxon, Chevron are 'making too much money' amid Iran war - USA Today",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 193.18,
+      "change": -1.85,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdyM3AwNTVFeDR4REtkRTJoZzFyVUJOOFVwa1VKSHZJeFM3Zmd0Vi1JZlZZa0gzSE4wLTVoajdkdjJZNTIxWlJUQl9VdG1tZjBsZGtjVm8xM2tlMzN6Z1Yzc0tHT243cjdZOWxIVXZyRTJFMFlNbjNCdV9BUXdqUWVVX2p6SUhobWJHbXU1d1E3NjBjTUFtWXkxT1NjTVYwcnNsNkpnZTlBcHA2LS1FdzBhX194eTRDNlJz?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon, Chevron are 'making too much money' amid Iran war - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        }
+      ]
+    },
+    {
+      "id": "85991115f8149fa1",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T20:40:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Slate",
+      "type": "news",
+      "quote": "Trump\u2019s Team Is Selling Early Access to His Truth Social Posts. It\u2019s Every Bit as Corrupt as It Sounds. - Slate",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 10.01,
+      "change": 1.52,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnNyVVB1YkdtMlgyNUZ5S2NJMXpmbXdzdDczdnBxRXQzSmk2UGhyQzU0aEtuc1ktSlZrS1hOYjBRdXEtV2VZVVhDSW9RNWtYQjF5RVM0WHdOSVVaTHRiQlRQV195aTRmaVJiQUdFUnFIYV9HTmM0b3k4am9JZGZfYVc4c2M0NHBHQjJJWGJvX3VUWnFobHc?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Team Is Selling Early Access to His Truth Social Posts. It\u2019s Every Bit as Corrupt as It Sounds. - Slate",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        }
+      ]
+    },
+    {
+      "id": "55e2c99ca8ee9171",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T20:08:39+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "type": "news",
+      "quote": "Capital One says it closed hundreds of Trump's bank accounts in 2021",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 217.68,
+      "change": 4.15,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1d5TldKdWpPNDAxZDhhaU9MdjFuWUtfSE9yM204SWwxS2RMaTJxa3diZjd6YWloZUg5Vzd5VER6emtOOFgtZjRkUHJVb3RWVk9MelUwS0ZDUktoZlR0MnZRdVIxSzRSQ3UzWjliY1FuTzJGWGpra3VIbUJtVmdZRnI5di1udkdVZC1LcVN6MXZOZEotME5PcG8zLVDSAaIBQVVfeXFMUElCNExRR09YOVBONy1hQVc4bE9idDFBM1g2aEN1OEZRbXJ5LTQxU1hkbzJhWEhCMlBsZkt3dWVhQ1daUElWTTduSFk4ODhuWlc5RXBHblBJQUYxZy0tazNIODZDa3hpSVZpSklKOWtkeUFkVDNyYkRId3dUNllGSDkyNTJrZE5jU3ZoWkhwRi13R0NKNTlLSGZ6aHJWclAycHhR?oc=5",
+      "image": null,
+      "headline": "Capital One says it closed hundreds of Trump's bank accounts in 2021 'for anti-money laundering reasons' - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 217.68
+        }
+      ]
+    },
     {
       "id": "6ad9677260091509",
       "date": "Mon, 03 Aug 2026",
@@ -103,6 +850,214 @@
         {
           "d": "08-03",
           "c": 217.68
+        }
+      ]
+    },
+    {
+      "id": "ab27c657cdefb3aa",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T19:51:20+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 155.06,
+      "change": -0.24,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
+      "image": null,
+      "headline": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        }
+      ]
+    },
+    {
+      "id": "7fc414d78add9725",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T19:51:20+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 193.18,
+      "change": -1.85,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
+      "image": null,
+      "headline": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
         }
       ]
     },
@@ -38849,1018 +39804,6 @@
         {
           "d": "07-10",
           "c": 979.3
-        }
-      ]
-    },
-    {
-      "id": "f328c411ae24e6f7",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T23:22:00+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "The Cool Down",
-      "type": "news",
-      "quote": "Trump fan saved $100,000 for a house, put it into Truth Social, and now says, 'I'm broke' - The Cool Down Trump fan saved",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.54,
-      "change": -0.12,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0NGVlZwSVRfVWxGNWRmVk5scjIwakw4ZlJLUFFkOS1DTVhSam9sRUs2cXRuRXFUVlh3NkE3SFowZ0hUZnpkaXU0M3AzeUNzMWpXdlIyUkhkZVV6TkI4MUVvRm9vRTVCQTc5ZUF2ZldlLVVlUmYwcW9rT3ZCWVFUTnRMQ1hLeHZ6Yl9DWXdaSFNlaUU?oc=5",
-      "image": null,
-      "headline": "Trump fan saved $100,000 for a house, put it into Truth Social, and now says, 'I'm broke' - The Cool Down",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        }
-      ]
-    },
-    {
-      "id": "01334c74ccf576f4",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T22:28:41+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "\u2018Freedom Fuel\u2019 Gas Stations as Gas Prices Rise Again - The New York Times Video: Trump Promotes \u2018Freedom Fuel\u2019 Gas Stations as Gas",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 74.96,
-      "change": 0.89,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXRBX2MzUFl3TGZDUlNvbGlzZWpJZWlreTZjTkpBRlZ6YVZLVktyZjZNNllGWmNWS0RmcVc1ZXlPWXVPX2s4UUZwSnNucWZ2WUZHTTZNUjQtSFNxTU9xN3N0V0p0cWZjQkpkX0JjemJwYUotQWRzWUh1RF9rdjJLSWhJdkNTVk5UQUU1NEJXbnpNeDlFTTBva05DdVFHeUpZTkJuS3gzZkE4S3pBZGpnZlhmUmlCOVVac3BRdEVSUWh1aXk5cU1B?oc=5",
-      "image": null,
-      "headline": "Video: Trump Promotes \u2018Freedom Fuel\u2019 Gas Stations as Gas Prices Rise Again - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-11",
-          "c": 73.97
-        },
-        {
-          "d": "06-12",
-          "c": 73.15
-        },
-        {
-          "d": "06-15",
-          "c": 73.57
-        },
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        }
-      ]
-    },
-    {
-      "id": "3e933bdfae46b3d6",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T20:04:30+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "Stock Titan",
-      "type": "news",
-      "quote": "Trump Media & Technology Group (DJT) director George Holding steps",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.54,
-      "change": -0.12,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2pNZndFN2FpQV9IaEo2UVhBSTJ3dzUyQllWVS1RSEl2STZpSkFLb2VfRmtieTY2ZmZpRDRrWDVob0dXWWU5VmZWWTk1eWRnLXVZVkN4QjE3UVlmUnFjcFgwa2RmMUhSNlhtQ21BbVdzSEdUMFhDVUxiQl93N09OWVJJZ1IyUmxaY3hpUmNXWTJ4eGFUWG42dlZBOTE3YnI2MmVlSU4xT3E3YnlwSDVNUkhnNXFCOTNVSHUyRjl3?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (DJT) director George Holding steps down from board - Stock Titan",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        }
-      ]
-    },
-    {
-      "id": "f9268843fabefe89",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T19:06:21+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "TradingKey",
-      "type": "news",
-      "quote": "Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know? -",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 433.73,
-      "change": -3.66,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmNSUHhPZllkcDRvcDNmR2sxdEU0X1dnNDRHZnVfdy1jbHlwWXU0cVFxSUwtNjdfaDRpQjFNVHRzUmFvSjNfcTdqZFRqeTBidm9MR1FqdXdTNmVNRUZXdjh3clJXS3cyMGlWOHQycnBNWEJSekhXRWJHTVVUanRCc1VfQmlIazZINWUzTHFhdWNDc0Y4ckk2TGVMek9QTGNwYS1FVXdoNDVqbzlhaDBsUU16OGtQcXpFRGVLMjVXdUZEaTJibW9xQm81SkVxMWtY?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know? - TradingKey",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-10",
-          "c": 369.83
-        },
-        {
-          "d": "06-11",
-          "c": 391.45
-        },
-        {
-          "d": "06-12",
-          "c": 395.57
-        },
-        {
-          "d": "06-15",
-          "c": 409.07
-        },
-        {
-          "d": "06-16",
-          "c": 404.08
-        },
-        {
-          "d": "06-17",
-          "c": 419.32
-        },
-        {
-          "d": "06-18",
-          "c": 409.5
-        },
-        {
-          "d": "06-22",
-          "c": 418.71
-        },
-        {
-          "d": "06-23",
-          "c": 427.78
-        },
-        {
-          "d": "06-24",
-          "c": 434.06
-        },
-        {
-          "d": "06-25",
-          "c": 409.45
-        },
-        {
-          "d": "06-26",
-          "c": 399.49
-        },
-        {
-          "d": "06-29",
-          "c": 414.61
-        },
-        {
-          "d": "06-30",
-          "c": 431.46
-        },
-        {
-          "d": "07-01",
-          "c": 425.25
-        },
-        {
-          "d": "07-02",
-          "c": 394.32
-        },
-        {
-          "d": "07-06",
-          "c": 411.8
-        },
-        {
-          "d": "07-07",
-          "c": 417.28
-        },
-        {
-          "d": "07-08",
-          "c": 431.97
-        },
-        {
-          "d": "07-09",
-          "c": 450.22
-        },
-        {
-          "d": "07-10",
-          "c": 433.73
-        }
-      ]
-    },
-    {
-      "id": "caf28796a16a9e03",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T15:12:02+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "Supply Chain Dive",
-      "type": "news",
-      "quote": "Tariff exemptions: Ford, Nestl\u00e9 and others seek relief from proposed levies -",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 14.0,
-      "change": 2.87,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUR3NTI0ajloTG5BdTI2cWJPR1ZlS0tjY1FHUXUyQ3hFVlFEeUpaVE1pdGRPbk54WEFQZGNwSW81NlRmbFd0cWttTEhHazc2V1gyM1UyaVhKX0dfdVdHSXlKY054azRoQXZ5ajJ3TnN3cG9KVjZRTTY5MzhSa3EzR3NTcER0amM4My11WVA3Nmt5ZXdIOE9HZFY0aUtLbnNwNktYNEVKdC1qN2NIMmpwNjZ1UVo1bFlNaEE?oc=5",
-      "image": null,
-      "headline": "Tariff exemptions: Ford, Nestl\u00e9 and others seek relief from proposed levies - Supply Chain Dive",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-11",
-          "c": 14.71
-        },
-        {
-          "d": "06-12",
-          "c": 14.84
-        },
-        {
-          "d": "06-15",
-          "c": 14.77
-        },
-        {
-          "d": "06-16",
-          "c": 14.41
-        },
-        {
-          "d": "06-17",
-          "c": 13.96
-        },
-        {
-          "d": "06-18",
-          "c": 14.06
-        },
-        {
-          "d": "06-22",
-          "c": 14.11
-        },
-        {
-          "d": "06-23",
-          "c": 14.0
-        },
-        {
-          "d": "06-24",
-          "c": 13.84
-        },
-        {
-          "d": "06-25",
-          "c": 14.11
-        },
-        {
-          "d": "06-26",
-          "c": 14.13
-        },
-        {
-          "d": "06-29",
-          "c": 14.02
-        },
-        {
-          "d": "06-30",
-          "c": 13.9
-        },
-        {
-          "d": "07-01",
-          "c": 13.64
-        },
-        {
-          "d": "07-02",
-          "c": 13.36
-        },
-        {
-          "d": "07-06",
-          "c": 13.83
-        },
-        {
-          "d": "07-07",
-          "c": 13.56
-        },
-        {
-          "d": "07-08",
-          "c": 13.5
-        },
-        {
-          "d": "07-09",
-          "c": 13.61
-        },
-        {
-          "d": "07-10",
-          "c": 14.0
-        }
-      ]
-    },
-    {
-      "id": "7446a228e6ed5831",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T09:00:00+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "One U.S. visa program is growing rapidly. No one is happy with it",
-      "company": "Visa",
-      "ticker": "V",
-      "price": 348.2,
-      "change": 0.19,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program",
-      "image": null,
-      "headline": "One U.S. visa program is growing rapidly. No one is happy with it",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-10",
-          "c": 322.96
-        },
-        {
-          "d": "06-11",
-          "c": 319.05
-        },
-        {
-          "d": "06-12",
-          "c": 322.39
-        },
-        {
-          "d": "06-15",
-          "c": 323.82
-        },
-        {
-          "d": "06-16",
-          "c": 333.12
-        },
-        {
-          "d": "06-17",
-          "c": 330.38
-        },
-        {
-          "d": "06-18",
-          "c": 327.24
-        },
-        {
-          "d": "06-22",
-          "c": 326.6
-        },
-        {
-          "d": "06-23",
-          "c": 328.48
-        },
-        {
-          "d": "06-24",
-          "c": 332.23
-        },
-        {
-          "d": "06-25",
-          "c": 330.52
-        },
-        {
-          "d": "06-26",
-          "c": 336.23
-        },
-        {
-          "d": "06-29",
-          "c": 341.65
-        },
-        {
-          "d": "06-30",
-          "c": 343.09
-        },
-        {
-          "d": "07-01",
-          "c": 351.08
-        },
-        {
-          "d": "07-02",
-          "c": 362.13
-        },
-        {
-          "d": "07-06",
-          "c": 357.25
-        },
-        {
-          "d": "07-07",
-          "c": 352.2
-        },
-        {
-          "d": "07-08",
-          "c": 347.53
-        },
-        {
-          "d": "07-09",
-          "c": 348.2
-        }
-      ]
-    },
-    {
-      "id": "373e1f049e550ccc",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T07:00:00+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause -",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 325.89,
-      "change": -0.56,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWtRNFpvTkZ6MjNjbTZ3SGw3REIxMndMZUc1MDkwajMxQ0dUZVBPTFJiR2FMMDJXdG10UXRLOUUzSnBRaFA1SDhfVFV4VjVxLS16U1VoMEN4X2JOMmVIbjJJUl9uRkVZS0ZjaDFHX2ZqQnNtYUxsM1pmWEhsaHlKeGxKU1ZzOVFCUFNCVkZBMWVjQjk5REJR?oc=5",
-      "image": null,
-      "headline": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 294.3
-        },
-        {
-          "d": "06-24",
-          "c": 293.08
-        },
-        {
-          "d": "06-25",
-          "c": 275.15
-        },
-        {
-          "d": "06-26",
-          "c": 283.78
-        },
-        {
-          "d": "06-29",
-          "c": 281.74
-        },
-        {
-          "d": "06-30",
-          "c": 289.36
-        },
-        {
-          "d": "07-01",
-          "c": 294.38
-        },
-        {
-          "d": "07-02",
-          "c": 308.63
-        },
-        {
-          "d": "07-06",
-          "c": 312.66
-        },
-        {
-          "d": "07-07",
-          "c": 310.66
-        },
-        {
-          "d": "07-08",
-          "c": 313.39
-        },
-        {
-          "d": "07-09",
-          "c": 316.22
-        },
-        {
-          "d": "07-10",
-          "c": 315.32
-        },
-        {
-          "d": "07-13",
-          "c": 317.31
-        },
-        {
-          "d": "07-14",
-          "c": 314.86
-        },
-        {
-          "d": "07-15",
-          "c": 327.5
-        },
-        {
-          "d": "07-16",
-          "c": 333.26
-        },
-        {
-          "d": "07-17",
-          "c": 333.74
-        },
-        {
-          "d": "07-20",
-          "c": 326.59
-        },
-        {
-          "d": "07-21",
-          "c": 327.74
-        },
-        {
-          "d": "07-22",
-          "c": 325.89
-        }
-      ]
-    },
-    {
-      "id": "ffae95d3b7b4b0c4",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T07:00:00+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - Yahoo",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 212.06,
-      "change": 2.3,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWtRNFpvTkZ6MjNjbTZ3SGw3REIxMndMZUc1MDkwajMxQ0dUZVBPTFJiR2FMMDJXdG10UXRLOUUzSnBRaFA1SDhfVFV4VjVxLS16U1VoMEN4X2JOMmVIbjJJUl9uRkVZS0ZjaDFHX2ZqQnNtYUxsM1pmWEhsaHlKeGxKU1ZzOVFCUFNCVkZBMWVjQjk5REJR?oc=5",
-      "image": null,
-      "headline": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 200.04
-        },
-        {
-          "d": "06-24",
-          "c": 199.0
-        },
-        {
-          "d": "06-25",
-          "c": 195.74
-        },
-        {
-          "d": "06-26",
-          "c": 192.53
-        },
-        {
-          "d": "06-29",
-          "c": 194.97
-        },
-        {
-          "d": "06-30",
-          "c": 200.09
-        },
-        {
-          "d": "07-01",
-          "c": 197.58
-        },
-        {
-          "d": "07-02",
-          "c": 194.83
-        },
-        {
-          "d": "07-06",
-          "c": 195.55
-        },
-        {
-          "d": "07-07",
-          "c": 196.93
-        },
-        {
-          "d": "07-08",
-          "c": 204.12
-        },
-        {
-          "d": "07-09",
-          "c": 202.78
-        },
-        {
-          "d": "07-10",
-          "c": 210.96
-        },
-        {
-          "d": "07-13",
-          "c": 203.53
-        },
-        {
-          "d": "07-14",
-          "c": 211.8
-        },
-        {
-          "d": "07-15",
-          "c": 212.5
-        },
-        {
-          "d": "07-16",
-          "c": 207.4
-        },
-        {
-          "d": "07-17",
-          "c": 202.81
-        },
-        {
-          "d": "07-20",
-          "c": 203.28
-        },
-        {
-          "d": "07-21",
-          "c": 207.29
-        },
-        {
-          "d": "07-22",
-          "c": 212.06
-        }
-      ]
-    },
-    {
-      "id": "3783a51ce07f256d",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T02:05:25+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "TradingKey",
-      "type": "news",
-      "quote": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered, Trump Bought - Is the Bottom",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 202.78,
-      "change": -0.66,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRk4yeGYtcENyUVhRUmRUNEhVUmZndEE0eEtpcVV2MDhSZnFWU0VtazdCTGJKR0x5YVZ4Y1ppaGNKaGszUTFIb0NXQkNMQUpRMkZ5RmIwWC0xTklSalpTamVJOGswM3VPWElyWEF3QXhGdVliWjY5TEZEd3VuNGRYXzRlbWdNaWdNdGdlRUZzOGY0akZTRE5UQWZzOFQxYXBKSWdFVGdzQzFlZHAtRllhYVJZOGppbnVBZ0dvRmRlcUJLNVlqNElTbHFfVUFiNnBQNWppQw?oc=5",
-      "image": null,
-      "headline": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered, Trump Bought - Is the Bottom In? - TradingKey",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-10",
-          "c": 200.42
-        },
-        {
-          "d": "06-11",
-          "c": 204.87
-        },
-        {
-          "d": "06-12",
-          "c": 205.19
-        },
-        {
-          "d": "06-15",
-          "c": 212.45
-        },
-        {
-          "d": "06-16",
-          "c": 207.41
-        },
-        {
-          "d": "06-17",
-          "c": 204.65
-        },
-        {
-          "d": "06-18",
-          "c": 210.69
-        },
-        {
-          "d": "06-22",
-          "c": 208.65
-        },
-        {
-          "d": "06-23",
-          "c": 200.04
-        },
-        {
-          "d": "06-24",
-          "c": 199.0
-        },
-        {
-          "d": "06-25",
-          "c": 195.74
-        },
-        {
-          "d": "06-26",
-          "c": 192.53
-        },
-        {
-          "d": "06-29",
-          "c": 194.97
-        },
-        {
-          "d": "06-30",
-          "c": 200.09
-        },
-        {
-          "d": "07-01",
-          "c": 197.58
-        },
-        {
-          "d": "07-02",
-          "c": 194.83
-        },
-        {
-          "d": "07-06",
-          "c": 195.55
-        },
-        {
-          "d": "07-07",
-          "c": 196.93
-        },
-        {
-          "d": "07-08",
-          "c": 204.12
-        },
-        {
-          "d": "07-09",
-          "c": 202.78
-        }
-      ]
-    },
-    {
-      "id": "be67754f12cc4996",
-      "date": "Fri, 10 Jul 2026",
-      "ts": "2026-07-10T02:05:25+00:00",
-      "date_display": "Jul 10, 2026",
-      "source": "TradingKey",
-      "type": "news",
-      "quote": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered,",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 129.04,
-      "change": -2.41,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRk4yeGYtcENyUVhRUmRUNEhVUmZndEE0eEtpcVV2MDhSZnFWU0VtazdCTGJKR0x5YVZ4Y1ppaGNKaGszUTFIb0NXQkNMQUpRMkZ5RmIwWC0xTklSalpTamVJOGswM3VPWElyWEF3QXhGdVliWjY5TEZEd3VuNGRYXzRlbWdNaWdNdGdlRUZzOGY0akZTRE5UQWZzOFQxYXBKSWdFVGdzQzFlZHAtRllhYVJZOGppbnVBZ0dvRmRlcUJLNVlqNElTbHFfVUFiNnBQNWppQw?oc=5",
-      "image": null,
-      "headline": "Palantir (PLTR) Stock Forecast: Nvidia Partnership, Burry Covered, Trump Bought - Is the Bottom In? - TradingKey",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-10",
-          "c": 130.21
-        },
-        {
-          "d": "06-11",
-          "c": 131.08
-        },
-        {
-          "d": "06-12",
-          "c": 127.99
-        },
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        },
-        {
-          "d": "06-18",
-          "c": 128.47
-        },
-        {
-          "d": "06-22",
-          "c": 119.5
-        },
-        {
-          "d": "06-23",
-          "c": 116.7
-        },
-        {
-          "d": "06-24",
-          "c": 113.5
-        },
-        {
-          "d": "06-25",
-          "c": 107.27
-        },
-        {
-          "d": "06-26",
-          "c": 112.93
-        },
-        {
-          "d": "06-29",
-          "c": 115.7
-        },
-        {
-          "d": "06-30",
-          "c": 116.67
-        },
-        {
-          "d": "07-01",
-          "c": 125.73
-        },
-        {
-          "d": "07-02",
-          "c": 129.3
-        },
-        {
-          "d": "07-06",
-          "c": 132.54
-        },
-        {
-          "d": "07-07",
-          "c": 134.37
-        },
-        {
-          "d": "07-08",
-          "c": 132.22
-        },
-        {
-          "d": "07-09",
-          "c": 129.04
         }
       ]
     }
