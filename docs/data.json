@@ -1,7 +1,735 @@
 {
-  "updated_at": "2026-08-03T14:12:02.840776+00:00",
+  "updated_at": "2026-08-03T16:44:22.753644+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "bbbee5a413061b16",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T16:00:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "thestreet.com",
+      "type": "news",
+      "quote": "Trump Media moves $165M in Bitcoin to Crypto.com, but says it didn't",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.01,
+      "change": 1.52,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQjBaQnBNWmhEWklDNDM0X1RMWUVPTTVrWjNzR0FVVGlmb1ZxcmpsQ2N3QzRCNDJFOUNaYkVTV2h4cmNYWHNCUm56dUxCTTFHREh1ZFZMQlBNZXV4akxiTVMyY2JQbnFTZi1HSnd5enJLWDVBaUs5Vlc0djlBMmxCTmU2em9TQ1dZdy1fOV9XVy1NbThseDhnMEFoOVFtSFZiWmR1UjE4MVZWdjZPaEpQVzFvN3hVdFcwU1Z5TThBOHZlUTZaZVJ3ZW80VlM?oc=5",
+      "image": null,
+      "headline": "Trump Media moves $165M in Bitcoin to Crypto.com, but says it didn't sell a single coin - thestreet.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        }
+      ]
+    },
+    {
+      "id": "b7ec7992e9cfd95d",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T15:47:47+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Deflects Blame for High Gas Prices, Demands Chevron Lower Pump Costs - 24/7 Wall St. Trump Deflects Blame for",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 194.47,
+      "change": -1.2,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkpGUGR4aTEzcXN6UVJyNEU5SE5DVkM4bEswbUZLVDBRZ3NISmE0ZG1udWtLZTBVYlA5alpLUU1wa01XQVRZeDhRMnhWQjJJUzFUUll3WnQwc1VVT0I3VU1pSXVaWXo3Q0xUZkc1bWtNTXZFQWFYT0xoU2pOQWFaVGZpQkhlQy1FTThCd21MQ3JPMDhBWEluTWdNa2sxY0hickp4R0tOSzA1TG9uOWp0cE13?oc=5",
+      "image": null,
+      "headline": "Trump Deflects Blame for High Gas Prices, Demands Chevron Lower Pump Costs - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 194.47
+        }
+      ]
+    },
+    {
+      "id": "7b09f06faec5adda",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T15:19:50+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "The Jerusalem Post",
+      "type": "news",
+      "quote": "Capital One says it closed Trump-affiliated accounts over",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 216.55,
+      "change": 3.61,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoVzRaRE16ajJfZHhxRk94akhabkRSX1VsNmhoRDhiUG5LUXJ2T3VEMHptRkNUVXdXTkUwRG94cUlGaFZDQ2hncFdSelNEbWdzYmQ3amdTcjlXRXp5R3VZ?oc=5",
+      "image": null,
+      "headline": "Capital One says it closed Trump-affiliated accounts over money-laundering probe, not Jan. 6 riots - The Jerusalem Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 216.55
+        }
+      ]
+    },
+    {
+      "id": "553db05ccd363453",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T15:06:21+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Yahoo Tech",
+      "type": "news",
+      "quote": "Trump Media launches paid feed for faster access to Truth Social posts",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.01,
+      "change": 1.52,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkp0bk8yV3psVHk2YTZ0MmpvRjd0ZHMwMUFESnFpbmxTWGhaNy1iUWQ4azRnaEFwQ2ZRQlpya0M2NENrTHQ3X1BPZVJvS2R4Mi10LXpJMnNuTE1GeXZ5bkE0VUZ6V25GdTh0TjVtOG9Oa2hVVHlya19LbFl6Z0tWd1lkOEdVeUEtOEI1WVJPZk13MzUzemJNeGV6d2FaNmRJMWFGQm5tS3ZUdXNPcFlNZUxlRUFRVW5xUzE1bk5nWlV3Zw?oc=5",
+      "image": null,
+      "headline": "Trump Media launches paid feed for faster access to Truth Social posts - Yahoo Tech",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        }
+      ]
+    },
+    {
+      "id": "c3b4e97e8313aa9c",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T14:37:55+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "People.com",
+      "type": "news",
+      "quote": "Capital One Says It Closed Trump Family Business\u2019 Accounts for",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 216.55,
+      "change": 3.61,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDVlZEl6bTV3WkxPMmNJamdFZjdDSEZmTTdmVFlCMDM3cFlfWndnWThFT0o0Ul9MWlk0REs1VmpLVC1QRXRnSGQ2b2JUcWs3VUt3eXhRVGFWWWV5TzlId3YwVU8zSktaTjBEVzYtUkNHejFVZ0xjbmNGbW05VGYwWGFCb1U2WkcySE1Hejl6N3VvTXM0Mk13U2hMU196RGVlRGEwR1lqblZxdEcxRzcyaTZaQnNZZE8yOXA3VFpteHhyWC1ZZDRUTk9RQk4?oc=5",
+      "image": null,
+      "headline": "Capital One Says It Closed Trump Family Business\u2019 Accounts for \u2018Anti-Money Laundering Reasons,\u2019 Not Politics - People.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 216.55
+        }
+      ]
+    },
+    {
+      "id": "cccb9d4c018b5ec8",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T14:37:46+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Al Jazeera",
+      "type": "news",
+      "quote": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices - Al",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 194.47,
+      "change": -1.2,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQWg1SXNUMjhpaVZIN2xHR191b19NWnpQV09oeUd5ZU9Cakl2WXNxMWpwUlU1aG9Jc0pxTDA0MjhFY3MtSEZJTkdkMTBhTDBiQnBRN1R0dEliaXUxQXQ4Y0JzT0tjYmJPNng0QnZUSUlrSmZ1ZDdoZ1JxbUFzYkoyRGhmaWtmaVFsSW80UTlWcEhFRjlIWV9pWS1oRklMUFFnSEVrbWw5WGItTTVmelZETW130gG3AUFVX3lxTFBLMDdQbW91Y0FkdWROZUJRMU5zSFZHUFl4V1JwamZOd29PTTJhQVZPaUkzUFlhTjBMU0tRUnRXc24zODhSWGEwNE5YYzlOQzFkSGRkYUlqc0ZCZlg2N0RZbjNGckVDSVJxTElkV1FIM1hwbzBLMmZZZ0lNbWtseFRUakVPYlFLRVVzMndxZTRyU2Niclh6X2tmQWxKbHVZTnFEcGNJaWNSRzJVWDBsV005R1F0NzNMMA?oc=5",
+      "image": null,
+      "headline": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices - Al Jazeera",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 194.47
+        }
+      ]
+    },
+    {
+      "id": "c4420aab30cc59e6",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T14:26:09+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump demands lower gas prices from oil companies, chides Chevron CEO - Reuters Trump demands lower gas prices from oil",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 194.47,
+      "change": -1.2,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
+      "image": null,
+      "headline": "Trump demands lower gas prices from oil companies, chides Chevron CEO - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 194.47
+        }
+      ]
+    },
     {
       "id": "2f030675f7ba2eaa",
       "date": "Mon, 03 Aug 2026",
@@ -39040,718 +39768,6 @@
         {
           "d": "07-08",
           "c": 73.16
-        }
-      ]
-    },
-    {
-      "id": "9e66cfc59ad1ca2c",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T19:31:40+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Jump After Trump Says Deal With Iran Is \u2018Over\u2019 - The New York Times Oil Prices Jump After Trump Says Deal With Iran Is",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 73.16,
-      "change": -0.45,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXR6a2t1a0lqUzR4Z1RZaEdpclVreTBmODh3NVBxem04eWdIQ3JwQTJzaUI2dk9zWF9mVHdDcTlfblA4OFhqd2x0Tnptd254RWQ3bE9lMHBoQkNIMzhDOVpmWHBMdTNmRWRubDdpQUk0M0U0V1VqbmJaQnpvYlJ0WTRWNzVvZmRHc1haVkFB?oc=5",
-      "image": null,
-      "headline": "Oil Prices Jump After Trump Says Deal With Iran Is \u2018Over\u2019 - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-09",
-          "c": 73.36
-        },
-        {
-          "d": "06-10",
-          "c": 72.77
-        },
-        {
-          "d": "06-11",
-          "c": 73.97
-        },
-        {
-          "d": "06-12",
-          "c": 73.15
-        },
-        {
-          "d": "06-15",
-          "c": 73.57
-        },
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        }
-      ]
-    },
-    {
-      "id": "5b2967df3941b8ca",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T17:30:00+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "investor Brad Gerstner predicts $100B in new commitments - Fox Business Corporate America backs Trump Accounts as",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 48.38,
-      "change": -1.67,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREZYb0N4aXo0a3I5RjU3NEZ3RGRQb25TRzlyNUNoNDhWN0x0SVpCODFiVEtweGNFU2hnOWxhNUJITjRvMURsRWlKbmtidlc2Qjg2RUJ0TUhKeUdtLVBMSDlMalA3TzlJN1JwanFyOE13c3Q5QUxpdWhUSldNcnctRDE0VjRNcEEwV2RoMjJkaUJERFB6YkNnU3h2bkp3Tzc0ZUxMTkduV0dFb2Y0ZWpKRGppU05IbEViWlpRVGVibWtwZ2fSAcgBQVVfeXFMUDcyS3ZLaU94Y3kzYmZzSjFBWWNTSlVWUDRseTZhNEhZZ3ZueXh3X0YxOE9ZTTY5SmE5VzZlOHRzS2t6RW9DanpyQjQzSElLbGVJNk5zMTZmdHdyMjNwMnpVNGxHMTNncDdqb25MYVdFbG1wOFQyaEcxZzQ1QUpJUVlMTGtYNjJlTmdtNURmanZEb3FVaGVfNWNTMXBLRnRkbm5TZnhTMTdOcllHU3ljZ2RPWDRaYTg4ZjI1TXJGWkJFYXFTUWZDbTY?oc=5",
-      "image": null,
-      "headline": "Corporate America backs Trump Accounts as investor Brad Gerstner predicts $100B in new commitments - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 60.34
-        },
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 48.38
-        }
-      ]
-    },
-    {
-      "id": "d43ff6864a291795",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T16:38:14+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Wall St falls as Trump's Iran remarks rattle investors; Broadcom gains - Reuters Wall St falls as Trump's Iran remarks",
-      "company": "Broadcom",
-      "ticker": "AVGO",
-      "price": 393.34,
-      "change": 6.08,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
-      "image": null,
-      "headline": "Wall St falls as Trump's Iran remarks rattle investors; Broadcom gains - Reuters",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 395.97
-        },
-        {
-          "d": "06-09",
-          "c": 391.54
-        },
-        {
-          "d": "06-10",
-          "c": 371.51
-        },
-        {
-          "d": "06-11",
-          "c": 384.96
-        },
-        {
-          "d": "06-12",
-          "c": 381.47
-        },
-        {
-          "d": "06-15",
-          "c": 393.32
-        },
-        {
-          "d": "06-16",
-          "c": 376.11
-        },
-        {
-          "d": "06-17",
-          "c": 392.28
-        },
-        {
-          "d": "06-18",
-          "c": 410.7
-        },
-        {
-          "d": "06-22",
-          "c": 392.13
-        },
-        {
-          "d": "06-23",
-          "c": 380.15
-        },
-        {
-          "d": "06-24",
-          "c": 382.07
-        },
-        {
-          "d": "06-25",
-          "c": 378.91
-        },
-        {
-          "d": "06-26",
-          "c": 365.02
-        },
-        {
-          "d": "06-29",
-          "c": 372.45
-        },
-        {
-          "d": "06-30",
-          "c": 377.75
-        },
-        {
-          "d": "07-01",
-          "c": 369.34
-        },
-        {
-          "d": "07-02",
-          "c": 360.45
-        },
-        {
-          "d": "07-06",
-          "c": 373.9
-        },
-        {
-          "d": "07-07",
-          "c": 370.78
-        },
-        {
-          "d": "07-08",
-          "c": 393.34
-        }
-      ]
-    },
-    {
-      "id": "e92340b8aef70f23",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T13:41:17+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Iran leaders are 'liars, cheats' as ceasefire unravels - Fox Business President Trump says Iran leaders are 'liars,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 47.95,
-      "change": -2.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdnhvREdRalZZNDN0LUVZc2pNTlFaajJfLTJ6Vml5RDJaNmxWZnN3N25feDB1ZVpQZnpJVGN4S1ltMWJSU1c0WlJCb3Z5ZVRZRHVjV1FrVTVsUHM?oc=5",
-      "image": null,
-      "headline": "President Trump says Iran leaders are 'liars, cheats' as ceasefire unravels - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        }
-      ]
-    },
-    {
-      "id": "1da48153ab4aac8a",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T12:07:00+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Saudi Gazette",
-      "type": "news",
-      "quote": "Judge tosses Trump Media\u2019s $3.8bn defamation suit against The Washington Post -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.24,
-      "change": 1.35,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBacmE2bzc0c0poMVEzNGVQM1NqYlMtdHd6VXlPaEVPMUNNbTZPVEUtVk56eEtJRW92NjFQVTVTb2daUHhGZjIxYWVNM0Fza2hkRFFWQw?oc=5",
-      "image": null,
-      "headline": "Judge tosses Trump Media\u2019s $3.8bn defamation suit against The Washington Post - Saudi Gazette",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-08",
-          "c": 8.15
-        },
-        {
-          "d": "06-09",
-          "c": 8.16
-        },
-        {
-          "d": "06-10",
-          "c": 7.79
-        },
-        {
-          "d": "06-11",
-          "c": 8.25
-        },
-        {
-          "d": "06-12",
-          "c": 7.8
-        },
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.24
-        }
-      ]
-    },
-    {
-      "id": "c05ec490c8ce5ca0",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T11:29:40+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump admin launches its first major H-1B visa fraud investigation - Fox Business Trump admin launches",
-      "company": "Visa",
-      "ticker": "V",
-      "price": 347.53,
-      "change": -1.33,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjlsU0xvRzBTUmlPNHZSUzhBaEoxaFE0aEdPLTlHRjZSUjdMa2pHMDFyNWF1N1Q1VURKOXhNd0RBcHEyajJZMURwSVBlX1BLMWdmdEw3aHhwdlJtdjZLYnFRQUJTSm5KWUVpaHNsNXhpQWJKNFdrbU42YVMwWndLajlUblRQLU5aQk55M294YUs3TWpaeC1xUXlBZWRqaHJHODAxZU5n0gGrAUFVX3lxTE12anIzS1VsRzVGZ01wajlPM1JHaElzQndvZmdZendrUEVxdkFobjBDQWpraU9zOHpaQXdUeDA3NHRLTTBMS096aWtBYks2NWdrdVFKSmNDWVZxaEZia1RONkItak9VQng1QjY1N2N4OUFaYW1oU3AwLUx5dnl5dE1sVTFHN2c1WmR1SVl5TnprTjl3UHp2dlc2WFVodzE3cjVDSUc0LWZiTnZMZw?oc=5",
-      "image": null,
-      "headline": "Trump admin launches its first major H-1B visa fraud investigation - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-09",
-          "c": 325.05
-        },
-        {
-          "d": "06-10",
-          "c": 322.96
-        },
-        {
-          "d": "06-11",
-          "c": 319.05
-        },
-        {
-          "d": "06-12",
-          "c": 322.39
-        },
-        {
-          "d": "06-15",
-          "c": 323.82
-        },
-        {
-          "d": "06-16",
-          "c": 333.12
-        },
-        {
-          "d": "06-17",
-          "c": 330.38
-        },
-        {
-          "d": "06-18",
-          "c": 327.24
-        },
-        {
-          "d": "06-22",
-          "c": 326.6
-        },
-        {
-          "d": "06-23",
-          "c": 328.48
-        },
-        {
-          "d": "06-24",
-          "c": 332.23
-        },
-        {
-          "d": "06-25",
-          "c": 330.52
-        },
-        {
-          "d": "06-26",
-          "c": 336.23
-        },
-        {
-          "d": "06-29",
-          "c": 341.65
-        },
-        {
-          "d": "06-30",
-          "c": 343.09
-        },
-        {
-          "d": "07-01",
-          "c": 351.08
-        },
-        {
-          "d": "07-02",
-          "c": 362.13
-        },
-        {
-          "d": "07-06",
-          "c": 357.25
-        },
-        {
-          "d": "07-07",
-          "c": 352.2
-        },
-        {
-          "d": "07-08",
-          "c": 347.53
-        }
-      ]
-    },
-    {
-      "id": "b18fb163a84eb59c",
-      "date": "Wed, 08 Jul 2026",
-      "ts": "2026-07-08T11:29:40+00:00",
-      "date_display": "Jul 08, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "launches its first major H-1B visa fraud investigation - Fox Business Trump admin launches its first major H-1B visa",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 47.95,
-      "change": -2.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjlsU0xvRzBTUmlPNHZSUzhBaEoxaFE0aEdPLTlHRjZSUjdMa2pHMDFyNWF1N1Q1VURKOXhNd0RBcHEyajJZMURwSVBlX1BLMWdmdEw3aHhwdlJtdjZLYnFRQUJTSm5KWUVpaHNsNXhpQWJKNFdrbU42YVMwWndLajlUblRQLU5aQk55M294YUs3TWpaeC1xUXlBZWRqaHJHODAxZU5n0gGrAUFVX3lxTE12anIzS1VsRzVGZ01wajlPM1JHaElzQndvZmdZendrUEVxdkFobjBDQWpraU9zOHpaQXdUeDA3NHRLTTBMS096aWtBYks2NWdrdVFKSmNDWVZxaEZia1RONkItak9VQng1QjY1N2N4OUFaYW1oU3AwLUx5dnl5dE1sVTFHN2c1WmR1SVl5TnprTjl3UHp2dlc2WFVodzE3cjVDSUc0LWZiTnZMZw?oc=5",
-      "image": null,
-      "headline": "Trump admin launches its first major H-1B visa fraud investigation - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-09",
-          "c": 60.9
-        },
-        {
-          "d": "06-10",
-          "c": 61.03
-        },
-        {
-          "d": "06-11",
-          "c": 61.36
-        },
-        {
-          "d": "06-12",
-          "c": 58.92
-        },
-        {
-          "d": "06-15",
-          "c": 49.96
-        },
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
         }
       ]
     }
