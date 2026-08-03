@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-08-03T22:50:00.668210+00:00",
+  "updated_at": "2026-08-03T23:58:59.379957+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ee8887e1993e0c9e",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T22:55:51+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "a deal with two GOP senators who had said they would block his nomination. Blanche put into writing that the DOJ is",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/show/blanche-wins-support-from-gop-holdouts-after-vowing-to-scrap-anti-weaponization-fund",
+      "image": null,
+      "headline": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "1643d062021dc623",
       "date": "Mon, 03 Aug 2026",
@@ -39724,106 +39743,6 @@
         {
           "d": "07-10",
           "c": 979.3
-        }
-      ]
-    },
-    {
-      "id": "7b3bb866f33ad854",
-      "date": "Sat, 11 Jul 2026",
-      "ts": "2026-07-11T11:00:08+00:00",
-      "date_display": "Jul 11, 2026",
-      "source": "Financial Times",
-      "type": "news",
-      "quote": "Donald Trump ups the pressure on US companies in drive to lower prices -",
-      "company": "Ups",
-      "ticker": "UPS",
-      "price": 112.47,
-      "change": 1.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04a2lkZEpMNGpReG1zdWxtRTVnSU4zQ081Wkl6SHRLTHJtaGVYazJwMGF0VVh3a3BITHBiUnJEbDBEWEtIVVRob2JkbHljdndodldKcE1OeE15WERkOUZ3N0VKT01wUTNjclJMSFRWc2s?oc=5",
-      "image": null,
-      "headline": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-11",
-          "c": 108.65
-        },
-        {
-          "d": "06-12",
-          "c": 108.1
-        },
-        {
-          "d": "06-15",
-          "c": 108.83
-        },
-        {
-          "d": "06-16",
-          "c": 110.02
-        },
-        {
-          "d": "06-17",
-          "c": 105.13
-        },
-        {
-          "d": "06-18",
-          "c": 104.86
-        },
-        {
-          "d": "06-22",
-          "c": 107.24
-        },
-        {
-          "d": "06-23",
-          "c": 105.83
-        },
-        {
-          "d": "06-24",
-          "c": 106.14
-        },
-        {
-          "d": "06-25",
-          "c": 109.31
-        },
-        {
-          "d": "06-26",
-          "c": 108.14
-        },
-        {
-          "d": "06-29",
-          "c": 108.01
-        },
-        {
-          "d": "06-30",
-          "c": 107.5
-        },
-        {
-          "d": "07-01",
-          "c": 109.54
-        },
-        {
-          "d": "07-02",
-          "c": 110.66
-        },
-        {
-          "d": "07-06",
-          "c": 110.02
-        },
-        {
-          "d": "07-07",
-          "c": 111.96
-        },
-        {
-          "d": "07-08",
-          "c": 109.94
-        },
-        {
-          "d": "07-09",
-          "c": 110.74
-        },
-        {
-          "d": "07-10",
-          "c": 112.47
         }
       ]
     }
