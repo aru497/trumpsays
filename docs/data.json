@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-04T19:01:57.964093+00:00",
+  "updated_at": "2026-08-04T20:47:57.692577+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "85c1e81c7e971829",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T20:30:01+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "according to Annie Jacobsen, a Pulitzer Prize finalist and New York Times bestselling author. Jacobsen sits down with Geoff Bennett",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 75.61,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/is-america-prepared-for-biological-war",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/SettleIn_AnnieJacobsen_2shot-1024x576.png",
+      "headline": "Is America prepared for biological war?",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        }
+      ]
+    },
     {
       "id": "622fb743286344ab",
       "date": "Tue, 04 Aug 2026",
@@ -107,6 +215,114 @@
         {
           "d": "08-04",
           "c": 222.41
+        }
+      ]
+    },
+    {
+      "id": "173146440226690c",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T18:52:36+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "Fast Company",
+      "type": "news",
+      "quote": "Why Capital One says it really closed more than 300 of Trump\u2019s accounts -",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 221.91,
+      "change": 1.94,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckdTYURvN2dDYWtUb1JzY3QySks2SEQ4VkRnTnhQM1VXTEEwOG40dFhEU3NDWWdGSW9CZ3hKdlk4QW44cFlJNHlxNkZnYVFocTg5X0w3NXBVa2FiRlhGM1dMUi1mUXdaZUV1SzdYb2Jxbk8tempFZGVrMjN0OThMRFltdG8xWkZncldOQkxmMFhjdG02elBJNGZ3SVRGQ094bFotSUV3?oc=5",
+      "image": null,
+      "headline": "Why Capital One says it really closed more than 300 of Trump\u2019s accounts - Fast Company",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 217.68
+        },
+        {
+          "d": "08-04",
+          "c": 221.91
         }
       ]
     },
@@ -431,6 +647,222 @@
         {
           "d": "08-04",
           "c": 190.59
+        }
+      ]
+    },
+    {
+      "id": "e7258496596025f8",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T13:19:43+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "ABC13 Houston",
+      "type": "news",
+      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC13 Houston Trump says oil",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 153.96,
+      "change": -0.71,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeElCZUlwTWE4bXVOTmxkeW5GTG5TZ2ZZeGVpUUdEZUp5QUZRN3VHN2M3cVNRV2Npdm5WYlFqeVY0M1ZjZDVhYXRRMUtPOTVXWGtpTjdqYlF2SmZjRC1ha05pOGV2Yl9HandRWjBDUDg4QkR4WEg5MUVGRkJ3VmxSX2lYaHkwNHhkZWRXUXN3SEpXak9IbVR2MGJ6bTFXNGlOc0o1Wjdnc21md21obW9IcmRFUzF4dHlWNDZRag?oc=5",
+      "image": null,
+      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC13 Houston",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        },
+        {
+          "d": "08-04",
+          "c": 153.96
+        }
+      ]
+    },
+    {
+      "id": "3bf0ca5ea9919653",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T13:19:43+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "ABC13 Houston",
+      "type": "news",
+      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC13 Houston",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 190.4,
+      "change": -1.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeElCZUlwTWE4bXVOTmxkeW5GTG5TZ2ZZeGVpUUdEZUp5QUZRN3VHN2M3cVNRV2Npdm5WYlFqeVY0M1ZjZDVhYXRRMUtPOTVXWGtpTjdqYlF2SmZjRC1ha05pOGV2Yl9HandRWjBDUDg4QkR4WEg5MUVGRkJ3VmxSX2lYaHkwNHhkZWRXUXN3SEpXak9IbVR2MGJ6bTFXNGlOc0o1Wjdnc21md21obW9IcmRFUzF4dHlWNDZRag?oc=5",
+      "image": null,
+      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC13 Houston",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        },
+        {
+          "d": "08-04",
+          "c": 190.4
         }
       ]
     },
@@ -39744,406 +40176,6 @@
       "headline": "Paramount Shareholder Sues Ellisons, Board For Alleged Side Deal, Promises To Donald Trump - Deadline",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "4059acd5f1e44356",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T18:56:56+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "to dictators like Hitler and Stalin, journalist says The New York Times journalist Jonathan Swan says the president is fixated on",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 75.22,
-      "change": 3.07,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman",
-      "image": null,
-      "headline": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        }
-      ]
-    },
-    {
-      "id": "b960d6a9037b4ffe",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T18:01:20+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Epstein probe Kathryn Ruemmler, the former top lawyer at Goldman Sachs who was White House counsel to President Barack Obama,",
-      "company": "Goldman Sachs",
-      "ticker": "GS",
-      "price": 1143.65,
-      "change": 0.32,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-house-lawmakers-speak-ahead-of-kathy-ruemmler-interview-in-epstein-probe",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-15T141530Z_708137821_RC2EEMA50UIE_RTRMADP_3_USA-TRUMP-EPSTEIN-RUEMMLER-1024x681.jpg",
-      "headline": "WATCH: House lawmakers speak ahead of Kathy Ruemmler interview in Epstein probe",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-15",
-          "c": 1076.17
-        },
-        {
-          "d": "06-16",
-          "c": 1090.67
-        },
-        {
-          "d": "06-17",
-          "c": 1099.14
-        },
-        {
-          "d": "06-18",
-          "c": 1096.56
-        },
-        {
-          "d": "06-22",
-          "c": 1106.37
-        },
-        {
-          "d": "06-23",
-          "c": 1094.44
-        },
-        {
-          "d": "06-24",
-          "c": 1076.91
-        },
-        {
-          "d": "06-25",
-          "c": 1065.09
-        },
-        {
-          "d": "06-26",
-          "c": 1019.61
-        },
-        {
-          "d": "06-29",
-          "c": 1020.21
-        },
-        {
-          "d": "06-30",
-          "c": 1011.37
-        },
-        {
-          "d": "07-01",
-          "c": 1019.61
-        },
-        {
-          "d": "07-02",
-          "c": 1021.0
-        },
-        {
-          "d": "07-06",
-          "c": 1055.29
-        },
-        {
-          "d": "07-07",
-          "c": 1042.98
-        },
-        {
-          "d": "07-08",
-          "c": 1029.64
-        },
-        {
-          "d": "07-09",
-          "c": 1055.97
-        },
-        {
-          "d": "07-10",
-          "c": 1055.18
-        },
-        {
-          "d": "07-13",
-          "c": 1045.91
-        },
-        {
-          "d": "07-14",
-          "c": 1140.0
-        },
-        {
-          "d": "07-15",
-          "c": 1143.65
-        }
-      ]
-    },
-    {
-      "id": "5ae94143cc2aa902",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T12:54:10+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "FOX 9 Minneapolis-St. Paul",
-      "type": "news",
-      "quote": "MN governor's race: GOP endorsement complicates primary - FOX 9 Minneapolis-St. Paul MN governor's race: GOP endorsement",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 50.39,
-      "change": 1.8,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEcWlXZUNOajdEcEZ5eVEtWWtOYnlnNG1tTHFsVE9UdEhSREVBNUJYdUh6Und0d1hKd2ZkTXJERUxKWVFVcVBReWhYSE5TNWFiRGZ5SnFsSERxS0x2Ym92T09xclJYWVZNOTRHbElYOFcwU2ZqSTlISTQ3OVLSAYIBQVVfeXFMTXZDSUhTOHhTQ0ZzMERpLTgzUHRadFU3M092SXV3TG0xbWFwVXhrZWY2QlgwZ0hUakpqRzhXMGxJUmFmemFyenJFbGVBNG9SUDZPNDUwZk9uZFhkTjBRSnRidHRhRFctT19qVm9DWUZfaWpPNGZITVhJMTRTbDNZMHl4QQ?oc=5",
-      "image": null,
-      "headline": "MN governor's race: GOP endorsement complicates primary - FOX 9 Minneapolis-St. Paul",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        }
-      ]
-    },
-    {
-      "id": "b4d8dac64a73e244",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T08:16:26+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "Anadolu Ajans\u0131",
-      "type": "news",
-      "quote": "$2M from South Korean firm tied to US trade dispute: NYT - Anadolu Ajans\u0131 Trump company received $2M from South",
-      "company": "Nyt",
-      "ticker": "NYT",
-      "price": 75.04,
-      "change": 0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnVvX0xEdkYtdUVfdkVtZXRZS2dPLTRLQ3lvUzJELXpLU2ZKdUJkdVBGWkVBb0d6a1l1aXljbmJsZzR5bFRBQ0c3MzRWUGs1UDJyXzEtT0hiZEpNQ1Q1VkRRYUJzUG9SazF5RVBYb0N1ZzNTT0JnblNBWW9xVC1ITm5Cc2dYSjIxQ1p5YmJCYlREcEEwQXJNdHFja3k3OVJsZURrS1o3MVRIQ0E4M201WDA2TC1VNHE4TE1R?oc=5",
-      "image": null,
-      "headline": "Trump company received $2M from South Korean firm tied to US trade dispute: NYT - Anadolu Ajans\u0131",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-15",
-          "c": 73.57
-        },
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        }
-      ]
     }
   ]
 }
