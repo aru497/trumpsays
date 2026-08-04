@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-08-04T12:52:20.669187+00:00",
+  "updated_at": "2026-08-04T15:14:57.195419+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f468a93e11fe70db",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T14:05:00+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Trump says Exxon, Chevron are 'making too much money' during Iran war - USA",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 152.72,
+      "change": -1.51,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdyM3AwNTVFeDR4REtkRTJoZzFyVUJOOFVwa1VKSHZJeFM3Zmd0Vi1JZlZZa0gzSE4wLTVoajdkdjJZNTIxWlJUQl9VdG1tZjBsZGtjVm8xM2tlMzN6Z1Yzc0tHT243cjdZOWxIVXZyRTJFMFlNbjNCdV9BUXdqUWVVX2p6SUhobWJHbXU1d1E3NjBjTUFtWXkxT1NjTVYwcnNsNkpnZTlBcHA2LS1FdzBhX194eTRDNlJz?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon, Chevron are 'making too much money' during Iran war - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        },
+        {
+          "d": "08-04",
+          "c": 152.72
+        }
+      ]
+    },
+    {
+      "id": "27dbb3eff5c9d937",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T14:05:00+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Trump says Exxon, Chevron are 'making too much money' during Iran war - USA Today",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 190.59,
+      "change": -1.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdyM3AwNTVFeDR4REtkRTJoZzFyVUJOOFVwa1VKSHZJeFM3Zmd0Vi1JZlZZa0gzSE4wLTVoajdkdjJZNTIxWlJUQl9VdG1tZjBsZGtjVm8xM2tlMzN6Z1Yzc0tHT243cjdZOWxIVXZyRTJFMFlNbjNCdV9BUXdqUWVVX2p6SUhobWJHbXU1d1E3NjBjTUFtWXkxT1NjTVYwcnNsNkpnZTlBcHA2LS1FdzBhX194eTRDNlJz?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon, Chevron are 'making too much money' during Iran war - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        },
+        {
+          "d": "08-04",
+          "c": 190.59
+        }
+      ]
+    },
+    {
+      "id": "49e1a42715d3cc52",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T12:30:16+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "ABC7 Los Angeles",
+      "type": "news",
+      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC7 Los Angeles Trump says",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 152.72,
+      "change": -1.51,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3dzMnl3Wm5RSEZmMHdVUmMzQnZ5M0dYdDJXQ3dFQ3NVMTJmY185emU1cVp0eWdIOUZUTEk5T1hoN1FjYzluck9DN2xFUVQ0NzlnUkxWUmJQMzlwV2RhOUo3LXMtRG9JYWtJQkFabTE3allpZU5TZk1BbDJxLXBPVnY0QjNhemFaci1CU3hfZUl6Z3JscHI0RVFaTmdVRFFucF9wNXlDVDRTRlZNTHNVTVdFLWwzQXNqSFlr?oc=5",
+      "image": null,
+      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC7 Los Angeles",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        },
+        {
+          "d": "08-04",
+          "c": 152.72
+        }
+      ]
+    },
+    {
+      "id": "fa380daedd725772",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T12:30:16+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "ABC7 Los Angeles",
+      "type": "news",
+      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC7 Los Angeles",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 190.59,
+      "change": -1.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3dzMnl3Wm5RSEZmMHdVUmMzQnZ5M0dYdDJXQ3dFQ3NVMTJmY185emU1cVp0eWdIOUZUTEk5T1hoN1FjYzluck9DN2xFUVQ0NzlnUkxWUmJQMzlwV2RhOUo3LXMtRG9JYWtJQkFabTE3allpZU5TZk1BbDJxLXBPVnY0QjNhemFaci1CU3hfZUl6Z3JscHI0RVFaTmdVRFFucF9wNXlDVDRTRlZNTHNVTVdFLWwzQXNqSFlr?oc=5",
+      "image": null,
+      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC7 Los Angeles",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        },
+        {
+          "d": "08-04",
+          "c": 190.59
+        }
+      ]
+    },
+    {
+      "id": "c72c335b6353a958",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T11:17:36+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Chuck Schumer Calls Trump 'The Most Corrupt President' Over Truth Social's $100,000-a-Month Early-Access - Benzinga Chuck Schumer",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 10.04,
+      "change": 0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjNBcHBnWFRzYmJ5aUNlYUIxY0Y4aV81dHA2WVdfZlFQbnRlXzZUdFpSc2ZQRDI4NlltUUVZWVJwano0Nl90X01TR1lZOF9qbEdmaVdhamtWZC01aWVKajAyak16M0lYRG4yU1VEam9xaUxTdVlOOE9wQ3BPNTNrYmRIU3ZlTjlsVkZ3VkFxQnRRMjFJc3Z2ZTZtSVF1VmxsRzk5WVdDV1lDdmxfNmRVajd6V3RaWDA?oc=5",
+      "image": null,
+      "headline": "Chuck Schumer Calls Trump 'The Most Corrupt President' Over Truth Social's $100,000-a-Month Early-Access - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 8.66
+        },
+        {
+          "d": "07-07",
+          "c": 8.13
+        },
+        {
+          "d": "07-08",
+          "c": 8.49
+        },
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.04
+        }
+      ]
+    },
     {
       "id": "fac50ecd21ed80c9",
       "date": "Tue, 04 Aug 2026",
@@ -39360,409 +39900,6 @@
         {
           "d": "07-14",
           "c": 983.12
-        }
-      ]
-    },
-    {
-      "id": "84dd8ccdbf6f2eb6",
-      "date": "Mon, 13 Jul 2026",
-      "ts": "2026-07-13T22:20:27+00:00",
-      "date_display": "Jul 13, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Iran Has Resumed as He Orders Blockade and Tolls - The New York Times Trump Says Fighting With Iran Has Resumed as He Orders",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 75.04,
-      "change": 0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VN19EUFA3b25qUWJwN29EOEkwM216d0VFNXZITl9YdWJNZ3F5YkxyTEZiWjZfYnBRSUFiZGtHaVAyd2laWl8xRFJqem9lLXIzWlNpc1loOXdtcWxvYy1lYmVJS251YnlZdml2UGVtY0tRT0FkN19id3REZXg?oc=5",
-      "image": null,
-      "headline": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-15",
-          "c": 73.57
-        },
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        }
-      ]
-    },
-    {
-      "id": "8ba54d6a5aa12102",
-      "date": "Mon, 13 Jul 2026",
-      "ts": "2026-07-13T20:45:57+00:00",
-      "date_display": "Jul 13, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "12 states challenge Paramount's takeover of Warner, say merger would 'extinguish",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26194587546880-1024x683.jpg",
-      "headline": "12 states challenge Paramount's takeover of Warner, say merger would 'extinguish competition'",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "c7af539f7011bece",
-      "date": "Mon, 13 Jul 2026",
-      "ts": "2026-07-13T20:31:53+00:00",
-      "date_display": "Jul 13, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump touted Palantir on Truth Social after buying the company's stock, records",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 130.04,
-      "change": 2.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUURfNWp2OWZpMGxlMXBYSHo1Mktmc0hOTFdpM2dNVU1QTUFWdjRtaXJzMGM5RlY1SE9nRVZqMGxCNEphZENtOEFXWWdqeGp1b05PSlRFMkFabXhpeUVsd2txQU1IMlpHODFOblhZOTUtd3NQeTUwR2JlMFFqOW4zLUZodlZFM1gzZ0FSVW9vYUU2czJSMmFsRlF1VFI4cmlkbUFla2hOTlIwbVNRZlVBcHpOSEI5clVoY2NscjdfbnhxZVNfN2wwaWlLX3VqX05raXp6RlR3RFJ2dkRmQUk3MXFzdFdodEZjMVBXdHlZbTV0N2o5NTg4dG14V25YY2xLeTg5Ui1xQ3QyMlpi?oc=5",
-      "image": null,
-      "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-15",
-          "c": 134.71
-        },
-        {
-          "d": "06-16",
-          "c": 133.25
-        },
-        {
-          "d": "06-17",
-          "c": 130.63
-        },
-        {
-          "d": "06-18",
-          "c": 128.47
-        },
-        {
-          "d": "06-22",
-          "c": 119.5
-        },
-        {
-          "d": "06-23",
-          "c": 116.7
-        },
-        {
-          "d": "06-24",
-          "c": 113.5
-        },
-        {
-          "d": "06-25",
-          "c": 107.27
-        },
-        {
-          "d": "06-26",
-          "c": 112.93
-        },
-        {
-          "d": "06-29",
-          "c": 115.7
-        },
-        {
-          "d": "06-30",
-          "c": 116.67
-        },
-        {
-          "d": "07-01",
-          "c": 125.73
-        },
-        {
-          "d": "07-02",
-          "c": 129.3
-        },
-        {
-          "d": "07-06",
-          "c": 132.54
-        },
-        {
-          "d": "07-07",
-          "c": 134.37
-        },
-        {
-          "d": "07-08",
-          "c": 132.22
-        },
-        {
-          "d": "07-09",
-          "c": 129.04
-        },
-        {
-          "d": "07-10",
-          "c": 126.79
-        },
-        {
-          "d": "07-13",
-          "c": 130.04
-        }
-      ]
-    },
-    {
-      "id": "4609f081e69eeb2d",
-      "date": "Mon, 13 Jul 2026",
-      "ts": "2026-07-13T20:31:53+00:00",
-      "date_display": "Jul 13, 2026",
-      "source": "MSN",
-      "type": "news",
-      "quote": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN Trump",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.52,
-      "change": -0.23,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUURfNWp2OWZpMGxlMXBYSHo1Mktmc0hOTFdpM2dNVU1QTUFWdjRtaXJzMGM5RlY1SE9nRVZqMGxCNEphZENtOEFXWWdqeGp1b05PSlRFMkFabXhpeUVsd2txQU1IMlpHODFOblhZOTUtd3NQeTUwR2JlMFFqOW4zLUZodlZFM1gzZ0FSVW9vYUU2czJSMmFsRlF1VFI4cmlkbUFla2hOTlIwbVNRZlVBcHpOSEI5clVoY2NscjdfbnhxZVNfN2wwaWlLX3VqX05raXp6RlR3RFJ2dkRmQUk3MXFzdFdodEZjMVBXdHlZbTV0N2o5NTg4dG14V25YY2xLeTg5Ui1xQ3QyMlpi?oc=5",
-      "image": null,
-      "headline": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-15",
-          "c": 8.44
-        },
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        }
-      ]
-    },
-    {
-      "id": "9722ba565fcf431e",
-      "date": "Mon, 13 Jul 2026",
-      "ts": "2026-07-13T19:52:22+00:00",
-      "date_display": "Jul 13, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "was driving in circles in an intersection in Biddeford, southwest of Portland.",
-      "company": "Southwest",
-      "ticker": "LUV",
-      "price": 47.92,
-      "change": -1.05,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-13T160758Z_599309357_RC23DMAZK9FY_RTRMADP_3_USA-MIGRATION-MAINE-SHOOTING-1024x683.jpg",
-      "headline": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-15",
-          "c": 46.08
-        },
-        {
-          "d": "06-16",
-          "c": 47.43
-        },
-        {
-          "d": "06-17",
-          "c": 46.66
-        },
-        {
-          "d": "06-18",
-          "c": 47.97
-        },
-        {
-          "d": "06-22",
-          "c": 48.57
-        },
-        {
-          "d": "06-23",
-          "c": 49.41
-        },
-        {
-          "d": "06-24",
-          "c": 50.94
-        },
-        {
-          "d": "06-25",
-          "c": 52.09
-        },
-        {
-          "d": "06-26",
-          "c": 51.91
-        },
-        {
-          "d": "06-29",
-          "c": 51.6
-        },
-        {
-          "d": "06-30",
-          "c": 51.42
-        },
-        {
-          "d": "07-01",
-          "c": 50.47
-        },
-        {
-          "d": "07-02",
-          "c": 50.25
-        },
-        {
-          "d": "07-06",
-          "c": 50.81
-        },
-        {
-          "d": "07-07",
-          "c": 49.43
-        },
-        {
-          "d": "07-08",
-          "c": 48.66
-        },
-        {
-          "d": "07-09",
-          "c": 49.22
-        },
-        {
-          "d": "07-10",
-          "c": 48.43
-        },
-        {
-          "d": "07-13",
-          "c": 47.92
         }
       ]
     }
