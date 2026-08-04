@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-08-04T20:47:57.692577+00:00",
+  "updated_at": "2026-08-04T22:02:22.549493+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0c87bb4c2b69fa23",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T21:05:27+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Trump administration revokes visa of Brazil's ambassador to US in escalation of spat with",
+      "company": "Visa",
+      "ticker": "V",
+      "price": 369.59,
+      "change": 1.07,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/world/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-escalation-of-spat-with-lula",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-07T191858Z_2133990112_RC2J4LAF223T_RTRMADP_3_USA-TRUMP-BRAZIL-1024x683.jpg",
+      "headline": "Trump administration revokes visa of Brazil's ambassador to US in escalation of spat with Lula",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 357.25
+        },
+        {
+          "d": "07-07",
+          "c": 352.2
+        },
+        {
+          "d": "07-08",
+          "c": 347.53
+        },
+        {
+          "d": "07-09",
+          "c": 348.2
+        },
+        {
+          "d": "07-10",
+          "c": 348.97
+        },
+        {
+          "d": "07-13",
+          "c": 357.75
+        },
+        {
+          "d": "07-14",
+          "c": 356.02
+        },
+        {
+          "d": "07-15",
+          "c": 355.14
+        },
+        {
+          "d": "07-16",
+          "c": 365.14
+        },
+        {
+          "d": "07-17",
+          "c": 358.56
+        },
+        {
+          "d": "07-20",
+          "c": 360.57
+        },
+        {
+          "d": "07-21",
+          "c": 355.82
+        },
+        {
+          "d": "07-22",
+          "c": 353.42
+        },
+        {
+          "d": "07-23",
+          "c": 351.6
+        },
+        {
+          "d": "07-24",
+          "c": 355.74
+        },
+        {
+          "d": "07-27",
+          "c": 362.53
+        },
+        {
+          "d": "07-28",
+          "c": 366.59
+        },
+        {
+          "d": "07-29",
+          "c": 368.73
+        },
+        {
+          "d": "07-30",
+          "c": 366.27
+        },
+        {
+          "d": "07-31",
+          "c": 366.13
+        },
+        {
+          "d": "08-03",
+          "c": 365.67
+        },
+        {
+          "d": "08-04",
+          "c": 369.59
+        }
+      ]
+    },
+    {
+      "id": "b5ca4b8b60159fb6",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T21:01:32+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "Institute on Taxation and Economic Policy",
+      "type": "news",
+      "quote": "Trump Says Exxon and Chevron Are Ripping Off Americans, But His Own",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 153.96,
+      "change": -0.71,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjFPajJ1T0VCeG9Db0t4SEs0Y2VVT2Zncnprblp2ZHZFVV9qSGVnUTJaNVB2SEVKaUZINnJoSHd5eWRnclB3R1ZrU2hQQmtsNENVZjVXT0NGVmxQVTZDb0ZqbGRUTkE0OHZUcU5DZ18wdXQ0dGJjTUF2eVB6eHl0VXJuQ21UTXRqdHVndFZWSEhpcDJHSDdKaXJJdU42cVV0RDhUbEJJY2Rodw?oc=5",
+      "image": null,
+      "headline": "Trump Says Exxon and Chevron Are Ripping Off Americans, But His Own Policies Are to Blame - Institute on Taxation and Economic Policy",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        },
+        {
+          "d": "08-04",
+          "c": 153.96
+        }
+      ]
+    },
+    {
+      "id": "3d44e90ea61ba104",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T21:01:32+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "Institute on Taxation and Economic Policy",
+      "type": "news",
+      "quote": "Trump Says Exxon and Chevron Are Ripping Off Americans, But His Own Policies Are to",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 190.4,
+      "change": -1.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjFPajJ1T0VCeG9Db0t4SEs0Y2VVT2Zncnprblp2ZHZFVV9qSGVnUTJaNVB2SEVKaUZINnJoSHd5eWRnclB3R1ZrU2hQQmtsNENVZjVXT0NGVmxQVTZDb0ZqbGRUTkE0OHZUcU5DZ18wdXQ0dGJjTUF2eVB6eHl0VXJuQ21UTXRqdHVndFZWSEhpcDJHSDdKaXJJdU42cVV0RDhUbEJJY2Rodw?oc=5",
+      "image": null,
+      "headline": "Trump Says Exxon and Chevron Are Ripping Off Americans, But His Own Policies Are to Blame - Institute on Taxation and Economic Policy",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        },
+        {
+          "d": "08-04",
+          "c": 190.4
+        }
+      ]
+    },
+    {
+      "id": "367a448c3cbe14e2",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T20:50:38+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "type": "news",
+      "quote": "Trump says Exxon and Chevron are 'making too much money' on high oil prices",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 153.96,
+      "change": -0.71,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFRUVjl5ajd4OVl6VUNwa0tuZXdfeWR0R0tEVmVSbDI5TlRFMG1KNjRTaTdBTm9HOFg1QzNTSUdvMFFQWi1RcjNQRnM4Tk5ZZXhRak1XSXZSdmw1ZlRWUFdxajZfWXBBRjAxOGR4dllQZU0tODBUa2JMTDFmaWNLQXd1cVp2WGw2cFdVMTJVUHJtTE1nbjFSbnJlZVrSAaIBQVVfeXFMTXZ0NTR1MjlwZGtGblRIdi1HaHpyenlhRUszNFJPS2xuN2pyVWNuc2ZCSkpRb3RBd0h4cFRONGlwd0UtMDdqUGZLNzNlSWdnNnZZZ0hGXzVlNmIwUjhLVXlXbnFQakp3WnN0Tll3MjFNX2M3UTl1UV9hd2hLeTR3c0N1aEpMMVh3QUNtTU1sRWNfbXd1WmRhaXhyTkwzNkhRbFp3?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon and Chevron are 'making too much money' on high oil prices amid Iran war - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 136.44
+        },
+        {
+          "d": "07-07",
+          "c": 141.69
+        },
+        {
+          "d": "07-08",
+          "c": 141.13
+        },
+        {
+          "d": "07-09",
+          "c": 137.46
+        },
+        {
+          "d": "07-10",
+          "c": 138.88
+        },
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        },
+        {
+          "d": "08-04",
+          "c": 153.96
+        }
+      ]
+    },
+    {
+      "id": "80d3fc710cc06d39",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T20:50:38+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "type": "news",
+      "quote": "Trump says Exxon and Chevron are 'making too much money' on high oil prices amid Iran",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 190.4,
+      "change": -1.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFRUVjl5ajd4OVl6VUNwa0tuZXdfeWR0R0tEVmVSbDI5TlRFMG1KNjRTaTdBTm9HOFg1QzNTSUdvMFFQWi1RcjNQRnM4Tk5ZZXhRak1XSXZSdmw1ZlRWUFdxajZfWXBBRjAxOGR4dllQZU0tODBUa2JMTDFmaWNLQXd1cVp2WGw2cFdVMTJVUHJtTE1nbjFSbnJlZVrSAaIBQVVfeXFMTXZ0NTR1MjlwZGtGblRIdi1HaHpyenlhRUszNFJPS2xuN2pyVWNuc2ZCSkpRb3RBd0h4cFRONGlwd0UtMDdqUGZLNzNlSWdnNnZZZ0hGXzVlNmIwUjhLVXlXbnFQakp3WnN0Tll3MjFNX2M3UTl1UV9hd2hLeTR3c0N1aEpMMVh3QUNtTU1sRWNfbXd1WmRhaXhyTkwzNkhRbFp3?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon and Chevron are 'making too much money' on high oil prices amid Iran war - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 168.1
+        },
+        {
+          "d": "07-07",
+          "c": 174.01
+        },
+        {
+          "d": "07-08",
+          "c": 175.97
+        },
+        {
+          "d": "07-09",
+          "c": 174.05
+        },
+        {
+          "d": "07-10",
+          "c": 176.4
+        },
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        },
+        {
+          "d": "08-04",
+          "c": 190.4
+        }
+      ]
+    },
     {
       "id": "85c1e81c7e971829",
       "date": "Tue, 04 Aug 2026",
@@ -234,6 +774,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckdTYURvN2dDYWtUb1JzY3QySks2SEQ4VkRnTnhQM1VXTEEwOG40dFhEU3NDWWdGSW9CZ3hKdlk4QW44cFlJNHlxNkZnYVFocTg5X0w3NXBVa2FiRlhGM1dMUi1mUXdaZUV1SzdYb2Jxbk8tempFZGVrMjN0OThMRFltdG8xWkZncldOQkxmMFhjdG02elBJNGZ3SVRGQ094bFotSUV3?oc=5",
       "image": null,
       "headline": "Why Capital One says it really closed more than 300 of Trump\u2019s accounts - Fast Company",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 206.5
+        },
+        {
+          "d": "07-07",
+          "c": 202.89
+        },
+        {
+          "d": "07-08",
+          "c": 191.95
+        },
+        {
+          "d": "07-09",
+          "c": 200.1
+        },
+        {
+          "d": "07-10",
+          "c": 201.52
+        },
+        {
+          "d": "07-13",
+          "c": 203.02
+        },
+        {
+          "d": "07-14",
+          "c": 205.29
+        },
+        {
+          "d": "07-15",
+          "c": 208.89
+        },
+        {
+          "d": "07-16",
+          "c": 211.93
+        },
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 217.68
+        },
+        {
+          "d": "08-04",
+          "c": 221.91
+        }
+      ]
+    },
+    {
+      "id": "21b9be8bcce959cd",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T18:52:36+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "fastcompany.com",
+      "type": "news",
+      "quote": "Why Capital One says it really closed more than 300 of Trump\u2019s accounts -",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 221.91,
+      "change": 1.94,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckdTYURvN2dDYWtUb1JzY3QySks2SEQ4VkRnTnhQM1VXTEEwOG40dFhEU3NDWWdGSW9CZ3hKdlk4QW44cFlJNHlxNkZnYVFocTg5X0w3NXBVa2FiRlhGM1dMUi1mUXdaZUV1SzdYb2Jxbk8tempFZGVrMjN0OThMRFltdG8xWkZncldOQkxmMFhjdG02elBJNGZ3SVRGQ094bFotSUV3?oc=5",
+      "image": null,
+      "headline": "Why Capital One says it really closed more than 300 of Trump\u2019s accounts - fastcompany.com",
       "channel": "News",
       "series": [
         {
@@ -1919,6 +2567,114 @@
         {
           "d": "07-31",
           "c": 74.89
+        }
+      ]
+    },
+    {
+      "id": "b0d5aa8b41bb5b81",
+      "date": "Tue, 04 Aug 2026",
+      "ts": "2026-08-04T08:40:31+00:00",
+      "date_display": "Aug 04, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "it's missing key chapter NPR's A Mart\u00ednez\u00a0speaks with the New York Times' Shane Goldmacher about his report that the author of a",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 75.61,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says",
+      "image": null,
+      "headline": "Author of DNC report on 2024 election says it's missing key chapter",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-06",
+          "c": 73.04
+        },
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
         }
       ]
     },
@@ -39622,560 +40378,6 @@
           "c": 9.85
         }
       ]
-    },
-    {
-      "id": "24ab7dab035967e5",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T07:00:00+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "finance.yahoo.com",
-      "type": "news",
-      "quote": "Trump plans to sell priority access to Truth Social posts to Wall Street - finance.yahoo.com Trump plans to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.85,
-      "change": -0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSlRyZG1STXlJMHc2NEpLeTdJT2stMlVxeWRMUEJ2REJQSUNyNV9acWtua3E5M0hVTXlTU2JOUE11S05kOEFMb2tmWnZ1aXdiTFRnS0pPUERHUldPa2tXaXBQNUNHM1plZk9rM3JYelYzclV3Mm45d29xMUFxdFFfRXZjcnRlRG9LX29GVGpXSGdZLWQwc1kyWmpUZkR2UQ?oc=5",
-      "image": null,
-      "headline": "Trump plans to sell priority access to Truth Social posts to Wall Street - finance.yahoo.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        }
-      ]
-    },
-    {
-      "id": "ff9b85349046e93d",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T07:00:00+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "axios.com",
-      "type": "news",
-      "quote": "Exclusive: Truth Social to license its data to Wall Street - axios.com Exclusive:",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vYU5NYVgtSzloWkctT09pVGF6bGV3X2xJUUJWVjhyZ0hsUVF0WnhUSG5jTFplYU9PYU5WNlRsQXdTY05hN043aVJ5d3NyWkhoUEpnMlFUWHM2TXpyS3BiTXpMQmNyNTVtOG1ObndnNTRfZzJFa0ZONmpB?oc=5",
-      "image": null,
-      "headline": "Exclusive: Truth Social to license its data to Wall Street - axios.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "c418ddaeb402aa47",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T01:05:51+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "Finimize",
-      "type": "news",
-      "quote": "Trump Media Turns Truth Social Posts Into A Paid Data Feed - Finimize",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.28,
-      "change": -3.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWpZWlN3OFVaMDMwZWVSV3NLMkpma0VXYnVLS1Bla19jNmY0NDEweGdjU3VyMm1Uckd4dFRUMWRRV29FN3o2SGlwcWFlQTdGcGcwV0tLeUdiSEhQenU5MHZhQWpNZzhydmYzTy0xZ0RJRHczUGNkYnNEeEgtSzJVbWdkTGRtMUQxUUlYLU96ZUk?oc=5",
-      "image": null,
-      "headline": "Trump Media Turns Truth Social Posts Into A Paid Data Feed - Finimize",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.28
-        }
-      ]
-    },
-    {
-      "id": "33fc453934403ecd",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T00:30:00+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "Deadline",
-      "type": "news",
-      "quote": "Paramount Calls Shareholder Suit Vs Ellisons, Board Recycled",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcS1uUTBqYzhaaVhVZndwRkY2X2dPZTg2V2loeFI2S2V0MlVYaUh4R0pPVFM0VWYxV184R1Uzc1p1U1kwd3E5NHduSjVoMjhGZ1JWSG81ZkZrWGVuaHlxMlJVMVBZbElRbFpCZk14dVQ5ZUVYdWdtTmczSFkyZExsMEluNDBUZUUyMjNQaU13OVZjcTVNU01IeGxHaw?oc=5",
-      "image": null,
-      "headline": "Paramount Calls Shareholder Suit Vs Ellisons, Board Recycled Allegations, Says No Commitments Made On News Coverage While Pursuing WBD - Deadline",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "4f5801159ebe4740",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T22:49:00+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "military as Iran's IRGC loses 90% of weapons capability - Fox Business Trump says US rebuilding military as Iran's IRGC",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 50.39,
-      "change": 1.8,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2Zwd3JKTXFObUVwU1M1N0JqWkFPZ0wydmpsamp3MDRTNXdWVTBDZ0dQS0FwcjNlUjdLTGk3RGVzS1ZTN0t5OUdDSnBlS2Y2QlJfR0pIQlRwWW9wVW1kdy1mc1RDY25TZ05wNWtvd3V5TWVHRURDVFZZeTJJV1NBM1pUU3dac3dzQjhaclZxUHdLbWsycXFHN00wRTZod2wyTFkxNS1DRWpWY3NOeGh2dEJB0gG3AUFVX3lxTE1aUm04akZGY0tCYnA5Vk9LRGY3cFFjTGxqemE3TC1ENDktTVQxUXN3eEpTUXBQeF9UdnVQTllSa19lVHZualB0N1E4YlRqRnJYMldmUy1wS1V6QVRRLXJkVnlnUl92ZkNJNG1qbVVtQV9pRkxJQVZ4UmRyMkNWblZiVHY1Q1F4NzRSOFJONnJQaDN6cjFrb2lvS1BRQUdIYXhVMER0akZIeVBOVGpUa3VuSlVFSTlHVQ?oc=5",
-      "image": null,
-      "headline": "Trump says US rebuilding military as Iran's IRGC loses 90% of weapons capability - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 47.95
-        },
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        }
-      ]
-    },
-    {
-      "id": "eedcbe11879ea7e2",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T22:40:19+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 75.22,
-      "change": 3.07,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/freedompress-1024x683.jpg",
-      "headline": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 73.6
-        },
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        }
-      ]
-    },
-    {
-      "id": "d73c91d737f856ea",
-      "date": "Wed, 15 Jul 2026",
-      "ts": "2026-07-15T22:34:00+00:00",
-      "date_display": "Jul 15, 2026",
-      "source": "Deadline",
-      "type": "news",
-      "quote": "Paramount Shareholder Sues Ellisons, Board For Alleged Side Deal,",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcS1uUTBqYzhaaVhVZndwRkY2X2dPZTg2V2loeFI2S2V0MlVYaUh4R0pPVFM0VWYxV184R1Uzc1p1U1kwd3E5NHduSjVoMjhGZ1JWSG81ZkZrWGVuaHlxMlJVMVBZbElRbFpCZk14dVQ5ZUVYdWdtTmczSFkyZExsMEluNDBUZUUyMjNQaU13OVZjcTVNU01IeGxHaw?oc=5",
-      "image": null,
-      "headline": "Paramount Shareholder Sues Ellisons, Board For Alleged Side Deal, Promises To Donald Trump - Deadline",
-      "channel": "News",
-      "series": null
     }
   ]
 }
