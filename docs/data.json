@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-05T17:17:21.075889+00:00",
+  "updated_at": "2026-08-05T18:58:49.247515+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1620566bdfe76bdc",
+      "date": "Wed, 05 Aug 2026",
+      "ts": "2026-08-05T17:41:17+00:00",
+      "date_display": "Aug 05, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "$2.2 billion during the first year of his second term New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 64.24,
+      "change": -15.04,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+      "image": null,
+      "headline": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-07",
+          "c": 73.49
+        },
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 64.24
+        }
+      ]
+    },
+    {
+      "id": "c76fa8e345a7bc15",
+      "date": "Wed, 05 Aug 2026",
+      "ts": "2026-08-05T17:14:46+00:00",
+      "date_display": "Aug 05, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "case against Oath Keepers militia group over Jan. 6 riot A judge has granted the Justice Department's bid to drop a",
+      "company": "Riot",
+      "ticker": "RIOT",
+      "price": 21.94,
+      "change": 1.76,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "image": null,
+      "headline": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-07",
+          "c": 21.17
+        },
+        {
+          "d": "07-08",
+          "c": 21.09
+        },
+        {
+          "d": "07-09",
+          "c": 21.51
+        },
+        {
+          "d": "07-10",
+          "c": 20.97
+        },
+        {
+          "d": "07-13",
+          "c": 20.19
+        },
+        {
+          "d": "07-14",
+          "c": 20.19
+        },
+        {
+          "d": "07-15",
+          "c": 20.1
+        },
+        {
+          "d": "07-16",
+          "c": 18.82
+        },
+        {
+          "d": "07-17",
+          "c": 18.26
+        },
+        {
+          "d": "07-20",
+          "c": 19.9
+        },
+        {
+          "d": "07-21",
+          "c": 21.49
+        },
+        {
+          "d": "07-22",
+          "c": 23.38
+        },
+        {
+          "d": "07-23",
+          "c": 23.86
+        },
+        {
+          "d": "07-24",
+          "c": 22.53
+        },
+        {
+          "d": "07-27",
+          "c": 21.97
+        },
+        {
+          "d": "07-28",
+          "c": 21.24
+        },
+        {
+          "d": "07-29",
+          "c": 18.24
+        },
+        {
+          "d": "07-30",
+          "c": 22.12
+        },
+        {
+          "d": "07-31",
+          "c": 20.17
+        },
+        {
+          "d": "08-03",
+          "c": 21.42
+        },
+        {
+          "d": "08-04",
+          "c": 21.56
+        },
+        {
+          "d": "08-05",
+          "c": 21.94
+        }
+      ]
+    },
     {
       "id": "c096d7d686fd8916",
       "date": "Wed, 05 Aug 2026",
@@ -40188,210 +40404,6 @@
         {
           "d": "07-16",
           "c": 9.6
-        }
-      ]
-    },
-    {
-      "id": "9325e4f80693757a",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T12:49:47+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "Axios",
-      "type": "news",
-      "quote": "Exclusive: Truth Social to license its data to Wall Street - Axios Exclusive:",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.25,
-      "change": -3.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vYU5NYVgtSzloWkctT09pVGF6bGV3X2xJUUJWVjhyZ0hsUVF0WnhUSG5jTFplYU9PYU5WNlRsQXdTY05hN043aVJ5d3NyWkhoUEpnMlFUWHM2TXpyS3BiTXpMQmNyNTVtOG1ObndnNTRfZzJFa0ZONmpB?oc=5",
-      "image": null,
-      "headline": "Exclusive: Truth Social to license its data to Wall Street - Axios",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.25
-        }
-      ]
-    },
-    {
-      "id": "53779d9b28269816",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T10:00:25+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "CNN",
-      "type": "news",
-      "quote": "Trump promoted companies on Truth Social days after buying their stocks - CNN Trump promoted",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.57,
-      "change": 5.98,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWFFXdnV0eVdtRnZwU3gyV1RFUktJd0dFSFRremZ5S3R3dWJtWmpENzd2QmZ0WFBlU0UtVXlUTWE0REI5R0pRd1BjenRDU28wak9YY0wyU0lPX09fUlRTV0xSRHM2b0VYZDA5bm9xQ19mSTNISUQtNUlDODRSZw?oc=5",
-      "image": null,
-      "headline": "Trump promoted companies on Truth Social days after buying their stocks - CNN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
         }
       ]
     }
