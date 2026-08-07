@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-07T20:27:27.113145+00:00",
+  "updated_at": "2026-08-07T21:08:03.962061+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0eb698054ca7c24a",
+      "date": "Fri, 07 Aug 2026",
+      "ts": "2026-08-07T20:47:15+00:00",
+      "date_display": "Aug 07, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "to lead the Transportation Security Administration, David Cummins, and his choice for ambassador to Brazil, Daniel Perez.",
+      "company": "Cummins",
+      "ticker": "CMI",
+      "price": 644.26,
+      "change": 0.04,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/senate-confirms-cameron-hamilton-to-lead-fema-and-clears-73-other-trump-nominees",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/AP26107032216882-1024x683.jpg",
+      "headline": "Senate confirms Cameron Hamilton to lead FEMA and clears 73 other Trump nominees",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-09",
+          "c": 673.39
+        },
+        {
+          "d": "07-10",
+          "c": 675.95
+        },
+        {
+          "d": "07-13",
+          "c": 664.39
+        },
+        {
+          "d": "07-14",
+          "c": 675.54
+        },
+        {
+          "d": "07-15",
+          "c": 666.13
+        },
+        {
+          "d": "07-16",
+          "c": 647.83
+        },
+        {
+          "d": "07-17",
+          "c": 648.48
+        },
+        {
+          "d": "07-20",
+          "c": 639.43
+        },
+        {
+          "d": "07-21",
+          "c": 660.45
+        },
+        {
+          "d": "07-22",
+          "c": 660.75
+        },
+        {
+          "d": "07-23",
+          "c": 665.03
+        },
+        {
+          "d": "07-24",
+          "c": 664.65
+        },
+        {
+          "d": "07-27",
+          "c": 661.84
+        },
+        {
+          "d": "07-28",
+          "c": 641.6
+        },
+        {
+          "d": "07-29",
+          "c": 606.0
+        },
+        {
+          "d": "07-30",
+          "c": 632.98
+        },
+        {
+          "d": "07-31",
+          "c": 634.2
+        },
+        {
+          "d": "08-03",
+          "c": 648.85
+        },
+        {
+          "d": "08-04",
+          "c": 635.96
+        },
+        {
+          "d": "08-05",
+          "c": 650.25
+        },
+        {
+          "d": "08-06",
+          "c": 643.98
+        },
+        {
+          "d": "08-07",
+          "c": 644.26
+        }
+      ]
+    },
+    {
+      "id": "61c14bc5df4a9ca2",
+      "date": "Fri, 07 Aug 2026",
+      "ts": "2026-08-07T20:22:00+00:00",
+      "date_display": "Aug 07, 2026",
+      "source": "BeInCrypto",
+      "type": "news",
+      "quote": "Trump Media Pulls Back From Crypto Deals Under Interim CEO McGurn -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.21,
+      "change": 3.24,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTlZwMTA0dmZKUzZ6bDZNcW14OC1QdWd1UUJjSnlkOGdmNTR3aDRUdU5pN1d4WkFISDNKZDlXdEVtMzlzekFJVEJDaWczYVJEV1RVSGpMUHYtM200Y3ZBTzlUSEYyOGJESjVnY0lhRFpwTU9fRHBZ?oc=5",
+      "image": null,
+      "headline": "Trump Media Pulls Back From Crypto Deals Under Interim CEO McGurn - BeInCrypto",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        }
+      ]
+    },
     {
       "id": "8fa27f9f78f7f44f",
       "date": "Fri, 07 Aug 2026",
@@ -40268,214 +40484,6 @@
         {
           "d": "07-16",
           "c": 9.44
-        }
-      ]
-    },
-    {
-      "id": "68e041b38b77bf6e",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T15:40:00+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "The Straits Times",
-      "type": "news",
-      "quote": "Trump Media to license Truth Social data to financial services firms -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.35,
-      "change": -2.3,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUl9rc2JQTFNSQmJHWXIySW04cDZseFlKYkUwV1l3N2pZdWg4dmNydGpCNDNIM0RjTUV1WHM2S19LdHVGRTFQcGl4RlptNnhadjctdGFfYjk3eThoRDBmYklYei1RUFVoMnhrUlFodXdvRGN6RThreENHTUFMc09XRE1DcUtsSGdjQ3RVa29KTUFtR0tzUXhuMFdRZV9ZQldTOExwWUw3anFDdGhKZk16UVplbkdJbnl6?oc=5",
-      "image": null,
-      "headline": "Trump Media to license Truth Social data to financial services firms - The Straits Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.35
-        }
-      ]
-    },
-    {
-      "id": "4c8a99ec3f5c7259",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T15:36:55+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "Wccftech",
-      "type": "news",
-      "quote": "Trump\u2019s \u201cAnti-Establishment\u201d Truth Social Will Now License Real-Time Sentiment From Its Top 10",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.28,
-      "change": -3.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0FVSDB3Q0drVU5jZFBnQVcycjd4WVkzWkhhRThydDVrc2pBT2RvVmNNTy1YaHR4LWJJM3RNU0UzQTVFTy1MY09uNGZIQno3b0pIZGNGVWlKVkRKTS1OcDA1OHlIdlMtSzRlbnNULVM1RURHMUVGMFVnVEpTZF9tQWJXR0hjTW5iR2U5V25JMzhiWS1sTVFWVUNqUWNDM0JSR2pJOVhxMjJMSXBZSi1vemEycDBBb3BUOWlzVEI5R3hYRjR6YVFFUE93a3dTN2lnZkR2RkxveURKekxZcFlnWnpmdDNBOGVIaHfSAe8BQVVfeXFMUFoxT0lwcWF1WEhlMVNfUmRNRkF3bTlsRktiQTI0M3lkZmV3Y1pXRUlXZWZ3ODBKVHNPWnQ3WE42QmZrSVpUUXhPNEhnbnpDZDZuVzY1ZHZiSVE3c2ptSmVFbDZMa0tRTXBWWXV5VnEtQklyQlBEMWRZb3B1OU1MYklGQS1TRWFJRFZEOVFxekticVI3YXYxbnhxOXVoa0hHc3pzbm5Id29UcnJEdHNXSlRESUxlbEZnRlBjeGhoM2NoMUt4NXViZGpfTTU0T0JuQ2VseTdhSDZyekZ5N2JqUEtDaUNzSVJDZXREWDFHQWs?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s \u201cAnti-Establishment\u201d Truth Social Will Now License Real-Time Sentiment From Its Top 10 Accounts To High-Frequency Trading Firms - Wccftech",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.28
         }
       ]
     }
