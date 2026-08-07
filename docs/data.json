@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-06T14:42:28.727411+00:00",
+  "updated_at": "2026-08-07T00:20:53.256981+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8f18692b2179f8ae",
+      "date": "Thu, 06 Aug 2026",
+      "ts": "2026-08-06T22:55:09+00:00",
+      "date_display": "Aug 06, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "discussed the proposed changes with Coral Davenport of The New York Times.",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 64.77,
+      "change": -1.08,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/a-look-at-the-major-changes-head-start-faces-under-trump-proposal",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/headstart-1024x570.jpg",
+      "headline": "A look at the major changes Head Start faces under Trump proposal",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-08",
+          "c": 73.16
+        },
+        {
+          "d": "07-09",
+          "c": 74.3
+        },
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        }
+      ]
+    },
     {
       "id": "1620566bdfe76bdc",
       "date": "Wed, 05 Aug 2026",
@@ -40316,110 +40424,6 @@
         {
           "d": "07-16",
           "c": 9.28
-        }
-      ]
-    },
-    {
-      "id": "4143fd979058abf0",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T14:11:30+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "KELO-AM",
-      "type": "news",
-      "quote": "Trump Media unveils data feed for businesses tracking Truth Social",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.25,
-      "change": -3.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkhaQml5NlI1RnNqeHVoUnh3N3hnSWRtYmlXT0l1QmZQSFVaRnVfUjBsZHhTY25KZ2N0UjU0MkFBbVAyQjl5X3hHY29SYVZyQUFfcHhLR2ozQ2tnUWhXUmJzSjRPS3d4NUNNcUtZVTF3bWFXY3o5amwxZElzZk9YeVM2LVNGWXdTMjd1ME9vN3hTdTRFeGVfd3RmNzIzXzEzMUZn?oc=5",
-      "image": null,
-      "headline": "Trump Media unveils data feed for businesses tracking Truth Social posts - KELO-AM",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.25
         }
       ]
     }
