@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-07T19:42:32.548564+00:00",
+  "updated_at": "2026-08-07T20:27:27.113145+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8fa27f9f78f7f44f",
+      "date": "Fri, 07 Aug 2026",
+      "ts": "2026-08-07T20:07:32+00:00",
+      "date_display": "Aug 07, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Exclusive: Trump Media unwinds crypto deals - Axios Exclusive: Trump Media",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 10.21,
+      "change": 3.24,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CdFBlWm4xQjlWYUNCMG92RkxpelN4TWxKY1A5UExNTDhTeHNTcGF5bmd5TWN5NjlOLWI0ZTVuMVFyajI2c1FZSUZUb0EyUjVFUGpORkZ4MS0zc0x4T0dYR0F3R1c5MDFmUkNaQkpSdnBkVlBf?oc=5",
+      "image": null,
+      "headline": "Exclusive: Trump Media unwinds crypto deals - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-09",
+          "c": 8.55
+        },
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        }
+      ]
+    },
     {
       "id": "6a7d64c468cab70c",
       "date": "Fri, 07 Aug 2026",
@@ -40368,110 +40476,6 @@
         {
           "d": "07-16",
           "c": 9.28
-        }
-      ]
-    },
-    {
-      "id": "5653d3941c0bd1f2",
-      "date": "Thu, 16 Jul 2026",
-      "ts": "2026-07-16T15:36:55+00:00",
-      "date_display": "Jul 16, 2026",
-      "source": "Wccftech",
-      "type": "news",
-      "quote": "Trump's \"Anti-Establishment\" Truth Social Will Now License Real-Time Sentiment From Its Top 10",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.35,
-      "change": -2.3,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0FVSDB3Q0drVU5jZFBnQVcycjd4WVkzWkhhRThydDVrc2pBT2RvVmNNTy1YaHR4LWJJM3RNU0UzQTVFTy1MY09uNGZIQno3b0pIZGNGVWlKVkRKTS1OcDA1OHlIdlMtSzRlbnNULVM1RURHMUVGMFVnVEpTZF9tQWJXR0hjTW5iR2U5V25JMzhiWS1sTVFWVUNqUWNDM0JSR2pJOVhxMjJMSXBZSi1vemEycDBBb3BUOWlzVEI5R3hYRjR6YVFFUE93a3dTN2lnZkR2RkxveURKekxZcFlnWnpmdDNBOGVIaHc?oc=5",
-      "image": null,
-      "headline": "Trump's \"Anti-Establishment\" Truth Social Will Now License Real-Time Sentiment From Its Top 10 Accounts To High-Frequency Trading Firms - Wccftech",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-16",
-          "c": 8.16
-        },
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.35
         }
       ]
     }
