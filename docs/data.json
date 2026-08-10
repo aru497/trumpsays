@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-10T16:22:19.197080+00:00",
+  "updated_at": "2026-08-10T17:15:13.482690+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "82cbdb8dfd009fbc",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T17:12:19+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "MarketBeat",
+      "type": "news",
+      "quote": "Trump Media & Technology Group (NASDAQ:DJT) Stock Price Down 9.1% -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.17,
+      "change": -10.19,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdtQ2o3SHBKV0wzQmg0NUN1bFN1VDcwRXBaaVNEM2hTdzhzZjc2cV9jVldVZ0FEWDN1dkFkMS10aFh1dWJHQl8zMzc1UWl5WmRYX3ZtcEhlQXA0Y2p4c216OGNzMWRzNC15T3dhRW5ZLW04OWt0VTRFQ3dqakRHalVtbDE2b1hhNHFDcVFyQU5IRnJNWVVyQkdmNGhHWXhJZDRDT0RhWnRIWWdVbUJhU0tuTHJEanJqTEpaTENXbm9aQjFTakI4?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group (NASDAQ:DJT) Stock Price Down 9.1% - Should You Sell? - MarketBeat",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.17
+        }
+      ]
+    },
     {
       "id": "4027c84b523dbdf5",
       "date": "Mon, 10 Aug 2026",
@@ -40538,106 +40646,6 @@
         {
           "d": "07-16",
           "c": 51.08
-        }
-      ]
-    },
-    {
-      "id": "01cde3e909149e1a",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T01:15:49+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "qz.com",
-      "type": "news",
-      "quote": "Trump Media is selling Wall Street faster access to Trump's",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zTVZNdWxKNmtoSllud2pKMy1ZWkoxMkZJb0xqTERMR1ctblBtRVp6czJJQi10TnVRUHMwV3poTjFmRllPNXdiblp1QWE0S1JQZlY4dmxER25MUXFsTnhTX29lSnM0bFIwRE9NbER2SUlib0VIajRFRDF3?oc=5",
-      "image": null,
-      "headline": "Trump Media is selling Wall Street faster access to Trump's market-moving posts - qz.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
         }
       ]
     }
