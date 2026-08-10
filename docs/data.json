@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-10T18:10:16.884249+00:00",
+  "updated_at": "2026-08-10T19:27:16.778571+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "31e1837c4a6f605f",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T18:59:53+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "Yahoo News New Zealand",
+      "type": "news",
+      "quote": "Traffic to Trump\u2019s Truth Social suffers double-digit decline over summer as rival sites",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.27,
+      "change": -9.21,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbHdaWG0yS1JRSVltc3ZPeHgtMnVQMlRrcUNhamZpb1lTTk1GaWRGUXJMQzQ4OWcyZVBpSjIxVDllVkhiTWxSSkwwZ3h1cDNEci0wT21RdFFGZGhwXzdielRNamJ6VVZEd2N4dlA0VzBUZzl3WmQ0VnVTTVd4ampaaA?oc=5",
+      "image": null,
+      "headline": "Traffic to Trump\u2019s Truth Social suffers double-digit decline over summer as rival sites see numbers climb - Yahoo News New Zealand",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.27
+        }
+      ]
+    },
+    {
+      "id": "c142f77e29dc4efc",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T18:49:31+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Media Stock Falls Ahead of Q2 Earnings After Mixed First Quarter",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.27,
+      "change": -9.21,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGwwRFlJQjh5d0dSSU1XdUJ4QkF4LVljU21mWjByWlZNVHVkam9mMUZvUXVNZV9VYkdkSC1HMXp1TENHUGo3Wms3RWpVbUQ3NDNvNXBSVUYxZlRxeVRWcjZzTDFyemV0UHJIYmFjaVR2ZjhIWmxhTlpXQ3JjTGhLN28zOTkza2VTdFJWNXlibmFKeVJfRE5ack1VX2ctblV6SjJlVS1RX2VGVEl3RTAxSzFzY0VZbnMwZGR4NXRYOUsyU3UzUTRCSFJVaw?oc=5",
+      "image": null,
+      "headline": "Trump Media Stock Falls Ahead of Q2 Earnings After Mixed First Quarter - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.27
+        }
+      ]
+    },
     {
       "id": "82cbdb8dfd009fbc",
       "date": "Mon, 10 Aug 2026",
@@ -40446,206 +40662,6 @@
         {
           "d": "07-16",
           "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "373d9b55202ce8c9",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T02:02:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Posts Will Hit Wall Street First, Giving a Financial Edge",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmNDRzRrMFlEZzlBQjJOYmtHRFJCcURmM3FxTzBWdFVqbU90c0ZFVy1qdGRsVl9Wei1MZ3IyemhBSVZha2FuMUVyMm1MUUt2YUlPZ2JoMTh4dnJlanh6U0Z3V0JoOWdKRXFUYU4weHFFamw3eGJLNUcwMGlYQWROblhZdm5HTlZRX2VlNGFqSGlldE5HMS1Ncg?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Posts Will Hit Wall Street First, Giving a Financial Edge - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "6203a5d298b07003",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T01:45:26+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "of vulnerabilities in election infrastructure - Fox Business President Trump announces declassification of",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.08,
-      "change": 1.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yY0hlblMwbV94eHpxLXlNY1d3T0s2WWlfYlVyLVdyQWpsckh5RlNnejhaNXVNSVdTU1Y1YU5sWHlqbTdXN3VjMFR3THppcnNreGtkcy1MM0I1Q1U?oc=5",
-      "image": null,
-      "headline": "President Trump announces declassification of vulnerabilities in election infrastructure - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 46.73
-        },
-        {
-          "d": "06-18",
-          "c": 46.95
-        },
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
         }
       ]
     }
