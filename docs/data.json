@@ -1,7 +1,319 @@
 {
-  "updated_at": "2026-08-10T20:06:58.042152+00:00",
+  "updated_at": "2026-08-10T21:08:34.387843+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0b9bc6d8ea70f570",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T20:39:24+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "no secret his desire to use the law enforcement agency to target his political foes.",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 152.02,
+      "change": 1.55,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-08T084348Z_1854152444_RC2GSMATQEDX_RTRMADP_3_USA-JUSTICE-ETHICS-1024x683.jpg",
+      "headline": "Todd Blanche sworn in as attorney general after bruising confirmation battle",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 134.77
+        },
+        {
+          "d": "07-14",
+          "c": 134.0
+        },
+        {
+          "d": "07-15",
+          "c": 138.29
+        },
+        {
+          "d": "07-16",
+          "c": 140.21
+        },
+        {
+          "d": "07-17",
+          "c": 139.6
+        },
+        {
+          "d": "07-20",
+          "c": 139.59
+        },
+        {
+          "d": "07-21",
+          "c": 138.48
+        },
+        {
+          "d": "07-22",
+          "c": 137.92
+        },
+        {
+          "d": "07-23",
+          "c": 134.48
+        },
+        {
+          "d": "07-24",
+          "c": 136.78
+        },
+        {
+          "d": "07-27",
+          "c": 140.34
+        },
+        {
+          "d": "07-28",
+          "c": 144.2
+        },
+        {
+          "d": "07-29",
+          "c": 145.9
+        },
+        {
+          "d": "07-30",
+          "c": 144.51
+        },
+        {
+          "d": "07-31",
+          "c": 144.49
+        },
+        {
+          "d": "08-03",
+          "c": 149.35
+        },
+        {
+          "d": "08-04",
+          "c": 148.11
+        },
+        {
+          "d": "08-05",
+          "c": 147.7
+        },
+        {
+          "d": "08-06",
+          "c": 147.08
+        },
+        {
+          "d": "08-07",
+          "c": 149.7
+        },
+        {
+          "d": "08-10",
+          "c": 152.02
+        }
+      ]
+    },
+    {
+      "id": "e14ad09fce59a7c8",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T20:24:00+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "Variety",
+      "type": "news",
+      "quote": "Trump Media, Operator of Truth Social, Reports Q2 Net Loss of $238.1",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW45RElEb0xqOUJZc2pfci00c0JFZjd2ZUNZcjVJYnR4Tm1WRTljTkJPcHhESVVoTFZQWDFrMlRQT24yZHpadmMzdXp0bEo4dDE5SFFVUTBVSTBKOWg4VURKaG03SmhROXZIS2U0OThjR2tZVzcwZlBqb1pxVnlMdFRUcTNzOWVCNjY0dE5WUmY?oc=5",
+      "image": null,
+      "headline": "Trump Media, Operator of Truth Social, Reports Q2 Net Loss of $238.1 Million and Revenue of $1.7 Million - Variety",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "0931912848ed24e5",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T20:02:57+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "Intellectia AI",
+      "type": "news",
+      "quote": "Trump Media Stock Falls 9.4% Amid Crypto Deal Cancellation -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUJzOHZNcHdzTG0zVlFnNzRjd3hVNXNJZU5hbHpvYkRZNGNNWWVWeEhFcWJJUVc3NHkzV3hBd1E2cXB3cEE2OU9pUFB5b2tGd21yMFJEZnRvMHlpdXcyd3liUlBzRUwzWjNOWE9vUWpqa0ljN1I4eTllbzRVMENycFlZS0k5UWZNbGg3VzNqalVDTFhY?oc=5",
+      "image": null,
+      "headline": "Trump Media Stock Falls 9.4% Amid Crypto Deal Cancellation - Intellectia AI",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
     {
       "id": "9b6920efb9815d49",
       "date": "Mon, 10 Aug 2026",
@@ -40285,310 +40597,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkFQMHNLaHkzVTRnX1kzRmN4MW1qWDQ5akxJQ0RfM1V3Y3FkRDFMcVdXRUxoYlFQdmxhLTdnUmJPVGF1ZTdGMWxGcS12ZmpKQWNjUXJucmJOR09JcDBuWmdnaV9fUUdJVGdVbWdYSDNRRHJ0dXJ4clBuQTdNM2diRWVwM3ZpQmRmRXRUTXF1T2gwTmNJSy1GYkNQdGc3ZHZqZ0JBSjlqQTJudWNndW9WbDVGTVJ3cVludUtTU0c5cFJaaGvSAcgBQVVfeXFMTlFOLTNOMVBuYmVfeUo3MGZaWVJlQzk1Yk5rZEU5NHo3Rjl3U0tfS1h5XzYwSEVRbnFwaW16a2lWa3QzWkt3d3o2Q3ByNFRtOHZQMUdmRHdaN05jcjI3RVNwZ0dJYjRta0tMZTU5SW1SLUR1WGhRUDdmQnhLRTdkWUQwV2RRSWszYl9hcDhIZXhseUhmUkZ4QmxRLXBHS1ltOUZ5NUoya2UzdHQ4RzFibHh0TDRseWFleF83THpkNVRaTXNsTE5OX3o?oc=5",
       "image": null,
       "headline": "Trump Media sells faster access to Trump posts, raising questions over Wall Street advantage - Firstpost",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "b7d407608ef5003b",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T03:37:29+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Business Standard",
-      "type": "news",
-      "quote": "Trump's media firm plans paid high-speed access to Truth Social posts - Business Standard Trump's media firm plans paid",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXM3eDRwdU5idUlMajBoVV9paEJCV0FEbzFaX2lUV183UUs0VlNISllfZkZjMXNsbURfT2Z6a1NIbmU2ZU9INDVIN1I2ak9lTGhaVjJxS1NTUUlDNGFpUDV5dXhOVzRjUjlRVmxaT0hHSkRKcTBlYnhtRG5rbF9wMFVVMTU3ZHJiWGlYNzM0ZVkycUpqZ01QY3VtZEp0MnRadGdYcUYtSWxoQzNBQkQxM0IwWWJaMUNKRngyMF9PZTNBdG4wU1lpMGNsbEs1cG_SAdQBQVVfeXFMUERpRDdHd1dOZ0p0SkZDTUVJNEJoSmVHY1NZY1hOVDRmcHdCTFBsNUZBZjlPTjI3TkhELVpzR0l4SVBNazBBRVNXRkFadm9oNzRkeHZtazFDdHN2aHZ4eWQ2TTV3RTA3Vzk5b2hZSGR4eGE3eFZDc1QzdkRKT2FzdjVMaEZMSnBsd1Qtc2lqZHFtTWpzUEIzdXVQb0g3RG5ENTNUaFViWG5xTjlLM0Rkb0QwNE9ZMVg1Rm10a0dqTmxYakZibWZqbDBoZDl1eURpUFY2ZHo?oc=5",
-      "image": null,
-      "headline": "Trump's media firm plans paid high-speed access to Truth Social posts - Business Standard",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "f27344b6db0bef8f",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T03:13:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump plans to sell priority access to Truth Social posts to Wall Street - Yahoo Finance Trump plans to sell",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.11,
-      "change": -5.4,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSlRyZG1STXlJMHc2NEpLeTdJT2stMlVxeWRMUEJ2REJQSUNyNV9acWtua3E5M0hVTXlTU2JOUE11S05kOEFMb2tmWnZ1aXdiTFRnS0pPUERHUldPa2tXaXBQNUNHM1plZk9rM3JYelYzclV3Mm45d29xMUFxdFFfRXZjcnRlRG9LX29GVGpXSGdZLWQwc1kyWmpUZkR2UQ?oc=5",
-      "image": null,
-      "headline": "Trump plans to sell priority access to Truth Social posts to Wall Street - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.11
-        }
-      ]
-    },
-    {
-      "id": "e3a0e4380f1bf40d",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T02:23:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Media sells Wall Street low-latency access to Trump posts -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzA0OGxvLXBXdXphMkhtalZVTlpJdjRQdVVXcU1mY2lwZjl4WUNaZWMweVk1a05NclJINXQxSm5sZGs0WktGVlZ5V0ZDOFZHZkJnc2NHU3BCWlpSWkN6NUIxTDRRWHZtZ2VTMG5DMkcyeVY5U1lzVUQ4Z3d0b0xHYk9MbEpiMjB6dWl0Q21lb01GYlRHdTY5RExkaWtUZG1XanhiM0piLVV3Q0sxZnpEc1NuTkozUHJGTUdEemxGVjdQcmFqLVE?oc=5",
-      "image": null,
-      "headline": "Trump Media sells Wall Street low-latency access to Trump posts - TradingView",
       "channel": "News",
       "series": [
         {
