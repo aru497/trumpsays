@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-10T15:28:47.330356+00:00",
+  "updated_at": "2026-08-10T16:22:19.197080+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4027c84b523dbdf5",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T15:43:14+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times Traffic to Trump\u2019s Truth Social Falls Sharply This",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 64.72,
+      "change": 1.86,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjkwcW9iTERRQ1Q5SmQ2YWhCOXRRQ2pIV1BxS2JXLXpyQlo4eWFnTFJiYUdyTy01UVFlbk82QjY4U05qOEJGNjNGNG1qa2pLNzc1bDJ6bmVRWmxsMjJ5WHg0dllqa25IOTJqbW5xZksxSExfQ3V5cXo5cEJYR0d6UWtlb3E3YTZzZkYzeQ?oc=5",
+      "image": null,
+      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-10",
+          "c": 74.96
+        },
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.72
+        }
+      ]
+    },
+    {
+      "id": "b4e092f99aa58877",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T15:43:14+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times Traffic to",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.23,
+      "change": -9.6,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjkwcW9iTERRQ1Q5SmQ2YWhCOXRRQ2pIV1BxS2JXLXpyQlo4eWFnTFJiYUdyTy01UVFlbk82QjY4U05qOEJGNjNGNG1qa2pLNzc1bDJ6bmVRWmxsMjJ5WHg0dllqa25IOTJqbW5xZksxSExfQ3V5cXo5cEJYR0d6UWtlb3E3YTZzZkYzeQ?oc=5",
+      "image": null,
+      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-10",
+          "c": 8.54
+        },
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.23
+        }
+      ]
+    },
     {
       "id": "10e6d248fc349fb1",
       "date": "Mon, 10 Aug 2026",
@@ -40422,206 +40638,6 @@
         {
           "d": "07-16",
           "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "92531e61c8155c0f",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T00:52:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Yahoo! Finance Canada",
-      "type": "news",
-      "quote": "Trump Media to Sell Wall Street Early Access to Market-Moving Truth",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFdFY05meE5IWjhPbU9MS3dGLWR5cm1FZGhNcmNNdl9lRzc3T0x4N0hFVUpfbXpROGUwYjJKZm5GcGhzZWFyZTcwZm1GN1JKdzNTT1dHdDhINFBvTVJCc1FOd3FfZGVteHF4a3ItUi03cUVZeFQ3SUV3V3hXRXNSQndjUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media to Sell Wall Street Early Access to Market-Moving Truth Social Posts - Yahoo! Finance Canada",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "2c356c7884843450",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T00:28:29+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Social Parent to Sell Faster Access to Trump\u2019s Posts - The New York Times Truth Social Parent to Sell Faster Access to Trump\u2019s",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 76.71,
-      "change": 1.98,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlkbjk3N3M2S3RKaVZfdnpTOTFvYUlvLUxuRVQ0THZEMjNuVlBNNjQ0QnE3a3V0RWZVYWlibUFRZVRkTlNtSlhweUJHNUNKYnVpN1pvS3I5SV9pTUFJdWhRNF8wODdVbjBQd0RUR25yNDVUZDRuQ0p5ZmdQOVNFYmxIcllvSFdnWURnTkV2OXRaS2pBZmJOWFQ2aUZ1Zw?oc=5",
-      "image": null,
-      "headline": "Truth Social Parent to Sell Faster Access to Trump\u2019s Posts - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 74.23
-        },
-        {
-          "d": "06-18",
-          "c": 72.83
-        },
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
         }
       ]
     }
