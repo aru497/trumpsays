@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T15:47:38.359215+00:00",
+  "updated_at": "2026-08-11T16:44:12.632444+00:00",
   "count": 400,
   "mentions": [
     {
@@ -215,6 +215,114 @@
         {
           "d": "08-11",
           "c": 9.18
+        }
+      ]
+    },
+    {
+      "id": "f7fb24ac59f0b84b",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T15:07:21+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "news.sky.com",
+      "type": "news",
+      "quote": "Losses balloon at Trump Media the company behind Truth Social - news.sky.com Losses",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.15,
+      "change": -2.56,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0xjVnV5WlZsSDB2R0NpZ1IzUVlEU3RmT0R1VHRna3BOZHlHczdXR0NUdUFZXzZsSjdDa1JWUHdMRnhGVk5uVkYyeEl6SnZucms5bnB0LWtOSWVlV0dfLUJYcVg2bGhWVERQa0lvc3RlT0NqTzJ1RERjdmIxeTRuc1B6WkZqb253YlpVd0x3QUo0bUdJTDBtUlBUb2Etdw?oc=5",
+      "image": null,
+      "headline": "Losses balloon at Trump Media the company behind Truth Social - news.sky.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 9.15
         }
       ]
     },
@@ -40778,106 +40886,6 @@
         {
           "d": "07-20",
           "c": 139.59
-        }
-      ]
-    },
-    {
-      "id": "9ddef27b90e1937a",
-      "date": "Mon, 20 Jul 2026",
-      "ts": "2026-07-20T20:48:18+00:00",
-      "date_display": "Jul 20, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Media Targets Traders With Truth API and Trump's 12.9 Million",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.74,
-      "change": 0.83,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOE5PWklsVUlsUkNNdlZpZUZNdGxiQkpsa1JKMldRNEE0LS1pdUxRQXpyTHp2UEFSalZDOWN6OVhJVkNFX1pvcTBMSC1BZGticXJVTzhkaFJDQVlWRVlaUGd3MTc2TEswX3ZXU240WEdsdnEzblY4LTJWMVFTR0dmS0puSGVqSWRHV0ZtTnNGQkdFbXFjY1lmSnBWVnUyT3l0Z3E5M1VhUFM0dWtYUmpDdTZNV0lPRXBBWUZFOFI0X291ZzJiRlRCWTh2N1BzSlk2WnpV?oc=5",
-      "image": null,
-      "headline": "Trump Media Targets Traders With Truth API and Trump's 12.9 Million Followers - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
         }
       ]
     }
