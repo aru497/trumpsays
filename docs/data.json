@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-11T19:53:08.055152+00:00",
+  "updated_at": "2026-08-11T20:32:29.218185+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f2c7e9354d3860d1",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T20:12:58+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX):",
+      "company": "Exxonmobil",
+      "ticker": "XOM",
+      "price": 159.8,
+      "change": 0.01,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2E4YjM3WU9aOE02bVBIUW0zOUZQSFoxVGpteVBGT05UUGxJX3NpdEcyLVdqTHZxUGRTaHc5NXBnUWJyQk5rWUNVUVFpRTdMeThvU2VhQ09JWWZGQTZvNUJ1MWo5ZDcxT3l5WkJxWWRwbWdSNmltQUQyUTJsR3BJdk4tdm5hVFF6RVEzbHh2UUNJcFY4X0ViUXpsUQ?oc=5",
+      "image": null,
+      "headline": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX): Trump Attacks the Oil Giants for Making \u201cToo Much Money\u201d - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 144.51
+        },
+        {
+          "d": "07-14",
+          "c": 145.09
+        },
+        {
+          "d": "07-15",
+          "c": 144.51
+        },
+        {
+          "d": "07-16",
+          "c": 145.95
+        },
+        {
+          "d": "07-17",
+          "c": 147.36
+        },
+        {
+          "d": "07-20",
+          "c": 148.36
+        },
+        {
+          "d": "07-21",
+          "c": 151.71
+        },
+        {
+          "d": "07-22",
+          "c": 154.45
+        },
+        {
+          "d": "07-23",
+          "c": 156.89
+        },
+        {
+          "d": "07-24",
+          "c": 156.94
+        },
+        {
+          "d": "07-27",
+          "c": 154.77
+        },
+        {
+          "d": "07-28",
+          "c": 153.04
+        },
+        {
+          "d": "07-29",
+          "c": 156.75
+        },
+        {
+          "d": "07-30",
+          "c": 156.97
+        },
+        {
+          "d": "07-31",
+          "c": 155.44
+        },
+        {
+          "d": "08-03",
+          "c": 155.06
+        },
+        {
+          "d": "08-04",
+          "c": 153.96
+        },
+        {
+          "d": "08-05",
+          "c": 151.63
+        },
+        {
+          "d": "08-06",
+          "c": 154.84
+        },
+        {
+          "d": "08-07",
+          "c": 153.04
+        },
+        {
+          "d": "08-10",
+          "c": 159.79
+        },
+        {
+          "d": "08-11",
+          "c": 159.8
+        }
+      ]
+    },
+    {
+      "id": "60452dd472647631",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T20:12:58+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX): Trump Attacks the Oil Giants for Making",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 196.66,
+      "change": 0.9,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2E4YjM3WU9aOE02bVBIUW0zOUZQSFoxVGpteVBGT05UUGxJX3NpdEcyLVdqTHZxUGRTaHc5NXBnUWJyQk5rWUNVUVFpRTdMeThvU2VhQ09JWWZGQTZvNUJ1MWo5ZDcxT3l5WkJxWWRwbWdSNmltQUQyUTJsR3BJdk4tdm5hVFF6RVEzbHh2UUNJcFY4X0ViUXpsUQ?oc=5",
+      "image": null,
+      "headline": "ExxonMobil Holdings Corporation (XOM) vs. Chevron Corporation (CVX): Trump Attacks the Oil Giants for Making \u201cToo Much Money\u201d - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 182.2
+        },
+        {
+          "d": "07-14",
+          "c": 181.76
+        },
+        {
+          "d": "07-15",
+          "c": 181.6
+        },
+        {
+          "d": "07-16",
+          "c": 183.86
+        },
+        {
+          "d": "07-17",
+          "c": 187.38
+        },
+        {
+          "d": "07-20",
+          "c": 189.71
+        },
+        {
+          "d": "07-21",
+          "c": 191.07
+        },
+        {
+          "d": "07-22",
+          "c": 192.98
+        },
+        {
+          "d": "07-23",
+          "c": 194.42
+        },
+        {
+          "d": "07-24",
+          "c": 194.79
+        },
+        {
+          "d": "07-27",
+          "c": 190.0
+        },
+        {
+          "d": "07-28",
+          "c": 187.58
+        },
+        {
+          "d": "07-29",
+          "c": 191.86
+        },
+        {
+          "d": "07-30",
+          "c": 192.31
+        },
+        {
+          "d": "07-31",
+          "c": 196.83
+        },
+        {
+          "d": "08-03",
+          "c": 193.18
+        },
+        {
+          "d": "08-04",
+          "c": 190.4
+        },
+        {
+          "d": "08-05",
+          "c": 186.41
+        },
+        {
+          "d": "08-06",
+          "c": 189.23
+        },
+        {
+          "d": "08-07",
+          "c": 186.56
+        },
+        {
+          "d": "08-10",
+          "c": 194.91
+        },
+        {
+          "d": "08-11",
+          "c": 196.66
+        }
+      ]
+    },
     {
       "id": "1817319b9bb81237",
       "date": "Tue, 11 Aug 2026",
@@ -40716,214 +40932,6 @@
       "headline": "Appeals court rejects Biden's bid to block release of audio from memoir ghostwriter interviews",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "d8323ed3a5335175",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T17:09:49+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Media & Technology Group (DJT) Launches Truth API For Real Time",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.81,
-      "change": 0.72,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmxramRMaFBSelRORnFVRF9Rc2NYYzYwbHJSTzFVQjFDcG9kSFlPLV96M2lnc1RNUDR6aHl3Zm10N3RvdkJ4cVFsYXZiVEwwMlViUk41Z3dyeTZ1bmU0Mmw5WnlqeGtRQXFPbUktQjdRV0N1Q2FjaDNkcDFtT094cFZrNWVWd2VhdlRFeFRaZ241djBONEVTUg?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (DJT) Launches Truth API For Real Time Truth Social Access - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.81
-        }
-      ]
-    },
-    {
-      "id": "fca88c481f6d90e7",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T15:53:06+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.67,
-      "change": -0.72,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHZQRWwydmhYUWNzWktYdnRnM01IcDgyWmprUzZ6NXFIbE9wb1lCVDJmbHA0aVV4OVBVcldFVWFnM0dRdkFGRENLMzVFRURfZFI0b0JxMXV0UGdleGoxTGNVSHppNmNXWFZyMm14aEFqYWI2blUyTTAza3JENTBrNGRCSTNQS24xX1hzeXBaWl8xd29haktQR25iS1NFRmJXaFgzNVBCa2ZIMUMzZmhaS3FEbTZpMGhjMG40ZmNR?oc=5",
-      "image": null,
-      "headline": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.67
-        }
-      ]
     }
   ]
 }
