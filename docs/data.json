@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-11T21:34:00.301137+00:00",
+  "updated_at": "2026-08-11T22:30:25.113158+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c43cb1e94cd5cb84",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T22:20:05+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "CBS News",
+      "type": "news",
+      "quote": "Trump Media has struggled to grow. Now it's selling $100,000 contracts",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiX2x4eWp5bjRCeHBVV1VHN1kzTFlWQ1VyWmplUVhUNmw0dXltVmxIY2Fya01PRXc4SlN3M3dDTEQ0UHJDcmdHY0gyR0xpN0VJXzNsZlJNTHk2ZllweWlBUk4weXlKWDZkSGJhMmVsRGt6Z3RzN3E0?oc=5",
+      "image": null,
+      "headline": "Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - CBS News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        }
+      ]
+    },
+    {
+      "id": "71f934573271e54e",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T21:50:01+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "abccolumbia.com",
+      "type": "news",
+      "quote": "firms paying up to $100K for early access to Trump posts, Trump Media says - abccolumbia.com Wall Street firms paying up to",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2xJY2ZUcm9xcEJWYVNyOTVmMkdCR19fRk42RndyU1g1ZXBGN3lOaC1YSG4taEpsZ3l4TVlaTFY1ZnRoblhPc0IwNlFITVktaUxmbUtPd3I0V3BKdjhmX251V1pENkFOaDZvZGdPVGR1clp3cXNJNjFQbFFTbDg2cWhENzM4OVE1UmxxX0otXzVXMGprdm9nbFlqVGgzUWxfam9OV1BGSEJfRTRCN1lnMlhuNXhvaHU0MnU2MUVjQXBzdw?oc=5",
+      "image": null,
+      "headline": "Wall Street firms paying up to $100K for early access to Trump posts, Trump Media says - abccolumbia.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        }
+      ]
+    },
     {
       "id": "7c49d86ccf0e80e7",
       "date": "Tue, 11 Aug 2026",
@@ -236,6 +452,25 @@
           "c": 196.66
         }
       ]
+    },
+    {
+      "id": "6332564bc5ad7255",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T19:55:00+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "birthright citizenship Supreme Court case in appeal to block wide tariff refunds - Fortune Trump administration invokes",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWhIMDV4Q2Z5eXhtREU1SEZ2cDF1NmNEcDU0RF82eUlDMnBsZk8wVFhveFhfcXg3NjNRbE9xdjg1ajJCcnZ3MmtDT1ZtOWRMTUppaUwxWnd6UWx3MW9FWkZOTGZ3ZUhTOEtGTlpfU2x6UEFrdTZib0dyR0E2bEdsSjBVT2hiSlNZV280UzI3aGcyWXdPVVUxZ0FkcDlsOVVTTDhCcFk4WURyaEh5dUk5U3JJdVR3N1FUczBJTlZBVmdrUTZkUTFINkUydDQwbElfVmQ5eWx1U3Q?oc=5",
+      "image": null,
+      "headline": "Trump administration invokes birthright citizenship Supreme Court case in appeal to block wide tariff refunds - Fortune",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "1817319b9bb81237",
@@ -40545,318 +40780,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uS0JvTUxmMXo1LUo1RTktNUVOVm02QmdOQllNa19LWDd4dXZQR0JXdzNWVVlYN2wtUW4tbUFFTWZuU3lxMFN1cFlmMkxUUWpEa3puT1FzRkNYaEJmQ2hMSEdtYlNEQ09veFlYWjhR?oc=5",
       "image": null,
       "headline": "Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data - Axios",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        }
-      ]
-    },
-    {
-      "id": "d507839baaaefb32",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T22:05:00+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "foreignpolicyjournal.com",
-      "type": "news",
-      "quote": "Trump Media & Technology Group (NASDAQ: DJT) Targets Institutional",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.82,
-      "change": 0.82,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTXNVTFloR0g1SU9nakV4eHJjNzFUMFpuTlJQczd1cWNjTmlGdG16TkRBRTFvcDJTNDExMjVXTEJybzRLYlVkTkpJeGJ1MG9jRGtOUFJETTNvMjQyeDZYXzZISFl3aFltY0JPc3Bkc1hwZTRmNG5KZXdMQktUQzRXdlU5VVVpUjFKbExVVTk4ZHU1cGVWTVBDY0RhY0k1YXVwWS1SbGlPZnA3UnR3VnV5aEJTTmVrMWZpOVhxZWJWcTVUZm9hQXd6VWJRNXB1UVZMeWNlTUJSMFIxU2lzeDVnU0g1VGE?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (NASDAQ: DJT) Targets Institutional Clients With New Truth API Data Product - foreignpolicyjournal.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        }
-      ]
-    },
-    {
-      "id": "686b67b643447051",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T21:55:27+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Donald Trump said Tuesday that the United States will soon target the area near Pickaxe Mountain \u2014 a fortified underground",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 138.48,
-      "change": -0.8,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-will-hit-area-of-irans-pickaxe-mountain-very-heavily",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-21T153133Z_1513803753_RC2BIMAMN5BM_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "headline": "WATCH: Trump says U.S. will hit area of Iran's Pickaxe Mountain 'very heavily'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 129.73
-        },
-        {
-          "d": "06-23",
-          "c": 134.11
-        },
-        {
-          "d": "06-24",
-          "c": 141.2
-        },
-        {
-          "d": "06-25",
-          "c": 139.57
-        },
-        {
-          "d": "06-26",
-          "c": 140.39
-        },
-        {
-          "d": "06-29",
-          "c": 133.92
-        },
-        {
-          "d": "06-30",
-          "c": 130.61
-        },
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
-        },
-        {
-          "d": "07-08",
-          "c": 132.42
-        },
-        {
-          "d": "07-09",
-          "c": 132.27
-        },
-        {
-          "d": "07-10",
-          "c": 135.14
-        },
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
-        },
-        {
-          "d": "07-21",
-          "c": 138.48
-        }
-      ]
-    },
-    {
-      "id": "f72068473e1e2361",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T21:23:39+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "Bloomberg.com",
-      "type": "news",
-      "quote": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Bloomberg.com Senators Question \u2018Insider\u2019 Access",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.82,
-      "change": 0.82,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnB0YnBXc2NobkdEbnJCOENhaUN2QUdXT3NjUU5PQWkyd0dyNEJXamxhY2VFU3ROXzZobGhWaXpsZk1saEZkV3VGek9Wa0p5a3ZKZU1mS3Jnb3dmd29Vek1WUW1ZbWh0QW9kbjZHUldsRDdqdlE0eGVJT0FrYVB0M1NmLWZGZHA3RndnVno2Qk9NYU50SkQ5eG1RNFFoWERkMzZxbkZ6TmFsekJ0eElWRg?oc=5",
-      "image": null,
-      "headline": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Bloomberg.com",
       "channel": "News",
       "series": [
         {
