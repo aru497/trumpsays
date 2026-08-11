@@ -1,7 +1,527 @@
 {
-  "updated_at": "2026-08-10T23:56:59.312019+00:00",
+  "updated_at": "2026-08-11T01:07:47.776271+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "118a54f025f6b938",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T00:55:00+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian Trump\u2019s media company,",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "52dbb92408d178d1",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T00:43:00+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "The Tribune-Democrat",
+      "type": "news",
+      "quote": "Trump media company announces a massive loss, new turnaround effort -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZGtJRVpMcUNGU1E2VmlMQjNIRml3M1BZcXk5eDdzQ1RQQjJoT1REa0pRLWJ3VXBzWFdHZHpaVGxfUHNraWxsWmt4OXFMMF8tZkQ1R0V6eGFLSHVvV2E3NThHMVFENG55UklnY0ZFYkFYWU9YbTZSWVdiYlEtR0ttNGU5UkJiNWhyTVdvbUcxWlM1akhndEk2UW0za3psNUlXMGI0M1NwWlB3YUJrQUVQZHJyUTlFVW96WGx0aTNIcXpSbkdSTW5yOXQxcTdUbjVDcHR1enctVGx5eW1KWTJPeUN2RGhpV25xWmc?oc=5",
+      "image": null,
+      "headline": "Trump media company announces a massive loss, new turnaround effort - The Tribune-Democrat",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "79e9ca5b878eaf5c",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T00:40:07+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Investing.com",
+      "type": "news",
+      "quote": "Trump Media discloses over 10 customer sign-ups for Truth Social feed - Investing.com Trump Media",
+      "company": "Ups",
+      "ticker": "UPS",
+      "price": 104.72,
+      "change": 0.21,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHZ6WnpYQlFKRlk4S19nemU3Mm9GN3dVak9hS1pjTGZQX21BLUhxa0FHTDZsNXNrZmlvWWswUlZLaDNRN21pdWFnNzhpMXBNYy1fYjNoNXVBd0REdks1Rml0QjVNSm9GbWJ1X251NHJRVGRvS2lvaldKaDNPVkl2RkI3Ty1FY2FCSnpZOC1ZaTQ4UDE2a3JOdS1GTDB2OHFTLUY3X1pnUHBFdWdrWllvT2VVNDRiVndodFJ0RGlFNmlXajVIQk9RWk93?oc=5",
+      "image": null,
+      "headline": "Trump Media discloses over 10 customer sign-ups for Truth Social feed - Investing.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 112.89
+        },
+        {
+          "d": "07-14",
+          "c": 113.67
+        },
+        {
+          "d": "07-15",
+          "c": 112.94
+        },
+        {
+          "d": "07-16",
+          "c": 117.18
+        },
+        {
+          "d": "07-17",
+          "c": 117.72
+        },
+        {
+          "d": "07-20",
+          "c": 113.15
+        },
+        {
+          "d": "07-21",
+          "c": 116.34
+        },
+        {
+          "d": "07-22",
+          "c": 115.84
+        },
+        {
+          "d": "07-23",
+          "c": 114.1
+        },
+        {
+          "d": "07-24",
+          "c": 114.79
+        },
+        {
+          "d": "07-27",
+          "c": 112.95
+        },
+        {
+          "d": "07-28",
+          "c": 105.53
+        },
+        {
+          "d": "07-29",
+          "c": 104.56
+        },
+        {
+          "d": "07-30",
+          "c": 105.27
+        },
+        {
+          "d": "07-31",
+          "c": 104.22
+        },
+        {
+          "d": "08-03",
+          "c": 106.87
+        },
+        {
+          "d": "08-04",
+          "c": 109.11
+        },
+        {
+          "d": "08-05",
+          "c": 107.7
+        },
+        {
+          "d": "08-06",
+          "c": 103.2
+        },
+        {
+          "d": "08-07",
+          "c": 104.5
+        },
+        {
+          "d": "08-10",
+          "c": 104.72
+        }
+      ]
+    },
+    {
+      "id": "448f982965e6fbd2",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T00:40:07+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Investing.com",
+      "type": "news",
+      "quote": "Trump Media discloses over 10 customer sign-ups for Truth Social feed",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHZ6WnpYQlFKRlk4S19nemU3Mm9GN3dVak9hS1pjTGZQX21BLUhxa0FHTDZsNXNrZmlvWWswUlZLaDNRN21pdWFnNzhpMXBNYy1fYjNoNXVBd0REdks1Rml0QjVNSm9GbWJ1X251NHJRVGRvS2lvaldKaDNPVkl2RkI3Ty1FY2FCSnpZOC1ZaTQ4UDE2a3JOdS1GTDB2OHFTLUY3X1pnUHBFdWdrWllvT2VVNDRiVndodFJ0RGlFNmlXajVIQk9RWk93?oc=5",
+      "image": null,
+      "headline": "Trump Media discloses over 10 customer sign-ups for Truth Social feed - Investing.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "7966ef46be8dc2aa",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T23:45:19+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "DJT Stock Slips After Hours: Trump Media Reports $238M Q2 Loss Driven By Crypto Volatility -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdWRHODB4dWFoSzVIUzV5T2tkY1V0SldNSldoMjRDaVFXZC04V0drWlNKRW9qRVNzNmRDSkVqMVk3UllKS0RpSmd4T0FxelhMN3JqSUg4RWdwVUpoakdlcDFoeGxmQmRDaUVQZVFaU0tsNnVKdmQ4aEpfQWJJVW5USTkxa0IxSm9pNU9hLTNXcTBXNXJsWHdiUElIMWdPQzZuc1lfX1k4SmY3UUJvaUFOSFdEQVg2S3k1b1JRcmQ5dG4wOFdGRHZtTmJTSHotTVRMME1NaVB3TVJfaEVBWnVUSFhWbw?oc=5",
+      "image": null,
+      "headline": "DJT Stock Slips After Hours: Trump Media Reports $238M Q2 Loss Driven By Crypto Volatility - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
     {
       "id": "a0b8dae27d002cf4",
       "date": "Mon, 10 Aug 2026",
@@ -122,6 +642,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFBaaG1lTnNkRjE2U2ZyRWdpem5zSmRJUENyQndzM1pOMU9CUm9zZlhDQ2pOa21rdTR3VXkyQ2pzSDE3X3FSUFBnUE02X1FwcUhuNEZwU0haQ19QbU9DdHJub0drbjBuVGk0ZFJwV19Db3N5Z0czMWEyQnlMVkFzdTFJdWtISjIzYlZaS19FYw?oc=5",
       "image": null,
       "headline": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - The Tech Buzz",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "d972db12083e71d0",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T23:42:00+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "techbuzz.ai",
+      "type": "news",
+      "quote": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - techbuzz.ai",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFBaaG1lTnNkRjE2U2ZyRWdpem5zSmRJUENyQndzM1pOMU9CUm9zZlhDQ2pOa21rdTR3VXkyQ2pzSDE3X3FSUFBnUE02X1FwcUhuNEZwU0haQ19QbU9DdHJub0drbjBuVGk0ZFJwV19Db3N5Z0czMWEyQnlMVkFzdTFJdWtISjIzYlZaS19FYw?oc=5",
+      "image": null,
+      "headline": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - techbuzz.ai",
       "channel": "News",
       "series": [
         {
@@ -434,6 +1058,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVJXMFBqVWl1TVRlMGN2bm9UWXpkS3F3RWQ5MGhib0RTZF9VUzQ4ZC1tdW5ybUo4Y0NueTNTdldDMVptTFg1UXhwTFRBRTdoNTh0SHFkc2NjN1NzWUlXNjNZY1ZialBkS1ppbFRwWHdRODdXZHJLQ2FLOHBFaHJJNVdoM3R6TzlaU1pKb25FWGRlQnhkQUUzY0xrc1hoWkFBU2lSakZCZjUxSDZIdU9nZjItcnl6aGJNXzdENTN3WQ?oc=5",
       "image": null,
       "headline": "Trump Media doubles down on selling faster access to president\u2019s Truth Social posts - NBC News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "f2fe30c361967d3b",
+      "date": "Mon, 10 Aug 2026",
+      "ts": "2026-08-10T23:14:52+00:00",
+      "date_display": "Aug 10, 2026",
+      "source": "NBC News",
+      "type": "news",
+      "quote": "Trump Media doubles down on selling faster access to the president\u2019s",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVJXMFBqVWl1TVRlMGN2bm9UWXpkS3F3RWQ5MGhib0RTZF9VUzQ4ZC1tdW5ybUo4Y0NueTNTdldDMVptTFg1UXhwTFRBRTdoNTh0SHFkc2NjN1NzWUlXNjNZY1ZialBkS1ppbFRwWHdRODdXZHJLQ2FLOHBFaHJJNVdoM3R6TzlaU1pKb25FWGRlQnhkQUUzY0xrc1hoWkFBU2lSakZCZjUxSDZIdU9nZjItcnl6aGJNXzdENTN3WQ?oc=5",
+      "image": null,
+      "headline": "Trump Media doubles down on selling faster access to the president\u2019s Truth Social posts - NBC News",
       "channel": "News",
       "series": [
         {
@@ -39901,706 +40629,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWI2Yy1lbEZEcU5vR0hFSEo1X0JKN3lhdjNfd2ZPSFhqWFhzcEJlWDNvSU9lNEFkNGt2cEJfWEc5RFhlSFZlQ2ZiN1htZnZZREl3MmFlZGZXR1JwZ1dId2paUUpORFh2MUxoVjBfZll3Y0xXWmtsNG0xRy1NOUpSUmNLMEI?oc=5",
       "image": null,
       "headline": "Truth Social Launches Paid Service for Early Trump Posts - \uc870\uc120\uc77c\ubcf4",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "a428d617853b49ec",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T08:38:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "WION",
-      "type": "news",
-      "quote": "made legal? Trump's media company to sell early access to Truth Social posts via 'Truth PSI' - WION Insider trading made legal?",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbm1hcnppS2ZRbFB5TkFGeGNNaEUtMjcyYXhNZWI2QU54RmF2b0s3U09qb2xvV2F0aHVUOFVHRWZjd2RWOE1kVXMzbG14YW5fR01LMnhkWFlkdWpNWGhSOWZDQWo0TUo1OTBGbUEzRUhxM2w0RVNhTzB4YXFmdTZ5MEJpS0xyaUh1SDNXeFNRZzM3YUlmUEFVNDdwMEF3UnBBX0FGd2R6YWlaVDBUV2I5NkFWRmx1YlN3WlBPbEppaHZ6OTdDMXpvNmNIMDRmdjlTNmMzcnNZSWZxdzBwYWViTkx5a9IB6AFBVV95cUxNV2c5aW9zeWdGZ1pQc1FkZF82QnJHZWYzd05DeldHNEtCTkViemlMcVdrQ2FCN1hiaFR4Q2FRNy03RkVCeWgwamJvM3UzeHZ5QXJHOW9KTzhlbnpuc1hQck9NMlNrSkRsUG1xaUJTOGo5aDVDRlRwOUJpR3hBTkxoVndMWm1jUGZqYWtlOFVKLTlpNVZ4QnpYdjZtZFRHNHU2MEJ0OERSYmx5NGJmazlUYjlUTFUxeXpUMTVUSEVBQW4tQWRDZkJpVlYwUG1qZlZ1OHV4N1p3QURDX1lGc2J1ZmRBZk4zcFAy?oc=5",
-      "image": null,
-      "headline": "Insider trading made legal? Trump's media company to sell early access to Truth Social posts via 'Truth PSI' - WION",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "f9d9dd6a243f0d3d",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T07:55:09+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "\uc870\uc120\uc77c\ubcf4",
-      "type": "news",
-      "quote": "Trump's Truth Social Paid Service Sparks Conflict Claims - \uc870\uc120\uc77c\ubcf4 Trump's Truth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWI2Yy1lbEZEcU5vR0hFSEo1X0JKN3lhdjNfd2ZPSFhqWFhzcEJlWDNvSU9lNEFkNGt2cEJfWEc5RFhlSFZlQ2ZiN1htZnZZREl3MmFlZGZXR1JwZ1dId2paUUpORFh2MUxoVjBfZll3Y0xXWmtsNG0xRy1NOUpSUmNLMEI?oc=5",
-      "image": null,
-      "headline": "Trump's Truth Social Paid Service Sparks Conflict Claims - \uc870\uc120\uc77c\ubcf4",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "82dbabc7d6159908",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T07:35:12+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "The Times",
-      "type": "news",
-      "quote": "Trump media company to sell high-speed access to president\u2019s posts -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUZsMlNXV09FUWk0ZHU3QTRmVHpoelNkRkVzU1oxVExSRGNDMzcydTlLUl90VWtvUllhMzloT3diWGEwLTFBdlVyZkRfWXZRZDRyYkdDT1E1d3A0N1FudjNldmJxQThZRHloVFljT3ZLSFRIemM0alRNVFVCR3ZfRVVJaFRQdGRhUkxjcXFEX1ROWjVQaE8wbDVTU2NwOUxHakNzYkVQMGxPUQ?oc=5",
-      "image": null,
-      "headline": "Trump media company to sell high-speed access to president\u2019s posts - The Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "ea101c6e2b553a1d",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T07:35:12+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "The Times",
-      "type": "news",
-      "quote": "Trump media company to sell high-speed access to his posts - The Times",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUZsMlNXV09FUWk0ZHU3QTRmVHpoelNkRkVzU1oxVExSRGNDMzcydTlLUl90VWtvUllhMzloT3diWGEwLTFBdlVyZkRfWXZRZDRyYkdDT1E1d3A0N1FudjNldmJxQThZRHloVFljT3ZLSFRIemM0alRNVFVCR3ZfRVVJaFRQdGRhUkxjcXFEX1ROWjVQaE8wbDVTU2NwOUxHakNzYkVQMGxPUQ?oc=5",
-      "image": null,
-      "headline": "Trump media company to sell high-speed access to his posts - The Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "f2bc3ff182bf996f",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T07:30:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Newser",
-      "type": "news",
-      "quote": "Truth Social Has a New Money-Making Plan - Newser Truth Social Has a",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZWFVdDZORHhHelY1OVZHamJHRHpObzBEWWh4WGtUWFliMkhralByZjl2TEZ5TlBNMVM2Y1RYSGY0QnVOVVZ6N3Vqd3VXRGtSTnNuU1BvYXV4MXpSUHVtVGgzdzhsdEI4YWRuX2xab0hWc3lrMlRXVGM1cDVSZUxsbVhDSEp0MVBLUXg5b2NEYjV2ZXU3aXJJWHNKT2VaMl9pS2c?oc=5",
-      "image": null,
-      "headline": "Truth Social Has a New Money-Making Plan - Newser",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "288a0a217695b782",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T07:28:11+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Euronews",
-      "type": "news",
-      "quote": "Trump Media to sell faster access to key market-moving social media",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3ZvcmJQVEdDcTdRaVhHOXNUTkhlWC1WRVdwWklMT1dNVXItRTJ3Q1h5elNKRW1HQjlNM0hidFdBM3ZKSkNjRGh6SkgtMERzNWV5Vm5yZVdSVHVvcjV4RUhUa2FCLWxqdWVXUUVDN3lUendxTXZxd3NJOHdqbTVkeUNRWDctZzI3SUplMFB5N0pYeWtzQVVXMmpDREJFQU5EYUZrOUNWVVd0LTB3LWZkLWVn?oc=5",
-      "image": null,
-      "headline": "Trump Media to sell faster access to key market-moving social media posts - Euronews",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        }
-      ]
-    },
-    {
-      "id": "33a523b6742541ea",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T07:28:11+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Euronews",
-      "type": "news",
-      "quote": "Trump media to sell faster access to president's market-moving posts -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.63,
-      "change": 0.63,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDZUOVc3cXdib2FEcjZ2bjZWbElpdldDQy1BbGRmdHo4aWZ5SmMyT0R0ZTRfMzE0aVQydDNRZVJXU2xSOElQYlRhSmhqUFg0UHRyMTdjRUdweDNKc2gyalhNaFNBSmh6MXo5bGFwaFY5Q1dWVk9MSVVCdHFVSkRMN3p5ak1PbEJvUlo3cnJrcnVXcjIzUXBSZkxzeGtDckFpa1lZZ0ZHMWZrZ2ZEc2o5akhB?oc=5",
-      "image": null,
-      "headline": "Trump media to sell faster access to president's market-moving posts - Euronews",
       "channel": "News",
       "series": [
         {
