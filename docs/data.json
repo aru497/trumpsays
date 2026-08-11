@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-08-11T08:01:35.652846+00:00",
+  "updated_at": "2026-08-11T09:27:12.068232+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c41d30c82d2143c6",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T09:13:38+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Media Says Over 10 Firms Pay for Faster Access to Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcGZhbEgyQldCQ3cwRnNCUHRmWGtiOTVlM2dvSFlrZEhWSk5RNU9UeXluek52RnFrbFdiVG5rUzZYZXl4cGFrNEVSaTRkQTM0UjVITGNveFlVVGtMTk43MHN6TDN3SEFhdFhETF93Y3l4c25JNVMxcWptSUQ2VGZtWXc5ejZlMzREOFViLWJ6TF9zVmVGTHJwRm5WVk1QVGdROWRwNDRIa1BZcU9sV18yTlcwaktPQ2pPbENzaF9BMlVLdEJZNzU5Z3QwSVJYUzk4b05Kak5SckVtWE9rY2VCQXdJWQ?oc=5",
+      "image": null,
+      "headline": "Trump Media Says Over 10 Firms Pay for Faster Access to Truth Social Posts - Trump Media & Tech Gr (NASDA - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "2dc6d10c1ec4d838",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T08:55:47+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "MarketBeat",
+      "type": "news",
+      "quote": "Quantinno Capital Management LP Buys 119,750 Shares of Trump Media & Technology Group Corp. $DJT - MarketBeat Quantinno",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM2x4eEdRZVlCR0RwN2ljWWZHUmwtRWx3MEF5NU5JMjUyUWpvc1lEMFpnOThzWHI5M3dDM3BJYzhtUHo5WmszSjhoTFpuN2g2Wk9abDVUbS1UYjRPVFhoZ0Y4SWtza2tlbzczYUt0Y255TXRpaXdfbjYxcWlLQ3hwRnlodnNoZk44cUtqc25kUnUxNGprRHN5a1lwdFA2MDN2dUdOY0x5U0d5MHQ0cXZmY3lFMUtzQk4wSGVOaHVhb0xWMkN6V1ZQZHhBbVVDZU1wMzFWQ0NYanNXdEE4eUxSNHp6djc0YTg?oc=5",
+      "image": null,
+      "headline": "Quantinno Capital Management LP Buys 119,750 Shares of Trump Media & Technology Group Corp. $DJT - MarketBeat",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "a744a7da07c234b0",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T08:35:05+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Coinpedia",
+      "type": "news",
+      "quote": "Trump Media Posts $238M Q2 Loss as Truth Social Refocuses, Holds",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnR0ODQtMm5GMl9VV1VSaW1WeG1tS2RwNGgxVU1aNVB0T2N1bUZaNG5TZVNfNWtaSDN0aGpiN0RENUMtT0J0SUtaNVFpN1lwNXhBZHdtNzg5c01zRE9aRDZ4cm9BSjNkR09XZm5EdnBhSURUekt0TVJMaHlLVEhKcGJfekhJbi1pRWgtMkd3bGRGMTlPOXZOVUJXNzctRHRMWFHSAacBQVVfeXFMUEpiX2FMTzRhZEY1bGlxSV9aemlkdGlJOWNZUXc2V2djMmFFb1FESXBIbXVaN1VEaFhWVDZLYXJEMHkxbUFUUkdoaGZkc2tCMUk4WHp5ZE5kYXRaZFZTbFRLZFRhalVaQXJOMmNXZUd1M1NzT1l0NXN6R3cxeHhxWHROSTlGYi14c0hUeDRlWlo4Z0ZWZ1dtVWQxcjIyWV9SbmVBTFhtWVk?oc=5",
+      "image": null,
+      "headline": "Trump Media Posts $238M Q2 Loss as Truth Social Refocuses, Holds 14,139 BTC - Coinpedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "683380faf87146ab",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T08:27:00+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "The Independent",
+      "type": "news",
+      "quote": "Trump Media sinks to \u00a3176 million loss and refocuses efforts on Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEhyd3FwQWlNVGlnOGlKUG5pSjN2OUU4N3FpcnRQQmFqMFZ6ajNtMFlXQ2UyQ2dBbnIzbXM2M1ZsT2FkZHpJcVhZbnV0TmxVNXlwVmlpS3A3VEpiZUx3RTJGa0RGSnMyYVlwNmN0cTRORDdheWl6TzdNRG1CQVhwWC1LX1Voc2daWDdoUjRTc0h6Z3FnSWQ3U0JnVU1odw?oc=5",
+      "image": null,
+      "headline": "Trump Media sinks to \u00a3176 million loss and refocuses efforts on Truth Social - The Independent",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
     {
       "id": "007ade9d97d5b189",
       "date": "Tue, 11 Aug 2026",
@@ -1474,6 +1890,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT2J6LVYxSGloWnByWHJacnBYMVdWc2dlY19XOC12Ry1ubHFreElLdHItUUIxenY0YVBBQTFiWklvX0x2MEw1Z3dZRzBUbTBKMGFoRDlWNFE1SFFm?oc=5",
       "image": null,
       "headline": "Trump Media reports $238m loss as crypto falls - BBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "870b82542f020739",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T01:12:11+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "10 firms pay up to $100,000 a month for fast access to Truth Social posts - BBC More than 10 firms pay up to $100,000 a month",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": -8.03,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT2J6LVYxSGloWnByWHJacnBYMVdWc2dlY19XOC12Ry1ubHFreElLdHItUUIxenY0YVBBQTFiWklvX0x2MEw1Z3dZRzBUbTBKMGFoRDlWNFE1SFFm?oc=5",
+      "image": null,
+      "headline": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts - BBC",
       "channel": "News",
       "series": [
         {
@@ -40234,522 +40754,6 @@
         {
           "d": "07-17",
           "c": 9.66
-        }
-      ]
-    },
-    {
-      "id": "dab188f7a38a0180",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T21:15:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Opinion | Trump and Truth Social - WSJ Opinion | Trump and Truth Social&nbsp;&nbsp;WSJ",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.66,
-      "change": 0.31,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45di1QTjJ6QkVxSExYbzZ6b2JfUHdOcDFTSGpxYVhxQTlPdWRjOTNyRERzVWpLUjNCT2t1ajBWMjZ6Vlo1WnBvbU9TZVMzdS1Jd05QR3pCdzRQQVV6cE9nRGVZYkdvbzFScHNF?oc=5",
-      "image": null,
-      "headline": "Opinion | Trump and Truth Social - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        }
-      ]
-    },
-    {
-      "id": "7fe65b2d5c81ee90",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T17:45:49+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk - Benzinga",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 97.44,
-      "change": -2.28,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkRPalBFZ1Y5WE05bXlNV3lrLVd6M1ZVN3hmcUlONS04eDExaHQyLVhvS0FYOEZfaXkwVm5aVjNuZ2puZDcwV0tFdm83SkYzVFM1LXY0YVhmV05QelQ3NWQ3YjVpdVBjcU8yRlc4dno5LTNKb3ZZOEZ1cXpyRXdLZFZncGdCXzRLamk3dUd2V1NFdEVuNG9TNlZ4d2tqSDh6dzFkdFRjc3lnN0VsMlpnXzBadW92OVRPckY0LTJHRDlXeTlGbm84NjNIVGJtVVI5?oc=5",
-      "image": null,
-      "headline": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 100.09
-        },
-        {
-          "d": "06-18",
-          "c": 103.1
-        },
-        {
-          "d": "06-22",
-          "c": 101.67
-        },
-        {
-          "d": "06-23",
-          "c": 102.74
-        },
-        {
-          "d": "06-24",
-          "c": 100.35
-        },
-        {
-          "d": "06-25",
-          "c": 97.3
-        },
-        {
-          "d": "06-26",
-          "c": 98.04
-        },
-        {
-          "d": "06-29",
-          "c": 97.88
-        },
-        {
-          "d": "06-30",
-          "c": 96.25
-        },
-        {
-          "d": "07-01",
-          "c": 95.71
-        },
-        {
-          "d": "07-02",
-          "c": 99.5
-        },
-        {
-          "d": "07-06",
-          "c": 97.41
-        },
-        {
-          "d": "07-07",
-          "c": 97.48
-        },
-        {
-          "d": "07-08",
-          "c": 96.7
-        },
-        {
-          "d": "07-09",
-          "c": 96.17
-        },
-        {
-          "d": "07-10",
-          "c": 95.62
-        },
-        {
-          "d": "07-13",
-          "c": 96.0
-        },
-        {
-          "d": "07-14",
-          "c": 95.87
-        },
-        {
-          "d": "07-15",
-          "c": 97.15
-        },
-        {
-          "d": "07-16",
-          "c": 99.71
-        },
-        {
-          "d": "07-17",
-          "c": 97.44
-        }
-      ]
-    },
-    {
-      "id": "ef9c350bcd5860a9",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T17:45:49+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk",
-      "company": "Comcast",
-      "ticker": "CMCSA",
-      "price": 23.8,
-      "change": -1.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkRPalBFZ1Y5WE05bXlNV3lrLVd6M1ZVN3hmcUlONS04eDExaHQyLVhvS0FYOEZfaXkwVm5aVjNuZ2puZDcwV0tFdm83SkYzVFM1LXY0YVhmV05QelQ3NWQ3YjVpdVBjcU8yRlc4dno5LTNKb3ZZOEZ1cXpyRXdLZFZncGdCXzRLamk3dUd2V1NFdEVuNG9TNlZ4d2tqSDh6dzFkdFRjc3lnN0VsMlpnXzBadW92OVRPckY0LTJHRDlXeTlGbm84NjNIVGJtVVI5?oc=5",
-      "image": null,
-      "headline": "Trump Threatens Comcast and Disney: President Says Their Licenses Could Be at Risk - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 22.39
-        },
-        {
-          "d": "06-18",
-          "c": 22.13
-        },
-        {
-          "d": "06-22",
-          "c": 22.02
-        },
-        {
-          "d": "06-23",
-          "c": 22.49
-        },
-        {
-          "d": "06-24",
-          "c": 22.34
-        },
-        {
-          "d": "06-25",
-          "c": 22.39
-        },
-        {
-          "d": "06-26",
-          "c": 22.86
-        },
-        {
-          "d": "06-29",
-          "c": 23.89
-        },
-        {
-          "d": "06-30",
-          "c": 24.22
-        },
-        {
-          "d": "07-01",
-          "c": 23.73
-        },
-        {
-          "d": "07-02",
-          "c": 23.79
-        },
-        {
-          "d": "07-06",
-          "c": 23.38
-        },
-        {
-          "d": "07-07",
-          "c": 23.41
-        },
-        {
-          "d": "07-08",
-          "c": 23.19
-        },
-        {
-          "d": "07-09",
-          "c": 23.35
-        },
-        {
-          "d": "07-10",
-          "c": 23.57
-        },
-        {
-          "d": "07-13",
-          "c": 23.97
-        },
-        {
-          "d": "07-14",
-          "c": 23.19
-        },
-        {
-          "d": "07-15",
-          "c": 23.49
-        },
-        {
-          "d": "07-16",
-          "c": 24.1
-        },
-        {
-          "d": "07-17",
-          "c": 23.8
-        }
-      ]
-    },
-    {
-      "id": "f6bbf4502dd8f5e6",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T17:41:19+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "citybiz",
-      "type": "news",
-      "quote": "Trump Media Targets Wall Street With Premium Truth Social Data Service",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.48,
-      "change": -1.56,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWlBMGJ5a2gySDcwZ2V2c0hiUHdfMTVZWUdPOWI2dldOQUttMzhZYjRtakpCOU0zLWh5ajZVOHRmYU1vbHZnbzNMaGRJSkVwTG5VbHdHUnF4aGZYaDFCa1lxNDY2V1o3aU9mWlJfd3VBLTdFZFRpTkVGODhFc2Y5Nk9aVnFPWkk0Qm1EeWZ2ZHRtSHR5QTg5N3lDRldHS3AtRUg0Y3JNQllPb2tkcnc?oc=5",
-      "image": null,
-      "headline": "Trump Media Targets Wall Street With Premium Truth Social Data Service - citybiz",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.48
-        }
-      ]
-    },
-    {
-      "id": "e6f8f4813489a16a",
-      "date": "Fri, 17 Jul 2026",
-      "ts": "2026-07-17T17:20:00+00:00",
-      "date_display": "Jul 17, 2026",
-      "source": "The Times",
-      "type": "news",
-      "quote": "Trump media company to charge $100,000 a month for fast access to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.64,
-      "change": 0.1,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUZsMlNXV09FUWk0ZHU3QTRmVHpoelNkRkVzU1oxVExSRGNDMzcydTlLUl90VWtvUllhMzloT3diWGEwLTFBdlVyZkRfWXZRZDRyYkdDT1E1d3A0N1FudjNldmJxQThZRHloVFljT3ZLSFRIemM0alRNVFVCR3ZfRVVJaFRQdGRhUkxjcXFEX1ROWjVQaE8wbDVTU2NwOUxHakNzYkVQMGxPUQ?oc=5",
-      "image": null,
-      "headline": "Trump media company to charge $100,000 a month for fast access to posts - The Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-17",
-          "c": 8.1
-        },
-        {
-          "d": "06-18",
-          "c": 8.49
-        },
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.64
         }
       ]
     }
