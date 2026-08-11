@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-08-11T20:32:29.218185+00:00",
+  "updated_at": "2026-08-11T21:34:00.301137+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7c49d86ccf0e80e7",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T21:11:09+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+      "image": null,
+      "headline": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "f2c7e9354d3860d1",
       "date": "Tue, 11 Aug 2026",
@@ -431,6 +450,222 @@
         {
           "d": "08-11",
           "c": 8.94
+        }
+      ]
+    },
+    {
+      "id": "e2d541ba15e0cfc6",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T18:49:51+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "LiveNOW from FOX",
+      "type": "news",
+      "quote": "$238M loss, plans major business pivot - LiveNOW from FOX Trump Media posts massive $238M loss, plans major business",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.34,
+      "change": -1.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5od1dVelRHS2xSRzFWRHZHUXpXa1lGMGtUQkRhdGFqcEZKaTV1ZzFuQXgxcVRyQjBnbzg2eUNwRGhkM0RDUEwwWXlxNlMzSHd0VWJRWlRpYkNXT09vQzh1UTN1eFVUTkFsTE1qNDVtNGZ4VE1FbDZ5YVJYNmt3cXU1QjhiTEw2R0UxMXZTNURIemNISHE1RHlB?oc=5",
+      "image": null,
+      "headline": "Trump Media posts massive $238M loss, plans major business pivot - LiveNOW from FOX",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 50.22
+        },
+        {
+          "d": "07-14",
+          "c": 49.5
+        },
+        {
+          "d": "07-15",
+          "c": 50.39
+        },
+        {
+          "d": "07-16",
+          "c": 51.08
+        },
+        {
+          "d": "07-17",
+          "c": 51.63
+        },
+        {
+          "d": "07-20",
+          "c": 51.55
+        },
+        {
+          "d": "07-21",
+          "c": 51.47
+        },
+        {
+          "d": "07-22",
+          "c": 50.63
+        },
+        {
+          "d": "07-23",
+          "c": 49.18
+        },
+        {
+          "d": "07-24",
+          "c": 49.41
+        },
+        {
+          "d": "07-27",
+          "c": 50.81
+        },
+        {
+          "d": "07-28",
+          "c": 51.63
+        },
+        {
+          "d": "07-29",
+          "c": 52.73
+        },
+        {
+          "d": "07-30",
+          "c": 52.34
+        },
+        {
+          "d": "07-31",
+          "c": 51.94
+        },
+        {
+          "d": "08-03",
+          "c": 52.62
+        },
+        {
+          "d": "08-04",
+          "c": 52.82
+        },
+        {
+          "d": "08-05",
+          "c": 52.2
+        },
+        {
+          "d": "08-06",
+          "c": 55.37
+        },
+        {
+          "d": "08-07",
+          "c": 57.03
+        },
+        {
+          "d": "08-10",
+          "c": 56.33
+        },
+        {
+          "d": "08-11",
+          "c": 55.34
+        }
+      ]
+    },
+    {
+      "id": "663a780c3b5b2eb9",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T18:49:51+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "LiveNOW from FOX",
+      "type": "news",
+      "quote": "Trump Media posts massive $238M loss, plans major business pivot -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5od1dVelRHS2xSRzFWRHZHUXpXa1lGMGtUQkRhdGFqcEZKaTV1ZzFuQXgxcVRyQjBnbzg2eUNwRGhkM0RDUEwwWXlxNlMzSHd0VWJRWlRpYkNXT09vQzh1UTN1eFVUTkFsTE1qNDVtNGZ4VE1FbDZ5YVJYNmt3cXU1QjhiTEw2R0UxMXZTNURIemNISHE1RHlB?oc=5",
+      "image": null,
+      "headline": "Trump Media posts massive $238M loss, plans major business pivot - LiveNOW from FOX",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
         }
       ]
     },
@@ -40709,229 +40944,6 @@
           "c": 9.82
         }
       ]
-    },
-    {
-      "id": "f9b6e60433a555e3",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T21:23:39+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Yahoo Finance Senators Question \u2018Insider\u2019 Access",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.89,
-      "change": -3.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXdRSFVBZlhSRU9Ya1ZsbzMtNmhGeHVCcHctT3dXYVhkOHlGSS1JeGdDeVhpVzdyWWdEYlpxbm1YNTJCMkM2a2FheUlDZHNJdHBHT0k5TWdRSWNBcXZwNkJ1T2VnOXNxM0lfTHNEMjRGVWVpYjk5WldiOGY1VldFR1M5dUFCRjQ2MTc0T09HUzNUTWdsY1loMDhQZGN0Sk05bHc?oc=5",
-      "image": null,
-      "headline": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        }
-      ]
-    },
-    {
-      "id": "2189c22a9ab6bd2b",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T21:23:39+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "Bloomberg",
-      "type": "news",
-      "quote": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Bloomberg Senators Question \u2018Insider\u2019 Access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.09,
-      "change": 6.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnB0YnBXc2NobkdEbnJCOENhaUN2QUdXT3NjUU5PQWkyd0dyNEJXamxhY2VFU3ROXzZobGhWaXpsZk1saEZkV3VGek9Wa0p5a3ZKZU1mS3Jnb3dmd29Vek1WUW1ZbWh0QW9kbjZHUldsRDdqdlE0eGVJT0FrYVB0M1NmLWZGZHA3RndnVno2Qk9NYU50SkQ5eG1RNFFoWERkMzZxbkZ6TmFsekJ0eElWRg?oc=5",
-      "image": null,
-      "headline": "Senators Question \u2018Insider\u2019 Access to Trump Truth Social Posts - Bloomberg",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.09
-        }
-      ]
-    },
-    {
-      "id": "8f3c7225a304e08e",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T17:40:14+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Appeals court rejects Biden's bid to block release of audio from memoir ghostwriter interviews Joe",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/appeals-court-rejects-bidens-bid-to-block-release-of-audio-from-memoir-ghostwriter-interviews",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-18T191349Z_1734736788_RC2JWLATZUTT_RTRMADP_3_USA-OBAMA-1024x683.jpg",
-      "headline": "Appeals court rejects Biden's bid to block release of audio from memoir ghostwriter interviews",
-      "channel": "News",
-      "series": null
     }
   ]
 }
