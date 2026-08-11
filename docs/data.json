@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-11T16:44:12.632444+00:00",
+  "updated_at": "2026-08-11T17:47:06.634180+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0a8d8f200bcbedbd",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T16:48:16+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "People.com",
+      "type": "news",
+      "quote": "Company Reports $238 Million Loss over Past 3 Months as Truth Social Sees Decline in Visitors - People.com Trump\u2019s Media",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.94,
+      "change": -4.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWtYcHlMVXVWVUpraEpEYklobE5PeUhhTGM5bTVzaG93VUdXZVRFdjFmYXBrdXpjSWpuY0wyY2JBa0dSd3hsdGpiUC1yUno5Y2w3SnVsbUVLNDQ3ME9kNzdYT2ozYzlEUVR3VTJ4OENDSW16a2tKRGtWN3ZnbC1MNDZCZzk3U3BnOEpiTQ?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Media Company Reports $238 Million Loss over Past 3 Months as Truth Social Sees Decline in Visitors - People.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.94
+        }
+      ]
+    },
     {
       "id": "748502d377a6c5c7",
       "date": "Tue, 11 Aug 2026",
@@ -40786,106 +40894,6 @@
         {
           "d": "07-31",
           "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "dcd7bdeaf08881b5",
-      "date": "Mon, 20 Jul 2026",
-      "ts": "2026-07-20T22:42:05+00:00",
-      "date_display": "Jul 20, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "body cameras, and neither of the victims was the intended target of the operation. Amna Nawaz discussed more with John",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 139.59,
-      "change": -0.01,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/deadly-shootings-by-ice-officers-renew-scrutiny-of-recruitment-and-training",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/immigration-1-1024x683.jpg",
-      "headline": "Deadly shootings by ICE officers renew scrutiny of recruitment and training",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 129.73
-        },
-        {
-          "d": "06-23",
-          "c": 134.11
-        },
-        {
-          "d": "06-24",
-          "c": 141.2
-        },
-        {
-          "d": "06-25",
-          "c": 139.57
-        },
-        {
-          "d": "06-26",
-          "c": 140.39
-        },
-        {
-          "d": "06-29",
-          "c": 133.92
-        },
-        {
-          "d": "06-30",
-          "c": 130.61
-        },
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
-        },
-        {
-          "d": "07-08",
-          "c": 132.42
-        },
-        {
-          "d": "07-09",
-          "c": 132.27
-        },
-        {
-          "d": "07-10",
-          "c": 135.14
-        },
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
         }
       ]
     }
