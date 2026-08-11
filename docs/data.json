@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-08-11T18:44:20.713484+00:00",
+  "updated_at": "2026-08-11T19:53:08.055152+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1817319b9bb81237",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T19:43:58+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "The American Bazaar",
+      "type": "news",
+      "quote": "Trump Media says Wall Street are paying up to $100K for early access",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.94,
+      "change": -4.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWFRvcE10LVNzWXpTLVRZRzVCblF3SkV5SkUwVTFJUnBtQ0dIM2NhTnVxVENXSzRXTXprMTB0NktsNDNfQlVoWk9TZUw3WE5WcjdablI5MzQ5QUgtVUJnREJ0VXV6eHlOLU5nZ0lEY2hHRktqeS0zSnpIejNuRnpTSllETm1wem8yWnNrR3FELUFlU29FbVRNWktiWmx0aDBuZnNBa2VvNjhTcDYxZE8ybGU3MUZnaFBKOUxwLTR1aG52V3dPQ09XTUtZSVdqQzU1?oc=5",
+      "image": null,
+      "headline": "Trump Media says Wall Street are paying up to $100K for early access to Trump\u2019s posts - The American Bazaar",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.94
+        }
+      ]
+    },
+    {
+      "id": "2c90e1a09192624a",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T18:49:51+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "FOX6 News Milwaukee",
+      "type": "news",
+      "quote": "Trump Media posts massive $238M loss, plans major business pivot -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.94,
+      "change": -4.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2Q5OGY0Z3NDUDFqNzFmd0JVX0pBUy1JNi1OZ3NQWEVUeGFvWmtvRzBLSUZ5NDZOUXRONVg2VFF5dnRocHhTUHZmNmxSOTRnUThJRUpzUTh5RU1McnRuaWUwdVpmNjJsMEJvY0dEakN5cXNZTlJ2Nng0a3ptR2pvVVlvbFcwZTVGQmU2TGd1ZXJlM3JZTkE?oc=5",
+      "image": null,
+      "headline": "Trump Media posts massive $238M loss, plans major business pivot - FOX6 News Milwaukee",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.94
+        }
+      ]
+    },
+    {
+      "id": "183560c0363ba00f",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T18:48:19+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "National News Desk",
+      "type": "news",
+      "quote": "Trump Media: Wall Street paying up to $100K for early access to Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.94,
+      "change": -4.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPUkQ4OHpUcHNYWE1pRGZ3TS1fdU5vaVN3UUpZZXFJZ3NKZkVvRkFBRGIxNVFxcE1oZEQxQ3dVWmw3clR3Rm1sNWdQT2dfQ2NWakRXblZTUVhhTEZYUGxERk0yRlNPY1pEQVhPTGlBODhWSjVReGJkc2dVNVZXMkNKUlNickNhd1RkOWNtMnhJMTdOVnR0cjFoQlpsallOSTBrOUJXa3FLelAtN2JiLWc4WndMM1oxZ3BZek5UdkJneWFJekk2enRXMGxfekgxNVJZcTA0OThOaEVyY2U2ZWpoeGNtUi03Qlp0andCekFaMzZxeC14NkZLMXY3aUZ0TlZxLWhwbHg5ZjFmMWE3S2R4OVFuQmVKVXpQeV94S3BNSVhIN3NRZG9rb04xMkJvNmxITUQtUE1iZkhvTHZVN09qZURnd2JXc01yZjlwcDIyRGxSbVFZOW1qdUhybHFSUW9GQmc4a25EZTZyNUc0UE9ZaGZlQmdjN09tZk80U0V3ajVlRmtfYV81Rmg5OHBYTTd5dEp4SFgyQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media: Wall Street paying up to $100K for early access to Trump Truth Social posts - National News Desk",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.94
+        }
+      ]
+    },
     {
       "id": "0998c7c56e8af5f5",
       "date": "Tue, 11 Aug 2026",
@@ -2027,6 +2351,114 @@
         {
           "d": "08-11",
           "c": 9.07
+        }
+      ]
+    },
+    {
+      "id": "2f02bfd2c8346de0",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T08:27:06+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "ca.finance.yahoo.com",
+      "type": "news",
+      "quote": "Trump Media sinks to \u00a3176 million loss and refocuses efforts on Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.94,
+      "change": -4.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1VjZ3Y2QWI2bk5oQnlqS0xwamNnWXRPOTNVQW9Fb013eEFXbzJZcGRQQ0VaYzRPOEFHajQzbW8wR0hWMW8zVkI5N1pPTjJ1b0ItTVVoeVhkMjFHemhLcmVIYm85V1NGTVFNNnNOVHVXV3JWSnMtWjE2Ync1WnFBTFRFeGE?oc=5",
+      "image": null,
+      "headline": "Trump Media sinks to \u00a3176 million loss and refocuses efforts on Truth Social - ca.finance.yahoo.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.94
         }
       ]
     },
@@ -40490,418 +40922,6 @@
         {
           "d": "07-21",
           "c": 9.67
-        }
-      ]
-    },
-    {
-      "id": "d929e75f6158d983",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T15:53:06+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.89,
-      "change": -3.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmEyd1ltbU5saWJGNjBBcWVtR3BPNWNLLS1wVTVvRmpiU1g4R1F5UWNUTmRRa1ZCWHpuNllRVnFvc0pGdGN6YjdxWWVqY0VwcktheTU5SDVmelpyQzNfVjhpQUlqbU1DaHd3dnp5dTV1dTY2elJzaEQtZXlhZl9seDJKWjBxbG5tWDdvVmtKSmpSV2Y5cFhSMHFn?oc=5",
-      "image": null,
-      "headline": "Trump Media Unveils Truth API, Eyes Up to $100,000 Monthly Fees - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        }
-      ]
-    },
-    {
-      "id": "9f00566ee47df2b4",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T14:23:09+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "was this really \u2018the most spectacular World Cup\u2019? - The New York Times Donald Trump praises Gianni Infantino but was this really",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 75.06,
-      "change": -0.31,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTJVZlc5eklKNEpHeXJKemdIbXBLc0FZUXpoTzU5S2Yxek5pcFlkQkllUWthemFqNGVNVTlFRmpKYkMtNV9icDh4Y0MwTGFCYlFOdFdDZEloZEp0U3B0alU2TXZCd3B2bVRVZ1hUYThBNzdvb1FjYmxDMjBxcUFQUVVCTUk1VTAzWXFEN3B0TjlkbEs4VllV?oc=5",
-      "image": null,
-      "headline": "Donald Trump praises Gianni Infantino but was this really \u2018the most spectacular World Cup\u2019? - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 71.86
-        },
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 75.06
-        }
-      ]
-    },
-    {
-      "id": "26dfe4909a4dab50",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T12:35:05+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "The American Bazaar",
-      "type": "news",
-      "quote": "Two-tiered markets? Trump Media\u2019s Truth API sparks fairness debate - The American Bazaar",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.74,
-      "change": 0.83,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckRyRzBhWmV3Nk9oRmZsM0k1eFNTRmY5LS0xdVJBRTlkbFZaWmRkc1NNQmoxa2E5aEVqZnNmSkJ5ZUpKYjFONkdRQzh0Y1hkN3BYV0Y1dGVoMHhBQmZDR24yYlo3XzFEV1NEc0RCR0pTVm5Kc1RxWTltd2hxRnhTM3pHcm5FOW1kY09WQkJrd2Y1UktUWF9wSzZqSzhCUl9ESkRjTFV1cFpoc3c?oc=5",
-      "image": null,
-      "headline": "Two-tiered markets? Trump Media\u2019s Truth API sparks fairness debate - The American Bazaar",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        }
-      ]
-    },
-    {
-      "id": "43a0bf489860bb27",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T12:26:09+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Bessent says China's Iranian oil purchases have decreased- Fox Business - Reuters Bessent says China's Iranian oil",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.54,
-      "change": -0.02,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFFXRklIV0ZUMVlWS1NWOVZ3aVlfcFlQZHlDelZ0MmtISUdUQzFGTk10czFQR2laVm90MzBNa21tX2F1QWlUZDZhQmJ5WEFmbjVxSzYwM2Z5NDY3M2hPeEQ0Z3dNUDZGUE5VOHZkQXo2Zkt5SzRNS2xCSjFzLW1oVUZydjZCYnRmQUl2VUFPV0tvdmxEcjV1Yy0wSzdTeUN1alZPcy0wY3VrWTAtczc3TVNtMWdNRU9YQVRhcHVB?oc=5",
-      "image": null,
-      "headline": "Bessent says China's Iranian oil purchases have decreased- Fox Business - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 44.93
-        },
-        {
-          "d": "06-23",
-          "c": 44.55
-        },
-        {
-          "d": "06-24",
-          "c": 45.37
-        },
-        {
-          "d": "06-25",
-          "c": 44.39
-        },
-        {
-          "d": "06-26",
-          "c": 45.91
-        },
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.54
         }
       ]
     }
