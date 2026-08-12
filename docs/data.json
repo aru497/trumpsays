@@ -1,7 +1,566 @@
 {
-  "updated_at": "2026-08-12T18:13:02.062920+00:00",
+  "updated_at": "2026-08-12T19:33:02.635909+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5972b3260ccbaaba",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T19:05:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "700WLW",
+      "type": "news",
+      "quote": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - 700WLW President Trump's Media Firm Faces Lawsuit",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWYyZUo3RjItbXJXUnJqX2h2ZEJRaHZJRmdLUjRNQktISHJaM3NJNW1oTy1vRkxLWHBOakpmUWtITmIwWDVIMUpSZjlDMkxaY2w1bUxuSnhUQnlRalpVUTVQX21IQ3Y2X3YzQkxRQ0ZCYzZhMzFvWHIxZ2thNEpTUjYyRmxFZDE2ZWZzMm16aE9ieWZ0VjlOTG9MWGNacWlaWVlUamdYcXQ1SlpSRXFr?oc=5",
+      "image": null,
+      "headline": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - 700WLW",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
+    {
+      "id": "4a41216dc3929446",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T18:59:40+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "News-Times",
+      "type": "news",
+      "quote": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2wtY3MxT1pGRHg2dWc4alJTcHoydFBFdy1RdkZSVVIxaUJoSUJYcDNuVzBMV3V4Z1JfTk9qQVliYjVwUE1DTHlJdDM3aDlTQkZGR3FVUzNTbTBaTVUxTWl0dk9rT2VVeUkwMUZGWGhTb0xHQmMwcEJCel9wcnRBZkRtaVlPSVV0UzEwZTR5eC1RajZVUFloQ3EyUm85Y2FPZmR0Mg?oc=5",
+      "image": null,
+      "headline": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - News-Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
+    {
+      "id": "b6d5f4410c8807a9",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T18:36:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "theguardian.com",
+      "type": "news",
+      "quote": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - theguardian.com Trump sued over $100,000-a-month",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU05Pbi1ja3JrSjM5bTBYd0tzVFVhZXJzLXdIOEp1U2lvQmpCRWdPdDdtM0RqRS1Bbm42c3VoU2FZYlpvbFhYcnh3WjJOSmlMMERwdndPN2hTbTgwS0g4c1lGNmxOTXdaMzBPX1poWnVJR0w3UlFtMTRLOVN2dlNXS2ZnTzhUMXJuSEZudGxJc3AtcFpX?oc=5",
+      "image": null,
+      "headline": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - theguardian.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
+    {
+      "id": "2a3d5d8c8e3e8fd2",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T18:35:32+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "The Block",
+      "type": "news",
+      "quote": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkJTVmVEc3R2TUQ2TzY2SmJoNDFuaE5WY0ZUOG80TTE3MUR6aEJqNzAxMm5HOWlJc0hkMWZ0WDlmQ3daRks1dEZTRlF5cFFTckxyOTdyQlpVMlRIOGhQMTM3NlRYRVo3eXd6YUxoS2ZRYVZYcW5hbVg5ZHcxcEpzR2JOcUdrbDhkYXdVci1fbXRhcUxBamEwclFRZHgyXzVXNFVVR0JyNkNGVmt2M2dFYTJ2MFZUajlqeEhEaXlkVjBaX1k2UGNiaW5GWndkRHVxLUNobEt1aXhfbm5PZXc?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to prediction markets - The Block",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
+    {
+      "id": "b11f439b789881f9",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T18:35:32+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "The Block",
+      "type": "news",
+      "quote": "firm explores licensing data to prediction markets - The Block Trump sued over Truth Social\u2019s early-access feed as firm",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkJTVmVEc3R2TUQ2TzY2SmJoNDFuaE5WY0ZUOG80TTE3MUR6aEJqNzAxMm5HOWlJc0hkMWZ0WDlmQ3daRks1dEZTRlF5cFFTckxyOTdyQlpVMlRIOGhQMTM3NlRYRVo3eXd6YUxoS2ZRYVZYcW5hbVg5ZHcxcEpzR2JOcUdrbDhkYXdVci1fbXRhcUxBamEwclFRZHgyXzVXNFVVR0JyNkNGVmt2M2dFYTJ2MFZUajlqeEhEaXlkVjBaX1k2UGNiaW5GWndkRHVxLUNobEt1aXhfbm5PZXc?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to prediction markets - The Block",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "39a644c771379eee",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T18:26:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "paying up to $100,000 per month for early access Trump\u2019s Truth Social posts - Fortune Nearly a dozen firms are already paying up",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQk1ld0lPUHpVZlBEMS1JQXVWclZjWDF2cVR4LU94OUNGTFBueHZLYWgwbnk3UTlpVHdZckhGQ3BaeHE0SURSaG5GMlNzNkRDZzcyeWJoc0lVc3BGajZhYzY1cVJKM2lGM3RtbkVpWWdUc3hGTnRMUw?oc=5",
+      "image": null,
+      "headline": "Nearly a dozen firms are already paying up to $100,000 per month for early access Trump\u2019s Truth Social posts - Fortune",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
     {
       "id": "4cef0f4827f7a1c4",
       "date": "Wed, 12 Aug 2026",
@@ -975,6 +1534,114 @@
       ]
     },
     {
+      "id": "f489a4b0d6e3d3cd",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T15:51:47+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "bloomberg.com",
+      "type": "news",
+      "quote": "Trump Sued Over Plan to Sell Access to Truth Social Posts - bloomberg.com Trump Sued Over Plan to Sell Access",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNU5IUTF0aThXUjJwQWVOc25WTGtGTzFFUFF2Qm45TzFydloyMVN3TVJJd3RmaEtuczdfUGR4OEJHVExYLTBmc3FEOFBxamcxc3ZXbm1jdzVCdXpqQk85TFo5VVFsZWQ3QllMUTJ4TVV0Y3VVOUZHUlpXTW92MHVGVTFJRl9nSWdocEFSOHE1dU91ak1obzZUYy1tVlNfYkJFSWgwVzVZSmxic2RBMWhnSDh2MGV0Zw?oc=5",
+      "image": null,
+      "headline": "Trump Sued Over Plan to Sell Access to Truth Social Posts - bloomberg.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
+    {
       "id": "5a79e4e213ae38f7",
       "date": "Wed, 12 Aug 2026",
       "ts": "2026-08-12T15:46:35+00:00",
@@ -1191,6 +1858,114 @@
       ]
     },
     {
+      "id": "2f85d855482f8b51",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T15:41:25+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "forbes.com",
+      "type": "news",
+      "quote": "Trump Sued Over Plan To Monetize His Truth Social Posts - forbes.com Trump Sued Over Plan To Monetize His",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVlENE9sM1piTjRHbi1RME5xcGdlQUNWUW9fVk9LZDVVdDVnZGxkMW9yNTFRUTM2ZDNiVUljVy1fTU9rZXZCYUItWVpwWXUtU3lmb2Q4dHpfTHMyRzZYSTlGWGdRdWpISDI1X0VpTUI1S1doTEdwZlpEblBaS2E5TlRmWWpjUGJjZEpJVUp0bldoNG9JS0xXU3owR1JBSzdIbkl0Sl9pTFZFd00?oc=5",
+      "image": null,
+      "headline": "Trump Sued Over Plan To Monetize His Truth Social Posts - forbes.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
+        }
+      ]
+    },
+    {
       "id": "5e720f78f146306a",
       "date": "Wed, 12 Aug 2026",
       "ts": "2026-08-12T15:24:29+00:00",
@@ -1403,6 +2178,114 @@
         {
           "d": "08-12",
           "c": 8.38
+        }
+      ]
+    },
+    {
+      "id": "d6ea931e6083ecc0",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T14:48:01+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "The Intercept",
+      "type": "news",
+      "quote": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements - The Intercept The Intercept Sues Trump for",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": -6.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3FScGxvdDktUHprY1oyaUhvNEJGTHdYbEFBUW42NWs4TFcxb0ZSc0FGZ3NySy1pSk9EY2dSQ2NOWHZFZmhQMU5aamNiNGVQd3ZpN3VsZUZjQUZVNGxaRDV5djZHN1NGVTZ6V29pQkFEWG9Ua29xZzNuWTUzemVzUl9KUXZLZ3VvaUl1aA?oc=5",
+      "image": null,
+      "headline": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements - The Intercept",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.32
         }
       ]
     },
@@ -40149,865 +41032,6 @@
           "c": 267.31
         }
       ]
-    },
-    {
-      "id": "0e70d2815695b99e",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T15:16:31+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "TechCrunch",
-      "type": "news",
-      "quote": "Rivian sues the US government for \u2018full refund\u2019 of Trump tariffs",
-      "company": "Rivian",
-      "ticker": "RIVN",
-      "price": 15.71,
-      "change": -4.56,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelNUSWJBRDZ2aGY0TmdOaTVKazZIUjlkZ1R1NmFsOXU0eUhTTlNiaFkxaWJjUC05TmRsMmU1S1VnU2pRcXJwTndadXpjczNKUE13dUoxdF8zVlpJRC1mX1hSeFBGQmNLZjBNN3pXOWl5QkQtT1p0b1lCMC1nWWM2YmNvc1BUWjRkRkN4OGJMSTVWVVp2SExybm5YM1pXUQ?oc=5",
-      "image": null,
-      "headline": "Rivian sues the US government for \u2018full refund\u2019 of Trump tariffs - TechCrunch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 14.64
-        },
-        {
-          "d": "06-25",
-          "c": 14.86
-        },
-        {
-          "d": "06-26",
-          "c": 15.63
-        },
-        {
-          "d": "06-29",
-          "c": 16.81
-        },
-        {
-          "d": "06-30",
-          "c": 17.35
-        },
-        {
-          "d": "07-01",
-          "c": 17.18
-        },
-        {
-          "d": "07-02",
-          "c": 18.63
-        },
-        {
-          "d": "07-06",
-          "c": 20.14
-        },
-        {
-          "d": "07-07",
-          "c": 16.49
-        },
-        {
-          "d": "07-08",
-          "c": 16.66
-        },
-        {
-          "d": "07-09",
-          "c": 18.12
-        },
-        {
-          "d": "07-10",
-          "c": 17.48
-        },
-        {
-          "d": "07-13",
-          "c": 17.31
-        },
-        {
-          "d": "07-14",
-          "c": 17.5
-        },
-        {
-          "d": "07-15",
-          "c": 17.8
-        },
-        {
-          "d": "07-16",
-          "c": 17.09
-        },
-        {
-          "d": "07-17",
-          "c": 17.45
-        },
-        {
-          "d": "07-20",
-          "c": 17.24
-        },
-        {
-          "d": "07-21",
-          "c": 17.76
-        },
-        {
-          "d": "07-22",
-          "c": 17.18
-        },
-        {
-          "d": "07-23",
-          "c": 16.46
-        },
-        {
-          "d": "07-24",
-          "c": 15.71
-        }
-      ]
-    },
-    {
-      "id": "d6d9eee8f4cbbb49",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T12:20:35+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "Kavout | AI",
-      "type": "news",
-      "quote": "What's Driving the Hype Around Trump Media & Technology Group ($DJT) - Kavout | AI What's Driving the",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": 0.22,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmNjRldISEF3alVuMzAtdnoySDR5NVhpUWg3Q1RSSXQ3R0hpMmJpQXFsX01GeHE1ZHZjdUpoOFRHLVNhZnlUYlZrVGdDQVVqU0xkSWhBYmJqZm5EYVVvMjRDY3N4eExzUFMzTno1alZTejY3MGJDMzZMblBKbHlub0R2aGJDUmhtQVIwaGtwcVQ4ajhEampSbmpPaGhqLTg?oc=5",
-      "image": null,
-      "headline": "What's Driving the Hype Around Trump Media & Technology Group ($DJT) - Kavout | AI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "78c84a30e02d9f96",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T08:37:00+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "not impressed by Trump\u2019s plan to charge extra for early Truth Social access - The Independent Wall Street and GOP not impressed",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.89,
-      "change": -3.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmhOcGRQMVpQNUdLSXF2WVc3QzFTRFNySUlJVGh5UG0yZkhnNEkwTDh3OFJIaEZ1NjF1Vm1lVm9ielRMcmE0WENpR0hySDhwaEVtVWdqUzBLTW5XMzdZcTg0SFQzcFc0SkVfTk5mUkxGcEZrTFNzUFV0N0RZSHVhOEhYdk9kS204OHFBdHd0TmVSdFRzejZUdjRtRTR0S21HR2xWRlhQck9SeWxYcjktMkJNT1AxQWpzV0E?oc=5",
-      "image": null,
-      "headline": "Wall Street and GOP not impressed by Trump\u2019s plan to charge extra for early Truth Social access - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        }
-      ]
-    },
-    {
-      "id": "70e1a8944ef82684",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T08:37:00+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Wall Street and GOP slams Trump\u2019s plan to charge for early Truth Social access - The Independent Wall Street and GOP slams Trump\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.09,
-      "change": 6.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmhOcGRQMVpQNUdLSXF2WVc3QzFTRFNySUlJVGh5UG0yZkhnNEkwTDh3OFJIaEZ1NjF1Vm1lVm9ielRMcmE0WENpR0hySDhwaEVtVWdqUzBLTW5XMzdZcTg0SFQzcFc0SkVfTk5mUkxGcEZrTFNzUFV0N0RZSHVhOEhYdk9kS204OHFBdHd0TmVSdFRzejZUdjRtRTR0S21HR2xWRlhQck9SeWxYcjktMkJNT1AxQWpzV0E?oc=5",
-      "image": null,
-      "headline": "Wall Street and GOP slams Trump\u2019s plan to charge for early Truth Social access - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.09
-        }
-      ]
-    },
-    {
-      "id": "4bed5766abe54e6e",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T07:48:22+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "Morning Brew",
-      "type": "news",
-      "quote": "Truth Social is selling faster access to President Trump\u2019s posts -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.89,
-      "change": -3.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2gxVy1Kb3lnMWJaa2ZoUGc2RHFWSFExQmlnM0ZwbS1XcVVKSVhhT1F0eURYTFY1eE9FTW1oM2J6V2xoeklWdkx6aUQyR293OFFESzFNV0JkMHZnekkzWW9NSWN3T0twRlprd0NmMkRsb3Q4RXA2THV2VHY0dWVqN2ZPdEozV0gyanZN?oc=5",
-      "image": null,
-      "headline": "Truth Social is selling faster access to President Trump\u2019s posts - Morning Brew",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        }
-      ]
-    },
-    {
-      "id": "055748e088ef805b",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T07:48:22+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "morningbrew.com",
-      "type": "news",
-      "quote": "Truth Social is selling faster access to President Trump\u2019s posts -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.38,
-      "change": 5.38,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2gxVy1Kb3lnMWJaa2ZoUGc2RHFWSFExQmlnM0ZwbS1XcVVKSVhhT1F0eURYTFY1eE9FTW1oM2J6V2xoeklWdkx6aUQyR293OFFESzFNV0JkMHZnekkzWW9NSWN3T0twRlprd0NmMkRsb3Q4RXA2THV2VHY0dWVqN2ZPdEozV0gyanZN?oc=5",
-      "image": null,
-      "headline": "Truth Social is selling faster access to President Trump\u2019s posts - morningbrew.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        }
-      ]
-    },
-    {
-      "id": "b851004b865e1304",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T07:00:00+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "reuters.com",
-      "type": "news",
-      "quote": "Trump says US to launch EU probe over 'illegal' Google fine - reuters.com Trump says US to launch EU probe over",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 356.13,
-      "change": 6.73,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3dXSEd1bktIXy1XcmlsWGFYekt3d2dPeW53TVdyeVBiT0RkdDJERks0eXp0cVlheW54SFVPYU5aYnhwaFNfLVdXNWc3dVQxM0FTR3Y4UUlEQVZLd1JFZmhGZmx0U282TzdnaXJxbnQ5QkVlczlLZExqdmdTbk4tblE0RXNWMzNlOGk5ZkdXenptLUNLRHZXaS1aNmVocTEz?oc=5",
-      "image": null,
-      "headline": "Trump says US to launch EU probe over 'illegal' Google fine - reuters.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.74
-        },
-        {
-          "d": "07-27",
-          "c": 326.56
-        },
-        {
-          "d": "07-28",
-          "c": 333.71
-        },
-        {
-          "d": "07-29",
-          "c": 336.71
-        },
-        {
-          "d": "07-30",
-          "c": 333.66
-        },
-        {
-          "d": "07-31",
-          "c": 356.13
-        }
-      ]
-    },
-    {
-      "id": "d892855784d2250c",
-      "date": "Thu, 23 Jul 2026",
-      "ts": "2026-07-24T03:31:19+00:00",
-      "date_display": "Jul 23, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge The Justice",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.17,
-      "change": -3.86,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-      "image": null,
-      "headline": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        }
-      ]
-    },
-    {
-      "id": "4a28f169cec52f10",
-      "date": "Thu, 23 Jul 2026",
-      "ts": "2026-07-23T22:52:59+00:00",
-      "date_display": "Jul 23, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Sea shipping For perspective on the Houthis' efforts to block shipping in the Red Sea, Amna Nawaz spoke with Timothy",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/widerwardiss-1024x683.jpg",
-      "headline": "Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping",
-      "channel": "News",
-      "series": null
     }
   ]
 }
