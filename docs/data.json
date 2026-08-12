@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-08-12T00:05:12.544798+00:00",
+  "updated_at": "2026-08-12T03:01:56.715639+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f1b9dd39b4e54d22",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T00:13:12+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Media Play News",
+      "type": "news",
+      "quote": "Trump Media Posts $238 Million Quarterly Loss, Company Now Selling",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSkhhai1VOG0yNEFSc1VJdXE3aHV4NHM0bXFjam1OSU5fRzE4SU1jYXB4RVVhVVpJTkUtc1pTczNwd0ZLakYtUXdSeFNKYlhlLTJyb1RycmEwNXBveFAxM1p3OW1OQmtYR3lIblhDeHRpV3pta1ltMU9qNlFTcVF4dWU5dENFWnJxd0NmbDNuVHRLNmF0bVdrUmhMclB0UXBQTkVZQXlIUnhrUVZLZlFYRGZ2Rk9neTYyMmk5MFdaMUo2Vnl4ZDFQcVE3Ym1NNzFLOXdSZDB0T1diOWV2RzFqZQ?oc=5",
+      "image": null,
+      "headline": "Trump Media Posts $238 Million Quarterly Loss, Company Now Selling Access to Early President Trump's Truth Social Posts - Media Play News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        }
+      ]
+    },
+    {
+      "id": "46dd881e02295f86",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T00:10:22+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Intellectia AI",
+      "type": "news",
+      "quote": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4eUdBbGF1dVJBYXdDVVJQbkR3cnNnOGRpSjYtRWVNbEZKNVBXa25OS25PcGhRWGNZeXU5VjJpWmdxYW1UTXRvc1RwVVhld3hYcURwVUVxWFo2NklqeXloM0w3a2lnRzV0RFMyVzhNVDVxVUE2NVRLeEFR?oc=5",
+      "image": null,
+      "headline": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy After Massive Losses - Intellectia AI",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        }
+      ]
+    },
+    {
+      "id": "70ad82c033ee6964",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T00:10:22+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Intellectia AI",
+      "type": "news",
+      "quote": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy After Massive Losses - Intellectia AI Trump Media (DJT)",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 96.09,
+      "change": -1.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4eUdBbGF1dVJBYXdDVVJQbkR3cnNnOGRpSjYtRWVNbEZKNVBXa25OS25PcGhRWGNZeXU5VjJpWmdxYW1UTXRvc1RwVVhld3hYcURwVUVxWFo2NklqeXloM0w3a2lnRzV0RFMyVzhNVDVxVUE2NVRLeEFR?oc=5",
+      "image": null,
+      "headline": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy After Massive Losses - Intellectia AI",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 92.1
+        },
+        {
+          "d": "07-14",
+          "c": 97.58
+        },
+        {
+          "d": "07-15",
+          "c": 97.47
+        },
+        {
+          "d": "07-16",
+          "c": 94.03
+        },
+        {
+          "d": "07-17",
+          "c": 94.85
+        },
+        {
+          "d": "07-20",
+          "c": 97.82
+        },
+        {
+          "d": "07-21",
+          "c": 101.95
+        },
+        {
+          "d": "07-22",
+          "c": 100.01
+        },
+        {
+          "d": "07-23",
+          "c": 93.63
+        },
+        {
+          "d": "07-24",
+          "c": 91.67
+        },
+        {
+          "d": "07-27",
+          "c": 98.65
+        },
+        {
+          "d": "07-28",
+          "c": 96.16
+        },
+        {
+          "d": "07-29",
+          "c": 93.33
+        },
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        },
+        {
+          "d": "08-03",
+          "c": 94.86
+        },
+        {
+          "d": "08-04",
+          "c": 97.65
+        },
+        {
+          "d": "08-05",
+          "c": 98.37
+        },
+        {
+          "d": "08-06",
+          "c": 96.85
+        },
+        {
+          "d": "08-07",
+          "c": 100.01
+        },
+        {
+          "d": "08-10",
+          "c": 97.33
+        },
+        {
+          "d": "08-11",
+          "c": 96.09
+        }
+      ]
+    },
     {
       "id": "c43cb1e94cd5cb84",
       "date": "Tue, 11 Aug 2026",
@@ -40553,322 +40877,6 @@
         {
           "d": "08-05",
           "c": 65.48
-        }
-      ]
-    },
-    {
-      "id": "0b1b6ef265b4d76c",
-      "date": "Wed, 22 Jul 2026",
-      "ts": "2026-07-22T07:00:00+00:00",
-      "date_display": "Jul 22, 2026",
-      "source": "bbc.co.uk",
-      "type": "news",
-      "quote": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 153.74,
-      "change": 1.13,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMVp5ZjdnQUFVWG5HZHVjR3RmN1NkRlJzVXJRN2E2UTM1Q0pfSEUzRXlIazA1QUZnSnhLRTRnWWdZcjJOZ3h5eDlkd2JYZVQ5MHcxTG1IR2NVQURO?oc=5",
-      "image": null,
-      "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist - bbc.co.uk",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
-        },
-        {
-          "d": "07-21",
-          "c": 138.48
-        },
-        {
-          "d": "07-22",
-          "c": 137.92
-        },
-        {
-          "d": "07-23",
-          "c": 134.48
-        },
-        {
-          "d": "07-24",
-          "c": 136.78
-        },
-        {
-          "d": "07-27",
-          "c": 140.34
-        },
-        {
-          "d": "07-28",
-          "c": 144.2
-        },
-        {
-          "d": "07-29",
-          "c": 145.9
-        },
-        {
-          "d": "07-30",
-          "c": 144.51
-        },
-        {
-          "d": "07-31",
-          "c": 144.49
-        },
-        {
-          "d": "08-03",
-          "c": 149.35
-        },
-        {
-          "d": "08-04",
-          "c": 148.11
-        },
-        {
-          "d": "08-05",
-          "c": 147.7
-        },
-        {
-          "d": "08-06",
-          "c": 147.08
-        },
-        {
-          "d": "08-07",
-          "c": 149.7
-        },
-        {
-          "d": "08-10",
-          "c": 152.02
-        },
-        {
-          "d": "08-11",
-          "c": 153.74
-        }
-      ]
-    },
-    {
-      "id": "b573718d43e57fc9",
-      "date": "Wed, 22 Jul 2026",
-      "ts": "2026-07-22T04:19:10+00:00",
-      "date_display": "Jul 22, 2026",
-      "source": "World Socialist Web Site",
-      "type": "news",
-      "quote": "How Trump uses Truth Social to manipulate markets and pocket millions - World",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.82,
-      "change": 0.82,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvNkYzLVdQRmVGM2hkRGRGSm1qSHE2U1pzem1oYjQ5dDBpNTE4cFhwbHVMV3Z0ajF6SlNXbVFlS3dBZkN6TjF3TnY1cklXc1V6OXBSQ29qY1ZnenIzdGs5dngxRjRKX1VK?oc=5",
-      "image": null,
-      "headline": "How Trump uses Truth Social to manipulate markets and pocket millions - World Socialist Web Site",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 8.12
-        },
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        }
-      ]
-    },
-    {
-      "id": "9918cddd99ee7566",
-      "date": "Tue, 21 Jul 2026",
-      "ts": "2026-07-21T23:14:45+00:00",
-      "date_display": "Jul 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "the failure,' Sen. Peters tells Hegseth over lack of U.S. strategy in Iran war Sen. Gary Peters, D-Mich., told Defense",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 101.95,
-      "change": 4.22,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-you-sir-are-the-failure-sen-peters-tells-hegseth-over-lack-of-u-s-strategy-in-iran-war",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-21T220933Z_297253199_RC2LIMA6T59I_RTRMADP_3_USA-BUDGET-CONGRESS-1024x683.jpg",
-      "headline": "WATCH: 'You, sir, are the failure,' Sen. Peters tells Hegseth over lack of U.S. strategy in Iran war",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-22",
-          "c": 109.46
-        },
-        {
-          "d": "06-23",
-          "c": 103.84
-        },
-        {
-          "d": "06-24",
-          "c": 94.13
-        },
-        {
-          "d": "06-25",
-          "c": 85.33
-        },
-        {
-          "d": "06-26",
-          "c": 82.31
-        },
-        {
-          "d": "06-29",
-          "c": 92.68
-        },
-        {
-          "d": "06-30",
-          "c": 86.93
-        },
-        {
-          "d": "07-01",
-          "c": 93.39
-        },
-        {
-          "d": "07-02",
-          "c": 100.77
-        },
-        {
-          "d": "07-06",
-          "c": 100.77
-        },
-        {
-          "d": "07-07",
-          "c": 97.36
-        },
-        {
-          "d": "07-08",
-          "c": 93.87
-        },
-        {
-          "d": "07-09",
-          "c": 93.89
-        },
-        {
-          "d": "07-10",
-          "c": 94.64
-        },
-        {
-          "d": "07-13",
-          "c": 92.1
-        },
-        {
-          "d": "07-14",
-          "c": 97.58
-        },
-        {
-          "d": "07-15",
-          "c": 97.47
-        },
-        {
-          "d": "07-16",
-          "c": 94.03
-        },
-        {
-          "d": "07-17",
-          "c": 94.85
-        },
-        {
-          "d": "07-20",
-          "c": 97.82
-        },
-        {
-          "d": "07-21",
-          "c": 101.95
         }
       ]
     }
