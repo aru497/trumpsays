@@ -1,7 +1,655 @@
 {
-  "updated_at": "2026-08-12T20:31:07.632671+00:00",
+  "updated_at": "2026-08-12T21:33:21.637375+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e597bc96df0ba370",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T21:29:09+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "WSMH",
+      "type": "news",
+      "quote": "sued over his media company selling early access to his Truth Social posts - WSMH Trump sued over his media company selling",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEpDOUdOTzVCSVI2YmUyUzZUTkhSSnRyaWRkVTBET1pwVlFfT2pLVUJEN0M0ZmxGaGIxclpJaURQUzE0SXFsN1R0R2JkbXZIczg1dzhMalR0WEJUbFh0QXdObDFNMXRmUTRHQXcwWXhBTk1Eazc5SDB5NTVlYi1yaGNCRzROQ0o3dHRyeWZ0b1MtM0Qtb3VHT0pSOG1KY0t0UFVwazhtLTg0blB3eTJ3ekh4RmhILWktVHZrbGEtTFdKZzZldmJkeHdFaXBNdE1tRVN6bS1XSEFjTWhQS09sMEk5cDNnZDN4VXdtUlBfOXQ?oc=5",
+      "image": null,
+      "headline": "Trump sued over his media company selling early access to his Truth Social posts - WSMH",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "acbf762e65b16756",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T21:09:25+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Law Commentary",
+      "type": "news",
+      "quote": "Trump Sued Over $100,000 Truth Social Feed Offering Faster Access to Official Posts - Law",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWxjbk1JcV9KejNTcE4taFllUkVEdktQQjQ0ZEpuY3FZdWNsU1lpZWlEYTFvVXpsZm03SDF4WnE3aWVycEsyV3lZbVlvem5kVFJCaGdsTm9Ra0lnNWNaa3BaTGVzX3h6d0F0WlJqb1ZRcXdXTEt2VUFpTXdtZXo2QUFlMktwOHdNMU5IU2VTREIxYlFUa3ZsZFBMQkRDWDU1Tzk4a1pRODZDb0VkUmRMcU1vVkRlbVF3LThNQQ?oc=5",
+      "image": null,
+      "headline": "Trump Sued Over $100,000 Truth Social Feed Offering Faster Access to Official Posts - Law Commentary",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "bb563c84f1311381",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T20:56:46+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "inc.com",
+      "type": "news",
+      "quote": "Trump\u2019s Truth Social Feed Costs Wall Street $100,000 a Month. Now a Lawsuit",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZllRekxwX29tN0FCaV9BaFptcDloWnhDdjAyNGl3SFRCMTNRLWEwNUNDVnU4Y0J5NTlwQVlRZWRsNWxXTUI4Ymt2WWVkUU5oelFXOHFrd2JwbTdQSkFVdzdodWlrZHdzVTk1RjlUUVFQYzc0d1NibHE3VXRjUGpCWl9qRkFfOXhoZTU2Umx2Qm1TMXdXVzJDWmFPbTF5eS1EVlM3RndJcFcydnBFLXJR?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Truth Social Feed Costs Wall Street $100,000 a Month. Now a Lawsuit Could Undercut It - inc.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "4717d58ffeecec28",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T20:50:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "New York Post",
+      "type": "news",
+      "quote": "Trump Media charging for early access to president\u2019s posts slammed as",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUU1fN1VsZEluLVVZWGlVd0ZYa0dIVk5rbVpxR3Uyb2M5SzNBRld5QWxvNUV4SGVLLWtEaS1zUFlvNVpBYXdrZlNscGdwR2FFWmZRYnh4NTJfa3ZKbWN5VW56WVBRZ0QzQUliR3h0Mkp0aGVsUTQ2eFVaVWZQem93ZHlCTWRHSzdEc1Y2WVV2MHEwWWxLbUEzdVpfcGpWY2QxQ3RyM01LOUFCNUlCZlplVWZSWFhUQ2ZtdFlVSW9DMFp3U3lsdk92SW55elJHbmd3MVkzLQ?oc=5",
+      "image": null,
+      "headline": "Trump Media charging for early access to president\u2019s posts slammed as 'blatantly corrupt,' lawsuit says - New York Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "d21e29a582dc20d2",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T20:33:10+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "NPR",
+      "type": "news",
+      "quote": "Trump sued over service selling faster access to Truth Social posts - NPR Trump sued over service selling faster access",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUxwVjhqVXhzR3BvYjZGR2QybzN1bHNyTGs1S2dLS1d6TUJZX2tzbC11MC1nV3JqM3V4c2YybnVQZ19qcWRTVGkyY3JaWE1MUjZHcW1VSklGWHVoT3ZacUJBaTViaXJ0NUFseWRKY240c2U2Q0ptYWpvcmdZTF9meQ?oc=5",
+      "image": null,
+      "headline": "Trump sued over service selling faster access to Truth Social posts - NPR",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "9d51dc591028b94d",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T20:24:22+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "nytimes.com",
+      "type": "news",
+      "quote": "Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth Social Posts - nytimes.com Suit Challenges Plan to Sell Early",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkRqb2Vnczh3SDZoZnNpSXQtRU1SU01YY3BhWkZZX2ZNekh0d2dzTmIyd0tjenVwc3hWcUJKWFNXbUV3MENza0cwZkJtME15WmREMlE5U3FmMXRRYk1yLU90LW9FUjRPUWR0RUZYSTJRd2dIWUh1LUpIWEhFcXFEcEk2U1Q?oc=5",
+      "image": null,
+      "headline": "Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth Social Posts - nytimes.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
     {
       "id": "c8b0f5096e13b7ef",
       "date": "Wed, 12 Aug 2026",
@@ -651,6 +1299,114 @@
       ]
     },
     {
+      "id": "4fcb5253cef35b4b",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T18:36:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - The Guardian Trump sued over $100,000-a-month",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU05Pbi1ja3JrSjM5bTBYd0tzVFVhZXJzLXdIOEp1U2lvQmpCRWdPdDdtM0RqRS1Bbm42c3VoU2FZYlpvbFhYcnh3WjJOSmlMMERwdndPN2hTbTgwS0g4c1lGNmxOTXdaMzBPX1poWnVJR0w3UlFtMTRLOVN2dlNXS2ZnTzhUMXJuSEZudGxJc3AtcFpX?oc=5",
+      "image": null,
+      "headline": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
       "id": "2a3d5d8c8e3e8fd2",
       "date": "Wed, 12 Aug 2026",
       "ts": "2026-08-12T18:35:32+00:00",
@@ -1098,6 +1854,114 @@
         {
           "d": "08-12",
           "c": 8.38
+        }
+      ]
+    },
+    {
+      "id": "4d792917e30ab822",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T17:51:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Lawsuit against Trump alleges sale of faster access to his Truth Social posts is 'profoundly corrupt' - Business Insider Lawsuit",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1YybzUtZWpUY25YUGkycE9FZVl3NGtRdjYtem9CRDROcWxQWGRUVVNjM3ZzeV9VMHM5bU1WZzRoVW83Rnk5bW5EbWhTbXdRNWRpZkZLQ1lmSTRDeHJYQWxqalpNYkZzWVpzY0FNdUNWNm00OEo3YmcyUWlRaXd0RFZ6dXNaWVprSlBnaVA0ZU9sNXJ4SWJqY1d6Smh4dHh4?oc=5",
+      "image": null,
+      "headline": "Lawsuit against Trump alleges sale of faster access to his Truth Social posts is 'profoundly corrupt' - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
         }
       ]
     },
@@ -40194,846 +41058,6 @@
         {
           "d": "07-24",
           "c": 8.56
-        }
-      ]
-    },
-    {
-      "id": "b3e21111103313d0",
-      "date": "Sat, 25 Jul 2026",
-      "ts": "2026-07-25T04:24:10+00:00",
-      "date_display": "Jul 25, 2026",
-      "source": "The Jakarta Post",
-      "type": "news",
-      "quote": "Trump says EU to pay 'very big price' for Google fine - The Jakarta Post Trump says EU to pay 'very big",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 319.74,
-      "change": 0.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdTFzYWlkU2I2NTVWU0JUdXJmY0V2ZURjSUJsTjlZQTUzZ1N5TmJvWkNzNXRacjhmcTJCZHBMUHpGVlFrMS00Z3B5YmZVQVBSeW1zMFVyNVY4SVJfbkJTX0hZVjA5RnIwTGNQSm1FS2VnSkkzU2pjWF84NkdUUmdDTTl1VGVweWU3V1JlTmdSMUE1dXlCU2t1X0thNTlQMG1WTklOOQ?oc=5",
-      "image": null,
-      "headline": "Trump says EU to pay 'very big price' for Google fine - The Jakarta Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-25",
-          "c": 343.71
-        },
-        {
-          "d": "06-26",
-          "c": 337.39
-        },
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.74
-        }
-      ]
-    },
-    {
-      "id": "0b1fdd0eb93c9274",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T21:23:00+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "Inquirer.net",
-      "type": "news",
-      "quote": "Trump says EU to pay \u2018very big price\u2019 for Google fine - Inquirer.net Trump says EU to pay \u2018very big price\u2019",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 319.74,
-      "change": 0.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbm84XzV2ZFhIQ25ad0cxanBTMlc0TkZoZmlGSjhRaXdLcUI4Mkg4dm9YNU5VMVNKR3RJQnFVNzZua2tYUTJjYUJBSHZ0eTVQQlBTdHJJdE9sWU9oeDNUU2ZtWHByNkU5WDFHSXZjcDltSGZmZFljX0JHR084a0gzaFJ4c2d4RXo5aWlDcVIwelg5Z212UXlv0gGcAUFVX3lxTE11Rmdhd0FuNVAxbFpGVkxjWG44UnZSZFJVbmdMVFZBVlVUbEtFTk1PWDhSeEN2ajFHc2JoVzRQUzM1ZWstZ0NfVHVJbl9KSmhyMUdtdzdjRFp5eHBES0F1X0NRM1ZoQnNBdU04WVpmOHd1WDFPTWJFdWpZVFpDMUpqN3diV2ZHcms1U0hrUlV3VFVRWWg3Q0lMa2hhRg?oc=5",
-      "image": null,
-      "headline": "Trump says EU to pay \u2018very big price\u2019 for Google fine - Inquirer.net",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-25",
-          "c": 343.71
-        },
-        {
-          "d": "06-26",
-          "c": 337.39
-        },
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.74
-        }
-      ]
-    },
-    {
-      "id": "4ee7bc660e695b0b",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T18:54:31+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "dw.com",
-      "type": "news",
-      "quote": "Trump threatens EU with tariff probe over Google, tech fines - dw.com Trump threatens EU with tariff probe",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 319.96,
-      "change": 0.71,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDNRLUxEQ1p6dV8xY2tjS2JPNXgzZWFTNkRoTjJFbTR1ZUVBMHVGOTdHV1hzM280Mk1MOHN2a3Q4VUMzajFKV2tvem9MZ20yYkowUjFLd3ZNZnY2ZEtNVUgzQzVsLVhsWEVIZWpuZUY0OV9VdjRfYVgxOXplNFYzaFY5aXBVRTI4bi1BcXdBR0FSVXZqMFU00gGXAUFVX3lxTFBfWHVfU21MTGNubWRLMlN6d3FvX2F4ZW53clhWZlFLY19KbFRKdFhYTjU4b08yd01ncllaSUREYlU0YU5DWlVOZlFMdkNXazRETm5RZU1VcTUwTVd2VWpxcHJfUi11b19LWjRKdWs1UFNxeHhlTnJBd0lqbG80SlJsZ2kwWC1tSk5CWk9sVlFuMnk3dXhXblk?oc=5",
-      "image": null,
-      "headline": "Trump threatens EU with tariff probe over Google, tech fines - dw.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 345.29
-        },
-        {
-          "d": "06-25",
-          "c": 343.71
-        },
-        {
-          "d": "06-26",
-          "c": 337.39
-        },
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.96
-        }
-      ]
-    },
-    {
-      "id": "d6d0e526bd75eff5",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T18:25:38+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "MS NOW",
-      "type": "news",
-      "quote": "Trump Media plan to sell special access to social media posts faces",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.7,
-      "change": -2.14,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1lTTkJUS2F3eVBfRk9oUnNrNHY1eUl0WG4zMlo2cGlZa0JnS2lJVy1SdEE2MHRXcU90ZlpBd2RPdmRQbWNIeFpscE9wclVrUEdoQjRZdk1JZm5XV0ZfZDNwY0RHVy05dGhDVjBRRXFRT25seHRuZU5md2hQMHJNRUFZNWxwWEl6ZEl4T0ZsbW9EN0w4R0NvYnVVYTRKQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media plan to sell special access to social media posts faces bipartisan pushback - MS NOW",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.7
-        }
-      ]
-    },
-    {
-      "id": "aad4f6d591353e54",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T18:20:09+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "Digital Journal",
-      "type": "news",
-      "quote": "Trump says EU to pay \u2018very big price\u2019 for Google fine - Digital Journal Trump says EU to pay \u2018very big",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 319.74,
-      "change": 0.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2JtOTRUcXowejV4X2JuZGhIME8zMFp0ZnBwb09UeC1sOVBmMDBNS0o1NVFINi0wLVNOMHFUNW9iVGlzSk5keVN6WjQ2QlBqVjJWLWdUMVhNaV81bmk5cXJsSEZJZkYzNXIxdmFuUnJuN1BFSTBBMkZWQ0JoRlBPRHlUdHVkbGo4YlAtRXVNV2FXVEF3eHc?oc=5",
-      "image": null,
-      "headline": "Trump says EU to pay \u2018very big price\u2019 for Google fine - Digital Journal",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-25",
-          "c": 343.71
-        },
-        {
-          "d": "06-26",
-          "c": 337.39
-        },
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.74
-        }
-      ]
-    },
-    {
-      "id": "297b18717ed7acc3",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T18:17:34+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "The Straits Times",
-      "type": "news",
-      "quote": "Trump says EU to pay \u2018very big price\u2019 for Google fine - The Straits Times Trump says EU to pay \u2018very big",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 319.74,
-      "change": 0.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1o0cGo3VlIwZjktQ29yVG9mcmxQNU1MNk9hbXFEU3I2WEhFUG83ZTVtZnBSUVBqSUxsN2xBQmhiMEFCRlNzcl9TMDZfdWdIc1FURi1VUGxSZ0U2QzBwdm96aVRTTkVYMVlOODYtRDZjSmVRMndQVzFuQWpkWlVuYmduZ3Fjb3ZReEFzekdkcGpxQWRNWGNWYQ?oc=5",
-      "image": null,
-      "headline": "Trump says EU to pay \u2018very big price\u2019 for Google fine - The Straits Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-25",
-          "c": 343.71
-        },
-        {
-          "d": "06-26",
-          "c": 337.39
-        },
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.74
-        }
-      ]
-    },
-    {
-      "id": "429a51a34cc52a27",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T18:00:00+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "Macau Business",
-      "type": "news",
-      "quote": "UPDATE: Trump says EU to pay \u2018very big price\u2019 for Google fine - Macau Business UPDATE: Trump says EU to pay \u2018very",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 319.96,
-      "change": 0.71,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEgzUHVjOGJ2cG5hTDNKTk1LM0poSWtaSFUyZkFPbTBJSGhhdmx0ckJSN2RFS0t1ak0yZEJacDNaWnM2OUJGYVdYbkduX1hXNXVBRjRuQzZvMDZDeVhqZjlENGRVTGpWTXlGb0FQX3c1ZWF4LVc2U21tdU5Wa1RxMzg3QlE?oc=5",
-      "image": null,
-      "headline": "UPDATE: Trump says EU to pay \u2018very big price\u2019 for Google fine - Macau Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-24",
-          "c": 345.29
-        },
-        {
-          "d": "06-25",
-          "c": 343.71
-        },
-        {
-          "d": "06-26",
-          "c": 337.39
-        },
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.96
-        }
-      ]
-    },
-    {
-      "id": "47568ef2e12febe9",
-      "date": "Fri, 24 Jul 2026",
-      "ts": "2026-07-24T17:49:42+00:00",
-      "date_display": "Jul 24, 2026",
-      "source": "Euronext Markets: Real-time Stock Market Data | live",
-      "type": "news",
-      "quote": "Trump says US to launch EU probe over 'illegal' Google fine - Euronext Markets: Real-time Stock Market Data |",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 328.66,
-      "change": 2.79,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFZEc3ZCZHpHSDY3XzUxcGpqNlVBdlB2RmE2cGppVGVfdWFnMXFFd2NNT1RuUEFVYTlkNi1MOTVaU1lqVVVOXzhQUC11U1MxZjNrd3EwZnlCRHVmYVlseVoya0ltT2F1Q2NqckJFNXZQSW5pOV9qNkhtZTh3ZmpFNDJTbVVOZl8zTF9CbUlTc1pNR1RhdlJGa0VzaGJqMUE?oc=5",
-      "image": null,
-      "headline": "Trump says US to launch EU probe over 'illegal' Google fine - Euronext Markets: Real-time Stock Market Data | live",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 353.65
-        },
-        {
-          "d": "06-30",
-          "c": 357.37
-        },
-        {
-          "d": "07-01",
-          "c": 361.21
-        },
-        {
-          "d": "07-02",
-          "c": 359.91
-        },
-        {
-          "d": "07-06",
-          "c": 366.46
-        },
-        {
-          "d": "07-07",
-          "c": 367.03
-        },
-        {
-          "d": "07-08",
-          "c": 361.92
-        },
-        {
-          "d": "07-09",
-          "c": 358.89
-        },
-        {
-          "d": "07-10",
-          "c": 357.18
-        },
-        {
-          "d": "07-13",
-          "c": 352.51
-        },
-        {
-          "d": "07-14",
-          "c": 359.51
-        },
-        {
-          "d": "07-15",
-          "c": 370.92
-        },
-        {
-          "d": "07-16",
-          "c": 354.46
-        },
-        {
-          "d": "07-17",
-          "c": 346.77
-        },
-        {
-          "d": "07-20",
-          "c": 351.99
-        },
-        {
-          "d": "07-21",
-          "c": 347.15
-        },
-        {
-          "d": "07-22",
-          "c": 342.09
-        },
-        {
-          "d": "07-23",
-          "c": 317.69
-        },
-        {
-          "d": "07-24",
-          "c": 319.74
-        },
-        {
-          "d": "07-27",
-          "c": 328.66
         }
       ]
     }
