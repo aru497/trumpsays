@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-08-12T16:15:17.261063+00:00",
+  "updated_at": "2026-08-12T17:25:01.366938+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9a187d097560ce72",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T17:13:23+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "qz.com",
+      "type": "news",
+      "quote": "Intercept sues Trump over Truth Social API paywall - qz.com Intercept sues Trump over Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.38,
+      "change": -10.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlhnR25vN3pxUDJFYVBVT01wT3FwUVg2TmVOaEZQamV5VkM3ZzhLeHV3YjFtc1MyY2tEdUZGUnhTdnd6NmtpdFhCeEtkUXAxdzJNcTNLLTB6QVRZMkI2NXVaMUd3Qk1Db3FGcTM4VjlBdTRHTENaa0R1eWtzaGF1RDBjUnRHNkhBZlpJ?oc=5",
+      "image": null,
+      "headline": "Intercept sues Trump over Truth Social API paywall - qz.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-12",
+          "c": 8.38
+        }
+      ]
+    },
+    {
+      "id": "7ad9137f4aebc2e5",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T16:33:11+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "France 24",
+      "type": "news",
+      "quote": "Trump sued over sale of access to Truth Social posts - France 24 Trump sued over sale of access to Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.38,
+      "change": -10.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkkyc3FjRFVsRnhTSTZGaUhyV2lkajF2UTNETnA3VHU3SG9ZNU44ZmVjMklzNkNHYnloZEpweENsWFZRRDdFdnowTTcycGpZam05N04tWFNZaHRhaGozYjVzNGxoaTkyUjhFcDQ1VHB2ZGowd3hyVWhXRWRIMWpvenVZY1YyWE1QX1hzcEpRUlFoSkxBSmpOUzZMRmc1eXpB?oc=5",
+      "image": null,
+      "headline": "Trump sued over sale of access to Truth Social posts - France 24",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-12",
+          "c": 8.38
+        }
+      ]
+    },
+    {
+      "id": "5a79e4e213ae38f7",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T15:46:35+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "sued over selling early access to market-moving posts on Truth Social for up to $100,000/month - Pluang Trump sued over selling",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.38,
+      "change": -10.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUJRRm5wTGFrUVpoTjFxY2JDOE56NjY0U0ZKeUptRFdZS1RrLTVJaWZLQnBKcjdEYU5KdUcyM0FaRnk3aG9pSkVMODJmOEE3X0Z5RXJiS2dIVllLU1NMNFk5djJkNDJ0Nmw1SEVMb1YzcWMzb0VXQ3N3R2tYUVdRNGJrZ0hZalJKcnlvTg?oc=5",
+      "image": null,
+      "headline": "Trump sued over selling early access to market-moving posts on Truth Social for up to $100,000/month - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-12",
+          "c": 8.38
+        }
+      ]
+    },
+    {
+      "id": "a7774f1cef3f8fcc",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T15:41:25+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump Sued Over Plan To Monetize His Truth Social Posts - Forbes Trump Sued Over Plan To Monetize His Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.38,
+      "change": -10.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVlENE9sM1piTjRHbi1RME5xcGdlQUNWUW9fVk9LZDVVdDVnZGxkMW9yNTFRUTM2ZDNiVUljVy1fTU9rZXZCYUItWVpwWXUtU3lmb2Q4dHpfTHMyRzZYSTlGWGdRdWpISDI1X0VpTUI1S1doTEdwZlpEblBaS2E5TlRmWWpjUGJjZEpJVUp0bldoNG9JS0xXU3owR1JBSzdIbkl0Sl9pTFZFd00?oc=5",
+      "image": null,
+      "headline": "Trump Sued Over Plan To Monetize His Truth Social Posts - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-12",
+          "c": 8.38
+        }
+      ]
+    },
     {
       "id": "5e720f78f146306a",
       "date": "Wed, 12 Aug 2026",
@@ -40477,438 +40909,6 @@
         {
           "d": "07-23",
           "c": 8.82
-        }
-      ]
-    },
-    {
-      "id": "7f74c594b99fe391",
-      "date": "Thu, 23 Jul 2026",
-      "ts": "2026-07-23T15:46:23+00:00",
-      "date_display": "Jul 23, 2026",
-      "source": "Hindustan Times",
-      "type": "news",
-      "quote": "Why are Republicans criticizing Trump's Truth Social plan? $100,000 subscription explained | Hindustan Times -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.82,
-      "change": -4.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZTJFSnJZWHRTU2YzM1NFRTNQYmFuUWFoaXR6MkFWZFhCWVU2cEdnMXduczM2OERkNWxSZ3IyLTlFWVpiTlljUkt4ZlNkYnZmU19WQTdfVmI4ZGRfNGUyYVYzdWRwSXozVkFmWFpDQVVzbVlNeFBjdklpM2NuZldZZ1ZkaEp0a0VDVnRTOGFTcmdPcHNmV2hkNEJUbzJBalUtRTdqNzhLWWFEbDZDdmdvSnNDT3F6bndOeVlwN2NiRHAyczN4UjhoWFVsc2NfS21jVHlOWW9EX240bDRuRlpkeGU4enNlZW1DUDR2OWl6SdIB9AFBVV95cUxPVHRvb1hWdHJZa0dlYUhTemtwZXRILVk1VkRnLW54dHZVSlgtWklWZXI0eF9qb0V1MkRrLWJqeDZCWGl1Nk1kQm9sTTVmM1lnVmVGODVRM0hLUkw1UWlLMFRnSXNQRVpyUG9POFRUaERvbFBXS1ZFQkRTakRSVlJDTU8yRHJHS1cxd0w0X01rYWpKQ3Zhd1JqQlNGS3p5alBrTndxWW45aVp6NFRGV0prckhZVlFkSEpkMmUyVTdlWmd6cG9aWkY0WmFEM0pWeTl3N0pKTHdqTVQ4N2FUUHk1eGo4Z29WNm5STm5aOWZIRFRvaGxo?oc=5",
-      "image": null,
-      "headline": "Why are Republicans criticizing Trump's Truth Social plan? $100,000 subscription explained | Hindustan Times - Hindustan Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.82
-        }
-      ]
-    },
-    {
-      "id": "12acc5c9ad9839af",
-      "date": "Thu, 23 Jul 2026",
-      "ts": "2026-07-23T14:12:45+00:00",
-      "date_display": "Jul 23, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "investigations of President Trump and has been a frequent target of Trump's ire on social media.",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 134.24,
-      "change": -2.67,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
-      "image": null,
-      "headline": "Republicans in Congress Urge Justice Department to Investigate Former Prosecutor Jack Smith",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 134.11
-        },
-        {
-          "d": "06-24",
-          "c": 141.2
-        },
-        {
-          "d": "06-25",
-          "c": 139.57
-        },
-        {
-          "d": "06-26",
-          "c": 140.39
-        },
-        {
-          "d": "06-29",
-          "c": 133.92
-        },
-        {
-          "d": "06-30",
-          "c": 130.61
-        },
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
-        },
-        {
-          "d": "07-08",
-          "c": 132.42
-        },
-        {
-          "d": "07-09",
-          "c": 132.27
-        },
-        {
-          "d": "07-10",
-          "c": 135.14
-        },
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
-        },
-        {
-          "d": "07-21",
-          "c": 138.48
-        },
-        {
-          "d": "07-22",
-          "c": 137.92
-        },
-        {
-          "d": "07-23",
-          "c": 134.24
-        }
-      ]
-    },
-    {
-      "id": "a1c5495a0899ac8a",
-      "date": "Thu, 23 Jul 2026",
-      "ts": "2026-07-23T14:12:45+00:00",
-      "date_display": "Jul 23, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "investigations of President Trump and has been a frequent target of Trump's ire on social media.",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 134.65,
-      "change": -2.37,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
-      "image": null,
-      "headline": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 134.11
-        },
-        {
-          "d": "06-24",
-          "c": 141.2
-        },
-        {
-          "d": "06-25",
-          "c": 139.57
-        },
-        {
-          "d": "06-26",
-          "c": 140.39
-        },
-        {
-          "d": "06-29",
-          "c": 133.92
-        },
-        {
-          "d": "06-30",
-          "c": 130.61
-        },
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
-        },
-        {
-          "d": "07-08",
-          "c": 132.42
-        },
-        {
-          "d": "07-09",
-          "c": 132.27
-        },
-        {
-          "d": "07-10",
-          "c": 135.14
-        },
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
-        },
-        {
-          "d": "07-21",
-          "c": 138.48
-        },
-        {
-          "d": "07-22",
-          "c": 137.92
-        },
-        {
-          "d": "07-23",
-          "c": 134.65
-        }
-      ]
-    },
-    {
-      "id": "704272cc101105c3",
-      "date": "Thu, 23 Jul 2026",
-      "ts": "2026-07-23T13:51:54+00:00",
-      "date_display": "Jul 23, 2026",
-      "source": "Hindustan Times",
-      "type": "news",
-      "quote": "How Wall Street\u2019s Bots Are Cashing in on Trump\u2019s Truth Social Posts | World News - Hindustan Times How Wall Street\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.85,
-      "change": -4.12,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWZsZERJQW51aFhDdmw0cHBpMHF6LUhMbTVBRXFfMjJoWTlOY09Ka000MkVJOFBjVWxMYzNuLV9uLWtVeHFyTzYxYk1OTy1oUzBzSk1ZLUFrQVBQdTZvc1A2Z1ZINEdwYzNQY2sxNGZYazhnb1hSQzhnWFpPTS03SWh6VjZyR2JFRVRqN2NubnhCT1BVTXliS2N0OURyVXVIelBJX0gxQW5NUC1SbGcwaVotX2lxaWZvSVRmQ2ZDcDNJMzNKVmZiSHJR0gHPAUFVX3lxTE9BOWM1Nlh4MWN1VHl0cDluN0dpTUw1MzVibUVySjY0SDhSeTNQR3dKME4xOXRXTXZiRTZmNldhS01HZzdiZUlmMEY2WnFDWlpTQkRQcUVDbXFWZmZuMUpEOEVOeVVTdTlvVTctbDZIR2ZLRGtiSU1ubFQ4NjVIZG1LTVRaeGpjcHhoMllMUUFpMDRFRGJxdjQ0Z0J4ZGF6ZFN4SGhZZTNlTW1rbnJ6aWFYNnlhN3BSRTdVT2FfaVdBRjVCZEM1SE42M2lIUnltSQ?oc=5",
-      "image": null,
-      "headline": "How Wall Street\u2019s Bots Are Cashing in on Trump\u2019s Truth Social Posts | World News - Hindustan Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 7.88
-        },
-        {
-          "d": "06-24",
-          "c": 7.52
-        },
-        {
-          "d": "06-25",
-          "c": 7.06
-        },
-        {
-          "d": "06-26",
-          "c": 7.42
-        },
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.85
         }
       ]
     }
