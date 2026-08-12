@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-12T03:01:56.715639+00:00",
+  "updated_at": "2026-08-12T05:11:02.456040+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "90add4ef930e5c86",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T02:22:43+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "daily-sun.com",
+      "type": "news",
+      "quote": "Trump Media reports first sales for early access to president\u2019s posts",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGU1bWl1ZWZPTWpXeFpUY3pzOHlXQ2c3ZlExZWlaVWl6ZE5oZDVSczFPZGVReEFRWFNVVnFjRjBoSDJYNnlPZ2hrY05aZWlpejBJWEl5eVBuR2pKa1VWSnlObG9QNXZQclhrS1o1eUM0MEYtUzQ1NjZSNmFCVzExUVA3MERHS1QzTmRxVVYtVGNSalpXdWlfTkhrandtZw?oc=5",
+      "image": null,
+      "headline": "Trump Media reports first sales for early access to president\u2019s posts - daily-sun.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        }
+      ]
+    },
     {
       "id": "f1b9dd39b4e54d22",
       "date": "Wed, 12 Aug 2026",
@@ -6081,6 +6189,114 @@
         {
           "d": "08-10",
           "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "afcb50b29e0b0868",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T00:54:00+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "theguardian.com",
+      "type": "news",
+      "quote": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - theguardian.com Trump\u2019s media",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.91,
+      "change": -5.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - theguardian.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 8.52
+        },
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
         }
       ]
     },
@@ -40665,218 +40881,6 @@
         {
           "d": "07-22",
           "c": 9.23
-        }
-      ]
-    },
-    {
-      "id": "8db1189896c50f5c",
-      "date": "Wed, 22 Jul 2026",
-      "ts": "2026-07-22T09:01:48+00:00",
-      "date_display": "Jul 22, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Laredo\u2019s Future Rides on Trump\u2019s Next Trade Move - The New York Times Laredo\u2019s Future Rides on Trump\u2019s Next Trade",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.99,
-      "change": -2.28,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnNmMl9rWE5XY1ZRWndWcVBqTDRYMWU0cEVDQXI0S1FodXc5dWp1RnBSMUJmY1dtUnJ0REpVV0dLZTdrRnlwaW14ZG9CQ0RqN3NMMUk5ZlV4dkszd3FTdVpKbnRtM2F5eUVBZVBNbFFOWTV2TGcxTnRpV1ZKU2NtVFAzanJFR25DMUZSWjdiQjZKUFhh?oc=5",
-      "image": null,
-      "headline": "Laredo\u2019s Future Rides on Trump\u2019s Next Trade Move - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-23",
-          "c": 72.6
-        },
-        {
-          "d": "06-24",
-          "c": 71.0
-        },
-        {
-          "d": "06-25",
-          "c": 68.36
-        },
-        {
-          "d": "06-26",
-          "c": 70.66
-        },
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        }
-      ]
-    },
-    {
-      "id": "3c9462a5472306c1",
-      "date": "Wed, 22 Jul 2026",
-      "ts": "2026-07-22T07:00:00+00:00",
-      "date_display": "Jul 22, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Surprise Billing Law Is Being \u2018Gamed\u2019 by Doctors - The New York Times Trump Administration Says Surprise Billing Law Is Being",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.48,
-      "change": -13.4,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaEk0YUdXTjNHYXVuRi0yT3ZYSTNHTF8tTzFGd2R0ZVpBZ2Z5MnZ1azF4QUxWSE5DRUpiaXlqeWFiVndiWHc4Z1RXbkNxcGdIdm1QcnZqS1BER29zOGVBb2ZMRDFxU01IQ3BkMWRVMHhoWU5FRDN4bmE1X19YNW8?oc=5",
-      "image": null,
-      "headline": "Trump Administration Says Surprise Billing Law Is Being \u2018Gamed\u2019 by Doctors - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
         }
       ]
     }
