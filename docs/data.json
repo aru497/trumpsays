@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-08-13T00:04:22.421394+00:00",
+  "updated_at": "2026-08-13T03:05:16.717101+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "bbe94e9b54bae53b",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T02:42:00+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "The Japan Times",
+      "type": "news",
+      "quote": "sued over plan to sell faster access to his posts on Truth Social - The Japan Times U.S. president sued over plan to sell",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhmSmpydGMxbnBodWJoZmY0bkZjNVNwM2JmTnFqZDRGY3NvVldrbXREdzkyQ0FmYWw1bW4tcWc2LUc3c1RWWGJnYVlxQU9pNUhoNm9RTEFhSDQtd1pTSndLRElfVWdKZlZ6OW5YVEhESWVLdGhkNnRVSnVlQXJYQ2puZTE?oc=5",
+      "image": null,
+      "headline": "U.S. president sued over plan to sell faster access to his posts on Truth Social - The Japan Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "710be81135f0d672",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T01:26:00+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "The Wenatchee World",
+      "type": "news",
+      "quote": "Trump media company announces a massive loss and new turnaround effort",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVkt2bTFKY1hNU19iLUxNeGJSVzktNU1yWG9KNHp0aFZXZW9MbjU5MEx0U21KZFY5bWpsYUxleHlWdHhPQWpUdjJlUjJHMzBPbkRmY0x6NmxEcXhrQXVFM3V2TUJLdGlpOWh3WU94LTc0Y3VMbllwWmFBZmpuWFM2c2stRzdrUi1hY2FOOHkzejFBTnQxRnNxaFo3cG1yTm1WU2Znb252OVdCazRCTFNlZHJJX1FNTkNtOTBNek1KaWtFOUFpcWlqNVNpdzV1emdxWmU1d0hiQ1F0N2llc3JDNlV1OVRRU3JZc3ZGdU9zRlBnUQ?oc=5",
+      "image": null,
+      "headline": "Trump media company announces a massive loss and new turnaround effort - The Wenatchee World",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "ddb666cf4f55bd31",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T01:03:00+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Trump sued over Truth Social's $100,000 early access plan - USA Today Trump sued over",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHpvMWV2Mk5fVUFPVTdxSnhUNW9FVk9nUjlCbjdUa0NUaU56V0hsVW9NSi1yWmg3bng1Z0NiVjZxUXRQQzkwTUhDX3gyWVhmMHEwcVlldFFlOW1lQU5jRG14RTg3N3FhS2dlSFNwOURNeGJIMDk0VjFjVFEzUHlOLUxSMnltYnA5djFqN0FHeWZCblpkM21oUUF6dDVmYmhybU9yd0YwLUkwb1ZMcUVjRnBHY09qTEp0NWFvUmx6dXRkaTMtNHg5aFV3?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social's $100,000 early access plan - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "8ce156133772c543",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-13T01:02:31+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "against the Alabama-based civil rights group, a frequent target of conservative critics who claim the nonprofit is",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.0,
+      "change": 1.9,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/former-splc-official-charged-in-justice-departments-broader-criminal-case-against-group",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-04-21T222928Z_1625292593_RC2XTKAT7MAU_RTRMADP_3_USA-SOUTHERN-POVERTY-BLANCHE-1024x683.jpg",
+      "headline": "Former SPLC official charged in Justice Department's broader criminal case against group",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 132.98
+        },
+        {
+          "d": "07-15",
+          "c": 137.24
+        },
+        {
+          "d": "07-16",
+          "c": 139.14
+        },
+        {
+          "d": "07-17",
+          "c": 138.54
+        },
+        {
+          "d": "07-20",
+          "c": 138.53
+        },
+        {
+          "d": "07-21",
+          "c": 137.43
+        },
+        {
+          "d": "07-22",
+          "c": 136.87
+        },
+        {
+          "d": "07-23",
+          "c": 133.46
+        },
+        {
+          "d": "07-24",
+          "c": 135.74
+        },
+        {
+          "d": "07-27",
+          "c": 139.27
+        },
+        {
+          "d": "07-28",
+          "c": 143.1
+        },
+        {
+          "d": "07-29",
+          "c": 144.79
+        },
+        {
+          "d": "07-30",
+          "c": 143.41
+        },
+        {
+          "d": "07-31",
+          "c": 143.39
+        },
+        {
+          "d": "08-03",
+          "c": 148.21
+        },
+        {
+          "d": "08-04",
+          "c": 146.98
+        },
+        {
+          "d": "08-05",
+          "c": 146.57
+        },
+        {
+          "d": "08-06",
+          "c": 145.96
+        },
+        {
+          "d": "08-07",
+          "c": 148.56
+        },
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
+        }
+      ]
+    },
     {
       "id": "f8d13cf9a85b5b88",
       "date": "Wed, 12 Aug 2026",
@@ -207,6 +639,114 @@
         {
           "d": "08-12",
           "c": 63.95
+        }
+      ]
+    },
+    {
+      "id": "5944ec22b20533cc",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T22:04:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump signed memo to allow use of cyber tools to target transnational criminal organizations, White House says -",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.0,
+      "change": 1.9,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDd1dGl3STNGeUZmNVlxWXlRY1kxQkhOXzFIdnZyeTlvZ1Bxb0dTcGw1TXpZOHhLRlV1UlU1YzJIeFFNVHlDVDB0VlZ1N2RpWXVhVk1GcnJaeE5jVkYtRmxicTJZM2ZmNU9waExOcjc1SmoweDhXZmVWdkFsTktob0VlUXh6enpTUDF6YThxVkRGOUdSOWFRdV9CcVN1OEVxa3lJcEFKcnlqbU9RYlBnRFp1RmhmRGVwX0JaWl9uMA?oc=5",
+      "image": null,
+      "headline": "Trump signed memo to allow use of cyber tools to target transnational criminal organizations, White House says - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 132.98
+        },
+        {
+          "d": "07-15",
+          "c": 137.24
+        },
+        {
+          "d": "07-16",
+          "c": 139.14
+        },
+        {
+          "d": "07-17",
+          "c": 138.54
+        },
+        {
+          "d": "07-20",
+          "c": 138.53
+        },
+        {
+          "d": "07-21",
+          "c": 137.43
+        },
+        {
+          "d": "07-22",
+          "c": 136.87
+        },
+        {
+          "d": "07-23",
+          "c": 133.46
+        },
+        {
+          "d": "07-24",
+          "c": 135.74
+        },
+        {
+          "d": "07-27",
+          "c": 139.27
+        },
+        {
+          "d": "07-28",
+          "c": 143.1
+        },
+        {
+          "d": "07-29",
+          "c": 144.79
+        },
+        {
+          "d": "07-30",
+          "c": 143.41
+        },
+        {
+          "d": "07-31",
+          "c": 143.39
+        },
+        {
+          "d": "08-03",
+          "c": 148.21
+        },
+        {
+          "d": "08-04",
+          "c": 146.98
+        },
+        {
+          "d": "08-05",
+          "c": 146.57
+        },
+        {
+          "d": "08-06",
+          "c": 145.96
+        },
+        {
+          "d": "08-07",
+          "c": 148.56
+        },
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
         }
       ]
     },
@@ -2243,6 +2783,114 @@
         {
           "d": "08-12",
           "c": 8.32
+        }
+      ]
+    },
+    {
+      "id": "fee96b402fc3bd89",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T19:05:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "WBZ NewsRadio 1030",
+      "type": "news",
+      "quote": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - WBZ NewsRadio 1030 President Trump's Media Firm",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2tZMFhmMnpRa2VjVFBGM3RjUks0LXIxbERiX0xBYlFDRXQyVDBHRzhxWFp5VmF6cmh1WlJtS2tEdFdlb1JvaEtJNnRlcXJhNnpaTm5ZVm4zTFRNbmE4aHJTclVhdlRMMExJTmVDZjZXWkZocEZaUUhZSE16U0N6dGxzcnZHN1ZFbFY4endiQVJ5TDFtdjBFRnVoTUFvQXhOZldPUmNkZHlpeHJQVDJEVzc4Z3F6cE0?oc=5",
+      "image": null,
+      "headline": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - WBZ NewsRadio 1030",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
         }
       ]
     },
@@ -4746,6 +5394,114 @@
         {
           "d": "08-12",
           "c": 8.38
+        }
+      ]
+    },
+    {
+      "id": "031e89d7708216c6",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T15:15:32+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "cnbc.com",
+      "type": "news",
+      "quote": "Trump sued over Truth Social advance access sale - cnbc.com Trump sued over Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0R3U2djVuaHNkaDM1Q1dyMTlPWWkzVjVzOWpyaHkxdnVZVEZIVlpqM3ZwNmloSzJwNWlrdFdmQ1ZYT1NsQ1N4MFZ6R0pvOXBTSDZiaXd0Z3g2QzBWNDZJdmpPMW1JbjZPMjZTSk51LXDSAXZBVV95cUxPdzF3alRFb3plclRvbFA2eHk1VEFndVZHMHhFelRLa0F0dTFlTjd3OGNiWWs0U08xa1VDUkx4X056eDhBeXR6a0JZTnBwbTAyWXdMV0JsRUI4SDg1cm4ycy1mMXI2UUdpckV2dzdZTU5DczY0OEFn?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social advance access sale - cnbc.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
         }
       ]
     },
@@ -40418,718 +41174,6 @@
         {
           "d": "07-29",
           "c": 9.85
-        }
-      ]
-    },
-    {
-      "id": "6469c5dd9c44ebba",
-      "date": "Wed, 29 Jul 2026",
-      "ts": "2026-07-29T17:48:30+00:00",
-      "date_display": "Jul 29, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.07,
-      "change": 1.92,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVEYxT2hkWUpJUjFKT3dSWVdNaUhtZjRDMURldWRUUWdWOUpIc0FaQTUyVDdCeC1BRFZfWXEtRkkxU1RNUW5sSmhrYmt2dmlqLTVmcEtpNXE5UUdjNUtMZWt5STB1TUVNYTh0OHVKdVV6dndWdUFyUTE1NWE4QURXWG01eVc1c2s4OEhwZ251Wng4OFhBWVNfM2RaTThFTmcxV2l5WHJHM2Q5N1h5Vl9BQ1kyNUNDckxlNi1kWGFOOFZOS0otZ1pOY2k5dnlpMFU4LWgtUGN6WGotZ1dMM19OM2E3UVQzZHNRS1N4Q0c5UkJMeURLTUhUdkV3?oc=5",
-      "image": null,
-      "headline": "US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 10.07
-        }
-      ]
-    },
-    {
-      "id": "2a8cb09fa19afb26",
-      "date": "Wed, 29 Jul 2026",
-      "ts": "2026-07-29T17:08:59+00:00",
-      "date_display": "Jul 29, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "US Democratic lawmakers press SEC to probe Trump Media's fast feed - Reuters US Democratic lawmakers press SEC to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.85,
-      "change": -0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmtBOGJJcnozSzc2SGJnVUgxN0xiZ2JZMHlKTGlzTVJpWThKZ3pheUVDOHdEWkdWT2NsMkRqaW5kY3lDNXVnakEtMk1rTFFmNHBIdXhjd1N4Q0xsT2JEYXRsY3QtclhHVXdNU0hwaFhCUl91UG54ZU9oRUw2ZjFnVGJIa05aYlRhSk8wY0hJRXN5bTc3eXZVZnVGQi12bEswNi1nTnc5a3lzX1BBSnlydmJacHk4UQ?oc=5",
-      "image": null,
-      "headline": "US Democratic lawmakers press SEC to probe Trump Media's fast feed - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        }
-      ]
-    },
-    {
-      "id": "8d5b739860dc4da9",
-      "date": "Wed, 29 Jul 2026",
-      "ts": "2026-07-29T15:41:03+00:00",
-      "date_display": "Jul 29, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.7,
-      "change": 1.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS21GOHpRNG1ZY1ltMkpuRjhjdVhOblUyUG9mYk5FMjcyVjlWTjFFSEpybVNncDVyMzJHYVVqeFV2WnluZ18xei0ta0luUWplZ1A1T3NFbFhlR2pFTXNDZldNa0FWeG82RWlnQnB4R0xLQTVGNzB4VS1ldVJ5d0kxdlg2U3ZjMDM1TlHSAY8BQVVfeXFMUFhpOEcwMmFvZm00Z2FLMWpWRzdjOHJGOXg2WEt4RWV6Y21kclh1X0hHNWdkVXVZVUdpWVJqbFNWWXRiMWVPWEx5Nnh2Qld0MHA0YjI2akstWG9JSXNBN1ZuOEtPbTRtR3JtOU81TWFSb2p5aDhqcV92WlhUSEtYZm51cjF0RXVFLXZ2cFEyNW8?oc=5",
-      "image": null,
-      "headline": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-29",
-          "c": 9.7
-        }
-      ]
-    },
-    {
-      "id": "0059651a286ec172",
-      "date": "Wed, 29 Jul 2026",
-      "ts": "2026-07-29T11:00:00+00:00",
-      "date_display": "Jul 29, 2026",
-      "source": "Washington Examiner",
-      "type": "news",
-      "quote": "Truth Social premium service gives Democrats investigation target - Washington Examiner Trump Truth Social premium service",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 140.34,
-      "change": 4.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb2NIX3h2djZYZkk5ZkVrTXU2Y2NidXRocWlrNHk1Z2ZDOWFIdnJCMDFMdTI2WU0wQVpnRHFyNEt3WXM5bGNsYjJwd056SWhuOWpNWU5oY2JBMGpWNnRyYTI2VkhsNWg1TU90cWxabzludUNiR1NuMUhUN3QxOVlybk1LM2dYRDZLdHZqVHhjTUtnYW1weVhwSF9pdHdsUGlHVlNqOGRSbVpiQ1pPb2w0OWVCbXo1S3R0V083aU9TTnh5Tkd5eGlYQnZMUkRZU0FkTFE?oc=5",
-      "image": null,
-      "headline": "Trump Truth Social premium service gives Democrats investigation target - Washington Examiner",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 133.92
-        },
-        {
-          "d": "06-30",
-          "c": 130.61
-        },
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
-        },
-        {
-          "d": "07-08",
-          "c": 132.42
-        },
-        {
-          "d": "07-09",
-          "c": 132.27
-        },
-        {
-          "d": "07-10",
-          "c": 135.14
-        },
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
-        },
-        {
-          "d": "07-21",
-          "c": 138.48
-        },
-        {
-          "d": "07-22",
-          "c": 137.92
-        },
-        {
-          "d": "07-23",
-          "c": 134.48
-        },
-        {
-          "d": "07-27",
-          "c": 140.34
-        }
-      ]
-    },
-    {
-      "id": "5128d4cba7c30d4e",
-      "date": "Wed, 29 Jul 2026",
-      "ts": "2026-07-29T11:00:00+00:00",
-      "date_display": "Jul 29, 2026",
-      "source": "Washington Examiner",
-      "type": "news",
-      "quote": "Trump Truth Social premium service gives Democrats investigation target -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.56,
-      "change": 11.68,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb2NIX3h2djZYZkk5ZkVrTXU2Y2NidXRocWlrNHk1Z2ZDOWFIdnJCMDFMdTI2WU0wQVpnRHFyNEt3WXM5bGNsYjJwd056SWhuOWpNWU5oY2JBMGpWNnRyYTI2VkhsNWg1TU90cWxabzludUNiR1NuMUhUN3QxOVlybk1LM2dYRDZLdHZqVHhjTUtnYW1weVhwSF9pdHdsUGlHVlNqOGRSbVpiQ1pPb2w0OWVCbXo1S3R0V083aU9TTnh5Tkd5eGlYQnZMUkRZU0FkTFE?oc=5",
-      "image": null,
-      "headline": "Trump Truth Social premium service gives Democrats investigation target - Washington Examiner",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 7.49
-        },
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        }
-      ]
-    },
-    {
-      "id": "08ba103522a1bf17",
-      "date": "Wed, 29 Jul 2026",
-      "ts": "2026-07-29T09:02:02+00:00",
-      "date_display": "Jul 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Tariffs Are Sending Some Companies Back to China - The New York Times Trump\u2019s Tariffs Are Sending Some Companies Back to",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.37,
-      "change": 3.14,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVNoRmhoZG5NMHVjRERYWWp4bGNHTUdfUnl2aVdLTFpMbXplOHdqQ3BRUjR0X1FRc0tjMUt4amU4RVdldUdUU3ZBN1dobkxQVGdla2l5SzVxVFpZR0N0RjY1cUlTdDhWbUJGeWprTGR4S0dOUzdOWFU5MThVblZ6QjJsekVMVFhPYTJ3OHJMNlR4N054R2trN2NNbUoyVDY3eDNJV3RpVVV6cGFlLWV1RDJ3?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Tariffs Are Sending Some Companies Back to China - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 70.43
-        },
-        {
-          "d": "06-30",
-          "c": 69.76
-        },
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        }
-      ]
-    },
-    {
-      "id": "9599ae2ce218555e",
-      "date": "Tue, 28 Jul 2026",
-      "ts": "2026-07-28T18:57:18+00:00",
-      "date_display": "Jul 28, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "'free beer' when Trump dies says alcohol permit revoked - Fox News Wisconsin brewery that offered 'free beer' when Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.63,
-      "change": 1.61,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjBwTEZDbnJTVVBqTkhGa2l3TV9YU0d0SFF5STVfWGNkNHIyczN1M2IwZTY5QWJ3OVVDMWF2QXdxS2s3Vjc4a0hUb1NNcEwyZ3EwRlRVbTU1VjFxRlVnckpWLUxPODJpaUFkZHBqdWRYMTZENmNfRHZhR3RqTGs1djZzZlFvUm53OVFJVHVzRjBuR3E4Z2hrSXBQNUd3X3pqTkhTWlVhWdIBrAFBVV95cUxNWXAtOUlLRHRtTC1IdFFxTmpKN1Bra1VDaVZiV0hWZm9DcVFtZW1aaU5wMndsUTZKczhHVUUwRDhmR1dzWmk2UC1NYmgyeFNwamE4ckg4OXBBWDFlSmZjblFUSG9qVzcyZWc5SVp3aF9zQmppNXJKWFprcWh4TG1XOEMtZHAyYmpRdk44UTlQSF9wU3ZQc2lZX0tUclFlTVR4dU00UGtoVFVTTnQ4?oc=5",
-      "image": null,
-      "headline": "Wisconsin brewery that offered 'free beer' when Trump dies says alcohol permit revoked - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
         }
       ]
     }
