@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-08-13T18:14:01.512119+00:00",
+  "updated_at": "2026-08-13T19:31:39.694455+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e887c61df6134128",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T19:01:20+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "to U.S. Companies to Aim Hacks at Cybercriminals - The New York Times Trump Gives Green Light to U.S. Companies to Aim Hacks at",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 64.24,
+      "change": 0.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5aUdvMUF3QlpXR1hCOWRTUjgxSGktSUlIY2lvZFNGZ2lJeWFDUjYxb0hkeU5rcUkzQXpvYXNvYUpBM2JFVjJYb2NQcnNYU2dEWkp3N1ZKdC04S0x3aWpUS2FYMXd1WkpuWlBoX0tHbE5TM3JyQ3N4aVRiRHpzX0pZUElIRXhrWHBKa0VrT2RoRFZRbHlUT2NqYklEcXc?oc=5",
+      "image": null,
+      "headline": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-21",
+          "c": 74.69
+        },
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.24
+        }
+      ]
+    },
+    {
+      "id": "723d9cf5416636ae",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T18:48:15+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "Fast Company",
+      "type": "news",
+      "quote": "Trump\u2019s $100,000-a-month Truth Social perk just triggered a lawsuit - Fast Company Trump\u2019s",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": 0.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXJ2ZTBUUFFlNXllWTFGZEU1aXBNWlNkYVJoT1RTc3BjMkxaUnpTdTNMQzFZeEZsNFBnSHZTN2k5eUw4LTRNS0pueloxQzZVSEstbnBLWEFuZnJoZ0VBaXJUVUpTd0I1d1ZLRU1pS1dNMk8zT3NYWnNWdUs2dHJ6ZXh5SjZDd0l4aV9HOV9Sal9NRDZJZXZhSHpqSEY2NlVLZXlz?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s $100,000-a-month Truth Social perk just triggered a lawsuit - Fast Company",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.32
+        }
+      ]
+    },
+    {
+      "id": "cd35ffcd6e16a830",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T18:15:40+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "Barchart.com",
+      "type": "news",
+      "quote": "What Trump's Latest Truth Social Lawsuit Means for DJT Stock - Barchart.com What Trump's",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": 0.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWxSVTdTaFY5SjNmcGNEQkdKU29mRERCVW9EWnhaZ3VSeUppY0FrUTdxeGVtcGxRZTJpT2ZEakQ0TWtVTk1rU3dvSFNTcDUyX01QWV9UbHdkR2JKbnZpRHk4WkJVWnVfV3BtdVBCcm1OT0x1ejM4Q0VhTzB5cG1EWTZjOXc4b19lRnVJZl9ZZHZFcDR1Q1dMNWNvaENHeGZzT3FhMnhQRQ?oc=5",
+      "image": null,
+      "headline": "What Trump's Latest Truth Social Lawsuit Means for DJT Stock - Barchart.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.32
+        }
+      ]
+    },
     {
       "id": "f47464c05dc2c421",
       "date": "Thu, 13 Aug 2026",
@@ -107,6 +431,114 @@
         {
           "d": "08-13",
           "c": 8.28
+        }
+      ]
+    },
+    {
+      "id": "9ac247deecce186a",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T16:55:49+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "Time Magazine",
+      "type": "news",
+      "quote": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme - Time Magazine Trump",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.32,
+      "change": 0.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ktRjUwLTVqVjdMX1EwWElMSzZQSFlHQ2tMbW5EVUFndk9TMDhCNFZ0bDRpMHBsYmZ4bU40UzZRbUhYbC1vaVlWOTNXUkZ3NDI1MHVmYlZBUzMtVWJWanJ4UWcwVklwV0VOOW5tcUNoNzZLSkZTbGpKN3VaNEFNTDFmRHNDbEtKREFsZzRQY1FjcTNKM1lZdlRPcnJNajg0T1BSZC14VE03X1gycXkwNg?oc=5",
+      "image": null,
+      "headline": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme - Time Magazine",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.32
         }
       ]
     },
@@ -41377,438 +41809,6 @@
         {
           "d": "07-30",
           "c": 539.49
-        }
-      ]
-    },
-    {
-      "id": "f192d0caf6c34a1c",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T18:27:00+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "Pensions & Investments",
-      "type": "news",
-      "quote": "Democrats ramp up pressure on SEC over Trump Media\u2019s paid data feed - Pensions & Investments Democrats ramp",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.39,
-      "change": 5.48,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVG45MDVKb1FCTW05bUMyaEVBYm5pWjd6S0ZldnFzTGRjSVY5bXptcUgyeGtXVUFsd2c5V21oNmtGaW1LVWpQLWdrRWpxTE1zUkg0YXpSZ1AxWW1zVUFJamFKdVM3OXVOZGNMNUZaOGhUTjlCQUFJakIydUVncWl1VFZtS3ZpTzAzazFob0hxNFd5b1JYWmFWRVpFTlhVVjQ3eEVqTzRHMzdmdw?oc=5",
-      "image": null,
-      "headline": "Democrats ramp up pressure on SEC over Trump Media\u2019s paid data feed - Pensions & Investments",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.39
-        }
-      ]
-    },
-    {
-      "id": "1b9e758f50b60987",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T18:27:00+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "pionline.com",
-      "type": "news",
-      "quote": "Democrats ramp up pressure on SEC over Trump Media\u2019s paid data feed - pionline.com Democrats ramp up pressure",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.38,
-      "change": 5.38,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVG45MDVKb1FCTW05bUMyaEVBYm5pWjd6S0ZldnFzTGRjSVY5bXptcUgyeGtXVUFsd2c5V21oNmtGaW1LVWpQLWdrRWpxTE1zUkg0YXpSZ1AxWW1zVUFJamFKdVM3OXVOZGNMNUZaOGhUTjlCQUFJakIydUVncWl1VFZtS3ZpTzAzazFob0hxNFd5b1JYWmFWRVpFTlhVVjQ3eEVqTzRHMzdmdw?oc=5",
-      "image": null,
-      "headline": "Democrats ramp up pressure on SEC over Trump Media\u2019s paid data feed - pionline.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        }
-      ]
-    },
-    {
-      "id": "e7b91ec7a491af34",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T18:22:45+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "Investopedia",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Offers Deep-Pocketed Traders Exclusive Early Access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.39,
-      "change": 5.48,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMVVFZUVTYUliTmh4dzcyN0MyMXdLS2lIUUcxUzhoMHMtUmVzQ0hFZ09DQXZWUnluOERSSklVVkFpNG9DbjBaSk9jUnlDU2d6ekxKUk9XLTNaTk96blZISWExMFcwMG1BNXFFYkt1YjdLTDV2MDc0Q056TEZJdmJVTlIwa29MMDFxeUplNmRkUFROdGV0WDVZM19UU1hMcjN0aTFiUkstNFlLa2RWUGxuWkpMTDc0dVJnY1MwQ2IyRldFQjluLXBaeHMwUUhYMEdX?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Offers Deep-Pocketed Traders Exclusive Early Access to Market-Moving Posts - Investopedia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 7.74
-        },
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.39
-        }
-      ]
-    },
-    {
-      "id": "d38428dbba95a237",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T15:02:43+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Diamonds, Oil and Gas, Copper and Other Items - The New York Times Trump\u2019s Tariff Exemptions Include Diamonds, Oil and Gas,",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 74.89,
-      "change": -1.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazdNNHB3UGpJaVhJQjNyZmZwOGs1ZlVpbWVRcFQzSnZPemtOaW1OdlAzRDRKTDNYSXpZRU9WNmpjZG9aT2l0d0RBOS1HQjEwU05Vb1VvMkowNnc1bXJZMENMcWlmMWEyVE56bHdVRl9HZklMUHFfaG9pS0pvVGF4cW5JS2lvSk5y?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 71.57
-        },
-        {
-          "d": "07-02",
-          "c": 73.62
-        },
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
         }
       ]
     }
