@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-08-13T22:08:28.265330+00:00",
+  "updated_at": "2026-08-13T23:09:39.122361+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "be37aec61f087a1f",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T22:40:13+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "at what's behind this dramatic shift in law enforcement strategy.",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 97.1,
+      "change": 2.39,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/doj-deploys-tactic-to-strip-naturalized-americans-of-citizenship",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/citizen-1024x683.jpg",
+      "headline": "DOJ deploys tactic to strip naturalized Americans of citizenship",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 97.47
+        },
+        {
+          "d": "07-16",
+          "c": 94.03
+        },
+        {
+          "d": "07-17",
+          "c": 94.85
+        },
+        {
+          "d": "07-20",
+          "c": 97.82
+        },
+        {
+          "d": "07-21",
+          "c": 101.95
+        },
+        {
+          "d": "07-22",
+          "c": 100.01
+        },
+        {
+          "d": "07-23",
+          "c": 93.63
+        },
+        {
+          "d": "07-24",
+          "c": 91.67
+        },
+        {
+          "d": "07-27",
+          "c": 98.65
+        },
+        {
+          "d": "07-28",
+          "c": 96.16
+        },
+        {
+          "d": "07-29",
+          "c": 93.33
+        },
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        },
+        {
+          "d": "08-03",
+          "c": 94.86
+        },
+        {
+          "d": "08-04",
+          "c": 97.65
+        },
+        {
+          "d": "08-05",
+          "c": 98.37
+        },
+        {
+          "d": "08-06",
+          "c": 96.85
+        },
+        {
+          "d": "08-07",
+          "c": 100.01
+        },
+        {
+          "d": "08-10",
+          "c": 97.33
+        },
+        {
+          "d": "08-11",
+          "c": 96.09
+        },
+        {
+          "d": "08-12",
+          "c": 94.83
+        },
+        {
+          "d": "08-13",
+          "c": 97.1
+        }
+      ]
+    },
+    {
+      "id": "7cd94908fea30e5e",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T22:31:06+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media (DJT) CFO withholds 18,817 shares to cover tax obligations",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.3,
+      "change": 0.36,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcGFTczUzVjQxem5DemwyRDlKWVo5dlJqbDZnc2g4bDRGcXNqWExQZXFuaFl1aDhTY0ZwV21vRWxnU1NNa2pWU3p0V25MbjBRYVFuZHZwR0VkcTlwbzdGMDU4b09KQlJjOG1jd09ONnROcnJoWFB2UmtmcnZTVl9tSk4ybXMwcENGRGFtaEViOE5kS2NJbGlKa0lQemZnQjAwMDJ1bVR3cjJhMnA4M1NRNWlHNV82bXVfYkExcm5CM2E4MVA5?oc=5",
+      "image": null,
+      "headline": "Trump Media (DJT) CFO withholds 18,817 shares to cover tax obligations - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        }
+      ]
+    },
+    {
+      "id": "8adaf3b05649a3ac",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T22:29:29+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media (DJT) General Counsel withholds 25,546 shares to cover tax",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.3,
+      "change": 0.36,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRUpsak85Y3REZlh0M3VldkNtUTB4aVJuVGJsSGhDRi1kaGlrSkg3VnY1YzJBM1F0QWF6ZnIyeThuSldXVGp1MXVramtHblprd2pvNVpoOHMxMEgzUVZkSXYzYUJ5S3VsZklha3lTamoyLTVYeWhTdF9kNjRldVVDT0I4MGt4TDZ0d0l2UjBweDNqWmdpdjh0UjFDRDJScU9MT2dObzQyVGJHaWNlWUV2Y3Q1RTdzV0V0eFNqdEM1MzV0ZjdU?oc=5",
+      "image": null,
+      "headline": "Trump Media (DJT) General Counsel withholds 25,546 shares to cover tax liabilities - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        }
+      ]
+    },
+    {
+      "id": "6c8dd282330c3857",
+      "date": "Thu, 13 Aug 2026",
+      "ts": "2026-08-13T22:26:33+00:00",
+      "date_display": "Aug 13, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media (DJT) interim CEO uses 16,509 shares to cover tax",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.3,
+      "change": 0.36,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDZRU25zREt2MG1vZGthb1ZMcWtvN0ZadmJSSHVERzJqZmdCNXVzTUo5Rm9sSE5kdG9mMV94U0FjYWh5VVlRYUp0MUgtQ2xuZVJRM2tQY1c5em1QR1dfZnVQcXNoM3o2dExJb3p4cmhQQk01OUpVRnNDYkxJYTdDQ1Q1QjZMVUZvR3VjVWpMVnFyempSOTJKT1VBQ0pLRW9WYVlYekIyZU1YSV9jX2JtLTlqQlNtZG56bXkyV1BTX1hUSE5i?oc=5",
+      "image": null,
+      "headline": "Trump Media (DJT) interim CEO uses 16,509 shares to cover tax withholding - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        }
+      ]
+    },
     {
       "id": "8b05c45e8d0acda8",
       "date": "Thu, 13 Aug 2026",
@@ -41377,438 +41809,6 @@
         {
           "d": "07-31",
           "c": 270.15
-        }
-      ]
-    },
-    {
-      "id": "9d116473da7bcef5",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T21:13:09+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "aei.org",
-      "type": "news",
-      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org Trump Buys",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 195.04,
-      "change": 2.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhGc293QjBicEpoOVFvSG40NExpdnFNNWhvT3U1YXRadHlPcnhwdWl5WGhYR1g5R29wY05JSWQyS0FnTTJXUEd1VzgtMTNIMlUzNVJmRDd6UTRnTXRKSWUxaWR5cXl2ZnQyYlN6MTNpVDh2NjM3ZGhjUWJJbF93TFFFRzkzS1k3UHphNXFnaFd1Y013NEdya0FR?oc=5",
-      "image": null,
-      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 200.09
-        },
-        {
-          "d": "07-01",
-          "c": 197.58
-        },
-        {
-          "d": "07-02",
-          "c": 194.83
-        },
-        {
-          "d": "07-06",
-          "c": 195.55
-        },
-        {
-          "d": "07-07",
-          "c": 196.93
-        },
-        {
-          "d": "07-08",
-          "c": 204.12
-        },
-        {
-          "d": "07-09",
-          "c": 202.78
-        },
-        {
-          "d": "07-10",
-          "c": 210.96
-        },
-        {
-          "d": "07-13",
-          "c": 203.53
-        },
-        {
-          "d": "07-14",
-          "c": 211.8
-        },
-        {
-          "d": "07-15",
-          "c": 212.5
-        },
-        {
-          "d": "07-16",
-          "c": 207.4
-        },
-        {
-          "d": "07-17",
-          "c": 202.81
-        },
-        {
-          "d": "07-20",
-          "c": 203.28
-        },
-        {
-          "d": "07-21",
-          "c": 207.29
-        },
-        {
-          "d": "07-22",
-          "c": 212.06
-        },
-        {
-          "d": "07-23",
-          "c": 208.76
-        },
-        {
-          "d": "07-24",
-          "c": 206.84
-        },
-        {
-          "d": "07-27",
-          "c": 196.51
-        },
-        {
-          "d": "07-28",
-          "c": 197.01
-        },
-        {
-          "d": "07-29",
-          "c": 190.01
-        },
-        {
-          "d": "07-30",
-          "c": 195.04
-        }
-      ]
-    },
-    {
-      "id": "7352b511e30ac4d8",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T21:13:09+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "aei.org",
-      "type": "news",
-      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 220.9,
-      "change": 3.22,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhGc293QjBicEpoOVFvSG40NExpdnFNNWhvT3U1YXRadHlPcnhwdWl5WGhYR1g5R29wY05JSWQyS0FnTTJXUEd1VzgtMTNIMlUzNVJmRDd6UTRnTXRKSWUxaWR5cXl2ZnQyYlN6MTNpVDh2NjM3ZGhjUWJJbF93TFFFRzkzS1k3UHphNXFnaFd1Y013NEdya0FR?oc=5",
-      "image": null,
-      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - aei.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 216.47
-        },
-        {
-          "d": "07-01",
-          "c": 218.58
-        },
-        {
-          "d": "07-02",
-          "c": 226.49
-        },
-        {
-          "d": "07-06",
-          "c": 234.54
-        },
-        {
-          "d": "07-07",
-          "c": 231.68
-        },
-        {
-          "d": "07-08",
-          "c": 224.95
-        },
-        {
-          "d": "07-09",
-          "c": 223.11
-        },
-        {
-          "d": "07-10",
-          "c": 222.28
-        },
-        {
-          "d": "07-13",
-          "c": 215.51
-        },
-        {
-          "d": "07-14",
-          "c": 217.11
-        },
-        {
-          "d": "07-15",
-          "c": 218.12
-        },
-        {
-          "d": "07-16",
-          "c": 214.34
-        },
-        {
-          "d": "07-17",
-          "c": 214.03
-        },
-        {
-          "d": "07-20",
-          "c": 209.48
-        },
-        {
-          "d": "07-21",
-          "c": 204.8
-        },
-        {
-          "d": "07-22",
-          "c": 208.65
-        },
-        {
-          "d": "07-23",
-          "c": 209.23
-        },
-        {
-          "d": "07-24",
-          "c": 209.52
-        },
-        {
-          "d": "07-27",
-          "c": 211.5
-        },
-        {
-          "d": "07-28",
-          "c": 221.56
-        },
-        {
-          "d": "07-29",
-          "c": 214.01
-        },
-        {
-          "d": "07-30",
-          "c": 220.9
-        }
-      ]
-    },
-    {
-      "id": "2888685510cd84d9",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T21:13:09+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "American Enterprise Institute - AEI",
-      "type": "news",
-      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - American Enterprise",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 195.04,
-      "change": 2.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhGc293QjBicEpoOVFvSG40NExpdnFNNWhvT3U1YXRadHlPcnhwdWl5WGhYR1g5R29wY05JSWQyS0FnTTJXUEd1VzgtMTNIMlUzNVJmRDd6UTRnTXRKSWUxaWR5cXl2ZnQyYlN6MTNpVDh2NjM3ZGhjUWJJbF93TFFFRzkzS1k3UHphNXFnaFd1Y013NEdya0FR?oc=5",
-      "image": null,
-      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - American Enterprise Institute - AEI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 200.09
-        },
-        {
-          "d": "07-01",
-          "c": 197.58
-        },
-        {
-          "d": "07-02",
-          "c": 194.83
-        },
-        {
-          "d": "07-06",
-          "c": 195.55
-        },
-        {
-          "d": "07-07",
-          "c": 196.93
-        },
-        {
-          "d": "07-08",
-          "c": 204.12
-        },
-        {
-          "d": "07-09",
-          "c": 202.78
-        },
-        {
-          "d": "07-10",
-          "c": 210.96
-        },
-        {
-          "d": "07-13",
-          "c": 203.53
-        },
-        {
-          "d": "07-14",
-          "c": 211.8
-        },
-        {
-          "d": "07-15",
-          "c": 212.5
-        },
-        {
-          "d": "07-16",
-          "c": 207.4
-        },
-        {
-          "d": "07-17",
-          "c": 202.81
-        },
-        {
-          "d": "07-20",
-          "c": 203.28
-        },
-        {
-          "d": "07-21",
-          "c": 207.29
-        },
-        {
-          "d": "07-22",
-          "c": 212.06
-        },
-        {
-          "d": "07-23",
-          "c": 208.76
-        },
-        {
-          "d": "07-24",
-          "c": 206.84
-        },
-        {
-          "d": "07-27",
-          "c": 196.51
-        },
-        {
-          "d": "07-28",
-          "c": 197.01
-        },
-        {
-          "d": "07-29",
-          "c": 190.01
-        },
-        {
-          "d": "07-30",
-          "c": 195.04
-        }
-      ]
-    },
-    {
-      "id": "b813c84801d40639",
-      "date": "Thu, 30 Jul 2026",
-      "ts": "2026-07-30T21:13:09+00:00",
-      "date_display": "Jul 30, 2026",
-      "source": "American Enterprise Institute - AEI",
-      "type": "news",
-      "quote": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - American",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 220.9,
-      "change": 3.22,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhGc293QjBicEpoOVFvSG40NExpdnFNNWhvT3U1YXRadHlPcnhwdWl5WGhYR1g5R29wY05JSWQyS0FnTTJXUEd1VzgtMTNIMlUzNVJmRDd6UTRnTXRKSWUxaWR5cXl2ZnQyYlN6MTNpVDh2NjM3ZGhjUWJJbF93TFFFRzkzS1k3UHphNXFnaFd1Y013NEdya0FR?oc=5",
-      "image": null,
-      "headline": "Trump Buys Boeing and Nvidia Stock and Then Helps the Companies - American Enterprise Institute - AEI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-30",
-          "c": 216.47
-        },
-        {
-          "d": "07-01",
-          "c": 218.58
-        },
-        {
-          "d": "07-02",
-          "c": 226.49
-        },
-        {
-          "d": "07-06",
-          "c": 234.54
-        },
-        {
-          "d": "07-07",
-          "c": 231.68
-        },
-        {
-          "d": "07-08",
-          "c": 224.95
-        },
-        {
-          "d": "07-09",
-          "c": 223.11
-        },
-        {
-          "d": "07-10",
-          "c": 222.28
-        },
-        {
-          "d": "07-13",
-          "c": 215.51
-        },
-        {
-          "d": "07-14",
-          "c": 217.11
-        },
-        {
-          "d": "07-15",
-          "c": 218.12
-        },
-        {
-          "d": "07-16",
-          "c": 214.34
-        },
-        {
-          "d": "07-17",
-          "c": 214.03
-        },
-        {
-          "d": "07-20",
-          "c": 209.48
-        },
-        {
-          "d": "07-21",
-          "c": 204.8
-        },
-        {
-          "d": "07-22",
-          "c": 208.65
-        },
-        {
-          "d": "07-23",
-          "c": 209.23
-        },
-        {
-          "d": "07-24",
-          "c": 209.52
-        },
-        {
-          "d": "07-27",
-          "c": 211.5
-        },
-        {
-          "d": "07-28",
-          "c": 221.56
-        },
-        {
-          "d": "07-29",
-          "c": 214.01
-        },
-        {
-          "d": "07-30",
-          "c": 220.9
         }
       ]
     }
