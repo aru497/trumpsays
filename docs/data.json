@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-08-12T23:08:57.933252+00:00",
+  "updated_at": "2026-08-13T00:04:22.421394+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f8d13cf9a85b5b88",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T23:08:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Deadline",
+      "type": "news",
+      "quote": "Trump Sued By Media Groups Over Sale Of Faster Access To Truth Social Posts - Deadline Donald Trump Sued By Media Groups Over",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3l3QmxXNC1CdEFIMVVHSFpXT2pWX3lvS3RZdGVSeWxwajFqWUluN21hWElvWkV0b05OdkU3WDE0M3ZfX3ZVT181ZEl2cFlpLWpIb3NhQ2h0dU1haTBRYlNsVDdVemJUN1pGUmw1RDVDd3ZOUTBsbnc1ckdaTWx3OXQxRWlzbDg?oc=5",
+      "image": null,
+      "headline": "Donald Trump Sued By Media Groups Over Sale Of Faster Access To Truth Social Posts - Deadline",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "9fa5c3886be75c35",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T22:20:46+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "some 1,600 obituaries in his decades-long career at The New York Times. His new book, \"Are They Dead Yet?\" is about the art of",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 63.95,
+      "change": 0.35,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/sam-roberts-and-geoff-bennett-discuss-the-art-of-obituary-writing-on-settle-in",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/settlein-1024x576.jpg",
+      "headline": "Sam Roberts and Geoff Bennett discuss the art of obituary writing on 'Settle In'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        }
+      ]
+    },
     {
       "id": "3a33f90e965df3e7",
       "date": "Wed, 12 Aug 2026",
@@ -234,6 +442,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTlNxLWhIR2xFeDYzZTRuQjU2RUZJcjVkSTVIbGJvN3NyX0Q3eTNvaWVXQndoT3BtRTNqWHlFQkFyb2RRaUZ4ZjFnQVV2bGpUbWxSVklMNlJiam9sdHR6em1GTHZxQmRWVm9XRzBzV3l5NHZGT0w4SmVfQTRzR3ptVmNqNURhZ1QxZ3E4VURyMTg1NHQwbklMbjRZcDJXRzI3MGZ2c3dJeGvSAa4BQVVfeXFMUDdGSHgweGtzWU5EZ3VDQ0E3ZVp3OUtIaVlZLU80dkZUckhXUWt5cXIyQ0h2ZGh4MzNRRUFDT2Z4OWN4RUp2TkZSLWxkaFFTamUxckM0dWgxQzBOZE05Wm52cHdtb1hWTWNsSGk3cHJkaHlLWnBlWGVyZTl6RVhjdEktaGpJQUtaczI1N0lRQkpBX1pqVjVUUVBCTFNyR1R3eVlpOW94Q0I1OWhMeXdB?oc=5",
       "image": null,
       "headline": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "2b01474dea7e2eb4",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T21:27:36+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "Crypto News",
+      "type": "news",
+      "quote": "Trump sued over Truth Social\u2019s $100K paid feed - Crypto News Trump sued over Truth",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5taG5OOWZ1aGpmOG15TGJ4MlFYc1NvT24tRUVibmVWTTJ3TUNBZW5QRG5lMl9BeHJ3LVFtU211UzQ1aEMxaDd0MDc4OUlzdkYxd09SYmZuNjF0aFM3cDFBd2FwaHJOd251V1MtZElaUnJrbVgyS3E4a25iODZXZw?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social\u2019s $100K paid feed - Crypto News",
       "channel": "News",
       "series": [
         {
@@ -982,6 +1298,214 @@
       "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkRqb2Vnczh3SDZoZnNpSXQtRU1SU01YY3BhWkZZX2ZNekh0d2dzTmIyd0tjenVwc3hWcUJKWFNXbUV3MENza0cwZkJtME15WmREMlE5U3FmMXRRYk1yLU90LW9FUjRPUWR0RUZYSTJRd2dIWUh1LUpIWEhFcXFEcEk2U1Q?oc=5",
       "image": null,
       "headline": "Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth Social Posts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-14",
+          "c": 9.03
+        },
+        {
+          "d": "07-15",
+          "c": 9.57
+        },
+        {
+          "d": "07-16",
+          "c": 9.63
+        },
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        }
+      ]
+    },
+    {
+      "id": "0c1a9fcf53c09b30",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T20:24:23+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Plan to Sell Early Access to His Truth Social Posts - The New York Times Trump Is Sued Over Plan to Sell Early Access to His Truth",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 63.95,
+      "change": 0.35,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkRqb2Vnczh3SDZoZnNpSXQtRU1SU01YY3BhWkZZX2ZNekh0d2dzTmIyd0tjenVwc3hWcUJKWFNXbUV3MENza0cwZkJtME15WmREMlE5U3FmMXRRYk1yLU90LW9FUjRPUWR0RUZYSTJRd2dIWUh1LUpIWEhFcXFEcEk2U1Q?oc=5",
+      "image": null,
+      "headline": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-13",
+          "c": 75.04
+        },
+        {
+          "d": "07-14",
+          "c": 72.98
+        },
+        {
+          "d": "07-15",
+          "c": 75.22
+        },
+        {
+          "d": "07-16",
+          "c": 76.71
+        },
+        {
+          "d": "07-17",
+          "c": 75.93
+        },
+        {
+          "d": "07-20",
+          "c": 75.29
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        }
+      ]
+    },
+    {
+      "id": "b129bb7c392778ad",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T20:24:23+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts - The New York Times Trump Is Sued Over Plan to Sell",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.27,
+      "change": -7.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkRqb2Vnczh3SDZoZnNpSXQtRU1SU01YY3BhWkZZX2ZNekh0d2dzTmIyd0tjenVwc3hWcUJKWFNXbUV3MENza0cwZkJtME15WmREMlE5U3FmMXRRYk1yLU90LW9FUjRPUWR0RUZYSTJRd2dIWUh1LUpIWEhFcXFEcEk2U1Q?oc=5",
+      "image": null,
+      "headline": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts - The New York Times",
       "channel": "News",
       "series": [
         {
@@ -40606,506 +41130,6 @@
         {
           "d": "07-28",
           "c": 51.63
-        }
-      ]
-    },
-    {
-      "id": "0ee0584dc4221fd7",
-      "date": "Tue, 28 Jul 2026",
-      "ts": "2026-07-28T17:39:53+00:00",
-      "date_display": "Jul 28, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump says tariffs have made the US 'a fortune' - Fox Business Trump says tariffs have made the US 'a",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.81,
-      "change": 1.97,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81dDhwUkVSMmY0akJvNGZ1cEtISFFBYUxVTU1QNWlKSl9tUzJid1luTWRDb3duSTg4UGdObXBhT0U5YUlMM0ZUWE1tRktrLU5mQkxoRTgxU2FRaFU?oc=5",
-      "image": null,
-      "headline": "Trump says tariffs have made the US 'a fortune' - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.81
-        }
-      ]
-    },
-    {
-      "id": "3dcc0da17e5bbd1e",
-      "date": "Tue, 28 Jul 2026",
-      "ts": "2026-07-28T17:39:53+00:00",
-      "date_display": "Jul 28, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "looming midterms, says they have made the US \u2018a fortune\u2019 - Fox Business Trump defends tariffs ahead of looming midterms,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 50.81,
-      "change": 3.31,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmtFeGxMeVF3cFFxZUh4YkhST3J4bVAzME9OYUFKa2FQSTBYWDR1YUQ5VlRzX1hqcXp5RndwZjVjZVBSa2lvZjRjVVU2dmg4OEd4TUFaTEtpS21FNFJiaFBLSXV2eXppMGxhLTNmckE4UTJVcGg0Ni15N3l1VGVTd29hSFhoakRXUjZyeE9GblNUMWY2eWxzczBJWXB3OU01eHVNa1FMZ3JsclJNTkHSAbMBQVVfeXFMUGtJN1dYUF9NaUJremRoSGV1aUNsZzRyVHVqRWh2bTRUbWdhS0pDa3c3N2RQX2JvM0o1TDFyU3EtN0dMeklfSzFkR0hwblAxbEJnb0dJcVhFd1Q4bjVVX0N6dENXX01velZpSVZTNlJWcHFQM1IwMzJWTXFqbzZpSXNrajlpQjJmbFVUYVAtOHNnd1hyWUVvSmxram5UTFcxb0MwNG40TnZ4cklIU2dtVzEyZms?oc=5",
-      "image": null,
-      "headline": "Trump defends tariffs ahead of looming midterms, says they have made the US \u2018a fortune\u2019 - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        }
-      ]
-    },
-    {
-      "id": "4b14070675cb2b8d",
-      "date": "Tue, 28 Jul 2026",
-      "ts": "2026-07-28T13:21:18+00:00",
-      "date_display": "Jul 28, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "is expected to deliver remarks at the cathedral, alongside Fox News' Sean Hannity and other conservative leaders.",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.91,
-      "change": 2.16,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-live-sen-lindsey-graham-remembered-in-funeral-service-at-washington-national-cathedral",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-21T194048Z_1188856133_RC2JIMADWVP5_RTRMADP_3_USA-BUDGET-CONGRESS-1024x683.jpg",
-      "headline": "WATCH LIVE: Sen. Lindsey Graham remembered in funeral service at Washington National Cathedral",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.91
-        }
-      ]
-    },
-    {
-      "id": "715b139a73541b07",
-      "date": "Tue, 28 Jul 2026",
-      "ts": "2026-07-28T13:21:18+00:00",
-      "date_display": "Jul 28, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "is expected to deliver remarks at the cathedral, alongside Fox News' Sean Hannity and other conservative leaders.",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.63,
-      "change": 1.61,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-live-sen-lindsey-graham-remembered-in-funeral-service-at-washington-national-cathedral",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-28T180239Z_490419639_RC25NMAC9L93_RTRMADP_3_PEOPLE-LINDSEY-GRAHAM-1024x683.jpg",
-      "headline": "WATCH: Sen. Lindsey Graham remembered in funeral service at Washington National Cathedral",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 45.71
-        },
-        {
-          "d": "06-30",
-          "c": 46.84
-        },
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        }
-      ]
-    },
-    {
-      "id": "063c63be9593917f",
-      "date": "Mon, 27 Jul 2026",
-      "ts": "2026-07-27T22:00:00+00:00",
-      "date_display": "Jul 27, 2026",
-      "source": "Transport Topics",
-      "type": "news",
-      "quote": "Trump praises GM and defends tariffs during Michigan visit - Transport",
-      "company": "Gm",
-      "ticker": "GM",
-      "price": 87.04,
-      "change": 5.32,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MEhxcjdBeFNibmxEOWFXdmoteUlSQWpXTkI5X0s0TGw2Wm1ZX0F1QUc4M2hSckJUQzM2TmdXTUk4dklDdi1DV081Wi14T2VrbVlNelMwVXYwd0pIN3Vlb1hrVVcwT1dI?oc=5",
-      "image": null,
-      "headline": "Trump praises GM and defends tariffs during Michigan visit - Transport Topics",
-      "channel": "News",
-      "series": [
-        {
-          "d": "06-29",
-          "c": 77.34
-        },
-        {
-          "d": "06-30",
-          "c": 77.08
-        },
-        {
-          "d": "07-01",
-          "c": 75.52
-        },
-        {
-          "d": "07-02",
-          "c": 76.0
-        },
-        {
-          "d": "07-06",
-          "c": 77.85
-        },
-        {
-          "d": "07-07",
-          "c": 76.03
-        },
-        {
-          "d": "07-08",
-          "c": 76.24
-        },
-        {
-          "d": "07-09",
-          "c": 76.65
-        },
-        {
-          "d": "07-10",
-          "c": 77.85
-        },
-        {
-          "d": "07-13",
-          "c": 76.72
-        },
-        {
-          "d": "07-14",
-          "c": 76.87
-        },
-        {
-          "d": "07-15",
-          "c": 77.64
-        },
-        {
-          "d": "07-16",
-          "c": 77.72
-        },
-        {
-          "d": "07-17",
-          "c": 76.07
-        },
-        {
-          "d": "07-20",
-          "c": 75.8
-        },
-        {
-          "d": "07-21",
-          "c": 79.52
-        },
-        {
-          "d": "07-22",
-          "c": 82.13
-        },
-        {
-          "d": "07-23",
-          "c": 80.67
-        },
-        {
-          "d": "07-24",
-          "c": 82.64
-        },
-        {
-          "d": "07-27",
-          "c": 87.04
         }
       ]
     }
