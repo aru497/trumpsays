@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-16T11:41:19.723469+00:00",
+  "updated_at": "2026-08-16T12:15:28.854802+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "59ac31d53527bc7e",
+      "date": "Sun, 16 Aug 2026",
+      "ts": "2026-08-16T11:54:19+00:00",
+      "date_display": "Aug 16, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "says the Trump administration's continuing actions to target transgender youth take a personal toll.",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.48,
+      "change": -0.66,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "image": null,
+      "headline": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-16",
+          "c": 139.14
+        },
+        {
+          "d": "07-17",
+          "c": 138.54
+        },
+        {
+          "d": "07-20",
+          "c": 138.53
+        },
+        {
+          "d": "07-21",
+          "c": 137.43
+        },
+        {
+          "d": "07-22",
+          "c": 136.87
+        },
+        {
+          "d": "07-23",
+          "c": 133.46
+        },
+        {
+          "d": "07-24",
+          "c": 135.74
+        },
+        {
+          "d": "07-27",
+          "c": 139.27
+        },
+        {
+          "d": "07-28",
+          "c": 143.1
+        },
+        {
+          "d": "07-29",
+          "c": 144.79
+        },
+        {
+          "d": "07-30",
+          "c": 143.41
+        },
+        {
+          "d": "07-31",
+          "c": 143.39
+        },
+        {
+          "d": "08-03",
+          "c": 148.21
+        },
+        {
+          "d": "08-04",
+          "c": 146.98
+        },
+        {
+          "d": "08-05",
+          "c": 146.57
+        },
+        {
+          "d": "08-06",
+          "c": 145.96
+        },
+        {
+          "d": "08-07",
+          "c": 148.56
+        },
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
+        },
+        {
+          "d": "08-13",
+          "c": 155.51
+        },
+        {
+          "d": "08-14",
+          "c": 154.48
+        }
+      ]
+    },
+    {
+      "id": "82f1a88d3137f2af",
+      "date": "Sun, 16 Aug 2026",
+      "ts": "2026-08-16T11:46:25+00:00",
+      "date_display": "Aug 16, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Byron Donalds' seat is up for grabs for Republicans In southwest Florida, ten Republicans are vying for the nomination to",
+      "company": "Southwest",
+      "ticker": "LUV",
+      "price": 44.26,
+      "change": -1.36,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/16/nx-s1-5927132/in-florida-congressman-byron-donalds-seat-is-up-for-grabs-for-republicans",
+      "image": null,
+      "headline": "In Florida, Congressman Byron Donalds' seat is up for grabs for Republicans",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-16",
+          "c": 49.43
+        },
+        {
+          "d": "07-17",
+          "c": 48.08
+        },
+        {
+          "d": "07-20",
+          "c": 48.34
+        },
+        {
+          "d": "07-21",
+          "c": 48.69
+        },
+        {
+          "d": "07-22",
+          "c": 47.66
+        },
+        {
+          "d": "07-23",
+          "c": 44.71
+        },
+        {
+          "d": "07-24",
+          "c": 45.08
+        },
+        {
+          "d": "07-27",
+          "c": 45.38
+        },
+        {
+          "d": "07-28",
+          "c": 46.31
+        },
+        {
+          "d": "07-29",
+          "c": 44.38
+        },
+        {
+          "d": "07-30",
+          "c": 45.6
+        },
+        {
+          "d": "07-31",
+          "c": 44.97
+        },
+        {
+          "d": "08-03",
+          "c": 47.07
+        },
+        {
+          "d": "08-04",
+          "c": 48.7
+        },
+        {
+          "d": "08-05",
+          "c": 48.79
+        },
+        {
+          "d": "08-06",
+          "c": 46.94
+        },
+        {
+          "d": "08-07",
+          "c": 47.05
+        },
+        {
+          "d": "08-10",
+          "c": 44.9
+        },
+        {
+          "d": "08-11",
+          "c": 45.52
+        },
+        {
+          "d": "08-12",
+          "c": 44.98
+        },
+        {
+          "d": "08-13",
+          "c": 44.87
+        },
+        {
+          "d": "08-14",
+          "c": 44.26
+        }
+      ]
+    },
     {
       "id": "8bf54a3b767c16c7",
       "date": "Sun, 16 Aug 2026",
@@ -41504,222 +41720,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0FFcWRqVUJIZERGZy1FODZMVXhYb3o5cFBmSzBTRnU0SUdlUkdZZVJHb29IM2hCYU5xUjcyTlpoN3BoaGJ4OW5fakVLTWtKNlZMaXhuaW9tY0hPWUtPdXUzbXJkUktwMjNEVl9ka1Z1eGtGWDllSW9LQUxma2dUUjhMR2FDOXJmaC1wT1hleVpfSXoySWhwN2k5UEktal9HUFdlMjVWVmNrUTRPWmJXeQ?oc=5",
       "image": null,
       "headline": "Trump Media launches services for faster access to Truth Social posts - Washington Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "82181557bf0d3c40",
-      "date": "Sat, 01 Aug 2026",
-      "ts": "2026-08-01T16:23:00+00:00",
-      "date_display": "Aug 01, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Trump\u2019s paid early access to Truth Social posts launches and the details are murky - The Independent",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEdfbFdEWE5VRWtFNUp4SnVuREdiWWFHRTVzSUZpWGR5ZTd2U01VMGxkUEZyMHpPMHpfVTdkZ05TdWlLUm5aclJYX2VEMDdhYzdqcXlqbjZzSEtTa01GN2tFVTQ2X0FaRTNCbDVUeWt5NXhIazJEbjFtTzVvUVBxLXlpa1JYakE5LXVqU2phZjJnZmlod2pDUnk0TUtPcno5Z0pXQk0yejZrYk9rNEN2Qw?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s paid early access to Truth Social posts launches and the details are murky - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "943eccb620f822b2",
-      "date": "Sat, 01 Aug 2026",
-      "ts": "2026-08-01T16:15:42+00:00",
-      "date_display": "Aug 01, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "into attorney general talks Trump asserted in a Truth Social post that he would keep acting Attorney General Todd",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/trumps-threat-to-push-ahead-on-settlement-fund-injects-new-uncertainty-into-attorney-general-talks",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-31T204944Z_959013350_RC27PMATYV9Y_RTRMADP_3_USA-TRUMP-2-1024x683.jpg",
-      "headline": "Trump's threat to push ahead on settlement fund injects new uncertainty into attorney general talks",
       "channel": "News",
       "series": [
         {
