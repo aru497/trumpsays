@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-17T11:46:32.720744+00:00",
+  "updated_at": "2026-08-17T12:19:23.537587+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "55bb07fc4993a7cc",
+      "date": "Mon, 17 Aug 2026",
+      "ts": "2026-08-17T11:53:00+00:00",
+      "date_display": "Aug 17, 2026",
+      "source": "Barron's",
+      "type": "news",
+      "quote": "Micron Stock Rises After Key Move by Trump Administration -",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 971.66,
+      "change": 2.3,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbzBxWU80VEVEcUNyWURZdklkcmNqTUlIZWw5WExxajE1MUI2aGgwWmdraVBJcnNReGo4WkFQQ1EyYVZROVZxUU9vam1rQ0NtM0IwRHJ5NVVJdGtldXJvN1NBT2g3aVE2a3J0X3pWejRPdEZOdTJOWHh0Vy1mQQ?oc=5",
+      "image": null,
+      "headline": "Micron Stock Rises After Key Move by Trump Administration - Barron's",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-16",
+          "c": 853.2
+        },
+        {
+          "d": "07-17",
+          "c": 848.95
+        },
+        {
+          "d": "07-20",
+          "c": 865.46
+        },
+        {
+          "d": "07-21",
+          "c": 970.82
+        },
+        {
+          "d": "07-22",
+          "c": 959.48
+        },
+        {
+          "d": "07-23",
+          "c": 990.21
+        },
+        {
+          "d": "07-24",
+          "c": 920.95
+        },
+        {
+          "d": "07-27",
+          "c": 900.2
+        },
+        {
+          "d": "07-28",
+          "c": 820.53
+        },
+        {
+          "d": "07-29",
+          "c": 739.0
+        },
+        {
+          "d": "07-30",
+          "c": 874.66
+        },
+        {
+          "d": "07-31",
+          "c": 823.03
+        },
+        {
+          "d": "08-03",
+          "c": 829.5
+        },
+        {
+          "d": "08-04",
+          "c": 892.67
+        },
+        {
+          "d": "08-05",
+          "c": 893.19
+        },
+        {
+          "d": "08-06",
+          "c": 881.47
+        },
+        {
+          "d": "08-07",
+          "c": 877.57
+        },
+        {
+          "d": "08-10",
+          "c": 861.0
+        },
+        {
+          "d": "08-11",
+          "c": 868.52
+        },
+        {
+          "d": "08-12",
+          "c": 911.29
+        },
+        {
+          "d": "08-13",
+          "c": 949.83
+        },
+        {
+          "d": "08-14",
+          "c": 971.66
+        }
+      ]
+    },
     {
       "id": "59ac31d53527bc7e",
       "date": "Sun, 16 Aug 2026",
@@ -41697,114 +41805,6 @@
         {
           "d": "07-31",
           "c": 209.01
-        }
-      ]
-    },
-    {
-      "id": "efe850b00bef767d",
-      "date": "Sat, 01 Aug 2026",
-      "ts": "2026-08-01T20:35:01+00:00",
-      "date_display": "Aug 01, 2026",
-      "source": "eciks.org",
-      "type": "news",
-      "quote": "Trump Media launches Truth API to sell early access to his posts for",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oSW56UVdtNVhheGF1d3Y4ZjhEX0FHeGkzWE9PNmYwSnBSX19YTTF3aVJkejAzZ2h1T3FHazJxU2o3TXBkNlVSQTZvMEpGQUVySGxRbFhKNk5ZWV9kSFU5LXpva2xBU1hZ?oc=5",
-      "image": null,
-      "headline": "Trump Media launches Truth API to sell early access to his posts for up to - eciks.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
         }
       ]
     }
