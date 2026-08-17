@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-08-17T21:15:11.646009+00:00",
+  "updated_at": "2026-08-17T21:46:29.259663+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a004c7dc0ad0574b",
+      "date": "Mon, 17 Aug 2026",
+      "ts": "2026-08-17T21:26:17+00:00",
+      "date_display": "Aug 17, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "describes people who move somewhere to run for office. In Southwest Florida, six former congressional hopefuls from other",
+      "company": "Southwest",
+      "ticker": "LUV",
+      "price": 43.35,
+      "change": -2.06,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging",
+      "image": null,
+      "headline": "Florida GOP race draws accusations of carpetbagging",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-20",
+          "c": 48.34
+        },
+        {
+          "d": "07-21",
+          "c": 48.69
+        },
+        {
+          "d": "07-22",
+          "c": 47.66
+        },
+        {
+          "d": "07-23",
+          "c": 44.71
+        },
+        {
+          "d": "07-24",
+          "c": 45.08
+        },
+        {
+          "d": "07-27",
+          "c": 45.38
+        },
+        {
+          "d": "07-28",
+          "c": 46.31
+        },
+        {
+          "d": "07-29",
+          "c": 44.38
+        },
+        {
+          "d": "07-30",
+          "c": 45.6
+        },
+        {
+          "d": "07-31",
+          "c": 44.97
+        },
+        {
+          "d": "08-03",
+          "c": 47.07
+        },
+        {
+          "d": "08-04",
+          "c": 48.7
+        },
+        {
+          "d": "08-05",
+          "c": 48.79
+        },
+        {
+          "d": "08-06",
+          "c": 46.94
+        },
+        {
+          "d": "08-07",
+          "c": 47.05
+        },
+        {
+          "d": "08-10",
+          "c": 44.9
+        },
+        {
+          "d": "08-11",
+          "c": 45.52
+        },
+        {
+          "d": "08-12",
+          "c": 44.98
+        },
+        {
+          "d": "08-13",
+          "c": 44.87
+        },
+        {
+          "d": "08-14",
+          "c": 44.26
+        },
+        {
+          "d": "08-17",
+          "c": 43.35
+        }
+      ]
+    },
+    {
+      "id": "64e81ce29d95456d",
+      "date": "Mon, 17 Aug 2026",
+      "ts": "2026-08-17T20:08:04+00:00",
+      "date_display": "Aug 17, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Slides 4% as It Abandons Its Bitcoin Treasury Bet, Rumble",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.1,
+      "change": -2.06,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDZjcmVzeGJGRXJnM1FDaXltNTkwU195SVN4TS13Tm5KMjFXLXlkbDVnekhhVWxSS0wyYW1fMmpMT0p3dHJXNHVMdERyUUg5aDl4MGRjLVBNcE1YNThqTUc5VU9fTm9CVWhOM3JtNEtLeXM0QkxwbzBZMzhKa08xSlVxMjlta25rUG9GbjdVMk93QURsMkw3ejhrVXotWFgyYU1DZGxzY3I2MFZiTDN2bGxyWG9JRUN2Wktv?oc=5",
+      "image": null,
+      "headline": "Trump Media Slides 4% as It Abandons Its Bitcoin Treasury Bet, Rumble Gains 4% - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        }
+      ]
+    },
     {
       "id": "50565c473e771eb3",
       "date": "Mon, 17 Aug 2026",
@@ -41500,218 +41708,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeVNpa3hDM0QzRERPOGNHZUh0T3FpZzVqamZGS2cwRlpkY2xGaUJRMWwyQXA1amp1amhtZ0NxMEt0NmlpQ1NGcWlVMWhXdWNabmRsTFd5S2hoWTNpYjE5cVB4SWh1MHNKLXlfZWtkNVd1eklyX0VGRmRNRG1LREF3X3M2R0JQM295R1JXUHNIUlNDTV9hS2NuWUlyd3V3WkxSZW5YLXdLTWUxY3M5RnNaWlpET0JHOW90SjZWeE1UN1ZOdVI5c3A4M05wMjEyZnc40gHWAUFVX3lxTE1YbUNYdGxGNE1Oek5tUkFJZmZPaUlLbF9JUWV1WUlxSjRZRE93R0wtXzFaNE1sZTBkUXI0XzMwZTQxOEpYSG9ULVlzc3JUVk90OE1VdERMc1JoVmhtcFlvX1psdG9YVm95cm1JbFJzS3Y5X24wekFodnYwZmxZeXlZS0RJNWxpZlpFQXE5dHBIMURVZUVrTlhxMkVmbWhHMDdtUEVwdGZnVW9fUWJzM1drZG1KaDNWLTl1RW15SkpudE44MkNwdWpsMng2VERBSnZTRFpFcGc?oc=5",
       "image": null,
       "headline": "'Market-moving Truths': Trump\u2019s Truth Social launches $100,000 paid access service - Moneycontrol.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "cdb3e4a250070e33",
-      "date": "Sun, 02 Aug 2026",
-      "ts": "2026-08-02T02:09:31+00:00",
-      "date_display": "Aug 02, 2026",
-      "source": "South China Morning Post",
-      "type": "news",
-      "quote": "Trump faces ethics storm for \u2018pimping\u2019 fast access to his Truth Social posts - South China Morning Post Trump faces ethics storm",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.01,
-      "change": 1.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2ZaNFRLM3hYQ2xTeWFtLWJvUFNaVDFSaWlSYkZoN21TUFhZQzRUYUlxNW5pWk9PeG9uTnY1QW81N2xnSWVfRFNRSVRfeWhfVWVFbEs1V29QLS0tbFg0Q1ZlTS03U000dVJhZTlsWG1qSUVCNkxHaG9JdlkxS1RLSEF5dWNWNWo2T25VWVhsbGpuQkptRWRfVTgtTjltR1QwMVFJa1o2SHpUZ3U0d1ZpQURoUjVOOFZ3OWVRY1BxVm42ZUhndmw5c2diX3c4UXlCaGfSAdIBQVVfeXFMT3NmWjRUSzN4WENsU3lhbS1ib1BTWlQxUmlpUmJGaDdtU1BYWUM0VGFJcTVuaVpPT3hvbk52NUFvNTdsZ0llX0RTUUlUX3loX1VlRWxLNVdvUC0tLWxYNENWZU0tN1NNNHVSYWU5bFhtaklFQjZMR2hvSXZZMUtUS0hBeXVjVjVqNk9uVVlYbGxqbkJKbUVkX1U4LU45bUdUMDFRSWtaNkh6VGd1NHdWaUFEaFI1TjhWdzllUWNQcVZuNmVIZ3ZsOXNnYl93OFF5Qmhn?oc=5",
-      "image": null,
-      "headline": "Trump faces ethics storm for \u2018pimping\u2019 fast access to his Truth Social posts - South China Morning Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        }
-      ]
-    },
-    {
-      "id": "c37cf3f10f1c9cf8",
-      "date": "Sun, 02 Aug 2026",
-      "ts": "2026-08-02T01:42:56+00:00",
-      "date_display": "Aug 02, 2026",
-      "source": "The Economic Times",
-      "type": "news",
-      "quote": "feed offering early access to market-moving Truth Social posts - The Economic Times Trump launches $100,000-a-month",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSExtN0lWb2t4bml4RXlaMWc5OGtRUl9UZl9BN2E2d05zdkhiY1Z0Y0pmUnVMRjlmRWJIa0hETGhmY2ItbUU5cmlpRlZ5MVFETi1WY1BSazdOM3RQdS02ZDJ2UDJOcGRQb2tya3BQNER1Rlc4Zm4yYVpBRFBzUnFBVmtzeUszZ0RYb0h1QzBMMTk2RENDTEpBbC16aXJucWVPNXA1SXV0Q05MZDk0NXBXUk1WX25nR1pITkVXYkpSLUswZ19pempfNjNwSmpMT21ueTBUQWJLc2FJNVRWaTNkalNobkJvSG5MeGs5NXRtSUR6NEZJcXY3WW5jQ0R3NHBBWktmZnZhMmh5UmN5dXNQcUloVFNURTg3R1RCdWdyQXc2QndqYVdORmJoc3hGODDSAbQCQVVfeXFMTmFSb2syM1JZVU5IRDlLWm9nVDRwcHl4YXJsekNLNFF1UVZzN0o0dWw2ZmpXUm81MmJ4Q294cU1FSE9BT2VQZUZrRC1uN1lMMl9RNnh1R3k1NHVNRGdMblNvMFcxYlhWQnA1Rmo0d19iQjNETVA5cXM4RjVocHdyZnVnU2MyVEgzSHhmUy1EcWxnQldDZ1oxM3JuVFJabkd3eXctTGlqZTlCUTl3ZExwZFhvdkVZM3FEWWdoOHUwVGxWRXdPbGZ6TVZIVERRLW5MbDJsS01QQS16dEtCOVlXMlFNWnpXNUlOZ3JKcE52ZkxGLTAwZWoxSDRGZTBRQWdTNmpHV19qUkJZU0gzdGJOWkkwekxCTzQ0eC1mZzRJcGp0Z25COEZUVVZwUURfMzVsTjRkcnk?oc=5",
-      "image": null,
-      "headline": "Trump launches $100,000-a-month feed offering early access to market-moving Truth Social posts - The Economic Times",
       "channel": "News",
       "series": [
         {
