@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-17T15:46:08.519690+00:00",
+  "updated_at": "2026-08-17T16:13:49.093410+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "50565c473e771eb3",
+      "date": "Mon, 17 Aug 2026",
+      "ts": "2026-08-17T15:48:47+00:00",
+      "date_display": "Aug 17, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "Trump Media stock drops 4% as company shifts aw... - Pluang Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.04,
+      "change": -2.78,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODcxajc1SVpEVXprcm1KTHJ2RVVGSm95cEFtaFVKcXlpamN2a3h0TUYybXRIaWFlQ1NIS1F1OEdaTVNNcjNXaGl6MVplazRuZEhndjN1ZmVyTko2YWxIS0pjNFJJSWdMc0FCX1lrZm96ckxXSWNPWnN3YldYS1R6VE5sRkp4bDRnelJ2cmEyUQ?oc=5",
+      "image": null,
+      "headline": "Trump Media stock drops 4% as company shifts aw... - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-17",
+          "c": 9.66
+        },
+        {
+          "d": "07-20",
+          "c": 9.74
+        },
+        {
+          "d": "07-21",
+          "c": 9.82
+        },
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.04
+        }
+      ]
+    },
     {
       "id": "c84f1ef611c65f58",
       "date": "Mon, 17 Aug 2026",
@@ -38230,6 +38338,114 @@
       ]
     },
     {
+      "id": "1857701e6b992434",
+      "date": "Mon, 03 Aug 2026",
+      "ts": "2026-08-03T07:00:00+00:00",
+      "date_display": "Aug 03, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Capital One says it closed Trump Organization's accounts after",
+      "company": "Capital One",
+      "ticker": "COF",
+      "price": 223.59,
+      "change": -1.65,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
+      "image": null,
+      "headline": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-17",
+          "c": 208.03
+        },
+        {
+          "d": "07-20",
+          "c": 206.77
+        },
+        {
+          "d": "07-21",
+          "c": 206.22
+        },
+        {
+          "d": "07-22",
+          "c": 201.36
+        },
+        {
+          "d": "07-23",
+          "c": 199.96
+        },
+        {
+          "d": "07-24",
+          "c": 202.84
+        },
+        {
+          "d": "07-27",
+          "c": 207.05
+        },
+        {
+          "d": "07-28",
+          "c": 212.41
+        },
+        {
+          "d": "07-29",
+          "c": 208.71
+        },
+        {
+          "d": "07-30",
+          "c": 210.14
+        },
+        {
+          "d": "07-31",
+          "c": 209.01
+        },
+        {
+          "d": "08-03",
+          "c": 217.68
+        },
+        {
+          "d": "08-04",
+          "c": 221.91
+        },
+        {
+          "d": "08-05",
+          "c": 221.63
+        },
+        {
+          "d": "08-06",
+          "c": 220.0
+        },
+        {
+          "d": "08-07",
+          "c": 217.76
+        },
+        {
+          "d": "08-10",
+          "c": 218.97
+        },
+        {
+          "d": "08-11",
+          "c": 219.15
+        },
+        {
+          "d": "08-12",
+          "c": 222.44
+        },
+        {
+          "d": "08-13",
+          "c": 223.83
+        },
+        {
+          "d": "08-14",
+          "c": 227.34
+        },
+        {
+          "d": "08-17",
+          "c": 223.59
+        }
+      ]
+    },
+    {
       "id": "13e81055404f8ab5",
       "date": "Mon, 03 Aug 2026",
       "ts": "2026-08-03T03:12:22+00:00",
@@ -41589,222 +41805,6 @@
         {
           "d": "07-31",
           "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "312f91d951f753a9",
-      "date": "Sun, 02 Aug 2026",
-      "ts": "2026-08-02T00:06:00+00:00",
-      "date_display": "Aug 02, 2026",
-      "source": "nbcnews.com",
-      "type": "news",
-      "quote": "Truth Social launches service selling faster access to Trump posts -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFppUDBwS3FjcGNRYTZ3MHgyXy0wamhqVHo2U2QwaGw1SkNKSVhzNGoxNzZ0MFAzZVhtVEt2cVdBZHA3VkpEU1BlM1pscWJ6WEd4SEZfa1hwcGNiZW9BZnF5b1BYZl9RUlNhYjF4cEFsMTh6LW5Iazk0dmNUbTJSZnhjZF9odDFJdWU1X09CcDFkZEoxR1EyS2wxZGNqV1lfZjJVNTdnNk9fVUtqbU1vWUJ5bmF3Um1heU1tVA?oc=5",
-      "image": null,
-      "headline": "Truth Social launches service selling faster access to Trump posts - nbcnews.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 8.02
-        },
-        {
-          "d": "07-02",
-          "c": 8.54
-        },
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "e3d7b1a061ec6d01",
-      "date": "Sun, 02 Aug 2026",
-      "ts": "2026-08-02T00:04:00+00:00",
-      "date_display": "Aug 02, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "Capital One says it closed Trump Organization\u2019s accounts after",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 209.01,
-      "change": -0.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjJVOG1mVnpGTnJEUlp2UHJvakFoMko0N3BzTU0xZXE5XzF3eEE1YlA0ZEF5eVBWbExvN0lTMlhCMEp5RGpVQUFKWTFNa1dZUXRQdjM5SjNadTgyU2tkV0lBWnRzdHJfZ1M1Mzk3eDBpSGNXMDlDM2FmOEFkNk9Db0lwdUhiY1dETmVzWkhKaF9ZZTRQeGxmNEtiOA?oc=5",
-      "image": null,
-      "headline": "Capital One says it closed Trump Organization\u2019s accounts after anti-money-laundering review - The Guardian",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 204.82
-        },
-        {
-          "d": "07-02",
-          "c": 205.12
-        },
-        {
-          "d": "07-06",
-          "c": 206.5
-        },
-        {
-          "d": "07-07",
-          "c": 202.89
-        },
-        {
-          "d": "07-08",
-          "c": 191.95
-        },
-        {
-          "d": "07-09",
-          "c": 200.1
-        },
-        {
-          "d": "07-10",
-          "c": 201.52
-        },
-        {
-          "d": "07-13",
-          "c": 203.02
-        },
-        {
-          "d": "07-14",
-          "c": 205.29
-        },
-        {
-          "d": "07-15",
-          "c": 208.89
-        },
-        {
-          "d": "07-16",
-          "c": 211.93
-        },
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
         }
       ]
     }
