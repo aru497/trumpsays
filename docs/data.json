@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-18T22:10:46.067956+00:00",
+  "updated_at": "2026-08-18T22:46:16.557262+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d16a4fb5c23ef200",
+      "date": "Tue, 18 Aug 2026",
+      "ts": "2026-08-18T22:29:05+00:00",
+      "date_display": "Aug 18, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "prestigious academic institutions were designed to strong-arm the schools into cutting deals for political purposes.",
+      "company": "Arm",
+      "ticker": "ARM",
+      "price": 253.32,
+      "change": -6.67,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/nation/whistleblower-alleges-political-pressure-lack-of-evidence-in-antisemitism-investigations-targeting-universities",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/GettyImages-2218914450-1024x657.jpg",
+      "headline": "Whistleblower alleges political pressure, lack of evidence in antisemitism investigations targeting universities",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-20",
+          "c": 269.61
+        },
+        {
+          "d": "07-21",
+          "c": 289.73
+        },
+        {
+          "d": "07-22",
+          "c": 283.4
+        },
+        {
+          "d": "07-23",
+          "c": 283.04
+        },
+        {
+          "d": "07-24",
+          "c": 260.01
+        },
+        {
+          "d": "07-27",
+          "c": 266.33
+        },
+        {
+          "d": "07-28",
+          "c": 244.74
+        },
+        {
+          "d": "07-29",
+          "c": 224.89
+        },
+        {
+          "d": "07-30",
+          "c": 241.54
+        },
+        {
+          "d": "07-31",
+          "c": 239.69
+        },
+        {
+          "d": "08-03",
+          "c": 239.06
+        },
+        {
+          "d": "08-04",
+          "c": 280.56
+        },
+        {
+          "d": "08-05",
+          "c": 274.58
+        },
+        {
+          "d": "08-06",
+          "c": 286.68
+        },
+        {
+          "d": "08-07",
+          "c": 282.57
+        },
+        {
+          "d": "08-10",
+          "c": 267.85
+        },
+        {
+          "d": "08-11",
+          "c": 268.93
+        },
+        {
+          "d": "08-12",
+          "c": 271.87
+        },
+        {
+          "d": "08-13",
+          "c": 278.65
+        },
+        {
+          "d": "08-14",
+          "c": 279.44
+        },
+        {
+          "d": "08-17",
+          "c": 271.43
+        },
+        {
+          "d": "08-18",
+          "c": 253.32
+        }
+      ]
+    },
     {
       "id": "440b63cdfbdf0a35",
       "date": "Tue, 18 Aug 2026",
@@ -41661,114 +41769,6 @@
         {
           "d": "07-31",
           "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "c75e0cf2d6f83d74",
-      "date": "Sun, 02 Aug 2026",
-      "ts": "2026-08-02T12:08:02+00:00",
-      "date_display": "Aug 02, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Democrats use the war and high prices for their midterm strategy? We look at how the Democratic party is approaching the",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 93.28,
-      "change": -4.56,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/02/nx-s1-5911749/politics-chat-will-democrats-use-the-war-and-high-prices-for-their-midterm-strategy",
-      "image": null,
-      "headline": "Politics chat: Will Democrats use the war and high prices for their midterm strategy?",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 93.39
-        },
-        {
-          "d": "07-02",
-          "c": 100.77
-        },
-        {
-          "d": "07-06",
-          "c": 100.77
-        },
-        {
-          "d": "07-07",
-          "c": 97.36
-        },
-        {
-          "d": "07-08",
-          "c": 93.87
-        },
-        {
-          "d": "07-09",
-          "c": 93.89
-        },
-        {
-          "d": "07-10",
-          "c": 94.64
-        },
-        {
-          "d": "07-13",
-          "c": 92.1
-        },
-        {
-          "d": "07-14",
-          "c": 97.58
-        },
-        {
-          "d": "07-15",
-          "c": 97.47
-        },
-        {
-          "d": "07-16",
-          "c": 94.03
-        },
-        {
-          "d": "07-17",
-          "c": 94.85
-        },
-        {
-          "d": "07-20",
-          "c": 97.82
-        },
-        {
-          "d": "07-21",
-          "c": 101.95
-        },
-        {
-          "d": "07-22",
-          "c": 100.01
-        },
-        {
-          "d": "07-23",
-          "c": 93.63
-        },
-        {
-          "d": "07-24",
-          "c": 91.67
-        },
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
         }
       ]
     }
