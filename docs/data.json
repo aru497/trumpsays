@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-20T20:16:00.561778+00:00",
+  "updated_at": "2026-08-20T20:52:31.390617+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f8da5b46aa509090",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T20:30:48+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "moneywise.com",
+      "type": "news",
+      "quote": "Trump grabbed up to $65,000 in Moderna stock. 2 weeks after an FDA approval, it rose 177% -",
+      "company": "Moderna",
+      "ticker": "MRNA",
+      "price": 133.32,
+      "change": -23.55,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDZFRTRSb1Q5cjZ0Q2c5eVhNd1Z2MXQtM0NwYkktbW5NVy1fcWpvUUM0RWlxd251bHl0NHZ6eXF3MEZCNHZSSThKS2JSN2NZYWVEOTNpQ1QyNmNtdEtsRk9MWjFleW02cXZ6RGs2TVdpSWRTVlVhYlFfZE1FRkRUX0tleDlIX05yXzFsaQ?oc=5",
+      "image": null,
+      "headline": "Trump grabbed up to $65,000 in Moderna stock. 2 weeks after an FDA approval, it rose 177% - moneywise.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 58.07
+        },
+        {
+          "d": "07-23",
+          "c": 57.02
+        },
+        {
+          "d": "07-24",
+          "c": 54.07
+        },
+        {
+          "d": "07-27",
+          "c": 55.63
+        },
+        {
+          "d": "07-28",
+          "c": 55.81
+        },
+        {
+          "d": "07-29",
+          "c": 54.49
+        },
+        {
+          "d": "07-30",
+          "c": 57.92
+        },
+        {
+          "d": "07-31",
+          "c": 54.82
+        },
+        {
+          "d": "08-03",
+          "c": 55.14
+        },
+        {
+          "d": "08-04",
+          "c": 56.99
+        },
+        {
+          "d": "08-05",
+          "c": 56.26
+        },
+        {
+          "d": "08-06",
+          "c": 53.86
+        },
+        {
+          "d": "08-07",
+          "c": 59.17
+        },
+        {
+          "d": "08-10",
+          "c": 59.81
+        },
+        {
+          "d": "08-11",
+          "c": 60.57
+        },
+        {
+          "d": "08-12",
+          "c": 63.67
+        },
+        {
+          "d": "08-13",
+          "c": 63.65
+        },
+        {
+          "d": "08-14",
+          "c": 63.32
+        },
+        {
+          "d": "08-17",
+          "c": 64.46
+        },
+        {
+          "d": "08-18",
+          "c": 62.96
+        },
+        {
+          "d": "08-19",
+          "c": 174.38
+        },
+        {
+          "d": "08-20",
+          "c": 133.32
+        }
+      ]
+    },
     {
       "id": "6f22ac77e1b1c02d",
       "date": "Thu, 20 Aug 2026",
@@ -41675,25 +41783,6 @@
           "c": 194.47
         }
       ]
-    },
-    {
-      "id": "2f030675f7ba2eaa",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T13:42:30+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "fund' for Trump allies after GOP senators threaten to block his AG bid Acting Attorney General Todd Blanche has issued",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-02T214058Z_536394695_RC2XLLAI4QCF_RTRMADP_3_USA-JUSTICE-BLANCHE-1024x683.jpg",
-      "headline": "Blanche rescinds 'anti-weaponization fund' for Trump allies after GOP senators threaten to block his AG bid",
-      "channel": "News",
-      "series": null
     }
   ]
 }
