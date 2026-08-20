@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:14:42.396343+00:00",
+  "updated_at": "2026-08-20T23:46:28.115023+00:00",
   "count": 400,
   "mentions": [
     {
@@ -431,6 +431,222 @@
         {
           "d": "08-20",
           "c": 133.32
+        }
+      ]
+    },
+    {
+      "id": "ebfd30ef083748fd",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T19:31:16+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios",
+      "company": "Moderna",
+      "ticker": "MRNA",
+      "price": 133.32,
+      "change": -23.55,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNlNiU25IZnZsZkNFSFR6cVp0dmhNSWtWTjMtVXBBU2VIWWo4U0hPM3dEM1Z3aU93a0puX0drSU5QRloxWThVWEJWVnNiOE1XMkpuTVpvUWZXV3RCMTAtaFRFbmtiaHV0bm45NFk1RDhidDdy?oc=5",
+      "image": null,
+      "headline": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 58.07
+        },
+        {
+          "d": "07-23",
+          "c": 57.02
+        },
+        {
+          "d": "07-24",
+          "c": 54.07
+        },
+        {
+          "d": "07-27",
+          "c": 55.63
+        },
+        {
+          "d": "07-28",
+          "c": 55.81
+        },
+        {
+          "d": "07-29",
+          "c": 54.49
+        },
+        {
+          "d": "07-30",
+          "c": 57.92
+        },
+        {
+          "d": "07-31",
+          "c": 54.82
+        },
+        {
+          "d": "08-03",
+          "c": 55.14
+        },
+        {
+          "d": "08-04",
+          "c": 56.99
+        },
+        {
+          "d": "08-05",
+          "c": 56.26
+        },
+        {
+          "d": "08-06",
+          "c": 53.86
+        },
+        {
+          "d": "08-07",
+          "c": 59.17
+        },
+        {
+          "d": "08-10",
+          "c": 59.81
+        },
+        {
+          "d": "08-11",
+          "c": 60.57
+        },
+        {
+          "d": "08-12",
+          "c": 63.67
+        },
+        {
+          "d": "08-13",
+          "c": 63.65
+        },
+        {
+          "d": "08-14",
+          "c": 63.32
+        },
+        {
+          "d": "08-17",
+          "c": 64.46
+        },
+        {
+          "d": "08-18",
+          "c": 62.96
+        },
+        {
+          "d": "08-19",
+          "c": 174.38
+        },
+        {
+          "d": "08-20",
+          "c": 133.32
+        }
+      ]
+    },
+    {
+      "id": "38c118c1add06773",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T19:31:16+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios Moderna and",
+      "company": "Merck",
+      "ticker": "MRK",
+      "price": 148.99,
+      "change": -2.11,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNlNiU25IZnZsZkNFSFR6cVp0dmhNSWtWTjMtVXBBU2VIWWo4U0hPM3dEM1Z3aU93a0puX0drSU5QRloxWThVWEJWVnNiOE1XMkpuTVpvUWZXV3RCMTAtaFRFbmtiaHV0bm45NFk1RDhidDdy?oc=5",
+      "image": null,
+      "headline": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 127.47
+        },
+        {
+          "d": "07-23",
+          "c": 130.48
+        },
+        {
+          "d": "07-24",
+          "c": 131.07
+        },
+        {
+          "d": "07-27",
+          "c": 130.76
+        },
+        {
+          "d": "07-28",
+          "c": 131.82
+        },
+        {
+          "d": "07-29",
+          "c": 130.36
+        },
+        {
+          "d": "07-30",
+          "c": 129.79
+        },
+        {
+          "d": "07-31",
+          "c": 130.2
+        },
+        {
+          "d": "08-03",
+          "c": 127.77
+        },
+        {
+          "d": "08-04",
+          "c": 128.0
+        },
+        {
+          "d": "08-05",
+          "c": 128.33
+        },
+        {
+          "d": "08-06",
+          "c": 128.37
+        },
+        {
+          "d": "08-07",
+          "c": 128.58
+        },
+        {
+          "d": "08-10",
+          "c": 130.92
+        },
+        {
+          "d": "08-11",
+          "c": 130.42
+        },
+        {
+          "d": "08-12",
+          "c": 132.92
+        },
+        {
+          "d": "08-13",
+          "c": 135.55
+        },
+        {
+          "d": "08-14",
+          "c": 135.84
+        },
+        {
+          "d": "08-17",
+          "c": 135.97
+        },
+        {
+          "d": "08-18",
+          "c": 135.17
+        },
+        {
+          "d": "08-19",
+          "c": 152.2
+        },
+        {
+          "d": "08-20",
+          "c": 148.99
         }
       ]
     },
@@ -41589,210 +41805,6 @@
         {
           "d": "08-03",
           "c": 10.01
-        }
-      ]
-    },
-    {
-      "id": "0e77ce5b56e23f2b",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T15:06:21+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "tech.yahoo.com",
-      "type": "news",
-      "quote": "Trump Media launches paid feed for faster access to Truth Social posts",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkp0bk8yV3psVHk2YTZ0MmpvRjd0ZHMwMUFESnFpbmxTWGhaNy1iUWQ4azRnaEFwQ2ZRQlpya0M2NENrTHQ3X1BPZVJvS2R4Mi10LXpJMnNuTE1GeXZ5bkE0VUZ6V25GdTh0TjVtOG9Oa2hVVHlya19LbFl6Z0tWd1lkOEdVeUEtOEI1WVJPZk13MzUzemJNeGV6d2FaNmRJMWFGQm5tS3ZUdXNPcFlNZUxlRUFRVW5xUzE1bk5nWlV3Zw?oc=5",
-      "image": null,
-      "headline": "Trump Media launches paid feed for faster access to Truth Social posts - tech.yahoo.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "93710a2d6da53ac0",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T14:59:00+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "The Hill",
-      "type": "news",
-      "quote": "Capital One says Trump Organization accounts were closed after money",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 217.8,
-      "change": 4.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1ZMYU1VaDZoelh1RWJ3eU1Cd08xQlc0Z3BqZ2pQS2FoQzNxRVdhbzFEclh6aXNTUVFFZ29OOE42S3hWYnhTMlp2dTdNWnAxR2NEWXNZWFJIWDlsanl3b1VkamVsWkdlN0FVemNGZTI5V0ZlUDlRUjZnVHN0STNLVHo5aGMtbjBOVDN5bzh0WHBmTTgxemfSAZsBQVVfeXFMUFZLWHo5LXA3T1JjNFA2ci0xWnl2S0I4NVFRMWFyd1lvVV9aZllycHpybFRpNWhIOHNIYWctd0F2T0dXQzg4RjNkNEFYUUZmcEVudVFtd1JXYkh5YTU2eWprQmZ0VjZ2ckVYNUI3Ti1hMzJXSXJQWEcxVkxHdzRpUlB5UnY4LVlGVW4xY29iWUU3OVdkN29OdHB5WDA?oc=5",
-      "image": null,
-      "headline": "Capital One says Trump Organization accounts were closed after money laundering review - The Hill",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 206.5
-        },
-        {
-          "d": "07-07",
-          "c": 202.89
-        },
-        {
-          "d": "07-08",
-          "c": 191.95
-        },
-        {
-          "d": "07-09",
-          "c": 200.1
-        },
-        {
-          "d": "07-10",
-          "c": 201.52
-        },
-        {
-          "d": "07-13",
-          "c": 203.02
-        },
-        {
-          "d": "07-14",
-          "c": 205.29
-        },
-        {
-          "d": "07-15",
-          "c": 208.89
-        },
-        {
-          "d": "07-16",
-          "c": 211.93
-        },
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
-        },
-        {
-          "d": "08-03",
-          "c": 217.8
         }
       ]
     }
