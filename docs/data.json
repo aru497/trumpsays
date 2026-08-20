@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-08-20T15:01:21.820027+00:00",
+  "updated_at": "2026-08-20T15:55:18.605515+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "6f22ac77e1b1c02d",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T15:18:21+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "company": "Zoom",
+      "ticker": "ZM",
+      "price": 106.58,
+      "change": -0.83,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "image": null,
+      "headline": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-21",
+          "c": 89.77
+        },
+        {
+          "d": "07-22",
+          "c": 85.81
+        },
+        {
+          "d": "07-23",
+          "c": 84.11
+        },
+        {
+          "d": "07-24",
+          "c": 87.99
+        },
+        {
+          "d": "07-27",
+          "c": 91.22
+        },
+        {
+          "d": "07-28",
+          "c": 91.48
+        },
+        {
+          "d": "07-29",
+          "c": 92.41
+        },
+        {
+          "d": "07-30",
+          "c": 92.32
+        },
+        {
+          "d": "07-31",
+          "c": 96.07
+        },
+        {
+          "d": "08-03",
+          "c": 98.25
+        },
+        {
+          "d": "08-04",
+          "c": 102.12
+        },
+        {
+          "d": "08-05",
+          "c": 100.64
+        },
+        {
+          "d": "08-06",
+          "c": 101.3
+        },
+        {
+          "d": "08-07",
+          "c": 104.5
+        },
+        {
+          "d": "08-10",
+          "c": 107.2
+        },
+        {
+          "d": "08-12",
+          "c": 105.13
+        },
+        {
+          "d": "08-13",
+          "c": 109.84
+        },
+        {
+          "d": "08-14",
+          "c": 105.96
+        },
+        {
+          "d": "08-17",
+          "c": 105.56
+        },
+        {
+          "d": "08-18",
+          "c": 104.71
+        },
+        {
+          "d": "08-19",
+          "c": 107.47
+        },
+        {
+          "d": "08-20",
+          "c": 106.58
+        }
+      ]
+    },
+    {
+      "id": "9996db93fe8d77c5",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T14:23:51+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New",
+      "company": "Moderna",
+      "ticker": "MRNA",
+      "price": 140.07,
+      "change": -19.68,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWGhUMUI1SFZkUzBhUVBFQUVGRkZxYjl2ZDFsY2pZajhUQXNMMU1Xd2Z2ZU04R09MYTAzZXlmOXFZSU1nV1FsMXJkamE4eU9yUXJHRGtQNV81cnVVT1diSUk2ZXZ1Zi1RUEtpVGNfN0NubWxjTmFNejA5R1E?oc=5",
+      "image": null,
+      "headline": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 58.07
+        },
+        {
+          "d": "07-23",
+          "c": 57.02
+        },
+        {
+          "d": "07-24",
+          "c": 54.07
+        },
+        {
+          "d": "07-27",
+          "c": 55.63
+        },
+        {
+          "d": "07-28",
+          "c": 55.81
+        },
+        {
+          "d": "07-29",
+          "c": 54.49
+        },
+        {
+          "d": "07-30",
+          "c": 57.92
+        },
+        {
+          "d": "07-31",
+          "c": 54.82
+        },
+        {
+          "d": "08-03",
+          "c": 55.14
+        },
+        {
+          "d": "08-04",
+          "c": 56.99
+        },
+        {
+          "d": "08-05",
+          "c": 56.26
+        },
+        {
+          "d": "08-06",
+          "c": 53.86
+        },
+        {
+          "d": "08-07",
+          "c": 59.17
+        },
+        {
+          "d": "08-10",
+          "c": 59.81
+        },
+        {
+          "d": "08-11",
+          "c": 60.57
+        },
+        {
+          "d": "08-12",
+          "c": 63.67
+        },
+        {
+          "d": "08-13",
+          "c": 63.65
+        },
+        {
+          "d": "08-14",
+          "c": 63.32
+        },
+        {
+          "d": "08-17",
+          "c": 64.46
+        },
+        {
+          "d": "08-18",
+          "c": 62.96
+        },
+        {
+          "d": "08-19",
+          "c": 174.38
+        },
+        {
+          "d": "08-20",
+          "c": 140.07
+        }
+      ]
+    },
+    {
+      "id": "2f6d211e16c41931",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T14:23:51+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New York Times Moderna\u2019s Shift to Cancer Company Lifts Stock Up",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 65.54,
+      "change": -0.64,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWGhUMUI1SFZkUzBhUVBFQUVGRkZxYjl2ZDFsY2pZajhUQXNMMU1Xd2Z2ZU04R09MYTAzZXlmOXFZSU1nV1FsMXJkamE4eU9yUXJHRGtQNV81cnVVT1diSUk2ZXZ1Zi1RUEtpVGNfN0NubWxjTmFNejA5R1E?oc=5",
+      "image": null,
+      "headline": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 72.99
+        },
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.54
+        }
+      ]
+    },
+    {
+      "id": "b5ce1a1850b3d728",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T14:23:00+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Truth Social is selling faster access to Trump posts. Is that legal? -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.4,
+      "change": 0.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
+      "image": null,
+      "headline": "Truth Social is selling faster access to Trump posts. Is that legal? - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 9.23
+        },
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.4
+        }
+      ]
+    },
     {
       "id": "bb30786e2c67bce0",
       "date": "Thu, 20 Aug 2026",
@@ -41248,434 +41680,6 @@
         {
           "d": "08-03",
           "c": 10.2
-        }
-      ]
-    },
-    {
-      "id": "664a96845226f65f",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T10:35:36+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "What smart people are saying about Trump Media charging for faster access to Truth Social posts - Yahoo",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.18,
-      "change": 3.25,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDUyTEFCNklMNFh5VHJlZ3I0SEdNY3NGZHpMR1pkM3Qyek5RUW1VVDNFY1RsVXVIckF0Q25uOEk2NUQxcG93T0ZEeGhJcHhpSVllLXNLeWY4MlVzbTQtY2h5VG85LW1GTXBIMUQyeWVBM3RPUGc5V0k1VnNiZUUwQUN2SWJOMXpzcDRPbW1XZFJJaE1iT1RtSjBucUg?oc=5",
-      "image": null,
-      "headline": "What smart people are saying about Trump Media charging for faster access to Truth Social posts - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.18
-        }
-      ]
-    },
-    {
-      "id": "0a1609ea657a244f",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T10:19:12+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "in Congress says renewable energy companies have put a target on his back - Fox News Key Trump ally in Congress says",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 144.49,
-      "change": -0.01,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlOUdLRlV1dXltQUJULWRBSERUY3JVMmFEREtjLTNnZlNSX0o0YUtrVVNNQzl0ZmdDa3RpR2NPRW5oa29ublJWZmlZR1FSbFRSRjB6UlZR?oc=5",
-      "image": null,
-      "headline": "Key Trump ally in Congress says renewable energy companies have put a target on his back - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 130.29
-        },
-        {
-          "d": "07-02",
-          "c": 130.21
-        },
-        {
-          "d": "07-06",
-          "c": 126.1
-        },
-        {
-          "d": "07-07",
-          "c": 127.55
-        },
-        {
-          "d": "07-08",
-          "c": 132.42
-        },
-        {
-          "d": "07-09",
-          "c": 132.27
-        },
-        {
-          "d": "07-10",
-          "c": 135.14
-        },
-        {
-          "d": "07-13",
-          "c": 134.77
-        },
-        {
-          "d": "07-14",
-          "c": 134.0
-        },
-        {
-          "d": "07-15",
-          "c": 138.29
-        },
-        {
-          "d": "07-16",
-          "c": 140.21
-        },
-        {
-          "d": "07-17",
-          "c": 139.6
-        },
-        {
-          "d": "07-20",
-          "c": 139.59
-        },
-        {
-          "d": "07-21",
-          "c": 138.48
-        },
-        {
-          "d": "07-22",
-          "c": 137.92
-        },
-        {
-          "d": "07-23",
-          "c": 134.48
-        },
-        {
-          "d": "07-24",
-          "c": 136.78
-        },
-        {
-          "d": "07-27",
-          "c": 140.34
-        },
-        {
-          "d": "07-28",
-          "c": 144.2
-        },
-        {
-          "d": "07-29",
-          "c": 145.9
-        },
-        {
-          "d": "07-30",
-          "c": 144.51
-        },
-        {
-          "d": "07-31",
-          "c": 144.49
-        }
-      ]
-    },
-    {
-      "id": "fb4ba0a52ae16eeb",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T10:19:12+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "renewable energy companies have put a target on his back - Fox News Key Trump ally in Congress says renewable energy",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 51.94,
-      "change": -0.76,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlOUdLRlV1dXltQUJULWRBSERUY3JVMmFEREtjLTNnZlNSX0o0YUtrVVNNQzl0ZmdDa3RpR2NPRW5oa29ublJWZmlZR1FSbFRSRjB6UlZR?oc=5",
-      "image": null,
-      "headline": "Key Trump ally in Congress says renewable energy companies have put a target on his back - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-01",
-          "c": 48.42
-        },
-        {
-          "d": "07-02",
-          "c": 50.56
-        },
-        {
-          "d": "07-06",
-          "c": 49.9
-        },
-        {
-          "d": "07-07",
-          "c": 49.2
-        },
-        {
-          "d": "07-08",
-          "c": 47.95
-        },
-        {
-          "d": "07-09",
-          "c": 48.44
-        },
-        {
-          "d": "07-10",
-          "c": 48.75
-        },
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        }
-      ]
-    },
-    {
-      "id": "1857701e6b992434",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T07:00:00+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Capital One says it closed Trump Organization's accounts after",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 223.59,
-      "change": -1.65,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
-      "image": null,
-      "headline": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
-        },
-        {
-          "d": "08-03",
-          "c": 217.68
-        },
-        {
-          "d": "08-04",
-          "c": 221.91
-        },
-        {
-          "d": "08-05",
-          "c": 221.63
-        },
-        {
-          "d": "08-06",
-          "c": 220.0
-        },
-        {
-          "d": "08-07",
-          "c": 217.76
-        },
-        {
-          "d": "08-10",
-          "c": 218.97
-        },
-        {
-          "d": "08-11",
-          "c": 219.15
-        },
-        {
-          "d": "08-12",
-          "c": 222.44
-        },
-        {
-          "d": "08-13",
-          "c": 223.83
-        },
-        {
-          "d": "08-14",
-          "c": 227.34
-        },
-        {
-          "d": "08-17",
-          "c": 223.59
         }
       ]
     }
