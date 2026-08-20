@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-20T22:14:52.344295+00:00",
+  "updated_at": "2026-08-20T22:51:00.419002+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "44862f788f90cdd1",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T22:42:08+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "War crimes are part of Russia's strategy in Ukraine, retired U.S. Army colonel says Ukraine says",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 112.39,
+      "change": 7.81,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/war-crimes-are-part-of-russias-strategy-in-ukraine-retired-u-s-army-colonel-says",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/ukraine-1-1024x683.jpg",
+      "headline": "War crimes are part of Russia's strategy in Ukraine, retired U.S. Army colonel says",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-22",
+          "c": 100.01
+        },
+        {
+          "d": "07-23",
+          "c": 93.63
+        },
+        {
+          "d": "07-24",
+          "c": 91.67
+        },
+        {
+          "d": "07-27",
+          "c": 98.65
+        },
+        {
+          "d": "07-28",
+          "c": 96.16
+        },
+        {
+          "d": "07-29",
+          "c": 93.33
+        },
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        },
+        {
+          "d": "08-03",
+          "c": 94.86
+        },
+        {
+          "d": "08-04",
+          "c": 97.65
+        },
+        {
+          "d": "08-05",
+          "c": 98.37
+        },
+        {
+          "d": "08-06",
+          "c": 96.85
+        },
+        {
+          "d": "08-07",
+          "c": 100.01
+        },
+        {
+          "d": "08-10",
+          "c": 97.33
+        },
+        {
+          "d": "08-11",
+          "c": 96.09
+        },
+        {
+          "d": "08-12",
+          "c": 94.83
+        },
+        {
+          "d": "08-13",
+          "c": 97.1
+        },
+        {
+          "d": "08-14",
+          "c": 93.04
+        },
+        {
+          "d": "08-17",
+          "c": 97.68
+        },
+        {
+          "d": "08-18",
+          "c": 92.52
+        },
+        {
+          "d": "08-19",
+          "c": 104.25
+        },
+        {
+          "d": "08-20",
+          "c": 112.39
+        }
+      ]
+    },
+    {
+      "id": "12d5900a15abd624",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T22:29:18+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Fostering the Future partnership with IndyCar and Fox First lady Melania Trump accepted a $2 million gift",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.45,
+      "change": 0.1,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-announces-fostering-the-future-partnership-with-indycar-and-fox",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-20T202303Z_455109475_RC2K2NANLM86_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "WATCH: First lady Melania Trump announces Fostering the Future partnership with IndyCar and Fox",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-21",
+          "c": 51.47
+        },
+        {
+          "d": "07-22",
+          "c": 50.63
+        },
+        {
+          "d": "07-23",
+          "c": 49.18
+        },
+        {
+          "d": "07-24",
+          "c": 49.41
+        },
+        {
+          "d": "07-27",
+          "c": 50.81
+        },
+        {
+          "d": "07-28",
+          "c": 51.63
+        },
+        {
+          "d": "07-29",
+          "c": 52.73
+        },
+        {
+          "d": "07-30",
+          "c": 52.34
+        },
+        {
+          "d": "07-31",
+          "c": 51.94
+        },
+        {
+          "d": "08-03",
+          "c": 52.62
+        },
+        {
+          "d": "08-04",
+          "c": 52.82
+        },
+        {
+          "d": "08-05",
+          "c": 52.2
+        },
+        {
+          "d": "08-06",
+          "c": 55.37
+        },
+        {
+          "d": "08-07",
+          "c": 57.03
+        },
+        {
+          "d": "08-10",
+          "c": 56.33
+        },
+        {
+          "d": "08-12",
+          "c": 55.97
+        },
+        {
+          "d": "08-13",
+          "c": 58.1
+        },
+        {
+          "d": "08-14",
+          "c": 61.41
+        },
+        {
+          "d": "08-17",
+          "c": 61.49
+        },
+        {
+          "d": "08-18",
+          "c": 61.23
+        },
+        {
+          "d": "08-19",
+          "c": 60.39
+        },
+        {
+          "d": "08-20",
+          "c": 60.45
+        }
+      ]
+    },
     {
       "id": "11d9bd9e76412e8a",
       "date": "Thu, 20 Aug 2026",
@@ -41577,214 +41793,6 @@
         {
           "d": "08-03",
           "c": 217.8
-        }
-      ]
-    },
-    {
-      "id": "c3b4e97e8313aa9c",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T14:37:55+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "People.com",
-      "type": "news",
-      "quote": "Capital One Says It Closed Trump Family Business\u2019 Accounts for",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 216.55,
-      "change": 3.61,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDVlZEl6bTV3WkxPMmNJamdFZjdDSEZmTTdmVFlCMDM3cFlfWndnWThFT0o0Ul9MWlk0REs1VmpLVC1QRXRnSGQ2b2JUcWs3VUt3eXhRVGFWWWV5TzlId3YwVU8zSktaTjBEVzYtUkNHejFVZ0xjbmNGbW05VGYwWGFCb1U2WkcySE1Hejl6N3VvTXM0Mk13U2hMU196RGVlRGEwR1lqblZxdEcxRzcyaTZaQnNZZE8yOXA3VFpteHhyWC1ZZDRUTk9RQk4?oc=5",
-      "image": null,
-      "headline": "Capital One Says It Closed Trump Family Business\u2019 Accounts for \u2018Anti-Money Laundering Reasons,\u2019 Not Politics - People.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 206.5
-        },
-        {
-          "d": "07-07",
-          "c": 202.89
-        },
-        {
-          "d": "07-08",
-          "c": 191.95
-        },
-        {
-          "d": "07-09",
-          "c": 200.1
-        },
-        {
-          "d": "07-10",
-          "c": 201.52
-        },
-        {
-          "d": "07-13",
-          "c": 203.02
-        },
-        {
-          "d": "07-14",
-          "c": 205.29
-        },
-        {
-          "d": "07-15",
-          "c": 208.89
-        },
-        {
-          "d": "07-16",
-          "c": 211.93
-        },
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
-        },
-        {
-          "d": "08-03",
-          "c": 216.55
-        }
-      ]
-    },
-    {
-      "id": "cccb9d4c018b5ec8",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T14:37:46+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Al Jazeera",
-      "type": "news",
-      "quote": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices - Al",
-      "company": "Chevron",
-      "ticker": "CVX",
-      "price": 194.47,
-      "change": -1.2,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQWg1SXNUMjhpaVZIN2xHR191b19NWnpQV09oeUd5ZU9Cakl2WXNxMWpwUlU1aG9Jc0pxTDA0MjhFY3MtSEZJTkdkMTBhTDBiQnBRN1R0dEliaXUxQXQ4Y0JzT0tjYmJPNng0QnZUSUlrSmZ1ZDdoZ1JxbUFzYkoyRGhmaWtmaVFsSW80UTlWcEhFRjlIWV9pWS1oRklMUFFnSEVrbWw5WGItTTVmelZETW130gG3AUFVX3lxTFBLMDdQbW91Y0FkdWROZUJRMU5zSFZHUFl4V1JwamZOd29PTTJhQVZPaUkzUFlhTjBMU0tRUnRXc24zODhSWGEwNE5YYzlOQzFkSGRkYUlqc0ZCZlg2N0RZbjNGckVDSVJxTElkV1FIM1hwbzBLMmZZZ0lNbWtseFRUakVPYlFLRVVzMndxZTRyU2Niclh6X2tmQWxKbHVZTnFEcGNJaWNSRzJVWDBsV005R1F0NzNMMA?oc=5",
-      "image": null,
-      "headline": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices - Al Jazeera",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 168.1
-        },
-        {
-          "d": "07-07",
-          "c": 174.01
-        },
-        {
-          "d": "07-08",
-          "c": 175.97
-        },
-        {
-          "d": "07-09",
-          "c": 174.05
-        },
-        {
-          "d": "07-10",
-          "c": 176.4
-        },
-        {
-          "d": "07-13",
-          "c": 182.2
-        },
-        {
-          "d": "07-14",
-          "c": 181.76
-        },
-        {
-          "d": "07-15",
-          "c": 181.6
-        },
-        {
-          "d": "07-16",
-          "c": 183.86
-        },
-        {
-          "d": "07-17",
-          "c": 187.38
-        },
-        {
-          "d": "07-20",
-          "c": 189.71
-        },
-        {
-          "d": "07-21",
-          "c": 191.07
-        },
-        {
-          "d": "07-22",
-          "c": 192.98
-        },
-        {
-          "d": "07-23",
-          "c": 194.42
-        },
-        {
-          "d": "07-24",
-          "c": 194.79
-        },
-        {
-          "d": "07-27",
-          "c": 190.0
-        },
-        {
-          "d": "07-28",
-          "c": 187.58
-        },
-        {
-          "d": "07-29",
-          "c": 191.86
-        },
-        {
-          "d": "07-30",
-          "c": 192.31
-        },
-        {
-          "d": "07-31",
-          "c": 196.83
-        },
-        {
-          "d": "08-03",
-          "c": 194.47
         }
       ]
     }
