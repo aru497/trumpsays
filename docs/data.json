@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-21T14:59:54.533286+00:00",
+  "updated_at": "2026-08-21T15:33:37.918096+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "64b3057d99c9d8da",
+      "date": "Fri, 21 Aug 2026",
+      "ts": "2026-08-21T15:28:29+00:00",
+      "date_display": "Aug 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Enrollment in SNAP grocery aid is dropping faster than expected Enrollment in",
+      "company": "Snap",
+      "ticker": "SNAP",
+      "price": 5.22,
+      "change": 0.19,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/nation/enrollment-in-snap-grocery-aid-is-dropping-faster-than-expected",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-06-24T101252Z_1254012148_RC2CJLAH9CL6_RTRMADP_3_USA-HUNGER-ARIZONA-1024x683.jpg",
+      "headline": "Enrollment in SNAP grocery aid is dropping faster than expected",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 4.41
+        },
+        {
+          "d": "07-24",
+          "c": 4.35
+        },
+        {
+          "d": "07-27",
+          "c": 4.52
+        },
+        {
+          "d": "07-28",
+          "c": 4.77
+        },
+        {
+          "d": "07-29",
+          "c": 4.73
+        },
+        {
+          "d": "07-30",
+          "c": 4.69
+        },
+        {
+          "d": "07-31",
+          "c": 4.69
+        },
+        {
+          "d": "08-03",
+          "c": 5.04
+        },
+        {
+          "d": "08-04",
+          "c": 5.79
+        },
+        {
+          "d": "08-05",
+          "c": 5.33
+        },
+        {
+          "d": "08-06",
+          "c": 5.22
+        },
+        {
+          "d": "08-07",
+          "c": 5.33
+        },
+        {
+          "d": "08-10",
+          "c": 5.35
+        },
+        {
+          "d": "08-11",
+          "c": 5.51
+        },
+        {
+          "d": "08-12",
+          "c": 5.2
+        },
+        {
+          "d": "08-13",
+          "c": 5.3
+        },
+        {
+          "d": "08-14",
+          "c": 5.41
+        },
+        {
+          "d": "08-17",
+          "c": 5.18
+        },
+        {
+          "d": "08-18",
+          "c": 5.11
+        },
+        {
+          "d": "08-19",
+          "c": 5.24
+        },
+        {
+          "d": "08-20",
+          "c": 5.21
+        },
+        {
+          "d": "08-21",
+          "c": 5.22
+        }
+      ]
+    },
     {
       "id": "c8855d48d51424ba",
       "date": "Fri, 21 Aug 2026",
@@ -1079,6 +1187,114 @@
         {
           "d": "08-20",
           "c": 106.58
+        }
+      ]
+    },
+    {
+      "id": "5a049210fc82cf69",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T15:05:01+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "Top Class Actions",
+      "type": "news",
+      "quote": "Target class action claims company owes consumers refund of Trump",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 163.73,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSF9HMC1CR0JTZ1ZWWlQzejZoV3c4UmlZWVRXQ0M5endhMkhJbmQtMTlYQmF3NjB0VGpfYjNnUGFCbDdvbGNSQnFmOFpXQU01Z1NGaFlGcTk4YTBtVVhvSG1NV1g0V2F6MmdLck9SUFpXRE9NNGhMR2V3blhUeWl5ekJKZUVBSFFWcWllajNLWkZJR1Z6U3ZDRmg1Mk5NNmRHbTdBa2dfYlVIRFVMQ2xac1d1WFY3ZEtMM0lDeXJqSEwtYXVfaEoybW5WQ0VMdkZw?oc=5",
+      "image": null,
+      "headline": "Target class action claims company owes consumers refund of Trump tariffs - Top Class Actions",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 133.46
+        },
+        {
+          "d": "07-24",
+          "c": 135.74
+        },
+        {
+          "d": "07-27",
+          "c": 139.27
+        },
+        {
+          "d": "07-28",
+          "c": 143.1
+        },
+        {
+          "d": "07-29",
+          "c": 144.79
+        },
+        {
+          "d": "07-30",
+          "c": 143.41
+        },
+        {
+          "d": "07-31",
+          "c": 143.39
+        },
+        {
+          "d": "08-03",
+          "c": 148.21
+        },
+        {
+          "d": "08-04",
+          "c": 146.98
+        },
+        {
+          "d": "08-05",
+          "c": 146.57
+        },
+        {
+          "d": "08-06",
+          "c": 145.96
+        },
+        {
+          "d": "08-07",
+          "c": 148.56
+        },
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
+        },
+        {
+          "d": "08-13",
+          "c": 155.51
+        },
+        {
+          "d": "08-14",
+          "c": 154.48
+        },
+        {
+          "d": "08-17",
+          "c": 151.01
+        },
+        {
+          "d": "08-18",
+          "c": 152.48
+        },
+        {
+          "d": "08-19",
+          "c": 159.0
+        },
+        {
+          "d": "08-20",
+          "c": 158.25
+        },
+        {
+          "d": "08-21",
+          "c": 163.73
         }
       ]
     },
@@ -41528,214 +41744,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUxNOGlNZTUyNnBZWUZqWDlwT05SV1Zlb1QtdlktSEQ2UkxEc0xydEJlY1ZhVlY0T2VhazBKWGE4aUYyWUNKLTBORFRaemdHVS1tbnhGQXJXWndqSEFNcGduY1pjRE1BWXQycHZ6Rl85Tlh0ZHNuS01YMEU0cnpsZXFVczd0ZTB1N2ZkNUhzTEFTTmdMR01lNXVsMWFubHVnVGNheHYtYmpXak1zVXJEa0xINjhVQ2V2NkpXbtIBwgFBVV95cUxNcjlPcXk2eTdkYUhUMjR4NzdCclQ0Uk5ZRnAyMGU4U291QXVfWDdiNlJYU3lHM3F0b204TnJHZjEzRTJJZWgyc1VTcjBhTDZMYmxFWGhvdHFhMkpRZ0EtdWw5VGNMSjZzb1pMQS1yVmxMTmVZcHh0eFpROXJqM1B1NVh2bHVaZkNOb25JTWJHM29SaTU5N0pCOVRnSVItNmNRR0l0Nmt3dTQxb3V0aVNLUDRDMzFzM2kzUTlsWThkUnBjUQ?oc=5",
       "image": null,
       "headline": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO - Crude Oil Prices Today | OilPrice.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 168.1
-        },
-        {
-          "d": "07-07",
-          "c": 174.01
-        },
-        {
-          "d": "07-08",
-          "c": 175.97
-        },
-        {
-          "d": "07-09",
-          "c": 174.05
-        },
-        {
-          "d": "07-10",
-          "c": 176.4
-        },
-        {
-          "d": "07-13",
-          "c": 182.2
-        },
-        {
-          "d": "07-14",
-          "c": 181.76
-        },
-        {
-          "d": "07-15",
-          "c": 181.6
-        },
-        {
-          "d": "07-16",
-          "c": 183.86
-        },
-        {
-          "d": "07-17",
-          "c": 187.38
-        },
-        {
-          "d": "07-20",
-          "c": 189.71
-        },
-        {
-          "d": "07-21",
-          "c": 191.07
-        },
-        {
-          "d": "07-22",
-          "c": 192.98
-        },
-        {
-          "d": "07-23",
-          "c": 194.42
-        },
-        {
-          "d": "07-24",
-          "c": 194.79
-        },
-        {
-          "d": "07-27",
-          "c": 190.0
-        },
-        {
-          "d": "07-28",
-          "c": 187.58
-        },
-        {
-          "d": "07-29",
-          "c": 191.86
-        },
-        {
-          "d": "07-30",
-          "c": 192.31
-        },
-        {
-          "d": "07-31",
-          "c": 196.83
-        },
-        {
-          "d": "08-03",
-          "c": 193.18
-        }
-      ]
-    },
-    {
-      "id": "37b8da4a04eb19a4",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T16:50:00+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "foreignpolicyjournal.com",
-      "type": "news",
-      "quote": "Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.18,
-      "change": 3.25,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOclhHSnlyT2U2LWpyY0pXdzAybXRQRGtsbUtqZkJ3TmJUaHdUclhHRGh0TVN6X09feloyU2ppU19Kc1I4RlJxZ2sxWTl0MnlMV1B5enFEMUktUGZIUzM1SDN4RENVc3YwRWY2ay03OVZEeERpSUJhODJWNUJQTERDdU1Dc3VycHZoajdla3ZlZ0lSTGgyb1hoMFRpamF4MTBVTzRRZ2gzY2FXUEZITDAtMUVSVDE2UUxwR01xY3h2UzBuTm5XSEpMVGF3dVpRWEJsRVJUck5IbkQ3clh3Wk9sQTR0QXRQWFR6N1E?oc=5",
-      "image": null,
-      "headline": "Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims - foreignpolicyjournal.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.18
-        }
-      ]
-    },
-    {
-      "id": "b6425fc6c315493e",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T16:06:41+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "aljazeera.com",
-      "type": "news",
-      "quote": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices -",
-      "company": "Chevron",
-      "ticker": "CVX",
-      "price": 193.18,
-      "change": -1.85,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQWg1SXNUMjhpaVZIN2xHR191b19NWnpQV09oeUd5ZU9Cakl2WXNxMWpwUlU1aG9Jc0pxTDA0MjhFY3MtSEZJTkdkMTBhTDBiQnBRN1R0dEliaXUxQXQ4Y0JzT0tjYmJPNng0QnZUSUlrSmZ1ZDdoZ1JxbUFzYkoyRGhmaWtmaVFsSW80UTlWcEhFRjlIWV9pWS1oRklMUFFnSEVrbWw5WGItTTVmelZETW130gG3AUFVX3lxTFBLMDdQbW91Y0FkdWROZUJRMU5zSFZHUFl4V1JwamZOd29PTTJhQVZPaUkzUFlhTjBMU0tRUnRXc24zODhSWGEwNE5YYzlOQzFkSGRkYUlqc0ZCZlg2N0RZbjNGckVDSVJxTElkV1FIM1hwbzBLMmZZZ0lNbWtseFRUakVPYlFLRVVzMndxZTRyU2Niclh6X2tmQWxKbHVZTnFEcGNJaWNSRzJVWDBsV005R1F0NzNMMA?oc=5",
-      "image": null,
-      "headline": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices - aljazeera.com",
       "channel": "News",
       "series": [
         {
