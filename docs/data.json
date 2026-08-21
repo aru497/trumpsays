@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-21T22:11:24.075501+00:00",
+  "updated_at": "2026-08-21T22:47:10.484694+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "913d2140843df2f8",
+      "date": "Fri, 21 Aug 2026",
+      "ts": "2026-08-21T22:40:11+00:00",
+      "date_display": "Aug 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood The",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": 28.55,
+      "change": 1.13,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/paramounts-warner-bros-bid-and-threat-to-leave-california-divide-hollywood",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hollywood-1024x683.jpg",
+      "headline": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 25.95
+        },
+        {
+          "d": "07-24",
+          "c": 25.77
+        },
+        {
+          "d": "07-27",
+          "c": 25.28
+        },
+        {
+          "d": "07-28",
+          "c": 25.61
+        },
+        {
+          "d": "07-29",
+          "c": 25.64
+        },
+        {
+          "d": "07-30",
+          "c": 25.47
+        },
+        {
+          "d": "07-31",
+          "c": 26.3
+        },
+        {
+          "d": "08-03",
+          "c": 26.09
+        },
+        {
+          "d": "08-04",
+          "c": 25.79
+        },
+        {
+          "d": "08-05",
+          "c": 25.97
+        },
+        {
+          "d": "08-06",
+          "c": 26.4
+        },
+        {
+          "d": "08-07",
+          "c": 26.78
+        },
+        {
+          "d": "08-10",
+          "c": 26.87
+        },
+        {
+          "d": "08-11",
+          "c": 27.07
+        },
+        {
+          "d": "08-12",
+          "c": 27.65
+        },
+        {
+          "d": "08-13",
+          "c": 27.75
+        },
+        {
+          "d": "08-14",
+          "c": 27.99
+        },
+        {
+          "d": "08-17",
+          "c": 27.93
+        },
+        {
+          "d": "08-18",
+          "c": 28.48
+        },
+        {
+          "d": "08-19",
+          "c": 28.53
+        },
+        {
+          "d": "08-20",
+          "c": 28.23
+        },
+        {
+          "d": "08-21",
+          "c": 28.55
+        }
+      ]
+    },
+    {
+      "id": "40ffcdf6ad6dc9b0",
+      "date": "Fri, 21 Aug 2026",
+      "ts": "2026-08-21T22:40:11+00:00",
+      "date_display": "Aug 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Paramount's Warner Bros. bid and threat to leave California divide",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 1.3,
+      "change": -6.47,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/paramounts-warner-bros-bid-and-threat-to-leave-california-divide-hollywood",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hollywood-1024x683.jpg",
+      "headline": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 2.23
+        },
+        {
+          "d": "07-24",
+          "c": 2.2
+        },
+        {
+          "d": "07-27",
+          "c": 2.12
+        },
+        {
+          "d": "07-28",
+          "c": 1.91
+        },
+        {
+          "d": "07-29",
+          "c": 1.75
+        },
+        {
+          "d": "07-30",
+          "c": 1.82
+        },
+        {
+          "d": "07-31",
+          "c": 1.85
+        },
+        {
+          "d": "08-03",
+          "c": 1.94
+        },
+        {
+          "d": "08-04",
+          "c": 1.9
+        },
+        {
+          "d": "08-05",
+          "c": 1.77
+        },
+        {
+          "d": "08-06",
+          "c": 1.91
+        },
+        {
+          "d": "08-07",
+          "c": 1.76
+        },
+        {
+          "d": "08-10",
+          "c": 1.66
+        },
+        {
+          "d": "08-11",
+          "c": 1.7
+        },
+        {
+          "d": "08-12",
+          "c": 1.74
+        },
+        {
+          "d": "08-13",
+          "c": 1.7
+        },
+        {
+          "d": "08-14",
+          "c": 1.7
+        },
+        {
+          "d": "08-17",
+          "c": 1.45
+        },
+        {
+          "d": "08-18",
+          "c": 1.36
+        },
+        {
+          "d": "08-19",
+          "c": 1.43
+        },
+        {
+          "d": "08-20",
+          "c": 1.39
+        },
+        {
+          "d": "08-21",
+          "c": 1.3
+        }
+      ]
+    },
     {
       "id": "c4306288415edf74",
       "date": "Fri, 21 Aug 2026",
@@ -41637,214 +41853,6 @@
         {
           "d": "08-03",
           "c": 193.18
-        }
-      ]
-    },
-    {
-      "id": "0a9dedc4a572524f",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T19:47:05+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Meta, Anthropic invited to meet with Trump officials about AI",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 590.24,
-      "change": 6.02,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "image": null,
-      "headline": "Meta, Anthropic invited to meet with Trump officials about AI safety testing - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 600.29
-        },
-        {
-          "d": "07-07",
-          "c": 615.58
-        },
-        {
-          "d": "07-08",
-          "c": 603.12
-        },
-        {
-          "d": "07-09",
-          "c": 631.48
-        },
-        {
-          "d": "07-10",
-          "c": 669.21
-        },
-        {
-          "d": "07-13",
-          "c": 656.73
-        },
-        {
-          "d": "07-14",
-          "c": 661.04
-        },
-        {
-          "d": "07-15",
-          "c": 681.31
-        },
-        {
-          "d": "07-16",
-          "c": 664.54
-        },
-        {
-          "d": "07-17",
-          "c": 646.01
-        },
-        {
-          "d": "07-20",
-          "c": 645.85
-        },
-        {
-          "d": "07-21",
-          "c": 643.81
-        },
-        {
-          "d": "07-22",
-          "c": 627.17
-        },
-        {
-          "d": "07-23",
-          "c": 606.1
-        },
-        {
-          "d": "07-24",
-          "c": 595.19
-        },
-        {
-          "d": "07-27",
-          "c": 593.87
-        },
-        {
-          "d": "07-28",
-          "c": 593.41
-        },
-        {
-          "d": "07-29",
-          "c": 585.61
-        },
-        {
-          "d": "07-30",
-          "c": 539.03
-        },
-        {
-          "d": "07-31",
-          "c": 556.71
-        },
-        {
-          "d": "08-03",
-          "c": 590.24
-        }
-      ]
-    },
-    {
-      "id": "2c49468b28c42754",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T19:37:31+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "closed due to concerns over possible money laundering, Capital One says The court filing is tied to a lawsuit filed against",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 217.68,
-      "change": 4.15,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/trump-bank-accounts-were-closed-due-to-concerns-over-possible-money-laundering-capital-one-says",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-03T185319Z_684638_RC22RMA599HN_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "headline": "Trump bank accounts were closed due to concerns over possible money laundering, Capital One says",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 206.5
-        },
-        {
-          "d": "07-07",
-          "c": 202.89
-        },
-        {
-          "d": "07-08",
-          "c": 191.95
-        },
-        {
-          "d": "07-09",
-          "c": 200.1
-        },
-        {
-          "d": "07-10",
-          "c": 201.52
-        },
-        {
-          "d": "07-13",
-          "c": 203.02
-        },
-        {
-          "d": "07-14",
-          "c": 205.29
-        },
-        {
-          "d": "07-15",
-          "c": 208.89
-        },
-        {
-          "d": "07-16",
-          "c": 211.93
-        },
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
-        },
-        {
-          "d": "08-03",
-          "c": 217.68
         }
       ]
     }
