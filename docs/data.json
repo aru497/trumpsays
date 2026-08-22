@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-22T08:53:54.668251+00:00",
+  "updated_at": "2026-08-22T09:16:21.848728+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ea37f6dd05384071",
+      "date": "Sat, 22 Aug 2026",
+      "ts": "2026-08-22T07:12:01+00:00",
+      "date_display": "Aug 22, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "White House Ballroom Construction News and More - The New York Times Trump Live Updates: Canada Tariff Deadline, White House",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 65.69,
+      "change": 0.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRX3NjQnB5X3RNUl83Z3FiZ2M2TUhwRFNFbENBNVRjWXpCSUJLclpFUHJFd2lOcklEYk1vMTM1VVRwcURDbXlYSGdsdjhLdkd0VGN1em5rQnB0X1Jlb1V6MkRsOA?oc=5",
+      "image": null,
+      "headline": "Trump Live Updates: Canada Tariff Deadline, White House Ballroom Construction News and More - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 70.17
+        },
+        {
+          "d": "07-24",
+          "c": 71.65
+        },
+        {
+          "d": "07-27",
+          "c": 72.37
+        },
+        {
+          "d": "07-28",
+          "c": 75.18
+        },
+        {
+          "d": "07-29",
+          "c": 77.69
+        },
+        {
+          "d": "07-30",
+          "c": 75.83
+        },
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        }
+      ]
+    },
     {
       "id": "913d2140843df2f8",
       "date": "Fri, 21 Aug 2026",
@@ -3023,6 +3131,114 @@
         {
           "d": "08-20",
           "c": 65.48
+        }
+      ]
+    },
+    {
+      "id": "638f866fc35799b3",
+      "date": "Thu, 20 Aug 2026",
+      "ts": "2026-08-20T08:45:47+00:00",
+      "date_display": "Aug 20, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "leave the state? A proposed first-of-its kind tax would target California's nearly 250 billionaires in an effort to fund",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 165.44,
+      "change": 4.54,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/08/20/nx-s1-5935597/california-billionaires-wealth-tax-sergey-brin",
+      "image": null,
+      "headline": "Proposed California wealth tax sparks debate: Will billionaires leave the state?",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 133.46
+        },
+        {
+          "d": "07-24",
+          "c": 135.74
+        },
+        {
+          "d": "07-27",
+          "c": 139.27
+        },
+        {
+          "d": "07-28",
+          "c": 143.1
+        },
+        {
+          "d": "07-29",
+          "c": 144.79
+        },
+        {
+          "d": "07-30",
+          "c": 143.41
+        },
+        {
+          "d": "07-31",
+          "c": 143.39
+        },
+        {
+          "d": "08-03",
+          "c": 148.21
+        },
+        {
+          "d": "08-04",
+          "c": 146.98
+        },
+        {
+          "d": "08-05",
+          "c": 146.57
+        },
+        {
+          "d": "08-06",
+          "c": 145.96
+        },
+        {
+          "d": "08-07",
+          "c": 148.56
+        },
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
+        },
+        {
+          "d": "08-13",
+          "c": 155.51
+        },
+        {
+          "d": "08-14",
+          "c": 154.48
+        },
+        {
+          "d": "08-17",
+          "c": 151.01
+        },
+        {
+          "d": "08-18",
+          "c": 152.48
+        },
+        {
+          "d": "08-19",
+          "c": 159.0
+        },
+        {
+          "d": "08-20",
+          "c": 158.25
+        },
+        {
+          "d": "08-21",
+          "c": 165.44
         }
       ]
     },
@@ -41653,214 +41869,6 @@
         {
           "d": "08-03",
           "c": 10.01
-        }
-      ]
-    },
-    {
-      "id": "55e2c99ca8ee9171",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T20:08:39+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "type": "news",
-      "quote": "Capital One says it closed hundreds of Trump's bank accounts in 2021",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 217.68,
-      "change": 4.15,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1d5TldKdWpPNDAxZDhhaU9MdjFuWUtfSE9yM204SWwxS2RMaTJxa3diZjd6YWloZUg5Vzd5VER6emtOOFgtZjRkUHJVb3RWVk9MelUwS0ZDUktoZlR0MnZRdVIxSzRSQ3UzWjliY1FuTzJGWGpra3VIbUJtVmdZRnI5di1udkdVZC1LcVN6MXZOZEotME5PcG8zLVDSAaIBQVVfeXFMUElCNExRR09YOVBONy1hQVc4bE9idDFBM1g2aEN1OEZRbXJ5LTQxU1hkbzJhWEhCMlBsZkt3dWVhQ1daUElWTTduSFk4ODhuWlc5RXBHblBJQUYxZy0tazNIODZDa3hpSVZpSklKOWtkeUFkVDNyYkRId3dUNllGSDkyNTJrZE5jU3ZoWkhwRi13R0NKNTlLSGZ6aHJWclAycHhR?oc=5",
-      "image": null,
-      "headline": "Capital One says it closed hundreds of Trump's bank accounts in 2021 'for anti-money laundering reasons' - ABC News - Breaking News, Latest News and Videos",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 206.5
-        },
-        {
-          "d": "07-07",
-          "c": 202.89
-        },
-        {
-          "d": "07-08",
-          "c": 191.95
-        },
-        {
-          "d": "07-09",
-          "c": 200.1
-        },
-        {
-          "d": "07-10",
-          "c": 201.52
-        },
-        {
-          "d": "07-13",
-          "c": 203.02
-        },
-        {
-          "d": "07-14",
-          "c": 205.29
-        },
-        {
-          "d": "07-15",
-          "c": 208.89
-        },
-        {
-          "d": "07-16",
-          "c": 211.93
-        },
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
-        },
-        {
-          "d": "08-03",
-          "c": 217.68
-        }
-      ]
-    },
-    {
-      "id": "6ad9677260091509",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T19:59:25+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Capital One asks a Florida judge to dismiss President Trump's trust",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 217.68,
-      "change": 4.15,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmpCWVRlblc4RmtSQUMwdWVFbmxpZUo4clN0YnphY1ktUGxsdUNvU2F2ZEthbnZyVHZWeTVuMk5kdXRqTWU4RkxvNC15OWhmOFpQbW1hV1pNOFBINmRFZzU3SllVNG1fQU5iWmU4SXZ3eTQ1ZEVRUEJnS295eFMwYmY4V0RMdTR1Y2JGQVFLblp5MDVPd080MS14NUtubnZWVFJYMmE2QWVuNmFMa2hOSUtzYk42YUZfd3VqemVtRWVTcXdlR0tsMVhzcw?oc=5",
-      "image": null,
-      "headline": "Capital One asks a Florida judge to dismiss President Trump's trust lawsuit over closed accounts - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 206.5
-        },
-        {
-          "d": "07-07",
-          "c": 202.89
-        },
-        {
-          "d": "07-08",
-          "c": 191.95
-        },
-        {
-          "d": "07-09",
-          "c": 200.1
-        },
-        {
-          "d": "07-10",
-          "c": 201.52
-        },
-        {
-          "d": "07-13",
-          "c": 203.02
-        },
-        {
-          "d": "07-14",
-          "c": 205.29
-        },
-        {
-          "d": "07-15",
-          "c": 208.89
-        },
-        {
-          "d": "07-16",
-          "c": 211.93
-        },
-        {
-          "d": "07-17",
-          "c": 208.03
-        },
-        {
-          "d": "07-20",
-          "c": 206.77
-        },
-        {
-          "d": "07-21",
-          "c": 206.22
-        },
-        {
-          "d": "07-22",
-          "c": 201.36
-        },
-        {
-          "d": "07-23",
-          "c": 199.96
-        },
-        {
-          "d": "07-24",
-          "c": 202.84
-        },
-        {
-          "d": "07-27",
-          "c": 207.05
-        },
-        {
-          "d": "07-28",
-          "c": 212.41
-        },
-        {
-          "d": "07-29",
-          "c": 208.71
-        },
-        {
-          "d": "07-30",
-          "c": 210.14
-        },
-        {
-          "d": "07-31",
-          "c": 209.01
-        },
-        {
-          "d": "08-03",
-          "c": 217.68
         }
       ]
     }
