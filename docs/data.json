@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-23T15:43:16.844312+00:00",
+  "updated_at": "2026-08-23T16:11:35.713933+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "723f2e68f2ce9cda",
+      "date": "Sun, 23 Aug 2026",
+      "ts": "2026-08-23T15:46:17+00:00",
+      "date_display": "Aug 23, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades -",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 179.94,
+      "change": 3.44,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5",
+      "image": null,
+      "headline": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 123.37
+        },
+        {
+          "d": "07-24",
+          "c": 122.92
+        },
+        {
+          "d": "07-27",
+          "c": 131.53
+        },
+        {
+          "d": "07-28",
+          "c": 123.53
+        },
+        {
+          "d": "07-29",
+          "c": 123.0
+        },
+        {
+          "d": "07-30",
+          "c": 122.26
+        },
+        {
+          "d": "07-31",
+          "c": 123.06
+        },
+        {
+          "d": "08-03",
+          "c": 125.65
+        },
+        {
+          "d": "08-04",
+          "c": 162.66
+        },
+        {
+          "d": "08-05",
+          "c": 158.43
+        },
+        {
+          "d": "08-06",
+          "c": 155.92
+        },
+        {
+          "d": "08-07",
+          "c": 172.01
+        },
+        {
+          "d": "08-10",
+          "c": 175.23
+        },
+        {
+          "d": "08-11",
+          "c": 174.94
+        },
+        {
+          "d": "08-12",
+          "c": 171.04
+        },
+        {
+          "d": "08-13",
+          "c": 179.01
+        },
+        {
+          "d": "08-14",
+          "c": 174.04
+        },
+        {
+          "d": "08-17",
+          "c": 172.55
+        },
+        {
+          "d": "08-18",
+          "c": 171.54
+        },
+        {
+          "d": "08-19",
+          "c": 175.19
+        },
+        {
+          "d": "08-20",
+          "c": 173.96
+        },
+        {
+          "d": "08-21",
+          "c": 179.94
+        }
+      ]
+    },
     {
       "id": "383b00b32193af48",
       "date": "Sun, 23 Aug 2026",
@@ -41884,25 +41992,6 @@
           "c": 590.24
         }
       ]
-    },
-    {
-      "id": "2b7cbccbf3413378",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T21:23:20+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "image": null,
-      "headline": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "channel": "News",
-      "series": null
     }
   ]
 }
