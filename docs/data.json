@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T17:41:52.653351+00:00",
+  "updated_at": "2026-08-23T18:12:57.036446+00:00",
   "count": 400,
   "mentions": [
     {
@@ -126,6 +126,114 @@
       "article_link": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T135549Z_1110979968_RC2D4NAT7MLT_RTRMADP_3_USA-250-GRAND-PRIX-1024x683.jpg",
       "headline": "Trump will kick off the IndyCar race before cars zoom through Washington's streets",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 84.11
+        },
+        {
+          "d": "07-24",
+          "c": 87.99
+        },
+        {
+          "d": "07-27",
+          "c": 91.22
+        },
+        {
+          "d": "07-28",
+          "c": 91.48
+        },
+        {
+          "d": "07-29",
+          "c": 92.41
+        },
+        {
+          "d": "07-30",
+          "c": 92.32
+        },
+        {
+          "d": "07-31",
+          "c": 96.07
+        },
+        {
+          "d": "08-03",
+          "c": 98.25
+        },
+        {
+          "d": "08-04",
+          "c": 102.12
+        },
+        {
+          "d": "08-05",
+          "c": 100.64
+        },
+        {
+          "d": "08-06",
+          "c": 101.3
+        },
+        {
+          "d": "08-07",
+          "c": 104.5
+        },
+        {
+          "d": "08-10",
+          "c": 107.2
+        },
+        {
+          "d": "08-11",
+          "c": 106.06
+        },
+        {
+          "d": "08-12",
+          "c": 105.13
+        },
+        {
+          "d": "08-13",
+          "c": 109.84
+        },
+        {
+          "d": "08-14",
+          "c": 105.96
+        },
+        {
+          "d": "08-17",
+          "c": 105.56
+        },
+        {
+          "d": "08-18",
+          "c": 104.71
+        },
+        {
+          "d": "08-19",
+          "c": 107.47
+        },
+        {
+          "d": "08-20",
+          "c": 106.3
+        },
+        {
+          "d": "08-21",
+          "c": 107.43
+        }
+      ]
+    },
+    {
+      "id": "0f7a70a6c9451ada",
+      "date": "Sun, 23 Aug 2026",
+      "ts": "2026-08-23T15:21:21+00:00",
+      "date_display": "Aug 23, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "waves the green flag to start the IndyCar race as racers zoom through Washington's streets The open-wheel race, with",
+      "company": "Zoom",
+      "ticker": "ZM",
+      "price": 107.43,
+      "change": 1.06,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T135549Z_1110979968_RC2D4NAT7MLT_RTRMADP_3_USA-250-GRAND-PRIX-1024x683.jpg",
+      "headline": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
       "channel": "News",
       "series": [
         {
@@ -41886,110 +41994,6 @@
         {
           "d": "08-03",
           "c": 373.51
-        }
-      ]
-    },
-    {
-      "id": "cac0970fef56dbab",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T21:23:20+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Meta, Anthropic, Google, OpenAI to meet Trump officials about",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 590.24,
-      "change": 6.02,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "image": null,
-      "headline": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 600.29
-        },
-        {
-          "d": "07-07",
-          "c": 615.58
-        },
-        {
-          "d": "07-08",
-          "c": 603.12
-        },
-        {
-          "d": "07-09",
-          "c": 631.48
-        },
-        {
-          "d": "07-10",
-          "c": 669.21
-        },
-        {
-          "d": "07-13",
-          "c": 656.73
-        },
-        {
-          "d": "07-14",
-          "c": 661.04
-        },
-        {
-          "d": "07-15",
-          "c": 681.31
-        },
-        {
-          "d": "07-16",
-          "c": 664.54
-        },
-        {
-          "d": "07-17",
-          "c": 646.01
-        },
-        {
-          "d": "07-20",
-          "c": 645.85
-        },
-        {
-          "d": "07-21",
-          "c": 643.81
-        },
-        {
-          "d": "07-22",
-          "c": 627.17
-        },
-        {
-          "d": "07-23",
-          "c": 606.1
-        },
-        {
-          "d": "07-24",
-          "c": 595.19
-        },
-        {
-          "d": "07-27",
-          "c": 593.87
-        },
-        {
-          "d": "07-28",
-          "c": 593.41
-        },
-        {
-          "d": "07-29",
-          "c": 585.61
-        },
-        {
-          "d": "07-30",
-          "c": 539.03
-        },
-        {
-          "d": "07-31",
-          "c": 556.71
-        },
-        {
-          "d": "08-03",
-          "c": 590.24
         }
       ]
     }
