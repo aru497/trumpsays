@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-23T15:11:08.141304+00:00",
+  "updated_at": "2026-08-23T15:43:16.844312+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "383b00b32193af48",
+      "date": "Sun, 23 Aug 2026",
+      "ts": "2026-08-23T15:21:21+00:00",
+      "date_display": "Aug 23, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Trump will kick off the IndyCar race before cars zoom through Washington's streets \"Their beautiful cars are",
+      "company": "Zoom",
+      "ticker": "ZM",
+      "price": 107.43,
+      "change": 1.06,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T135549Z_1110979968_RC2D4NAT7MLT_RTRMADP_3_USA-250-GRAND-PRIX-1024x683.jpg",
+      "headline": "Trump will kick off the IndyCar race before cars zoom through Washington's streets",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 84.11
+        },
+        {
+          "d": "07-24",
+          "c": 87.99
+        },
+        {
+          "d": "07-27",
+          "c": 91.22
+        },
+        {
+          "d": "07-28",
+          "c": 91.48
+        },
+        {
+          "d": "07-29",
+          "c": 92.41
+        },
+        {
+          "d": "07-30",
+          "c": 92.32
+        },
+        {
+          "d": "07-31",
+          "c": 96.07
+        },
+        {
+          "d": "08-03",
+          "c": 98.25
+        },
+        {
+          "d": "08-04",
+          "c": 102.12
+        },
+        {
+          "d": "08-05",
+          "c": 100.64
+        },
+        {
+          "d": "08-06",
+          "c": 101.3
+        },
+        {
+          "d": "08-07",
+          "c": 104.5
+        },
+        {
+          "d": "08-10",
+          "c": 107.2
+        },
+        {
+          "d": "08-11",
+          "c": 106.06
+        },
+        {
+          "d": "08-12",
+          "c": 105.13
+        },
+        {
+          "d": "08-13",
+          "c": 109.84
+        },
+        {
+          "d": "08-14",
+          "c": 105.96
+        },
+        {
+          "d": "08-17",
+          "c": 105.56
+        },
+        {
+          "d": "08-18",
+          "c": 104.71
+        },
+        {
+          "d": "08-19",
+          "c": 107.47
+        },
+        {
+          "d": "08-20",
+          "c": 106.3
+        },
+        {
+          "d": "08-21",
+          "c": 107.43
+        }
+      ]
+    },
     {
       "id": "324aa3398c42ac44",
       "date": "Sat, 22 Aug 2026",
@@ -41795,106 +41903,6 @@
       "headline": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "e3cf84061a087abc",
-      "date": "Mon, 03 Aug 2026",
-      "ts": "2026-08-03T21:03:00+00:00",
-      "date_display": "Aug 03, 2026",
-      "source": "usatoday.com",
-      "type": "news",
-      "quote": "Trump says Exxon, Chevron are 'making too much money' amid Iran war -",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 155.44,
-      "change": -0.97,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkdyM3AwNTVFeDR4REtkRTJoZzFyVUJOOFVwa1VKSHZJeFM3Zmd0Vi1JZlZZa0gzSE4wLTVoajdkdjJZNTIxWlJUQl9VdG1tZjBsZGtjVm8xM2tlMzN6Z1Yzc0tHT243cjdZOWxIVXZyRTJFMFlNbjNCdV9BUXdqUWVVX2p6SUhobWJHbXU1d1E3NjBjTUFtWXkxT1NjTVYwcnNsNkpnZTlBcHA2LS1FdzBhX194eTRDNlJz?oc=5",
-      "image": null,
-      "headline": "Trump says Exxon, Chevron are 'making too much money' amid Iran war - usatoday.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 136.44
-        },
-        {
-          "d": "07-07",
-          "c": 141.69
-        },
-        {
-          "d": "07-08",
-          "c": 141.13
-        },
-        {
-          "d": "07-09",
-          "c": 137.46
-        },
-        {
-          "d": "07-10",
-          "c": 138.88
-        },
-        {
-          "d": "07-13",
-          "c": 144.51
-        },
-        {
-          "d": "07-14",
-          "c": 145.09
-        },
-        {
-          "d": "07-15",
-          "c": 144.51
-        },
-        {
-          "d": "07-16",
-          "c": 145.95
-        },
-        {
-          "d": "07-17",
-          "c": 147.36
-        },
-        {
-          "d": "07-20",
-          "c": 148.36
-        },
-        {
-          "d": "07-21",
-          "c": 151.71
-        },
-        {
-          "d": "07-22",
-          "c": 154.45
-        },
-        {
-          "d": "07-23",
-          "c": 156.89
-        },
-        {
-          "d": "07-24",
-          "c": 156.94
-        },
-        {
-          "d": "07-27",
-          "c": 154.77
-        },
-        {
-          "d": "07-28",
-          "c": 153.04
-        },
-        {
-          "d": "07-29",
-          "c": 156.75
-        },
-        {
-          "d": "07-30",
-          "c": 156.97
-        },
-        {
-          "d": "07-31",
-          "c": 155.44
-        }
-      ]
     }
   ]
 }
