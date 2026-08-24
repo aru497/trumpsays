@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-08-24T06:58:25.078582+00:00",
+  "updated_at": "2026-08-24T07:54:40.096406+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "91836f6771137812",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T07:10:31+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Altcoin Buzz",
+      "type": "news",
+      "quote": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz Trump Sells Strategy",
+      "company": "Coinbase",
+      "ticker": "COIN",
+      "price": 186.49,
+      "change": 8.2,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQnVfSThzWFI0OGFaLWtURzJpQTVzei1ROUk0WHpLeVNNUG5Oa0lXYXJZZllfVUk5cjNiTWJrbGEzaHN4UWk2aGc0SUNGeFJvWTVyTmdmVnYzT0VHTEpYNTFmaw?oc=5",
+      "image": null,
+      "headline": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 161.16
+        },
+        {
+          "d": "07-24",
+          "c": 158.29
+        },
+        {
+          "d": "07-27",
+          "c": 167.49
+        },
+        {
+          "d": "07-28",
+          "c": 167.9
+        },
+        {
+          "d": "07-29",
+          "c": 160.09
+        },
+        {
+          "d": "07-30",
+          "c": 163.58
+        },
+        {
+          "d": "07-31",
+          "c": 146.26
+        },
+        {
+          "d": "08-03",
+          "c": 146.5
+        },
+        {
+          "d": "08-04",
+          "c": 150.73
+        },
+        {
+          "d": "08-05",
+          "c": 149.89
+        },
+        {
+          "d": "08-06",
+          "c": 145.41
+        },
+        {
+          "d": "08-07",
+          "c": 153.6
+        },
+        {
+          "d": "08-10",
+          "c": 148.68
+        },
+        {
+          "d": "08-11",
+          "c": 148.58
+        },
+        {
+          "d": "08-12",
+          "c": 149.04
+        },
+        {
+          "d": "08-13",
+          "c": 153.9
+        },
+        {
+          "d": "08-14",
+          "c": 148.47
+        },
+        {
+          "d": "08-17",
+          "c": 150.55
+        },
+        {
+          "d": "08-18",
+          "c": 146.23
+        },
+        {
+          "d": "08-19",
+          "c": 160.2
+        },
+        {
+          "d": "08-20",
+          "c": 172.35
+        },
+        {
+          "d": "08-21",
+          "c": 186.49
+        }
+      ]
+    },
+    {
+      "id": "605c6c57a619e9e3",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T07:10:31+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Altcoin Buzz",
+      "type": "news",
+      "quote": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz Trump Sells Strategy Stock and Buys",
+      "company": "Robinhood",
+      "ticker": "HOOD",
+      "price": 108.13,
+      "change": 13.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQnVfSThzWFI0OGFaLWtURzJpQTVzei1ROUk0WHpLeVNNUG5Oa0lXYXJZZllfVUk5cjNiTWJrbGEzaHN4UWk2aGc0SUNGeFJvWTVyTmdmVnYzT0VHTEpYNTFmaw?oc=5",
+      "image": null,
+      "headline": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 101.58
+        },
+        {
+          "d": "07-24",
+          "c": 94.91
+        },
+        {
+          "d": "07-27",
+          "c": 95.65
+        },
+        {
+          "d": "07-28",
+          "c": 92.76
+        },
+        {
+          "d": "07-29",
+          "c": 89.84
+        },
+        {
+          "d": "07-30",
+          "c": 86.6
+        },
+        {
+          "d": "07-31",
+          "c": 86.56
+        },
+        {
+          "d": "08-03",
+          "c": 90.34
+        },
+        {
+          "d": "08-04",
+          "c": 93.51
+        },
+        {
+          "d": "08-05",
+          "c": 92.8
+        },
+        {
+          "d": "08-06",
+          "c": 90.71
+        },
+        {
+          "d": "08-07",
+          "c": 93.29
+        },
+        {
+          "d": "08-10",
+          "c": 94.52
+        },
+        {
+          "d": "08-11",
+          "c": 94.38
+        },
+        {
+          "d": "08-12",
+          "c": 94.91
+        },
+        {
+          "d": "08-13",
+          "c": 99.37
+        },
+        {
+          "d": "08-14",
+          "c": 95.56
+        },
+        {
+          "d": "08-17",
+          "c": 96.25
+        },
+        {
+          "d": "08-18",
+          "c": 91.53
+        },
+        {
+          "d": "08-19",
+          "c": 95.77
+        },
+        {
+          "d": "08-20",
+          "c": 95.1
+        },
+        {
+          "d": "08-21",
+          "c": 108.13
+        }
+      ]
+    },
+    {
+      "id": "dcb9b2900583e90d",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T07:10:31+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Altcoin Buzz",
+      "type": "news",
+      "quote": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 119.25,
+      "change": 6.1,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQnVfSThzWFI0OGFaLWtURzJpQTVzei1ROUk0WHpLeVNNUG5Oa0lXYXJZZllfVUk5cjNiTWJrbGEzaHN4UWk2aGc0SUNGeFJvWTVyTmdmVnYzT0VHTEpYNTFmaw?oc=5",
+      "image": null,
+      "headline": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 93.63
+        },
+        {
+          "d": "07-24",
+          "c": 91.67
+        },
+        {
+          "d": "07-27",
+          "c": 98.65
+        },
+        {
+          "d": "07-28",
+          "c": 96.16
+        },
+        {
+          "d": "07-29",
+          "c": 93.33
+        },
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        },
+        {
+          "d": "08-03",
+          "c": 94.86
+        },
+        {
+          "d": "08-04",
+          "c": 97.65
+        },
+        {
+          "d": "08-05",
+          "c": 98.37
+        },
+        {
+          "d": "08-06",
+          "c": 96.85
+        },
+        {
+          "d": "08-07",
+          "c": 100.01
+        },
+        {
+          "d": "08-10",
+          "c": 97.33
+        },
+        {
+          "d": "08-11",
+          "c": 96.09
+        },
+        {
+          "d": "08-12",
+          "c": 94.83
+        },
+        {
+          "d": "08-13",
+          "c": 97.1
+        },
+        {
+          "d": "08-14",
+          "c": 93.04
+        },
+        {
+          "d": "08-17",
+          "c": 97.68
+        },
+        {
+          "d": "08-18",
+          "c": 92.52
+        },
+        {
+          "d": "08-19",
+          "c": 104.25
+        },
+        {
+          "d": "08-20",
+          "c": 112.39
+        },
+        {
+          "d": "08-21",
+          "c": 119.25
+        }
+      ]
+    },
     {
       "id": "82ee18c93a717a13",
       "date": "Mon, 24 Aug 2026",
@@ -41779,326 +42103,6 @@
         {
           "d": "07-31",
           "c": 74.89
-        }
-      ]
-    },
-    {
-      "id": "b0d5aa8b41bb5b81",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T08:40:31+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "it's missing key chapter NPR's A Mart\u00ednez\u00a0speaks with the New York Times' Shane Goldmacher about his report that the author of a",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 75.61,
-      "change": 0.23,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says",
-      "image": null,
-      "headline": "Author of DNC report on 2024 election says it's missing key chapter",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 73.04
-        },
-        {
-          "d": "07-07",
-          "c": 73.49
-        },
-        {
-          "d": "07-08",
-          "c": 73.16
-        },
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        }
-      ]
-    },
-    {
-      "id": "59f17c84f1a9e46b",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T07:00:00+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "Why is Trump Media selling early access to Trump's Truth Social posts? - BBC",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": 6.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ib2xYdGRHYU9Pd0RwNnVKMXdaRmM4WVNVTkNYNDNYTWlPZUk1RzlYQThVc0pwRkdscjNoY05lUF93T3RCVDFuQmZybXRTOW54TlVYeVhUcw?oc=5",
-      "image": null,
-      "headline": "Why is Trump Media selling early access to Trump's Truth Social posts? - BBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        }
-      ]
-    },
-    {
-      "id": "e5b9dcdfb5e74014",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T00:27:00+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "wng.org",
-      "type": "news",
-      "quote": "Truth Social sells trading firms early access to Trump posts - wng.org",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.01,
-      "change": 1.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckdOOGVWRE1td1dtVUlrZlc1NXEyck1Vdzc1dVRlU0VIVnVHcmY0Zk5SRVFzdHEwa1JoUjFtNlFDQkRKRXozcTdBbUJlVUFMWnpWWVVXamFBdExSd19sNHlia0xLbjJITG10d0V1S1dGcThmbC1nWUNUZXNKRzhPRzRSYnYxWUVSZ3FzdllBVHp1TjNNUkZv?oc=5",
-      "image": null,
-      "headline": "Truth Social sells trading firms early access to Trump posts - wng.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
         }
       ]
     }
