@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-08-24T11:54:27.013149+00:00",
+  "updated_at": "2026-08-24T12:22:46.781684+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a4cca36a576d3a59",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T11:54:16+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump Media CEO defends selling faster access to president's Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.1,
+      "change": 6.93,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzdDRxeFMzV2lMVGREeDBSQzZqYkZicUN3eV9teGo3TkNWU2FiQ0ZYamZEQ2NoVzhQNGJnQ3lJTkhQSnkwekkxUnBmVWtTbGZEckZNa1NvSmtqR0FkblRkUU8zeHpyMF96MTZicjgtNNIBdEFVX3lxTFAxektmU01RV2RodV9rMGNoSEMxYVpOa1dINDBUMmh0dktTNk0yc1VROGFiNEk5LTc4YXQ5REdvLTRqMmtxZ0RSXzV5VDVCV3VBQWVZNHh4czNFOWVTNkttUVluMG5QNHY1NDJLcDltZHFGSlpE?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        }
+      ]
+    },
+    {
+      "id": "3d44afe16eb7d315",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T11:37:35+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Cryptonews.net",
+      "type": "news",
+      "quote": "Trump\u2019s June Stock Trades: Sells Strategy and Coinbase, Buys Robinhood - Cryptonews.net Trump\u2019s June Stock",
+      "company": "Coinbase",
+      "ticker": "COIN",
+      "price": 186.49,
+      "change": 8.2,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIekxvOEhSSXRYc1UtUWV4Y0xHQ09KeDJoTGRFbTZRTll1YWJvZ01TU1RsTi1HNXcxVVVQNnFwUV9CQXMzYThyVElxbzJtbm1IaVlhN28zTWU?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s June Stock Trades: Sells Strategy and Coinbase, Buys Robinhood - Cryptonews.net",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 161.16
+        },
+        {
+          "d": "07-24",
+          "c": 158.29
+        },
+        {
+          "d": "07-27",
+          "c": 167.49
+        },
+        {
+          "d": "07-28",
+          "c": 167.9
+        },
+        {
+          "d": "07-29",
+          "c": 160.09
+        },
+        {
+          "d": "07-30",
+          "c": 163.58
+        },
+        {
+          "d": "07-31",
+          "c": 146.26
+        },
+        {
+          "d": "08-03",
+          "c": 146.5
+        },
+        {
+          "d": "08-04",
+          "c": 150.73
+        },
+        {
+          "d": "08-05",
+          "c": 149.89
+        },
+        {
+          "d": "08-06",
+          "c": 145.41
+        },
+        {
+          "d": "08-07",
+          "c": 153.6
+        },
+        {
+          "d": "08-10",
+          "c": 148.68
+        },
+        {
+          "d": "08-11",
+          "c": 148.58
+        },
+        {
+          "d": "08-12",
+          "c": 149.04
+        },
+        {
+          "d": "08-13",
+          "c": 153.9
+        },
+        {
+          "d": "08-14",
+          "c": 148.47
+        },
+        {
+          "d": "08-17",
+          "c": 150.55
+        },
+        {
+          "d": "08-18",
+          "c": 146.23
+        },
+        {
+          "d": "08-19",
+          "c": 160.2
+        },
+        {
+          "d": "08-20",
+          "c": 172.35
+        },
+        {
+          "d": "08-21",
+          "c": 186.49
+        }
+      ]
+    },
+    {
+      "id": "75431a4b6bb397a3",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T11:37:35+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Cryptonews.net",
+      "type": "news",
+      "quote": "June Stock Trades: Sells Strategy and Coinbase, Buys Robinhood - Cryptonews.net Trump\u2019s June Stock Trades: Sells Strategy",
+      "company": "Robinhood",
+      "ticker": "HOOD",
+      "price": 108.13,
+      "change": 13.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIekxvOEhSSXRYc1UtUWV4Y0xHQ09KeDJoTGRFbTZRTll1YWJvZ01TU1RsTi1HNXcxVVVQNnFwUV9CQXMzYThyVElxbzJtbm1IaVlhN28zTWU?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s June Stock Trades: Sells Strategy and Coinbase, Buys Robinhood - Cryptonews.net",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 101.58
+        },
+        {
+          "d": "07-24",
+          "c": 94.91
+        },
+        {
+          "d": "07-27",
+          "c": 95.65
+        },
+        {
+          "d": "07-28",
+          "c": 92.76
+        },
+        {
+          "d": "07-29",
+          "c": 89.84
+        },
+        {
+          "d": "07-30",
+          "c": 86.6
+        },
+        {
+          "d": "07-31",
+          "c": 86.56
+        },
+        {
+          "d": "08-03",
+          "c": 90.34
+        },
+        {
+          "d": "08-04",
+          "c": 93.51
+        },
+        {
+          "d": "08-05",
+          "c": 92.8
+        },
+        {
+          "d": "08-06",
+          "c": 90.71
+        },
+        {
+          "d": "08-07",
+          "c": 93.29
+        },
+        {
+          "d": "08-10",
+          "c": 94.52
+        },
+        {
+          "d": "08-11",
+          "c": 94.38
+        },
+        {
+          "d": "08-12",
+          "c": 94.91
+        },
+        {
+          "d": "08-13",
+          "c": 99.37
+        },
+        {
+          "d": "08-14",
+          "c": 95.56
+        },
+        {
+          "d": "08-17",
+          "c": 96.25
+        },
+        {
+          "d": "08-18",
+          "c": 91.53
+        },
+        {
+          "d": "08-19",
+          "c": 95.77
+        },
+        {
+          "d": "08-20",
+          "c": 95.1
+        },
+        {
+          "d": "08-21",
+          "c": 108.13
+        }
+      ]
+    },
+    {
+      "id": "58e2f24c378bec43",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T11:37:35+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Cryptonews.net",
+      "type": "news",
+      "quote": "Trump\u2019s June Stock Trades: Sells Strategy and Coinbase, Buys Robinhood - Cryptonews.net Trump\u2019s June",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 119.25,
+      "change": 6.1,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIekxvOEhSSXRYc1UtUWV4Y0xHQ09KeDJoTGRFbTZRTll1YWJvZ01TU1RsTi1HNXcxVVVQNnFwUV9CQXMzYThyVElxbzJtbm1IaVlhN28zTWU?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s June Stock Trades: Sells Strategy and Coinbase, Buys Robinhood - Cryptonews.net",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 93.63
+        },
+        {
+          "d": "07-24",
+          "c": 91.67
+        },
+        {
+          "d": "07-27",
+          "c": 98.65
+        },
+        {
+          "d": "07-28",
+          "c": 96.16
+        },
+        {
+          "d": "07-29",
+          "c": 93.33
+        },
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        },
+        {
+          "d": "08-03",
+          "c": 94.86
+        },
+        {
+          "d": "08-04",
+          "c": 97.65
+        },
+        {
+          "d": "08-05",
+          "c": 98.37
+        },
+        {
+          "d": "08-06",
+          "c": 96.85
+        },
+        {
+          "d": "08-07",
+          "c": 100.01
+        },
+        {
+          "d": "08-10",
+          "c": 97.33
+        },
+        {
+          "d": "08-11",
+          "c": 96.09
+        },
+        {
+          "d": "08-12",
+          "c": 94.83
+        },
+        {
+          "d": "08-13",
+          "c": 97.1
+        },
+        {
+          "d": "08-14",
+          "c": 93.04
+        },
+        {
+          "d": "08-17",
+          "c": 97.68
+        },
+        {
+          "d": "08-18",
+          "c": 92.52
+        },
+        {
+          "d": "08-19",
+          "c": 104.25
+        },
+        {
+          "d": "08-20",
+          "c": 112.39
+        },
+        {
+          "d": "08-21",
+          "c": 119.25
+        }
+      ]
+    },
     {
       "id": "be66f37bc28b929a",
       "date": "Mon, 24 Aug 2026",
@@ -41695,422 +42127,6 @@
         {
           "d": "08-04",
           "c": 154.57
-        }
-      ]
-    },
-    {
-      "id": "838e3f403202ac4a",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T12:19:45+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "ABC11 News",
-      "type": "news",
-      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC11 News Trump",
-      "company": "Chevron",
-      "ticker": "CVX",
-      "price": 191.02,
-      "change": -1.12,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEpuanhTMjl4dW1HNFlndWVMazhBSDQ4SGNKMll5T24yWXdKZTlLWVFwUmtoUXBKRXg4NUdMQzI4Qk5HSWZIYllhZ29NX1BQa3U3aFBxNWZWYjZHeW5vM254UWxSQ1BPZDBaNEo5VTJDRU9KRDJtaFVuRTFCZlZhRmdBa1VQXzFFN2ZOLU02dWI2TEdTQWVJR2pEdkdQeHlVSFNXQ3NCQ3dsM2NqdWdfRThQRlR5ank2S1RVRg?oc=5",
-      "image": null,
-      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC11 News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 168.1
-        },
-        {
-          "d": "07-07",
-          "c": 174.01
-        },
-        {
-          "d": "07-08",
-          "c": 175.97
-        },
-        {
-          "d": "07-09",
-          "c": 174.05
-        },
-        {
-          "d": "07-10",
-          "c": 176.4
-        },
-        {
-          "d": "07-13",
-          "c": 182.2
-        },
-        {
-          "d": "07-14",
-          "c": 181.76
-        },
-        {
-          "d": "07-15",
-          "c": 181.6
-        },
-        {
-          "d": "07-16",
-          "c": 183.86
-        },
-        {
-          "d": "07-17",
-          "c": 187.38
-        },
-        {
-          "d": "07-20",
-          "c": 189.71
-        },
-        {
-          "d": "07-21",
-          "c": 191.07
-        },
-        {
-          "d": "07-22",
-          "c": 192.98
-        },
-        {
-          "d": "07-23",
-          "c": 194.42
-        },
-        {
-          "d": "07-24",
-          "c": 194.79
-        },
-        {
-          "d": "07-27",
-          "c": 190.0
-        },
-        {
-          "d": "07-28",
-          "c": 187.58
-        },
-        {
-          "d": "07-29",
-          "c": 191.86
-        },
-        {
-          "d": "07-30",
-          "c": 192.31
-        },
-        {
-          "d": "07-31",
-          "c": 196.83
-        },
-        {
-          "d": "08-03",
-          "c": 193.18
-        },
-        {
-          "d": "08-04",
-          "c": 191.02
-        }
-      ]
-    },
-    {
-      "id": "c72c335b6353a958",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T11:17:36+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Chuck Schumer Calls Trump 'The Most Corrupt President' Over Truth Social's $100,000-a-Month Early-Access - Benzinga Chuck Schumer",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.04,
-      "change": 0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjNBcHBnWFRzYmJ5aUNlYUIxY0Y4aV81dHA2WVdfZlFQbnRlXzZUdFpSc2ZQRDI4NlltUUVZWVJwano0Nl90X01TR1lZOF9qbEdmaVdhamtWZC01aWVKajAyak16M0lYRG4yU1VEam9xaUxTdVlOOE9wQ3BPNTNrYmRIU3ZlTjlsVkZ3VkFxQnRRMjFJc3Z2ZTZtSVF1VmxsRzk5WVdDV1lDdmxfNmRVajd6V3RaWDA?oc=5",
-      "image": null,
-      "headline": "Chuck Schumer Calls Trump 'The Most Corrupt President' Over Truth Social's $100,000-a-Month Early-Access - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.04
-        }
-      ]
-    },
-    {
-      "id": "fac50ecd21ed80c9",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T09:00:00+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "NBC News",
-      "type": "news",
-      "quote": "New bill would stop Trump Media from selling speedy access to president\u2019s posts - NBC News",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZG5zRUdsRWdTLU13MHJfX1JBaHV2ZDN4TWxPMjhGVUh4Z0hGQUlTV2JyX2pBOVU3OFlDdEtFNmFQRzJhdzZLN2dwSjNaQVRmUzBkbGVJVGtkbWRHZ1dJbDdMcWh3X213ZHJDUGVPUk5wZEI5b2dsWFpoWXUwMWw2SXlzNGlfNVNhN3djb1JwaUVxUkxTam80eTdJaUJBeVc2dkdNcDZWak1IQzU4SmlpY3A3WUM1VzVGenBFYQ?oc=5",
-      "image": null,
-      "headline": "New bill would stop Trump Media from selling speedy access to president\u2019s posts - NBC News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        }
-      ]
-    },
-    {
-      "id": "4ff9c8579d14e87e",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T08:58:34+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "thecanary.co",
-      "type": "news",
-      "quote": "\"Outrageous abuse\" of office: Truth Social sells access to \"market-moving\" posts for $100k a month -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.86,
-      "change": -5.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GaVo1V29BNTI5M09ObndBRDFIdmIzdzJNbUJmR2NVZTdTSnF3aDZqQ1JkbnRkTzBhTFNCcVMwNm5tSXhadkE4aXNCZi1PY2JTLUJncUlaTEJmbXRmN0J0NTJfTHBiQlQ3eVZkV21WaDlHVUZXaDNhZ0RaLWE4dw?oc=5",
-      "image": null,
-      "headline": "\"Outrageous abuse\" of office: Truth Social sells access to \"market-moving\" posts for $100k a month - thecanary.co",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
         }
       ]
     }
