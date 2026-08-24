@@ -1,7 +1,134 @@
 {
-  "updated_at": "2026-08-24T17:02:20.531638+00:00",
+  "updated_at": "2026-08-24T17:54:22.164745+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "353ca5118e8ad9fd",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T16:46:52+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "Washington Times",
+      "type": "news",
+      "quote": "Trump Media CEO defends Truth Social premium service as Dems demand",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.17,
+      "change": 0.77,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjY0TS1GUEkxOGs2WWhoMVp3VGRDaVpYakF1Qm50UnJrdVREMmcwT2ZTRkM3eEdTSFIzZzlucG9EUnNMOUFRMVpYaVB4bUNxV1N2N096cGdVdGVILXhHNHpaQXk3aW1ObEhNV1ExWlphS25QbUttdU5ZMjRfdGk2dDlDbHhyX2xvWlIzRFA0MzVlRzFjUGZDZ24xdllxT3paMTJOWGxPalhIaTNkOFdwby1oTWk?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO defends Truth Social premium service as Dems demand probe - Washington Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.17
+        }
+      ]
+    },
+    {
+      "id": "5c93add9d9ccefb2",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T16:30:21+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "WATCH: Bessent announces new sanctions to block Iran's revenue streams Iran's currency hit a record low",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/world/watch-bessent-announces-new-round-of-iran-sanctions",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-03T092058Z_1470658426_RC2KOMAVQNTZ_RTRMADP_3_JAPAN-YEN-INTERVENTION-1024x683.jpg",
+      "headline": "WATCH: Bessent announces new sanctions to block Iran's revenue streams",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "e1a3188489afab2d",
       "date": "Mon, 24 Aug 2026",
@@ -41919,222 +42046,6 @@
         {
           "d": "08-05",
           "c": 186.41
-        }
-      ]
-    },
-    {
-      "id": "ae7841da02ea4f2d",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T13:53:41+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "What is Trump Media's Truth API and why is it controversial? - BBC What is",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.89,
-      "change": -0.7,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVjZpQjZrNk55T2FMWjZhbHd0Y1d6b29EN2plNnRRZXB5OGpWTUYwUHhhNkVmWUJoQk0wUDE5X3JnNm9hOVoxVlpsNllNOFF4cXUyV2Q3T2dxZw?oc=5",
-      "image": null,
-      "headline": "What is Trump Media's Truth API and why is it controversial? - BBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        }
-      ]
-    },
-    {
-      "id": "e7258496596025f8",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T13:19:43+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "ABC13 Houston",
-      "type": "news",
-      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC13 Houston Trump says oil",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 153.96,
-      "change": -0.71,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeElCZUlwTWE4bXVOTmxkeW5GTG5TZ2ZZeGVpUUdEZUp5QUZRN3VHN2M3cVNRV2Npdm5WYlFqeVY0M1ZjZDVhYXRRMUtPOTVXWGtpTjdqYlF2SmZjRC1ha05pOGV2Yl9HandRWjBDUDg4QkR4WEg5MUVGRkJ3VmxSX2lYaHkwNHhkZWRXUXN3SEpXak9IbVR2MGJ6bTFXNGlOc0o1Wjdnc21md21obW9IcmRFUzF4dHlWNDZRag?oc=5",
-      "image": null,
-      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC13 Houston",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 136.44
-        },
-        {
-          "d": "07-07",
-          "c": 141.69
-        },
-        {
-          "d": "07-08",
-          "c": 141.13
-        },
-        {
-          "d": "07-09",
-          "c": 137.46
-        },
-        {
-          "d": "07-10",
-          "c": 138.88
-        },
-        {
-          "d": "07-13",
-          "c": 144.51
-        },
-        {
-          "d": "07-14",
-          "c": 145.09
-        },
-        {
-          "d": "07-15",
-          "c": 144.51
-        },
-        {
-          "d": "07-16",
-          "c": 145.95
-        },
-        {
-          "d": "07-17",
-          "c": 147.36
-        },
-        {
-          "d": "07-20",
-          "c": 148.36
-        },
-        {
-          "d": "07-21",
-          "c": 151.71
-        },
-        {
-          "d": "07-22",
-          "c": 154.45
-        },
-        {
-          "d": "07-23",
-          "c": 156.89
-        },
-        {
-          "d": "07-24",
-          "c": 156.94
-        },
-        {
-          "d": "07-27",
-          "c": 154.77
-        },
-        {
-          "d": "07-28",
-          "c": 153.04
-        },
-        {
-          "d": "07-29",
-          "c": 156.75
-        },
-        {
-          "d": "07-30",
-          "c": 156.97
-        },
-        {
-          "d": "07-31",
-          "c": 155.44
-        },
-        {
-          "d": "08-03",
-          "c": 155.06
-        },
-        {
-          "d": "08-04",
-          "c": 153.96
         }
       ]
     }
