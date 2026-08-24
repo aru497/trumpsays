@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-24T14:09:29.780238+00:00",
+  "updated_at": "2026-08-24T15:06:53.181164+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5072205dfa4abeb1",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T14:57:37+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "says Reagan would be 'throwing up' over Trump's tariffs Ford said \"everything is on the table\" after Prime Minister",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 13.89,
+      "change": -3.61,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/world/ontarios-premier-says-reagan-would-be-throwing-up-over-trumps-tariffs",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-06T171348Z_1685041114_RC2F8MAAYACC_RTRMADP_3_CANADA-STAMPEDE-1024x692.jpg",
+      "headline": "Ontario's premier says Reagan would be 'throwing up' over Trump's tariffs",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-24",
+          "c": 14.22
+        },
+        {
+          "d": "07-27",
+          "c": 14.52
+        },
+        {
+          "d": "07-28",
+          "c": 14.8
+        },
+        {
+          "d": "07-29",
+          "c": 15.12
+        },
+        {
+          "d": "07-30",
+          "c": 14.7
+        },
+        {
+          "d": "07-31",
+          "c": 14.52
+        },
+        {
+          "d": "08-03",
+          "c": 14.28
+        },
+        {
+          "d": "08-04",
+          "c": 14.09
+        },
+        {
+          "d": "08-05",
+          "c": 13.98
+        },
+        {
+          "d": "08-06",
+          "c": 13.64
+        },
+        {
+          "d": "08-07",
+          "c": 13.83
+        },
+        {
+          "d": "08-10",
+          "c": 13.85
+        },
+        {
+          "d": "08-11",
+          "c": 13.98
+        },
+        {
+          "d": "08-12",
+          "c": 13.83
+        },
+        {
+          "d": "08-13",
+          "c": 13.89
+        },
+        {
+          "d": "08-14",
+          "c": 14.37
+        },
+        {
+          "d": "08-17",
+          "c": 14.05
+        },
+        {
+          "d": "08-18",
+          "c": 13.93
+        },
+        {
+          "d": "08-19",
+          "c": 14.5
+        },
+        {
+          "d": "08-20",
+          "c": 13.99
+        },
+        {
+          "d": "08-21",
+          "c": 14.41
+        },
+        {
+          "d": "08-24",
+          "c": 13.89
+        }
+      ]
+    },
     {
       "id": "6d8734dbe10e9d52",
       "date": "Mon, 24 Aug 2026",
@@ -323,6 +431,114 @@
         {
           "d": "08-21",
           "c": 9.1
+        }
+      ]
+    },
+    {
+      "id": "d664df312e453d57",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T11:49:35+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump Media Interim CEO Kevin McGurn on Truth API: This was demand",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.05,
+      "change": -0.55,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUNnYmhVRmRJcGtTSmVVS2lUdUhMU3JyZGlQQXpyNFFFeEdsWG5qclh0Z0w5eFNUQzJYYzNYVUN3ZmJuTU9uMEVoVi1QSmUzQzN0Umt1dV9MbzRCaVR3WEphLUlKTmI4eWxxT2ZQbnp4UER6ejVLemZOb2FzSTJDWlJzZnpJZm9XTkxpUmdzZjJXMFFQaFQ1R2g5TE04MDVNNmQ4dGtERTlldFZPZHA2UnZwUDJrOW5BNXBTUWo4VV84UTMzVGI3bGVFbi1iNlU?oc=5",
+      "image": null,
+      "headline": "Trump Media Interim CEO Kevin McGurn on Truth API: This was demand that came to us from the market - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.05
         }
       ]
     },
@@ -41915,218 +42131,6 @@
         {
           "d": "08-10",
           "c": 159.79
-        }
-      ]
-    },
-    {
-      "id": "8222962a11b50b21",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T12:30:16+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "abc7.com",
-      "type": "news",
-      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - abc7.com Trump",
-      "company": "Chevron",
-      "ticker": "CVX",
-      "price": 194.91,
-      "change": 4.48,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3dzMnl3Wm5RSEZmMHdVUmMzQnZ5M0dYdDJXQ3dFQ3NVMTJmY185emU1cVp0eWdIOUZUTEk5T1hoN1FjYzluck9DN2xFUVQ0NzlnUkxWUmJQMzlwV2RhOUo3LXMtRG9JYWtJQkFabTE3allpZU5TZk1BbDJxLXBPVnY0QjNhemFaci1CU3hfZUl6Z3JscHI0RVFaTmdVRFFucF9wNXlDVDRTRlZNTHNVTVdFLWwzQXNqSFlr?oc=5",
-      "image": null,
-      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - abc7.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 182.2
-        },
-        {
-          "d": "07-14",
-          "c": 181.76
-        },
-        {
-          "d": "07-15",
-          "c": 181.6
-        },
-        {
-          "d": "07-16",
-          "c": 183.86
-        },
-        {
-          "d": "07-17",
-          "c": 187.38
-        },
-        {
-          "d": "07-20",
-          "c": 189.71
-        },
-        {
-          "d": "07-21",
-          "c": 191.07
-        },
-        {
-          "d": "07-22",
-          "c": 192.98
-        },
-        {
-          "d": "07-23",
-          "c": 194.42
-        },
-        {
-          "d": "07-24",
-          "c": 194.79
-        },
-        {
-          "d": "07-27",
-          "c": 190.0
-        },
-        {
-          "d": "07-28",
-          "c": 187.58
-        },
-        {
-          "d": "07-29",
-          "c": 191.86
-        },
-        {
-          "d": "07-30",
-          "c": 192.31
-        },
-        {
-          "d": "07-31",
-          "c": 196.83
-        },
-        {
-          "d": "08-03",
-          "c": 193.18
-        },
-        {
-          "d": "08-04",
-          "c": 190.4
-        },
-        {
-          "d": "08-05",
-          "c": 186.41
-        },
-        {
-          "d": "08-06",
-          "c": 189.23
-        },
-        {
-          "d": "08-07",
-          "c": 186.56
-        },
-        {
-          "d": "08-10",
-          "c": 194.91
-        }
-      ]
-    },
-    {
-      "id": "b3e34be11ef9f5ef",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T12:21:15+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "ABC7 Chicago",
-      "type": "news",
-      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC7 Chicago Trump says oil",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 154.3,
-      "change": -0.49,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORl9NT09hR2xyY1VrZnIxN2kzRC1WRzNLQUJkdDVaazBNLXV5XzlqZkZPWnFwb3p4WS1DYllsZzA0WmZMczJDVmlFdFI2TXZOcTJGNnp6ejAwWEMtU2tpVDUtS3puYy1DenBuRWpjYTNFdmF5bGp4VVI2d3puSVFlZ1plR0F2cXVVeWVodGpISlV6OWl3bjlHbnFHemI5dDE3c1FKLWtzZzVxbzc3MjQ4UUw3Nmdwc3RDY0RsSHNUX1FpV2Nr?oc=5",
-      "image": null,
-      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC7 Chicago",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 136.44
-        },
-        {
-          "d": "07-07",
-          "c": 141.69
-        },
-        {
-          "d": "07-08",
-          "c": 141.13
-        },
-        {
-          "d": "07-09",
-          "c": 137.46
-        },
-        {
-          "d": "07-10",
-          "c": 138.88
-        },
-        {
-          "d": "07-13",
-          "c": 144.51
-        },
-        {
-          "d": "07-14",
-          "c": 145.09
-        },
-        {
-          "d": "07-15",
-          "c": 144.51
-        },
-        {
-          "d": "07-16",
-          "c": 145.95
-        },
-        {
-          "d": "07-17",
-          "c": 147.36
-        },
-        {
-          "d": "07-20",
-          "c": 148.36
-        },
-        {
-          "d": "07-21",
-          "c": 151.71
-        },
-        {
-          "d": "07-22",
-          "c": 154.45
-        },
-        {
-          "d": "07-23",
-          "c": 156.89
-        },
-        {
-          "d": "07-24",
-          "c": 156.94
-        },
-        {
-          "d": "07-27",
-          "c": 154.77
-        },
-        {
-          "d": "07-28",
-          "c": 153.04
-        },
-        {
-          "d": "07-29",
-          "c": 156.75
-        },
-        {
-          "d": "07-30",
-          "c": 156.97
-        },
-        {
-          "d": "07-31",
-          "c": 155.44
-        },
-        {
-          "d": "08-03",
-          "c": 155.06
-        },
-        {
-          "d": "08-04",
-          "c": 154.3
         }
       ]
     }
