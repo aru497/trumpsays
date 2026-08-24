@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-24T00:35:10.922234+00:00",
+  "updated_at": "2026-08-24T02:15:30.575247+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "82ee18c93a717a13",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T01:40:48+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "finance.biggo.com",
+      "type": "news",
+      "quote": "Made More Than 1,000 Trades in June, Including SpaceX and Palantir - finance.biggo.com Trump Made More Than 1,000 Trades in",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 179.94,
+      "change": 3.44,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82VUNKOURuTVJrTkVvY1djSGNmcGQ2bVZQUFFfTXplNzJyMGJvZW01V1c2NVVOVzlkWmpNU2tuVzVxbDdOR0hUNmdEZlc0TlVKelRud0NibnZTYzNjdXA1b3BUSUk2MFZMRVBwWXlEc3hFUFV1M3c?oc=5",
+      "image": null,
+      "headline": "Trump Made More Than 1,000 Trades in June, Including SpaceX and Palantir - finance.biggo.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 123.37
+        },
+        {
+          "d": "07-24",
+          "c": 122.92
+        },
+        {
+          "d": "07-27",
+          "c": 131.53
+        },
+        {
+          "d": "07-28",
+          "c": 123.53
+        },
+        {
+          "d": "07-29",
+          "c": 123.0
+        },
+        {
+          "d": "07-30",
+          "c": 122.26
+        },
+        {
+          "d": "07-31",
+          "c": 123.06
+        },
+        {
+          "d": "08-03",
+          "c": 125.65
+        },
+        {
+          "d": "08-04",
+          "c": 162.66
+        },
+        {
+          "d": "08-05",
+          "c": 158.43
+        },
+        {
+          "d": "08-06",
+          "c": 155.92
+        },
+        {
+          "d": "08-07",
+          "c": 172.01
+        },
+        {
+          "d": "08-10",
+          "c": 175.23
+        },
+        {
+          "d": "08-11",
+          "c": 174.94
+        },
+        {
+          "d": "08-12",
+          "c": 171.04
+        },
+        {
+          "d": "08-13",
+          "c": 179.01
+        },
+        {
+          "d": "08-14",
+          "c": 174.04
+        },
+        {
+          "d": "08-17",
+          "c": 172.55
+        },
+        {
+          "d": "08-18",
+          "c": 171.54
+        },
+        {
+          "d": "08-19",
+          "c": 175.19
+        },
+        {
+          "d": "08-20",
+          "c": 173.96
+        },
+        {
+          "d": "08-21",
+          "c": 179.94
+        }
+      ]
+    },
     {
       "id": "149bbec39417326f",
       "date": "Sun, 23 Aug 2026",
@@ -41991,110 +42099,6 @@
         {
           "d": "08-05",
           "c": 9.96
-        }
-      ]
-    },
-    {
-      "id": "59f17c84f1a9e46b",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T00:17:48+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "Why is Trump Media selling early access to Trump's Truth Social posts? - BBC",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.01,
-      "change": 1.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ib2xYdGRHYU9Pd0RwNnVKMXdaRmM4WVNVTkNYNDNYTWlPZUk1RzlYQThVc0pwRkdscjNoY05lUF93T3RCVDFuQmZybXRTOW54TlVYeVhUcw?oc=5",
-      "image": null,
-      "headline": "Why is Trump Media selling early access to Trump's Truth Social posts? - BBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
         }
       ]
     }
