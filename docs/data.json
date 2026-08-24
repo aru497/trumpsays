@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-24T12:22:46.781684+00:00",
+  "updated_at": "2026-08-24T13:27:57.034757+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "13cf0c58575ef210",
+      "date": "Mon, 24 Aug 2026",
+      "ts": "2026-08-24T12:33:58+00:00",
+      "date_display": "Aug 24, 2026",
+      "source": "qz.com",
+      "type": "news",
+      "quote": "Trump Media CEO says Truth API customers in mid-teens - qz.com Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.1,
+      "change": 6.93,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWUNZYlZ0VWFwLW0yODVEUUR2NFN2Q3JtZ2M3VWpDa0RmZkFnaHVESDQ2UXNvbUs0SWkzMUZVQ1J4bWFYMzk0WEpMZ2MzZE1aVHpJR1NfdjI4SFVFSFlHU3pJWm9LbnRRMUhwUDdxWlI?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO says Truth API customers in mid-teens - qz.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-23",
+          "c": 8.89
+        },
+        {
+          "d": "07-24",
+          "c": 8.56
+        },
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        }
+      ]
+    },
     {
       "id": "a4cca36a576d3a59",
       "date": "Mon, 24 Aug 2026",
@@ -42019,114 +42127,6 @@
         {
           "d": "08-04",
           "c": 191.05
-        }
-      ]
-    },
-    {
-      "id": "673265e31fad03b3",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T12:19:45+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "ABC11 News",
-      "type": "news",
-      "quote": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC11 News Trump says oil",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 154.57,
-      "change": -0.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEpuanhTMjl4dW1HNFlndWVMazhBSDQ4SGNKMll5T24yWXdKZTlLWVFwUmtoUXBKRXg4NUdMQzI4Qk5HSWZIYllhZ29NX1BQa3U3aFBxNWZWYjZHeW5vM254UWxSQ1BPZDBaNEo5VTJDRU9KRDJtaFVuRTFCZlZhRmdBa1VQXzFFN2ZOLU02dWI2TEdTQWVJR2pEdkdQeHlVSFNXQ3NCQ3dsM2NqdWdfRThQRlR5ank2S1RVRg?oc=5",
-      "image": null,
-      "headline": "Trump says oil companies Chevron and Exxon Mobil made \u2018too much money\u2019 - ABC11 News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 136.44
-        },
-        {
-          "d": "07-07",
-          "c": 141.69
-        },
-        {
-          "d": "07-08",
-          "c": 141.13
-        },
-        {
-          "d": "07-09",
-          "c": 137.46
-        },
-        {
-          "d": "07-10",
-          "c": 138.88
-        },
-        {
-          "d": "07-13",
-          "c": 144.51
-        },
-        {
-          "d": "07-14",
-          "c": 145.09
-        },
-        {
-          "d": "07-15",
-          "c": 144.51
-        },
-        {
-          "d": "07-16",
-          "c": 145.95
-        },
-        {
-          "d": "07-17",
-          "c": 147.36
-        },
-        {
-          "d": "07-20",
-          "c": 148.36
-        },
-        {
-          "d": "07-21",
-          "c": 151.71
-        },
-        {
-          "d": "07-22",
-          "c": 154.45
-        },
-        {
-          "d": "07-23",
-          "c": 156.89
-        },
-        {
-          "d": "07-24",
-          "c": 156.94
-        },
-        {
-          "d": "07-27",
-          "c": 154.77
-        },
-        {
-          "d": "07-28",
-          "c": 153.04
-        },
-        {
-          "d": "07-29",
-          "c": 156.75
-        },
-        {
-          "d": "07-30",
-          "c": 156.97
-        },
-        {
-          "d": "07-31",
-          "c": 155.44
-        },
-        {
-          "d": "08-03",
-          "c": 155.06
-        },
-        {
-          "d": "08-04",
-          "c": 154.57
         }
       ]
     }
