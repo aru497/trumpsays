@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-08-25T05:01:05.163493+00:00",
+  "updated_at": "2026-08-25T05:54:00.247918+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "33bc08147da27e27",
+      "date": "Tue, 25 Aug 2026",
+      "ts": "2026-08-25T04:56:29+00:00",
+      "date_display": "Aug 25, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners,",
+      "company": "Visa",
+      "ticker": "V",
+      "price": 382.41,
+      "change": 3.06,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+      "image": null,
+      "headline": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-27",
+          "c": 361.86
+        },
+        {
+          "d": "07-28",
+          "c": 365.91
+        },
+        {
+          "d": "07-29",
+          "c": 368.05
+        },
+        {
+          "d": "07-30",
+          "c": 365.59
+        },
+        {
+          "d": "07-31",
+          "c": 365.45
+        },
+        {
+          "d": "08-03",
+          "c": 364.99
+        },
+        {
+          "d": "08-04",
+          "c": 368.9
+        },
+        {
+          "d": "08-05",
+          "c": 367.86
+        },
+        {
+          "d": "08-06",
+          "c": 369.78
+        },
+        {
+          "d": "08-07",
+          "c": 361.83
+        },
+        {
+          "d": "08-10",
+          "c": 360.65
+        },
+        {
+          "d": "08-11",
+          "c": 362.82
+        },
+        {
+          "d": "08-12",
+          "c": 359.42
+        },
+        {
+          "d": "08-13",
+          "c": 365.45
+        },
+        {
+          "d": "08-14",
+          "c": 364.15
+        },
+        {
+          "d": "08-17",
+          "c": 358.84
+        },
+        {
+          "d": "08-18",
+          "c": 364.25
+        },
+        {
+          "d": "08-19",
+          "c": 365.54
+        },
+        {
+          "d": "08-20",
+          "c": 365.73
+        },
+        {
+          "d": "08-21",
+          "c": 371.04
+        },
+        {
+          "d": "08-24",
+          "c": 382.41
+        }
+      ]
+    },
     {
       "id": "0ed31bb34fda0d41",
       "date": "Tue, 25 Aug 2026",
@@ -41878,114 +41982,6 @@
         {
           "d": "08-05",
           "c": 10.27
-        }
-      ]
-    },
-    {
-      "id": "5df6a6e723ded2f0",
-      "date": "Wed, 05 Aug 2026",
-      "ts": "2026-08-05T06:46:00+00:00",
-      "date_display": "Aug 05, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Donald Trump\u2019s Truth Social Early Access Raises Insider Trading Question - Yahoo",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTNYOExEaGs2U19jaklLNHc4SjlyNzR4RHRQUVFVOUdNZHQ1ZnVLa2pKdlNUTFF5UmRvdHJJdzhYbHFPLXpETTB0QnltMXRJUndXOW9EdUdlQnhOZTJhcG43YnRiQk9vQlNoNGZoNkRPLWZrbEtuclNzbHR4M2pvMnNMZmFhaUVjMjZPTlY2TkhfWEpTSVdDbnJWV1Y?oc=5",
-      "image": null,
-      "headline": "Donald Trump\u2019s Truth Social Early Access Raises Insider Trading Question - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
         }
       ]
     }
