@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-25T19:06:01.789585+00:00",
+  "updated_at": "2026-08-25T19:52:01.483356+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "60b0986170fd9124",
+      "date": "Tue, 25 Aug 2026",
+      "ts": "2026-08-25T17:21:18+00:00",
+      "date_display": "Aug 25, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat - 24/7 Wall St. RUM Group Surges 11% as CEO",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.4,
+      "change": 1.08,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUg2d0RxOFlCdWZCUnotbnR5WnlZVml5WDNyelJDNUFudWFHUGRVSl96YVRHaXBBbm9rYlFXaFhRTnhqRlhuMFlsZ1BMRzNaa0pSczBkVDJpc0JKX0FTVlNRNHRxcWNPd2NON0E2ZmMtaEhoUVdlQUdHcnlRX2JhNDJDSnFnZkx1S0RqM3g5bkotU1pQYkZpM2FTODFrbjltek93bHFSUG9iWThoWW56Q0RDOHJuNWozWWlkV1FQZkw3SVJnOHJZak9B?oc=5",
+      "image": null,
+      "headline": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-27",
+          "c": 9.56
+        },
+        {
+          "d": "07-28",
+          "c": 9.88
+        },
+        {
+          "d": "07-29",
+          "c": 9.85
+        },
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        }
+      ]
+    },
     {
       "id": "d4c873c422b67b78",
       "date": "Tue, 25 Aug 2026",
@@ -41854,114 +41962,6 @@
         {
           "d": "08-05",
           "c": 64.24
-        }
-      ]
-    },
-    {
-      "id": "c76fa8e345a7bc15",
-      "date": "Wed, 05 Aug 2026",
-      "ts": "2026-08-05T17:14:46+00:00",
-      "date_display": "Aug 05, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "case against Oath Keepers militia group over Jan. 6 riot A judge has granted the Justice Department's bid to drop a",
-      "company": "Riot",
-      "ticker": "RIOT",
-      "price": 21.94,
-      "change": 1.76,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
-      "image": null,
-      "headline": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-07",
-          "c": 21.17
-        },
-        {
-          "d": "07-08",
-          "c": 21.09
-        },
-        {
-          "d": "07-09",
-          "c": 21.51
-        },
-        {
-          "d": "07-10",
-          "c": 20.97
-        },
-        {
-          "d": "07-13",
-          "c": 20.19
-        },
-        {
-          "d": "07-14",
-          "c": 20.19
-        },
-        {
-          "d": "07-15",
-          "c": 20.1
-        },
-        {
-          "d": "07-16",
-          "c": 18.82
-        },
-        {
-          "d": "07-17",
-          "c": 18.26
-        },
-        {
-          "d": "07-20",
-          "c": 19.9
-        },
-        {
-          "d": "07-21",
-          "c": 21.49
-        },
-        {
-          "d": "07-22",
-          "c": 23.38
-        },
-        {
-          "d": "07-23",
-          "c": 23.86
-        },
-        {
-          "d": "07-24",
-          "c": 22.53
-        },
-        {
-          "d": "07-27",
-          "c": 21.97
-        },
-        {
-          "d": "07-28",
-          "c": 21.24
-        },
-        {
-          "d": "07-29",
-          "c": 18.24
-        },
-        {
-          "d": "07-30",
-          "c": 22.12
-        },
-        {
-          "d": "07-31",
-          "c": 20.17
-        },
-        {
-          "d": "08-03",
-          "c": 21.42
-        },
-        {
-          "d": "08-04",
-          "c": 21.56
-        },
-        {
-          "d": "08-05",
-          "c": 21.94
         }
       ]
     }
