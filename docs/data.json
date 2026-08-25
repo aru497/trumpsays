@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-08-25T02:11:28.027952+00:00",
+  "updated_at": "2026-08-25T03:23:48.316895+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0ed31bb34fda0d41",
+      "date": "Tue, 25 Aug 2026",
+      "ts": "2026-08-25T01:07:18+00:00",
+      "date_display": "Aug 25, 2026",
+      "source": "Forbes Australia",
+      "type": "news",
+      "quote": "Trump made big stock trades in SpaceX, Palantir and tech companies in June - Forbes Australia Trump made",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 175.89,
+      "change": -2.25,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2xYdzF5WnItM2RodFRuSjJ3X1ZWT0hER3hkNEtHZXFOWlFFaUVhSVV4d1RpUkpSOXM0bkhXbHNZcUZYVHdDSXZPS3k1a2duUDgwU1RjbWdEVWxrYTB2M05GRVAyWU4tTFotamJvUlJWV1NtQnNSS2diR3MzRTBMRGc0VERQWnA5a3dVdzVVMzlqOWZQdXhLaFo3ZWVSalJfekttRjRuaDMyNTFtWFg0c0VYek1KS1U?oc=5",
+      "image": null,
+      "headline": "Trump made big stock trades in SpaceX, Palantir and tech companies in June - Forbes Australia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-27",
+          "c": 131.53
+        },
+        {
+          "d": "07-28",
+          "c": 123.53
+        },
+        {
+          "d": "07-29",
+          "c": 123.0
+        },
+        {
+          "d": "07-30",
+          "c": 122.26
+        },
+        {
+          "d": "07-31",
+          "c": 123.06
+        },
+        {
+          "d": "08-03",
+          "c": 125.65
+        },
+        {
+          "d": "08-04",
+          "c": 162.66
+        },
+        {
+          "d": "08-05",
+          "c": 158.43
+        },
+        {
+          "d": "08-06",
+          "c": 155.92
+        },
+        {
+          "d": "08-07",
+          "c": 172.01
+        },
+        {
+          "d": "08-10",
+          "c": 175.23
+        },
+        {
+          "d": "08-11",
+          "c": 174.94
+        },
+        {
+          "d": "08-12",
+          "c": 171.04
+        },
+        {
+          "d": "08-13",
+          "c": 179.01
+        },
+        {
+          "d": "08-14",
+          "c": 174.04
+        },
+        {
+          "d": "08-17",
+          "c": 172.55
+        },
+        {
+          "d": "08-18",
+          "c": 171.54
+        },
+        {
+          "d": "08-19",
+          "c": 175.19
+        },
+        {
+          "d": "08-20",
+          "c": 173.96
+        },
+        {
+          "d": "08-21",
+          "c": 179.94
+        },
+        {
+          "d": "08-24",
+          "c": 175.89
+        }
+      ]
+    },
     {
       "id": "6732c64369bfcf4f",
       "date": "Tue, 25 Aug 2026",
@@ -41886,114 +41990,6 @@
         {
           "d": "08-07",
           "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "f0eb2b75a896cba5",
-      "date": "Tue, 04 Aug 2026",
-      "ts": "2026-08-04T22:30:25+00:00",
-      "date_display": "Aug 04, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Trump is selling early access to his social media posts. Truth Social launched a subscription service giving a first look at",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.34,
-      "change": 3.3,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/paid-early-access-to-trumps-posts-raises-insider-trading-questions",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/earlyaccess-1-1024x683.jpg",
-      "headline": "Paid early access to Trump's posts raises insider trading questions",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-06",
-          "c": 8.66
-        },
-        {
-          "d": "07-07",
-          "c": 8.13
-        },
-        {
-          "d": "07-08",
-          "c": 8.49
-        },
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
         }
       ]
     }
