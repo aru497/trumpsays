@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-26T20:19:35.663948+00:00",
+  "updated_at": "2026-08-26T23:49:13.317748+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "18b78bf3bd1b8f19",
+      "date": "Wed, 26 Aug 2026",
+      "ts": "2026-08-26T22:55:13+00:00",
+      "date_display": "Aug 26, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "$17B Meta settlement puts focus on youth mental health crisis,",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 576.14,
+      "change": 1.07,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/17b-meta-settlement-puts-focus-on-youth-mental-health-crisis-colorado-ag-says",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/meta-1-1024x708.jpg",
+      "headline": "$17B Meta settlement puts focus on youth mental health crisis, Colorado AG says",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-28",
+          "c": 593.41
+        },
+        {
+          "d": "07-29",
+          "c": 585.61
+        },
+        {
+          "d": "07-30",
+          "c": 539.03
+        },
+        {
+          "d": "07-31",
+          "c": 556.71
+        },
+        {
+          "d": "08-03",
+          "c": 590.24
+        },
+        {
+          "d": "08-04",
+          "c": 587.94
+        },
+        {
+          "d": "08-05",
+          "c": 588.77
+        },
+        {
+          "d": "08-06",
+          "c": 589.9
+        },
+        {
+          "d": "08-07",
+          "c": 592.1
+        },
+        {
+          "d": "08-10",
+          "c": 594.92
+        },
+        {
+          "d": "08-11",
+          "c": 599.12
+        },
+        {
+          "d": "08-12",
+          "c": 578.85
+        },
+        {
+          "d": "08-13",
+          "c": 594.97
+        },
+        {
+          "d": "08-14",
+          "c": 589.85
+        },
+        {
+          "d": "08-17",
+          "c": 568.97
+        },
+        {
+          "d": "08-18",
+          "c": 543.67
+        },
+        {
+          "d": "08-19",
+          "c": 546.03
+        },
+        {
+          "d": "08-20",
+          "c": 545.83
+        },
+        {
+          "d": "08-21",
+          "c": 549.9
+        },
+        {
+          "d": "08-24",
+          "c": 559.02
+        },
+        {
+          "d": "08-25",
+          "c": 570.05
+        },
+        {
+          "d": "08-26",
+          "c": 576.14
+        }
+      ]
+    },
     {
       "id": "1e8352ec97b51f01",
       "date": "Wed, 26 Aug 2026",
@@ -41676,114 +41784,6 @@
         {
           "d": "08-07",
           "c": 63.99
-        }
-      ]
-    },
-    {
-      "id": "e9c3c5777a174f54",
-      "date": "Thu, 06 Aug 2026",
-      "ts": "2026-08-06T19:45:35+00:00",
-      "date_display": "Aug 06, 2026",
-      "source": "Yahoo Finance UK",
-      "type": "news",
-      "quote": "Truth Social Daily Active Users Fall Sharply Over the Past Year - Yahoo",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVp3X2l3SHAxQXJ1dk40UEZiU0VHTGZ3cUZvdngzUTB0b0JjV1Zvd0hqeVFzcFQ4TjFxLXNVQU1GSnl5N21FdXI4UVNpNXF3QXhkRm9yd01oQ2hZU1JfVWExOHpneHF2YTVud3dkRndlMDdqMWdnUDA0NkR0b3RHNVoySkdWNG8?oc=5",
-      "image": null,
-      "headline": "Truth Social Daily Active Users Fall Sharply Over the Past Year - Yahoo Finance UK",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
         }
       ]
     }
