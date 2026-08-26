@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-26T00:35:26.180449+00:00",
+  "updated_at": "2026-08-26T02:17:41.095030+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c0c1faa373e792fb",
+      "date": "Tue, 25 Aug 2026",
+      "ts": "2026-08-25T18:49:00+00:00",
+      "date_display": "Aug 25, 2026",
+      "source": "finance.biggo.com",
+      "type": "news",
+      "quote": "Lucid Shares Drop 7.7% as Trump's 50% Canada Auto Tariff Threat",
+      "company": "Lucid",
+      "ticker": "LCID",
+      "price": 5.26,
+      "change": 3.34,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDX0dHa0JocG12V2NUVVJ3aHgzWXQ0OUpqaEQ4Yjl3bTYzQzQ1RjJHTl9QbGJuN0VVN1hLcUVqZngwZzUtVFNNWlZYM3lSZnhZLWxwZVlYYktwMkxYWFpjelZNYWpFMHhFUWFvV2gxb0xWa2JWeGc?oc=5",
+      "image": null,
+      "headline": "Lucid Shares Drop 7.7% as Trump's 50% Canada Auto Tariff Threat Hits Growth Stocks - finance.biggo.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-27",
+          "c": 6.5
+        },
+        {
+          "d": "07-28",
+          "c": 7.9
+        },
+        {
+          "d": "07-29",
+          "c": 7.96
+        },
+        {
+          "d": "07-30",
+          "c": 8.12
+        },
+        {
+          "d": "07-31",
+          "c": 7.38
+        },
+        {
+          "d": "08-03",
+          "c": 7.7
+        },
+        {
+          "d": "08-04",
+          "c": 7.78
+        },
+        {
+          "d": "08-05",
+          "c": 6.7
+        },
+        {
+          "d": "08-06",
+          "c": 6.98
+        },
+        {
+          "d": "08-07",
+          "c": 7.04
+        },
+        {
+          "d": "08-10",
+          "c": 6.61
+        },
+        {
+          "d": "08-11",
+          "c": 6.7
+        },
+        {
+          "d": "08-12",
+          "c": 6.54
+        },
+        {
+          "d": "08-13",
+          "c": 6.44
+        },
+        {
+          "d": "08-14",
+          "c": 6.22
+        },
+        {
+          "d": "08-17",
+          "c": 6.22
+        },
+        {
+          "d": "08-18",
+          "c": 5.77
+        },
+        {
+          "d": "08-19",
+          "c": 5.92
+        },
+        {
+          "d": "08-20",
+          "c": 5.62
+        },
+        {
+          "d": "08-21",
+          "c": 5.51
+        },
+        {
+          "d": "08-24",
+          "c": 5.09
+        },
+        {
+          "d": "08-25",
+          "c": 5.26
+        }
+      ]
+    },
     {
       "id": "9ef674a3e7a8a342",
       "date": "Tue, 25 Aug 2026",
@@ -41854,114 +41962,6 @@
         {
           "d": "08-07",
           "c": 355.46
-        }
-      ]
-    },
-    {
-      "id": "b4df8a6ad164724a",
-      "date": "Thu, 06 Aug 2026",
-      "ts": "2026-08-06T12:10:49+00:00",
-      "date_display": "Aug 06, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "What\u2019s Behind the A.I. Shake-Up at Google - The New York Times What\u2019s Behind the A.I. Shake-Up at Google&nbsp;&nbsp;The",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.44,
-      "change": -2.05,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOF84czBkeWgzYXdrN3FTbUJkMWlyMmREWWtfbHFWTTdWd2hqU2dIekozWGt2dl92WVh5ZEw0TE5OV2lFbE56NzdWN2k3T0lvb09vdFJyU0pRVFA0MVZKRDVCejhfcURRSHpqUUFJR0hoWjBmTXVpQWFiWVhBZ0o3dEp3?oc=5",
-      "image": null,
-      "headline": "What\u2019s Behind the A.I. Shake-Up at Google - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 74.3
-        },
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.44
         }
       ]
     }
