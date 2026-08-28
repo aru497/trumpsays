@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-08-28T13:01:10.200229+00:00",
+  "updated_at": "2026-08-28T23:06:31.954556+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "524f8fef12a8b677",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T22:29:00+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "WIRED",
+      "type": "news",
+      "quote": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 217.55,
+      "change": -4.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWFTTkxPOG5welJZTXIwcGYxV3hfbDNNUm83dTdFdDZMY1NIRDF1aFlQNkxEWHJ2ZFJ5TDhlUmhOWTlPcU5UOXlzVFV1dGNSZkhjaUg2VUl3dnhaczJMY0dzbUhEQnBXVWw4dThNTFlDb3h0di1WOVUwdnY3d04wd3Z2U0FGMUlvYm5pcUo4S3d5MEZ4eWRuY1BlaURsTTBGeFgxSjZ5Uk9pREt1QWVSQy1B?oc=5",
+      "image": null,
+      "headline": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands - WIRED",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 195.04
+        },
+        {
+          "d": "07-31",
+          "c": 200.75
+        },
+        {
+          "d": "08-03",
+          "c": 206.64
+        },
+        {
+          "d": "08-04",
+          "c": 211.94
+        },
+        {
+          "d": "08-05",
+          "c": 219.22
+        },
+        {
+          "d": "08-06",
+          "c": 218.99
+        },
+        {
+          "d": "08-07",
+          "c": 223.96
+        },
+        {
+          "d": "08-10",
+          "c": 217.55
+        },
+        {
+          "d": "08-11",
+          "c": 217.5
+        },
+        {
+          "d": "08-12",
+          "c": 224.09
+        },
+        {
+          "d": "08-13",
+          "c": 225.3
+        },
+        {
+          "d": "08-14",
+          "c": 225.16
+        },
+        {
+          "d": "08-17",
+          "c": 225.01
+        },
+        {
+          "d": "08-18",
+          "c": 219.74
+        },
+        {
+          "d": "08-19",
+          "c": 217.56
+        },
+        {
+          "d": "08-20",
+          "c": 216.85
+        },
+        {
+          "d": "08-21",
+          "c": 214.72
+        },
+        {
+          "d": "08-24",
+          "c": 208.48
+        },
+        {
+          "d": "08-25",
+          "c": 213.05
+        },
+        {
+          "d": "08-26",
+          "c": 209.66
+        },
+        {
+          "d": "08-27",
+          "c": 227.98
+        },
+        {
+          "d": "08-28",
+          "c": 217.55
+        }
+      ]
+    },
+    {
+      "id": "027fb893a1151ef3",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T16:45:22+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "says socialists have taken over the Democratic Party - Fox Business Lara Trump says socialists have taken over the",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.32,
+      "change": 1.52,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VTS1Ta1h4cnNSbUhnQVNWZFVWNE1sTzYtZTJIaTBUUVhXSXIwX0tnM1YzQ2JyNjVfanB1MlgwNnVMS0ZPRklIb0V6MlprU2Y3ekJ0LW9wMkxjZEk?oc=5",
+      "image": null,
+      "headline": "Lara Trump says socialists have taken over the Democratic Party - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 52.34
+        },
+        {
+          "d": "07-31",
+          "c": 51.94
+        },
+        {
+          "d": "08-03",
+          "c": 52.62
+        },
+        {
+          "d": "08-04",
+          "c": 52.82
+        },
+        {
+          "d": "08-05",
+          "c": 52.2
+        },
+        {
+          "d": "08-06",
+          "c": 55.37
+        },
+        {
+          "d": "08-07",
+          "c": 57.03
+        },
+        {
+          "d": "08-10",
+          "c": 56.33
+        },
+        {
+          "d": "08-11",
+          "c": 55.34
+        },
+        {
+          "d": "08-12",
+          "c": 55.97
+        },
+        {
+          "d": "08-13",
+          "c": 58.1
+        },
+        {
+          "d": "08-14",
+          "c": 61.41
+        },
+        {
+          "d": "08-17",
+          "c": 61.49
+        },
+        {
+          "d": "08-18",
+          "c": 61.23
+        },
+        {
+          "d": "08-19",
+          "c": 60.39
+        },
+        {
+          "d": "08-20",
+          "c": 60.45
+        },
+        {
+          "d": "08-21",
+          "c": 61.05
+        },
+        {
+          "d": "08-24",
+          "c": 61.59
+        },
+        {
+          "d": "08-25",
+          "c": 62.69
+        },
+        {
+          "d": "08-26",
+          "c": 62.23
+        },
+        {
+          "d": "08-27",
+          "c": 60.4
+        },
+        {
+          "d": "08-28",
+          "c": 61.32
+        }
+      ]
+    },
+    {
+      "id": "c300cc330387050e",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T15:51:57+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "The American Bazaar",
+      "type": "news",
+      "quote": "Trump praises Micron\u2019s $10 billion investment in US for AI research - The",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 932.86,
+      "change": -0.27,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWRKa3pxTEFJSkRIUG1KUXpuZjZWLVdocm1BRFExRWIxa1BlR19qNUpKS2ZWMXVGam1MdTF0MEpNU0xMVmpLUU0yZGNSYzREM2s3UDZORlVPZHlPY3NiU1REVXR4TUJPT0lkWmlsRzNyOVhrWko4MlluV191T0JfUUhVTm44cG9qeTFCWTAwSm1hZHpzOFFrSTZ6ZFlVRURLS2dfcjJSOExVZnRVM3lzRXROZUZKRzBB?oc=5",
+      "image": null,
+      "headline": "Trump praises Micron\u2019s $10 billion investment in US for AI research - The American Bazaar",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 874.66
+        },
+        {
+          "d": "07-31",
+          "c": 823.03
+        },
+        {
+          "d": "08-03",
+          "c": 829.5
+        },
+        {
+          "d": "08-04",
+          "c": 892.67
+        },
+        {
+          "d": "08-05",
+          "c": 893.19
+        },
+        {
+          "d": "08-06",
+          "c": 881.47
+        },
+        {
+          "d": "08-07",
+          "c": 877.57
+        },
+        {
+          "d": "08-10",
+          "c": 861.0
+        },
+        {
+          "d": "08-11",
+          "c": 868.52
+        },
+        {
+          "d": "08-12",
+          "c": 911.29
+        },
+        {
+          "d": "08-13",
+          "c": 949.83
+        },
+        {
+          "d": "08-14",
+          "c": 971.66
+        },
+        {
+          "d": "08-17",
+          "c": 1011.75
+        },
+        {
+          "d": "08-18",
+          "c": 940.76
+        },
+        {
+          "d": "08-19",
+          "c": 937.11
+        },
+        {
+          "d": "08-20",
+          "c": 974.33
+        },
+        {
+          "d": "08-21",
+          "c": 966.78
+        },
+        {
+          "d": "08-24",
+          "c": 910.43
+        },
+        {
+          "d": "08-25",
+          "c": 932.97
+        },
+        {
+          "d": "08-26",
+          "c": 938.4
+        },
+        {
+          "d": "08-27",
+          "c": 935.39
+        },
+        {
+          "d": "08-28",
+          "c": 932.86
+        }
+      ]
+    },
+    {
+      "id": "06542d0351f4c9f2",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T14:01:50+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Micron One of the World\u2019s \u201cHottest\u201d Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - Yahoo",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 217.55,
+      "change": -4.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFV2U3o4d1o4a0Q1OUtUdHVLbG9KTEludDdpZmtRNzBZQlJKc19wUGpxaHhndXYtakdMUnBVM09ESThWdXNJMWkzRERodF9yaGw4WjducVRwV3lYdFBNejhmdGZrOE1EeG9jQ2VVNjRhd21YcTVNRDNGc0pyd1RPTXgtX2hvM1ZZOTUyTUl0ZWdyU3FfYmJrYQ?oc=5",
+      "image": null,
+      "headline": "Trump Calls Micron One of the World\u2019s \u201cHottest\u201d Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 195.04
+        },
+        {
+          "d": "07-31",
+          "c": 200.75
+        },
+        {
+          "d": "08-03",
+          "c": 206.64
+        },
+        {
+          "d": "08-04",
+          "c": 211.94
+        },
+        {
+          "d": "08-05",
+          "c": 219.22
+        },
+        {
+          "d": "08-06",
+          "c": 218.99
+        },
+        {
+          "d": "08-07",
+          "c": 223.96
+        },
+        {
+          "d": "08-10",
+          "c": 217.55
+        },
+        {
+          "d": "08-11",
+          "c": 217.5
+        },
+        {
+          "d": "08-12",
+          "c": 224.09
+        },
+        {
+          "d": "08-13",
+          "c": 225.3
+        },
+        {
+          "d": "08-14",
+          "c": 225.16
+        },
+        {
+          "d": "08-17",
+          "c": 225.01
+        },
+        {
+          "d": "08-18",
+          "c": 219.74
+        },
+        {
+          "d": "08-19",
+          "c": 217.56
+        },
+        {
+          "d": "08-20",
+          "c": 216.85
+        },
+        {
+          "d": "08-21",
+          "c": 214.72
+        },
+        {
+          "d": "08-24",
+          "c": 208.48
+        },
+        {
+          "d": "08-25",
+          "c": 213.05
+        },
+        {
+          "d": "08-26",
+          "c": 209.66
+        },
+        {
+          "d": "08-27",
+          "c": 227.98
+        },
+        {
+          "d": "08-28",
+          "c": 217.55
+        }
+      ]
+    },
+    {
+      "id": "81a2c2b4bb12492c",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T14:01:50+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Calls Micron One of the World\u2019s \u201cHottest\u201d Companies a Day After Nvidia",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 932.86,
+      "change": -0.27,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFV2U3o4d1o4a0Q1OUtUdHVLbG9KTEludDdpZmtRNzBZQlJKc19wUGpxaHhndXYtakdMUnBVM09ESThWdXNJMWkzRERodF9yaGw4WjducVRwV3lYdFBNejhmdGZrOE1EeG9jQ2VVNjRhd21YcTVNRDNGc0pyd1RPTXgtX2hvM1ZZOTUyTUl0ZWdyU3FfYmJrYQ?oc=5",
+      "image": null,
+      "headline": "Trump Calls Micron One of the World\u2019s \u201cHottest\u201d Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 874.66
+        },
+        {
+          "d": "07-31",
+          "c": 823.03
+        },
+        {
+          "d": "08-03",
+          "c": 829.5
+        },
+        {
+          "d": "08-04",
+          "c": 892.67
+        },
+        {
+          "d": "08-05",
+          "c": 893.19
+        },
+        {
+          "d": "08-06",
+          "c": 881.47
+        },
+        {
+          "d": "08-07",
+          "c": 877.57
+        },
+        {
+          "d": "08-10",
+          "c": 861.0
+        },
+        {
+          "d": "08-11",
+          "c": 868.52
+        },
+        {
+          "d": "08-12",
+          "c": 911.29
+        },
+        {
+          "d": "08-13",
+          "c": 949.83
+        },
+        {
+          "d": "08-14",
+          "c": 971.66
+        },
+        {
+          "d": "08-17",
+          "c": 1011.75
+        },
+        {
+          "d": "08-18",
+          "c": 940.76
+        },
+        {
+          "d": "08-19",
+          "c": 937.11
+        },
+        {
+          "d": "08-20",
+          "c": 974.33
+        },
+        {
+          "d": "08-21",
+          "c": 966.78
+        },
+        {
+          "d": "08-24",
+          "c": 910.43
+        },
+        {
+          "d": "08-25",
+          "c": 932.97
+        },
+        {
+          "d": "08-26",
+          "c": 938.4
+        },
+        {
+          "d": "08-27",
+          "c": 935.39
+        },
+        {
+          "d": "08-28",
+          "c": 932.86
+        }
+      ]
+    },
     {
       "id": "8a5d6675f7f44f6f",
       "date": "Fri, 28 Aug 2026",
@@ -41244,368 +41784,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHhjX3hYR0FzUl80Y3BCYWdHckNvWWROTWV6dE5WZThLb1lkb3BvMnBxbllsa1JxZmRBN2xoOFUzdVh5MWMzUlRjVXBaT3RncFQtS1J6TkM5T1R6Q3pwazEzN1FPNXRCTWl0dk40cExWQW5BZFdUZUhXamlpWG95amJSZl8zTEw1dExkMnZuWUlicTdaR2NZUk85TVE0SGhNc3lySmlFdjlfeWMtWXQwb3RucWVBZw?oc=5",
       "image": null,
       "headline": "Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5% - CoinDesk",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "3fd1dfc59022726d",
-      "date": "Fri, 07 Aug 2026",
-      "ts": "2026-08-07T21:01:36+00:00",
-      "date_display": "Aug 07, 2026",
-      "source": "The Block",
-      "type": "news",
-      "quote": "Trump Media and Crypto.com end partnerships as companies shifts",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbFl4WUtZMGtXRWJkYzBJT21RTktuc1JWR0JvbDA4UGpHRFphVkxKa01WYnV4Z1A0ZWkyS3gxUGc2VS10aE9KMGhOLV9ZMU1obTZuWXhPUEtPRmtCTkFsSVpnbDhfM2w0cFZiZnhhMGRmbXdxeks2TEw5SE8xOHVkSjBHVFJPQmpkN3dndVhNWFFRLTdfdVI1cnhWMmJreWs3bUxvM0Y1N3RpV1Nlajh1eFRZc1VIbEh0aG9HdTEwM1dSQU1xWnBlUjV4N0kxN1ZGSXpRaTU0RDVwTUtocWdWTnBxQ2ZYQ0JicWVLOUtZSQ?oc=5",
-      "image": null,
-      "headline": "Trump Media and Crypto.com end partnerships as companies shifts priorities - The Block",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "3fcaff123becab30",
-      "date": "Fri, 07 Aug 2026",
-      "ts": "2026-08-07T21:01:36+00:00",
-      "date_display": "Aug 07, 2026",
-      "source": "The Block",
-      "type": "news",
-      "quote": "end partnerships as companies shifts priorities - The Block Trump Media and Crypto.com end partnerships as companies",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbFl4WUtZMGtXRWJkYzBJT21RTktuc1JWR0JvbDA4UGpHRFphVkxKa01WYnV4Z1A0ZWkyS3gxUGc2VS10aE9KMGhOLV9ZMU1obTZuWXhPUEtPRmtCTkFsSVpnbDhfM2w0cFZiZnhhMGRmbXdxeks2TEw5SE8xOHVkSjBHVFJPQmpkN3dndVhNWFFRLTdfdVI1cnhWMmJreWs3bUxvM0Y1N3RpV1Nlajh1eFRZc1VIbEh0aG9HdTEwM1dSQU1xWnBlUjV4N0kxN1ZGSXpRaTU0RDVwTUtocWdWTnBxQ2ZYQ0JicWVLOUtZSQ?oc=5",
-      "image": null,
-      "headline": "Trump Media and Crypto.com end partnerships as companies shifts priorities - The Block",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "827e948f662c0405",
-      "date": "Fri, 07 Aug 2026",
-      "ts": "2026-08-07T21:01:36+00:00",
-      "date_display": "Aug 07, 2026",
-      "source": "The Block",
-      "type": "news",
-      "quote": "Trump Media and Crypto.com end partnerships as companies shift",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBleXlYSjJ0eEpkNE4wQmtjTHNRVWF6X2VGSjhJVGVPR043eXBkc3ZNOU1vdFhnQm5DNEFVckdQcHZtYnpUMUJlc2F6RmRyaGx6REpNS1R2SVF5NmF1N2VhbDg1bmViS01idUtGcnhiVm12VlI2d2E1ZE1ob2dTdUFScmJ0WTZSS09tRzJjZXprYlBXOXhMcHNkSHFuODg5UGZ3YU5McXNLZ2R3VDVFRnphVVI2TndIUk9yNXBiaDg?oc=5",
-      "image": null,
-      "headline": "Trump Media and Crypto.com end partnerships as companies shift priorities - The Block",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "10b21a305fd86f9c",
-      "date": "Fri, 07 Aug 2026",
-      "ts": "2026-08-07T21:01:36+00:00",
-      "date_display": "Aug 07, 2026",
-      "source": "The Block",
-      "type": "news",
-      "quote": "end partnerships as companies shift priorities - The Block Trump Media and Crypto.com end partnerships as companies",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBleXlYSjJ0eEpkNE4wQmtjTHNRVWF6X2VGSjhJVGVPR043eXBkc3ZNOU1vdFhnQm5DNEFVckdQcHZtYnpUMUJlc2F6RmRyaGx6REpNS1R2SVF5NmF1N2VhbDg1bmViS01idUtGcnhiVm12VlI2d2E1ZE1ob2dTdUFScmJ0WTZSS09tRzJjZXprYlBXOXhMcHNkSHFuODg5UGZ3YU5McXNLZ2R3VDVFRnphVVI2TndIUk9yNXBiaDg?oc=5",
-      "image": null,
-      "headline": "Trump Media and Crypto.com end partnerships as companies shift priorities - The Block",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "09908705aba0ecfb",
-      "date": "Fri, 07 Aug 2026",
-      "ts": "2026-08-07T21:01:36+00:00",
-      "date_display": "Aug 07, 2026",
-      "source": "theblock.co",
-      "type": "news",
-      "quote": "Trump Media and Crypto.com end partnerships as companies shift",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBleXlYSjJ0eEpkNE4wQmtjTHNRVWF6X2VGSjhJVGVPR043eXBkc3ZNOU1vdFhnQm5DNEFVckdQcHZtYnpUMUJlc2F6RmRyaGx6REpNS1R2SVF5NmF1N2VhbDg1bmViS01idUtGcnhiVm12VlI2d2E1ZE1ob2dTdUFScmJ0WTZSS09tRzJjZXprYlBXOXhMcHNkSHFuODg5UGZ3YU5McXNLZ2R3VDVFRnphVVI2TndIUk9yNXBiaDg?oc=5",
-      "image": null,
-      "headline": "Trump Media and Crypto.com end partnerships as companies shift priorities - theblock.co",
       "channel": "News",
       "series": [
         {
