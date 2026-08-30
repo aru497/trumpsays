@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-30T13:02:39.325034+00:00",
+  "updated_at": "2026-08-30T17:38:56.834798+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e66d5f96afc88b99",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T14:36:44+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "reading: \"Lake Ontario \u2014 Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 346.59,
+      "change": 1.74,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "image": null,
+      "headline": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 333.66
+        },
+        {
+          "d": "07-31",
+          "c": 356.13
+        },
+        {
+          "d": "08-03",
+          "c": 373.51
+        },
+        {
+          "d": "08-04",
+          "c": 377.65
+        },
+        {
+          "d": "08-05",
+          "c": 362.43
+        },
+        {
+          "d": "08-06",
+          "c": 357.75
+        },
+        {
+          "d": "08-07",
+          "c": 354.3
+        },
+        {
+          "d": "08-10",
+          "c": 357.52
+        },
+        {
+          "d": "08-11",
+          "c": 343.8
+        },
+        {
+          "d": "08-12",
+          "c": 343.54
+        },
+        {
+          "d": "08-13",
+          "c": 346.36
+        },
+        {
+          "d": "08-14",
+          "c": 345.9
+        },
+        {
+          "d": "08-17",
+          "c": 344.0
+        },
+        {
+          "d": "08-18",
+          "c": 344.2
+        },
+        {
+          "d": "08-19",
+          "c": 344.72
+        },
+        {
+          "d": "08-20",
+          "c": 340.67
+        },
+        {
+          "d": "08-21",
+          "c": 344.82
+        },
+        {
+          "d": "08-24",
+          "c": 348.06
+        },
+        {
+          "d": "08-25",
+          "c": 346.96
+        },
+        {
+          "d": "08-26",
+          "c": 342.0
+        },
+        {
+          "d": "08-27",
+          "c": 340.65
+        },
+        {
+          "d": "08-28",
+          "c": 346.59
+        }
+      ]
+    },
+    {
+      "id": "97711e28aba6c3df",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T14:36:44+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "rename Lake Ontario as 'Lake America' Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario \u2014",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 13.88,
+      "change": -0.5,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "image": null,
+      "headline": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 14.7
+        },
+        {
+          "d": "07-31",
+          "c": 14.52
+        },
+        {
+          "d": "08-03",
+          "c": 14.28
+        },
+        {
+          "d": "08-04",
+          "c": 14.09
+        },
+        {
+          "d": "08-05",
+          "c": 13.98
+        },
+        {
+          "d": "08-06",
+          "c": 13.64
+        },
+        {
+          "d": "08-07",
+          "c": 13.83
+        },
+        {
+          "d": "08-10",
+          "c": 13.85
+        },
+        {
+          "d": "08-11",
+          "c": 13.98
+        },
+        {
+          "d": "08-12",
+          "c": 13.83
+        },
+        {
+          "d": "08-13",
+          "c": 13.89
+        },
+        {
+          "d": "08-14",
+          "c": 14.37
+        },
+        {
+          "d": "08-17",
+          "c": 14.05
+        },
+        {
+          "d": "08-18",
+          "c": 13.93
+        },
+        {
+          "d": "08-19",
+          "c": 14.5
+        },
+        {
+          "d": "08-20",
+          "c": 13.99
+        },
+        {
+          "d": "08-21",
+          "c": 14.41
+        },
+        {
+          "d": "08-24",
+          "c": 13.93
+        },
+        {
+          "d": "08-25",
+          "c": 13.95
+        },
+        {
+          "d": "08-26",
+          "c": 13.9
+        },
+        {
+          "d": "08-27",
+          "c": 13.95
+        },
+        {
+          "d": "08-28",
+          "c": 13.88
+        }
+      ]
+    },
     {
       "id": "18fa2155a155bae8",
       "date": "Sun, 30 Aug 2026",
@@ -41657,222 +41873,6 @@
         {
           "d": "08-07",
           "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "c1e88e0d84fa4cab",
-      "date": "Sat, 08 Aug 2026",
-      "ts": "2026-08-08T18:00:00+00:00",
-      "date_display": "Aug 08, 2026",
-      "source": "Bitbo",
-      "type": "news",
-      "quote": "Trump Media Scraps Crypto.com CRO Treasury Deal - Bitbo Trump Media",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ocFRLTk5OSmdiUVF0ZVpHckZpSk5VdEl4UlBOamlaQXdkeUhUaG9sRnM2a3pjc29uajI2Skx0REExWk9IUlBIcjFUaEtoS1BnN0FuU2NBb3JxSFVkcnU1d193?oc=5",
-      "image": null,
-      "headline": "Trump Media Scraps Crypto.com CRO Treasury Deal - Bitbo",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "30750fe8255533bd",
-      "date": "Sat, 08 Aug 2026",
-      "ts": "2026-08-08T16:38:00+00:00",
-      "date_display": "Aug 08, 2026",
-      "source": "The Hill",
-      "type": "news",
-      "quote": "Maher says Trump further left than Dems citing Intel stake: \u2018This is socialism\u2019 - The Hill Maher says Trump",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 101.65,
-      "change": 1.84,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWtlcmNWbC04ZEhpaWlHS2Fsc0NmOEdaOThtRTVFendlcmp0MkFSNFIyaGhickJ6bWFIbnZ2VGRkZWZPZlg1WEN2MjlGLUwxTmJLLU1GSE43d0w5clQxNk1BNEVkVTF0eE9wNk9NN2FmUFIyWDFmQ2MzcXBxbmJLQ2l2Q085SzdSampzSXk5TExIXzNNVGpuQlBGONIBoAFBVV95cUxNU1NqS011RGhwQ0VyLTMxSjh1cXlNUkU2TzlocVZHdXlkZDk4TUEzdFhXOG1TOHFKdUxEZ3JLZWpxQmlpX21BbnVwYlhmNDZWWEtqLUhMdFEwN2hoeWNkVy0ta2VJR0RxOTF4M3FLcGZuUmRYWWltNXJiV3JUOHlzWldWZGYwVER2bXRJQ0FaRGZ4dzFRY09DOXozdWw1TWx5?oc=5",
-      "image": null,
-      "headline": "Maher says Trump further left than Dems citing Intel stake: \u2018This is socialism\u2019 - The Hill",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 112.54
-        },
-        {
-          "d": "07-10",
-          "c": 109.84
-        },
-        {
-          "d": "07-13",
-          "c": 103.12
-        },
-        {
-          "d": "07-14",
-          "c": 107.76
-        },
-        {
-          "d": "07-15",
-          "c": 102.99
-        },
-        {
-          "d": "07-16",
-          "c": 96.98
-        },
-        {
-          "d": "07-17",
-          "c": 95.04
-        },
-        {
-          "d": "07-20",
-          "c": 97.06
-        },
-        {
-          "d": "07-21",
-          "c": 105.45
-        },
-        {
-          "d": "07-22",
-          "c": 102.62
-        },
-        {
-          "d": "07-23",
-          "c": 100.23
-        },
-        {
-          "d": "07-24",
-          "c": 92.32
-        },
-        {
-          "d": "07-27",
-          "c": 91.67
-        },
-        {
-          "d": "07-28",
-          "c": 86.3
-        },
-        {
-          "d": "07-29",
-          "c": 81.88
-        },
-        {
-          "d": "07-30",
-          "c": 91.13
-        },
-        {
-          "d": "07-31",
-          "c": 90.2
-        },
-        {
-          "d": "08-03",
-          "c": 91.0
-        },
-        {
-          "d": "08-04",
-          "c": 100.86
-        },
-        {
-          "d": "08-05",
-          "c": 101.06
-        },
-        {
-          "d": "08-06",
-          "c": 99.81
-        },
-        {
-          "d": "08-07",
-          "c": 101.65
         }
       ]
     }
