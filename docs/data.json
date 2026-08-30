@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-08-30T07:07:50.001175+00:00",
+  "updated_at": "2026-08-30T13:02:39.325034+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "18fa2155a155bae8",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T11:31:52+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise &",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 217.55,
+      "change": -4.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGpjUFlQS3BxR3ZibGJXUjNic2p0dURBazZwWnl6SUhOdmdod2Q3dUFaQnFUc1hWcUIwYWVIeEF3aG5hc21DamZXOXY0MVpvZWtjMzVqN0xncDdITEh3WFNtRWo0M2k5RHpKNTBFR2E3MGRmRXJST1pVc3c5cElGUlB2cE9ZVHM0bUhrbzIxWWphdDZPQWlyOWVNTFFOaEZxWDBhQU9GUGpUaFJoeklZQUppeEJOSHlyVU8xdnp5UVNVU0JBQVlPS3JvTFpXdw?oc=5",
+      "image": null,
+      "headline": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise & More - Benzinga",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 195.04
+        },
+        {
+          "d": "07-31",
+          "c": 200.75
+        },
+        {
+          "d": "08-03",
+          "c": 206.64
+        },
+        {
+          "d": "08-04",
+          "c": 211.94
+        },
+        {
+          "d": "08-05",
+          "c": 219.22
+        },
+        {
+          "d": "08-06",
+          "c": 218.99
+        },
+        {
+          "d": "08-07",
+          "c": 223.96
+        },
+        {
+          "d": "08-10",
+          "c": 217.55
+        },
+        {
+          "d": "08-11",
+          "c": 217.5
+        },
+        {
+          "d": "08-12",
+          "c": 224.09
+        },
+        {
+          "d": "08-13",
+          "c": 225.3
+        },
+        {
+          "d": "08-14",
+          "c": 225.16
+        },
+        {
+          "d": "08-17",
+          "c": 225.01
+        },
+        {
+          "d": "08-18",
+          "c": 219.74
+        },
+        {
+          "d": "08-19",
+          "c": 217.56
+        },
+        {
+          "d": "08-20",
+          "c": 216.85
+        },
+        {
+          "d": "08-21",
+          "c": 214.72
+        },
+        {
+          "d": "08-24",
+          "c": 208.48
+        },
+        {
+          "d": "08-25",
+          "c": 213.05
+        },
+        {
+          "d": "08-26",
+          "c": 209.66
+        },
+        {
+          "d": "08-27",
+          "c": 227.98
+        },
+        {
+          "d": "08-28",
+          "c": 217.55
+        }
+      ]
+    },
+    {
+      "id": "8a9bcebd5f9f4199",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T11:31:52+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise & More - Benzinga Consumer",
+      "company": "Salesforce",
+      "ticker": "CRM",
+      "price": 256.0,
+      "change": 1.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGpjUFlQS3BxR3ZibGJXUjNic2p0dURBazZwWnl6SUhOdmdod2Q3dUFaQnFUc1hWcUIwYWVIeEF3aG5hc21DamZXOXY0MVpvZWtjMzVqN0xncDdITEh3WFNtRWo0M2k5RHpKNTBFR2E3MGRmRXJST1pVc3c5cElGUlB2cE9ZVHM0bUhrbzIxWWphdDZPQWlyOWVNTFFOaEZxWDBhQU9GUGpUaFJoeklZQUppeEJOSHlyVU8xdnp5UVNVU0JBQVlPS3JvTFpXdw?oc=5",
+      "image": null,
+      "headline": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise & More - Benzinga",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 180.71
+        },
+        {
+          "d": "07-31",
+          "c": 184.02
+        },
+        {
+          "d": "08-03",
+          "c": 185.95
+        },
+        {
+          "d": "08-04",
+          "c": 190.99
+        },
+        {
+          "d": "08-05",
+          "c": 192.98
+        },
+        {
+          "d": "08-06",
+          "c": 186.77
+        },
+        {
+          "d": "08-07",
+          "c": 192.74
+        },
+        {
+          "d": "08-10",
+          "c": 197.51
+        },
+        {
+          "d": "08-11",
+          "c": 197.47
+        },
+        {
+          "d": "08-12",
+          "c": 193.32
+        },
+        {
+          "d": "08-13",
+          "c": 201.37
+        },
+        {
+          "d": "08-14",
+          "c": 196.21
+        },
+        {
+          "d": "08-17",
+          "c": 190.97
+        },
+        {
+          "d": "08-18",
+          "c": 196.14
+        },
+        {
+          "d": "08-19",
+          "c": 206.09
+        },
+        {
+          "d": "08-20",
+          "c": 205.43
+        },
+        {
+          "d": "08-21",
+          "c": 209.17
+        },
+        {
+          "d": "08-24",
+          "c": 209.06
+        },
+        {
+          "d": "08-25",
+          "c": 205.69
+        },
+        {
+          "d": "08-26",
+          "c": 205.62
+        },
+        {
+          "d": "08-27",
+          "c": 252.05
+        },
+        {
+          "d": "08-28",
+          "c": 256.0
+        }
+      ]
+    },
     {
       "id": "7a566e8cb6f2f51a",
       "date": "Sat, 29 Aug 2026",
@@ -41657,222 +41873,6 @@
         {
           "d": "08-07",
           "c": 101.65
-        }
-      ]
-    },
-    {
-      "id": "663f02529208839a",
-      "date": "Sat, 08 Aug 2026",
-      "ts": "2026-08-08T14:35:00+00:00",
-      "date_display": "Aug 08, 2026",
-      "source": "foreignpolicyjournal.com",
-      "type": "news",
-      "quote": "Trump Media (NYSE: DJT) Retreats From Crypto.com Partnerships, Shifts",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3NRMjBkVWdZeGo2dXJ2aUdYcTZiWW1MdVJwRkdqbThmWVV0eG9yT3dOWU83OTJQSHRIRmU0SnUwUENIeTBVbFFUcHhhTERZNTViejl2T2FScHU2ckJyekEtZzZnanlZZnVVckF2V2JDSkZUc1gtdnNrU3l6bXAyVUJEZWMxY1N2NFZ1dWhHQmI1cXZBdGh6WEI4R2xtRE9EUE9teXZ2N0lUTUo4R3FZV3BkNTJxRVh0VE9LX0N0czlpRjN3RWVKVUxtWGp5NkE5M3pMQzJoX0pYdW9S?oc=5",
-      "image": null,
-      "headline": "Trump Media (NYSE: DJT) Retreats From Crypto.com Partnerships, Shifts Focus To Fusion Energy Merger - foreignpolicyjournal.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "799b8d91fe4960ea",
-      "date": "Sat, 08 Aug 2026",
-      "ts": "2026-08-08T12:12:43+00:00",
-      "date_display": "Aug 08, 2026",
-      "source": "AltcoinBuzz",
-      "type": "news",
-      "quote": "Trump Media pulls back from crypto deals with Crypto.com - AltcoinBuzz",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Hc2JXbEFWdWI0V1VqNDJfT0dmWnlWb3V6bHBKc2hUZ0xKbm9Wcm1nWHpoRm9TNFR6cWZEcExFTnZjNk11ZWNwXzRaTlgzRkZ0UE9jN1Y5NHlHd1dFVXdWbFNJRTZKU0t3djdsTXEyWHhJc3ZWY2dPY21lNFRvQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media pulls back from crypto deals with Crypto.com - AltcoinBuzz",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
         }
       ]
     }
