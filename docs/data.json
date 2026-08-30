@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-08-30T20:12:26.198377+00:00",
+  "updated_at": "2026-08-30T22:50:54.871558+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1d55d5448ff914a7",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T22:38:24+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Lake Ontario now called Lake America on Google Maps for U.S. users after Trump ordered name change Google",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 346.59,
+      "change": 1.74,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/nation/lake-ontario-now-called-lake-america-on-google-maps-for-u-s-users-after-trump-ordered-name-change",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-30T163752Z_1085179695_RC2W8NAOMDTK_RTRMADP_3_USA-TRUMP-CANADA-GOOGLE-1024x576.jpg",
+      "headline": "Lake Ontario now called Lake America on Google Maps for U.S. users after Trump ordered name change",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 333.66
+        },
+        {
+          "d": "07-31",
+          "c": 356.13
+        },
+        {
+          "d": "08-03",
+          "c": 373.51
+        },
+        {
+          "d": "08-04",
+          "c": 377.65
+        },
+        {
+          "d": "08-05",
+          "c": 362.43
+        },
+        {
+          "d": "08-06",
+          "c": 357.75
+        },
+        {
+          "d": "08-07",
+          "c": 354.3
+        },
+        {
+          "d": "08-10",
+          "c": 357.52
+        },
+        {
+          "d": "08-11",
+          "c": 343.8
+        },
+        {
+          "d": "08-12",
+          "c": 343.54
+        },
+        {
+          "d": "08-13",
+          "c": 346.36
+        },
+        {
+          "d": "08-14",
+          "c": 345.9
+        },
+        {
+          "d": "08-17",
+          "c": 344.0
+        },
+        {
+          "d": "08-18",
+          "c": 344.2
+        },
+        {
+          "d": "08-19",
+          "c": 344.72
+        },
+        {
+          "d": "08-20",
+          "c": 340.67
+        },
+        {
+          "d": "08-21",
+          "c": 344.82
+        },
+        {
+          "d": "08-24",
+          "c": 348.06
+        },
+        {
+          "d": "08-25",
+          "c": 346.96
+        },
+        {
+          "d": "08-26",
+          "c": 342.0
+        },
+        {
+          "d": "08-27",
+          "c": 340.65
+        },
+        {
+          "d": "08-28",
+          "c": 346.59
+        }
+      ]
+    },
+    {
+      "id": "7a43f1111b40d2e4",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T22:05:11+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "and sports participation. Republicans are leaning on a strategy that proved successful in 2024.",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 127.31,
+      "change": -7.34,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/why-republicans-are-focusing-on-transgender-issues-in-competitive-2026-campaigns",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-01-13T152753Z_186191565_RC2F0JAY3M95_RTRMADP_3_USA-COURT-TRANSGENDER-SPORTS-1024x683.jpg",
+      "headline": "Why Republicans are focusing on transgender issues in competitive 2026 campaigns",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 97.74
+        },
+        {
+          "d": "07-31",
+          "c": 93.28
+        },
+        {
+          "d": "08-03",
+          "c": 94.86
+        },
+        {
+          "d": "08-04",
+          "c": 97.65
+        },
+        {
+          "d": "08-05",
+          "c": 98.37
+        },
+        {
+          "d": "08-06",
+          "c": 96.85
+        },
+        {
+          "d": "08-07",
+          "c": 100.01
+        },
+        {
+          "d": "08-10",
+          "c": 97.33
+        },
+        {
+          "d": "08-11",
+          "c": 96.09
+        },
+        {
+          "d": "08-12",
+          "c": 94.83
+        },
+        {
+          "d": "08-13",
+          "c": 97.1
+        },
+        {
+          "d": "08-14",
+          "c": 93.04
+        },
+        {
+          "d": "08-17",
+          "c": 97.68
+        },
+        {
+          "d": "08-18",
+          "c": 92.52
+        },
+        {
+          "d": "08-19",
+          "c": 104.25
+        },
+        {
+          "d": "08-20",
+          "c": 112.39
+        },
+        {
+          "d": "08-21",
+          "c": 119.25
+        },
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        }
+      ]
+    },
+    {
+      "id": "9035c287c636e671",
+      "date": "Sun, 30 Aug 2026",
+      "ts": "2026-08-30T20:11:00+00:00",
+      "date_display": "Aug 30, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "move to US, says \u2018I don\u2019t want Canadian anything\u2019 - Fox Business Trump urges Canadian companies to immediately",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.32,
+      "change": 1.52,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU51RnB0X01sb2habWcyc3lKcFdoNmtMNlVwQi1KOG1QWDVmakgtQkRPeEx6RDc3a05lMVJZZ09sYnpIWEFuUnY4bklhT0VENkhWbU9uVDN6U1dCekZTQWt4WjhJd1JwWmwwZWJnZE5xdXphZkVkZVFxY3JoNWR2SUxNVjlVMmdUTms2WEMtQllFa2FPQXI5TmlSUVZONzFLTThPTDZEcENuWUNOTkpLRWRkNzZpOW85bnBrenh1WdIBxAFBVV95cUxQWlo3V2JSQmFiWnVFc183WHNIUksxRG9lMkc3cFIwS05VcWhReGNKN2l1eENPVFNfcXM4NjU2YkpyZ2VVR0RZSFkwTE5VdVJUcVhsVmZuYzVMcmRoRDlIUmVRQTdGSk5pNlBwNUpKaWRLdXM1ZlFFNlczUFMtVGJvWGZkMG1nYm1FT3VybHNTUnIwV2lJVklUSmF3X2hScmswU0lwV1ZRYzdQQ0V0bUo4dFpyMEN5eFI1VFB1M1JfbmIxc3Ez?oc=5",
+      "image": null,
+      "headline": "Trump urges Canadian companies to immediately move to US, says \u2018I don\u2019t want Canadian anything\u2019 - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 52.34
+        },
+        {
+          "d": "07-31",
+          "c": 51.94
+        },
+        {
+          "d": "08-03",
+          "c": 52.62
+        },
+        {
+          "d": "08-04",
+          "c": 52.82
+        },
+        {
+          "d": "08-05",
+          "c": 52.2
+        },
+        {
+          "d": "08-06",
+          "c": 55.37
+        },
+        {
+          "d": "08-07",
+          "c": 57.03
+        },
+        {
+          "d": "08-10",
+          "c": 56.33
+        },
+        {
+          "d": "08-11",
+          "c": 55.34
+        },
+        {
+          "d": "08-12",
+          "c": 55.97
+        },
+        {
+          "d": "08-13",
+          "c": 58.1
+        },
+        {
+          "d": "08-14",
+          "c": 61.41
+        },
+        {
+          "d": "08-17",
+          "c": 61.49
+        },
+        {
+          "d": "08-18",
+          "c": 61.23
+        },
+        {
+          "d": "08-19",
+          "c": 60.39
+        },
+        {
+          "d": "08-20",
+          "c": 60.45
+        },
+        {
+          "d": "08-21",
+          "c": 61.05
+        },
+        {
+          "d": "08-24",
+          "c": 61.59
+        },
+        {
+          "d": "08-25",
+          "c": 62.69
+        },
+        {
+          "d": "08-26",
+          "c": 62.23
+        },
+        {
+          "d": "08-27",
+          "c": 60.4
+        },
+        {
+          "d": "08-28",
+          "c": 61.32
+        }
+      ]
+    },
     {
       "id": "e66d5f96afc88b99",
       "date": "Sun, 30 Aug 2026",
@@ -29483,6 +29807,114 @@
       ]
     },
     {
+      "id": "9b266a6947e65089",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T07:00:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "Trump sued over Truth Social's $100,000 early access service - BBC Trump sued over",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.64,
+      "change": -1.33,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVFBxU19pUEU5SWFqSDBhU2d4Sl9WMkdDRmlTVkg1XzFxWURVZmpyeDhJQmxhbW9zMzBqNWZTbFptSlQ0ZVBzSU5aNkJUVGVPX1pKRkxwQndmQQ?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social's $100,000 early access service - BBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-30",
+          "c": 10.38
+        },
+        {
+          "d": "07-31",
+          "c": 9.86
+        },
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        }
+      ]
+    },
+    {
       "id": "90add4ef930e5c86",
       "date": "Wed, 12 Aug 2026",
       "ts": "2026-08-12T02:22:43+00:00",
@@ -41445,434 +41877,6 @@
         {
           "d": "08-10",
           "c": 9.29
-        }
-      ]
-    },
-    {
-      "id": "2019e3d27a45eb6e",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T07:00:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump media company announces a massive loss and new turnaround effort",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.3,
-      "change": 2.2,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnRacXNDWXByTWFyX05Wb0J6WWZrNGRjR0lwcEdyU2ttWmFuM2VmTGdaV1YxQUl2UXV3enVSeTVOYTFQTzhVbkZWVlFUM3pGbTJzdzJVMzlXNHBCYUFBTXVzV1MySWxDUUpDTTBJay10YzdEaGlKNjhDUWhwenBCZ1RRbVFIVllWN1p4ODR3ZjF3MWVtVS1kVWlpSkJISkVoX0VPbA?oc=5",
-      "image": null,
-      "headline": "Trump media company announces a massive loss and new turnaround effort - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        }
-      ]
-    },
-    {
-      "id": "36bacf3a999f43fa",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T07:00:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Trump Media (DJT) Stock Is Sliding Today: What\u2019s Behind the Drop? -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.2,
-      "change": 7.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM19fdDR6VWhyc2RqUDBvZUVna0pRME9LMlpYTTA4SUZvalJVcF9PQ2wxejZxbXJLV3NfaHBNc1UzVGlpVXB0MDBiSTl6RjVHSEhVT3dtUnZuZkFMWHB3MGxBblNNbnpreWxUUFp2SGhxT3R1OTB1RWp3c1pHQkdCbi0yM2VOclgxcE50VmdtalJ0ZkNqM2tIcGpDMEotdU9OUnZTM2c2RQ?oc=5",
-      "image": null,
-      "headline": "Trump Media (DJT) Stock Is Sliding Today: What\u2019s Behind the Drop? - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 10.2
-        }
-      ]
-    },
-    {
-      "id": "b6ab5f8811fd72a8",
-      "date": "Sun, 09 Aug 2026",
-      "ts": "2026-08-09T19:24:25+00:00",
-      "date_display": "Aug 09, 2026",
-      "source": "FishDuck",
-      "type": "news",
-      "quote": "Trump Media, Crypto.com Scrap Plan to Bring Prediction Markets to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXlfeTlLQmVoZXFMUXd1SHVaLTByUERGTW5kRzdPSmVDX2N1VlgwX3ljYkoxQ2llS0YxMEV5UnRyRjVjbnc4aGc1a2NISVVTQzJwalkzLVptVkRWVnFWeW5tc0pyaWl5cUNZMFZXUlVEd1YxVVdsRzd6NUtIWnZrMUhmY3JER1o4VHBYX3ZYOUhNMVdrYV9UNFBJbG5qbTZxU0ItZXZSdm1hX3M?oc=5",
-      "image": null,
-      "headline": "Trump Media, Crypto.com Scrap Plan to Bring Prediction Markets to Truth Social - FishDuck",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        }
-      ]
-    },
-    {
-      "id": "a72fc22378f9c09c",
-      "date": "Sun, 09 Aug 2026",
-      "ts": "2026-08-09T10:52:53+00:00",
-      "date_display": "Aug 09, 2026",
-      "source": "incrypted",
-      "type": "news",
-      "quote": "Trump Media Pulled Out of Two Crypto Projects with Crypto.com -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 10.21,
-      "change": 3.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlkzazZ0eUozS3pha3ZiVlViMUt2dFNlRlQ1blJ3VDdkU2hlUFRiTk1qRUtabjVELWtMSVJnRFQtSmFDc0FibjhkcUwxVUduVFh4cmpPUHBZeDdTSURaemlGaWZYTTNMdm5tb19HMGJPMTFXbkpPSUZCeWI3Z1diVno3Y0lMcF9Hck10aWVka2g?oc=5",
-      "image": null,
-      "headline": "Trump Media Pulled Out of Two Crypto Projects with Crypto.com - incrypted",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-09",
-          "c": 8.55
-        },
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
         }
       ]
     }
