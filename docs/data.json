@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-31T06:35:56.478311+00:00",
+  "updated_at": "2026-08-31T14:32:45.030375+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3f32485ec23fa78d",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T11:47:35+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "blocks certain journalists from covering G20 meeting The New York Times said in a statement that denying American journalists",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 67.79,
+      "change": -0.54,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/treasury-department-blocks-certain-journalists-from-covering-g20-meeting",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-31T043408Z_1362435910_RC265NAR74MU_RTRMADP_3_G20-FINANCE-BESSENT-BONDS-1024x683.jpg",
+      "headline": "Treasury Department blocks certain journalists from covering G20 meeting",
+      "channel": "News",
+      "series": [
+        {
+          "d": "07-31",
+          "c": 74.89
+        },
+        {
+          "d": "08-03",
+          "c": 75.44
+        },
+        {
+          "d": "08-04",
+          "c": 75.61
+        },
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.79
+        }
+      ]
+    },
     {
       "id": "1d55d5448ff914a7",
       "date": "Sun, 30 Aug 2026",
@@ -41773,114 +41881,6 @@
         {
           "d": "08-10",
           "c": 64.72
-        }
-      ]
-    },
-    {
-      "id": "b4e092f99aa58877",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T15:43:14+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times Traffic to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.23,
-      "change": -9.6,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjkwcW9iTERRQ1Q5SmQ2YWhCOXRRQ2pIV1BxS2JXLXpyQlo4eWFnTFJiYUdyTy01UVFlbk82QjY4U05qOEJGNjNGNG1qa2pLNzc1bDJ6bmVRWmxsMjJ5WHg0dllqa25IOTJqbW5xZksxSExfQ3V5cXo5cEJYR0d6UWtlb3E3YTZzZkYzeQ?oc=5",
-      "image": null,
-      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.23
         }
       ]
     }
