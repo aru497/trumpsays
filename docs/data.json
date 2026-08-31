@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-08-31T14:32:45.030375+00:00",
+  "updated_at": "2026-08-31T20:26:51.227381+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "301e08aab74ddd72",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T17:00:01+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "American Airlines announces Trump Accounts matching program - CNBC American",
+      "company": "American Airlines",
+      "ticker": "AAL",
+      "price": 13.43,
+      "change": -1.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnMzUXhiczVqNGlXMHJBeTdBQVJIcnBtdmdtZm1xcS1uOUhldWdMQVkzSXVmYTRZcHpPS1B6WkMtTGx5bGJHazhGTDRqTllHUThSRjdobFNHQkwwMnl4TndDaTZQNVdKOUxyeEswb19rX2NUYkQ2Q0pxY0FKU2FvWDN6Ni1WdnF3N0pWWDNqc9IBlAFBVV95cUxQVFdzejFSeGNwck9GYXFlbFpsVDZKX09pSHZxeFh5aDBCWU9kWDQyaXdTby16b2VNdGJMN1l0Qk0wQ1o1dGdSVThTVTJQNWFzUUtReExLWkRGeXYwNE1adDktR3ZMVldSWHh1SDJfOF9nOU94TnAwXzBuTl90TW1KZEd0bm5YZWRCNVVUQXRvSUhYVmdD?oc=5",
+      "image": null,
+      "headline": "American Airlines announces Trump Accounts matching program - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 16.04
+        },
+        {
+          "d": "08-04",
+          "c": 16.56
+        },
+        {
+          "d": "08-05",
+          "c": 16.58
+        },
+        {
+          "d": "08-06",
+          "c": 16.03
+        },
+        {
+          "d": "08-07",
+          "c": 15.94
+        },
+        {
+          "d": "08-10",
+          "c": 15.0
+        },
+        {
+          "d": "08-11",
+          "c": 15.29
+        },
+        {
+          "d": "08-12",
+          "c": 14.93
+        },
+        {
+          "d": "08-13",
+          "c": 15.06
+        },
+        {
+          "d": "08-14",
+          "c": 14.83
+        },
+        {
+          "d": "08-17",
+          "c": 14.43
+        },
+        {
+          "d": "08-18",
+          "c": 14.05
+        },
+        {
+          "d": "08-19",
+          "c": 13.86
+        },
+        {
+          "d": "08-20",
+          "c": 13.52
+        },
+        {
+          "d": "08-21",
+          "c": 13.82
+        },
+        {
+          "d": "08-24",
+          "c": 13.63
+        },
+        {
+          "d": "08-25",
+          "c": 13.95
+        },
+        {
+          "d": "08-26",
+          "c": 13.84
+        },
+        {
+          "d": "08-27",
+          "c": 13.72
+        },
+        {
+          "d": "08-28",
+          "c": 13.64
+        },
+        {
+          "d": "08-31",
+          "c": 13.43
+        }
+      ]
+    },
+    {
+      "id": "90f64fc32e00c0a7",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T16:17:54+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "FOX 2 Detroit",
+      "type": "news",
+      "quote": "Canada announces retaliatory tariffs on U.S. goods - FOX 2 Detroit Canada announces retaliatory tariffs on U.S.",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.22,
+      "change": -1.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGxFdDJkeUU1Nm91N0F0dGNHdEJqdkE5UXVxTzZHZFJpYUU4QXp1YmJDRWNHRTFpbXVhNlljaHRYRk8zZFBhdHMyUnF1SU5oUThqM2VtdVJ4b1RsTmRCd3A4ZXhKV3hCZ1RGY012NTB1eXd3OFpPTjNDRVdTSklOLVFudmp2S1VwRHFWWFR2d1hSeHFuNXN6UjExaWdLaUlja0840gGoAUFVX3lxTFAyLWJ1amNEZGFnMmJpRGl6dE92UmFRWEwzdnJCRkQ0Yy1tSGpVMVRZRS1fZXVrQ2I2X2VUTy16VFo1bnkyenRXNGk2ODJYZEhVakZRUk4tN2dKSFktd3hLUHhXMUZxcHZqUDJQZ0IxNTNRYTA5TzdlQkRBV2szODdrYU5lMXByMm9LNjJfU1UwdXZRVDZwNVhuV3ptUXU5akxuNXZqdHdpLQ?oc=5",
+      "image": null,
+      "headline": "Canada announces retaliatory tariffs on U.S. goods - FOX 2 Detroit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 52.62
+        },
+        {
+          "d": "08-04",
+          "c": 52.82
+        },
+        {
+          "d": "08-05",
+          "c": 52.2
+        },
+        {
+          "d": "08-06",
+          "c": 55.37
+        },
+        {
+          "d": "08-07",
+          "c": 57.03
+        },
+        {
+          "d": "08-10",
+          "c": 56.33
+        },
+        {
+          "d": "08-11",
+          "c": 55.34
+        },
+        {
+          "d": "08-12",
+          "c": 55.97
+        },
+        {
+          "d": "08-13",
+          "c": 58.1
+        },
+        {
+          "d": "08-14",
+          "c": 61.41
+        },
+        {
+          "d": "08-17",
+          "c": 61.49
+        },
+        {
+          "d": "08-18",
+          "c": 61.23
+        },
+        {
+          "d": "08-19",
+          "c": 60.39
+        },
+        {
+          "d": "08-20",
+          "c": 60.45
+        },
+        {
+          "d": "08-21",
+          "c": 61.05
+        },
+        {
+          "d": "08-24",
+          "c": 61.59
+        },
+        {
+          "d": "08-25",
+          "c": 62.69
+        },
+        {
+          "d": "08-26",
+          "c": 62.23
+        },
+        {
+          "d": "08-27",
+          "c": 60.4
+        },
+        {
+          "d": "08-28",
+          "c": 61.32
+        },
+        {
+          "d": "08-31",
+          "c": 60.22
+        }
+      ]
+    },
+    {
+      "id": "f3cb247af250e9d3",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T13:06:00+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "allegedly sold at Trump-promoted Freedom Fuel stations - Fox Business Fuel supplier sues distributor for nearly $4M",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.22,
+      "change": -1.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGVDQ1NLZVJUcGlJZjIyUTJ5dmNXVDBuRWlkakFlQ0E4TW43RDM1ekdNdEZYdjhCVjBSYmFaRVVvVFNra045Nm9TbVBKdzdsQnRxXzlHZUpwaXdTQ3dSNHNWWUo3SXFxaFJLZ1NMSFFNM052aU1LcFlua1FONXk4OFItWmNrcjVaQ21r0gGQAUFVX3lxTE5GZktZRnQ4cXVZTks5YnByWGp2UGtUZHFiTVFFVmlrTDFiclRMa1lYTkszNkdseUtOVksteFZqOGx6SGc1bl9QSWxNVDhtdE44SnlRbXNSUVBlVDNqeGYwd293Z0pCZUh2TFphOFBFYlBnR1AwUUhBb2xlcjZIQVQwenk0TEt2Y3Z5dzVZaUNPeA?oc=5",
+      "image": null,
+      "headline": "Fuel supplier sues distributor for nearly $4M over gas allegedly sold at Trump-promoted Freedom Fuel stations - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 52.62
+        },
+        {
+          "d": "08-04",
+          "c": 52.82
+        },
+        {
+          "d": "08-05",
+          "c": 52.2
+        },
+        {
+          "d": "08-06",
+          "c": 55.37
+        },
+        {
+          "d": "08-07",
+          "c": 57.03
+        },
+        {
+          "d": "08-10",
+          "c": 56.33
+        },
+        {
+          "d": "08-11",
+          "c": 55.34
+        },
+        {
+          "d": "08-12",
+          "c": 55.97
+        },
+        {
+          "d": "08-13",
+          "c": 58.1
+        },
+        {
+          "d": "08-14",
+          "c": 61.41
+        },
+        {
+          "d": "08-17",
+          "c": 61.49
+        },
+        {
+          "d": "08-18",
+          "c": 61.23
+        },
+        {
+          "d": "08-19",
+          "c": 60.39
+        },
+        {
+          "d": "08-20",
+          "c": 60.45
+        },
+        {
+          "d": "08-21",
+          "c": 61.05
+        },
+        {
+          "d": "08-24",
+          "c": 61.59
+        },
+        {
+          "d": "08-25",
+          "c": 62.69
+        },
+        {
+          "d": "08-26",
+          "c": 62.23
+        },
+        {
+          "d": "08-27",
+          "c": 60.4
+        },
+        {
+          "d": "08-28",
+          "c": 61.32
+        },
+        {
+          "d": "08-31",
+          "c": 60.22
+        }
+      ]
+    },
+    {
+      "id": "c6bf8d1a36435322",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T13:03:09+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Apple may change 'Lake Ontario' to 'Lake America' soon after",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 316.85,
+      "change": -0.89,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEIwd3dEcy1NOXh4R29vMkdGWWpxSVJTT0RmTVRMekZZYmtOTWpxOTB0LXNfZWpZV2Ftd2JFY3Uzd3dYdElrVkxzQVAwLTQ2SkczUFhsZGFJUTZrZWhGbjF3NnNWWUlyeUJkLTN5SkkyNmJZSmhUREcybWE5bnlVNW92cUU1OWVVSE1uVTBzWnhxZnRWai1yYlF6SzJlLWJpRk9mMnFJallIcGh6ejl3b3hJM2hSV2JLNnlLUkRTNGk?oc=5",
+      "image": null,
+      "headline": "Apple may change 'Lake Ontario' to 'Lake America' soon after talk with Trump, U.S. Interior Secretary says - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 303.16
+        },
+        {
+          "d": "08-04",
+          "c": 309.11
+        },
+        {
+          "d": "08-05",
+          "c": 310.73
+        },
+        {
+          "d": "08-06",
+          "c": 312.14
+        },
+        {
+          "d": "08-07",
+          "c": 313.06
+        },
+        {
+          "d": "08-10",
+          "c": 308.26
+        },
+        {
+          "d": "08-11",
+          "c": 304.91
+        },
+        {
+          "d": "08-12",
+          "c": 302.25
+        },
+        {
+          "d": "08-13",
+          "c": 305.26
+        },
+        {
+          "d": "08-14",
+          "c": 305.93
+        },
+        {
+          "d": "08-17",
+          "c": 305.59
+        },
+        {
+          "d": "08-18",
+          "c": 310.03
+        },
+        {
+          "d": "08-19",
+          "c": 316.83
+        },
+        {
+          "d": "08-20",
+          "c": 311.3
+        },
+        {
+          "d": "08-21",
+          "c": 309.35
+        },
+        {
+          "d": "08-24",
+          "c": 310.34
+        },
+        {
+          "d": "08-25",
+          "c": 309.9
+        },
+        {
+          "d": "08-26",
+          "c": 313.45
+        },
+        {
+          "d": "08-27",
+          "c": 314.58
+        },
+        {
+          "d": "08-28",
+          "c": 319.7
+        },
+        {
+          "d": "08-31",
+          "c": 316.85
+        }
+      ]
+    },
     {
       "id": "3f32485ec23fa78d",
       "date": "Mon, 31 Aug 2026",
@@ -11551,6 +11967,110 @@
         {
           "d": "08-20",
           "c": 434.78
+        }
+      ]
+    },
+    {
+      "id": "ae96d9152efa5389",
+      "date": "Fri, 21 Aug 2026",
+      "ts": "2026-08-21T07:00:00+00:00",
+      "date_display": "Aug 21, 2026",
+      "source": "usatoday.com",
+      "type": "news",
+      "quote": "Truth Social is selling faster access to Trump posts. Is that legal? -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.77,
+      "change": 1.35,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
+      "image": null,
+      "headline": "Truth Social is selling faster access to Trump posts. Is that legal? - usatoday.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
         }
       ]
     },
@@ -41341,546 +41861,6 @@
         {
           "d": "08-10",
           "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "31e1837c4a6f605f",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T18:59:53+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "Yahoo News New Zealand",
-      "type": "news",
-      "quote": "Traffic to Trump\u2019s Truth Social suffers double-digit decline over summer as rival sites",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.27,
-      "change": -9.21,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbHdaWG0yS1JRSVltc3ZPeHgtMnVQMlRrcUNhamZpb1lTTk1GaWRGUXJMQzQ4OWcyZVBpSjIxVDllVkhiTWxSSkwwZ3h1cDNEci0wT21RdFFGZGhwXzdielRNamJ6VVZEd2N4dlA0VzBUZzl3WmQ0VnVTTVd4ampaaA?oc=5",
-      "image": null,
-      "headline": "Traffic to Trump\u2019s Truth Social suffers double-digit decline over summer as rival sites see numbers climb - Yahoo News New Zealand",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.27
-        }
-      ]
-    },
-    {
-      "id": "85bb318da929bcdd",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T18:49:38+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "GV Wire",
-      "type": "news",
-      "quote": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - GV Wire Traffic to Trump\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.51,
-      "change": 1.92,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2hrSXhEYUJHSk9sN1Jtb184SFEwM1BKNmNJXzRSa2gxbzJFbTNOZG5UVFYtTzNrQlFBNnkzMmV3dHR2SU1zLVhTOW1mazJ3N1FOSUp5c2s2QlZnVjVZdmdGVUlpb0hXVUZuQnRic3U1ekN1dzY4MnNoMmZadmVhd1NnR1NSc2pOV2hvNHlsSXA?oc=5",
-      "image": null,
-      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - GV Wire",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        }
-      ]
-    },
-    {
-      "id": "c142f77e29dc4efc",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T18:49:31+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Media Stock Falls Ahead of Q2 Earnings After Mixed First Quarter",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.27,
-      "change": -9.21,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGwwRFlJQjh5d0dSSU1XdUJ4QkF4LVljU21mWjByWlZNVHVkam9mMUZvUXVNZV9VYkdkSC1HMXp1TENHUGo3Wms3RWpVbUQ3NDNvNXBSVUYxZlRxeVRWcjZzTDFyemV0UHJIYmFjaVR2ZjhIWmxhTlpXQ3JjTGhLN28zOTkza2VTdFJWNXlibmFKeVJfRE5ack1VX2ctblV6SjJlVS1RX2VGVEl3RTAxSzFzY0VZbnMwZGR4NXRYOUsyU3UzUTRCSFJVaw?oc=5",
-      "image": null,
-      "headline": "Trump Media Stock Falls Ahead of Q2 Earnings After Mixed First Quarter - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.27
-        }
-      ]
-    },
-    {
-      "id": "82cbdb8dfd009fbc",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T17:12:19+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "MarketBeat",
-      "type": "news",
-      "quote": "Trump Media & Technology Group (NASDAQ:DJT) Stock Price Down 9.1% -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.17,
-      "change": -10.19,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHdtQ2o3SHBKV0wzQmg0NUN1bFN1VDcwRXBaaVNEM2hTdzhzZjc2cV9jVldVZ0FEWDN1dkFkMS10aFh1dWJHQl8zMzc1UWl5WmRYX3ZtcEhlQXA0Y2p4c216OGNzMWRzNC15T3dhRW5ZLW04OWt0VTRFQ3dqakRHalVtbDE2b1hhNHFDcVFyQU5IRnJNWVVyQkdmNGhHWXhJZDRDT0RhWnRIWWdVbUJhU0tuTHJEanJqTEpaTENXbm9aQjFTakI4?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (NASDAQ:DJT) Stock Price Down 9.1% - Should You Sell? - MarketBeat",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-10",
-          "c": 8.54
-        },
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.17
-        }
-      ]
-    },
-    {
-      "id": "4027c84b523dbdf5",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T15:43:14+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times Traffic to Trump\u2019s Truth Social Falls Sharply This",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 64.72,
-      "change": 1.86,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjkwcW9iTERRQ1Q5SmQ2YWhCOXRRQ2pIV1BxS2JXLXpyQlo4eWFnTFJiYUdyTy01UVFlbk82QjY4U05qOEJGNjNGNG1qa2pLNzc1bDJ6bmVRWmxsMjJ5WHg0dllqa25IOTJqbW5xZksxSExfQ3V5cXo5cEJYR0d6UWtlb3E3YTZzZkYzeQ?oc=5",
-      "image": null,
-      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-10",
-          "c": 74.96
-        },
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.72
         }
       ]
     }
