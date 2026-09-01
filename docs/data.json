@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-01T13:46:02.479435+00:00",
+  "updated_at": "2026-09-01T17:29:36.892964+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8f00dfa75df7ad15",
+      "date": "Tue, 01 Sep 2026",
+      "ts": "2026-09-01T14:28:33+00:00",
+      "date_display": "Sep 01, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "Trump Media shares drop 3% amid rising Treasury yields and oil prices",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.26,
+      "change": -5.22,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2NqTUlibDlaNW9meHhvSTJSV1hhejVsbUdFN1JlSVA2TzEtS0locGJkLUhZNEgwSTQ0N2tycUVPaV9IRnc2elNYN2phY3luX1p0Rm81UGhyaUJFY1E4VUhhSjNyam0yei0wbUNnVVlOaDFQN2o4eHlnUXBIQXpzTUY5aEh3MHBPVVc2SEpMT283NVc0VUE?oc=5",
+      "image": null,
+      "headline": "Trump Media shares drop 3% amid rising Treasury yields and oil prices squeezing risk appetite. - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.26
+        }
+      ]
+    },
     {
       "id": "ef73f5e3961d26b8",
       "date": "Tue, 01 Sep 2026",
@@ -126,6 +234,114 @@
       "series": null
     },
     {
+      "id": "165a444e62a6f8e4",
+      "date": "Tue, 01 Sep 2026",
+      "ts": "2026-09-01T10:32:22+00:00",
+      "date_display": "Sep 01, 2026",
+      "source": "marketscreener.com",
+      "type": "news",
+      "quote": "ExxonMobil Set to Pursue Venezuela Business, Trump Says -",
+      "company": "Exxonmobil",
+      "ticker": "XOM",
+      "price": 163.99,
+      "change": 1.89,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSk5iYlp3eEhDeElBeUwwV2poQ29Ic0NqQmRKLXUxVnRrczYyZDBVWmh5VnQ3YXl1bndTU3hkQXVCV0YyZDA4bzFseGxoMkJmNVkwbEhNMWQ4RjllVkU3TVVNazRYcEJmOEJDUUhVMWpYMjNmYjJkVUpwS0oyX0dKZUVlcVRZam9LWkpyLUhuSThWd1hSbTRzVGMzOXljQU8xYkozR2FJMENBeW8?oc=5",
+      "image": null,
+      "headline": "ExxonMobil Set to Pursue Venezuela Business, Trump Says - marketscreener.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 154.06
+        },
+        {
+          "d": "08-04",
+          "c": 152.97
+        },
+        {
+          "d": "08-05",
+          "c": 150.65
+        },
+        {
+          "d": "08-06",
+          "c": 153.84
+        },
+        {
+          "d": "08-07",
+          "c": 152.06
+        },
+        {
+          "d": "08-10",
+          "c": 158.76
+        },
+        {
+          "d": "08-11",
+          "c": 158.77
+        },
+        {
+          "d": "08-12",
+          "c": 158.72
+        },
+        {
+          "d": "08-13",
+          "c": 157.59
+        },
+        {
+          "d": "08-14",
+          "c": 159.07
+        },
+        {
+          "d": "08-17",
+          "c": 161.46
+        },
+        {
+          "d": "08-18",
+          "c": 165.56
+        },
+        {
+          "d": "08-19",
+          "c": 164.77
+        },
+        {
+          "d": "08-20",
+          "c": 166.15
+        },
+        {
+          "d": "08-21",
+          "c": 165.11
+        },
+        {
+          "d": "08-24",
+          "c": 164.05
+        },
+        {
+          "d": "08-25",
+          "c": 160.64
+        },
+        {
+          "d": "08-26",
+          "c": 158.19
+        },
+        {
+          "d": "08-27",
+          "c": 156.44
+        },
+        {
+          "d": "08-28",
+          "c": 156.71
+        },
+        {
+          "d": "08-31",
+          "c": 160.95
+        },
+        {
+          "d": "09-01",
+          "c": 163.99
+        }
+      ]
+    },
+    {
       "id": "e0d55433d5c90465",
       "date": "Tue, 01 Sep 2026",
       "ts": "2026-09-01T01:25:43+00:00",
@@ -226,6 +442,114 @@
         {
           "d": "09-01",
           "c": 162.74
+        }
+      ]
+    },
+    {
+      "id": "ceb4633a03a231be",
+      "date": "Tue, 01 Sep 2026",
+      "ts": "2026-09-01T01:25:43+00:00",
+      "date_display": "Sep 01, 2026",
+      "source": "Marine Link",
+      "type": "news",
+      "quote": "Trump Says Exxon Will Re-Enter Venezuela - Marine Link Trump Says Exxon",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 163.99,
+      "change": 1.89,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxU2tLcFJvdFJ3YjFEdTZCLVpaTmducGZTZE5wMm02UDZBbHVRUHQtSFRUMTRRN2RRWFduQmw4dVIyVDlZZ0tpcTdxZ0RjMUtCRkM2LW9fdU9jQXV1ODQ1aTNndnFRSExJTmU4S29ScGdoYTBKMks3WjB4RGxfUQ?oc=5",
+      "image": null,
+      "headline": "Trump Says Exxon Will Re-Enter Venezuela - Marine Link",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 154.06
+        },
+        {
+          "d": "08-04",
+          "c": 152.97
+        },
+        {
+          "d": "08-05",
+          "c": 150.65
+        },
+        {
+          "d": "08-06",
+          "c": 153.84
+        },
+        {
+          "d": "08-07",
+          "c": 152.06
+        },
+        {
+          "d": "08-10",
+          "c": 158.76
+        },
+        {
+          "d": "08-11",
+          "c": 158.77
+        },
+        {
+          "d": "08-12",
+          "c": 158.72
+        },
+        {
+          "d": "08-13",
+          "c": 157.59
+        },
+        {
+          "d": "08-14",
+          "c": 159.07
+        },
+        {
+          "d": "08-17",
+          "c": 161.46
+        },
+        {
+          "d": "08-18",
+          "c": 165.56
+        },
+        {
+          "d": "08-19",
+          "c": 164.77
+        },
+        {
+          "d": "08-20",
+          "c": 166.15
+        },
+        {
+          "d": "08-21",
+          "c": 165.11
+        },
+        {
+          "d": "08-24",
+          "c": 164.05
+        },
+        {
+          "d": "08-25",
+          "c": 160.64
+        },
+        {
+          "d": "08-26",
+          "c": 158.19
+        },
+        {
+          "d": "08-27",
+          "c": 156.44
+        },
+        {
+          "d": "08-28",
+          "c": 156.71
+        },
+        {
+          "d": "08-31",
+          "c": 160.95
+        },
+        {
+          "d": "09-01",
+          "c": 163.99
         }
       ]
     },
@@ -41375,318 +41699,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUThJVlUwNXM5Ql8yMEd4OEZSUF9IMGZZcllIVTUzc09zZ2xpcFoyR1I2LWJSNkxzUElIUVVCb1Y2RWIyVE5NU0Q1Qmx2eXJSXzVINENDUGgxZy0wbkZ1SkRPeE9mRi1pRW16Qng2UTA1M05NNmQxcG5PRFVVRFFoU2V6b2dlOEpKRUFGWXJ2MWlfcllLclFIYzZObm1BblY4X3JXYjhuTU5hQnBxT3RWV1NEMWJxNGhjbmhOV1ZZSzlsZw?oc=5",
       "image": null,
       "headline": "Here\u2019s Why DJT Stock Tumbled Today - forbes.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "ccde90ac12e0819d",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T21:48:14+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Trump Media posts $238 million second-quarter loss as crypto declines",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUJKOUZRUWtycmFLLUp0dGNQendWa1BSS1loQ1I3WldVN01SZ0dWblctX0VfSFlzYUZmMUFfY0dyOWN5OFpSYVE3VFVHR3hEZmtUejFSUldUVElBTUYyQXk3bklkVGl4bUo1WUFKMUhFMVNHaVhEV2FCMXFiYUJDcGdpLXhoT000M1pVSTdhQdIBlAFBVV95cUxPWWtPNTBNeGp2ZjdTNURxaWRIalFOdktsZEZEcy15cU5ha2VuSlB3VGkyMV8zcmNPdUVrZU9sZjR4WDdKWmRLOExPblhyLTNsRXpQLTBCanR0b0V5TlhkUThpNEtSelNJWi1lUUh3S3pKV1pMYy1rSVlpbUNIdTdnVlpHcllWZmtxOXdQZlVscUwweTBR?oc=5",
-      "image": null,
-      "headline": "Trump Media posts $238 million second-quarter loss as crypto declines - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "9a6d8df5de75ae2c",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T21:48:14+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "cnbc.com",
-      "type": "news",
-      "quote": "Trump Media posts $238 million second-quarter loss as crypto declines",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUJKOUZRUWtycmFLLUp0dGNQendWa1BSS1loQ1I3WldVN01SZ0dWblctX0VfSFlzYUZmMUFfY0dyOWN5OFpSYVE3VFVHR3hEZmtUejFSUldUVElBTUYyQXk3bklkVGl4bUo1WUFKMUhFMVNHaVhEV2FCMXFiYUJDcGdpLXhoT000M1pVSTdhQdIBlAFBVV95cUxPWWtPNTBNeGp2ZjdTNURxaWRIalFOdktsZEZEcy15cU5ha2VuSlB3VGkyMV8zcmNPdUVrZU9sZjR4WDdKWmRLOExPblhyLTNsRXpQLTBCanR0b0V5TlhkUThpNEtSelNJWi1lUUh3S3pKV1pMYy1rSVlpbUNIdTdnVlpHcllWZmtxOXdQZlVscUwweTBR?oc=5",
-      "image": null,
-      "headline": "Trump Media posts $238 million second-quarter loss as crypto declines - cnbc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "300268f32432e256",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T21:12:07+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "CoinDesk",
-      "type": "news",
-      "quote": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTlXN0UtZnpueTI2U2Eyc2pQWGdxaDNGSlk4a2dsc0VWRldyNzBJaVR4UnVndHNvZW9rR05HcENzcXJoVU9GU0JNaElJSWphVVk5RHAyY0pENGpyWkFDdUpFUFlQVUNzbkFWak94dWtuTlcwb3dlYWRxU0d6NnByX05wZ0hQQms0RHBCWU5MN0cxaUpTejhTdG8tVzU4NEVhdjVJRF9zRFBpLXJncDdMci1pLTFhQ2Y0NUE?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361 million - CoinDesk",
       "channel": "News",
       "series": [
         {
