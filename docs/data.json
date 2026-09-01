@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-09-01T17:29:36.892964+00:00",
+  "updated_at": "2026-09-01T20:02:41.628660+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ab4cc7684557a70f",
+      "date": "Tue, 01 Sep 2026",
+      "ts": "2026-09-01T19:31:59+00:00",
+      "date_display": "Sep 01, 2026",
+      "source": "TechStock\u00b2",
+      "type": "news",
+      "quote": "Trump Media Declines 7%, Maintains $2.5 Billion Valuation\u2014147% Over",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.06,
+      "change": -7.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWdmRjE5bWNBUFBpXzR5QW1PUGd2SVlSQkdHUzkxVEpVQVhYY2pVSW93VndJTHlmVFhaRFJlTV8td1pTOU05UUt5THJ5S1lXMmQ3R2dSZ3E4V2U3bXFrZkJ1TVZRdXM3ZHBHSG9oN2RmN2N6WXFiRldjd01UZnVhc05UUjhnQnlPNWNmSTEwdDR0QQ?oc=5",
+      "image": null,
+      "headline": "Trump Media Declines 7%, Maintains $2.5 Billion Valuation\u2014147% Over Book - TechStock\u00b2",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 10.01
+        },
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        }
+      ]
+    },
+    {
+      "id": "41c3c0256e6f9751",
+      "date": "Tue, 01 Sep 2026",
+      "ts": "2026-09-01T19:18:48+00:00",
+      "date_display": "Sep 01, 2026",
+      "source": "News of the United States - NOTUS",
+      "type": "news",
+      "quote": "Trump Administration Says Chevron Will Expand Venezuela Oil Production - News of the United",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 211.05,
+      "change": 2.38,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVp4am1ZQUQyLXBkb3VManR4MWhXQnFQeUprd2c4MWlXbUxRdGF6QmhOdVVDNTNKN0taaGZCWW1uNmNJbEc4ZUJBUElUcWM2OXdFTmhsRGUxb19KeXNFYlo5ajQzd1VVa3RndFpsaG1QVEdtR0JQR2hzcWdobkdUWld4RlJYanhjMW11NTJSUlFyWms?oc=5",
+      "image": null,
+      "headline": "Trump Administration Says Chevron Will Expand Venezuela Oil Production - News of the United States - NOTUS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-03",
+          "c": 191.51
+        },
+        {
+          "d": "08-04",
+          "c": 188.75
+        },
+        {
+          "d": "08-05",
+          "c": 184.8
+        },
+        {
+          "d": "08-06",
+          "c": 187.59
+        },
+        {
+          "d": "08-07",
+          "c": 184.95
+        },
+        {
+          "d": "08-10",
+          "c": 193.22
+        },
+        {
+          "d": "08-11",
+          "c": 194.96
+        },
+        {
+          "d": "08-12",
+          "c": 194.9
+        },
+        {
+          "d": "08-13",
+          "c": 195.99
+        },
+        {
+          "d": "08-14",
+          "c": 198.27
+        },
+        {
+          "d": "08-17",
+          "c": 200.95
+        },
+        {
+          "d": "08-18",
+          "c": 203.96
+        },
+        {
+          "d": "08-19",
+          "c": 205.76
+        },
+        {
+          "d": "08-20",
+          "c": 205.77
+        },
+        {
+          "d": "08-21",
+          "c": 205.27
+        },
+        {
+          "d": "08-24",
+          "c": 203.09
+        },
+        {
+          "d": "08-25",
+          "c": 199.89
+        },
+        {
+          "d": "08-26",
+          "c": 200.21
+        },
+        {
+          "d": "08-27",
+          "c": 199.77
+        },
+        {
+          "d": "08-28",
+          "c": 201.86
+        },
+        {
+          "d": "08-31",
+          "c": 206.14
+        },
+        {
+          "d": "09-01",
+          "c": 211.05
+        }
+      ]
+    },
     {
       "id": "8f00dfa75df7ad15",
       "date": "Tue, 01 Sep 2026",
@@ -41491,214 +41707,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeU9WZWc2dGxzUVVLMC1JN1pIRm14ZURrUHRDMFViQ0dtcG9xd2cwTk5UdGhZWEQ0cGM0OFE2RWlIR0dpc1ZITmJDWUNUTG1WTE1mcVVaaE9FR180TndGbzkzbS1zRE1NR2Z6azU3QU5jNUd4LVkwaWpDMEYwZTZ0MW5fQk1ybXBFWllXWVppTFVVa0NRYm1GWFpLYUtuSWZIM3Z3?oc=5",
       "image": null,
       "headline": "Trump Media Loses $238 Million on Only $1.7 Million in Revenue - TheWrap",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "4d826a840cc54bba",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T21:49:51+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "Yahoo Finance UK",
-      "type": "news",
-      "quote": "Trump Media Tanks 8% To 2-Week Low As Company Reports Latest Losses -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vSnhvUXFLZVJEMjhDV0U5bEwtUmpLTTVRRHNfZlFZbDFsR2dFa0hMaTJEUzFvQ1BOMEl0d1FVUjZHck80Ml9udlFTcVNOVmcxc2E0SE1FRnl1b0NzU0d0U2dablZwQjZHdl9xamFXb0RQM2VpWVRiSUxn?oc=5",
-      "image": null,
-      "headline": "Trump Media Tanks 8% To 2-Week Low As Company Reports Latest Losses - Yahoo Finance UK",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "d4b479a0abd7c9d1",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T21:49:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "forbes.com",
-      "type": "news",
-      "quote": "Here\u2019s Why DJT Stock Tumbled Today - forbes.com Here\u2019s Why DJT Stock",
-      "company": "Djt",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUThJVlUwNXM5Ql8yMEd4OEZSUF9IMGZZcllIVTUzc09zZ2xpcFoyR1I2LWJSNkxzUElIUVVCb1Y2RWIyVE5NU0Q1Qmx2eXJSXzVINENDUGgxZy0wbkZ1SkRPeE9mRi1pRW16Qng2UTA1M05NNmQxcG5PRFVVRFFoU2V6b2dlOEpKRUFGWXJ2MWlfcllLclFIYzZObm1BblY4X3JXYjhuTU5hQnBxT3RWV1NEMWJxNGhjbmhOV1ZZSzlsZw?oc=5",
-      "image": null,
-      "headline": "Here\u2019s Why DJT Stock Tumbled Today - forbes.com",
       "channel": "News",
       "series": [
         {
