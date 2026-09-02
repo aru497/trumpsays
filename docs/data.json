@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-02T19:59:54.587178+00:00",
+  "updated_at": "2026-09-02T22:24:50.797343+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "63aca2cf260e2dfb",
+      "date": "Wed, 02 Sep 2026",
+      "ts": "2026-09-02T21:39:57+00:00",
+      "date_display": "Sep 02, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "U.S. oil giant Chevron confirms it will expand operations in Venezuela Oil giant",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 211.78,
+      "change": 0.35,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-08-17T124757Z_1506809565_RC2E0V9KT3KL_RTRMADP_3_CHEVRON-OIL-1024x683.jpg",
+      "headline": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 188.75
+        },
+        {
+          "d": "08-05",
+          "c": 184.8
+        },
+        {
+          "d": "08-06",
+          "c": 187.59
+        },
+        {
+          "d": "08-07",
+          "c": 184.95
+        },
+        {
+          "d": "08-10",
+          "c": 193.22
+        },
+        {
+          "d": "08-11",
+          "c": 194.96
+        },
+        {
+          "d": "08-12",
+          "c": 194.9
+        },
+        {
+          "d": "08-13",
+          "c": 195.99
+        },
+        {
+          "d": "08-14",
+          "c": 198.27
+        },
+        {
+          "d": "08-17",
+          "c": 200.95
+        },
+        {
+          "d": "08-18",
+          "c": 203.96
+        },
+        {
+          "d": "08-19",
+          "c": 205.76
+        },
+        {
+          "d": "08-20",
+          "c": 205.77
+        },
+        {
+          "d": "08-21",
+          "c": 205.27
+        },
+        {
+          "d": "08-24",
+          "c": 203.09
+        },
+        {
+          "d": "08-25",
+          "c": 199.89
+        },
+        {
+          "d": "08-26",
+          "c": 200.21
+        },
+        {
+          "d": "08-27",
+          "c": 199.77
+        },
+        {
+          "d": "08-28",
+          "c": 201.86
+        },
+        {
+          "d": "08-31",
+          "c": 206.14
+        },
+        {
+          "d": "09-01",
+          "c": 211.05
+        },
+        {
+          "d": "09-02",
+          "c": 211.78
+        }
+      ]
+    },
     {
       "id": "70e3767daf659bb6",
       "date": "Wed, 02 Sep 2026",
@@ -8662,6 +8770,222 @@
         {
           "d": "08-24",
           "c": 9.3
+        }
+      ]
+    },
+    {
+      "id": "fb655bc9bc518f41",
+      "date": "Tue, 25 Aug 2026",
+      "ts": "2026-08-25T00:39:00+00:00",
+      "date_display": "Aug 25, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media CEO Defends Truth API: Will Scrutiny Slow Sign-Ups? - Yahoo Finance Trump Media CEO Defends Truth API: Will",
+      "company": "Ups",
+      "ticker": "UPS",
+      "price": 103.01,
+      "change": 0.34,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXpzdFNXNWQxSHZ0Z3VfeHl2aXREQktIV2M4dWZtN29XSGFxcFVHenJ1NW5WbXVZQVIydndHQS1FZXNBcXlTYm9BaFhaU1FRMWNVOHJFZXc0S3dUaTZpR3ZXVTNCYllhUUpkSmMtaHFwT093U3UyRW1DNmphYlZkWHpha2YwQU9zd3dmN2owQVNZWG1mMEx3UEEyVlFSQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO Defends Truth API: Will Scrutiny Slow Sign-Ups? - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 107.4
+        },
+        {
+          "d": "08-05",
+          "c": 106.01
+        },
+        {
+          "d": "08-06",
+          "c": 101.58
+        },
+        {
+          "d": "08-07",
+          "c": 102.86
+        },
+        {
+          "d": "08-10",
+          "c": 103.08
+        },
+        {
+          "d": "08-11",
+          "c": 102.79
+        },
+        {
+          "d": "08-12",
+          "c": 102.28
+        },
+        {
+          "d": "08-13",
+          "c": 103.88
+        },
+        {
+          "d": "08-14",
+          "c": 102.86
+        },
+        {
+          "d": "08-17",
+          "c": 102.02
+        },
+        {
+          "d": "08-18",
+          "c": 101.93
+        },
+        {
+          "d": "08-19",
+          "c": 102.86
+        },
+        {
+          "d": "08-20",
+          "c": 102.58
+        },
+        {
+          "d": "08-21",
+          "c": 102.01
+        },
+        {
+          "d": "08-24",
+          "c": 102.72
+        },
+        {
+          "d": "08-25",
+          "c": 105.14
+        },
+        {
+          "d": "08-26",
+          "c": 105.65
+        },
+        {
+          "d": "08-27",
+          "c": 105.68
+        },
+        {
+          "d": "08-28",
+          "c": 105.33
+        },
+        {
+          "d": "08-31",
+          "c": 104.23
+        },
+        {
+          "d": "09-01",
+          "c": 102.66
+        },
+        {
+          "d": "09-02",
+          "c": 103.01
+        }
+      ]
+    },
+    {
+      "id": "945e81bcc53dc922",
+      "date": "Tue, 25 Aug 2026",
+      "ts": "2026-08-25T00:39:00+00:00",
+      "date_display": "Aug 25, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media CEO Defends Truth API: Will Scrutiny Slow Sign-Ups? -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.14,
+      "change": 0.88,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXpzdFNXNWQxSHZ0Z3VfeHl2aXREQktIV2M4dWZtN29XSGFxcFVHenJ1NW5WbXVZQVIydndHQS1FZXNBcXlTYm9BaFhaU1FRMWNVOHJFZXc0S3dUaTZpR3ZXVTNCYllhUUpkSmMtaHFwT093U3UyRW1DNmphYlZkWHpha2YwQU9zd3dmN2owQVNZWG1mMEx3UEEyVlFSQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media CEO Defends Truth API: Will Scrutiny Slow Sign-Ups? - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
         }
       ]
     },
@@ -41443,318 +41767,6 @@
         {
           "d": "08-10",
           "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "146a662eb9b934fe",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:42:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "The Tech Buzz",
-      "type": "news",
-      "quote": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - The Tech Buzz",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFBaaG1lTnNkRjE2U2ZyRWdpem5zSmRJUENyQndzM1pOMU9CUm9zZlhDQ2pOa21rdTR3VXkyQ2pzSDE3X3FSUFBnUE02X1FwcUhuNEZwU0haQ19QbU9DdHJub0drbjBuVGk0ZFJwV19Db3N5Z0czMWEyQnlMVkFzdTFJdWtISjIzYlZaS19FYw?oc=5",
-      "image": null,
-      "headline": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - The Tech Buzz",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "d972db12083e71d0",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:42:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "techbuzz.ai",
-      "type": "news",
-      "quote": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - techbuzz.ai",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFBaaG1lTnNkRjE2U2ZyRWdpem5zSmRJUENyQndzM1pOMU9CUm9zZlhDQ2pOa21rdTR3VXkyQ2pzSDE3X3FSUFBnUE02X1FwcUhuNEZwU0haQ19QbU9DdHJub0drbjBuVGk0ZFJwV19Db3N5Z0czMWEyQnlMVkFzdTFJdWtISjIzYlZaS19FYw?oc=5",
-      "image": null,
-      "headline": "Trump Media Bleeds $238M in Q2 as Crypto Bets Backfire - techbuzz.ai",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "90aae0d8a9efb300",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:30:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed - WSJ Trump Media Reports",
-      "company": "Ups",
-      "ticker": "UPS",
-      "price": 104.72,
-      "change": 0.21,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWM3cVVLSUdNczljYVpHdzN3eUl0bXlHOHVKWXg3cDg3Qno1Z3pDT1MwV2Q0d0l3bTB2NlhPaE5Xa293OERTaEZ5Qk9QV3Yxa1N6VmhUaUE1d0RxRDFkUW1XU216ckN3WWVfZXNxaWlzVUs2NXQtVlp3TnYzeGNpSTlral9OWjk0N2Y1dExPMzRvc2s?oc=5",
-      "image": null,
-      "headline": "Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 112.89
-        },
-        {
-          "d": "07-14",
-          "c": 113.67
-        },
-        {
-          "d": "07-15",
-          "c": 112.94
-        },
-        {
-          "d": "07-16",
-          "c": 117.18
-        },
-        {
-          "d": "07-17",
-          "c": 117.72
-        },
-        {
-          "d": "07-20",
-          "c": 113.15
-        },
-        {
-          "d": "07-21",
-          "c": 116.34
-        },
-        {
-          "d": "07-22",
-          "c": 115.84
-        },
-        {
-          "d": "07-23",
-          "c": 114.1
-        },
-        {
-          "d": "07-24",
-          "c": 114.79
-        },
-        {
-          "d": "07-27",
-          "c": 112.95
-        },
-        {
-          "d": "07-28",
-          "c": 105.53
-        },
-        {
-          "d": "07-29",
-          "c": 104.56
-        },
-        {
-          "d": "07-30",
-          "c": 105.27
-        },
-        {
-          "d": "07-31",
-          "c": 104.22
-        },
-        {
-          "d": "08-03",
-          "c": 106.87
-        },
-        {
-          "d": "08-04",
-          "c": 109.11
-        },
-        {
-          "d": "08-05",
-          "c": 107.7
-        },
-        {
-          "d": "08-06",
-          "c": 103.2
-        },
-        {
-          "d": "08-07",
-          "c": 104.5
-        },
-        {
-          "d": "08-10",
-          "c": 104.72
         }
       ]
     }
