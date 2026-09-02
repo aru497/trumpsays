@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-02T13:55:57.029877+00:00",
+  "updated_at": "2026-09-02T17:29:45.889496+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d803c6731007f47b",
+      "date": "Wed, 02 Sep 2026",
+      "ts": "2026-09-02T14:26:41+00:00",
+      "date_display": "Sep 02, 2026",
+      "source": "washingtontimes.com",
+      "type": "news",
+      "quote": "Chevron to boost Venezuela operations after Trump announces",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 211.99,
+      "change": 0.45,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2QwWE9UajdrM0dLb2ZfRGttS1BNMnFpRUlPZGVmdDFqXzZVNEQtbWZCUl90Znlyd01MZkJEa3J0OVk1TVJwaHcxYjQtNWR4TG1pMWhaQXc2bm5WN3R4N2czckJ2NmJ3NmxtbmVJZmZJcXlVdE9WNW04LUwtZ2FCMlhlenZHRWZiZmx6YWhkdlplODcwMV9WcjNMcEFVQ1M2R0ZGektjeGFsd0UyNGk0NENHa0tUUUU?oc=5",
+      "image": null,
+      "headline": "Chevron to boost Venezuela operations after Trump announces \u2018historic\u2019 venture for oil - washingtontimes.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 188.75
+        },
+        {
+          "d": "08-05",
+          "c": 184.8
+        },
+        {
+          "d": "08-06",
+          "c": 187.59
+        },
+        {
+          "d": "08-07",
+          "c": 184.95
+        },
+        {
+          "d": "08-10",
+          "c": 193.22
+        },
+        {
+          "d": "08-11",
+          "c": 194.96
+        },
+        {
+          "d": "08-12",
+          "c": 194.9
+        },
+        {
+          "d": "08-13",
+          "c": 195.99
+        },
+        {
+          "d": "08-14",
+          "c": 198.27
+        },
+        {
+          "d": "08-17",
+          "c": 200.95
+        },
+        {
+          "d": "08-18",
+          "c": 203.96
+        },
+        {
+          "d": "08-19",
+          "c": 205.76
+        },
+        {
+          "d": "08-20",
+          "c": 205.77
+        },
+        {
+          "d": "08-21",
+          "c": 205.27
+        },
+        {
+          "d": "08-24",
+          "c": 203.09
+        },
+        {
+          "d": "08-25",
+          "c": 199.89
+        },
+        {
+          "d": "08-26",
+          "c": 200.21
+        },
+        {
+          "d": "08-27",
+          "c": 199.77
+        },
+        {
+          "d": "08-28",
+          "c": 201.86
+        },
+        {
+          "d": "08-31",
+          "c": 206.14
+        },
+        {
+          "d": "09-01",
+          "c": 211.05
+        },
+        {
+          "d": "09-02",
+          "c": 211.99
+        }
+      ]
+    },
     {
       "id": "52f68e7c8a83ae0c",
       "date": "Tue, 01 Sep 2026",
@@ -1953,6 +2061,114 @@
         {
           "d": "09-01",
           "c": 325.13
+        }
+      ]
+    },
+    {
+      "id": "bc5c2cc169c8125f",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T15:00:11+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "bbc.com",
+      "type": "news",
+      "quote": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 325.17,
+      "change": 0.01,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U0tGeWJWd0VQWlBhQ2ZFSmhZUzNNQktMSG1nLXF0NjdDUXU0eU9fSEhvX1N0cW9SbXBzZ2EwOGhoelFGQlo3TmY0ejEyU2Y4VlJJS2t3RFplZw?oc=5",
+      "image": null,
+      "headline": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - bbc.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 309.11
+        },
+        {
+          "d": "08-05",
+          "c": 310.73
+        },
+        {
+          "d": "08-06",
+          "c": 312.14
+        },
+        {
+          "d": "08-07",
+          "c": 313.06
+        },
+        {
+          "d": "08-10",
+          "c": 308.26
+        },
+        {
+          "d": "08-11",
+          "c": 304.91
+        },
+        {
+          "d": "08-12",
+          "c": 302.25
+        },
+        {
+          "d": "08-13",
+          "c": 305.26
+        },
+        {
+          "d": "08-14",
+          "c": 305.93
+        },
+        {
+          "d": "08-17",
+          "c": 305.59
+        },
+        {
+          "d": "08-18",
+          "c": 310.03
+        },
+        {
+          "d": "08-19",
+          "c": 316.83
+        },
+        {
+          "d": "08-20",
+          "c": 311.3
+        },
+        {
+          "d": "08-21",
+          "c": 309.35
+        },
+        {
+          "d": "08-24",
+          "c": 310.34
+        },
+        {
+          "d": "08-25",
+          "c": 309.9
+        },
+        {
+          "d": "08-26",
+          "c": 313.45
+        },
+        {
+          "d": "08-27",
+          "c": 314.58
+        },
+        {
+          "d": "08-28",
+          "c": 319.7
+        },
+        {
+          "d": "08-31",
+          "c": 316.85
+        },
+        {
+          "d": "09-01",
+          "c": 325.13
+        },
+        {
+          "d": "09-02",
+          "c": 325.17
         }
       ]
     },
@@ -33021,6 +33237,222 @@
       ]
     },
     {
+      "id": "9fba9bce585de961",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T07:00:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "MS NOW",
+      "type": "news",
+      "quote": "sued for charging up to $100,000 for early access to his Truth Social posts - MS NOW Trump sued for charging up to $100,000 for",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.18,
+      "change": 1.32,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wc3Y4U0RsQUR5aTI5Wk52N0d1d2hUOEpLeXY5S0VrUGx1RkdWUkhJdDVsblhmVkRXbVNMVGxKVnV6WGZjUkxLSzlXamgzdHpvcldKODRjU3J1QlBEa050TWNCTXdiM2RkNWF0R3FpQQ?oc=5",
+      "image": null,
+      "headline": "Trump sued for charging up to $100,000 for early access to his Truth Social posts - MS NOW",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.18
+        }
+      ]
+    },
+    {
+      "id": "64b8198b991664e9",
+      "date": "Wed, 12 Aug 2026",
+      "ts": "2026-08-12T07:00:00+00:00",
+      "date_display": "Aug 12, 2026",
+      "source": "bbc.com",
+      "type": "news",
+      "quote": "Trump sued over Truth Social's $100,000 early access service - bbc.com Trump sued over",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.18,
+      "change": 1.32,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVFBxU19pUEU5SWFqSDBhU2d4Sl9WMkdDRmlTVkg1XzFxWURVZmpyeDhJQmxhbW9zMzBqNWZTbFptSlQ0ZVBzSU5aNkJUVGVPX1pKRkxwQndmQQ?oc=5",
+      "image": null,
+      "headline": "Trump sued over Truth Social's $100,000 early access service - bbc.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.18
+        }
+      ]
+    },
+    {
       "id": "90add4ef930e5c86",
       "date": "Wed, 12 Aug 2026",
       "ts": "2026-08-12T02:22:43+00:00",
@@ -41315,422 +41747,6 @@
         {
           "d": "08-10",
           "c": 104.72
-        }
-      ]
-    },
-    {
-      "id": "7e6d4c7b56a471d6",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:30:00+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "wsj.com",
-      "type": "news",
-      "quote": "Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWM3cVVLSUdNczljYVpHdzN3eUl0bXlHOHVKWXg3cDg3Qno1Z3pDT1MwV2Q0d0l3bTB2NlhPaE5Xa293OERTaEZ5Qk9QV3Yxa1N6VmhUaUE1d0RxRDFkUW1XU216ckN3WWVfZXNxaWlzVUs2NXQtVlp3TnYzeGNpSTlral9OWjk0N2Y1dExPMzRvc2s?oc=5",
-      "image": null,
-      "headline": "Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed - wsj.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "b361db44f7b9158c",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:14:52+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "NBC News",
-      "type": "news",
-      "quote": "Trump Media doubles down on selling faster access to president\u2019s Truth",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVJXMFBqVWl1TVRlMGN2bm9UWXpkS3F3RWQ5MGhib0RTZF9VUzQ4ZC1tdW5ybUo4Y0NueTNTdldDMVptTFg1UXhwTFRBRTdoNTh0SHFkc2NjN1NzWUlXNjNZY1ZialBkS1ppbFRwWHdRODdXZHJLQ2FLOHBFaHJJNVdoM3R6TzlaU1pKb25FWGRlQnhkQUUzY0xrc1hoWkFBU2lSakZCZjUxSDZIdU9nZjItcnl6aGJNXzdENTN3WQ?oc=5",
-      "image": null,
-      "headline": "Trump Media doubles down on selling faster access to president\u2019s Truth Social posts - NBC News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "f2fe30c361967d3b",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:14:52+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "NBC News",
-      "type": "news",
-      "quote": "Trump Media doubles down on selling faster access to the president\u2019s",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMVJXMFBqVWl1TVRlMGN2bm9UWXpkS3F3RWQ5MGhib0RTZF9VUzQ4ZC1tdW5ybUo4Y0NueTNTdldDMVptTFg1UXhwTFRBRTdoNTh0SHFkc2NjN1NzWUlXNjNZY1ZialBkS1ppbFRwWHdRODdXZHJLQ2FLOHBFaHJJNVdoM3R6TzlaU1pKb25FWGRlQnhkQUUzY0xrc1hoWkFBU2lSakZCZjUxSDZIdU9nZjItcnl6aGJNXzdENTN3WQ?oc=5",
-      "image": null,
-      "headline": "Trump Media doubles down on selling faster access to the president\u2019s Truth Social posts - NBC News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "a91574a9eea5160c",
-      "date": "Mon, 10 Aug 2026",
-      "ts": "2026-08-10T23:07:47+00:00",
-      "date_display": "Aug 10, 2026",
-      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "type": "news",
-      "quote": "Trump's Truth Social posts can move markets. Now some users can see them first",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTm8xUWIxOVd2WkxaRmwySXdHTFZqSldPSFVTaEFFemFXYVYtT3RHX1pjdW5nNEJNelh5bXdVZlhSYkdqWWowaWFmcm1IbkdrWldobVVyS2VtMDJrVkpMREJXenZKYXM5c3hnMWNiNUVMRUNpTnlpSGgxSWRhTW50UUxUQy0tTE4yVTlISXdiMDExeG9qMXo3S0g1SXJkUlFrU1Nzeg?oc=5",
-      "image": null,
-      "headline": "Trump's Truth Social posts can move markets. Now some users can see them first - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
         }
       ]
     }
