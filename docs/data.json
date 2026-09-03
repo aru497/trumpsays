@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-03T17:22:11.022162+00:00",
+  "updated_at": "2026-09-03T19:58:24.010850+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "04c068454e8d5cfc",
+      "date": "Thu, 03 Sep 2026",
+      "ts": "2026-09-03T18:05:57+00:00",
+      "date_display": "Sep 03, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Fox News star Maria Bartiromo is out at the network Fox News",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.47,
+      "change": 0.33,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
+      "image": null,
+      "headline": "Fox News star Maria Bartiromo is out at the network",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 51.94
+        },
+        {
+          "d": "08-06",
+          "c": 55.1
+        },
+        {
+          "d": "08-07",
+          "c": 56.75
+        },
+        {
+          "d": "08-10",
+          "c": 56.05
+        },
+        {
+          "d": "08-11",
+          "c": 55.07
+        },
+        {
+          "d": "08-12",
+          "c": 55.7
+        },
+        {
+          "d": "08-13",
+          "c": 57.81
+        },
+        {
+          "d": "08-14",
+          "c": 61.11
+        },
+        {
+          "d": "08-17",
+          "c": 61.19
+        },
+        {
+          "d": "08-18",
+          "c": 60.93
+        },
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        }
+      ]
+    },
     {
       "id": "6ee45aee6d4528c1",
       "date": "Thu, 03 Sep 2026",
@@ -126,6 +234,133 @@
         {
           "d": "09-02",
           "c": 211.78
+        }
+      ]
+    },
+    {
+      "id": "4c19e2ebe70068e5",
+      "date": "Wed, 02 Sep 2026",
+      "ts": "2026-09-02T20:22:00+00:00",
+      "date_display": "Sep 02, 2026",
+      "source": "Nieman Lab",
+      "type": "news",
+      "quote": "Trump administration says a New York Times win in OpenAI lawsuit would \u201cthreaten national security\u201d and hurt small",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYzVFY1ZRVFJ5WFBobmRaLWhVWFJWZk4zYnliLV9VcF9JNjhwRlJLTWRnVU9XQk5GU1dHc3dIckh6Nk16T2ltLU8tMjRwcWt2M2ZlQkNPX0d4UDl5cDdMdXY0Sjh5MDFXMktXbjdpU05FZldDTXdDSjBtNXU5TTQ1MjZEdkw4WGM4RlpiQ1FWb3laaHRYMXRUcmplSXE4bklTaXVVaFYxZklQcXV5QUxzOG5kRVZraTUyQmU2RnVYU094Y0dlb0FVcjRoYWQ1U0ZNZWhpNmZVM0hJRFliTEFMczg3OEhoa1RwbHpFTXVR?oc=5",
+      "image": null,
+      "headline": "Trump administration says a New York Times win in OpenAI lawsuit would \u201cthreaten national security\u201d and hurt small newsrooms - Nieman Lab",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "cc6e59fb2108d77d",
+      "date": "Wed, 02 Sep 2026",
+      "ts": "2026-09-02T20:22:00+00:00",
+      "date_display": "Sep 02, 2026",
+      "source": "Nieman Lab",
+      "type": "news",
+      "quote": "Trump administration says a New York Times win in OpenAI lawsuit would \u201cthreaten national security\u201d",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 67.13,
+      "change": -0.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYzVFY1ZRVFJ5WFBobmRaLWhVWFJWZk4zYnliLV9VcF9JNjhwRlJLTWRnVU9XQk5GU1dHc3dIckh6Nk16T2ltLU8tMjRwcWt2M2ZlQkNPX0d4UDl5cDdMdXY0Sjh5MDFXMktXbjdpU05FZldDTXdDSjBtNXU5TTQ1MjZEdkw4WGM4RlpiQ1FWb3laaHRYMXRUcmplSXE4bklTaXVVaFYxZklQcXV5QUxzOG5kRVZraTUyQmU2RnVYU094Y0dlb0FVcjRoYWQ1U0ZNZWhpNmZVM0hJRFliTEFMczg3OEhoa1RwbHpFTXVR?oc=5",
+      "image": null,
+      "headline": "Trump administration says a New York Times win in OpenAI lawsuit would \u201cthreaten national security\u201d and hurt small newsrooms - Nieman Lab",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.13
         }
       ]
     },
@@ -41309,326 +41544,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWVudXpWeWd5M0l3Ynl3YXNWaTJaMkJyTU13TFZIb2lWdTJGOXp5bkR5enR0cGpFTmlGaU9DRmRHZlRiZkNIeV94X1poWGF4TXBJYmlJeWhmd0M5dWcwYTBLY083Q0ZBQlhrUWM5ZTFKTC1DR1FmWTZQLWJBVjBmUGFCZUhKYk0?oc=5",
       "image": null,
       "headline": "Trump\u2019s Truth Social Plunges Into Humiliating Loss - thedailybeast.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "acd71936a784f1fd",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:21:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Takes $238M Hit as User Numbers Slide - Yahoo Finance",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.07,
-      "change": -3.41,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakNfSkRycjllUkx6anAxamlyeXJWZFpoTVB3UVVGQUR4cW5RUk9ZNmo5WHB2YnNXNnQzbDYtLVFNYzJpa0s4cjlTdEl4RWNSdTZKV1Bpb2szYVdlRjd0RGZoSWJEYkdrVVVrS0Jhb2MwanEwUTJseU9aalMtVXR5NVktTkVWYjhUYVhRM2RHNXgxMHJBbl9MbDFuLXl1QQ?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Takes $238M Hit as User Numbers Slide - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 9.07
-        }
-      ]
-    },
-    {
-      "id": "b2208a66590efc67",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:21:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "finance.yahoo.com",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Takes $238M Hit as User Numbers Slide - finance.yahoo.com",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakNfSkRycjllUkx6anAxamlyeXJWZFpoTVB3UVVGQUR4cW5RUk9ZNmo5WHB2YnNXNnQzbDYtLVFNYzJpa0s4cjlTdEl4RWNSdTZKV1Bpb2szYVdlRjd0RGZoSWJEYkdrVVVrS0Jhb2MwanEwUTJseU9aalMtVXR5NVktTkVWYjhUYVhRM2RHNXgxMHJBbl9MbDFuLXl1QQ?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Takes $238M Hit as User Numbers Slide - finance.yahoo.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "8594166d466e2a80",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:12:11+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "bbc.com",
-      "type": "news",
-      "quote": "Trump Media reports $238m loss as crypto falls - bbc.com Trump Media",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQ2dzN2xtLWlYbWhNZlktMmczZW0yNmswNEhfcUJBX2hkS0ZhRWNGQ0dmYkFweTg0UlhIdG9xNC1PQzJFQnhMZWRBbHNBcHZJLUpWUnVPQ0EwZw?oc=5",
-      "image": null,
-      "headline": "Trump Media reports $238m loss as crypto falls - bbc.com",
       "channel": "News",
       "series": [
         {
