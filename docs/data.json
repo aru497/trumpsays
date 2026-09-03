@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-03T19:58:24.010850+00:00",
+  "updated_at": "2026-09-03T22:13:15.765866+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "17c3f3c7bd8619ed",
+      "date": "Thu, 03 Sep 2026",
+      "ts": "2026-09-03T20:48:21+00:00",
+      "date_display": "Sep 03, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting The Trump",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+      "image": null,
+      "headline": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "04c068454e8d5cfc",
       "date": "Thu, 03 Sep 2026",
@@ -18,6 +37,114 @@
       "article_link": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
       "image": null,
       "headline": "Fox News star Maria Bartiromo is out at the network",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 51.94
+        },
+        {
+          "d": "08-06",
+          "c": 55.1
+        },
+        {
+          "d": "08-07",
+          "c": 56.75
+        },
+        {
+          "d": "08-10",
+          "c": 56.05
+        },
+        {
+          "d": "08-11",
+          "c": 55.07
+        },
+        {
+          "d": "08-12",
+          "c": 55.7
+        },
+        {
+          "d": "08-13",
+          "c": 57.81
+        },
+        {
+          "d": "08-14",
+          "c": 61.11
+        },
+        {
+          "d": "08-17",
+          "c": 61.19
+        },
+        {
+          "d": "08-18",
+          "c": 60.93
+        },
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        }
+      ]
+    },
+    {
+      "id": "98c7651589e014d5",
+      "date": "Thu, 03 Sep 2026",
+      "ts": "2026-09-03T18:05:57+00:00",
+      "date_display": "Sep 03, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Fox News abruptly parts ways with scandal-tarred star Maria",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.47,
+      "change": 0.33,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
+      "image": null,
+      "headline": "Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo",
       "channel": "News",
       "series": [
         {
@@ -128,6 +255,222 @@
       "headline": "Billionaire Leon Black skips Epstein deposition and sues House committee over subpoenas",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "b19091a7149e750f",
+      "date": "Thu, 03 Sep 2026",
+      "ts": "2026-09-03T14:05:00+00:00",
+      "date_display": "Sep 03, 2026",
+      "source": "Quiver Quantitative",
+      "type": "news",
+      "quote": "Trump Media & Technology Group Stock (DJT) Opinions on Institutional",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.52,
+      "change": 4.16,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcERMNGg1NzJFV3lTb2VHcEhrRjUwdTRfVTFKWThJZ0NUbXViQXhWRm5ENTRqeTBZZmZrb1ZFTUpfWWpsMHQwRllzeDhldldnU0wwYlRxYmkyTjhqVFZ2Qko3U2d5bHNrU1NxX2JsQW9qeG9VdmU3ZEg1LUZ2ZWJUTmVWUVVnbmRfYTVnYmtkNWlwQldqdnEyRGZIUWp6UGNLblVrYVg2SUh1UGpaS1AzeUw5Z3VkQ1VUcENXY0dqWWVyTXRLLXhrMVh4VHd0VWctckpJbVZfQjA5Wng2?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group Stock (DJT) Opinions on Institutional Stakes and Geopolitical Developments - Quiver Quantitative",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        }
+      ]
+    },
+    {
+      "id": "6622c1ed87be0984",
+      "date": "Thu, 03 Sep 2026",
+      "ts": "2026-09-03T04:01:05+00:00",
+      "date_display": "Sep 03, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Puts Tariffs of Up to 100% on Foreign-Made Drones - The New York Times Trump Puts Tariffs of Up to 100% on Foreign-Made",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 67.06,
+      "change": -0.92,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlZDFTc2M4RUlQZHZtMGRMWmhkem40RlcydU94RVZHOWNKMmVEb2ZqajJIbUNvZFBQam8ydl9aNXVLZ2JqNksxTW5TaTkya1BxZEtxWTJnemtjYWh4SGZ0VURsQVZhOUs3aHgtYzdNT0VEekdQUkJF?oc=5",
+      "image": null,
+      "headline": "Trump Puts Tariffs of Up to 100% on Foreign-Made Drones - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 65.48
+        },
+        {
+          "d": "08-06",
+          "c": 64.77
+        },
+        {
+          "d": "08-07",
+          "c": 63.54
+        },
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        }
+      ]
     },
     {
       "id": "63aca2cf260e2dfb",
@@ -2655,6 +2998,114 @@
       ]
     },
     {
+      "id": "534ed3d2e6e3ccae",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T23:09:52+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "The Mighty 790 KFGO",
+      "type": "news",
+      "quote": "Trump says Exxon is \u2018going in\u2019 to Venezuela as US pushes oil deals - The",
+      "company": "Exxon",
+      "ticker": "XOM",
+      "price": 162.21,
+      "change": -1.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXhwU0UyR2FsczhuSGVjNnEzZk5wUHpGbEF3WTEtdTctekYxVlYtVFprSGxXWHZucG16WmZfTnUtYlQ0cEx0N1NVVjRyWjFLRUFaQkpxeEt5YmhUQmpvbkxsMUJUQjY1N2dCOTh0YTFIT2tmaEVTT2dEajZPdmVTR1FTRHdZNDN4N2FlQkVRMnNFSFhTUE5MSw?oc=5",
+      "image": null,
+      "headline": "Trump says Exxon is \u2018going in\u2019 to Venezuela as US pushes oil deals - The Mighty 790 KFGO",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 150.65
+        },
+        {
+          "d": "08-06",
+          "c": 153.84
+        },
+        {
+          "d": "08-07",
+          "c": 152.06
+        },
+        {
+          "d": "08-10",
+          "c": 158.76
+        },
+        {
+          "d": "08-11",
+          "c": 158.77
+        },
+        {
+          "d": "08-12",
+          "c": 158.72
+        },
+        {
+          "d": "08-13",
+          "c": 157.59
+        },
+        {
+          "d": "08-14",
+          "c": 159.07
+        },
+        {
+          "d": "08-17",
+          "c": 161.46
+        },
+        {
+          "d": "08-18",
+          "c": 165.56
+        },
+        {
+          "d": "08-19",
+          "c": 164.77
+        },
+        {
+          "d": "08-20",
+          "c": 166.15
+        },
+        {
+          "d": "08-21",
+          "c": 165.11
+        },
+        {
+          "d": "08-24",
+          "c": 164.05
+        },
+        {
+          "d": "08-25",
+          "c": 160.64
+        },
+        {
+          "d": "08-26",
+          "c": 158.19
+        },
+        {
+          "d": "08-27",
+          "c": 156.44
+        },
+        {
+          "d": "08-28",
+          "c": 156.71
+        },
+        {
+          "d": "08-31",
+          "c": 160.95
+        },
+        {
+          "d": "09-01",
+          "c": 164.55
+        },
+        {
+          "d": "09-02",
+          "c": 164.15
+        },
+        {
+          "d": "09-03",
+          "c": 162.21
+        }
+      ]
+    },
+    {
       "id": "d6b9fdbf29812e8d",
       "date": "Mon, 31 Aug 2026",
       "ts": "2026-08-31T22:59:56+00:00",
@@ -2963,6 +3414,114 @@
         {
           "d": "08-31",
           "c": 13.43
+        }
+      ]
+    },
+    {
+      "id": "696eb963d713504c",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T17:00:01+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "cnbc.com",
+      "type": "news",
+      "quote": "American Airlines announces Trump Accounts matching program - cnbc.com",
+      "company": "American Airlines",
+      "ticker": "AAL",
+      "price": 12.97,
+      "change": -1.07,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnMzUXhiczVqNGlXMHJBeTdBQVJIcnBtdmdtZm1xcS1uOUhldWdMQVkzSXVmYTRZcHpPS1B6WkMtTGx5bGJHazhGTDRqTllHUThSRjdobFNHQkwwMnl4TndDaTZQNVdKOUxyeEswb19rX2NUYkQ2Q0pxY0FKU2FvWDN6Ni1WdnF3N0pWWDNqc9IBlAFBVV95cUxQVFdzejFSeGNwck9GYXFlbFpsVDZKX09pSHZxeFh5aDBCWU9kWDQyaXdTby16b2VNdGJMN1l0Qk0wQ1o1dGdSVThTVTJQNWFzUUtReExLWkRGeXYwNE1adDktR3ZMVldSWHh1SDJfOF9nOU94TnAwXzBuTl90TW1KZEd0bm5YZWRCNVVUQXRvSUhYVmdD?oc=5",
+      "image": null,
+      "headline": "American Airlines announces Trump Accounts matching program - cnbc.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 16.58
+        },
+        {
+          "d": "08-06",
+          "c": 16.03
+        },
+        {
+          "d": "08-07",
+          "c": 15.94
+        },
+        {
+          "d": "08-10",
+          "c": 15.0
+        },
+        {
+          "d": "08-11",
+          "c": 15.29
+        },
+        {
+          "d": "08-12",
+          "c": 14.93
+        },
+        {
+          "d": "08-13",
+          "c": 15.06
+        },
+        {
+          "d": "08-14",
+          "c": 14.83
+        },
+        {
+          "d": "08-17",
+          "c": 14.43
+        },
+        {
+          "d": "08-18",
+          "c": 14.05
+        },
+        {
+          "d": "08-19",
+          "c": 13.86
+        },
+        {
+          "d": "08-20",
+          "c": 13.52
+        },
+        {
+          "d": "08-21",
+          "c": 13.82
+        },
+        {
+          "d": "08-24",
+          "c": 13.63
+        },
+        {
+          "d": "08-25",
+          "c": 13.95
+        },
+        {
+          "d": "08-26",
+          "c": 13.84
+        },
+        {
+          "d": "08-27",
+          "c": 13.72
+        },
+        {
+          "d": "08-28",
+          "c": 13.64
+        },
+        {
+          "d": "08-31",
+          "c": 13.43
+        },
+        {
+          "d": "09-01",
+          "c": 12.95
+        },
+        {
+          "d": "09-02",
+          "c": 13.11
+        },
+        {
+          "d": "09-03",
+          "c": 12.97
         }
       ]
     },
@@ -40920,630 +41479,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE9XWHM3d2dyVUVJMmd6WXo2eHgzRXd1SllrNWlVMUhudUZXRzBlcmFCTmtGdjVlQndMVktlY0loZE1YRkJaUTBYcjQ1MlRJZUxDRmNXaVNucnk5cWQyb1A0YTIta24yenJwWU1nNHFZb3NCX0ZuU2pDWVpmMXhSY0RYTFpISktFZ2xwaWt5Z3ZaMjlFR3BVM0ZZWVJ0TlUya2l2OG44cHoxUno3OHk0OFhtWE1XckoxNGVKRkZSaWZpa0l4R0Ew?oc=5",
       "image": null,
       "headline": "As Trump Media scraps some businesses, it\u2019s doubling down on Truth Social and the president - The Seattle Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "2385d33ec461f387",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T03:21:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUdFTXB3ZG4wdzA4TGp5Y1c4VXZVV3pDaXFiNzFaQTJlVzB1bTBBNEpuajZJSEpJYmlSOVljYUFXUVRoTHliM0tSbGc1b2Nfc0FzdE1NbER2WHBtcTNXX2kyd0RmOE1DVF9yTVFndGtzRUN1TEo0RElTWHFvOU83eF9Gd2tsVlZSalZVMGFxTTExa1lJbzl1QWRXdkQ2MmlDdERsQXdCZWc0RVZ3ZjdmcTE3UFJRdHNicUptdEsxUHZLd0EwMWw3VA?oc=5",
-      "image": null,
-      "headline": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "c94e63bb5510a946",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T03:21:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss - TradingView Trump Media to revamp",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 97.33,
-      "change": -2.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUdFTXB3ZG4wdzA4TGp5Y1c4VXZVV3pDaXFiNzFaQTJlVzB1bTBBNEpuajZJSEpJYmlSOVljYUFXUVRoTHliM0tSbGc1b2Nfc0FzdE1NbER2WHBtcTNXX2kyd0RmOE1DVF9yTVFndGtzRUN1TEo0RElTWHFvOU83eF9Gd2tsVlZSalZVMGFxTTExa1lJbzl1QWRXdkQ2MmlDdERsQXdCZWc0RVZ3ZjdmcTE3UFJRdHNicUptdEsxUHZLd0EwMWw3VA?oc=5",
-      "image": null,
-      "headline": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 92.1
-        },
-        {
-          "d": "07-14",
-          "c": 97.58
-        },
-        {
-          "d": "07-15",
-          "c": 97.47
-        },
-        {
-          "d": "07-16",
-          "c": 94.03
-        },
-        {
-          "d": "07-17",
-          "c": 94.85
-        },
-        {
-          "d": "07-20",
-          "c": 97.82
-        },
-        {
-          "d": "07-21",
-          "c": 101.95
-        },
-        {
-          "d": "07-22",
-          "c": 100.01
-        },
-        {
-          "d": "07-23",
-          "c": 93.63
-        },
-        {
-          "d": "07-24",
-          "c": 91.67
-        },
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        }
-      ]
-    },
-    {
-      "id": "41863d7cee802111",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T03:18:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Truth Social gains multiple customers for faster access to Trump posts",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVYzcEc3Y29fRGVac3hZVUdyZXNBT3JnRlBscl9UamkxRmFCZ3A5WUJlMmYyWEZBWnVQSVV6MGhiUWRtZ2wxcVd3cUtHVmJjZHk1cmpuaGJDa1FIbkIwdnVIYVoxb1NkYVJ6NV9jZWRFeVRXN2JLX0FrSDg3ZWsxUHhRSVU4ampZU0ZkMWgzVmV4N0phYzBrblp1dUhRdHpvMFdqNFkyOEU?oc=5",
-      "image": null,
-      "headline": "Truth Social gains multiple customers for faster access to Trump posts - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "570d58f4701c7bab",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T02:38:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "The Times of India",
-      "type": "news",
-      "quote": "Trump Media Q2 results: US president-led media ventrue posts $238 mn",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZnI0ak9kZ3FXc25BMXp2TkZUYVc5WXZWY1pCOFJHbzNaRzZyTUVDZnYzM0o4cjUzOXBpYkxyV2VxWGJtYklCLWFxblVrcnJ1QTlCMmh5VFJZOGdvYk9UcjV6MW9fellkalh5UmtZM3BvYi11bS1LSDhuQzR3SndqbEVYclhxbkJBODJ2dVRqZmxpYTVpWkVOQlpQOTdnSjZjalpCeF9PaDdtVWxpdE5Tdmh6NzUtVXJqWFJhci1Bd0pUZ2dWVk10dVlacVZ5ZTNCLW9qRGJfQl94Z3NvXzBNZkU0NlNtTVJPejdqdi1rOWJJYU5IeEs5OUZFYzhkaGZmZ0FHTnpjcXA0Q2FtMTJBcTlfdjFBWXJQMFk0bUpqeGNuUdIBpwJBVV95cUxPeUJZRlhaM1VKTkp2aFIzUTZvaWxpZko2Znc2VFNPVXk2UVM2R0drVTNqZ0FGRGZjeHhndjR4dHd4Wl84WVQzOEpRVFhLbVVPTGltN2t4NExyXzAwNDRRalBLSzRSWlI0WWJzanNxUVZSZ1ItUGFjb3RfMkhUY2RCT2l3bG00WVFNZTltVl9WVVR4bFBET1V3YmZqdjM3ZUk3TExZV2VYQ3M4NVg2aEo0bGo2SmtmVHRWeWpmSGhiVEs3R1hjR25BTXQ5SUxWM2hoWkl1TTVjQy16eEc3X2FpY18zY2IyaUNQOGRnYXByNWhWN2xFSXhDSzJFQWZIdzUtMkRpR3RwMWpIdVB3eFAyZFF1UUhXcXNXRG5nc2lwY3FQOG1LeVBZ?oc=5",
-      "image": null,
-      "headline": "Trump Media Q2 results: US president-led media ventrue posts $238 mn loss as crypto holdings tumble - The Times of India",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "08c1073c0827b6a6",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:21:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "The Daily Beast",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Plunges Into Humiliating Loss - The Daily Beast Trump\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWVudXpWeWd5M0l3Ynl3YXNWaTJaMkJyTU13TFZIb2lWdTJGOXp5bkR5enR0cGpFTmlGaU9DRmRHZlRiZkNIeV94X1poWGF4TXBJYmlJeWhmd0M5dWcwYTBLY083Q0ZBQlhrUWM5ZTFKTC1DR1FmWTZQLWJBVjBmUGFCZUhKYk0?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Plunges Into Humiliating Loss - The Daily Beast",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "a33af99bc3309238",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:21:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "thedailybeast.com",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Plunges Into Humiliating Loss - thedailybeast.com Trump\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWVudXpWeWd5M0l3Ynl3YXNWaTJaMkJyTU13TFZIb2lWdTJGOXp5bkR5enR0cGpFTmlGaU9DRmRHZlRiZkNIeV94X1poWGF4TXBJYmlJeWhmd0M5dWcwYTBLY083Q0ZBQlhrUWM5ZTFKTC1DR1FmWTZQLWJBVjBmUGFCZUhKYk0?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Plunges Into Humiliating Loss - thedailybeast.com",
       "channel": "News",
       "series": [
         {
