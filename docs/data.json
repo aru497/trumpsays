@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-03T13:40:54.334902+00:00",
+  "updated_at": "2026-09-03T17:22:11.022162+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "6ee45aee6d4528c1",
+      "date": "Thu, 03 Sep 2026",
+      "ts": "2026-09-03T15:04:26+00:00",
+      "date_display": "Sep 03, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "the House Oversight Committee, asking a federal court to block subpoenas issued as part of its investigation into",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/billionaire-leon-black-skips-epstein-deposition-and-sues-house-committee-over-subpoenas",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2014-04-29T120000Z_213681168_GM1EA4U09MU02_RTRMADP_3_MILKEN-1024x752.jpg",
+      "headline": "Billionaire Leon Black skips Epstein deposition and sues House committee over subpoenas",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "63aca2cf260e2dfb",
       "date": "Wed, 02 Sep 2026",
@@ -755,6 +774,114 @@
         {
           "d": "09-02",
           "c": 211.99
+        }
+      ]
+    },
+    {
+      "id": "95892dbba713ea84",
+      "date": "Wed, 02 Sep 2026",
+      "ts": "2026-09-02T14:26:41+00:00",
+      "date_display": "Sep 02, 2026",
+      "source": "Washington Times",
+      "type": "news",
+      "quote": "Chevron to boost Venezuela operations as Trump touts \u2018historic\u2019",
+      "company": "Chevron",
+      "ticker": "CVX",
+      "price": 212.67,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2QwWE9UajdrM0dLb2ZfRGttS1BNMnFpRUlPZGVmdDFqXzZVNEQtbWZCUl90Znlyd01MZkJEa3J0OVk1TVJwaHcxYjQtNWR4TG1pMWhaQXc2bm5WN3R4N2czckJ2NmJ3NmxtbmVJZmZJcXlVdE9WNW04LUwtZ2FCMlhlenZHRWZiZmx6YWhkdlplODcwMV9WcjNMcEFVQ1M2R0ZGektjeGFsd0UyNGk0NENHa0tUUUU?oc=5",
+      "image": null,
+      "headline": "Chevron to boost Venezuela operations as Trump touts \u2018historic\u2019 deals for oil - Washington Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-05",
+          "c": 184.8
+        },
+        {
+          "d": "08-06",
+          "c": 187.59
+        },
+        {
+          "d": "08-07",
+          "c": 184.95
+        },
+        {
+          "d": "08-10",
+          "c": 193.22
+        },
+        {
+          "d": "08-11",
+          "c": 194.96
+        },
+        {
+          "d": "08-12",
+          "c": 194.9
+        },
+        {
+          "d": "08-13",
+          "c": 195.99
+        },
+        {
+          "d": "08-14",
+          "c": 198.27
+        },
+        {
+          "d": "08-17",
+          "c": 200.95
+        },
+        {
+          "d": "08-18",
+          "c": 203.96
+        },
+        {
+          "d": "08-19",
+          "c": 205.76
+        },
+        {
+          "d": "08-20",
+          "c": 205.77
+        },
+        {
+          "d": "08-21",
+          "c": 205.27
+        },
+        {
+          "d": "08-24",
+          "c": 203.09
+        },
+        {
+          "d": "08-25",
+          "c": 199.89
+        },
+        {
+          "d": "08-26",
+          "c": 200.21
+        },
+        {
+          "d": "08-27",
+          "c": 199.77
+        },
+        {
+          "d": "08-28",
+          "c": 201.86
+        },
+        {
+          "d": "08-31",
+          "c": 206.14
+        },
+        {
+          "d": "09-01",
+          "c": 211.05
+        },
+        {
+          "d": "09-02",
+          "c": 211.78
+        },
+        {
+          "d": "09-03",
+          "c": 212.67
         }
       ]
     },
@@ -41502,214 +41629,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQ2dzN2xtLWlYbWhNZlktMmczZW0yNmswNEhfcUJBX2hkS0ZhRWNGQ0dmYkFweTg0UlhIdG9xNC1PQzJFQnhMZWRBbHNBcHZJLUpWUnVPQ0EwZw?oc=5",
       "image": null,
       "headline": "Trump Media reports $238m loss as crypto falls - bbc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "7b7c8c8760e3a448",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:12:11+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "Trump Media reports $238m loss as crypto falls - BBC Trump Media",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT2J6LVYxSGloWnByWHJacnBYMVdWc2dlY19XOC12Ry1ubHFreElLdHItUUIxenY0YVBBQTFiWklvX0x2MEw1Z3dZRzBUbTBKMGFoRDlWNFE1SFFm?oc=5",
-      "image": null,
-      "headline": "Trump Media reports $238m loss as crypto falls - BBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "870b82542f020739",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T01:12:11+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "10 firms pay up to $100,000 a month for fast access to Truth Social posts - BBC More than 10 firms pay up to $100,000 a month",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT2J6LVYxSGloWnByWHJacnBYMVdWc2dlY19XOC12Ry1ubHFreElLdHItUUIxenY0YVBBQTFiWklvX0x2MEw1Z3dZRzBUbTBKMGFoRDlWNFE1SFFm?oc=5",
-      "image": null,
-      "headline": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts - BBC",
       "channel": "News",
       "series": [
         {
