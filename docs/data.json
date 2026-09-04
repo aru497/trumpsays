@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-04T00:12:08.847350+00:00",
+  "updated_at": "2026-09-04T04:48:16.587647+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f04ea049828410bb",
+      "date": "Fri, 04 Sep 2026",
+      "ts": "2026-09-04T03:07:00+00:00",
+      "date_display": "Sep 04, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "Trump says Maria Bartiromo\u2019s fans \u2018will not be happy\u2019 with Fox News exit - Washington Examiner Trump says Maria",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.27,
+      "change": 2.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODNKd0pSVWVodm5mS2IwXzFvZ2hVRjZJQ1hOajNLOXBPMjFYeGdZa3dJeTRaQWtrc254N2pnQzJnNGZwNjZsdEF4bENDR3VrS3BWQXVCUEVCd2lGbzJZVFBYclplT1dnYnlpNEd1bmhhNl80Rk1BTUZkMDd2aXlsNEp4ZE1fQ0RWY2pQTEczUzVZZktPTmFVdFJKV2s?oc=5",
+      "image": null,
+      "headline": "Trump says Maria Bartiromo\u2019s fans \u2018will not be happy\u2019 with Fox News exit - Washington Examiner",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 52.56
+        },
+        {
+          "d": "08-05",
+          "c": 51.94
+        },
+        {
+          "d": "08-06",
+          "c": 55.1
+        },
+        {
+          "d": "08-07",
+          "c": 56.75
+        },
+        {
+          "d": "08-10",
+          "c": 56.05
+        },
+        {
+          "d": "08-11",
+          "c": 55.07
+        },
+        {
+          "d": "08-12",
+          "c": 55.7
+        },
+        {
+          "d": "08-13",
+          "c": 57.81
+        },
+        {
+          "d": "08-14",
+          "c": 61.11
+        },
+        {
+          "d": "08-17",
+          "c": 61.19
+        },
+        {
+          "d": "08-18",
+          "c": 60.93
+        },
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        }
+      ]
+    },
     {
       "id": "69560780f3ad88c9",
       "date": "Thu, 03 Sep 2026",
@@ -831,6 +939,114 @@
         {
           "d": "09-02",
           "c": 211.78
+        }
+      ]
+    },
+    {
+      "id": "4d0fb6753c2ff734",
+      "date": "Wed, 02 Sep 2026",
+      "ts": "2026-09-02T19:06:00+00:00",
+      "date_display": "Sep 02, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 324.96,
+      "change": -0.05,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1pMU2x2b2pNQTVaOEdac1h3TTV6dlpLUlIya0RLQy1XaXZjMUxseWpxeFRXdFNqNlU1NmxHa0lEOGdBREZSZEpKT0RWRlY3WHN4RTZHdWRFV1VJLUtCX3F3dTl4TlhvMk9GX2lNU1l0RWJGNUg2NFR5VktpaU5Fakk4QXRJbTVnWms5aUxLdS1zSEZ2emM0Yjd1SQ?oc=5",
+      "image": null,
+      "headline": "Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users after Trump order - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 309.11
+        },
+        {
+          "d": "08-05",
+          "c": 310.73
+        },
+        {
+          "d": "08-06",
+          "c": 312.14
+        },
+        {
+          "d": "08-07",
+          "c": 313.06
+        },
+        {
+          "d": "08-10",
+          "c": 308.26
+        },
+        {
+          "d": "08-11",
+          "c": 304.91
+        },
+        {
+          "d": "08-12",
+          "c": 302.25
+        },
+        {
+          "d": "08-13",
+          "c": 305.26
+        },
+        {
+          "d": "08-14",
+          "c": 305.93
+        },
+        {
+          "d": "08-17",
+          "c": 305.59
+        },
+        {
+          "d": "08-18",
+          "c": 310.03
+        },
+        {
+          "d": "08-19",
+          "c": 316.83
+        },
+        {
+          "d": "08-20",
+          "c": 311.3
+        },
+        {
+          "d": "08-21",
+          "c": 309.35
+        },
+        {
+          "d": "08-24",
+          "c": 310.34
+        },
+        {
+          "d": "08-25",
+          "c": 309.9
+        },
+        {
+          "d": "08-26",
+          "c": 313.45
+        },
+        {
+          "d": "08-27",
+          "c": 314.58
+        },
+        {
+          "d": "08-28",
+          "c": 319.7
+        },
+        {
+          "d": "08-31",
+          "c": 316.85
+        },
+        {
+          "d": "09-01",
+          "c": 325.13
+        },
+        {
+          "d": "09-02",
+          "c": 324.96
         }
       ]
     },
@@ -36676,6 +36892,114 @@
       "series": null
     },
     {
+      "id": "3af7b64efba40ac4",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T20:58:55+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "Courthouse News",
+      "type": "news",
+      "quote": "As Trump Media scraps some businesses, it's doubling down on Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.14,
+      "change": 0.88,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUWRiRFFoTDVrRWRSS2NOYjQ3RkJJdS1ocEhOcERLWUhsa3hxYUNwV2J0MmVFeTNBWmlEZE1aXzZaUndEUTRrT0Z3amRmeXVfVkVpajFxSjdtb2JzbGVPSE9HY1BiVlNWZUx1Y1NxeXlkY0NxTzEtVFF3MTZYQ2gwZVV2UXZhZWxyU1N0Q19td1E2ejBMNVY0dFFNcTVhQjhJYnd1NHhBWDFVbnRGUGhvSVR6by05VE1LOExSVlBB?oc=5",
+      "image": null,
+      "headline": "As Trump Media scraps some businesses, it's doubling down on Truth Social and the president - Courthouse News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        }
+      ]
+    },
+    {
       "id": "f2c7e9354d3860d1",
       "date": "Tue, 11 Aug 2026",
       "ts": "2026-08-11T20:12:58+00:00",
@@ -40867,6 +41191,114 @@
       ]
     },
     {
+      "id": "118a54f025f6b938",
+      "date": "Tue, 11 Aug 2026",
+      "ts": "2026-08-11T07:00:00+00:00",
+      "date_display": "Aug 11, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian Trump\u2019s media company,",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.14,
+      "change": 0.88,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-04",
+          "c": 10.34
+        },
+        {
+          "d": "08-05",
+          "c": 9.96
+        },
+        {
+          "d": "08-06",
+          "c": 9.89
+        },
+        {
+          "d": "08-07",
+          "c": 10.21
+        },
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        }
+      ]
+    },
+    {
       "id": "998c8918dd02e46f",
       "date": "Tue, 11 Aug 2026",
       "ts": "2026-08-11T06:58:28+00:00",
@@ -40986,422 +41418,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnIwWHREYkozVEhtN2kzWVh3ZEhFMVFuUHlOLU5sTWlXZnZOOGdRajNwY01fbzFQa2ozQWVhcm1wOXMwUnpidS0ydTQxdnlMM2FNc2VZNnpFVVlNU3ByamY3bDlCTGNBZEdmZWgxTW05bm04ZjNPazZjOWJ0bWk2ci1KZHg?oc=5",
       "image": null,
       "headline": "Trump Media reports $238m loss as crypto falls - ca.finance.yahoo.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "007ade9d97d5b189",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T06:11:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social to charge Wall Street $1.2M a year for early access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1I1ZElLbWJnSkx2elgtREZpVUw1OU1mdkRPUElUeG91UWNiLXV4blJGd3YyMFItNDFKMlVqeDZsRUZYNjNjeHl3NEZnekZyWDRSaFE1d1JOTTBheWZmZVlWVWh4Q2xaYVp2ZVhEeC1aRkc5bU9VUnVTU1NEclk2VXBQM0xNOVRZcFpaMkI0REN1TVBNQm81aE5DUWJ5TFh2aFh0TExpYTMwd2RKZENKcQ?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social to charge Wall Street $1.2M a year for early access to posts - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "ac486d73084d8622",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T06:10:57+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "New Age BD",
-      "type": "news",
-      "quote": "Trump media company reports massive loss - New Age BD Trump media",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDRjeWphYjFwc2NCbzg4c0tCOS1oV2ZiZUFaYkdUTkRFX0hvQy1PeUFXUUJwRTRxWXNnVU96cXdlSjRRXzBjOGdNUTZyNGNHaGpSNFRYVk1OdmNFbk8xbUltVm5YQlYxdHktaV90d0hzaGRHT1pSRk9HdGZlUHJEN240bmUtTE9QeGNB?oc=5",
-      "image": null,
-      "headline": "Trump media company reports massive loss - New Age BD",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "9990bb51daf7cdb5",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T04:41:01+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Udayavani",
-      "type": "news",
-      "quote": "Trump media company announces massive loss and new turnaround effort -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3hYNERhRWdOeGhEUmhyel8wR0hJYTcwX1FwZV9DNEN0NG1LbTBWUDA4T090WE1zNUJtN2g4aWFZQ3NFckRQZlpHQkZoODZqYnBXejRNNHh3NW1tcV9rLXVJbmotcDdyS3JUMkEtRkxPVDRGQmdoV2RtV3Z3SnlGRGV5YnF1UnZBMHlsOWRzWGJmWmFSOHhOY2dFUlA5UU8tNFlRNi1VU1ZKdDBUSnBDOG13dzZ3STMwcnBr?oc=5",
-      "image": null,
-      "headline": "Trump media company announces massive loss and new turnaround effort - Udayavani",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "e7be87792752da28",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T04:36:23+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Cryptonews.net",
-      "type": "news",
-      "quote": "Trump Media Expands Bitcoin Holdings to $900 Million While Reporting",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44a2FoZkllc2J1MmhUU2d0NDdMbjFualZZNVRIZVRWaGlLN2x1Q1NJQ3pmdjZoLWJlMVlLUUtqajRFQnh2V3JoNW9WdzRsWmphQlY0RVNoNVM?oc=5",
-      "image": null,
-      "headline": "Trump Media Expands Bitcoin Holdings to $900 Million While Reporting H1 Unrealized Losses \u2014 What to Know About Truth Social Owner's BTC Stash - Cryptonews.net",
       "channel": "News",
       "series": [
         {
