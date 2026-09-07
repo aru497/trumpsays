@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-07T06:15:27.762588+00:00",
+  "updated_at": "2026-09-07T12:49:28.146458+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0f67e349f1119f0d",
+      "date": "Mon, 07 Sep 2026",
+      "ts": "2026-09-07T08:25:00+00:00",
+      "date_display": "Sep 07, 2026",
+      "source": "finance.biggo.com",
+      "type": "news",
+      "quote": "Trump Posts AI Trading Image as Intel Stock Nearly Quadruples From 52-Week Low -",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 95.8,
+      "change": 4.51,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5aTlCemFSZHFDVnhsYWRxZm5xaVlDZ3M0TXAwb2lLWnpmLXRSTjNrbGZudjFpTVlhRXJMbGFCTlVYRmpHYnloM2pzN25sLTc1SjlVUDNRYkpIdHRUYVZMMUdXSDA5NTZjZ25HcFJrbS05TjFUbFE?oc=5",
+      "image": null,
+      "headline": "Trump Posts AI Trading Image as Intel Stock Nearly Quadruples From 52-Week Low - finance.biggo.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-06",
+          "c": 99.81
+        },
+        {
+          "d": "08-07",
+          "c": 101.65
+        },
+        {
+          "d": "08-10",
+          "c": 97.52
+        },
+        {
+          "d": "08-11",
+          "c": 97.71
+        },
+        {
+          "d": "08-12",
+          "c": 100.95
+        },
+        {
+          "d": "08-13",
+          "c": 104.56
+        },
+        {
+          "d": "08-14",
+          "c": 102.5
+        },
+        {
+          "d": "08-17",
+          "c": 103.49
+        },
+        {
+          "d": "08-18",
+          "c": 96.69
+        },
+        {
+          "d": "08-19",
+          "c": 92.8
+        },
+        {
+          "d": "08-20",
+          "c": 92.13
+        },
+        {
+          "d": "08-21",
+          "c": 90.07
+        },
+        {
+          "d": "08-24",
+          "c": 87.26
+        },
+        {
+          "d": "08-25",
+          "c": 87.48
+        },
+        {
+          "d": "08-26",
+          "c": 88.24
+        },
+        {
+          "d": "08-27",
+          "c": 92.09
+        },
+        {
+          "d": "08-28",
+          "c": 89.47
+        },
+        {
+          "d": "08-31",
+          "c": 89.51
+        },
+        {
+          "d": "09-01",
+          "c": 88.97
+        },
+        {
+          "d": "09-02",
+          "c": 90.05
+        },
+        {
+          "d": "09-03",
+          "c": 91.67
+        },
+        {
+          "d": "09-04",
+          "c": 95.8
+        }
+      ]
+    },
     {
       "id": "6ea8fc1411e53746",
       "date": "Sat, 05 Sep 2026",
@@ -41172,114 +41280,6 @@
         {
           "d": "08-11",
           "c": 218.59
-        }
-      ]
-    },
-    {
-      "id": "628d0dbe2bef6d5a",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T12:22:04+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "The Korea Times",
-      "type": "news",
-      "quote": "Trump Media reports first sales for early access to president's posts",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.07,
-      "change": -3.41,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZk5OTlNyQVZTT0tnVzlMcHRjRTYyVVVCeGcwdDdLeWhtWW5QdnNOY2t0WWdONEJ5MVNwRkxkRWpQRGJGT2FuV29XZWQtRXBLOTU3QVl3QjlVOHJJTlItMk1IS1hISHRJdjVtN0swWjBWbmllUVJGS3N4QlE1OFdmNmZENDhsX3Y4cEhheXlFcTNBSS15M1BQdVduS21TbWxPNnF2XzFQVGhUUXVxbTFCVEt30gG3AUFVX3lxTE5BZTFHOXY3bllIS2FYc3cycVhtREhZQ0Jpa1Rwb3NPWHBNXzR5VDJkUkJTNGs4NkY4bERhSHByaDk2Zm1sbW1xbDBkWkRydnQ4V0xXREFjckRTejRud21tVGtud0U2RHVLVEx1RFIwV1cwc1h5UTUwclNIRzB3WndQbm4tUVZVU3daOXliZU9KNHlOdTQxUmxWaWVtSFlSX0lqbEUwQ3pMUURZY1VqOTF0TzFreXF6OA?oc=5",
-      "image": null,
-      "headline": "Trump Media reports first sales for early access to president's posts - The Korea Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 9.07
         }
       ]
     }
