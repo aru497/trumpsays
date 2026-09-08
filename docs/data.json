@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-08T06:40:35.768458+00:00",
+  "updated_at": "2026-09-08T11:51:20.085821+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "cc13f664876e4bff",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T09:20:00+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "ExxonMobil's CEO Called Venezuela 'Uninvestable.' Trump Says It's",
+      "company": "Exxonmobil",
+      "ticker": "XOM",
+      "price": 159.47,
+      "change": -1.69,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGU1YkdfM0tCbVhZR1JCaU9XYnV2UDNWUmR1emM5M3FiUkMtOWFhN09KdTR2Q2NrYnYwcVowM2JiUTZLME1zX18wOVJtbWVWR0w4SkpreklpZUZBbHRYM2FTeVI1TXhPVzRlX0lhbUlqaHdxdHZBNllvUXYtV3NDWEFwampyaGNNYVRiVXdFZmdFVkZKNEpFV1FIT2RKOVJZT3BmbA?oc=5",
+      "image": null,
+      "headline": "ExxonMobil's CEO Called Venezuela 'Uninvestable.' Trump Says It's Going In Anyway. Here's Why Investors Should Pay Attention. - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-06",
+          "c": 153.84
+        },
+        {
+          "d": "08-07",
+          "c": 152.06
+        },
+        {
+          "d": "08-10",
+          "c": 158.76
+        },
+        {
+          "d": "08-11",
+          "c": 158.77
+        },
+        {
+          "d": "08-12",
+          "c": 158.72
+        },
+        {
+          "d": "08-13",
+          "c": 157.59
+        },
+        {
+          "d": "08-14",
+          "c": 159.07
+        },
+        {
+          "d": "08-17",
+          "c": 161.46
+        },
+        {
+          "d": "08-18",
+          "c": 165.56
+        },
+        {
+          "d": "08-19",
+          "c": 164.77
+        },
+        {
+          "d": "08-20",
+          "c": 166.15
+        },
+        {
+          "d": "08-21",
+          "c": 165.11
+        },
+        {
+          "d": "08-24",
+          "c": 164.05
+        },
+        {
+          "d": "08-25",
+          "c": 160.64
+        },
+        {
+          "d": "08-26",
+          "c": 158.19
+        },
+        {
+          "d": "08-27",
+          "c": 156.44
+        },
+        {
+          "d": "08-28",
+          "c": 156.71
+        },
+        {
+          "d": "08-31",
+          "c": 160.95
+        },
+        {
+          "d": "09-01",
+          "c": 164.55
+        },
+        {
+          "d": "09-02",
+          "c": 164.15
+        },
+        {
+          "d": "09-03",
+          "c": 162.21
+        },
+        {
+          "d": "09-04",
+          "c": 159.47
+        }
+      ]
+    },
     {
       "id": "db6abeba40130807",
       "date": "Tue, 08 Sep 2026",
@@ -41172,114 +41280,6 @@
         {
           "d": "08-11",
           "c": 9.47
-        }
-      ]
-    },
-    {
-      "id": "21e9d6e4fd427e29",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T13:53:00+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Fortune",
-      "type": "news",
-      "quote": "Trump\u2019s media company doubles down on the president and Truth Social - Fortune \u2018Hear it here first\u2019: Trump\u2019s media company",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.3,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWhaX0V2LWR3eEZrNHpTTFNfdS1WcGd4elF3ME5lejBvYW8wX0dWRkRxZzlZRGJiRTZsa2xUZEhNYWJ5VnM2XzVDNFpFcWhIdWFDSGlXV0JEU09UWTdUUzRUcnBjd3QyaXN6bVBnX0tGYzlrNjlfSktoNms2S19LQUVnREtqaW9tNTIwWms1U2ZiX3BBUTRJSnNHS2MzdVd6MlVqRW5vVnRNaEk?oc=5",
-      "image": null,
-      "headline": "\u2018Hear it here first\u2019: Trump\u2019s media company doubles down on the president and Truth Social - Fortune",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
         }
       ]
     }
