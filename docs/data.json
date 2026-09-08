@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-09-08T15:33:24.020278+00:00",
+  "updated_at": "2026-09-08T19:05:08.806525+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "99419c3ba8b4001f",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T16:50:30+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Media Launches MAGA-Friendly Investment Funds - The New York Times Trump Media Launches MAGA-Friendly Investment",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 67.47,
+      "change": 0.28,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb25wS0p3alRmUXprYUV4MkIwY2w0YWFXWFRMTmlVa2F6Sk5IMDhDQWNYdllNcXUyQ1gxOEFsMU40MkpLRzZ3ajFpNWx5MV83SVBRbGI2WEpNMU9PQU9tQTgzamRLSmlZREZJSnR2b0JIdG1HZm9GWmtNWUhJTEhsVWZZcw?oc=5",
+      "image": null,
+      "headline": "Trump Media Launches MAGA-Friendly Investment Funds - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.47
+        }
+      ]
+    },
+    {
+      "id": "9dcd2ee0198fae91",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T16:50:30+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Media Launches MAGA-Friendly Investment Funds - The New York",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.18,
+      "change": 1.77,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb25wS0p3alRmUXprYUV4MkIwY2w0YWFXWFRMTmlVa2F6Sk5IMDhDQWNYdllNcXUyQ1gxOEFsMU40MkpLRzZ3ajFpNWx5MV83SVBRbGI2WEpNMU9PQU9tQTgzamRLSmlZREZJSnR2b0JIdG1HZm9GWmtNWUhJTEhsVWZZcw?oc=5",
+      "image": null,
+      "headline": "Trump Media Launches MAGA-Friendly Investment Funds - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.18
+        }
+      ]
+    },
+    {
+      "id": "98b0b9aea7975662",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T16:28:58+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times Bombardier, a",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 162.57,
+      "change": -1.14,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
+      "image": null,
+      "headline": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
+        },
+        {
+          "d": "08-13",
+          "c": 155.51
+        },
+        {
+          "d": "08-14",
+          "c": 154.48
+        },
+        {
+          "d": "08-17",
+          "c": 151.01
+        },
+        {
+          "d": "08-18",
+          "c": 152.48
+        },
+        {
+          "d": "08-19",
+          "c": 159.0
+        },
+        {
+          "d": "08-20",
+          "c": 158.25
+        },
+        {
+          "d": "08-21",
+          "c": 165.44
+        },
+        {
+          "d": "08-24",
+          "c": 169.89
+        },
+        {
+          "d": "08-25",
+          "c": 163.47
+        },
+        {
+          "d": "08-26",
+          "c": 164.04
+        },
+        {
+          "d": "08-27",
+          "c": 165.93
+        },
+        {
+          "d": "08-28",
+          "c": 163.18
+        },
+        {
+          "d": "08-31",
+          "c": 160.88
+        },
+        {
+          "d": "09-01",
+          "c": 163.75
+        },
+        {
+          "d": "09-02",
+          "c": 163.36
+        },
+        {
+          "d": "09-03",
+          "c": 164.01
+        },
+        {
+          "d": "09-04",
+          "c": 164.44
+        },
+        {
+          "d": "09-08",
+          "c": 162.57
+        }
+      ]
+    },
+    {
+      "id": "299d65be954faf40",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T16:28:58+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 67.47,
+      "change": 0.28,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
+      "image": null,
+      "headline": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 64.8
+        },
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.47
+        }
+      ]
+    },
     {
       "id": "cc13f664876e4bff",
       "date": "Tue, 08 Sep 2026",
@@ -40852,434 +41268,6 @@
         {
           "d": "08-11",
           "c": 9.18
-        }
-      ]
-    },
-    {
-      "id": "f7fb24ac59f0b84b",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T15:07:21+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "news.sky.com",
-      "type": "news",
-      "quote": "Losses balloon at Trump Media the company behind Truth Social - news.sky.com Losses",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.15,
-      "change": -2.56,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0xjVnV5WlZsSDB2R0NpZ1IzUVlEU3RmT0R1VHRna3BOZHlHczdXR0NUdUFZXzZsSjdDa1JWUHdMRnhGVk5uVkYyeEl6SnZucms5bnB0LWtOSWVlV0dfLUJYcVg2bGhWVERQa0lvc3RlT0NqTzJ1RERjdmIxeTRuc1B6WkZqb253YlpVd0x3QUo0bUdJTDBtUlBUb2Etdw?oc=5",
-      "image": null,
-      "headline": "Losses balloon at Trump Media the company behind Truth Social - news.sky.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 9.15
-        }
-      ]
-    },
-    {
-      "id": "010c112c0da1d9c2",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T15:07:21+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Sky News",
-      "type": "news",
-      "quote": "Losses balloon at Trump Media, the company behind Truth Social - Sky News Losses balloon",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0xjVnV5WlZsSDB2R0NpZ1IzUVlEU3RmT0R1VHRna3BOZHlHczdXR0NUdUFZXzZsSjdDa1JWUHdMRnhGVk5uVkYyeEl6SnZucms5bnB0LWtOSWVlV0dfLUJYcVg2bGhWVERQa0lvc3RlT0NqTzJ1RERjdmIxeTRuc1B6WkZqb253YlpVd0x3QUo0bUdJTDBtUlBUb2Etdw?oc=5",
-      "image": null,
-      "headline": "Losses balloon at Trump Media, the company behind Truth Social - Sky News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "b076735b727d7ff2",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T15:07:21+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "news.sky.com",
-      "type": "news",
-      "quote": "Losses balloon at Trump Media, the company behind Truth Social - news.sky.com Losses",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0xjVnV5WlZsSDB2R0NpZ1IzUVlEU3RmT0R1VHRna3BOZHlHczdXR0NUdUFZXzZsSjdDa1JWUHdMRnhGVk5uVkYyeEl6SnZucms5bnB0LWtOSWVlV0dfLUJYcVg2bGhWVERQa0lvc3RlT0NqTzJ1RERjdmIxeTRuc1B6WkZqb253YlpVd0x3QUo0bUdJTDBtUlBUb2Etdw?oc=5",
-      "image": null,
-      "headline": "Losses balloon at Trump Media, the company behind Truth Social - news.sky.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "66b429bc41f8f752",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T14:12:26+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "KTEN",
-      "type": "news",
-      "quote": "Trump Media says Wall Street firms are paying up to $100K for early",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.47,
-      "change": 0.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNXzZ0SXpGUlQ0Y09BdHBIMC1CS3JqYXFpSk43VlRfZGFhSjNSMEo4Rm9GWWF4UllFdUsyeklTWGhWdzFKc1B4OFYtanVJeTlrck1GbmxJSkw2Q2pITkthd01QczdfUDBONWxLV1B1RzVkQUd4NW9QN1N3TktERzItaFduaWExRTVNaFAyVm1iWDVfc3BFWFliZ3M3QmlNcUpvdzY0U24zdzJvYjdZUWJVRi1lOTRKdmtaalR2MG4xQmJSaWFSYlBxb19XTnpUU2JOcWpvdjJvVmNGNjR0WktBNDdRV3JRdVppYVh0Q3NWb285M1U?oc=5",
-      "image": null,
-      "headline": "Trump Media says Wall Street firms are paying up to $100K for early access to Trump posts - KTEN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 9.47
         }
       ]
     }
