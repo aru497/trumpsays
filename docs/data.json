@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-08T01:49:42.391533+00:00",
+  "updated_at": "2026-09-08T06:40:35.768458+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "db6abeba40130807",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T01:33:00+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "BeInCrypto",
+      "type": "news",
+      "quote": "Goldman Sachs Says Oil Could Hit $120 as Trump Dismisses Diplomacy with",
+      "company": "Goldman Sachs",
+      "ticker": "GS",
+      "price": 1038.61,
+      "change": 0.07,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVGlZMmx6SnFhTnNZREJfcXk3b1UxcTA4WjFIT0JXaVBkSi1aV3N2aVlNQl9pYjFiVVY2T2lsYnFYcmdTWnJIT0p1bmdscDFXNVBlWEQwNFFFMEFZNElEMVdyTGZFM1J0dnpWQQ?oc=5",
+      "image": null,
+      "headline": "Goldman Sachs Says Oil Could Hit $120 as Trump Dismisses Diplomacy with Iran - BeInCrypto",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-06",
+          "c": 1027.55
+        },
+        {
+          "d": "08-07",
+          "c": 1034.54
+        },
+        {
+          "d": "08-10",
+          "c": 1029.47
+        },
+        {
+          "d": "08-11",
+          "c": 1029.37
+        },
+        {
+          "d": "08-12",
+          "c": 1032.15
+        },
+        {
+          "d": "08-13",
+          "c": 1037.55
+        },
+        {
+          "d": "08-14",
+          "c": 1034.35
+        },
+        {
+          "d": "08-17",
+          "c": 1046.19
+        },
+        {
+          "d": "08-18",
+          "c": 1035.4
+        },
+        {
+          "d": "08-19",
+          "c": 1016.67
+        },
+        {
+          "d": "08-20",
+          "c": 997.07
+        },
+        {
+          "d": "08-21",
+          "c": 1034.21
+        },
+        {
+          "d": "08-24",
+          "c": 1031.23
+        },
+        {
+          "d": "08-25",
+          "c": 1053.72
+        },
+        {
+          "d": "08-26",
+          "c": 1035.39
+        },
+        {
+          "d": "08-27",
+          "c": 1035.8
+        },
+        {
+          "d": "08-28",
+          "c": 1028.95
+        },
+        {
+          "d": "08-31",
+          "c": 1020.9
+        },
+        {
+          "d": "09-01",
+          "c": 1002.56
+        },
+        {
+          "d": "09-02",
+          "c": 1004.42
+        },
+        {
+          "d": "09-03",
+          "c": 1037.93
+        },
+        {
+          "d": "09-04",
+          "c": 1038.61
+        }
+      ]
+    },
     {
       "id": "23d7e82104444be1",
       "date": "Tue, 08 Sep 2026",
@@ -41172,114 +41280,6 @@
         {
           "d": "08-13",
           "c": 8.3
-        }
-      ]
-    },
-    {
-      "id": "f7bcd15d29100e5d",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T13:07:19+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Cryptonews.net",
-      "type": "news",
-      "quote": "Trump Media & Technology Group stock wobbles after $238M quarterly",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.07,
-      "change": -3.41,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hbXUtZWFmZTF6djc4T0dwNWdpTW85a1ItWHdTN202ckMwZHhLdDZ5c3N1aHNyYnJjakJVV29xSnJGV0xzaEtLdGpab2d2b21pSG5nZnZ1dG9UX0U?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group stock wobbles after $238M quarterly loss - Cryptonews.net",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 9.07
         }
       ]
     }
