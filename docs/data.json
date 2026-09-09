@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-09-09T06:50:57.980853+00:00",
+  "updated_at": "2026-09-09T12:01:27.099092+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2c92008e5ca2c340",
+      "date": "Wed, 09 Sep 2026",
+      "ts": "2026-09-09T11:36:52+00:00",
+      "date_display": "Sep 09, 2026",
+      "source": "AD HOC NEWS",
+      "type": "news",
+      "quote": "Ford Motor Co. stock falls as Trump administration attacks",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 14.0,
+      "change": -4.24,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhhVGdIVXBxWEd1eHFoSlNoTWF0Z1h0VmpjWmxfYTZzZkhFbjNub1dWVWNGM1g4X25BUEhQdXNDLVBvbXVJQ2p2UVlEcERWYVFuXy1URGRYOWRjenpjaERWNF9aMVdRY21TUTVsTkNieTMtWDVwck9EUUJtV19hZ041ZXhXX2UtZ3RJczNyZU1INUNuVW5nQUpMdjQ4dkpHNUZOdDRKbXFpc2h1RXVSeFdva0lhWi1weVdrQ2lRLW5NMmJO?oc=5",
+      "image": null,
+      "headline": "Ford Motor Co. stock falls as Trump administration attacks China partnerships - AD HOC NEWS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 13.85
+        },
+        {
+          "d": "08-11",
+          "c": 13.98
+        },
+        {
+          "d": "08-12",
+          "c": 13.83
+        },
+        {
+          "d": "08-13",
+          "c": 13.89
+        },
+        {
+          "d": "08-14",
+          "c": 14.37
+        },
+        {
+          "d": "08-17",
+          "c": 14.05
+        },
+        {
+          "d": "08-18",
+          "c": 13.93
+        },
+        {
+          "d": "08-19",
+          "c": 14.5
+        },
+        {
+          "d": "08-20",
+          "c": 13.99
+        },
+        {
+          "d": "08-21",
+          "c": 14.41
+        },
+        {
+          "d": "08-24",
+          "c": 13.93
+        },
+        {
+          "d": "08-25",
+          "c": 13.95
+        },
+        {
+          "d": "08-26",
+          "c": 13.9
+        },
+        {
+          "d": "08-27",
+          "c": 13.95
+        },
+        {
+          "d": "08-28",
+          "c": 13.88
+        },
+        {
+          "d": "08-31",
+          "c": 13.94
+        },
+        {
+          "d": "09-01",
+          "c": 13.84
+        },
+        {
+          "d": "09-02",
+          "c": 14.14
+        },
+        {
+          "d": "09-03",
+          "c": 14.41
+        },
+        {
+          "d": "09-04",
+          "c": 14.62
+        },
+        {
+          "d": "09-08",
+          "c": 14.0
+        }
+      ]
+    },
     {
       "id": "f53bca3870d878cc",
       "date": "Wed, 09 Sep 2026",
@@ -557,6 +661,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb25wS0p3alRmUXprYUV4MkIwY2w0YWFXWFRMTmlVa2F6Sk5IMDhDQWNYdllNcXUyQ1gxOEFsMU40MkpLRzZ3ajFpNWx5MV83SVBRbGI2WEpNMU9PQU9tQTgzamRLSmlZREZJSnR2b0JIdG1HZm9GWmtNWUhJTEhsVWZZcw?oc=5",
       "image": null,
       "headline": "Trump Media Launches MAGA-Friendly Truth Social ETFs - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 9.39
+        },
+        {
+          "d": "08-11",
+          "c": 8.91
+        },
+        {
+          "d": "08-12",
+          "c": 8.27
+        },
+        {
+          "d": "08-13",
+          "c": 8.3
+        },
+        {
+          "d": "08-14",
+          "c": 8.27
+        },
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        }
+      ]
+    },
+    {
+      "id": "bc3c7b0fead8c640",
+      "date": "Tue, 08 Sep 2026",
+      "ts": "2026-09-08T16:50:30+00:00",
+      "date_display": "Sep 08, 2026",
+      "source": "nytimes.com",
+      "type": "news",
+      "quote": "Trump Media Launches MAGA-Friendly Truth Social ETFs - nytimes.com",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.23,
+      "change": 2.33,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb25wS0p3alRmUXprYUV4MkIwY2w0YWFXWFRMTmlVa2F6Sk5IMDhDQWNYdllNcXUyQ1gxOEFsMU40MkpLRzZ3ajFpNWx5MV83SVBRbGI2WEpNMU9PQU9tQTgzamRLSmlZREZJSnR2b0JIdG1HZm9GWmtNWUhJTEhsVWZZcw?oc=5",
+      "image": null,
+      "headline": "Trump Media Launches MAGA-Friendly Truth Social ETFs - nytimes.com",
       "channel": "News",
       "series": [
         {
@@ -40935,222 +41143,6 @@
         {
           "d": "08-11",
           "c": 8.94
-        }
-      ]
-    },
-    {
-      "id": "e2d541ba15e0cfc6",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T18:49:51+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "LiveNOW from FOX",
-      "type": "news",
-      "quote": "$238M loss, plans major business pivot - LiveNOW from FOX Trump Media posts massive $238M loss, plans major business",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.34,
-      "change": -1.76,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5od1dVelRHS2xSRzFWRHZHUXpXa1lGMGtUQkRhdGFqcEZKaTV1ZzFuQXgxcVRyQjBnbzg2eUNwRGhkM0RDUEwwWXlxNlMzSHd0VWJRWlRpYkNXT09vQzh1UTN1eFVUTkFsTE1qNDVtNGZ4VE1FbDZ5YVJYNmt3cXU1QjhiTEw2R0UxMXZTNURIemNISHE1RHlB?oc=5",
-      "image": null,
-      "headline": "Trump Media posts massive $238M loss, plans major business pivot - LiveNOW from FOX",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 50.22
-        },
-        {
-          "d": "07-14",
-          "c": 49.5
-        },
-        {
-          "d": "07-15",
-          "c": 50.39
-        },
-        {
-          "d": "07-16",
-          "c": 51.08
-        },
-        {
-          "d": "07-17",
-          "c": 51.63
-        },
-        {
-          "d": "07-20",
-          "c": 51.55
-        },
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        }
-      ]
-    },
-    {
-      "id": "663a780c3b5b2eb9",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T18:49:51+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "LiveNOW from FOX",
-      "type": "news",
-      "quote": "Trump Media posts massive $238M loss, plans major business pivot -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5od1dVelRHS2xSRzFWRHZHUXpXa1lGMGtUQkRhdGFqcEZKaTV1ZzFuQXgxcVRyQjBnbzg2eUNwRGhkM0RDUEwwWXlxNlMzSHd0VWJRWlRpYkNXT09vQzh1UTN1eFVUTkFsTE1qNDVtNGZ4VE1FbDZ5YVJYNmt3cXU1QjhiTEw2R0UxMXZTNURIemNISHE1RHlB?oc=5",
-      "image": null,
-      "headline": "Trump Media posts massive $238M loss, plans major business pivot - LiveNOW from FOX",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
         }
       ]
     }
