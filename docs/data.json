@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:33:04.877981+00:00",
+  "updated_at": "2026-09-09T22:04:05.191143+00:00",
   "count": 400,
   "mentions": [
     {
@@ -24091,6 +24091,114 @@
       ]
     },
     {
+      "id": "844e51484d49af1a",
+      "date": "Wed, 19 Aug 2026",
+      "ts": "2026-08-19T07:00:00+00:00",
+      "date_display": "Aug 19, 2026",
+      "source": "bbc.com",
+      "type": "news",
+      "quote": "Target receives $1bn boost from Trump tariff refunds - bbc.com",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 157.52,
+      "change": -3.19,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbndrUTRlUjhuSHhMZHRqR181QVc1WHFHQ1BKQWtLM3l5LXRfOGgzUWNpdmtMb3NFM3lwWlF2Ykp4VGwtU09xSnpiZUhfeVpJQ2Fqa3U3c3VxUQ?oc=5",
+      "image": null,
+      "headline": "Target receives $1bn boost from Trump tariff refunds - bbc.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 150.86
+        },
+        {
+          "d": "08-11",
+          "c": 151.13
+        },
+        {
+          "d": "08-12",
+          "c": 154.0
+        },
+        {
+          "d": "08-13",
+          "c": 155.51
+        },
+        {
+          "d": "08-14",
+          "c": 154.48
+        },
+        {
+          "d": "08-17",
+          "c": 151.01
+        },
+        {
+          "d": "08-18",
+          "c": 152.48
+        },
+        {
+          "d": "08-19",
+          "c": 159.0
+        },
+        {
+          "d": "08-20",
+          "c": 158.25
+        },
+        {
+          "d": "08-21",
+          "c": 165.44
+        },
+        {
+          "d": "08-24",
+          "c": 169.89
+        },
+        {
+          "d": "08-25",
+          "c": 163.47
+        },
+        {
+          "d": "08-26",
+          "c": 164.04
+        },
+        {
+          "d": "08-27",
+          "c": 165.93
+        },
+        {
+          "d": "08-28",
+          "c": 163.18
+        },
+        {
+          "d": "08-31",
+          "c": 160.88
+        },
+        {
+          "d": "09-01",
+          "c": 163.75
+        },
+        {
+          "d": "09-02",
+          "c": 163.36
+        },
+        {
+          "d": "09-03",
+          "c": 164.01
+        },
+        {
+          "d": "09-04",
+          "c": 164.44
+        },
+        {
+          "d": "09-08",
+          "c": 162.71
+        },
+        {
+          "d": "09-09",
+          "c": 157.52
+        }
+      ]
+    },
+    {
       "id": "d16a4fb5c23ef200",
       "date": "Tue, 18 Aug 2026",
       "ts": "2026-08-18T22:29:05+00:00",
@@ -41215,25 +41323,6 @@
           "c": 8.91
         }
       ]
-    },
-    {
-      "id": "7c49d86ccf0e80e7",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T21:11:09+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
-      "image": null,
-      "headline": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-      "channel": "News",
-      "series": null
     }
   ]
 }
