@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-09T16:47:24.084154+00:00",
+  "updated_at": "2026-09-09T19:33:04.877981+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a0d0e79fe02817a4",
+      "date": "Wed, 09 Sep 2026",
+      "ts": "2026-09-09T19:05:53+00:00",
+      "date_display": "Sep 09, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "he tries to fend off an intraparty challenge from former CVS executive Helena Foulkes in Wednesday's state primary.",
+      "company": "Cvs",
+      "ticker": "CVS",
+      "price": 95.83,
+      "change": -0.25,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/gov-mckee-faces-tough-challenge-from-foulkes-in-rhode-island-democratic-primary",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2022-10-27T222221Z_1095413846_RC2X9X9X84MD_RTRMADP_3_USA-ELECTION-HEADSHOTS-1024x705.jpg",
+      "headline": "Gov. McKee faces tough challenge from Foulkes in Rhode Island Democratic primary",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 95.67
+        },
+        {
+          "d": "08-11",
+          "c": 93.5
+        },
+        {
+          "d": "08-12",
+          "c": 94.72
+        },
+        {
+          "d": "08-13",
+          "c": 94.99
+        },
+        {
+          "d": "08-14",
+          "c": 97.16
+        },
+        {
+          "d": "08-17",
+          "c": 94.01
+        },
+        {
+          "d": "08-18",
+          "c": 94.91
+        },
+        {
+          "d": "08-19",
+          "c": 93.65
+        },
+        {
+          "d": "08-20",
+          "c": 93.65
+        },
+        {
+          "d": "08-21",
+          "c": 93.02
+        },
+        {
+          "d": "08-24",
+          "c": 94.11
+        },
+        {
+          "d": "08-25",
+          "c": 92.9
+        },
+        {
+          "d": "08-26",
+          "c": 94.32
+        },
+        {
+          "d": "08-27",
+          "c": 92.92
+        },
+        {
+          "d": "08-28",
+          "c": 93.06
+        },
+        {
+          "d": "08-31",
+          "c": 93.91
+        },
+        {
+          "d": "09-01",
+          "c": 97.6
+        },
+        {
+          "d": "09-02",
+          "c": 97.23
+        },
+        {
+          "d": "09-03",
+          "c": 97.2
+        },
+        {
+          "d": "09-04",
+          "c": 96.74
+        },
+        {
+          "d": "09-08",
+          "c": 96.07
+        },
+        {
+          "d": "09-09",
+          "c": 95.83
+        }
+      ]
+    },
     {
       "id": "2c92008e5ca2c340",
       "date": "Wed, 09 Sep 2026",
@@ -41126,114 +41234,6 @@
       "headline": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "3af7b64efba40ac4",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T20:58:55+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "Courthouse News",
-      "type": "news",
-      "quote": "As Trump Media scraps some businesses, it's doubling down on Truth Social",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.14,
-      "change": 0.88,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUWRiRFFoTDVrRWRSS2NOYjQ3RkJJdS1ocEhOcERLWUhsa3hxYUNwV2J0MmVFeTNBWmlEZE1aXzZaUndEUTRrT0Z3amRmeXVfVkVpajFxSjdtb2JzbGVPSE9HY1BiVlNWZUx1Y1NxeXlkY0NxTzEtVFF3MTZYQ2gwZVV2UXZhZWxyU1N0Q19td1E2ejBMNVY0dFFNcTVhQjhJYnd1NHhBWDFVbnRGUGhvSVR6by05VE1LOExSVlBB?oc=5",
-      "image": null,
-      "headline": "As Trump Media scraps some businesses, it's doubling down on Truth Social and the president - Courthouse News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        }
-      ]
     }
   ]
 }
