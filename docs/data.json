@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-09T22:04:05.191143+00:00",
+  "updated_at": "2026-09-10T00:21:36.104381+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "63c86c79b7fc1785",
+      "date": "Wed, 09 Sep 2026",
+      "ts": "2026-09-09T22:55:11+00:00",
+      "date_display": "Sep 09, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "world. Jacob Coxon, who previously worked at Anthropic and OpenAI, wrote that the industry understands the potential risks",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/ai-1024x704.jpg",
+      "headline": "AI researcher warns companies are ignoring catastrophic risks",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "a0d0e79fe02817a4",
       "date": "Wed, 09 Sep 2026",
@@ -12856,6 +12875,214 @@
         {
           "d": "08-27",
           "c": 9.77
+        }
+      ]
+    },
+    {
+      "id": "8a29c1f662193054",
+      "date": "Thu, 27 Aug 2026",
+      "ts": "2026-08-27T07:00:00+00:00",
+      "date_display": "Aug 27, 2026",
+      "source": "marketplace.org",
+      "type": "news",
+      "quote": "Here's what companies like Walmart and Amazon say they're doing with their tariff refunds -",
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "price": 256.97,
+      "change": -0.6,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0dCODdjbWxfS2U1aVlsa0htQ2VkbjRkSEtYM29PVGZybTVubURyWmpFSVVjdVFLc1FhTF9mYUV3dkU4eFo3c0hROWt5NHh3elVQUEozS0NtOFBJYl95UHVqSEVnVFlCUTZXalRfdnJDRjhoeHlJVDJHV0lQeHJhem1PVkszc0dESVpEWkczbUktcEF3ZWw2TkwtUTVrZzRJSDQ5OVRSb1BjN3o4dlhlQ01JaXBLUk1IX1dNT1VoOUdLUGFGckVNZGxILTY?oc=5",
+      "image": null,
+      "headline": "Here's what companies like Walmart and Amazon say they're doing with their tariff refunds - marketplace.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 278.09
+        },
+        {
+          "d": "08-11",
+          "c": 272.27
+        },
+        {
+          "d": "08-12",
+          "c": 267.28
+        },
+        {
+          "d": "08-13",
+          "c": 265.13
+        },
+        {
+          "d": "08-14",
+          "c": 262.65
+        },
+        {
+          "d": "08-17",
+          "c": 261.31
+        },
+        {
+          "d": "08-18",
+          "c": 259.45
+        },
+        {
+          "d": "08-19",
+          "c": 265.84
+        },
+        {
+          "d": "08-20",
+          "c": 260.11
+        },
+        {
+          "d": "08-21",
+          "c": 258.63
+        },
+        {
+          "d": "08-24",
+          "c": 262.07
+        },
+        {
+          "d": "08-25",
+          "c": 261.06
+        },
+        {
+          "d": "08-26",
+          "c": 260.28
+        },
+        {
+          "d": "08-27",
+          "c": 256.26
+        },
+        {
+          "d": "08-28",
+          "c": 266.43
+        },
+        {
+          "d": "08-31",
+          "c": 259.77
+        },
+        {
+          "d": "09-01",
+          "c": 254.92
+        },
+        {
+          "d": "09-02",
+          "c": 254.98
+        },
+        {
+          "d": "09-03",
+          "c": 258.9
+        },
+        {
+          "d": "09-04",
+          "c": 258.51
+        },
+        {
+          "d": "09-08",
+          "c": 256.97
+        }
+      ]
+    },
+    {
+      "id": "78addd83e9cf01f5",
+      "date": "Thu, 27 Aug 2026",
+      "ts": "2026-08-27T07:00:00+00:00",
+      "date_display": "Aug 27, 2026",
+      "source": "marketplace.org",
+      "type": "news",
+      "quote": "Here's what companies like Walmart and Amazon say they're doing with their tariff refunds -",
+      "company": "Walmart",
+      "ticker": "WMT",
+      "price": 106.05,
+      "change": -1.02,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0dCODdjbWxfS2U1aVlsa0htQ2VkbjRkSEtYM29PVGZybTVubURyWmpFSVVjdVFLc1FhTF9mYUV3dkU4eFo3c0hROWt5NHh3elVQUEozS0NtOFBJYl95UHVqSEVnVFlCUTZXalRfdnJDRjhoeHlJVDJHV0lQeHJhem1PVkszc0dESVpEWkczbUktcEF3ZWw2TkwtUTVrZzRJSDQ5OVRSb1BjN3o4dlhlQ01JaXBLUk1IX1dNT1VoOUdLUGFGckVNZGxILTY?oc=5",
+      "image": null,
+      "headline": "Here's what companies like Walmart and Amazon say they're doing with their tariff refunds - marketplace.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-10",
+          "c": 112.39
+        },
+        {
+          "d": "08-11",
+          "c": 112.99
+        },
+        {
+          "d": "08-12",
+          "c": 115.73
+        },
+        {
+          "d": "08-13",
+          "c": 115.44
+        },
+        {
+          "d": "08-14",
+          "c": 114.99
+        },
+        {
+          "d": "08-17",
+          "c": 114.06
+        },
+        {
+          "d": "08-18",
+          "c": 114.92
+        },
+        {
+          "d": "08-19",
+          "c": 114.03
+        },
+        {
+          "d": "08-20",
+          "c": 103.59
+        },
+        {
+          "d": "08-21",
+          "c": 103.7
+        },
+        {
+          "d": "08-24",
+          "c": 106.49
+        },
+        {
+          "d": "08-25",
+          "c": 105.38
+        },
+        {
+          "d": "08-26",
+          "c": 104.34
+        },
+        {
+          "d": "08-27",
+          "c": 102.63
+        },
+        {
+          "d": "08-28",
+          "c": 103.09
+        },
+        {
+          "d": "08-31",
+          "c": 104.87
+        },
+        {
+          "d": "09-01",
+          "c": 105.92
+        },
+        {
+          "d": "09-02",
+          "c": 106.09
+        },
+        {
+          "d": "09-03",
+          "c": 108.42
+        },
+        {
+          "d": "09-04",
+          "c": 107.14
+        },
+        {
+          "d": "09-08",
+          "c": 106.05
         }
       ]
     },
@@ -40908,330 +41135,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4eUdBbGF1dVJBYXdDVVJQbkR3cnNnOGRpSjYtRWVNbEZKNVBXa25OS25PcGhRWGNZeXU5VjJpWmdxYW1UTXRvc1RwVVhld3hYcURwVUVxWFo2NklqeXloM0w3a2lnRzV0RFMyVzhNVDVxVUE2NVRLeEFR?oc=5",
       "image": null,
       "headline": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy After Massive Losses - Intellectia AI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "70ad82c033ee6964",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T00:10:22+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Intellectia AI",
-      "type": "news",
-      "quote": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy After Massive Losses - Intellectia AI Trump Media (DJT)",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 96.09,
-      "change": -1.27,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4eUdBbGF1dVJBYXdDVVJQbkR3cnNnOGRpSjYtRWVNbEZKNVBXa25OS25PcGhRWGNZeXU5VjJpWmdxYW1UTXRvc1RwVVhld3hYcURwVUVxWFo2NklqeXloM0w3a2lnRzV0RFMyVzhNVDVxVUE2NVRLeEFR?oc=5",
-      "image": null,
-      "headline": "Trump Media (DJT) Stock Analysis: Evaluating the Turnaround Strategy After Massive Losses - Intellectia AI",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 92.1
-        },
-        {
-          "d": "07-14",
-          "c": 97.58
-        },
-        {
-          "d": "07-15",
-          "c": 97.47
-        },
-        {
-          "d": "07-16",
-          "c": 94.03
-        },
-        {
-          "d": "07-17",
-          "c": 94.85
-        },
-        {
-          "d": "07-20",
-          "c": 97.82
-        },
-        {
-          "d": "07-21",
-          "c": 101.95
-        },
-        {
-          "d": "07-22",
-          "c": 100.01
-        },
-        {
-          "d": "07-23",
-          "c": 93.63
-        },
-        {
-          "d": "07-24",
-          "c": 91.67
-        },
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        }
-      ]
-    },
-    {
-      "id": "c43cb1e94cd5cb84",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T22:20:05+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "CBS News",
-      "type": "news",
-      "quote": "Trump Media has struggled to grow. Now it's selling $100,000 contracts",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiX2x4eWp5bjRCeHBVV1VHN1kzTFlWQ1VyWmplUVhUNmw0dXltVmxIY2Fya01PRXc4SlN3M3dDTEQ0UHJDcmdHY0gyR0xpN0VJXzNsZlJNTHk2ZllweWlBUk4weXlKWDZkSGJhMmVsRGt6Z3RzN3E0?oc=5",
-      "image": null,
-      "headline": "Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - CBS News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "71f934573271e54e",
-      "date": "Tue, 11 Aug 2026",
-      "ts": "2026-08-11T21:50:01+00:00",
-      "date_display": "Aug 11, 2026",
-      "source": "abccolumbia.com",
-      "type": "news",
-      "quote": "firms paying up to $100K for early access to Trump posts, Trump Media says - abccolumbia.com Wall Street firms paying up to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2xJY2ZUcm9xcEJWYVNyOTVmMkdCR19fRk42RndyU1g1ZXBGN3lOaC1YSG4taEpsZ3l4TVlaTFY1ZnRoblhPc0IwNlFITVktaUxmbUtPd3I0V3BKdjhmX251V1pENkFOaDZvZGdPVGR1clp3cXNJNjFQbFFTbDg2cWhENzM4OVE1UmxxX0otXzVXMGprdm9nbFlqVGgzUWxfam9OV1BGSEJfRTRCN1lnMlhuNXhvaHU0MnU2MUVjQXBzdw?oc=5",
-      "image": null,
-      "headline": "Wall Street firms paying up to $100K for early access to Trump posts, Trump Media says - abccolumbia.com",
       "channel": "News",
       "series": [
         {
