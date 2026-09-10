@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-10T13:42:51.208188+00:00",
+  "updated_at": "2026-09-10T17:22:26.648668+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "996f267bd4dbc690",
+      "date": "Thu, 10 Sep 2026",
+      "ts": "2026-09-10T14:31:58+00:00",
+      "date_display": "Sep 10, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump says oil prices will tumble down after election - Fox Business Trump says oil prices will tumble down after",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 58.01,
+      "change": 1.59,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5namlCYnVmZmlDM0ZraGJyRkNZSkJVQWlnYWlVXzdLZXAxNmxQQTlVSVJJX1U1Tm1lWExkdGRGam5PMUlmakYzdWVsYVZzOFE3NXNyZDJRV1pzWnM?oc=5",
+      "image": null,
+      "headline": "Trump says oil prices will tumble down after election - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-11",
+          "c": 55.07
+        },
+        {
+          "d": "08-12",
+          "c": 55.7
+        },
+        {
+          "d": "08-13",
+          "c": 57.81
+        },
+        {
+          "d": "08-14",
+          "c": 61.11
+        },
+        {
+          "d": "08-17",
+          "c": 61.19
+        },
+        {
+          "d": "08-18",
+          "c": 60.93
+        },
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.01
+        }
+      ]
+    },
     {
       "id": "63c86c79b7fc1785",
       "date": "Wed, 09 Sep 2026",
@@ -41116,114 +41224,6 @@
         {
           "d": "08-11",
           "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "9213306c0dfcf10c",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T00:13:12+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "mediaplaynews.com",
-      "type": "news",
-      "quote": "Trump Media Posts $238 Million Quarterly Loss, Company Now Selling",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.07,
-      "change": -0.37,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSkhhai1VOG0yNEFSc1VJdXE3aHV4NHM0bXFjam1OSU5fRzE4SU1jYXB4RVVhVVpJTkUtc1pTczNwd0ZLakYtUXdSeFNKYlhlLTJyb1RycmEwNXBveFAxM1p3OW1OQmtYR3lIblhDeHRpV3pta1ltMU9qNlFTcVF4dWU5dENFWnJxd0NmbDNuVHRLNmF0bVdrUmhMclB0UXBQTkVZQXlIUnhrUVZLZlFYRGZ2Rk9neTYyMmk5MFdaMUo2Vnl4ZDFQcVE3Ym1NNzFLOXdSZDB0T1diOWV2RzFqZQ?oc=5",
-      "image": null,
-      "headline": "Trump Media Posts $238 Million Quarterly Loss, Company Now Selling Early Access to President Trump's Truth Social Posts - mediaplaynews.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.07
         }
       ]
     }
