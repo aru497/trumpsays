@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-11T09:14:44.284518+00:00",
+  "updated_at": "2026-09-11T13:40:53.127648+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3a819ee6e2013072",
+      "date": "Fri, 11 Sep 2026",
+      "ts": "2026-09-11T00:07:08+00:00",
+      "date_display": "Sep 11, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "Trump says he has no \u2018regrets\u2019 over Iran war - Fox News Trump says he has no \u2018regrets\u2019 over Iran",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 58.37,
+      "change": 0.53,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84QzN6N1ZHR1NhY2NwOGxtX2FHSm53RnV6dDl4QjN5RFItcmNFRS1HYmFtV0lpRXRxMFkteUlVYjA1NXl5MzRGdnJaRndMRVQ2WHlmYVFB?oc=5",
+      "image": null,
+      "headline": "Trump says he has no \u2018regrets\u2019 over Iran war - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-12",
+          "c": 55.7
+        },
+        {
+          "d": "08-13",
+          "c": 57.81
+        },
+        {
+          "d": "08-14",
+          "c": 61.11
+        },
+        {
+          "d": "08-17",
+          "c": 61.19
+        },
+        {
+          "d": "08-18",
+          "c": 60.93
+        },
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.37
+        }
+      ]
+    },
     {
       "id": "1745f1243ff4a2a3",
       "date": "Thu, 10 Sep 2026",
@@ -41116,110 +41224,6 @@
         {
           "d": "09-04",
           "c": 9.02
-        }
-      ]
-    },
-    {
-      "id": "010c112c0da1d9c2",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T07:00:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Sky News",
-      "type": "news",
-      "quote": "Losses balloon at Trump Media, the company behind Truth Social - Sky News Losses balloon",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.23,
-      "change": 2.33,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0xjVnV5WlZsSDB2R0NpZ1IzUVlEU3RmT0R1VHRna3BOZHlHczdXR0NUdUFZXzZsSjdDa1JWUHdMRnhGVk5uVkYyeEl6SnZucms5bnB0LWtOSWVlV0dfLUJYcVg2bGhWVERQa0lvc3RlT0NqTzJ1RERjdmIxeTRuc1B6WkZqb253YlpVd0x3QUo0bUdJTDBtUlBUb2Etdw?oc=5",
-      "image": null,
-      "headline": "Losses balloon at Trump Media, the company behind Truth Social - Sky News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
         }
       ]
     }
