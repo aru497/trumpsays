@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-11T17:23:56.000858+00:00",
+  "updated_at": "2026-09-11T19:53:04.340736+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4817fdd454cc9dc3",
+      "date": "Fri, 11 Sep 2026",
+      "ts": "2026-09-11T17:56:42+00:00",
+      "date_display": "Sep 11, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Senators from both parties question OpenAI on breach of AI startup Hugging Face Sen. Josh Hawley,",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-07-29T143016Z_2036873086_RC2QNMA53UC1_RTRMADP_3_HEALTH-CORONAVIRUS-USA-FAUCI-1024x683.jpg",
+      "headline": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "3a819ee6e2013072",
       "date": "Fri, 11 Sep 2026",
@@ -41116,114 +41135,6 @@
         {
           "d": "09-02",
           "c": 9.14
-        }
-      ]
-    },
-    {
-      "id": "868a1608898c52d0",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T07:00:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "forbes.com",
-      "type": "news",
-      "quote": "Trump Sued Over Faster Access To Truth Social Posts - forbes.com Trump Sued Over Faster Access To Truth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.02,
-      "change": -5.25,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVlENE9sM1piTjRHbi1RME5xcGdlQUNWUW9fVk9LZDVVdDVnZGxkMW9yNTFRUTM2ZDNiVUljVy1fTU9rZXZCYUItWVpwWXUtU3lmb2Q4dHpfTHMyRzZYSTlGWGdRdWpISDI1X0VpTUI1S1doTEdwZlpEblBaS2E5TlRmWWpjUGJjZEpJVUp0bldoNG9JS0xXU3owR1JBSzdIbkl0Sl9pTFZFd00?oc=5",
-      "image": null,
-      "headline": "Trump Sued Over Faster Access To Truth Social Posts - forbes.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
         }
       ]
     }
