@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-09-10T22:02:05.357631+00:00",
+  "updated_at": "2026-09-11T00:17:34.993404+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1745f1243ff4a2a3",
+      "date": "Thu, 10 Sep 2026",
+      "ts": "2026-09-10T22:50:23+00:00",
+      "date_display": "Sep 10, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Point USA, Geoff Bennett spoke with Robert Draper, a New York Times Magazine reporter who profiled Kirk before his death.",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 66.6,
+      "change": -2.0,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/a-look-at-the-young-conservative-movement-a-year-after-charlie-kirks-killing",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/kirk-1024x683.jpg",
+      "headline": "A look at the young conservative movement a year after Charlie Kirk's killing",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-11",
+          "c": 63.73
+        },
+        {
+          "d": "08-12",
+          "c": 63.95
+        },
+        {
+          "d": "08-13",
+          "c": 64.13
+        },
+        {
+          "d": "08-14",
+          "c": 64.79
+        },
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        }
+      ]
+    },
     {
       "id": "f9bb0e3dcc43640b",
       "date": "Thu, 10 Sep 2026",
@@ -41116,114 +41220,6 @@
         {
           "d": "09-09",
           "c": 8.71
-        }
-      ]
-    },
-    {
-      "id": "90add4ef930e5c86",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T02:22:43+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "daily-sun.com",
-      "type": "news",
-      "quote": "Trump Media reports first sales for early access to president\u2019s posts",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGU1bWl1ZWZPTWpXeFpUY3pzOHlXQ2c3ZlExZWlaVWl6ZE5oZDVSczFPZGVReEFRWFNVVnFjRjBoSDJYNnlPZ2hrY05aZWlpejBJWEl5eVBuR2pKa1VWSnlObG9QNXZQclhrS1o1eUM0MEYtUzQ1NjZSNmFCVzExUVA3MERHS1QzTmRxVVYtVGNSalpXdWlfTkhrandtZw?oc=5",
-      "image": null,
-      "headline": "Trump Media reports first sales for early access to president\u2019s posts - daily-sun.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
         }
       ]
     }
