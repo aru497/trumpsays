@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-09-14T18:47:35.124922+00:00",
+  "updated_at": "2026-09-14T22:11:25.600161+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e743639797fb0552",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T21:57:49+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 158.7,
+      "change": 1.84,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-06T172033Z_2136180357_RC2RDNAAS5C5_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1024x683.jpg",
+      "headline": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 151.01
+        },
+        {
+          "d": "08-18",
+          "c": 152.48
+        },
+        {
+          "d": "08-19",
+          "c": 159.0
+        },
+        {
+          "d": "08-20",
+          "c": 158.25
+        },
+        {
+          "d": "08-21",
+          "c": 165.44
+        },
+        {
+          "d": "08-24",
+          "c": 169.89
+        },
+        {
+          "d": "08-25",
+          "c": 163.47
+        },
+        {
+          "d": "08-26",
+          "c": 164.04
+        },
+        {
+          "d": "08-27",
+          "c": 165.93
+        },
+        {
+          "d": "08-28",
+          "c": 163.18
+        },
+        {
+          "d": "08-31",
+          "c": 160.88
+        },
+        {
+          "d": "09-01",
+          "c": 163.75
+        },
+        {
+          "d": "09-02",
+          "c": 163.36
+        },
+        {
+          "d": "09-03",
+          "c": 164.01
+        },
+        {
+          "d": "09-04",
+          "c": 164.44
+        },
+        {
+          "d": "09-08",
+          "c": 162.71
+        },
+        {
+          "d": "09-09",
+          "c": 157.52
+        },
+        {
+          "d": "09-10",
+          "c": 155.73
+        },
+        {
+          "d": "09-11",
+          "c": 155.83
+        },
+        {
+          "d": "09-14",
+          "c": 158.7
+        }
+      ]
+    },
+    {
+      "id": "f53b3fc1a471f86a",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T20:53:24+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "of A.I. Regulation and Calls Out Anthropic\u2019s CEO - The New York Times Trump Rejects Talk of A.I. Regulation and Calls Out",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.34,
+      "change": 5.17,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
+      "image": null,
+      "headline": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic\u2019s CEO - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        }
+      ]
+    },
+    {
+      "id": "3a803f8f6161f990",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T20:28:00+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "The Daily Beast",
+      "type": "news",
+      "quote": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - The Daily Beast Trump Hit With Fresh 25th",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": 2.19,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3BJMmIzSWkzVDFwdS1hWXRqZ3k2WUVoR3ZEMTFHODlzS19qLWlIeXg3WFR6X3BGV3J0bDJRbUhta0Y2eC0xTnBieUVyMklqcTctN3hNRTdCdi1KQ3gtNUItQlhUdTdscFJOd21Md2swSHQ3RjRnaGVnaXpGOWJzSmItcGM5LVo1YlAtOFRjNUJLYVc1SUU2ZzlmdEs2NldCYU1sN1F3?oc=5",
+      "image": null,
+      "headline": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - The Daily Beast",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        }
+      ]
+    },
     {
       "id": "0ef6a59d1edf45a2",
       "date": "Mon, 14 Sep 2026",
@@ -103,6 +403,206 @@
         {
           "d": "09-14",
           "c": 8.89
+        }
+      ]
+    },
+    {
+      "id": "6958dab7fcacaa67",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T15:15:22+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "NewsCord",
+      "type": "news",
+      "quote": "Rejects AI Guardrails, Slams Anthropic CEO Dario Amodei on Truth Social: how 33 outlets framed it - NewsCord Donald Trump Rejects",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.85,
+      "change": 2.19,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkItSXZNZklfSmgycmlyVHF3Z21HdjZJaTdSb1pYWG51dVoydXJ0WWUwNmkwd1AyeTBxZkNqbUREdnk3c3Q4ejhSczhiMWc5a1V3dUF3TmR1RUNHTlRXcDMzNzR3RGdmY2hkdHpkYnFnUzZkb1NmbnRUcjRvNWNNWjdBcVd6SF9XR2RfdlJYb3ltY1Rfb0tGekFOdWFWZXhOTUxrYXIxUVhKZ3Y3WjZRWEhJYmdGbUlx?oc=5",
+      "image": null,
+      "headline": "Donald Trump Rejects AI Guardrails, Slams Anthropic CEO Dario Amodei on Truth Social: how 33 outlets framed it - NewsCord",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "ebce71c198f46e5e",
+      "date": "Sun, 13 Sep 2026",
+      "ts": "2026-09-13T19:06:12+00:00",
+      "date_display": "Sep 13, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Blames Ukraine for Global Diesel Shortage - The New York Times Trump Blames Ukraine for Global Diesel",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.34,
+      "change": 5.17,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abXRyeGJWSXpJalBWaU5xWFRmdXFmNG14TlN0T0owZWw3MVR3elVsX3JETW1NSVk5cHNPY2paWnRSSFM1TXYyMjlHTVhncUEwa2tNN0FyYVo4MUZFNnR4WlBGcDVmNXJ6d3JhZkR2b1QxMFE3MkhBdA?oc=5",
+      "image": null,
+      "headline": "Trump Blames Ukraine for Global Diesel Shortage - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
         }
       ]
     },
@@ -40688,457 +41188,6 @@
         {
           "d": "08-10",
           "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "a982126c71efa8f9",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T10:37:23+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The South Shore Press",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Grows Into $2 Billion Media Enterprise - The South Shore",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkg4bTVZRTN2NDZjSkttV3lKOUJ5WXk2cGd5QkRnOTFnTHhlb0gtNXhtNVVUaXhveEM1d0RodFBJVm81VFgxdTNYaUxRWlRDQmgycTNuNXprbnI2SkVaR1U5d3JFR2VNYTROLUZJZXhnYTl1bUZtV01lOTRsM0ZnSU16YkFQVHI1dHItWlI0SlljTHVUTmRiOG1YcjdieklzMEloMlBTb0R0ZFd5?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Grows Into $2 Billion Media Enterprise - The South Shore Press",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "d905d287d7b30c4c",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T10:34:30+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump Says He\u2019s Exploring Federal Action to Block Zohran Mamdani\u2019s Luxury Second-Home Tax, Calls It a \u2018Da -",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWmM5RnZ4UFNHNnJUVDZVUFRIOGEzWWJNbWZmOUxFemJkNU5WMy1haDRhYldodDI1ZGF3Q1VjbjJfOVZlUkZoWjFYZm96MmNrQWVXLWhxT0loU3ZfckJ0UXFFTE81Z0xOQWR6NkRoVnRWS3BmQ0ktZThzZ2pXR3Jva0pZVnZrMWlvTW9ybUFjUlhpNHJzZU9oN0ZkQ0l3Q2pkVl9hQmZXOElFZjFialpyUV9NRFdlamdobnUxUUNhZU0wOEVPN1pXaDQwQWJlWHVocGJuVExXNGdtSU1HMU8wZEVGTWlPdExoQTRWZUJ4T1FldFpPOGFvcnF6YnBtN2dvb0pveXJYY1Zxei1xVDRXRg?oc=5",
-      "image": null,
-      "headline": "Trump Says He\u2019s Exploring Federal Action to Block Zohran Mamdani\u2019s Luxury Second-Home Tax, Calls It a \u2018Da - Benzinga",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "8204e89c3af77f66",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T09:02:04+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Some Canadian Companies to Consider Moving South - The New York Times Trump\u2019s Tariffs Force Some Canadian Companies to Consider",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 64.36,
-      "change": 0.99,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0taSWQ3b3FDM3hvVmZmTFhLc1k2ak5nQWhCeE9SQllLRE9nWnFfM2t6cnNzYnJYMEg2bWFWZDFNZmlEaXpkUlk0S1c2WHZ1UWRUdGZhUXBZSXBxYWthYXNnMU1UMWYwc2ZjdENqM0owdHR1d0RyM3RSTUljTS1BcXVNNWtOdk9UTldSQ0g5U2ktM1EyaFZJbA?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Tariffs Force Some Canadian Companies to Consider Moving South - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 64.36
-        }
-      ]
-    },
-    {
-      "id": "0db267b847ae9044",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T07:39:04+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The Indian Express",
-      "type": "news",
-      "quote": "Why Trump\u2019s plan to sell faster access to Truth Social is controversial - The Indian Express Why Trump\u2019s plan to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": -5.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQU96UjNGWi1CX1VFYVBJa25fTWtUdTJ0MVZhUXhnQmJNdFVsMGl1QklvREp0NE84cVg0dlNOZXZXLVZtUzRmTnp0OXdzNWt4Q2drdDVJcEI1NGNBM2wwOHZ2dlFKUS12OFdpSEstSEZ4aWFVZmszX05UemRzdFU2NXlxMThMRW9mVDBTcXdsUnMwY29QR24tXzBuZVNrc096MGwtNk5yRTNqVS0tQnpIM3BwVWgyMHFXMEFaUnNJMNIBxgFBVV95cUxOLW8tNUhSMS1SSGZUbkNxRm9OX002a21yZV94MnVQMnpZYmFIam1SM2dzYm9mYXpKbWU3eW1OZk1YLVdzUmNOM29mYm1DUWxJeVBHRml6NDVRcVNzb2o4LXJvem1uS19aeWVwQW9fVU1tVzVZVGc2a3BWd1BUUVFHNnFpS2laVkFMSnNBSTFRRjZCaW1iVUZpNzZpZFI1V3JBdks0M1JkRlJGTEVmUEJHQVZCa0tRYnJqZFVuYjZ3Rm04WlBjR0E?oc=5",
-      "image": null,
-      "headline": "Why Trump\u2019s plan to sell faster access to Truth Social is controversial - The Indian Express",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "912dfa46673cd2e4",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T07:39:04+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "indianexpress.com",
-      "type": "news",
-      "quote": "Why Trump\u2019s plan to sell faster access to Truth Social is controversial - indianexpress.com Why Trump\u2019s plan to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.47,
-      "change": -9.8,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQU96UjNGWi1CX1VFYVBJa25fTWtUdTJ0MVZhUXhnQmJNdFVsMGl1QklvREp0NE84cVg0dlNOZXZXLVZtUzRmTnp0OXdzNWt4Q2drdDVJcEI1NGNBM2wwOHZ2dlFKUS12OFdpSEstSEZ4aWFVZmszX05UemRzdFU2NXlxMThMRW9mVDBTcXdsUnMwY29QR24tXzBuZVNrc096MGwtNk5yRTNqVS0tQnpIM3BwVWgyMHFXMEFaUnNJMNIBxgFBVV95cUxOLW8tNUhSMS1SSGZUbkNxRm9OX002a21yZV94MnVQMnpZYmFIam1SM2dzYm9mYXpKbWU3eW1OZk1YLVdzUmNOM29mYm1DUWxJeVBHRml6NDVRcVNzb2o4LXJvem1uS19aeWVwQW9fVU1tVzVZVGc2a3BWd1BUUVFHNnFpS2laVkFMSnNBSTFRRjZCaW1iVUZpNzZpZFI1V3JBdks0M1JkRlJGTEVmUEJHQVZCa0tRYnJqZFVuYjZ3Rm04WlBjR0E?oc=5",
-      "image": null,
-      "headline": "Why Trump\u2019s plan to sell faster access to Truth Social is controversial - indianexpress.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-12",
-          "c": 8.47
         }
       ]
     }
