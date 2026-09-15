@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-09-15T19:07:21.646500+00:00",
+  "updated_at": "2026-09-15T22:22:39.777122+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e1b4ef8396b07372",
+      "date": "Tue, 15 Sep 2026",
+      "ts": "2026-09-15T14:22:24+00:00",
+      "date_display": "Sep 15, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "WATCH LIVE: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-senate-expected-to-vote-on-cryptocurrency-regulation",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-02T022919Z_967557510_RC2NANAIJWKA_RTRMADP_3_USA-DAILYLIFE-1024x683.jpg",
+      "headline": "WATCH LIVE: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's investments",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "a81d60fa2cc65062",
       "date": "Tue, 15 Sep 2026",
@@ -41044,114 +41063,6 @@
         {
           "d": "08-12",
           "c": 8.38
-        }
-      ]
-    },
-    {
-      "id": "031e89d7708216c6",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T15:15:32+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "cnbc.com",
-      "type": "news",
-      "quote": "Trump sued over Truth Social advance access sale - cnbc.com Trump sued over Truth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0R3U2djVuaHNkaDM1Q1dyMTlPWWkzVjVzOWpyaHkxdnVZVEZIVlpqM3ZwNmloSzJwNWlrdFdmQ1ZYT1NsQ1N4MFZ6R0pvOXBTSDZiaXd0Z3g2QzBWNDZJdmpPMW1JbjZPMjZTSk51LXDSAXZBVV95cUxPdzF3alRFb3plclRvbFA2eHk1VEFndVZHMHhFelRLa0F0dTFlTjd3OGNiWWs0U08xa1VDUkx4X056eDhBeXR6a0JZTnBwbTAyWXdMV0JsRUI4SDg1cm4ycy1mMXI2UUdpckV2dzdZTU5DczY0OEFn?oc=5",
-      "image": null,
-      "headline": "Trump sued over Truth Social advance access sale - cnbc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
         }
       ]
     }
