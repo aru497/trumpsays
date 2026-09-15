@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-09-15T00:44:12.844156+00:00",
+  "updated_at": "2026-09-15T05:33:27.041487+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a81d60fa2cc65062",
+      "date": "Tue, 15 Sep 2026",
+      "ts": "2026-09-15T02:28:33+00:00",
+      "date_display": "Sep 15, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Russia, Ukraine agree not to hit energy targets - Fox Business Trump announces Russia, Ukraine agree not to hit",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.14,
+      "change": 4.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNN0txVXR0bXB2MHZ6dkFCQnc0US1ZclM3MXpwaHdEVTBRbDBDWFFWZ2xXTW9LS2ZZemU3RnhVX3YtN3BJeDY0UXZnS2xzNXVLeDFFa0RnYjllQms?oc=5",
+      "image": null,
+      "headline": "Trump announces Russia, Ukraine agree not to hit energy targets - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 61.19
+        },
+        {
+          "d": "08-18",
+          "c": 60.93
+        },
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        }
+      ]
+    },
     {
       "id": "f74c599906d424c4",
       "date": "Mon, 14 Sep 2026",
@@ -395,6 +495,106 @@
         {
           "d": "09-14",
           "c": 8.85
+        }
+      ]
+    },
+    {
+      "id": "28ca8fa0752ce0b4",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T17:19:58+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "a Tricky Line on Tariffs as He Seeks Re-Election - The New York Times Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.34,
+      "change": 5.17,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNndBZEUyNi1QOXVSUzhhQUJ6dHA0R1NkbkxkYTNCY2Y3aFFUT3o1SnZRNXo0czkyVzBPZkV5UnR1QVNSaTd6NnYwbWJ1QTA3X0xrU2hhS3g4ZFQ5UE9UZ0N3WlZ4WUNmVDgwVEMtdHhFYWdpa3NQdmk2YlNmclFEZlBDNWRUcmJEN05jc3dtWXpyRnkwUjJv?oc=5",
+      "image": null,
+      "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
         }
       ]
     },
@@ -40952,222 +41152,6 @@
         {
           "d": "08-12",
           "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "d6ea931e6083ecc0",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T14:48:01+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The Intercept",
-      "type": "news",
-      "quote": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements - The Intercept The Intercept Sues Trump for",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": -6.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3FScGxvdDktUHprY1oyaUhvNEJGTHdYbEFBUW42NWs4TFcxb0ZSc0FGZ3NySy1pSk9EY2dSQ2NOWHZFZmhQMU5aamNiNGVQd3ZpN3VsZUZjQUZVNGxaRDV5djZHN1NGVTZ6V29pQkFEWG9Ua29xZzNuWTUzemVzUl9KUXZLZ3VvaUl1aA?oc=5",
-      "image": null,
-      "headline": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements - The Intercept",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "c6070281c7c1ca13",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T14:22:19+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Citizens for Responsibility and Ethics in Washington",
-      "type": "news",
-      "quote": "Truth Social\u2019s $100,000-per-month subscription for early access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.47,
-      "change": -9.8,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV1dYZXQyRGxhLWZIVWtiNUJ2ZUtSVHpxQkJwVW91c1FIeWkxN0ZlNjdkUUxlRjRiR0VqZGE2cmpZX1dkbHZmWHRRNmRDbkQ5b0FZNV91VkpsNUdYdHlmYXp2UnFhVjZUU2YtaldKbGtocC1PeGlNTjdRaUVSUHBmaUZDU0FFbVJuRlNVM2lEc1JCRE11cndzV08wcGwtMjdfdktrSHp6b3hIUlMwMEhJWXZpMG5FUm1VY1dMbjhndjhSWU50YzVXU0hMUTRhVkRMWVNINVBlSFgwVjNtcUJSQVNDUzZBVms?oc=5",
-      "image": null,
-      "headline": "Truth Social\u2019s $100,000-per-month subscription for early access to Trump posts is unconstitutional - Citizens for Responsibility and Ethics in Washington",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-12",
-          "c": 8.47
         }
       ]
     }
