@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-09-14T22:11:25.600161+00:00",
+  "updated_at": "2026-09-15T00:44:12.844156+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f74c599906d424c4",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T22:29:53+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "More than 1.2 million children have lost SNAP benefits since last July. Experts explain why Experts say",
+      "company": "Snap",
+      "ticker": "SNAP",
+      "price": 5.68,
+      "change": 2.9,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/nation/more-than-1-2-million-children-have-lost-snap-benefits-since-last-july-experts-explain-why",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-06-24T101152Z_1161924985_RC26JLAS7EOH_RTRMADP_3_USA-HUNGER-ARIZONA-1024x683.jpg",
+      "headline": "More than 1.2 million children have lost SNAP benefits since last July. Experts explain why",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 5.18
+        },
+        {
+          "d": "08-18",
+          "c": 5.11
+        },
+        {
+          "d": "08-19",
+          "c": 5.24
+        },
+        {
+          "d": "08-20",
+          "c": 5.21
+        },
+        {
+          "d": "08-21",
+          "c": 5.24
+        },
+        {
+          "d": "08-24",
+          "c": 5.53
+        },
+        {
+          "d": "08-25",
+          "c": 5.92
+        },
+        {
+          "d": "08-26",
+          "c": 5.42
+        },
+        {
+          "d": "08-27",
+          "c": 5.33
+        },
+        {
+          "d": "08-28",
+          "c": 5.43
+        },
+        {
+          "d": "08-31",
+          "c": 5.55
+        },
+        {
+          "d": "09-01",
+          "c": 5.35
+        },
+        {
+          "d": "09-02",
+          "c": 5.59
+        },
+        {
+          "d": "09-03",
+          "c": 5.7
+        },
+        {
+          "d": "09-04",
+          "c": 5.47
+        },
+        {
+          "d": "09-08",
+          "c": 5.43
+        },
+        {
+          "d": "09-09",
+          "c": 5.31
+        },
+        {
+          "d": "09-10",
+          "c": 5.52
+        },
+        {
+          "d": "09-11",
+          "c": 5.68
+        }
+      ]
+    },
     {
       "id": "e743639797fb0552",
       "date": "Mon, 14 Sep 2026",
@@ -403,6 +499,102 @@
         {
           "d": "09-14",
           "c": 8.89
+        }
+      ]
+    },
+    {
+      "id": "fbe48fa143427842",
+      "date": "Mon, 14 Sep 2026",
+      "ts": "2026-09-14T15:49:23+00:00",
+      "date_display": "Sep 14, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Smart President Is All That\u2019s Needed to Rein In A.I. - The New York Times Trump Says a Smart President Is All That\u2019s Needed to Rein",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 66.88,
+      "change": 0.47,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
+      "image": null,
+      "headline": "Trump Says a Smart President Is All That\u2019s Needed to Rein In A.I. - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 65.27
+        },
+        {
+          "d": "08-18",
+          "c": 65.07
+        },
+        {
+          "d": "08-19",
+          "c": 65.96
+        },
+        {
+          "d": "08-20",
+          "c": 65.3
+        },
+        {
+          "d": "08-21",
+          "c": 65.69
+        },
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
         }
       ]
     },
@@ -40976,218 +41168,6 @@
         {
           "d": "08-12",
           "c": 8.47
-        }
-      ]
-    },
-    {
-      "id": "3e0592d89d55d260",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T12:43:24+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Some Canadian Companies to Move South of the Border - The New York Times Trump Tariffs Force Some Canadian Companies to Move South",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.75,
-      "change": 0.03,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0taSWQ3b3FDM3hvVmZmTFhLc1k2ak5nQWhCeE9SQllLRE9nWnFfM2t6cnNzYnJYMEg2bWFWZDFNZmlEaXpkUlk0S1c2WHZ1UWRUdGZhUXBZSXBxYWthYXNnMU1UMWYwc2ZjdENqM0owdHR1d0RyM3RSTUljTS1BcXVNNWtOdk9UTldSQ0g5U2ktM1EyaFZJbA?oc=5",
-      "image": null,
-      "headline": "Trump Tariffs Force Some Canadian Companies to Move South of the Border - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.75
-        }
-      ]
-    },
-    {
-      "id": "9d3b4cac58eaa15c",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T10:37:23+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "southshorepress.com",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Grows Into $2 Billion Media Enterprise -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": -8.03,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkg4bTVZRTN2NDZjSkttV3lKOUJ5WXk2cGd5QkRnOTFnTHhlb0gtNXhtNVVUaXhveEM1d0RodFBJVm81VFgxdTNYaUxRWlRDQmgycTNuNXprbnI2SkVaR1U5d3JFR2VNYTROLUZJZXhnYTl1bUZtV01lOTRsM0ZnSU16YkFQVHI1dHItWlI0SlljTHVUTmRiOG1YcjdieklzMEloMlBTb0R0ZFd5?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Grows Into $2 Billion Media Enterprise - southshorepress.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
         }
       ]
     }
