@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-09-16T05:26:01.809314+00:00",
+  "updated_at": "2026-09-16T10:07:22.546122+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1e5edc2e738eff96",
+      "date": "Wed, 16 Sep 2026",
+      "ts": "2026-09-16T09:17:53+00:00",
+      "date_display": "Sep 16, 2026",
+      "source": "shattered.io",
+      "type": "news",
+      "quote": "Trump Calls AI Danger a \"Hoax\" in Truth Social Posts - shattered.io Trump Calls AI Danger a \"Hoax\" in",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.58,
+      "change": -3.05,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zOUJjSkY0cUpOTmZQd2FaYTMteWRPWmducmhPaDI4ZHhHSXB6Q3EwTlpBai1iWHd6Tk45dHBpS1JLeUJfdC0yclVlUXZrWE1Ya2F2NGpibF8zLVJzdnlFa0hPUQ?oc=5",
+      "image": null,
+      "headline": "Trump Calls AI Danger a \"Hoax\" in Truth Social Posts - shattered.io",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        }
+      ]
+    },
     {
       "id": "37c8e6c5c3a19582",
       "date": "Tue, 15 Sep 2026",
@@ -156,6 +260,110 @@
         {
           "d": "09-14",
           "c": 61.14
+        }
+      ]
+    },
+    {
+      "id": "26a1350e23e91ee6",
+      "date": "Tue, 15 Sep 2026",
+      "ts": "2026-09-15T01:13:00+00:00",
+      "date_display": "Sep 15, 2026",
+      "source": "thedailybeast.com",
+      "type": "news",
+      "quote": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - thedailybeast.com Trump Hit With Fresh 25th",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.58,
+      "change": -3.05,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3BJMmIzSWkzVDFwdS1hWXRqZ3k2WUVoR3ZEMTFHODlzS19qLWlIeXg3WFR6X3BGV3J0bDJRbUhta0Y2eC0xTnBieUVyMklqcTctN3hNRTdCdi1KQ3gtNUItQlhUdTdscFJOd21Md2swSHQ3RjRnaGVnaXpGOWJzSmItcGM5LVo1YlAtOFRjNUJLYVc1SUU2ZzlmdEs2NldCYU1sN1F3?oc=5",
+      "image": null,
+      "headline": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - thedailybeast.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-17",
+          "c": 8.1
+        },
+        {
+          "d": "08-18",
+          "c": 8.06
+        },
+        {
+          "d": "08-19",
+          "c": 8.35
+        },
+        {
+          "d": "08-20",
+          "c": 8.51
+        },
+        {
+          "d": "08-21",
+          "c": 9.1
+        },
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
         }
       ]
     },
@@ -40669,222 +40877,6 @@
         {
           "d": "08-12",
           "c": 8.38
-        }
-      ]
-    },
-    {
-      "id": "a7774f1cef3f8fcc",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T15:41:25+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Forbes",
-      "type": "news",
-      "quote": "Trump Sued Over Plan To Monetize His Truth Social Posts - Forbes Trump Sued Over Plan To Monetize His Truth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.38,
-      "change": -10.76,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVlENE9sM1piTjRHbi1RME5xcGdlQUNWUW9fVk9LZDVVdDVnZGxkMW9yNTFRUTM2ZDNiVUljVy1fTU9rZXZCYUItWVpwWXUtU3lmb2Q4dHpfTHMyRzZYSTlGWGdRdWpISDI1X0VpTUI1S1doTEdwZlpEblBaS2E5TlRmWWpjUGJjZEpJVUp0bldoNG9JS0xXU3owR1JBSzdIbkl0Sl9pTFZFd00?oc=5",
-      "image": null,
-      "headline": "Trump Sued Over Plan To Monetize His Truth Social Posts - Forbes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 8.52
-        },
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-12",
-          "c": 8.38
-        }
-      ]
-    },
-    {
-      "id": "2f85d855482f8b51",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T15:41:25+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "forbes.com",
-      "type": "news",
-      "quote": "Trump Sued Over Plan To Monetize His Truth Social Posts - forbes.com Trump Sued Over Plan To Monetize His",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": -6.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVlENE9sM1piTjRHbi1RME5xcGdlQUNWUW9fVk9LZDVVdDVnZGxkMW9yNTFRUTM2ZDNiVUljVy1fTU9rZXZCYUItWVpwWXUtU3lmb2Q4dHpfTHMyRzZYSTlGWGdRdWpISDI1X0VpTUI1S1doTEdwZlpEblBaS2E5TlRmWWpjUGJjZEpJVUp0bldoNG9JS0xXU3owR1JBSzdIbkl0Sl9pTFZFd00?oc=5",
-      "image": null,
-      "headline": "Trump Sued Over Plan To Monetize His Truth Social Posts - forbes.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.32
         }
       ]
     }
