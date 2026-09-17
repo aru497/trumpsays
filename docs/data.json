@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:56:57.341833+00:00",
+  "updated_at": "2026-09-17T02:45:48.561858+00:00",
   "count": 400,
   "mentions": [
     {
@@ -217,6 +217,25 @@
           "c": 243.98
         }
       ]
+    },
+    {
+      "id": "efabd9b1690d8397",
+      "date": "Wed, 16 Sep 2026",
+      "ts": "2026-09-16T10:02:05+00:00",
+      "date_display": "Sep 16, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "OpenAI's Sam Altman says world 'right to be afraid' but 'should",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
+      "image": null,
+      "headline": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms - BBC",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "1e5edc2e738eff96",
@@ -40769,114 +40788,6 @@
         {
           "d": "08-12",
           "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "1c7e3ea1b8af3403",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T15:51:47+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Bloomberg",
-      "type": "news",
-      "quote": "Trump Sued Over Plan to Sell Access to Truth Social Posts - Bloomberg Trump Sued Over Plan to Sell Access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.3,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNU5IUTF0aThXUjJwQWVOc25WTGtGTzFFUFF2Qm45TzFydloyMVN3TVJJd3RmaEtuczdfUGR4OEJHVExYLTBmc3FEOFBxamcxc3ZXbm1jdzVCdXpqQk85TFo5VVFsZWQ3QllMUTJ4TVV0Y3VVOUZHUlpXTW92MHVGVTFJRl9nSWdocEFSOHE1dU91ak1obzZUYy1tVlNfYkJFSWgwVzVZSmxic2RBMWhnSDh2MGV0Zw?oc=5",
-      "image": null,
-      "headline": "Trump Sued Over Plan to Sell Access to Truth Social Posts - Bloomberg",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
         }
       ]
     }
