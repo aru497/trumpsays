@@ -1,7 +1,134 @@
 {
-  "updated_at": "2026-09-18T21:20:47.360210+00:00",
+  "updated_at": "2026-09-18T23:24:30.634237+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e55c9a27f94eb12f",
+      "date": "Fri, 18 Sep 2026",
+      "ts": "2026-09-18T22:35:49+00:00",
+      "date_display": "Sep 18, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Democratic representatives introduced a resolution to block the Trump administration's new civilian nuclear agreement",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/show/u-s-saudi-nuclear-power-deal-faces-pushback-over-potential-weapons-risks",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/saudideal-1024x683.jpg",
+      "headline": "U.S.-Saudi nuclear power deal faces pushback over potential weapons risks",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "3097b0d3b0d67b98",
+      "date": "Fri, 18 Sep 2026",
+      "ts": "2026-09-18T21:59:51+00:00",
+      "date_display": "Sep 18, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump announces historic deal with Greenland, Denmark - Fox Business Trump announces historic deal with Greenland,",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 57.74,
+      "change": -1.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ejJHelBGbnJVTkYwMG15bVFSa1ptLWpCSGxwZTlDckMwbHpRTkVKd3l2eGpwWlViX3ZOenNLMnI0ektOamFqTHBLSG9uOUtlTFYzMVhBdzZzVXc?oc=5",
+      "image": null,
+      "headline": "Trump announces historic deal with Greenland, Denmark - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-19",
+          "c": 60.09
+        },
+        {
+          "d": "08-20",
+          "c": 60.15
+        },
+        {
+          "d": "08-21",
+          "c": 60.75
+        },
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        }
+      ]
+    },
     {
       "id": "ffa85bc4efd43610",
       "date": "Fri, 18 Sep 2026",
@@ -40297,222 +40424,6 @@
         {
           "d": "08-12",
           "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "4cef0f4827f7a1c4",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T18:09:47+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "InvestmentNews",
-      "type": "news",
-      "quote": "Trump sued over Truth Social's paid early-access data feed - InvestmentNews Trump sued",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.38,
-      "change": -5.95,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzdGajg5cGxudHZWbE1NU2NWMjMyTGktaXZVSGpzUl9aVTlSNFBhZXFnMlRLcXdETTdJalhmdmJidTNpYVNiYWZyX1kzQTNqNkFaM25Pa0NzSlRpQUdxS3N4YS11aHlYSk1oRkM3SW1zQ0I3TXBVd0tDenFLRUVTdGN4QmtmaFNnTzA1OWJZSlFtYm4tazd2OGljejJpZWQ5VUZfTWNxam1NekpXU0lIaHVOMHpMVmZGWkZEODFienQ?oc=5",
-      "image": null,
-      "headline": "Trump sued over Truth Social's paid early-access data feed - InvestmentNews",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.38
-        }
-      ]
-    },
-    {
-      "id": "0a5e6c6d788472c6",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T17:52:07+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Business Insider",
-      "type": "news",
-      "quote": "Lawsuit against Trump alleges early access sale to his Truth Social posts is 'profoundly corrupt' - Business Insider Lawsuit",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.38,
-      "change": -5.95,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1YybzUtZWpUY25YUGkycE9FZVl3NGtRdjYtem9CRDROcWxQWGRUVVNjM3ZzeV9VMHM5bU1WZzRoVW83Rnk5bW5EbWhTbXdRNWRpZkZLQ1lmSTRDeHJYQWxqalpNYkZzWVpzY0FNdUNWNm00OEo3YmcyUWlRaXd0RFZ6dXNaWVprSlBnaVA0ZU9sNXJ4SWJqY1d6Smh4dHh4?oc=5",
-      "image": null,
-      "headline": "Lawsuit against Trump alleges early access sale to his Truth Social posts is 'profoundly corrupt' - Business Insider",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.38
         }
       ]
     }
