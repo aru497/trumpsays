@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-09-17T23:12:39.382140+00:00",
+  "updated_at": "2026-09-18T01:20:29.474692+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "139abf2e652d079e",
+      "date": "Thu, 17 Sep 2026",
+      "ts": "2026-09-17T22:01:00+00:00",
+      "date_display": "Sep 17, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Disney says Trump threats against reporters should prompt court",
+      "company": "Disney",
+      "ticker": "DIS",
+      "price": 106.99,
+      "change": 0.54,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVp1ZWNiQjgzc1NsajJpbTVRakI1OWhBNXZOc2E0WWhiVDFCdkZ0OUYxY1dSYThDNFdzR1Y3dXBHbFpWNUhYOUl1ZDV4dE9fZ0c2VlU5MVZaazVGY01TZU8ybFh6ZWs0RVE3c3FzLUpIWFkzSXMybHlwVEFYT1FQemVTUXRjcDZrX2ptVzNobEh5UE9aWnRkTzN3b2RZc2R2TFZtazlRX01jeVp2UHB1SUU1MEZidjdBazNHbkhORQ?oc=5",
+      "image": null,
+      "headline": "Disney says Trump threats against reporters should prompt court to block FCC action - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-18",
+          "c": 103.95
+        },
+        {
+          "d": "08-19",
+          "c": 106.93
+        },
+        {
+          "d": "08-20",
+          "c": 107.32
+        },
+        {
+          "d": "08-21",
+          "c": 107.78
+        },
+        {
+          "d": "08-24",
+          "c": 110.61
+        },
+        {
+          "d": "08-25",
+          "c": 111.25
+        },
+        {
+          "d": "08-26",
+          "c": 109.63
+        },
+        {
+          "d": "08-27",
+          "c": 106.82
+        },
+        {
+          "d": "08-28",
+          "c": 108.1
+        },
+        {
+          "d": "08-31",
+          "c": 107.55
+        },
+        {
+          "d": "09-01",
+          "c": 106.22
+        },
+        {
+          "d": "09-02",
+          "c": 107.98
+        },
+        {
+          "d": "09-03",
+          "c": 107.16
+        },
+        {
+          "d": "09-04",
+          "c": 105.31
+        },
+        {
+          "d": "09-08",
+          "c": 105.06
+        },
+        {
+          "d": "09-09",
+          "c": 104.18
+        },
+        {
+          "d": "09-10",
+          "c": 105.82
+        },
+        {
+          "d": "09-11",
+          "c": 106.55
+        },
+        {
+          "d": "09-14",
+          "c": 108.59
+        },
+        {
+          "d": "09-15",
+          "c": 106.42
+        },
+        {
+          "d": "09-16",
+          "c": 106.99
+        }
+      ]
+    },
+    {
+      "id": "20969d5093ef5289",
+      "date": "Thu, 17 Sep 2026",
+      "ts": "2026-09-17T22:01:00+00:00",
+      "date_display": "Sep 17, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump threats against reporters should prompt court to block FCC action - Reuters Disney says Trump threats against",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVp1ZWNiQjgzc1NsajJpbTVRakI1OWhBNXZOc2E0WWhiVDFCdkZ0OUYxY1dSYThDNFdzR1Y3dXBHbFpWNUhYOUl1ZDV4dE9fZ0c2VlU5MVZaazVGY01TZU8ybFh6ZWs0RVE3c3FzLUpIWFkzSXMybHlwVEFYT1FQemVTUXRjcDZrX2ptVzNobEh5UE9aWnRkTzN3b2RZc2R2TFZtazlRX01jeVp2UHB1SUU1MEZidjdBazNHbkhORQ?oc=5",
+      "image": null,
+      "headline": "Disney says Trump threats against reporters should prompt court to block FCC action - Reuters",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "0c97e933553cddca",
       "date": "Thu, 17 Sep 2026",
@@ -14102,6 +14225,110 @@
       "headline": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says - The Block",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "73738b7f86494c8e",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T07:00:00+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "americanbazaaronline.com",
+      "type": "news",
+      "quote": "Trump praises Micron\u2019s $10 billion investment in US for AI research -",
+      "company": "Micron",
+      "ticker": "MU",
+      "price": 926.55,
+      "change": -0.11,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWRKa3pxTEFJSkRIUG1KUXpuZjZWLVdocm1BRFExRWIxa1BlR19qNUpKS2ZWMXVGam1MdTF0MEpNU0xMVmpLUU0yZGNSYzREM2s3UDZORlVPZHlPY3NiU1REVXR4TUJPT0lkWmlsRzNyOVhrWko4MlluV191T0JfUUhVTm44cG9qeTFCWTAwSm1hZHpzOFFrSTZ6ZFlVRURLS2dfcjJSOExVZnRVM3lzRXROZUZKRzBB?oc=5",
+      "image": null,
+      "headline": "Trump praises Micron\u2019s $10 billion investment in US for AI research - americanbazaaronline.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-18",
+          "c": 940.76
+        },
+        {
+          "d": "08-19",
+          "c": 937.11
+        },
+        {
+          "d": "08-20",
+          "c": 974.33
+        },
+        {
+          "d": "08-21",
+          "c": 966.78
+        },
+        {
+          "d": "08-24",
+          "c": 910.43
+        },
+        {
+          "d": "08-25",
+          "c": 932.97
+        },
+        {
+          "d": "08-26",
+          "c": 938.4
+        },
+        {
+          "d": "08-27",
+          "c": 935.39
+        },
+        {
+          "d": "08-28",
+          "c": 932.86
+        },
+        {
+          "d": "08-31",
+          "c": 958.73
+        },
+        {
+          "d": "09-01",
+          "c": 933.44
+        },
+        {
+          "d": "09-02",
+          "c": 956.08
+        },
+        {
+          "d": "09-03",
+          "c": 958.16
+        },
+        {
+          "d": "09-04",
+          "c": 1016.59
+        },
+        {
+          "d": "09-08",
+          "c": 1000.26
+        },
+        {
+          "d": "09-09",
+          "c": 1027.77
+        },
+        {
+          "d": "09-10",
+          "c": 977.41
+        },
+        {
+          "d": "09-11",
+          "c": 975.26
+        },
+        {
+          "d": "09-14",
+          "c": 924.03
+        },
+        {
+          "d": "09-15",
+          "c": 927.6
+        },
+        {
+          "d": "09-16",
+          "c": 926.55
+        }
+      ]
     },
     {
       "id": "2bd215e8248f5088",
@@ -40197,330 +40424,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTZhbWdrbEZRTUt2VzlESi1vY1pHcENMeDVWYnJ4MmNXeC1MbXJlanJHODNwY05NRWg5ZEN1bFR0N20zaWx3UDJ5LWhLdW1fRWlobDc1NUgwaWtPUmtHb1dVQUtlSmJqWmM1bVhmV0hkNXAtc3hHNm0zSENmQU56ZE9vdE5paFpJVDdNRHpGODFjLW5YaXRQbWZtQnk5WnlWZzduN0M3Z1MzOEVWUVdRemFB?oc=5",
       "image": null,
       "headline": "Lawsuit challenges Trump\u2019s sale of early access to his Truth Social posts - Washington Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.38
-        }
-      ]
-    },
-    {
-      "id": "52c7ea0f5ba412c9",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T17:32:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - The Guardian Donald Trump sued over",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.38,
-      "change": -5.95,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU05Pbi1ja3JrSjM5bTBYd0tzVFVhZXJzLXdIOEp1U2lvQmpCRWdPdDdtM0RqRS1Bbm42c3VoU2FZYlpvbFhYcnh3WjJOSmlMMERwdndPN2hTbTgwS0g4c1lGNmxOTXdaMzBPX1poWnVJR0w3UlFtMTRLOVN2dlNXS2ZnTzhUMXJuSEZudGxJc3AtcFpX?oc=5",
-      "image": null,
-      "headline": "Donald Trump sued over $100,000-a-month early-access offer to Truth Social posts - The Guardian",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.38
-        }
-      ]
-    },
-    {
-      "id": "1846076f6ec53cec",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T17:32:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Freedom of the Press Foundation",
-      "type": "news",
-      "quote": "Lawsuit: Early access fee for Trump Truth Social posts unconstitutional - Freedom of the Press Foundation",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHhWMXFiUk5yUFdsc1NhS2cyLXRuTnlOMWhfNXVjRGNGMU4xNk40VkpOR29CUTZxSUk5OGZlUG9CN0MxRmNxWS1na2dpSTFQS1ZQcGtKRG40Skh6U3RaLXA2ODFtTVZmWXNqVUVMN29SNEZoSmlEX3pqLUt4a2tsY3pGTnh4UGVHaV9iUndVRUpDTXpDeXRLYUFqNVNuZHpsNkE?oc=5",
-      "image": null,
-      "headline": "Lawsuit: Early access fee for Trump Truth Social posts unconstitutional - Freedom of the Press Foundation",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "a753d73f3f0c47c9",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T17:19:44+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "DJT Stock Drops 6% To One-Month Lows \u2014 Trump Sued Over Early",
-      "company": "Djt",
-      "ticker": "DJT",
-      "price": 8.38,
-      "change": -5.95,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHEyUXRxdm5mSVpDWlA3RHQyZno0dWo4cXNvU2hkVTF1QUJmQTdCQVVZTGJ2VmhVb0RBOXhFdGZxZlpfTzFqT1lmSW5fTXpqSlZQUXY4UndLc3hHTVgtMVFBR01RQWRqdEVTVm5UTy1LZlNFbjBoTFlIZVA1Z2JCR0EtUEhKNGhJdGpacUVxZFdwWFlmTVlHZGttcWdEdVRibm02QW5SMW1rUFMwS2Q2WkZBbXltQW1QbVYwRWlnQjB4azNqZWdJdTI4bjFsZkNpUjVySQ?oc=5",
-      "image": null,
-      "headline": "DJT Stock Drops 6% To One-Month Lows \u2014 Trump Sued Over Early Access To Truth API - TradingView",
       "channel": "News",
       "series": [
         {
