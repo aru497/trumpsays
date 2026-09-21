@@ -1,7 +1,407 @@
 {
-  "updated_at": "2026-09-21T20:02:32.009855+00:00",
+  "updated_at": "2026-09-21T23:24:27.810520+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0fdfc0569afda6d8",
+      "date": "Mon, 21 Sep 2026",
+      "ts": "2026-09-21T22:45:16+00:00",
+      "date_display": "Sep 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "antitrust concerns with a dozen states over its buyout of Warner Bros. Discovery and a Venezuelan man who was shot by an ICE",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": 30.8,
+      "change": 10.79,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapsep21-1024x683.jpg",
+      "headline": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 28.7
+        },
+        {
+          "d": "08-25",
+          "c": 28.9
+        },
+        {
+          "d": "08-26",
+          "c": 28.75
+        },
+        {
+          "d": "08-27",
+          "c": 28.88
+        },
+        {
+          "d": "08-28",
+          "c": 28.77
+        },
+        {
+          "d": "08-31",
+          "c": 28.53
+        },
+        {
+          "d": "09-01",
+          "c": 28.32
+        },
+        {
+          "d": "09-02",
+          "c": 28.39
+        },
+        {
+          "d": "09-03",
+          "c": 28.37
+        },
+        {
+          "d": "09-04",
+          "c": 28.25
+        },
+        {
+          "d": "09-08",
+          "c": 28.12
+        },
+        {
+          "d": "09-09",
+          "c": 27.91
+        },
+        {
+          "d": "09-10",
+          "c": 28.2
+        },
+        {
+          "d": "09-11",
+          "c": 28.04
+        },
+        {
+          "d": "09-14",
+          "c": 28.1
+        },
+        {
+          "d": "09-15",
+          "c": 28.03
+        },
+        {
+          "d": "09-16",
+          "c": 28.07
+        },
+        {
+          "d": "09-17",
+          "c": 28.24
+        },
+        {
+          "d": "09-18",
+          "c": 27.8
+        },
+        {
+          "d": "09-21",
+          "c": 30.8
+        }
+      ]
+    },
+    {
+      "id": "d9bcb9b315be40ec",
+      "date": "Mon, 21 Sep 2026",
+      "ts": "2026-09-21T22:45:16+00:00",
+      "date_display": "Sep 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "airports on the East Coast due to an equipment failure, Paramount settled antitrust concerns with a dozen states over its",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 0.92,
+      "change": -1.08,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapsep21-1024x683.jpg",
+      "headline": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 1.2
+        },
+        {
+          "d": "08-25",
+          "c": 1.23
+        },
+        {
+          "d": "08-26",
+          "c": 1.18
+        },
+        {
+          "d": "08-27",
+          "c": 1.19
+        },
+        {
+          "d": "08-28",
+          "c": 1.09
+        },
+        {
+          "d": "08-31",
+          "c": 1.1
+        },
+        {
+          "d": "09-01",
+          "c": 1.07
+        },
+        {
+          "d": "09-02",
+          "c": 1.07
+        },
+        {
+          "d": "09-03",
+          "c": 1.06
+        },
+        {
+          "d": "09-04",
+          "c": 1.01
+        },
+        {
+          "d": "09-08",
+          "c": 1.05
+        },
+        {
+          "d": "09-09",
+          "c": 1.06
+        },
+        {
+          "d": "09-10",
+          "c": 0.98
+        },
+        {
+          "d": "09-11",
+          "c": 1.0
+        },
+        {
+          "d": "09-14",
+          "c": 1.01
+        },
+        {
+          "d": "09-15",
+          "c": 1.0
+        },
+        {
+          "d": "09-16",
+          "c": 0.97
+        },
+        {
+          "d": "09-17",
+          "c": 0.93
+        },
+        {
+          "d": "09-18",
+          "c": 0.93
+        },
+        {
+          "d": "09-21",
+          "c": 0.92
+        }
+      ]
+    },
+    {
+      "id": "8f9f2140f04f931f",
+      "date": "Mon, 21 Sep 2026",
+      "ts": "2026-09-21T22:30:32+00:00",
+      "date_display": "Sep 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "in the Middle East Ten years ago, Scott Anderson's New York Times Magazine project, Fractured Lands, traced the lives of six",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.53,
+      "change": 0.46,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/war-correspondent-scott-anderson-on-the-shifting-landscape-in-the-middle-east",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/fracturedlanddsnewpic-1024x683.jpg",
+      "headline": "War correspondent Scott Anderson on the shifting landscape in the Middle East",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        },
+        {
+          "d": "09-15",
+          "c": 71.71
+        },
+        {
+          "d": "09-16",
+          "c": 72.41
+        },
+        {
+          "d": "09-17",
+          "c": 69.94
+        },
+        {
+          "d": "09-18",
+          "c": 70.21
+        },
+        {
+          "d": "09-21",
+          "c": 70.53
+        }
+      ]
+    },
+    {
+      "id": "e4d0e3bbecf0f9de",
+      "date": "Mon, 21 Sep 2026",
+      "ts": "2026-09-21T21:17:00+00:00",
+      "date_display": "Sep 21, 2026",
+      "source": "CBS News",
+      "type": "news",
+      "quote": "Ex-federal prosecutors say Trump media company's scheme to sell early access to Truth Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.12,
+      "change": 3.05,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTZjZS1nWS1YLVE3LWdCMFNGMUxXMTRtMHdROThLdG1JX05uR1A4czZVUHI2eTc0U3NRc1lzaVhPX0M0eWVwQkF3TS0zaGRVY3FTU0FFb2dUTWJESklPdndjQVo4TkR1YmdhRHAzWGNDMk5KMG9SVjM5akdUazZkRjl5SHkxcWRwd3VzZXVnd1RLMzl1eGFiUDRQdTU?oc=5",
+      "image": null,
+      "headline": "Ex-federal prosecutors say Trump media company's scheme to sell early access to Truth Social posts is likely criminal - CBS News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        }
+      ]
+    },
     {
       "id": "7791b7f24ab8c7ef",
       "date": "Mon, 21 Sep 2026",
@@ -40069,438 +40469,6 @@
         {
           "d": "08-12",
           "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "fee96b402fc3bd89",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T19:05:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "WBZ NewsRadio 1030",
-      "type": "news",
-      "quote": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - WBZ NewsRadio 1030 President Trump's Media Firm",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2tZMFhmMnpRa2VjVFBGM3RjUks0LXIxbERiX0xBYlFDRXQyVDBHRzhxWFp5VmF6cmh1WlJtS2tEdFdlb1JvaEtJNnRlcXJhNnpaTm5ZVm4zTFRNbmE4aHJTclVhdlRMMExJTmVDZjZXWkZocEZaUUhZSE16U0N6dGxzcnZHN1ZFbFY4endiQVJ5TDFtdjBFRnVoTUFvQXhOZldPUmNkZHlpeHJQVDJEVzc4Z3F6cE0?oc=5",
-      "image": null,
-      "headline": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - WBZ NewsRadio 1030",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "4a41216dc3929446",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T18:59:40+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "News-Times",
-      "type": "news",
-      "quote": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": -6.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2wtY3MxT1pGRHg2dWc4alJTcHoydFBFdy1RdkZSVVIxaUJoSUJYcDNuVzBMV3V4Z1JfTk9qQVliYjVwUE1DTHlJdDM3aDlTQkZGR3FVUzNTbTBaTVUxTWl0dk9rT2VVeUkwMUZGWGhTb0xHQmMwcEJCel9wcnRBZkRtaVlPSVV0UzEwZTR5eC1RajZVUFloQ3EyUm85Y2FPZmR0Mg?oc=5",
-      "image": null,
-      "headline": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - News-Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "b6d5f4410c8807a9",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T18:36:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "theguardian.com",
-      "type": "news",
-      "quote": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - theguardian.com Trump sued over $100,000-a-month",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": -6.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU05Pbi1ja3JrSjM5bTBYd0tzVFVhZXJzLXdIOEp1U2lvQmpCRWdPdDdtM0RqRS1Bbm42c3VoU2FZYlpvbFhYcnh3WjJOSmlMMERwdndPN2hTbTgwS0g4c1lGNmxOTXdaMzBPX1poWnVJR0w3UlFtMTRLOVN2dlNXS2ZnTzhUMXJuSEZudGxJc3AtcFpX?oc=5",
-      "image": null,
-      "headline": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - theguardian.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "4fcb5253cef35b4b",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T18:36:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - The Guardian Trump sued over $100,000-a-month",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU05Pbi1ja3JrSjM5bTBYd0tzVFVhZXJzLXdIOEp1U2lvQmpCRWdPdDdtM0RqRS1Bbm42c3VoU2FZYlpvbFhYcnh3WjJOSmlMMERwdndPN2hTbTgwS0g4c1lGNmxOTXdaMzBPX1poWnVJR0w3UlFtMTRLOVN2dlNXS2ZnTzhUMXJuSEZudGxJc3AtcFpX?oc=5",
-      "image": null,
-      "headline": "Trump sued over $100,000-a-month early-access offer to Truth Social posts - The Guardian",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
         }
       ]
     }
