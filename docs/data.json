@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-09-21T08:03:53.831765+00:00",
+  "updated_at": "2026-09-21T15:11:56.258351+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "408c706de6b6bd67",
+      "date": "Mon, 21 Sep 2026",
+      "ts": "2026-09-21T14:07:00+00:00",
+      "date_display": "Sep 21, 2026",
+      "source": "Barron's",
+      "type": "news",
+      "quote": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 225.38,
+      "change": 1.4,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5",
+      "image": null,
+      "headline": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-21",
+          "c": 214.48
+        },
+        {
+          "d": "08-24",
+          "c": 208.25
+        },
+        {
+          "d": "08-25",
+          "c": 212.81
+        },
+        {
+          "d": "08-26",
+          "c": 209.43
+        },
+        {
+          "d": "08-27",
+          "c": 227.73
+        },
+        {
+          "d": "08-28",
+          "c": 217.31
+        },
+        {
+          "d": "08-31",
+          "c": 220.53
+        },
+        {
+          "d": "09-01",
+          "c": 217.2
+        },
+        {
+          "d": "09-02",
+          "c": 224.16
+        },
+        {
+          "d": "09-03",
+          "c": 228.19
+        },
+        {
+          "d": "09-04",
+          "c": 230.1
+        },
+        {
+          "d": "09-08",
+          "c": 225.48
+        },
+        {
+          "d": "09-09",
+          "c": 223.42
+        },
+        {
+          "d": "09-10",
+          "c": 218.36
+        },
+        {
+          "d": "09-11",
+          "c": 218.29
+        },
+        {
+          "d": "09-14",
+          "c": 210.96
+        },
+        {
+          "d": "09-15",
+          "c": 212.17
+        },
+        {
+          "d": "09-16",
+          "c": 213.9
+        },
+        {
+          "d": "09-17",
+          "c": 219.34
+        },
+        {
+          "d": "09-18",
+          "c": 222.27
+        },
+        {
+          "d": "09-21",
+          "c": 225.38
+        }
+      ]
+    },
     {
       "id": "14fcbc7aba4f668d",
       "date": "Sat, 19 Sep 2026",
@@ -40407,25 +40511,6 @@
           "c": 8.32
         }
       ]
-    },
-    {
-      "id": "b11f439b789881f9",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T18:35:32+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The Block",
-      "type": "news",
-      "quote": "firm explores licensing data to prediction markets - The Block Trump sued over Truth Social\u2019s early-access feed as firm",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkJTVmVEc3R2TUQ2TzY2SmJoNDFuaE5WY0ZUOG80TTE3MUR6aEJqNzAxMm5HOWlJc0hkMWZ0WDlmQ3daRks1dEZTRlF5cFFTckxyOTdyQlpVMlRIOGhQMTM3NlRYRVo3eXd6YUxoS2ZRYVZYcW5hbVg5ZHcxcEpzR2JOcUdrbDhkYXdVci1fbXRhcUxBamEwclFRZHgyXzVXNFVVR0JyNkNGVmt2M2dFYTJ2MFZUajlqeEhEaXlkVjBaX1k2UGNiaW5GWndkRHVxLUNobEt1aXhfbm5PZXc?oc=5",
-      "image": null,
-      "headline": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to prediction markets - The Block",
-      "channel": "News",
-      "series": null
     }
   ]
 }
