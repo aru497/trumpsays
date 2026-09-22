@@ -1,7 +1,546 @@
 {
-  "updated_at": "2026-09-22T20:17:16.304086+00:00",
+  "updated_at": "2026-09-22T23:03:35.657893+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ff840b77b481ecc1",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T22:40:32+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "What the Paramount-Warner Bros. merger settlement means for Hollywood A day after",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": 30.83,
+      "change": 0.1,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/majormerger-1024x683.jpg",
+      "headline": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 28.7
+        },
+        {
+          "d": "08-25",
+          "c": 28.9
+        },
+        {
+          "d": "08-26",
+          "c": 28.75
+        },
+        {
+          "d": "08-27",
+          "c": 28.88
+        },
+        {
+          "d": "08-28",
+          "c": 28.77
+        },
+        {
+          "d": "08-31",
+          "c": 28.53
+        },
+        {
+          "d": "09-01",
+          "c": 28.32
+        },
+        {
+          "d": "09-02",
+          "c": 28.39
+        },
+        {
+          "d": "09-03",
+          "c": 28.37
+        },
+        {
+          "d": "09-04",
+          "c": 28.25
+        },
+        {
+          "d": "09-08",
+          "c": 28.12
+        },
+        {
+          "d": "09-09",
+          "c": 27.91
+        },
+        {
+          "d": "09-10",
+          "c": 28.2
+        },
+        {
+          "d": "09-11",
+          "c": 28.04
+        },
+        {
+          "d": "09-14",
+          "c": 28.1
+        },
+        {
+          "d": "09-15",
+          "c": 28.03
+        },
+        {
+          "d": "09-16",
+          "c": 28.07
+        },
+        {
+          "d": "09-17",
+          "c": 28.24
+        },
+        {
+          "d": "09-18",
+          "c": 27.8
+        },
+        {
+          "d": "09-21",
+          "c": 30.8
+        },
+        {
+          "d": "09-22",
+          "c": 30.83
+        }
+      ]
+    },
+    {
+      "id": "8727d3057a409c29",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T22:40:32+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "What the Paramount-Warner Bros. merger settlement means for Hollywood A day",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 0.88,
+      "change": -4.35,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/majormerger-1024x683.jpg",
+      "headline": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 1.2
+        },
+        {
+          "d": "08-25",
+          "c": 1.23
+        },
+        {
+          "d": "08-26",
+          "c": 1.18
+        },
+        {
+          "d": "08-27",
+          "c": 1.19
+        },
+        {
+          "d": "08-28",
+          "c": 1.09
+        },
+        {
+          "d": "08-31",
+          "c": 1.1
+        },
+        {
+          "d": "09-01",
+          "c": 1.07
+        },
+        {
+          "d": "09-02",
+          "c": 1.07
+        },
+        {
+          "d": "09-03",
+          "c": 1.06
+        },
+        {
+          "d": "09-04",
+          "c": 1.01
+        },
+        {
+          "d": "09-08",
+          "c": 1.05
+        },
+        {
+          "d": "09-09",
+          "c": 1.06
+        },
+        {
+          "d": "09-10",
+          "c": 0.98
+        },
+        {
+          "d": "09-11",
+          "c": 1.0
+        },
+        {
+          "d": "09-14",
+          "c": 1.01
+        },
+        {
+          "d": "09-15",
+          "c": 1.0
+        },
+        {
+          "d": "09-16",
+          "c": 0.97
+        },
+        {
+          "d": "09-17",
+          "c": 0.93
+        },
+        {
+          "d": "09-18",
+          "c": 0.93
+        },
+        {
+          "d": "09-21",
+          "c": 0.92
+        },
+        {
+          "d": "09-22",
+          "c": 0.88
+        }
+      ]
+    },
+    {
+      "id": "66b0fc565c8bc8f7",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T21:10:56+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "Media over alleged 'pay-to-play' Truth Social service - Fox News San Francisco sues Trump Media over alleged",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 57.32,
+      "change": -1.0,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDZCX2JuVmNkUlB2UUExZVJjZ3ZOVXlzNEhoNEhyS3p6Yy1xZkFUQ3V0MWxHYmxiSkRJV3V1Z0ZQOTZFMzVBN3U4dEJsRmcxTkxRSXVRLVE0Q19DUTFDUFZMSXNFR0szbElzLUpfNjB4SmVoRWRxNXVfY0MzQzBONDRqZi1sdy1DcnRCOFhmRmp0Yk0zR1NmcUJfdy1NQVBLWUZz0gGoAUFVX3lxTE51VlQtT01WUV9GSUpVblRtU0tEMzlITkc1dVlCUmhXMjRoYmxDaUNrYjY4WVczQ0RlNW5FQ21KRUdZaHlxbjdzNWJtZUhVYmlsMDY2M1FwU3BocXZCSjYzZmRYQ09YWHIyZWZLSkRpLXA0QWxrZFRIdE5rU2dpVXdvODBlQk9yM2FMbVpha1RUMDY1eUF6RWFZNUxwczFvLTJpX29xX0JrdQ?oc=5",
+      "image": null,
+      "headline": "San Francisco sues Trump Media over alleged 'pay-to-play' Truth Social service - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        }
+      ]
+    },
+    {
+      "id": "d9b359739a132fa8",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T21:10:56+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "San Francisco sues Trump Media over alleged 'pay-to-play' Truth Social service - Fox News",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.38,
+      "change": 2.85,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDZCX2JuVmNkUlB2UUExZVJjZ3ZOVXlzNEhoNEhyS3p6Yy1xZkFUQ3V0MWxHYmxiSkRJV3V1Z0ZQOTZFMzVBN3U4dEJsRmcxTkxRSXVRLVE0Q19DUTFDUFZMSXNFR0szbElzLUpfNjB4SmVoRWRxNXVfY0MzQzBONDRqZi1sdy1DcnRCOFhmRmp0Yk0zR1NmcUJfdy1NQVBLWUZz0gGoAUFVX3lxTE51VlQtT01WUV9GSUpVblRtU0tEMzlITkc1dVlCUmhXMjRoYmxDaUNrYjY4WVczQ0RlNW5FQ21KRUdZaHlxbjdzNWJtZUhVYmlsMDY2M1FwU3BocXZCSjYzZmRYQ09YWHIyZWZLSkRpLXA0QWxrZFRIdE5rU2dpVXdvODBlQk9yM2FMbVpha1RUMDY1eUF6RWFZNUxwczFvLTJpX29xX0JrdQ?oc=5",
+      "image": null,
+      "headline": "San Francisco sues Trump Media over alleged 'pay-to-play' Truth Social service - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        }
+      ]
+    },
+    {
+      "id": "e223220446750899",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T20:30:00+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "sues to block Trump\u2019s real-time access subscription for Truth Social posts - Washington Examiner San Francisco sues to block",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.38,
+      "change": 2.85,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDBtWlpLQVExb18weVpoeUM4ZlEydmtFTXNRZnphek5GenpBcGpFUTFJMUEyYXVsTFkxQkRZY3Rzank0VFAwWnNKc3RhTnk5dHNFYWJvb0szT09Dd3gxeWVtU1o5MW0zZ012M1VwdU9yaXA0WDBVUmlySUxHQlFIN1dIbDNicEZ4X1VPSlhTQmhiQjQ2QldXeWpOc1dWWC1xeXppbVUySjM?oc=5",
+      "image": null,
+      "headline": "San Francisco sues to block Trump\u2019s real-time access subscription for Truth Social posts - Washington Examiner",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        }
+      ]
+    },
+    {
+      "id": "9348b7db4cd2fc2e",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T20:30:00+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Washington Examiner",
+      "type": "news",
+      "quote": "San Francisco sues to block Trump\u2019s real-time access subscription for Truth Social",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDBtWlpLQVExb18weVpoeUM4ZlEydmtFTXNRZnphek5GenpBcGpFUTFJMUEyYXVsTFkxQkRZY3Rzank0VFAwWnNKc3RhTnk5dHNFYWJvb0szT09Dd3gxeWVtU1o5MW0zZ012M1VwdU9yaXA0WDBVUmlySUxHQlFIN1dIbDNicEZ4X1VPSlhTQmhiQjQ2QldXeWpOc1dWWC1xeXppbVUySjM?oc=5",
+      "image": null,
+      "headline": "San Francisco sues to block Trump\u2019s real-time access subscription for Truth Social posts - Washington Examiner",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "d740beeacac61abf",
       "date": "Tue, 22 Sep 2026",
@@ -103,6 +642,110 @@
         {
           "d": "09-22",
           "c": 65.45
+        }
+      ]
+    },
+    {
+      "id": "84f7db3b28b78032",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T19:46:01+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "TheWrap",
+      "type": "news",
+      "quote": "San Francisco Sues Trump Media Over Truth Social Paid Early-Access Service - TheWrap San",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.38,
+      "change": 2.85,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFBZWE9USldZNlR4b2ItN3pmSkNzWlF5RVFaQ2tQOU8tVFk4MllrdTJ1dFlaOWtjYTI5UlpCcU8zM0tKQVFHcl8yaGNpN2dwY29YZkxfb0MtWUZoYzQyTVN1T0V0TVdpamNfdHZLTW5oVElIU2FJQzduOERRLVl4VF9VVnV1a0hqcTZoVkVKZk0tbkk4bjJpRFJLRDRpbURwci1DaWtnTEktb3VOaldNTVpCNFIxZw?oc=5",
+      "image": null,
+      "headline": "San Francisco Sues Trump Media Over Truth Social Paid Early-Access Service - TheWrap",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
         }
       ]
     },
@@ -1058,6 +1701,214 @@
       "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONElRYnVBbFd5YkVZNkp6UHRXVVZsQUtEcG1BWXAwZzgyMW5LalVUbkNfRE1aWFFXOGJ0MWZCOHUyZTNaZDloa0djS3JRdGxWek93c2RiSmlCVjN1SktCeUM3OEEydmNfWWlJUnJWY1pRbnFDeEZjeVJoblNiRzFNeVhzOFctOURocVVYOW1rYU9NMUp1TGVfdWU0RTBxel9M?oc=5",
       "image": null,
       "headline": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - newsweek.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        }
+      ]
+    },
+    {
+      "id": "4c7c713948357132",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T12:41:10+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "to Stop Early Access to Trump\u2019s Truth Social Posts - The New York Times San Francisco Sues to Stop Early Access to Trump\u2019s Truth",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 65.45,
+      "change": -7.2,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2FfZkNKQU8xWFdhMm5ZNV9NSWlMTmRWeUllaFViYklVSzdDWUhrNW4yQkFtLTNaSlBMMHZMMVd6YVJEV3JxTVEzYWRsdHBJZVBzTHNNWUVYR09PUXdxbTlEbjVqMnNxV0FGbjBGcmtpTHNKSVZCLTRvOE9hZjlKS0E4OWEyT2FvTzNHdENDMmptVUpM?oc=5",
+      "image": null,
+      "headline": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        },
+        {
+          "d": "09-15",
+          "c": 71.71
+        },
+        {
+          "d": "09-16",
+          "c": 72.41
+        },
+        {
+          "d": "09-17",
+          "c": 69.94
+        },
+        {
+          "d": "09-18",
+          "c": 70.21
+        },
+        {
+          "d": "09-21",
+          "c": 70.53
+        },
+        {
+          "d": "09-22",
+          "c": 65.45
+        }
+      ]
+    },
+    {
+      "id": "c0b8eebfbe54515f",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T12:41:10+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - The New York Times San Francisco Sues to Stop",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.38,
+      "change": 2.85,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2FfZkNKQU8xWFdhMm5ZNV9NSWlMTmRWeUllaFViYklVSzdDWUhrNW4yQkFtLTNaSlBMMHZMMVd6YVJEV3JxTVEzYWRsdHBJZVBzTHNNWUVYR09PUXdxbTlEbjVqMnNxV0FGbjBGcmtpTHNKSVZCLTRvOE9hZjlKS0E4OWEyT2FvTzNHdENDMmptVUpM?oc=5",
+      "image": null,
+      "headline": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - The New York Times",
       "channel": "News",
       "series": [
         {
@@ -39376,970 +40227,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5taG5OOWZ1aGpmOG15TGJ4MlFYc1NvT24tRUVibmVWTTJ3TUNBZW5QRG5lMl9BeHJ3LVFtU211UzQ1aEMxaDd0MDc4OUlzdkYxd09SYmZuNjF0aFM3cDFBd2FwaHJOd251V1MtZElaUnJrbVgyS3E4a25iODZXZw?oc=5",
       "image": null,
       "headline": "Trump sued over Truth Social\u2019s $100K paid feed - Crypto News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "acbf762e65b16756",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T21:09:25+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Law Commentary",
-      "type": "news",
-      "quote": "Trump Sued Over $100,000 Truth Social Feed Offering Faster Access to Official Posts - Law",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWxjbk1JcV9KejNTcE4taFllUkVEdktQQjQ0ZEpuY3FZdWNsU1lpZWlEYTFvVXpsZm03SDF4WnE3aWVycEsyV3lZbVlvem5kVFJCaGdsTm9Ra0lnNWNaa3BaTGVzX3h6d0F0WlJqb1ZRcXdXTEt2VUFpTXdtZXo2QUFlMktwOHdNMU5IU2VTREIxYlFUa3ZsZFBMQkRDWDU1Tzk4a1pRODZDb0VkUmRMcU1vVkRlbVF3LThNQQ?oc=5",
-      "image": null,
-      "headline": "Trump Sued Over $100,000 Truth Social Feed Offering Faster Access to Official Posts - Law Commentary",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "bb563c84f1311381",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:56:46+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "inc.com",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Feed Costs Wall Street $100,000 a Month. Now a Lawsuit",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZllRekxwX29tN0FCaV9BaFptcDloWnhDdjAyNGl3SFRCMTNRLWEwNUNDVnU4Y0J5NTlwQVlRZWRsNWxXTUI4Ymt2WWVkUU5oelFXOHFrd2JwbTdQSkFVdzdodWlrZHdzVTk1RjlUUVFQYzc0d1NibHE3VXRjUGpCWl9qRkFfOXhoZTU2Umx2Qm1TMXdXVzJDWmFPbTF5eS1EVlM3RndJcFcydnBFLXJR?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Feed Costs Wall Street $100,000 a Month. Now a Lawsuit Could Undercut It - inc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "4717d58ffeecec28",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:50:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "New York Post",
-      "type": "news",
-      "quote": "Trump Media charging for early access to president\u2019s posts slammed as",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUU1fN1VsZEluLVVZWGlVd0ZYa0dIVk5rbVpxR3Uyb2M5SzNBRld5QWxvNUV4SGVLLWtEaS1zUFlvNVpBYXdrZlNscGdwR2FFWmZRYnh4NTJfa3ZKbWN5VW56WVBRZ0QzQUliR3h0Mkp0aGVsUTQ2eFVaVWZQem93ZHlCTWRHSzdEc1Y2WVV2MHEwWWxLbUEzdVpfcGpWY2QxQ3RyM01LOUFCNUlCZlplVWZSWFhUQ2ZtdFlVSW9DMFp3U3lsdk92SW55elJHbmd3MVkzLQ?oc=5",
-      "image": null,
-      "headline": "Trump Media charging for early access to president\u2019s posts slammed as 'blatantly corrupt,' lawsuit says - New York Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "5034515aed35fdbf",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:44:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "AFR",
-      "type": "news",
-      "quote": "Trump sued over selling traders fast access to Truth Social posts - AFR Trump sued over selling traders fast access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0FTUnNaaWlZVXZrSDFBVlVxc0JfOVFXRGRQUGtNOXV0T3FTVzJWTFpHUDU5NTFRUmp6SXB3ZEc1VzJvNlQ0d0VtZFBGUkZGYWhEUlVkVVNxT0ZINW9kbTVoY1B2cGczSm9wbnJSeFp1UWtuMEgzNmdXVUhIcGhOZzdkZnctNnlQNmNZTTByVUV4QUtaclN6dElZY0Q2ZU01STlpdXhOUjVRM2o5UE5vSjEzQlBaVklQTEVLTUlB?oc=5",
-      "image": null,
-      "headline": "Trump sued over selling traders fast access to Truth Social posts - AFR",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "d21e29a582dc20d2",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:33:10+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "NPR",
-      "type": "news",
-      "quote": "Trump sued over service selling faster access to Truth Social posts - NPR Trump sued over service selling faster access",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUxwVjhqVXhzR3BvYjZGR2QybzN1bHNyTGs1S2dLS1d6TUJZX2tzbC11MC1nV3JqM3V4c2YybnVQZ19qcWRTVGkyY3JaWE1MUjZHcW1VSklGWHVoT3ZacUJBaTViaXJ0NUFseWRKY240c2U2Q0ptYWpvcmdZTF9meQ?oc=5",
-      "image": null,
-      "headline": "Trump sued over service selling faster access to Truth Social posts - NPR",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "f6d8ca618d916527",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:33:10+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "npr.org",
-      "type": "news",
-      "quote": "Trump sued over service selling faster access to Truth Social posts - npr.org Trump sued over service selling faster",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUxwVjhqVXhzR3BvYjZGR2QybzN1bHNyTGs1S2dLS1d6TUJZX2tzbC11MC1nV3JqM3V4c2YybnVQZ19qcWRTVGkyY3JaWE1MUjZHcW1VSklGWHVoT3ZacUJBaTViaXJ0NUFseWRKY240c2U2Q0ptYWpvcmdZTF9meQ?oc=5",
-      "image": null,
-      "headline": "Trump sued over service selling faster access to Truth Social posts - npr.org",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "9c38469a55e6540a",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:33:10+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers.",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.3,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-      "image": null,
-      "headline": "Trump sued over service selling faster access to Truth Social posts",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        }
-      ]
-    },
-    {
-      "id": "1e15ac7ae981d6a3",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:24:23+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "to Sell Early Access to Trump\u2019s Truth Social Posts - The New York Times Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.95,
-      "change": 0.35,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkRqb2Vnczh3SDZoZnNpSXQtRU1SU01YY3BhWkZZX2ZNekh0d2dzTmIyd0tjenVwc3hWcUJKWFNXbUV3MENza0cwZkJtME15WmREMlE5U3FmMXRRYk1yLU90LW9FUjRPUWR0RUZYSTJRd2dIWUh1LUpIWEhFcXFEcEk2U1Q?oc=5",
-      "image": null,
-      "headline": "Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth Social Posts - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        }
-      ]
-    },
-    {
-      "id": "bef74845f4d266de",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T20:24:23+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth Social Posts - The New York Times Suit Challenges Plan to Sell",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkRqb2Vnczh3SDZoZnNpSXQtRU1SU01YY3BhWkZZX2ZNekh0d2dzTmIyd0tjenVwc3hWcUJKWFNXbUV3MENza0cwZkJtME15WmREMlE5U3FmMXRRYk1yLU90LW9FUjRPUWR0RUZYSTJRd2dIWUh1LUpIWEhFcXFEcEk2U1Q?oc=5",
-      "image": null,
-      "headline": "Suit Challenges Plan to Sell Early Access to Trump\u2019s Truth Social Posts - The New York Times",
       "channel": "News",
       "series": [
         {
