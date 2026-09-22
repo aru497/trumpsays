@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-09-22T12:21:10.311643+00:00",
+  "updated_at": "2026-09-22T17:06:12.877084+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "b405927cdb38c4b7",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T16:06:16+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Seeking Alpha",
+      "type": "news",
+      "quote": "Tesla: Trump Might Sink This Stock; Here's How (NASDAQ:TSLA) -",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 378.35,
+      "change": 0.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWNJRl9ZdTBacWd3SzNBMnpBZHhPN2xXakkzOUFQUEhSYXhsMHNWLXFscWdSWnZFRE9DRTFOMDZJakEyQVVKTml3Mk43S2MzR3hncnllUFg5REZWOEk2WnFELW9vMl9aQXZzZ3lJZUxSZTlsYlY5bDRkbFl5QnFqcTV4OVZBM1RWTk5kVA?oc=5",
+      "image": null,
+      "headline": "Tesla: Trump Might Sink This Stock; Here's How (NASDAQ:TSLA) - Seeking Alpha",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 348.95
+        },
+        {
+          "d": "08-25",
+          "c": 350.25
+        },
+        {
+          "d": "08-26",
+          "c": 345.82
+        },
+        {
+          "d": "08-27",
+          "c": 354.81
+        },
+        {
+          "d": "08-28",
+          "c": 348.75
+        },
+        {
+          "d": "08-31",
+          "c": 367.95
+        },
+        {
+          "d": "09-01",
+          "c": 356.09
+        },
+        {
+          "d": "09-02",
+          "c": 357.01
+        },
+        {
+          "d": "09-03",
+          "c": 376.37
+        },
+        {
+          "d": "09-04",
+          "c": 354.08
+        },
+        {
+          "d": "09-08",
+          "c": 368.16
+        },
+        {
+          "d": "09-09",
+          "c": 367.81
+        },
+        {
+          "d": "09-10",
+          "c": 363.56
+        },
+        {
+          "d": "09-11",
+          "c": 365.44
+        },
+        {
+          "d": "09-14",
+          "c": 358.97
+        },
+        {
+          "d": "09-15",
+          "c": 356.58
+        },
+        {
+          "d": "09-16",
+          "c": 358.08
+        },
+        {
+          "d": "09-17",
+          "c": 366.2
+        },
+        {
+          "d": "09-18",
+          "c": 364.27
+        },
+        {
+          "d": "09-21",
+          "c": 375.3
+        },
+        {
+          "d": "09-22",
+          "c": 378.35
+        }
+      ]
+    },
+    {
+      "id": "539ef8b231e596a5",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T14:59:18+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "San Francisco Chronicle",
+      "type": "news",
+      "quote": "San Francisco sues Trump Media over subscriber-only access to Trump's posts - San",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.11,
+      "change": -0.11,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObF9UMy00TGFXSUdIU2tUYnJ0WjZpTmlNSzA0RjA4SnFKN21TSlZLM1RwMWZyXzJ1S19qUEl2TWtSb1hkMUJ4LWxHVEpoLUpvbnZPYXlFTk51T3FWdFFRQU40amozSzR2QUJYOVkxcVFLaEZseEx4QXZ3Wk1fM1dxMDRkYWs2UUM3LUZVWnpXTGRGTVlQdkRB?oc=5",
+      "image": null,
+      "headline": "San Francisco sues Trump Media over subscriber-only access to Trump's posts - San Francisco Chronicle",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.11
+        }
+      ]
+    },
+    {
+      "id": "f74bab2a9bd6c716",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T14:23:34+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "The San Francisco Standard",
+      "type": "news",
+      "quote": "David Chiu sues Trump Media, says Truth API enables insider trading - The San",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.11,
+      "change": -0.11,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHJNaHVtSUdXQzZiaFByVzljTk9HUllfYk00aEF2M0JVdU5LTjctLVRKb2VPNUlIeEdjLWhxcFRsbnZsaEt1SjdlRGZWbC1zekNlZXJXanV6QXdqS0VrdncxOE9ZbE5xbE93dVVWTWJYOTljaTdJZEtON3huUW01YzQwbGRtZmN5RWFiTU1GeWpWQTFxaTUzdVcwYlJIbjFsYVVJYllqNThUZnhDV0xnZkJB?oc=5",
+      "image": null,
+      "headline": "David Chiu sues Trump Media, says Truth API enables insider trading - The San Francisco Standard",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.11
+        }
+      ]
+    },
+    {
+      "id": "c40135609c905aec",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T12:47:00+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - Newsweek Trump and Natalie Harp Hit With Lawsuit",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.11,
+      "change": -0.11,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONElRYnVBbFd5YkVZNkp6UHRXVVZsQUtEcG1BWXAwZzgyMW5LalVUbkNfRE1aWFFXOGJ0MWZCOHUyZTNaZDloa0djS3JRdGxWek93c2RiSmlCVjN1SktCeUM3OEEydmNfWWlJUnJWY1pRbnFDeEZjeVJoblNiRzFNeVhzOFctOURocVVYOW1rYU9NMUp1TGVfdWU0RTBxel9M?oc=5",
+      "image": null,
+      "headline": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.11
+        }
+      ]
+    },
     {
       "id": "0fdfc0569afda6d8",
       "date": "Mon, 21 Sep 2026",
@@ -40037,438 +40453,6 @@
         {
           "d": "08-19",
           "c": 8.19
-        }
-      ]
-    },
-    {
-      "id": "bbb25c6d9a210ccf",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T19:25:15+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Channel 3000",
-      "type": "news",
-      "quote": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access - Channel 3000 Trump sued on First and Fifth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMHI4VDN0T0ZMV2xYcnJaMlh2WjJNSU9kM0t3clJFSjJpNUJHT0NoTEZweW9OWUVQUG9TdDcySXJ3WmxNRWhKcS1VOW1qVER6U3pWOTQyejY5SWZWOVlubVQwdE5RV0tPZ2EtOHprekJ3WDF6azdSZmdZN3N3S0NyV0JRSTZUMjVWUGVWUUR6U1h4Vkx3UFUzWVJUZzZTS2dLdHBPcXZqblhsMnlGdGpXR2tpTjM1OVRWS0J5d0VsUTU3TWsxM1FFMjBnR1oxQlJrbXU4ckdnTXczN1FzWVFYTXhaZXZ2cGRJSTJqYVNsWXFpc2JQN3k3NERn?oc=5",
-      "image": null,
-      "headline": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access - Channel 3000",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "b6336030db440e08",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T19:25:15+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "CNN",
-      "type": "news",
-      "quote": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access | CNN Business - CNN Trump sued on First and Fifth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbi12ZTE2NFdGWWpYWXZXMzlBdTNwTzBsX3VTSXlKVXBMalp2d1c5MTl4QS0wakgwb09FQXVwOVBad2ZWcGQ2alFjanA3dXFDaTBjWmRBckV4X0h1WlRoWDhHQXk0amdNYWRwSg?oc=5",
-      "image": null,
-      "headline": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access | CNN Business - CNN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "2c0024756f7cb7a5",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T19:12:34+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Scranton Times-Tribune",
-      "type": "news",
-      "quote": "Lawsuit seeks to ban Trump Media from charging for early access to president\u2019s posts on US",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IbWJydF9BWnlwS0Nxd1hvWm9MbVROT05ONEZlTV9QLWVJa014YU1HLWJLMGNjT0tnbkZTQnFDaEdSbjE0dmJGR3VQZHBTV2VjNEwxX2o1R1NDMmNISlk2eUZNeHF5aXZEQk95NFZSbV9wdw?oc=5",
-      "image": null,
-      "headline": "Lawsuit seeks to ban Trump Media from charging for early access to president\u2019s posts on US policy - Scranton Times-Tribune",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "5972b3260ccbaaba",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T19:05:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "700WLW",
-      "type": "news",
-      "quote": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - 700WLW President Trump's Media Firm Faces Lawsuit",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": -6.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWYyZUo3RjItbXJXUnJqX2h2ZEJRaHZJRmdLUjRNQktISHJaM3NJNW1oTy1vRkxLWHBOakpmUWtITmIwWDVIMUpSZjlDMkxaY2w1bUxuSnhUQnlRalpVUTVQX21IQ3Y2X3YzQkxRQ0ZCYzZhMzFvWHIxZ2thNEpTUjYyRmxFZDE2ZWZzMm16aE9ieWZ0VjlOTG9MWGNacWlaWVlUamdYcXQ1SlpSRXFr?oc=5",
-      "image": null,
-      "headline": "President Trump's Media Firm Faces Lawsuit Over Truth Social Plan - 700WLW",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.32
         }
       ]
     }
