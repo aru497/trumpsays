@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-09-23T17:18:25.987509+00:00",
+  "updated_at": "2026-09-23T20:33:07.868589+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "66cd808e1df6aa77",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T18:01:04+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "New York Magazine",
+      "type": "news",
+      "quote": "San Francisco Sues Trump\u2019s Truth Social Over \u2018Insider Trading\u2019 Play - New York Magazine San",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.06,
+      "change": -0.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lWk55TjNyalpWZmFHbTEwMkR0M29Bb0pVU1hxUDM0WFA3ckw1ZFMtYnVDeXNrbDBBYlpVdmFTcjF0RUJ3clNXekRsOE4xclpYMExwY2haZUFxVTFkUklDVkEyZUd6RGNPTkZZV0RmWG5ZcVNZVzFxSHJFZw?oc=5",
+      "image": null,
+      "headline": "San Francisco Sues Trump\u2019s Truth Social Over \u2018Insider Trading\u2019 Play - New York Magazine",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        }
+      ]
+    },
     {
       "id": "7029d3e0387bec8e",
       "date": "Wed, 23 Sep 2026",
@@ -2698,6 +2802,110 @@
         {
           "d": "09-22",
           "c": 9.11
+        }
+      ]
+    },
+    {
+      "id": "19053f9eba249624",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T14:23:34+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "sfstandard.com",
+      "type": "news",
+      "quote": "David Chiu sues Trump Media, says Truth API enables insider trading - sfstandard.com",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.06,
+      "change": -0.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHJNaHVtSUdXQzZiaFByVzljTk9HUllfYk00aEF2M0JVdU5LTjctLVRKb2VPNUlIeEdjLWhxcFRsbnZsaEt1SjdlRGZWbC1zekNlZXJXanV6QXdqS0VrdncxOE9ZbE5xbE93dVVWTWJYOTljaTdJZEtON3huUW01YzQwbGRtZmN5RWFiTU1GeWpWQTFxaTUzdVcwYlJIbjFsYVVJYllqNThUZnhDV0xnZkJB?oc=5",
+      "image": null,
+      "headline": "David Chiu sues Trump Media, says Truth API enables insider trading - sfstandard.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
         }
       ]
     },
@@ -40024,222 +40232,6 @@
         {
           "d": "08-13",
           "c": 8.28
-        }
-      ]
-    },
-    {
-      "id": "c302015d9dc1c19d",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T09:03:15+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "thenextweb.com",
-      "type": "news",
-      "quote": "Donald Trump is sued for putting a $100,000 paywall on his Truth Social posts - thenextweb.com Donald Trump is sued for putting a",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53WExUVFJoRVROa2N0N0xhSFZWYzdTYllzaVFIU0JGbGZDWUZEOG43aXB5ekdhMU1aQ3UySTU5aE8wX2VwV0JHSGJrc2RybUhHSDVnVkhpM1hSVGlCWmRxSmI4eEZTZWg4WlhUSXFDSU5UQUJh?oc=5",
-      "image": null,
-      "headline": "Donald Trump is sued for putting a $100,000 paywall on his Truth Social posts - thenextweb.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "5b26b8aae4a8c11e",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T07:00:00+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "Trump sued over $100,000-a-month early-access offer to Truth Social posts | Donald Trump - The Guardian Trump sued over",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.77,
-      "change": 2.84,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU05Pbi1ja3JrSjM5bTBYd0tzVFVhZXJzLXdIOEp1U2lvQmpCRWdPdDdtM0RqRS1Bbm42c3VoU2FZYlpvbFhYcnh3WjJOSmlMMERwdndPN2hTbTgwS0g4c1lGNmxOTXdaMzBPX1poWnVJR0w3UlFtMTRLOVN2dlNXS2ZnTzhUMXJuSEZudGxJc3AtcFpX?oc=5",
-      "image": null,
-      "headline": "Trump sued over $100,000-a-month early-access offer to Truth Social posts | Donald Trump - The Guardian",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
         }
       ]
     }
