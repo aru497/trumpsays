@@ -1,7 +1,207 @@
 {
-  "updated_at": "2026-09-23T06:53:04.267217+00:00",
+  "updated_at": "2026-09-23T12:23:27.496333+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8d20eefb1cfe35ac",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T12:08:00+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "BeInCrypto",
+      "type": "news",
+      "quote": "Trump Accounts Bought MicroStrategy Stock Before an 83% Rally - BeInCrypto Trump Accounts",
+      "company": "Microstrategy",
+      "ticker": "MSTR",
+      "price": 168.5,
+      "change": 9.47,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SZm9FN3pENFZvMXpWR0hKWWpneU9GSFRoZFo3Ynpsak53QTJhNGx4SlA3d1IyV3dGb1JyRVE4bWMyN2t2RjltUGdRZ0JmRkxneFVPa1ZNOU9ISGdiV3NUaUZidU9WWjFTaFJIalp5U2FfTTBX?oc=5",
+      "image": null,
+      "headline": "Trump Accounts Bought MicroStrategy Stock Before an 83% Rally - BeInCrypto",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        }
+      ]
+    },
+    {
+      "id": "d997d30c0b445e58",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T11:50:54+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Larry Kudlow praises President Trump's address to the UN - Fox Business Larry Kudlow praises President Trump's address to",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 57.9,
+      "change": 0.28,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqanNEanBkWG96emQ3amtLZDVFUEZPR1dpQXZqdUxkQ2l2SnlwR2ZaVjgySDJFZnQ5UE1MSzFZcXFjQjFLaXVIQjhodmVucVhZeHZXZG5NTWNWOHc?oc=5",
+      "image": null,
+      "headline": "Larry Kudlow praises President Trump's address to the UN - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 61.29
+        },
+        {
+          "d": "08-25",
+          "c": 62.38
+        },
+        {
+          "d": "08-26",
+          "c": 61.92
+        },
+        {
+          "d": "08-27",
+          "c": 60.1
+        },
+        {
+          "d": "08-28",
+          "c": 61.02
+        },
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        }
+      ]
+    },
     {
       "id": "ff840b77b481ecc1",
       "date": "Tue, 22 Sep 2026",
@@ -3102,6 +3302,106 @@
         {
           "d": "09-21",
           "c": 225.38
+        }
+      ]
+    },
+    {
+      "id": "b330cc70c2c4a2ec",
+      "date": "Mon, 21 Sep 2026",
+      "ts": "2026-09-21T01:07:10+00:00",
+      "date_display": "Sep 21, 2026",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "type": "news",
+      "quote": "Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.12,
+      "change": 3.05,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTlNxLWhIR2xFeDYzZTRuQjU2RUZJcjVkSTVIbGJvN3NyX0Q3eTNvaWVXQndoT3BtRTNqWHlFQkFyb2RRaUZ4ZjFnQVV2bGpUbWxSVklMNlJiam9sdHR6em1GTHZxQmRWVm9XRzBzV3l5NHZGT0w4SmVfQTRzR3ptVmNqNURhZ1QxZ3E4VURyMTg1NHQwbklMbjRZcDJXRzI3MGZ2c3dJeGvSAa4BQVVfeXFMUDdGSHgweGtzWU5EZ3VDQ0E3ZVp3OUtIaVlZLU80dkZUckhXUWt5cXIyQ0h2ZGh4MzNRRUFDT2Z4OWN4RUp2TkZSLWxkaFFTamUxckM0dWgxQzBOZE05Wm52cHdtb1hWTWNsSGk3cHJkaHlLWnBlWGVyZTl6RVhjdEktaGpJQUtaczI1N0lRQkpBX1pqVjVUUVBCTFNyR1R3eVlpOW94Q0I1OWhMeXdB?oc=5",
+      "image": null,
+      "headline": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
         }
       ]
     },
@@ -39960,322 +40260,6 @@
         {
           "d": "08-12",
           "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "8ce156133772c543",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-13T01:02:31+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "against the Alabama-based civil rights group, a frequent target of conservative critics who claim the nonprofit is",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.0,
-      "change": 1.9,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/former-splc-official-charged-in-justice-departments-broader-criminal-case-against-group",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-04-21T222928Z_1625292593_RC2XTKAT7MAU_RTRMADP_3_USA-SOUTHERN-POVERTY-BLANCHE-1024x683.jpg",
-      "headline": "Former SPLC official charged in Justice Department's broader criminal case against group",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 132.98
-        },
-        {
-          "d": "07-15",
-          "c": 137.24
-        },
-        {
-          "d": "07-16",
-          "c": 139.14
-        },
-        {
-          "d": "07-17",
-          "c": 138.54
-        },
-        {
-          "d": "07-20",
-          "c": 138.53
-        },
-        {
-          "d": "07-21",
-          "c": 137.43
-        },
-        {
-          "d": "07-22",
-          "c": 136.87
-        },
-        {
-          "d": "07-23",
-          "c": 133.46
-        },
-        {
-          "d": "07-24",
-          "c": 135.74
-        },
-        {
-          "d": "07-27",
-          "c": 139.27
-        },
-        {
-          "d": "07-28",
-          "c": 143.1
-        },
-        {
-          "d": "07-29",
-          "c": 144.79
-        },
-        {
-          "d": "07-30",
-          "c": 143.41
-        },
-        {
-          "d": "07-31",
-          "c": 143.39
-        },
-        {
-          "d": "08-03",
-          "c": 148.21
-        },
-        {
-          "d": "08-04",
-          "c": 146.98
-        },
-        {
-          "d": "08-05",
-          "c": 146.57
-        },
-        {
-          "d": "08-06",
-          "c": 145.96
-        },
-        {
-          "d": "08-07",
-          "c": 148.56
-        },
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        }
-      ]
-    },
-    {
-      "id": "f8d13cf9a85b5b88",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T23:08:00+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "Deadline",
-      "type": "news",
-      "quote": "Trump Sued By Media Groups Over Sale Of Faster Access To Truth Social Posts - Deadline Donald Trump Sued By Media Groups Over",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3l3QmxXNC1CdEFIMVVHSFpXT2pWX3lvS3RZdGVSeWxwajFqWUluN21hWElvWkV0b05OdkU3WDE0M3ZfX3ZVT181ZEl2cFlpLWpIb3NhQ2h0dU1haTBRYlNsVDdVemJUN1pGUmw1RDVDd3ZOUTBsbnc1ckdaTWx3OXQxRWlzbDg?oc=5",
-      "image": null,
-      "headline": "Donald Trump Sued By Media Groups Over Sale Of Faster Access To Truth Social Posts - Deadline",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "9fa5c3886be75c35",
-      "date": "Wed, 12 Aug 2026",
-      "ts": "2026-08-12T22:20:46+00:00",
-      "date_display": "Aug 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "some 1,600 obituaries in his decades-long career at The New York Times. His new book, \"Are They Dead Yet?\" is about the art of",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.95,
-      "change": 0.35,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/sam-roberts-and-geoff-bennett-discuss-the-art-of-obituary-writing-on-settle-in",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/settlein-1024x576.jpg",
-      "headline": "Sam Roberts and Geoff Bennett discuss the art of obituary writing on 'Settle In'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-13",
-          "c": 75.04
-        },
-        {
-          "d": "07-14",
-          "c": 72.98
-        },
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
         }
       ]
     }
