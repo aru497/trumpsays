@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-09-23T12:23:27.496333+00:00",
+  "updated_at": "2026-09-23T17:18:25.987509+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7029d3e0387bec8e",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T15:35:27+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "thestreet.com",
+      "type": "news",
+      "quote": "Trump's stock accounts quietly loaded up on Strategy and Tesla, filing shows - thestreet.com Trump's stock accounts",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 378.55,
+      "change": 0.87,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkU4RlZHVmpreWl3Szl0QTlTYUIwR3ViLWk0ZHlmODltbktPZ1ZVM3RCWEFsa0hnQWtGdkhhZl9FTXJpUWFSXzFiaXM1WkF6bnNDalFOUDk3NXBjQjFnSTJJMk54VEFfRUpvdGpRMmFkVUR4ZFRWeFJOaVJ1ZFAzcnAxbWg0ckJfeUF1MVVIVTVnblRRNWlmVzBlQUZHRWZuMjkwRUl5SWVSdTFxMkF5V0NkMlFiQQ?oc=5",
+      "image": null,
+      "headline": "Trump's stock accounts quietly loaded up on Strategy and Tesla, filing shows - thestreet.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 348.95
+        },
+        {
+          "d": "08-25",
+          "c": 350.25
+        },
+        {
+          "d": "08-26",
+          "c": 345.82
+        },
+        {
+          "d": "08-27",
+          "c": 354.81
+        },
+        {
+          "d": "08-28",
+          "c": 348.75
+        },
+        {
+          "d": "08-31",
+          "c": 367.95
+        },
+        {
+          "d": "09-01",
+          "c": 356.09
+        },
+        {
+          "d": "09-02",
+          "c": 357.01
+        },
+        {
+          "d": "09-03",
+          "c": 376.37
+        },
+        {
+          "d": "09-04",
+          "c": 354.08
+        },
+        {
+          "d": "09-08",
+          "c": 368.16
+        },
+        {
+          "d": "09-09",
+          "c": 367.81
+        },
+        {
+          "d": "09-10",
+          "c": 363.56
+        },
+        {
+          "d": "09-11",
+          "c": 365.44
+        },
+        {
+          "d": "09-14",
+          "c": 358.97
+        },
+        {
+          "d": "09-15",
+          "c": 356.58
+        },
+        {
+          "d": "09-16",
+          "c": 358.08
+        },
+        {
+          "d": "09-17",
+          "c": 366.2
+        },
+        {
+          "d": "09-18",
+          "c": 364.27
+        },
+        {
+          "d": "09-21",
+          "c": 375.3
+        },
+        {
+          "d": "09-23",
+          "c": 378.55
+        }
+      ]
+    },
+    {
+      "id": "ac1af2cd58d82516",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T15:35:27+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "thestreet.com",
+      "type": "news",
+      "quote": "Trump's stock accounts quietly loaded up on Strategy and Tesla, filing shows - thestreet.com Trump's stock",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 162.99,
+      "change": -3.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkU4RlZHVmpreWl3Szl0QTlTYUIwR3ViLWk0ZHlmODltbktPZ1ZVM3RCWEFsa0hnQWtGdkhhZl9FTXJpUWFSXzFiaXM1WkF6bnNDalFOUDk3NXBjQjFnSTJJMk54VEFfRUpvdGpRMmFkVUR4ZFRWeFJOaVJ1ZFAzcnAxbWg0ckJfeUF1MVVIVTVnblRRNWlmVzBlQUZHRWZuMjkwRUl5SWVSdTFxMkF5V0NkMlFiQQ?oc=5",
+      "image": null,
+      "headline": "Trump's stock accounts quietly loaded up on Strategy and Tesla, filing shows - thestreet.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-23",
+          "c": 162.99
+        }
+      ]
+    },
+    {
+      "id": "781f11d169b64aca",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T12:30:07+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "South China Morning Post",
+      "type": "news",
+      "quote": "Trump sells tens of millions in AI, tech shares, led by Microsoft - South China Morning Post Trump sells tens of millions in",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 499.91,
+      "change": -0.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVB6SUExOVNGN2o3bVM0ZFdJR1hTblpSWWhVT0t4ZV82Uk1QS3ZWd3FBM1hqb28xbVZpTHdQcmRGM2dRbThNdnp0SHptc1ZtS0pMQmtQS0I5bTVNRzg0VHQtLXVMZ3lQQVp0UVZ1ZFAyM3hyT1ozdWlxRVBNRTVyNHd5LVdyUnJ2RjlHLXAxd0VTekhtYlZmYUJFemszSkxjcDBnVGpsVWlPRWdzVEFhdtIBsAFBVV95cUxNTXBYNjNqTThabEN3R2xRZjRxams5bndGUXNNbXZwMDAzZFRSSjhiNEZqRGQweDhtZDBrd2pZNFRCU2Rqd2hNU1c1RUF0aGw5dGRyX0NjdWIwWnhLeW1relYtcmZRcTZZdHFPUkhpazFOamh4VXVlVDdtRmVEcHZiZWdNMUhFTHVSZGd1NGd6bEZqazNOWnhJMXVqNmNmdWRYYlZkbzkzZ2hVd2MxTHRXag?oc=5",
+      "image": null,
+      "headline": "Trump sells tens of millions in AI, tech shares, led by Microsoft - South China Morning Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 487.31
+        },
+        {
+          "d": "08-25",
+          "c": 491.71
+        },
+        {
+          "d": "08-26",
+          "c": 496.37
+        },
+        {
+          "d": "08-27",
+          "c": 505.06
+        },
+        {
+          "d": "08-28",
+          "c": 513.53
+        },
+        {
+          "d": "08-31",
+          "c": 507.29
+        },
+        {
+          "d": "09-01",
+          "c": 501.02
+        },
+        {
+          "d": "09-02",
+          "c": 496.82
+        },
+        {
+          "d": "09-03",
+          "c": 510.12
+        },
+        {
+          "d": "09-04",
+          "c": 499.7
+        },
+        {
+          "d": "09-08",
+          "c": 493.95
+        },
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-23",
+          "c": 499.91
+        }
+      ]
+    },
+    {
+      "id": "33b9fa28c0dfe04b",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T12:08:17+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "finance.yahoo.com",
+      "type": "news",
+      "quote": "Trump Accounts Bought MicroStrategy Stock Before an 83% Rally - finance.yahoo.com Trump",
+      "company": "Microstrategy",
+      "ticker": "MSTR",
+      "price": 162.99,
+      "change": -3.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDZ4WUZUMWlaSUo5R1k3SE91SE9iRWUxSjZKVm1wTzItZmFnWmdLQV9CWTR6MGxCRzRVN2k5REpYTkVUMmlQdHo4QTM2TE9fTmlfM0lRUjZPNDZjajJVZlpsRklYYUNOMWdvcGN1VnlsUDNHQmZPS0NRa1hNM1I5M05ib3RKUFNVRHJRRkwySk52eU1HMUo2Z0JWbll3aXZiTUI1ZzZnOHJHZw?oc=5",
+      "image": null,
+      "headline": "Trump Accounts Bought MicroStrategy Stock Before an 83% Rally - finance.yahoo.com",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-23",
+          "c": 162.99
+        }
+      ]
+    },
     {
       "id": "8d20eefb1cfe35ac",
       "date": "Wed, 23 Sep 2026",
@@ -199,6 +615,110 @@
         {
           "d": "09-21",
           "c": 57.9
+        }
+      ]
+    },
+    {
+      "id": "87df1e59e00a7b3e",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T09:54:38+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "Yahoo Finance UK",
+      "type": "news",
+      "quote": "Trump Media sued for \u2018insider trading\u2019 over early access to Truth",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.02,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWNzWUNWWkdQZ2RBSzRMSUM4VjExNFpIUFZIRWg5U1pzclVDNVFzdFFoMmVfRWFJSDhMeVhCTkEzakpfbVV5aGdGODZUSVVxek00VGE2Um5USkZOVGphR2dDdWxvUmlEREh2U3JPU0lVSHVhUWJjMTJTeFZQNTYza2VZd1IyVXRt?oc=5",
+      "image": null,
+      "headline": "Trump Media sued for \u2018insider trading\u2019 over early access to Truth Social posts - Yahoo Finance UK",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-23",
+          "c": 9.02
         }
       ]
     },
@@ -39720,546 +40240,6 @@
         {
           "d": "08-27",
           "c": 9.77
-        }
-      ]
-    },
-    {
-      "id": "bbe94e9b54bae53b",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T02:42:00+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "The Japan Times",
-      "type": "news",
-      "quote": "sued over plan to sell faster access to his posts on Truth Social - The Japan Times U.S. president sued over plan to sell",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhmSmpydGMxbnBodWJoZmY0bkZjNVNwM2JmTnFqZDRGY3NvVldrbXREdzkyQ0FmYWw1bW4tcWc2LUc3c1RWWGJnYVlxQU9pNUhoNm9RTEFhSDQtd1pTSndLRElfVWdKZlZ6OW5YVEhESWVLdGhkNnRVSnVlQXJYQ2puZTE?oc=5",
-      "image": null,
-      "headline": "U.S. president sued over plan to sell faster access to his posts on Truth Social - The Japan Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "01556b635d599fc7",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T02:19:00+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "afr.com",
-      "type": "news",
-      "quote": "Trump sued over selling traders fast access to Truth Social posts - afr.com Trump sued over selling traders fast",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.34,
-      "change": 0.48,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0FTUnNaaWlZVXZrSDFBVlVxc0JfOVFXRGRQUGtNOXV0T3FTVzJWTFpHUDU5NTFRUmp6SXB3ZEc1VzJvNlQ0d0VtZFBGUkZGYWhEUlVkVVNxT0ZINW9kbTVoY1B2cGczSm9wbnJSeFp1UWtuMEgzNmdXVUhIcGhOZzdkZnctNnlQNmNZTTByVUV4QUtaclN6dElZY0Q2ZU01STlpdXhOUjVRM2o5UE5vSjEzQlBaVklQTEVLTUlB?oc=5",
-      "image": null,
-      "headline": "Trump sued over selling traders fast access to Truth Social posts - afr.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.34
-        }
-      ]
-    },
-    {
-      "id": "8c8f2c7746e7972c",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T02:11:37+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "Citizens for Responsibility and Ethics in Washington",
-      "type": "news",
-      "quote": "Truth Social's $100,000-per-month subscription for early access to",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV1dYZXQyRGxhLWZIVWtiNUJ2ZUtSVHpxQkJwVW91c1FIeWkxN0ZlNjdkUUxlRjRiR0VqZGE2cmpZX1dkbHZmWHRRNmRDbkQ5b0FZNV91VkpsNUdYdHlmYXp2UnFhVjZUU2YtaldKbGtocC1PeGlNTjdRaUVSUHBmaUZDU0FFbVJuRlNVM2lEc1JCRE11cndzV08wcGwtMjdfdktrSHp6b3hIUlMwMEhJWXZpMG5FUm1VY1dMbjhndjhSWU50YzVXU0hMUTRhVkRMWVNINVBlSFgwVjNtcUJSQVNDUzZBVms?oc=5",
-      "image": null,
-      "headline": "Truth Social's $100,000-per-month subscription for early access to Trump posts is unconstitutional - CREW - Citizens for Responsibility and Ethics in Washington",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "710be81135f0d672",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T01:26:00+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "The Wenatchee World",
-      "type": "news",
-      "quote": "Trump media company announces a massive loss and new turnaround effort",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVkt2bTFKY1hNU19iLUxNeGJSVzktNU1yWG9KNHp0aFZXZW9MbjU5MEx0U21KZFY5bWpsYUxleHlWdHhPQWpUdjJlUjJHMzBPbkRmY0x6NmxEcXhrQXVFM3V2TUJLdGlpOWh3WU94LTc0Y3VMbllwWmFBZmpuWFM2c2stRzdrUi1hY2FOOHkzejFBTnQxRnNxaFo3cG1yTm1WU2Znb252OVdCazRCTFNlZHJJX1FNTkNtOTBNek1KaWtFOUFpcWlqNVNpdzV1emdxWmU1d0hiQ1F0N2llc3JDNlV1OVRRU3JZc3ZGdU9zRlBnUQ?oc=5",
-      "image": null,
-      "headline": "Trump media company announces a massive loss and new turnaround effort - The Wenatchee World",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "ddb666cf4f55bd31",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T01:03:00+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "USA Today",
-      "type": "news",
-      "quote": "Trump sued over Truth Social's $100,000 early access plan - USA Today Trump sued over",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHpvMWV2Mk5fVUFPVTdxSnhUNW9FVk9nUjlCbjdUa0NUaU56V0hsVW9NSi1yWmg3bng1Z0NiVjZxUXRQQzkwTUhDX3gyWVhmMHEwcVlldFFlOW1lQU5jRG14RTg3N3FhS2dlSFNwOURNeGJIMDk0VjFjVFEzUHlOLUxSMnltYnA5djFqN0FHeWZCblpkM21oUUF6dDVmYmhybU9yd0YwLUkwb1ZMcUVjRnBHY09qTEp0NWFvUmx6dXRkaTMtNHg5aFV3?oc=5",
-      "image": null,
-      "headline": "Trump sued over Truth Social's $100,000 early access plan - USA Today",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
         }
       ]
     }
