@@ -1,7 +1,346 @@
 {
-  "updated_at": "2026-09-23T20:33:07.868589+00:00",
+  "updated_at": "2026-09-23T23:16:57.186012+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ff16bb6988046e67",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T21:52:04+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "bloomingbit",
+      "type": "news",
+      "quote": "Up to $100,000 More of Strategy Stock in July, Also Added Coinbase - bloomingbit Trump Bought Up to $100,000 More of Strategy",
+      "company": "Coinbase",
+      "ticker": "COIN",
+      "price": 198.13,
+      "change": -1.46,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6WnVGdXpUaFJMR2RTX2VoMU1rN1dSenR3OVVFUk5Wb1R0XzB6Y2lDRzFydmlrdHZiTHV5V2x6c0lKaGlIeFJha3otbU5OUHVSMjE1cQ?oc=5",
+      "image": null,
+      "headline": "Trump Bought Up to $100,000 More of Strategy Stock in July, Also Added Coinbase - bloomingbit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 179.48
+        },
+        {
+          "d": "08-25",
+          "c": 187.16
+        },
+        {
+          "d": "08-26",
+          "c": 181.78
+        },
+        {
+          "d": "08-27",
+          "c": 190.72
+        },
+        {
+          "d": "08-28",
+          "c": 178.64
+        },
+        {
+          "d": "08-31",
+          "c": 188.12
+        },
+        {
+          "d": "09-01",
+          "c": 176.82
+        },
+        {
+          "d": "09-02",
+          "c": 174.96
+        },
+        {
+          "d": "09-03",
+          "c": 192.7
+        },
+        {
+          "d": "09-04",
+          "c": 184.64
+        },
+        {
+          "d": "09-08",
+          "c": 178.94
+        },
+        {
+          "d": "09-09",
+          "c": 174.72
+        },
+        {
+          "d": "09-10",
+          "c": 172.28
+        },
+        {
+          "d": "09-11",
+          "c": 175.26
+        },
+        {
+          "d": "09-14",
+          "c": 191.45
+        },
+        {
+          "d": "09-15",
+          "c": 172.11
+        },
+        {
+          "d": "09-16",
+          "c": 164.51
+        },
+        {
+          "d": "09-17",
+          "c": 173.97
+        },
+        {
+          "d": "09-18",
+          "c": 194.25
+        },
+        {
+          "d": "09-21",
+          "c": 201.05
+        },
+        {
+          "d": "09-22",
+          "c": 201.07
+        },
+        {
+          "d": "09-23",
+          "c": 198.13
+        }
+      ]
+    },
+    {
+      "id": "57499574589a9f62",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T21:52:04+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "bloomingbit",
+      "type": "news",
+      "quote": "Trump Bought Up to $100,000 More of Strategy Stock in July, Also Added Coinbase - bloomingbit Trump",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 162.2,
+      "change": -3.07,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6WnVGdXpUaFJMR2RTX2VoMU1rN1dSenR3OVVFUk5Wb1R0XzB6Y2lDRzFydmlrdHZiTHV5V2x6c0lKaGlIeFJha3otbU5OUHVSMjE1cQ?oc=5",
+      "image": null,
+      "headline": "Trump Bought Up to $100,000 More of Strategy Stock in July, Also Added Coinbase - bloomingbit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        }
+      ]
+    },
+    {
+      "id": "a640a479c768b635",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T20:19:22+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "from White House A federal judge weighing whether to block President Donald Trump's ban of three news outlets from",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/trump-administrations-ban-of-three-prominent-news-outlets-from-white-house-is-in-court",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-23T192326Z_438432603_RC25PNAZHTJQ_RTRMADP_3_USA-TRUMP-MEDIA-1024x683.jpg",
+      "headline": "Judge questions Trump's ban of three prominent news outlets from White House",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "0e724f2730336773",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T18:41:00+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "finance.biggo.com",
+      "type": "news",
+      "quote": "San Francisco Sues Trump Media, Calling $100,000-a-Month Truth API an Insider Trading",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.06,
+      "change": -0.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjX3VTVW5YOHh3TVk5emlkVTN2OWZ4Nl81c00tNHV4SVc0MUp5bHY4d3hzalhSUklTTVJsekdyZVllZlZPTk9QTWM0S21OUlBuY042V0ZtSVlOWk5KUjNQbWFtVzlIZVp3WmdiOUNqRVdUSlVaaWc?oc=5",
+      "image": null,
+      "headline": "San Francisco Sues Trump Media, Calling $100,000-a-Month Truth API an Insider Trading Scheme - finance.biggo.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        }
+      ]
+    },
     {
       "id": "66cd808e1df6aa77",
       "date": "Wed, 23 Sep 2026",
@@ -18,6 +357,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lWk55TjNyalpWZmFHbTEwMkR0M29Bb0pVU1hxUDM0WFA3ckw1ZFMtYnVDeXNrbDBBYlpVdmFTcjF0RUJ3clNXekRsOE4xclpYMExwY2haZUFxVTFkUklDVkEyZUd6RGNPTkZZV0RmWG5ZcVNZVzFxSHJFZw?oc=5",
       "image": null,
       "headline": "San Francisco Sues Trump\u2019s Truth Social Over \u2018Insider Trading\u2019 Play - New York Magazine",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 9.3
+        },
+        {
+          "d": "08-25",
+          "c": 9.4
+        },
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        }
+      ]
+    },
+    {
+      "id": "a5419649325dd9db",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T18:01:04+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "New York Magazine",
+      "type": "news",
+      "quote": "San Francisco Sues Trump\u2019s Truth Social Over \u2018Insider Trading\u2019 - New York Magazine San Francisco",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.06,
+      "change": -0.66,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lWk55TjNyalpWZmFHbTEwMkR0M29Bb0pVU1hxUDM0WFA3ckw1ZFMtYnVDeXNrbDBBYlpVdmFTcjF0RUJ3clNXekRsOE4xclpYMExwY2haZUFxVTFkUklDVkEyZUd6RGNPTkZZV0RmWG5ZcVNZVzFxSHJFZw?oc=5",
+      "image": null,
+      "headline": "San Francisco Sues Trump\u2019s Truth Social Over \u2018Insider Trading\u2019 - New York Magazine",
       "channel": "News",
       "series": [
         {
@@ -311,6 +754,222 @@
         {
           "d": "09-23",
           "c": 162.99
+        }
+      ]
+    },
+    {
+      "id": "0c64791317ad000d",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T14:58:08+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Ban on CNN, MS NOW and Politico in Court Filing - The New York Times White House Defends Trump\u2019s Ban on CNN, MS NOW and",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 61.89,
+      "change": -5.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGlOMHQ1di1TeU1UdFdQTWdONmd5SXo3dkdJQlV3VW9PWFBSU1c2UXlndTQwX1ZIYjFvYy00WlJfeWluVmp2aDNGU2lTYkpIMzJHTFEyRlpOQnl4YmZiNTRNOHAxVE1GZzFaZmp3Qm9WS256WnM2dmpkaTVqWWlQSFU1NVo?oc=5",
+      "image": null,
+      "headline": "White House Defends Trump\u2019s Ban on CNN, MS NOW and Politico in Court Filing - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 67.49
+        },
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        },
+        {
+          "d": "09-15",
+          "c": 71.71
+        },
+        {
+          "d": "09-16",
+          "c": 72.41
+        },
+        {
+          "d": "09-17",
+          "c": 69.94
+        },
+        {
+          "d": "09-18",
+          "c": 70.21
+        },
+        {
+          "d": "09-21",
+          "c": 70.53
+        },
+        {
+          "d": "09-22",
+          "c": 65.45
+        },
+        {
+          "d": "09-23",
+          "c": 61.89
+        }
+      ]
+    },
+    {
+      "id": "c4ceb9f8efb3a8a5",
+      "date": "Wed, 23 Sep 2026",
+      "ts": "2026-09-23T14:49:22+00:00",
+      "date_display": "Sep 23, 2026",
+      "source": "benzinga.com",
+      "type": "news",
+      "quote": "Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83% -",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 162.2,
+      "change": -3.07,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDdGbW5LdmJUNHhVQlA2LXJlN0xJU292WDNiUHJuMklXM1NMZTM1VzdfSklNTjBQYzJWSGRtZWVIQmhYOE5fMDVUc3RwOHRKQjI4NGJNSnVFdlEtU0pfZEtXaFRlcThZQnhzSVo5VTNGS1hMT0IwbEdpaHpSLVNDa1IyU1pSNkloZVhUYXRFbjFfa0s0UEhmeXdobC1kd19S?oc=5",
+      "image": null,
+      "headline": "Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83% - benzinga.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
         }
       ]
     },
@@ -39476,762 +40135,6 @@
         {
           "d": "08-13",
           "c": 8.23
-        }
-      ]
-    },
-    {
-      "id": "51ccdc63305792ca",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T14:59:43+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "The Week",
-      "type": "news",
-      "quote": "Trump sued over paid access to Truth Social posts - The Week Trump sued over paid access to Truth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.23,
-      "change": -0.48,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wYmZpREswdHQ5MzZxM1ltWUVrYUktLTdsTUFVZ0hFUWNsVWRTNEdDcl9TbjVqR0hyZDZBOGRzTGIzVkV2dGJfQ0FjMlFqUkxlYzNoZFkxelNZQTVoWUNOTHV4dFpmM1gzd1R2SjJ1aEsxdw?oc=5",
-      "image": null,
-      "headline": "Trump sued over paid access to Truth Social posts - The Week",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.23
-        }
-      ]
-    },
-    {
-      "id": "b6542d028fe898be",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T14:59:43+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "theweek.com",
-      "type": "news",
-      "quote": "Trump sued over paid access to Truth Social posts - theweek.com Trump sued over paid access to Truth",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.3,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wYmZpREswdHQ5MzZxM1ltWUVrYUktLTdsTUFVZ0hFUWNsVWRTNEdDcl9TbjVqR0hyZDZBOGRzTGIzVkV2dGJfQ0FjMlFqUkxlYzNoZFkxelNZQTVoWUNOTHV4dFpmM1gzd1R2SjJ1aEsxdw?oc=5",
-      "image": null,
-      "headline": "Trump sued over paid access to Truth Social posts - theweek.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        }
-      ]
-    },
-    {
-      "id": "45124d3fba8f948f",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T14:33:58+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "The Globe and Mail",
-      "type": "news",
-      "quote": "Trump Media sued over paid service offering early access to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWp1N1pDSEZOa2NKZlJJNUMxdXNMNHd5NzItblFPdnhWaHFxV3poekNfbDZrMUlLcTdZRzlUTkNVbEkyTjN5ZFRxVW5PcDlBNzBDdmdoc21meEVjeC1fNVVYR0M1ZUYyZXd3ejR4NXA0endhbWR2bWNUQUFWTHBxbWlTWlB0RVJPajZhUWhWODVYRl95MTVobGwwYXdISl8tc0N5SlZRdF9TVlFMVFBHN3BONS03U2Q1RFJya2pKaTBsZ0x2S3JUa0RCZVBkeDl4VDBHa0ZHOHg?oc=5",
-      "image": null,
-      "headline": "Trump Media sued over paid service offering early access to President\u2019s Truth Social posts - The Globe and Mail",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "09542260b526646c",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T14:13:23+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "Democracy Now!",
-      "type": "news",
-      "quote": "Lawsuit Seeks to Halt Truth Social\u2019s Plan to Charge $100K for Early Access to Trump\u2019s Posts -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.34,
-      "change": 0.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYUZZSm85NVBERkp3ZFYtTElsdWpDaUZRcFRhSnROOEFOdjYxTEV1OFlROEV2SGhaWk5aVDVWc01hUFN4X0Rza1BsQ1JXZ29Eb1Vvdk0xdzg2Sm9kQlU5eFB3dlhDb0x4a052OWtqeWVrS254UVNLMWotZ2U1Y1FlMFBfZzBRaGxLdWpMSDdMSWFSODk2LWJHVHJMQ1VFcm14R3JpWFVwdTZMZHoxUng3MjVNeXkyUTFzVzh4elFzZWIxUk1xNmpsNmJXdzdtUmxUd1lv?oc=5",
-      "image": null,
-      "headline": "Lawsuit Seeks to Halt Truth Social\u2019s Plan to Charge $100K for Early Access to Trump\u2019s Posts - Democracy Now!",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.34
-        }
-      ]
-    },
-    {
-      "id": "e557708f0b8503fa",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T13:32:26+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "Finextra Research",
-      "type": "news",
-      "quote": "Trump sued over selling early access to Truth Social posts - Finextra Research Trump sued over selling early",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.48,
-      "change": 2.54,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDFVekZnb1lpUW9aNXpjWHJsT0RpME5id3NrMVd3ejRrcko4cU1Wd1dmZHZTaXgydl9EUVRDUU5mQ2hsdS1Wa1dXcFlqRDVnOThISlAzaXFnX1ltZGNkTTM5TU1SLVpaRlRtUkllWnJ4TWpYOGdud0RCdUdQTTN5R2xnVVNEU1Rla1R0ekxFWi04ejdiZ1g2ZjJsSUNDT3p2WndJ?oc=5",
-      "image": null,
-      "headline": "Trump sued over selling early access to Truth Social posts - Finextra Research",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.48
-        }
-      ]
-    },
-    {
-      "id": "69b4b0ccd01cd6d3",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T09:46:50+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "ICLG",
-      "type": "news",
-      "quote": "Trump sued over $100,000-a-month early access to \u2018Truth Social\u2019 posts - ICLG Trump sued over $100,000-a-month early",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -7.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0FzQ2VGUWprNEtYeEJDRmg2THREY283SFpRWDQzWUd2TFpha1JLNjI0VjhnTml6cVYyM1VKUVdjRnhybGVQTW0tUElwV25RRXE2UlBOSUFWaVpYU3pnRjdsZnZ1OWJpT0RmU3R5a0hscks4dUFDVk9zdG9BWXQ4dkNtckFXSzc1N3dFWkY5MzQwUQ?oc=5",
-      "image": null,
-      "headline": "Trump sued over $100,000-a-month early access to \u2018Truth Social\u2019 posts - ICLG",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-14",
-          "c": 9.03
-        },
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "02585e5a593706ed",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T09:46:50+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "iclg.com",
-      "type": "news",
-      "quote": "Trump sued over $100,000-a-month early access to \u2018Truth Social\u2019 posts - iclg.com Trump sued over $100,000-a-month early",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.28,
-      "change": 0.12,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0FzQ2VGUWprNEtYeEJDRmg2THREY283SFpRWDQzWUd2TFpha1JLNjI0VjhnTml6cVYyM1VKUVdjRnhybGVQTW0tUElwV25RRXE2UlBOSUFWaVpYU3pnRjdsZnZ1OWJpT0RmU3R5a0hscks4dUFDVk9zdG9BWXQ4dkNtckFXSzc1N3dFWkY5MzQwUQ?oc=5",
-      "image": null,
-      "headline": "Trump sued over $100,000-a-month early access to \u2018Truth Social\u2019 posts - iclg.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.28
         }
       ]
     }
