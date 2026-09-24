@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-09-24T06:53:08.544942+00:00",
+  "updated_at": "2026-09-24T12:23:12.026228+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "718dcece62935d1a",
+      "date": "Thu, 24 Sep 2026",
+      "ts": "2026-09-24T10:26:00+00:00",
+      "date_display": "Sep 24, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Buys Strategy Stock and Sells Bitcoin Miners - 24/7 Wall St. Trump Buys",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 162.2,
+      "change": -3.07,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2N3SFB6SmdZT3EySFpZbFFZYkFCbTU1TS05Um1ETnRqaG1FUjRKTlRPclV5eWRGYlRTV3JFOW55RlM4NFp0d2hHbzdRaUwyVFRhNDY5UUxjRFViRFh6OFVpZS12WWpENTNBOFBpYnJLSXR2MXFFemZpVnJsZUlYVXExU1d2T2JnVFZqbHdYSDRuR2JKdDRMcTZFemtYbVpwVUU1NjJEb2UxQUZUOEE?oc=5",
+      "image": null,
+      "headline": "Trump Buys Strategy Stock and Sells Bitcoin Miners - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        }
+      ]
+    },
+    {
+      "id": "887d37a5f572b608",
+      "date": "Thu, 24 Sep 2026",
+      "ts": "2026-09-24T08:54:15+00:00",
+      "date_display": "Sep 24, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Donald Trump\u2019s MSTR Trade Raises Eyebrows as Strategy Shares Rally 83% - Yahoo Finance Donald Trump\u2019s MSTR Trade",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 162.2,
+      "change": -3.07,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGFYWnllbkt3d0w2cGhnRm0yTklnWk9NUEtfN21LcWgxWW9JeHNyZkZpOFAzaGVIMVk3dllBWFp2UFR3VjRRQXFTUkQ4Z21HRTZXUk1CT01FbHJEaGZTYWFCaWRkNEZBTzQ3enZVcENfaDJaTFYtbzN6V19DV1BRZWNMeC01MHZKZ3BuX0l1cjhtclIzeGEwaEQxdw?oc=5",
+      "image": null,
+      "headline": "Donald Trump\u2019s MSTR Trade Raises Eyebrows as Strategy Shares Rally 83% - Yahoo Finance",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "08-24",
+          "c": 122.63
+        },
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        }
+      ]
+    },
     {
       "id": "1ad7ad0d94f5bdeb",
       "date": "Wed, 23 Sep 2026",
@@ -39907,222 +40123,6 @@
         {
           "d": "08-13",
           "c": 64.24
-        }
-      ]
-    },
-    {
-      "id": "723d9cf5416636ae",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T18:48:15+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "Fast Company",
-      "type": "news",
-      "quote": "Trump\u2019s $100,000-a-month Truth Social perk just triggered a lawsuit - Fast Company Trump\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXJ2ZTBUUFFlNXllWTFGZEU1aXBNWlNkYVJoT1RTc3BjMkxaUnpTdTNMQzFZeEZsNFBnSHZTN2k5eUw4LTRNS0pueloxQzZVSEstbnBLWEFuZnJoZ0VBaXJUVUpTd0I1d1ZLRU1pS1dNMk8zT3NYWnNWdUs2dHJ6ZXh5SjZDd0l4aV9HOV9Sal9NRDZJZXZhSHpqSEY2NlVLZXlz?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s $100,000-a-month Truth Social perk just triggered a lawsuit - Fast Company",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.32
-        }
-      ]
-    },
-    {
-      "id": "cd35ffcd6e16a830",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T18:15:40+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "Barchart.com",
-      "type": "news",
-      "quote": "What Trump's Latest Truth Social Lawsuit Means for DJT Stock - Barchart.com What Trump's",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.32,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWxSVTdTaFY5SjNmcGNEQkdKU29mRERCVW9EWnhaZ3VSeUppY0FrUTdxeGVtcGxRZTJpT2ZEakQ0TWtVTk1rU3dvSFNTcDUyX01QWV9UbHdkR2JKbnZpRHk4WkJVWnVfV3BtdVBCcm1OT0x1ejM4Q0VhTzB5cG1EWTZjOXc4b19lRnVJZl9ZZHZFcDR1Q1dMNWNvaENHeGZzT3FhMnhQRQ?oc=5",
-      "image": null,
-      "headline": "What Trump's Latest Truth Social Lawsuit Means for DJT Stock - Barchart.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.32
         }
       ]
     }
