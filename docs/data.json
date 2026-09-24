@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-24T12:23:12.026228+00:00",
+  "updated_at": "2026-09-24T17:23:21.314187+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "254b9adf24c129fe",
+      "date": "Thu, 24 Sep 2026",
+      "ts": "2026-09-24T13:04:37+00:00",
+      "date_display": "Sep 24, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Goose Is Ensnared in Trump\u2019s Tariff War With Canada - The New York Times Canada Goose Is Ensnared in Trump\u2019s Tariff War With",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 63.32,
+      "change": 2.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVppX2xGeWZJcGtXSGZfOUJ4YjRNemg1ZEpaVEd4ZDJlRFVqRHpFczNvX3VRRVlPb19iakY1RGZPdnN4aVZudVdLTnBTMl9pamlpS0ZuRGZRYV9MektfODBTR0NrallKYlJndHhvS05YMS13bWc0R2RSak54X1NUcnJ3RWhJdw?oc=5",
+      "image": null,
+      "headline": "Canada Goose Is Ensnared in Trump\u2019s Tariff War With Canada - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-25",
+          "c": 68.61
+        },
+        {
+          "d": "08-26",
+          "c": 68.42
+        },
+        {
+          "d": "08-27",
+          "c": 68.12
+        },
+        {
+          "d": "08-28",
+          "c": 68.16
+        },
+        {
+          "d": "08-31",
+          "c": 67.27
+        },
+        {
+          "d": "09-01",
+          "c": 67.73
+        },
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        },
+        {
+          "d": "09-15",
+          "c": 71.71
+        },
+        {
+          "d": "09-16",
+          "c": 72.41
+        },
+        {
+          "d": "09-17",
+          "c": 69.94
+        },
+        {
+          "d": "09-18",
+          "c": 70.21
+        },
+        {
+          "d": "09-21",
+          "c": 70.53
+        },
+        {
+          "d": "09-22",
+          "c": 65.45
+        },
+        {
+          "d": "09-23",
+          "c": 61.89
+        },
+        {
+          "d": "09-24",
+          "c": 63.32
+        }
+      ]
+    },
     {
       "id": "718dcece62935d1a",
       "date": "Thu, 24 Sep 2026",
@@ -215,6 +323,114 @@
         {
           "d": "09-23",
           "c": 162.2
+        }
+      ]
+    },
+    {
+      "id": "aad4d168e8913aec",
+      "date": "Thu, 24 Sep 2026",
+      "ts": "2026-09-24T08:54:15+00:00",
+      "date_display": "Sep 24, 2026",
+      "source": "finance.yahoo.com",
+      "type": "news",
+      "quote": "Donald Trump\u2019s MSTR Trade Raises Eyebrows as Strategy Shares Rally 83% - finance.yahoo.com Donald Trump\u2019s MSTR",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 161.96,
+      "change": -0.15,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGFYWnllbkt3d0w2cGhnRm0yTklnWk9NUEtfN21LcWgxWW9JeHNyZkZpOFAzaGVIMVk3dllBWFp2UFR3VjRRQXFTUkQ4Z21HRTZXUk1CT01FbHJEaGZTYWFCaWRkNEZBTzQ3enZVcENfaDJaTFYtbzN6V19DV1BRZWNMeC01MHZKZ3BuX0l1cjhtclIzeGEwaEQxdw?oc=5",
+      "image": null,
+      "headline": "Donald Trump\u2019s MSTR Trade Raises Eyebrows as Strategy Shares Rally 83% - finance.yahoo.com",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "08-25",
+          "c": 126.83
+        },
+        {
+          "d": "08-26",
+          "c": 123.19
+        },
+        {
+          "d": "08-27",
+          "c": 137.4
+        },
+        {
+          "d": "08-28",
+          "c": 127.31
+        },
+        {
+          "d": "08-31",
+          "c": 132.94
+        },
+        {
+          "d": "09-01",
+          "c": 124.88
+        },
+        {
+          "d": "09-02",
+          "c": 123.19
+        },
+        {
+          "d": "09-03",
+          "c": 144.82
+        },
+        {
+          "d": "09-04",
+          "c": 142.8
+        },
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.96
         }
       ]
     },
@@ -39907,222 +40123,6 @@
         {
           "d": "08-14",
           "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "3af5b530d32d6ffb",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T19:05:36+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "sfgate.com",
-      "type": "news",
-      "quote": "He was the CEO of Truth Social. Now he runs a Pismo Beach wine bar. - sfgate.com He was",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.1,
-      "change": -2.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16WVdZaWxXNlltR2VXSXlsWnM0VUR4bGdBWktZSUV2OWNMUUZzMkRnd3J0Nm1vdG9MSHcxNGVrQy1jblVBcjJyelZmYVY1eGs5Mkk5UC1GTk9EWkFKTjd5eWJZc3h0VGtZU3J0NXd6T2NfTi1kek94MU10QjFDZw?oc=5",
-      "image": null,
-      "headline": "He was the CEO of Truth Social. Now he runs a Pismo Beach wine bar. - sfgate.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        }
-      ]
-    },
-    {
-      "id": "e887c61df6134128",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T19:01:20+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "to U.S. Companies to Aim Hacks at Cybercriminals - The New York Times Trump Gives Green Light to U.S. Companies to Aim Hacks at",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 64.24,
-      "change": 0.45,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5aUdvMUF3QlpXR1hCOWRTUjgxSGktSUlIY2lvZFNGZ2lJeWFDUjYxb0hkeU5rcUkzQXpvYXNvYUpBM2JFVjJYb2NQcnNYU2dEWkp3N1ZKdC04S0x3aWpUS2FYMXd1WkpuWlBoX0tHbE5TM3JyQ3N4aVRiRHpzX0pZUElIRXhrWHBKa0VrT2RoRFZRbHlUT2NqYklEcXc?oc=5",
-      "image": null,
-      "headline": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 75.22
-        },
-        {
-          "d": "07-16",
-          "c": 76.71
-        },
-        {
-          "d": "07-17",
-          "c": 75.93
-        },
-        {
-          "d": "07-20",
-          "c": 75.29
-        },
-        {
-          "d": "07-21",
-          "c": 74.69
-        },
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.24
         }
       ]
     }
