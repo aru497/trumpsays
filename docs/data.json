@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-09-25T21:12:03.229160+00:00",
+  "updated_at": "2026-09-25T23:59:25.501177+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "68cab9e358062a8a",
+      "date": "Fri, 25 Sep 2026",
+      "ts": "2026-09-25T21:37:03+00:00",
+      "date_display": "Sep 25, 2026",
+      "source": "Electronic Frontier Foundation",
+      "type": "news",
+      "quote": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.14,
+      "change": 0.44,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkllNUktUy05QjJScHF2WjNxb244Y1ZNc1M3dTNyTllpajF4d0ZhR3VWN09JRjRpenhUWEt1OUFRYVNOQXFVMXU4eDJyX0dvZnpXQmZoZ0VMcFdBQUNyb0JzcXhKNnQ3b2ZGTFFSTkpHaFlESHhfZ1o0MzJpb050RnpYbkVUdHplZEtLSHNUOE1ZUVdZb1dNVkVTSGRxVFJWLXBSdTZRQ1hFS01ENl84MTQyYW1kcDFH?oc=5",
+      "image": null,
+      "headline": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights - Electronic Frontier Foundation",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-26",
+          "c": 9.5
+        },
+        {
+          "d": "08-27",
+          "c": 9.77
+        },
+        {
+          "d": "08-28",
+          "c": 9.64
+        },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        }
+      ]
+    },
+    {
+      "id": "7d1d7e5a57b1b6ed",
+      "date": "Fri, 25 Sep 2026",
+      "ts": "2026-09-25T19:48:52+00:00",
+      "date_display": "Sep 25, 2026",
+      "source": "Techlicious",
+      "type": "news",
+      "quote": "Meta misled users in Trump-linked Facebook data case, jury says",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 751.66,
+      "change": -3.33,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDVhQ3pVQlFfc2VtVU1jdTRZMko0YlBCeHZIdFpnMF84T0tfbUVNNFNtdHJ1OWE5NGs5d096NUY1RkJMVFNVMnlwaXltaHZPa2Y1bnM5WmItQnlVVlVXUUVDdkFRTTJjQkZnTjBOUlZYREFQS1hpZEZyWEk4RFJud0F1WjA5Z2Z0?oc=5",
+      "image": null,
+      "headline": "Meta misled users in Trump-linked Facebook data case, jury says - Techlicious",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-26",
+          "c": 575.69
+        },
+        {
+          "d": "08-27",
+          "c": 570.65
+        },
+        {
+          "d": "08-28",
+          "c": 577.56
+        },
+        {
+          "d": "08-31",
+          "c": 571.89
+        },
+        {
+          "d": "09-01",
+          "c": 578.08
+        },
+        {
+          "d": "09-02",
+          "c": 592.38
+        },
+        {
+          "d": "09-03",
+          "c": 610.2
+        },
+        {
+          "d": "09-04",
+          "c": 616.28
+        },
+        {
+          "d": "09-08",
+          "c": 613.0
+        },
+        {
+          "d": "09-09",
+          "c": 653.17
+        },
+        {
+          "d": "09-10",
+          "c": 643.87
+        },
+        {
+          "d": "09-11",
+          "c": 647.52
+        },
+        {
+          "d": "09-14",
+          "c": 665.08
+        },
+        {
+          "d": "09-15",
+          "c": 669.71
+        },
+        {
+          "d": "09-16",
+          "c": 672.78
+        },
+        {
+          "d": "09-17",
+          "c": 681.77
+        },
+        {
+          "d": "09-18",
+          "c": 665.23
+        },
+        {
+          "d": "09-21",
+          "c": 741.25
+        },
+        {
+          "d": "09-22",
+          "c": 736.6
+        },
+        {
+          "d": "09-23",
+          "c": 744.1
+        },
+        {
+          "d": "09-24",
+          "c": 777.59
+        },
+        {
+          "d": "09-25",
+          "c": 751.66
+        }
+      ]
+    },
     {
       "id": "97e9c6a6df2da40b",
       "date": "Fri, 25 Sep 2026",
@@ -39903,222 +40119,6 @@
         {
           "d": "08-13",
           "c": 97.1
-        }
-      ]
-    },
-    {
-      "id": "7cd94908fea30e5e",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T22:31:06+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "Stock Titan",
-      "type": "news",
-      "quote": "Trump Media (DJT) CFO withholds 18,817 shares to cover tax obligations",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.3,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcGFTczUzVjQxem5DemwyRDlKWVo5dlJqbDZnc2g4bDRGcXNqWExQZXFuaFl1aDhTY0ZwV21vRWxnU1NNa2pWU3p0V25MbjBRYVFuZHZwR0VkcTlwbzdGMDU4b09KQlJjOG1jd09ONnROcnJoWFB2UmtmcnZTVl9tSk4ybXMwcENGRGFtaEViOE5kS2NJbGlKa0lQemZnQjAwMDJ1bVR3cjJhMnA4M1NRNWlHNV82bXVfYkExcm5CM2E4MVA5?oc=5",
-      "image": null,
-      "headline": "Trump Media (DJT) CFO withholds 18,817 shares to cover tax obligations - Stock Titan",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        }
-      ]
-    },
-    {
-      "id": "8adda0645c984356",
-      "date": "Thu, 13 Aug 2026",
-      "ts": "2026-08-13T22:31:06+00:00",
-      "date_display": "Aug 13, 2026",
-      "source": "stocktitan.net",
-      "type": "news",
-      "quote": "Trump Media (DJT) CFO withholds 18,817 shares to cover tax obligations",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.3,
-      "change": 0.36,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcGFTczUzVjQxem5DemwyRDlKWVo5dlJqbDZnc2g4bDRGcXNqWExQZXFuaFl1aDhTY0ZwV21vRWxnU1NNa2pWU3p0V25MbjBRYVFuZHZwR0VkcTlwbzdGMDU4b09KQlJjOG1jd09ONnROcnJoWFB2UmtmcnZTVl9tSk4ybXMwcENGRGFtaEViOE5kS2NJbGlKa0lQemZnQjAwMDJ1bVR3cjJhMnA4M1NRNWlHNV82bXVfYkExcm5CM2E4MVA5?oc=5",
-      "image": null,
-      "headline": "Trump Media (DJT) CFO withholds 18,817 shares to cover tax obligations - stocktitan.net",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 9.57
-        },
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
         }
       ]
     }
