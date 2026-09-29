@@ -1,7 +1,130 @@
 {
-  "updated_at": "2026-09-29T13:09:55.950306+00:00",
+  "updated_at": "2026-09-29T18:44:33.295614+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0c4fdcffdd290f84",
+      "date": "Tue, 29 Sep 2026",
+      "ts": "2026-09-29T16:02:09+00:00",
+      "date_display": "Sep 29, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "paperwork: 'We believe that your time matters' - Fox News Trump says America.gov will streamline government",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.54,
+      "change": -1.79,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BQUdEWVFHNkxVdVpmYV96MnRsT0RIanNjN2F2YmlzV3FiWUFucHNRMlp1UW1SWlFfOVh0UTlrSFdYMkZGR2t3ZksyLWNHQXR1bVRRajVB?oc=5",
+      "image": null,
+      "headline": "Trump says America.gov will streamline government paperwork: 'We believe that your time matters' - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.54
+        }
+      ]
+    },
+    {
+      "id": "c5feff798e7c4338",
+      "date": "Tue, 29 Sep 2026",
+      "ts": "2026-09-29T11:22:08+00:00",
+      "date_display": "Sep 29, 2026",
+      "source": "KWXX - Hawaii",
+      "type": "news",
+      "quote": "President Trump announces plans to build largest U.S. steel facility in Iowa for $15 Billion - KWXX - Hawaii President",
+      "company": "U.S. Steel",
+      "ticker": "X",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGdPZTM1VnhNVFkyY05IdTVMR01reFhscU5HOEdxSlZlbWtuVm5uY0IzWnQxYkxpTHdhV3ZQaHJNRTdGaHJXMTdfWFY3WGdWRFhtVE9aSzlLbGZfQUc0Q1RBd2ZXcU5tNmFhcG5TeVloajF6bHI3bDJuMjVPYUtMakNoR2h2T0tfeDdIZ2JuQ3BOVUtPZ29maFQydGttUzhyazdWMWMzcG9aRHZNOE9mMm5tV212SWI2VVh1RmkyMlg?oc=5",
+      "image": null,
+      "headline": "President Trump announces plans to build largest U.S. steel facility in Iowa for $15 Billion - KWXX - Hawaii",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "c1f14062af46fa7d",
       "date": "Tue, 29 Sep 2026",
@@ -18,6 +141,25 @@
       "article_link": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
       "image": null,
       "headline": "News organizations ask court to bar White House enforcement of access ban",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "204dea962299e82b",
+      "date": "Tue, 29 Sep 2026",
+      "ts": "2026-09-29T07:35:44+00:00",
+      "date_display": "Sep 29, 2026",
+      "source": "Essar",
+      "type": "news",
+      "quote": "Essar-backed $18 billion investment to build integrated US steel company - Essar Indian Express: Trump announces",
+      "company": "Us Steel",
+      "ticker": "X",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWTgxVHRoZ1VEQ2VMMnBtVkQ1RHB0c3I1RHdUR0F5R0RSY3N6SWVsWDZpRmNCZXNrVXVTcFZEcFFKaE5yeXB5Q1lMQzlTbFQxY1F1SFNBbGdIa3JyRGJTYTU4ZXR2cEdTSTIxMFlPUE9FdkVYTG1aU04xb2Q0T3NQQm40Vlpsc1RHRHItalF3ZzZvN0ZERGZ3cVFkeGJjRDhyc3EyNVlwSTVtYTh4dUxyWXVOd1VYaXV6aUU3RGdOR3F2azl2X0pETlhzZU4xU0NvYzc1MV9ZbEE0ZkRIMnk1ZHlacHg4QTJVSVJieVFXMVB5Wklo?oc=5",
+      "image": null,
+      "headline": "Indian Express: Trump announces Essar-backed $18 billion investment to build integrated US steel company - Essar",
       "channel": "News",
       "series": null
     },
@@ -4371,6 +4513,110 @@
         {
           "d": "09-24",
           "c": 63.05
+        }
+      ]
+    },
+    {
+      "id": "4e0462ac65a97729",
+      "date": "Tue, 22 Sep 2026",
+      "ts": "2026-09-22T23:44:24+00:00",
+      "date_display": "Sep 22, 2026",
+      "source": "Courthouse News",
+      "type": "news",
+      "quote": "San Francisco sues over Truth Social 'insider trading' - Courthouse News San Francisco sues",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.15,
+      "change": 0.33,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3hud205Z3c1ZU9icC13dTJ0WEpMUEdjY1g3YVU5UXNQeUlWR2dObGdmaS1rNkRBNWwyaGVOcEJWOGx3WllmWHBPNzZZcW1UejRpWUVvOFhGY0h2MlFuLTNWZjBPVlBBNTVkV3A0bTFSTmpKcklRLWdibkwtYjBoUkozdnBacEpBZmFZ?oc=5",
+      "image": null,
+      "headline": "San Francisco sues over Truth Social 'insider trading' - Courthouse News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.15
         }
       ]
     },
@@ -38931,438 +39177,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRW1pY1diWVBwQzVBbFpuX2tGMHBtNFlxTDNVZEozd1kzNkVBam9RTE4tQS1IbEpNaUw4VkRKd195eHRIbGVmbW0zd2w5aGM5dDNsVmtmVzdhLUMtQzlZLXBraThlak9FM01zMDJzRU9MZm9DZURCNnZUS1lQdTFTNFNtbE1GUXhHcGt0b3pfNGRRS3RWWnFqdnZ5RGlhT2pKbFJCVWxGamFER3RZTGItRTd3WXgyRFFXZEVzdlhfbzFoaGJXd0Y2a0hueU5KdVpDaWNXMEJEbzdvN1M4dElYbE8wMWw?oc=5",
       "image": null,
       "headline": "What Investors Should Know About This Trump Media Insider Filing - The Globe and Mail",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "a7697c9de6bd8280",
-      "date": "Sun, 16 Aug 2026",
-      "ts": "2026-08-16T07:51:01+00:00",
-      "date_display": "Aug 16, 2026",
-      "source": "theglobeandmail.com",
-      "type": "news",
-      "quote": "What Investors Should Know About This Trump Media Insider Filing - theglobeandmail.com What Investors Should",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRW1pY1diWVBwQzVBbFpuX2tGMHBtNFlxTDNVZEozd1kzNkVBam9RTE4tQS1IbEpNaUw4VkRKd195eHRIbGVmbW0zd2w5aGM5dDNsVmtmVzdhLUMtQzlZLXBraThlak9FM01zMDJzRU9MZm9DZURCNnZUS1lQdTFTNFNtbE1GUXhHcGt0b3pfNGRRS3RWWnFqdnZ5RGlhT2pKbFJCVWxGamFER3RZTGItRTd3WXgyRFFXZEVzdlhfbzFoaGJXd0Y2a0hueU5KdVpDaWNXMEJEbzdvN1M4dElYbE8wMWw?oc=5",
-      "image": null,
-      "headline": "What Investors Should Know About This Trump Media Insider Filing - theglobeandmail.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "c1e0e415159591f9",
-      "date": "Sat, 15 Aug 2026",
-      "ts": "2026-08-15T21:20:51+00:00",
-      "date_display": "Aug 15, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "State Department spokesperson on Iran war and U.S. visa revocations NPR's Rob Schmitz speaks with State Department",
-      "company": "Visa",
-      "ticker": "V",
-      "price": 364.15,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-      "image": null,
-      "headline": "State Department spokesperson on Iran war and U.S. visa revocations",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 364.46
-        },
-        {
-          "d": "07-17",
-          "c": 357.9
-        },
-        {
-          "d": "07-20",
-          "c": 359.9
-        },
-        {
-          "d": "07-21",
-          "c": 355.16
-        },
-        {
-          "d": "07-22",
-          "c": 352.76
-        },
-        {
-          "d": "07-23",
-          "c": 350.95
-        },
-        {
-          "d": "07-24",
-          "c": 355.08
-        },
-        {
-          "d": "07-27",
-          "c": 361.86
-        },
-        {
-          "d": "07-28",
-          "c": 365.91
-        },
-        {
-          "d": "07-29",
-          "c": 368.05
-        },
-        {
-          "d": "07-30",
-          "c": 365.59
-        },
-        {
-          "d": "07-31",
-          "c": 365.45
-        },
-        {
-          "d": "08-03",
-          "c": 364.99
-        },
-        {
-          "d": "08-04",
-          "c": 368.9
-        },
-        {
-          "d": "08-05",
-          "c": 367.86
-        },
-        {
-          "d": "08-06",
-          "c": 369.78
-        },
-        {
-          "d": "08-07",
-          "c": 361.83
-        },
-        {
-          "d": "08-10",
-          "c": 360.65
-        },
-        {
-          "d": "08-11",
-          "c": 362.82
-        },
-        {
-          "d": "08-12",
-          "c": 359.42
-        },
-        {
-          "d": "08-13",
-          "c": 365.45
-        },
-        {
-          "d": "08-14",
-          "c": 364.15
-        }
-      ]
-    },
-    {
-      "id": "bab6c34773229254",
-      "date": "Sat, 15 Aug 2026",
-      "ts": "2026-08-15T13:47:02+00:00",
-      "date_display": "Aug 15, 2026",
-      "source": "Moneycontrol.com",
-      "type": "news",
-      "quote": "Rinehart buys $1.37 billion SpaceX shares in Q2, doubles Trump Media stake - Moneycontrol.com Gina Rinehart buys $1.37 billion",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYWJoSlloTE5IYTcxSWphZ1d3S0lzaGpHSXdTSkNrbk5hRUdhRmd2a1NOU0VOOHJHNFNHcmxsSmNPNjRMMHpYSDdVMDNCY2xtRzcxQk52d2pHcF8wUEdaXzhLMkp3VXdKVlJ2aDQ5R0wxVVVTVjhaQVBuLWlTSVpMOE1Bb1lGZ3Y3dVlMODZ5UGFmcW5NNUl6bXRTeFk3SnZuUlc4MzdndnpXTXc0cGhCbS1OZ2dWWk1EbGF6NzdKUEJ5YzRpX1JUX2RERFo5cTRPV3JYcDB6ZE93UdIB3wFBVV95cUxQd3YzQjlUcFRKYVV2M0tMdWZJZlhHNE9PYTZPQkREZ2RZaFc4bXhWeWpCT0FYcGJVMlJKUGs0dXUwSGxpVmwtQmMwSURrU3JHMWhmZ1RqMHFfNkJJYzBaaUZ2cnRhVTdsWVJXcjg5dTZTQjlXcW9fem1qMGNaOXdqb1haR0M5RGdwWGI3T3Qyb1BxUDlNUVBvUE4yS1VIQmlUVEM0dWdIWnZaY294X2NZcHp1VnlONnRXTms4VzZXYmp3bXFFd1pIWk5fdGI4Yjl1WlI2d3IyMTdQQzFhSHNF?oc=5",
-      "image": null,
-      "headline": "Gina Rinehart buys $1.37 billion SpaceX shares in Q2, doubles Trump Media stake - Moneycontrol.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "941c3ebc4b5a6949",
-      "date": "Fri, 14 Aug 2026",
-      "ts": "2026-08-14T23:29:11+00:00",
-      "date_display": "Aug 14, 2026",
-      "source": "Intellectia AI",
-      "type": "news",
-      "quote": "Trump Media CTO Sells Nearly 30,000 Shares Amid Tax Withholding -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWJoWUs5LVhNU2t2OUNuSGNQMUc3VUV3WU81cEhzLWtQaW1WZmR1elZqN1Z0eEQzSlctanFEX3JNQ184cTdINGFiQ3doXzJ5MjFwU1VhR0lPVFhONWpqNmNycEZrdllFUDUzQk9KNHU0QVdVd0pJT1duakdaNzhiNmFMU2xSbXVFbmF0enJSTHNUWHRNNUROczYzVWw?oc=5",
-      "image": null,
-      "headline": "Trump Media CTO Sells Nearly 30,000 Shares Amid Tax Withholding - Intellectia AI",
       "channel": "News",
       "series": [
         {
