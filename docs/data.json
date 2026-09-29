@@ -1,7 +1,199 @@
 {
-  "updated_at": "2026-09-28T20:38:09.540398+00:00",
+  "updated_at": "2026-09-29T00:43:01.213769+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "cb138c7df2dd2af4",
+      "date": "Mon, 28 Sep 2026",
+      "ts": "2026-09-28T22:20:48+00:00",
+      "date_display": "Sep 28, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "often while outnumbered. As the liberal voice on Fox News' \"The Five,\" she spends her days debating people who",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.54,
+      "change": -1.15,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/jessica-tarlov-on-navigating-political-differences-and-her-new-book-i-disagree",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/tarlov-1024x576.jpg",
+      "headline": "Jessica Tarlov on navigating political differences and her new book, 'I Disagree'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        }
+      ]
+    },
+    {
+      "id": "be07f52d8417a29f",
+      "date": "Mon, 28 Sep 2026",
+      "ts": "2026-09-28T14:42:26+00:00",
+      "date_display": "Sep 28, 2026",
+      "source": "TradingKey",
+      "type": "news",
+      "quote": "Tesla Stock Forecast: Shares May Face New Drop as Q3 Delivery",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 372.11,
+      "change": -1.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVUZHRTNfQl9xSE54UEs1eEIzZ3gycmpGeXVRcFJFVDBXakROU3BNUEhfTDhfSGtaZnNkM3NrUGZlZ0hoNEVpOXlac2Fka0Fqc1k4ZE51b2Z6QzZnR2kzNE53THF5RTl2Nm9Id0hZNW1Vc1dlOFZlYkJGa1BjRzZnWEZKVzhLQXJlUGdvbEFRUXVvTnNrRTBNdDZneGM4U2xwNEI5MmE2WmVZNVNzNUZfVFIxV0lqNFZIbVRrdzFYM3ZtZldSRl8zLUpUWWtIcTlyeVdIbEZwalgyVW50a1djYzJUX0JOUQ?oc=5",
+      "image": null,
+      "headline": "Tesla Stock Forecast: Shares May Face New Drop as Q3 Delivery Estimates Cut, Trump Plans to Relax Fuel Economy Standards - TradingKey",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 367.95
+        },
+        {
+          "d": "09-01",
+          "c": 356.09
+        },
+        {
+          "d": "09-02",
+          "c": 357.01
+        },
+        {
+          "d": "09-03",
+          "c": 376.37
+        },
+        {
+          "d": "09-04",
+          "c": 354.08
+        },
+        {
+          "d": "09-08",
+          "c": 368.16
+        },
+        {
+          "d": "09-09",
+          "c": 367.81
+        },
+        {
+          "d": "09-10",
+          "c": 363.56
+        },
+        {
+          "d": "09-11",
+          "c": 365.44
+        },
+        {
+          "d": "09-14",
+          "c": 358.97
+        },
+        {
+          "d": "09-15",
+          "c": 356.58
+        },
+        {
+          "d": "09-16",
+          "c": 358.08
+        },
+        {
+          "d": "09-17",
+          "c": 366.2
+        },
+        {
+          "d": "09-18",
+          "c": 364.27
+        },
+        {
+          "d": "09-21",
+          "c": 375.3
+        },
+        {
+          "d": "09-22",
+          "c": 378.9
+        },
+        {
+          "d": "09-23",
+          "c": 380.12
+        },
+        {
+          "d": "09-24",
+          "c": 377.94
+        },
+        {
+          "d": "09-25",
+          "c": 372.11
+        }
+      ]
+    },
     {
       "id": "2f5ac76d3676d1f7",
       "date": "Mon, 28 Sep 2026",
@@ -602,6 +794,102 @@
           "d": "08-28",
           "c": 9.64
         },
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        }
+      ]
+    },
+    {
+      "id": "2015f1cf8cbf87a8",
+      "date": "Sat, 26 Sep 2026",
+      "ts": "2026-09-26T10:30:07+00:00",
+      "date_display": "Sep 26, 2026",
+      "source": "nationalreview.com",
+      "type": "news",
+      "quote": "Only Congress Can Intervene on Trump\u2019s Truth Social Profiteering - nationalreview.com Only Congress Can",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 9.14,
+      "change": 0.44,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk4tSW4wOFJFWU0xZTVvYUl3R2VGM0ctVDVjTmI1MXVUV0dwbkQxZmttUFVsVEp2STJ5b3Z0T1RoYTB1ODhaeW16X0FwOUNPRDB2alBQeDRrakJPd2Z2aEhUQTAzSjVxalFIOWxoa2pXbUUzZlZJYk9Hb2VabFZyY0R0bm5OTzVJaHVkRmNVLTAxTlZvWUs5UHJvb2VHYTZoSnUzbmJ30gGrAUFVX3lxTE00bThkOXNrUThwelRXd21CNzJDVkluZ0Z1b0VzRjRSZ0Nac21ZVU5uMGpkMllwSUw0SWlXQzN6UGZ3MFRFZ2lUSWFzd25NWEdkUkJJaU03dFZJdUl5WC1MM1VVdklOSm1zR2RGR2FRYThQYTQzcWYwcUJVOUd4U29JOG56dG5QeTh1WjlJWC0zcVFIalpFQ0pRay16VWc1OENwYktHNVhtVHFFdw?oc=5",
+      "image": null,
+      "headline": "Only Congress Can Intervene on Trump\u2019s Truth Social Profiteering - nationalreview.com",
+      "channel": "News",
+      "series": [
         {
           "d": "08-31",
           "c": 9.77
@@ -39609,330 +39897,6 @@
         {
           "d": "08-14",
           "c": 154.27
-        }
-      ]
-    },
-    {
-      "id": "c37c8480a1a109fd",
-      "date": "Fri, 14 Aug 2026",
-      "ts": "2026-08-14T20:39:36+00:00",
-      "date_display": "Aug 14, 2026",
-      "source": "CFO Dive",
-      "type": "news",
-      "quote": "Trump Media CFO offloads shares after crypto losses - CFO Dive Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZm5pdk1fQWV3MUdKNmNJaDZ1VjJXWVYxQTdZTG5WTHN5WUduMnVsdl9uV1FxRGs5cGNMbk5lZ296ZGk3Q1lsMnpLc081cm9kWEVIMnhSRU1icnBWU0I0Y1JjalBpUGs5ZldLeXI1SEVCVDR6a2pfeGtxY183cWJoampITjNwMkR5c2c?oc=5",
-      "image": null,
-      "headline": "Trump Media CFO offloads shares after crypto losses - CFO Dive",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "5e4d00db0a636e04",
-      "date": "Fri, 14 Aug 2026",
-      "ts": "2026-08-14T20:39:36+00:00",
-      "date_display": "Aug 14, 2026",
-      "source": "cfodive.com",
-      "type": "news",
-      "quote": "Trump Media CFO offloads shares after crypto losses - cfodive.com",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZm5pdk1fQWV3MUdKNmNJaDZ1VjJXWVYxQTdZTG5WTHN5WUduMnVsdl9uV1FxRGs5cGNMbk5lZ296ZGk3Q1lsMnpLc081cm9kWEVIMnhSRU1icnBWU0I0Y1JjalBpUGs5ZldLeXI1SEVCVDR6a2pfeGtxY183cWJoampITjNwMkR5c2c?oc=5",
-      "image": null,
-      "headline": "Trump Media CFO offloads shares after crypto losses - cfodive.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        }
-      ]
-    },
-    {
-      "id": "674129080ae1a756",
-      "date": "Fri, 14 Aug 2026",
-      "ts": "2026-08-14T15:48:20+00:00",
-      "date_display": "Aug 14, 2026",
-      "source": "The Motley Fool",
-      "type": "news",
-      "quote": "Why Shares of Trump Media & Technology Stock Sank 18% This Week - The Motley Fool",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.35,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGUtR1BfZDluc0FCQnlSM1Nfbl9KRnFxUkVRVG00ME5GT21UelhybmRQeno5cC1xNktTSHlKd25BLWd1RVdSc01MSFhKanMtRXNCaEpaVTRmZV9nZjhSdzBHWjgzbmFPQXdINk8zOXNuRGR0elFiZElrSVVUSmdZVFNlaHRUbzd4Y2VFLW1QeFZXTmNHbHlEMw?oc=5",
-      "image": null,
-      "headline": "Why Shares of Trump Media & Technology Stock Sank 18% This Week - The Motley Fool",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.35
         }
       ]
     }
