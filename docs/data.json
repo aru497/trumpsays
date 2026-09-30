@@ -1,7 +1,134 @@
 {
-  "updated_at": "2026-09-30T14:22:31.750541+00:00",
+  "updated_at": "2026-09-30T19:31:12.981418+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "11f4ed51efd040b8",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T19:04:15+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "for surgeon general Saphier, a radiologist and former Fox News Channel contributor, was advanced out of the Senate",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.78,
+      "change": 1.7,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-senate-health-committee-advances-dr-nicole-saphiers-nomination-for-surgeon-general",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T151813Z_1583383244_RC2FKNABUFNR_RTRMADP_3_USA-CONGRESS-HEALTH-1024x683.jpg",
+      "headline": "WATCH: Senate health committee advances Dr. Nicole Saphier's nomination for surgeon general",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 59.92
+        },
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.78
+        }
+      ]
+    },
+    {
+      "id": "c9ac2ffe5a65dbbb",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T16:32:12+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "category of citizens that Republicans have been pushing to block from voting.",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
+      "image": null,
+      "headline": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "431c988a12092361",
       "date": "Wed, 30 Sep 2026",
@@ -215,6 +342,114 @@
         {
           "d": "09-30",
           "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "8b5f8a33504fa57e",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T12:30:00+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media's proposed deal would pair it with a fusion developer;",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.19,
+      "change": 0.99,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlBsY3VDTTVwWmZ1ZS1ENTRxU2FvaHdmaWQwaVZUMl9wTF82Ti16Wm1YNUhqWWZhMWxaZHVqNUVpRENVRVZQam9qTXdmcWoxME1vS0RaUE5pRk9QWkJnODdLRW5ic1RrblRpRVRTeF9PZUwwYmdETE1neEtxOXJCRHpMLTNxdXNJTFNjZ3FGWVRwSzctWHl5UTZPNm1LOS1YWEVpZi1GTThPUVRjc3B6ZFhVaHpQeGFE?oc=5",
+      "image": null,
+      "headline": "Trump Media's proposed deal would pair it with a fusion developer; each side would own about half. - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.19
         }
       ]
     },
@@ -558,6 +793,25 @@
       "article_link": "https://www.pbs.org/newshour/politics/watch-live-utah-voters-hear-from-house-candidates-mcadams-owen-in-midterm-debate",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/GettyImages-1200176656-1024x666.jpg",
       "headline": "WATCH LIVE: Utah voters hear from House candidates McAdams, Owen in midterm debate",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "f3fddc7eaa3a8087",
+      "date": "Tue, 29 Sep 2026",
+      "ts": "2026-09-29T21:11:09+00:00",
+      "date_display": "Sep 29, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "congressman and a former Trump White House staffer will square off on a Utah debate stage Tuesday as voters in the",
+      "company": "Square",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-utah-voters-hear-from-house-candidates-mcadams-owen-in-midterm-debate",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/GettyImages-1200176656-1024x666.jpg",
+      "headline": "WATCH: Utah voters hear from House candidates McAdams, Owen in midterm debate",
       "channel": "News",
       "series": null
     },
@@ -38741,438 +38995,6 @@
         {
           "d": "08-17",
           "c": 8.1
-        }
-      ]
-    },
-    {
-      "id": "50565c473e771eb3",
-      "date": "Mon, 17 Aug 2026",
-      "ts": "2026-08-17T15:48:47+00:00",
-      "date_display": "Aug 17, 2026",
-      "source": "Pluang",
-      "type": "news",
-      "quote": "Trump Media stock drops 4% as company shifts aw... - Pluang Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.04,
-      "change": -2.78,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODcxajc1SVpEVXprcm1KTHJ2RVVGSm95cEFtaFVKcXlpamN2a3h0TUYybXRIaWFlQ1NIS1F1OEdaTVNNcjNXaGl6MVplazRuZEhndjN1ZmVyTko2YWxIS0pjNFJJSWdMc0FCX1lrZm96ckxXSWNPWnN3YldYS1R6VE5sRkp4bDRnelJ2cmEyUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media stock drops 4% as company shifts aw... - Pluang",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.04
-        }
-      ]
-    },
-    {
-      "id": "d8f0873fd311a621",
-      "date": "Mon, 17 Aug 2026",
-      "ts": "2026-08-17T15:48:47+00:00",
-      "date_display": "Aug 17, 2026",
-      "source": "pluang.com",
-      "type": "news",
-      "quote": "Trump Media stock drops 4% as company shifts aw... - pluang.com Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.06,
-      "change": -0.49,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODcxajc1SVpEVXprcm1KTHJ2RVVGSm95cEFtaFVKcXlpamN2a3h0TUYybXRIaWFlQ1NIS1F1OEdaTVNNcjNXaGl6MVplazRuZEhndjN1ZmVyTko2YWxIS0pjNFJJSWdMc0FCX1lrZm96ckxXSWNPWnN3YldYS1R6VE5sRkp4bDRnelJ2cmEyUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media stock drops 4% as company shifts aw... - pluang.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        }
-      ]
-    },
-    {
-      "id": "c84f1ef611c65f58",
-      "date": "Mon, 17 Aug 2026",
-      "ts": "2026-08-17T14:02:00+00:00",
-      "date_display": "Aug 17, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Micron Stock Breaks $1,000 After Key Move by Trump Administration",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1029.35,
-      "change": 5.94,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbzBxWU80VEVEcUNyWURZdklkcmNqTUlIZWw5WExxajE1MUI2aGgwWmdraVBJcnNReGo4WkFQQ1EyYVZROVZxUU9vam1rQ0NtM0IwRHJ5NVVJdGtldXJvN1NBT2g3aVE2a3J0X3pWejRPdEZOdTJOWHh0Vy1mQQ?oc=5",
-      "image": null,
-      "headline": "Micron Stock Breaks $1,000 After Key Move by Trump Administration - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-17",
-          "c": 848.95
-        },
-        {
-          "d": "07-20",
-          "c": 865.46
-        },
-        {
-          "d": "07-21",
-          "c": 970.82
-        },
-        {
-          "d": "07-22",
-          "c": 959.48
-        },
-        {
-          "d": "07-23",
-          "c": 990.21
-        },
-        {
-          "d": "07-24",
-          "c": 920.95
-        },
-        {
-          "d": "07-27",
-          "c": 900.2
-        },
-        {
-          "d": "07-28",
-          "c": 820.53
-        },
-        {
-          "d": "07-29",
-          "c": 739.0
-        },
-        {
-          "d": "07-30",
-          "c": 874.66
-        },
-        {
-          "d": "07-31",
-          "c": 823.03
-        },
-        {
-          "d": "08-03",
-          "c": 829.5
-        },
-        {
-          "d": "08-04",
-          "c": 892.67
-        },
-        {
-          "d": "08-05",
-          "c": 893.19
-        },
-        {
-          "d": "08-06",
-          "c": 881.47
-        },
-        {
-          "d": "08-07",
-          "c": 877.57
-        },
-        {
-          "d": "08-10",
-          "c": 861.0
-        },
-        {
-          "d": "08-11",
-          "c": 868.52
-        },
-        {
-          "d": "08-12",
-          "c": 911.29
-        },
-        {
-          "d": "08-13",
-          "c": 949.83
-        },
-        {
-          "d": "08-14",
-          "c": 971.66
-        },
-        {
-          "d": "08-17",
-          "c": 1029.35
-        }
-      ]
-    },
-    {
-      "id": "55bb07fc4993a7cc",
-      "date": "Mon, 17 Aug 2026",
-      "ts": "2026-08-17T11:53:00+00:00",
-      "date_display": "Aug 17, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Micron Stock Rises After Key Move by Trump Administration -",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 971.66,
-      "change": 2.3,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbzBxWU80VEVEcUNyWURZdklkcmNqTUlIZWw5WExxajE1MUI2aGgwWmdraVBJcnNReGo4WkFQQ1EyYVZROVZxUU9vam1rQ0NtM0IwRHJ5NVVJdGtldXJvN1NBT2g3aVE2a3J0X3pWejRPdEZOdTJOWHh0Vy1mQQ?oc=5",
-      "image": null,
-      "headline": "Micron Stock Rises After Key Move by Trump Administration - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 853.2
-        },
-        {
-          "d": "07-17",
-          "c": 848.95
-        },
-        {
-          "d": "07-20",
-          "c": 865.46
-        },
-        {
-          "d": "07-21",
-          "c": 970.82
-        },
-        {
-          "d": "07-22",
-          "c": 959.48
-        },
-        {
-          "d": "07-23",
-          "c": 990.21
-        },
-        {
-          "d": "07-24",
-          "c": 920.95
-        },
-        {
-          "d": "07-27",
-          "c": 900.2
-        },
-        {
-          "d": "07-28",
-          "c": 820.53
-        },
-        {
-          "d": "07-29",
-          "c": 739.0
-        },
-        {
-          "d": "07-30",
-          "c": 874.66
-        },
-        {
-          "d": "07-31",
-          "c": 823.03
-        },
-        {
-          "d": "08-03",
-          "c": 829.5
-        },
-        {
-          "d": "08-04",
-          "c": 892.67
-        },
-        {
-          "d": "08-05",
-          "c": 893.19
-        },
-        {
-          "d": "08-06",
-          "c": 881.47
-        },
-        {
-          "d": "08-07",
-          "c": 877.57
-        },
-        {
-          "d": "08-10",
-          "c": 861.0
-        },
-        {
-          "d": "08-11",
-          "c": 868.52
-        },
-        {
-          "d": "08-12",
-          "c": 911.29
-        },
-        {
-          "d": "08-13",
-          "c": 949.83
-        },
-        {
-          "d": "08-14",
-          "c": 971.66
         }
       ]
     }
