@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-09-30T07:38:49.100741+00:00",
+  "updated_at": "2026-09-30T14:22:31.750541+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "431c988a12092361",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T13:08:40+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "marketscreener.com",
+      "type": "news",
+      "quote": "Trump Media & Technology Files Papers for All-Stock Merger With Fusion",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": 3.19,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmRLMDB3d19HRFVPWUJQdXI5S01jekFDS1J0OGZaNmtTbmRpa0xhSjI3bWw5WVVMTUx4c20ybllwZWw4SUVld3NTVkpjSTYzX3RzUTlHdFJiV3RQV2t1aFh2WEVqNl9JbEdUR3B0aDNjbS1BM0hQb2kxNTVOUFJwT1NGLXVwWDViZ2hCTEEyTnZRbmU1SURCSnNxSnVRcWoyQkhwNjJkcVZzWk5hMVFJWGZ1bkU0UnZUWnhCSTl3NDd5X0tvLVFTeDk2QjNzOXZqMGlJXzc0Zw?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Files Papers for All-Stock Merger With Fusion Energy Company TAE - marketscreener.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "6c3722a8c75e8768",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T12:39:24+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media (DJT) has lent TAE $200M. Its proposed merger would pay",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": 3.19,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVRyaGVsRzN0OUwyeDJtTXE2bmZMcE55YkJZZGFnZXBhQXV2WDJnd0VqZlhfTml2d0ROLUhhRS1oR2xWdGFsZ20zX3dLa19UcEtGS0VxaHM1VWdsdW5rMWpYVXQ4UG90dXpPay13dk1vRVI4MVpVZHZVS2E5U2hQbmIxWVdnc1dQSlFrei1xNkxxYU92TEZxZE9XVFRVa2lvTWN4NmY2ckwzU1Z4VVYzTkxqeGFEUjdWTUFpX05Jc0RwMWgzVW9ieGtB?oc=5",
+      "image": null,
+      "headline": "Trump Media (DJT) has lent TAE $200M. Its proposed merger would pay TAE stockholders in shares. - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "64583d31a3e148b9",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T10:58:33+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "Trump Media and Technology Group Corp (DJT) Stock Price Today: $9.09 -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": 3.19,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MT1dlWEtlb3Y3eGZ1eGlhTHVOaUh4c2hGak9KdUVVbUFJZHA3dWliN3hDYVZaNTNDWkNrSzFLNGNwWk40TTJfWHY2aWdVNDl6X2lDVDB5NEI?oc=5",
+      "image": null,
+      "headline": "Trump Media and Technology Group Corp (DJT) Stock Price Today: $9.09 - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.39
+        }
+      ]
+    },
+    {
+      "id": "d420a80d172c4646",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T08:20:46+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "Yahoo",
+      "type": "news",
+      "quote": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo Ethics Filing Shows Leavitt Family Held",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 349.64,
+      "change": -0.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0ZsallhcHEzV1pQb015alFjUDNEaDB1Qm1HaU1tSW1xZDFsTDF0QUl0dGxzUzlXZHkyQjlkMTd0TmEyYU94b1NBX1VkNGl2bmhjTjRHWDdxUkx4YVM1QXBpUDFMWEJzTzZ0UTRBQmNWZEU3SWFUcXFMYnpyWS1VYzlnS0tUYmx4czhGLS1TalNUaDJlb0VoQ3hB?oc=5",
+      "image": null,
+      "headline": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 367.95
+        },
+        {
+          "d": "09-01",
+          "c": 356.09
+        },
+        {
+          "d": "09-02",
+          "c": 357.01
+        },
+        {
+          "d": "09-03",
+          "c": 376.37
+        },
+        {
+          "d": "09-04",
+          "c": 354.08
+        },
+        {
+          "d": "09-08",
+          "c": 368.16
+        },
+        {
+          "d": "09-09",
+          "c": 367.81
+        },
+        {
+          "d": "09-10",
+          "c": 363.56
+        },
+        {
+          "d": "09-11",
+          "c": 365.44
+        },
+        {
+          "d": "09-14",
+          "c": 358.97
+        },
+        {
+          "d": "09-15",
+          "c": 356.58
+        },
+        {
+          "d": "09-16",
+          "c": 358.08
+        },
+        {
+          "d": "09-17",
+          "c": 366.2
+        },
+        {
+          "d": "09-18",
+          "c": 364.27
+        },
+        {
+          "d": "09-21",
+          "c": 375.3
+        },
+        {
+          "d": "09-22",
+          "c": 378.9
+        },
+        {
+          "d": "09-23",
+          "c": 380.12
+        },
+        {
+          "d": "09-24",
+          "c": 377.94
+        },
+        {
+          "d": "09-25",
+          "c": 372.11
+        },
+        {
+          "d": "09-28",
+          "c": 357.45
+        },
+        {
+          "d": "09-29",
+          "c": 352.84
+        },
+        {
+          "d": "09-30",
+          "c": 349.64
+        }
+      ]
+    },
+    {
+      "id": "8c3a203857b1d429",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T08:20:46+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "Yahoo",
+      "type": "news",
+      "quote": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo Ethics Filing Shows Leavitt Family",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 9.39,
+      "change": 3.19,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0ZsallhcHEzV1pQb015alFjUDNEaDB1Qm1HaU1tSW1xZDFsTDF0QUl0dGxzUzlXZHkyQjlkMTd0TmEyYU94b1NBX1VkNGl2bmhjTjRHWDdxUkx4YVM1QXBpUDFMWEJzTzZ0UTRBQmNWZEU3SWFUcXFMYnpyWS1VYzlnS0tUYmx4czhGLS1TalNUaDJlb0VoQ3hB?oc=5",
+      "image": null,
+      "headline": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "08-31",
+          "c": 9.77
+        },
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.39
+        }
+      ]
+    },
     {
       "id": "a1fd60d5ad9ad1d8",
       "date": "Tue, 29 Sep 2026",
@@ -38633,538 +39173,6 @@
         {
           "d": "08-14",
           "c": 971.66
-        }
-      ]
-    },
-    {
-      "id": "afe1cbdbd4a859cf",
-      "date": "Mon, 17 Aug 2026",
-      "ts": "2026-08-17T11:53:00+00:00",
-      "date_display": "Aug 17, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Micron Stock Closes Above $1,000 After Key Move by Trump",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 1011.75,
-      "change": 4.13,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbzBxWU80VEVEcUNyWURZdklkcmNqTUlIZWw5WExxajE1MUI2aGgwWmdraVBJcnNReGo4WkFQQ1EyYVZROVZxUU9vam1rQ0NtM0IwRHJ5NVVJdGtldXJvN1NBT2g3aVE2a3J0X3pWejRPdEZOdTJOWHh0Vy1mQQ?oc=5",
-      "image": null,
-      "headline": "Micron Stock Closes Above $1,000 After Key Move by Trump Administration - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 865.46
-        },
-        {
-          "d": "07-21",
-          "c": 970.82
-        },
-        {
-          "d": "07-22",
-          "c": 959.48
-        },
-        {
-          "d": "07-23",
-          "c": 990.21
-        },
-        {
-          "d": "07-24",
-          "c": 920.95
-        },
-        {
-          "d": "07-27",
-          "c": 900.2
-        },
-        {
-          "d": "07-28",
-          "c": 820.53
-        },
-        {
-          "d": "07-29",
-          "c": 739.0
-        },
-        {
-          "d": "07-30",
-          "c": 874.66
-        },
-        {
-          "d": "07-31",
-          "c": 823.03
-        },
-        {
-          "d": "08-03",
-          "c": 829.5
-        },
-        {
-          "d": "08-04",
-          "c": 892.67
-        },
-        {
-          "d": "08-05",
-          "c": 893.19
-        },
-        {
-          "d": "08-06",
-          "c": 881.47
-        },
-        {
-          "d": "08-07",
-          "c": 877.57
-        },
-        {
-          "d": "08-10",
-          "c": 861.0
-        },
-        {
-          "d": "08-11",
-          "c": 868.52
-        },
-        {
-          "d": "08-12",
-          "c": 911.29
-        },
-        {
-          "d": "08-13",
-          "c": 949.83
-        },
-        {
-          "d": "08-14",
-          "c": 971.66
-        },
-        {
-          "d": "08-17",
-          "c": 1011.75
-        }
-      ]
-    },
-    {
-      "id": "59ac31d53527bc7e",
-      "date": "Sun, 16 Aug 2026",
-      "ts": "2026-08-16T11:54:19+00:00",
-      "date_display": "Aug 16, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "says the Trump administration's continuing actions to target transgender youth take a personal toll.",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.48,
-      "change": -0.66,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-      "image": null,
-      "headline": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 139.14
-        },
-        {
-          "d": "07-17",
-          "c": 138.54
-        },
-        {
-          "d": "07-20",
-          "c": 138.53
-        },
-        {
-          "d": "07-21",
-          "c": 137.43
-        },
-        {
-          "d": "07-22",
-          "c": 136.87
-        },
-        {
-          "d": "07-23",
-          "c": 133.46
-        },
-        {
-          "d": "07-24",
-          "c": 135.74
-        },
-        {
-          "d": "07-27",
-          "c": 139.27
-        },
-        {
-          "d": "07-28",
-          "c": 143.1
-        },
-        {
-          "d": "07-29",
-          "c": 144.79
-        },
-        {
-          "d": "07-30",
-          "c": 143.41
-        },
-        {
-          "d": "07-31",
-          "c": 143.39
-        },
-        {
-          "d": "08-03",
-          "c": 148.21
-        },
-        {
-          "d": "08-04",
-          "c": 146.98
-        },
-        {
-          "d": "08-05",
-          "c": 146.57
-        },
-        {
-          "d": "08-06",
-          "c": 145.96
-        },
-        {
-          "d": "08-07",
-          "c": 148.56
-        },
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        },
-        {
-          "d": "08-13",
-          "c": 155.51
-        },
-        {
-          "d": "08-14",
-          "c": 154.48
-        }
-      ]
-    },
-    {
-      "id": "7c1bf06ee02fd7b1",
-      "date": "Sun, 16 Aug 2026",
-      "ts": "2026-08-16T11:54:19+00:00",
-      "date_display": "Aug 16, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "says the Trump administration's continuing actions to target transgender youth take a personal toll.",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.48,
-      "change": -0.66,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-      "image": null,
-      "headline": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-15",
-          "c": 137.24
-        },
-        {
-          "d": "07-16",
-          "c": 139.14
-        },
-        {
-          "d": "07-17",
-          "c": 138.54
-        },
-        {
-          "d": "07-20",
-          "c": 138.53
-        },
-        {
-          "d": "07-23",
-          "c": 133.46
-        },
-        {
-          "d": "07-24",
-          "c": 135.74
-        },
-        {
-          "d": "07-27",
-          "c": 139.27
-        },
-        {
-          "d": "07-28",
-          "c": 143.1
-        },
-        {
-          "d": "07-29",
-          "c": 144.79
-        },
-        {
-          "d": "07-30",
-          "c": 143.41
-        },
-        {
-          "d": "07-31",
-          "c": 143.39
-        },
-        {
-          "d": "08-03",
-          "c": 148.21
-        },
-        {
-          "d": "08-04",
-          "c": 146.98
-        },
-        {
-          "d": "08-05",
-          "c": 146.57
-        },
-        {
-          "d": "08-06",
-          "c": 145.96
-        },
-        {
-          "d": "08-07",
-          "c": 148.56
-        },
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        },
-        {
-          "d": "08-13",
-          "c": 155.51
-        },
-        {
-          "d": "08-14",
-          "c": 154.48
-        }
-      ]
-    },
-    {
-      "id": "82f1a88d3137f2af",
-      "date": "Sun, 16 Aug 2026",
-      "ts": "2026-08-16T11:46:25+00:00",
-      "date_display": "Aug 16, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Byron Donalds' seat is up for grabs for Republicans In southwest Florida, ten Republicans are vying for the nomination to",
-      "company": "Southwest",
-      "ticker": "LUV",
-      "price": 44.26,
-      "change": -1.36,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/16/nx-s1-5927132/in-florida-congressman-byron-donalds-seat-is-up-for-grabs-for-republicans",
-      "image": null,
-      "headline": "In Florida, Congressman Byron Donalds' seat is up for grabs for Republicans",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 49.43
-        },
-        {
-          "d": "07-17",
-          "c": 48.08
-        },
-        {
-          "d": "07-20",
-          "c": 48.34
-        },
-        {
-          "d": "07-21",
-          "c": 48.69
-        },
-        {
-          "d": "07-22",
-          "c": 47.66
-        },
-        {
-          "d": "07-23",
-          "c": 44.71
-        },
-        {
-          "d": "07-24",
-          "c": 45.08
-        },
-        {
-          "d": "07-27",
-          "c": 45.38
-        },
-        {
-          "d": "07-28",
-          "c": 46.31
-        },
-        {
-          "d": "07-29",
-          "c": 44.38
-        },
-        {
-          "d": "07-30",
-          "c": 45.6
-        },
-        {
-          "d": "07-31",
-          "c": 44.97
-        },
-        {
-          "d": "08-03",
-          "c": 47.07
-        },
-        {
-          "d": "08-04",
-          "c": 48.7
-        },
-        {
-          "d": "08-05",
-          "c": 48.79
-        },
-        {
-          "d": "08-06",
-          "c": 46.94
-        },
-        {
-          "d": "08-07",
-          "c": 47.05
-        },
-        {
-          "d": "08-10",
-          "c": 44.9
-        },
-        {
-          "d": "08-11",
-          "c": 45.52
-        },
-        {
-          "d": "08-12",
-          "c": 44.98
-        },
-        {
-          "d": "08-13",
-          "c": 44.87
-        },
-        {
-          "d": "08-14",
-          "c": 44.26
-        }
-      ]
-    },
-    {
-      "id": "d80cf93481c85ddc",
-      "date": "Sun, 16 Aug 2026",
-      "ts": "2026-08-16T08:30:00+00:00",
-      "date_display": "Aug 16, 2026",
-      "source": "The Motley Fool",
-      "type": "news",
-      "quote": "What Investors Should Know About This Trump Media Insider Filing - The Motley Fool What Investors Should",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWxhMWp0UzF0S3dZUV9qNkU1aVZYV202dlNfMS1hU2JjdEV4elRkQzRCTEhMNnotTDAydlVaMTIxTlRiSXZQSjhXWUZ6SDF1NHRWT3BGVjZobHFUM0o3SDU0cXhDR2pERGxuWGNzaVUxMmFXeVJsbkJKM3UtSkpxcmZnNktlaS1UMDkzUWRxNzNsMFRnVl9FT1VvbldQNEhyWEZqLWIzVGZnQVJNc0xwTjlyRzA?oc=5",
-      "image": null,
-      "headline": "What Investors Should Know About This Trump Media Insider Filing - The Motley Fool",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-16",
-          "c": 9.63
-        },
-        {
-          "d": "07-17",
-          "c": 9.66
-        },
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
         }
       ]
     }
