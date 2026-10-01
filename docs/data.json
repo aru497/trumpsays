@@ -1,7 +1,350 @@
 {
-  "updated_at": "2026-10-01T09:09:07.552084+00:00",
+  "updated_at": "2026-10-01T16:34:17.824726+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f04dbc84b9890124",
+      "date": "Thu, 01 Oct 2026",
+      "ts": "2026-10-01T14:33:06+00:00",
+      "date_display": "Oct 01, 2026",
+      "source": "FOX 17 West Michigan News",
+      "type": "news",
+      "quote": "Trump says AI companies will 'self police' development - FOX 17 West Michigan News Trump says AI companies will 'self",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 54.35,
+      "change": -3.46,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjA0bWc1VFY5UXFGazhpbGgxM0hLLXBJazRmb1RwME93b1NKSldXN2dqRVU3TEhENXhSbVVuWllubEI0NDVkSnI5bFNJV3hpOC1zMzJwME5vc2VzWHY3V01aQWhWS2ROa21XczhaLXF6WXR5VW1oSWFCVjFCYzBWdUMxTFgxcGhsbHdESC1sQ2NJNGZhSy1OVXlWbkd1YUdHQkRyUW5DUlVEZw?oc=5",
+      "image": null,
+      "headline": "Trump says AI companies will 'self police' development - FOX 17 West Michigan News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.35
+        }
+      ]
+    },
+    {
+      "id": "6fe2f6999d12ffe9",
+      "date": "Thu, 01 Oct 2026",
+      "ts": "2026-10-01T13:08:00+00:00",
+      "date_display": "Oct 01, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump praises Boeing 737 MAX after jet survives dramatic plunge during attack -",
+      "company": "Boeing",
+      "ticker": "BA",
+      "price": 187.96,
+      "change": 1.03,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEdQVDNzRjM0OGdFTzFENUxCRWtmUzdEdlRyNExDaFNadDBCZGpURG5HUS1ZSzBEWXhuUUdhcnlxMF9WcUNxNmVNa05kcVVUZk9nbW1ScmROTWlhQjdwWTh0T3RfMVZ6VGJWOHgya2pOVGJnZkZTSjc4MFNfWkxJa1I5RdIBiAFBVV95cUxOMGFlUl9od3l2QXg0NEk0d2ZxME1scHYzM24tZ2RYX3dPV3gyQjZmZWV2RWhnUG05bjRsdmN0QUJiajlQZERCNFBNNDhpcFQ2NzNOZ3dtZkE2R2ZTUDcxWXVaaXh0U3lISHRiQTlKMnI0VnVNZS10ZExONHdvTFkxMnlSUUUxdGg3?oc=5",
+      "image": null,
+      "headline": "Trump praises Boeing 737 MAX after jet survives dramatic plunge during attack - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-01",
+          "c": 205.66
+        },
+        {
+          "d": "09-02",
+          "c": 208.87
+        },
+        {
+          "d": "09-03",
+          "c": 210.51
+        },
+        {
+          "d": "09-04",
+          "c": 212.25
+        },
+        {
+          "d": "09-08",
+          "c": 210.73
+        },
+        {
+          "d": "09-09",
+          "c": 206.42
+        },
+        {
+          "d": "09-10",
+          "c": 204.8
+        },
+        {
+          "d": "09-11",
+          "c": 210.45
+        },
+        {
+          "d": "09-14",
+          "c": 210.27
+        },
+        {
+          "d": "09-15",
+          "c": 209.69
+        },
+        {
+          "d": "09-16",
+          "c": 201.96
+        },
+        {
+          "d": "09-17",
+          "c": 197.0
+        },
+        {
+          "d": "09-18",
+          "c": 198.2
+        },
+        {
+          "d": "09-21",
+          "c": 201.15
+        },
+        {
+          "d": "09-22",
+          "c": 197.72
+        },
+        {
+          "d": "09-23",
+          "c": 199.93
+        },
+        {
+          "d": "09-24",
+          "c": 196.8
+        },
+        {
+          "d": "09-25",
+          "c": 198.07
+        },
+        {
+          "d": "09-28",
+          "c": 184.39
+        },
+        {
+          "d": "09-29",
+          "c": 187.68
+        },
+        {
+          "d": "09-30",
+          "c": 186.05
+        },
+        {
+          "d": "10-01",
+          "c": 187.96
+        }
+      ]
+    },
+    {
+      "id": "f547596b4e4eaf37",
+      "date": "Thu, 01 Oct 2026",
+      "ts": "2026-10-01T13:08:00+00:00",
+      "date_display": "Oct 01, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "737 MAX after jet survives dramatic plunge during attack - Fox Business Trump praises Boeing 737 MAX after jet survives",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 54.35,
+      "change": -3.46,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEdQVDNzRjM0OGdFTzFENUxCRWtmUzdEdlRyNExDaFNadDBCZGpURG5HUS1ZSzBEWXhuUUdhcnlxMF9WcUNxNmVNa05kcVVUZk9nbW1ScmROTWlhQjdwWTh0T3RfMVZ6VGJWOHgya2pOVGJnZkZTSjc4MFNfWkxJa1I5RdIBiAFBVV95cUxOMGFlUl9od3l2QXg0NEk0d2ZxME1scHYzM24tZ2RYX3dPV3gyQjZmZWV2RWhnUG05bjRsdmN0QUJiajlQZERCNFBNNDhpcFQ2NzNOZ3dtZkE2R2ZTUDcxWXVaaXh0U3lISHRiQTlKMnI0VnVNZS10ZExONHdvTFkxMnlSUUUxdGg3?oc=5",
+      "image": null,
+      "headline": "Trump praises Boeing 737 MAX after jet survives dramatic plunge during attack - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-01",
+          "c": 58.74
+        },
+        {
+          "d": "09-02",
+          "c": 60.27
+        },
+        {
+          "d": "09-03",
+          "c": 60.47
+        },
+        {
+          "d": "09-04",
+          "c": 58.42
+        },
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.35
+        }
+      ]
+    },
+    {
+      "id": "d15f925bea151882",
+      "date": "Thu, 01 Oct 2026",
+      "ts": "2026-10-01T10:48:03+00:00",
+      "date_display": "Oct 01, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "face off in debate California's candidates for governor square off in a debate while the blue-leaning state grapples with",
+      "company": "Square",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/01/nx-s1-5986313/california-gubernatorial-candidates-face-off-in-debate",
+      "image": null,
+      "headline": "California gubernatorial candidates face off in debate",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "7e48b898fe23f55f",
       "date": "Thu, 01 Oct 2026",
@@ -103,6 +446,114 @@
         {
           "d": "09-30",
           "c": 9.06
+        }
+      ]
+    },
+    {
+      "id": "e4c70a43f0d966a7",
+      "date": "Wed, 30 Sep 2026",
+      "ts": "2026-09-30T22:56:21+00:00",
+      "date_display": "Sep 30, 2026",
+      "source": "Kingsport Times News",
+      "type": "news",
+      "quote": "Trump would continue to hold a significant interest in Trump Media after its proposed merger with TAE Technologies, a fusion",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.69,
+      "change": -4.08,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IWUo1RmpyWWVwYnNxeWI0aGtXQlBxLXBXbE9SbzdTUTMxbnVySWo3VllBSTRFdXdBckl4ZjhCV2pMZk5ZS0VKTGlRUlpva3hWR0E0eUF2TklEVmdSa2dVYUdR?oc=5",
+      "image": null,
+      "headline": "President Donald Trump speaks at the White House in Washington on Sept. 28, 2026. Trump would continue to hold a significant interest in Trump Media after its proposed merger with TAE Technologies, a fusion energy company, according to a regulatory filin - Kingsport Times News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-01",
+          "c": 9.06
+        },
+        {
+          "d": "09-02",
+          "c": 9.14
+        },
+        {
+          "d": "09-03",
+          "c": 9.52
+        },
+        {
+          "d": "09-04",
+          "c": 9.02
+        },
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.69
         }
       ]
     },
@@ -38479,538 +38930,6 @@
         {
           "d": "08-19",
           "c": 93.67
-        }
-      ]
-    },
-    {
-      "id": "440b63cdfbdf0a35",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T17:39:13+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "greater social media protections for kids speak outside Meta trial Opening statements are set to kick off Tuesday in a",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 547.16,
-      "change": -3.83,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/nation/watch-advocates-for-greater-social-media-protections-for-kids-speak-outside-meta-trial",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-27T214346Z_1671520543_RC2VPGAFX6W6_RTRMADP_3_META-TRIAL-TENNESSEE-1024x683.jpg",
-      "headline": "WATCH: Advocates for greater social media protections for kids speak outside Meta trial",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 645.85
-        },
-        {
-          "d": "07-21",
-          "c": 643.81
-        },
-        {
-          "d": "07-22",
-          "c": 627.17
-        },
-        {
-          "d": "07-23",
-          "c": 606.1
-        },
-        {
-          "d": "07-24",
-          "c": 595.19
-        },
-        {
-          "d": "07-27",
-          "c": 593.87
-        },
-        {
-          "d": "07-28",
-          "c": 593.41
-        },
-        {
-          "d": "07-29",
-          "c": 585.61
-        },
-        {
-          "d": "07-30",
-          "c": 539.03
-        },
-        {
-          "d": "07-31",
-          "c": 556.71
-        },
-        {
-          "d": "08-03",
-          "c": 590.24
-        },
-        {
-          "d": "08-04",
-          "c": 587.94
-        },
-        {
-          "d": "08-05",
-          "c": 588.77
-        },
-        {
-          "d": "08-06",
-          "c": 589.9
-        },
-        {
-          "d": "08-07",
-          "c": 592.1
-        },
-        {
-          "d": "08-10",
-          "c": 594.92
-        },
-        {
-          "d": "08-11",
-          "c": 599.12
-        },
-        {
-          "d": "08-12",
-          "c": 578.85
-        },
-        {
-          "d": "08-13",
-          "c": 594.97
-        },
-        {
-          "d": "08-14",
-          "c": 589.85
-        },
-        {
-          "d": "08-17",
-          "c": 568.97
-        },
-        {
-          "d": "08-18",
-          "c": 547.16
-        }
-      ]
-    },
-    {
-      "id": "c545e5f859f8f448",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T16:36:00+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Disney Sues FCC Over License Review, Says Government Trying to",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 106.93,
-      "change": 2.87,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmY4Q25DTzIwZ3VnMVI5NGtjbGpUZzdaMFBZNzdDMEx3VDl4cUlwZjAxby1qVzZDYWZyVVpYaHN2TFhOOHp6bXBsckZ1YUFPNlRmZ0ZEbS04ajN0MDdiVkpHWVFiQWsyQnNZN1R0RUhBQnpQU29BSGxlR3dGR2cyQXFvUlRuRF9aVFQ1TTlfUXlCV1JMYlZTRVJHbnFKVV9MOTF5RTNmYlo?oc=5",
-      "image": null,
-      "headline": "Disney Sues FCC Over License Review, Says Government Trying to Quash Free Speech - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-21",
-          "c": 96.14
-        },
-        {
-          "d": "07-22",
-          "c": 95.87
-        },
-        {
-          "d": "07-23",
-          "c": 92.83
-        },
-        {
-          "d": "07-24",
-          "c": 94.85
-        },
-        {
-          "d": "07-27",
-          "c": 96.65
-        },
-        {
-          "d": "07-28",
-          "c": 98.89
-        },
-        {
-          "d": "07-29",
-          "c": 98.48
-        },
-        {
-          "d": "07-30",
-          "c": 96.16
-        },
-        {
-          "d": "07-31",
-          "c": 96.19
-        },
-        {
-          "d": "08-03",
-          "c": 98.14
-        },
-        {
-          "d": "08-04",
-          "c": 98.18
-        },
-        {
-          "d": "08-05",
-          "c": 101.76
-        },
-        {
-          "d": "08-06",
-          "c": 104.68
-        },
-        {
-          "d": "08-07",
-          "c": 104.91
-        },
-        {
-          "d": "08-10",
-          "c": 103.18
-        },
-        {
-          "d": "08-11",
-          "c": 103.53
-        },
-        {
-          "d": "08-12",
-          "c": 103.22
-        },
-        {
-          "d": "08-13",
-          "c": 104.8
-        },
-        {
-          "d": "08-14",
-          "c": 106.85
-        },
-        {
-          "d": "08-17",
-          "c": 103.5
-        },
-        {
-          "d": "08-18",
-          "c": 103.95
-        },
-        {
-          "d": "08-19",
-          "c": 106.93
-        }
-      ]
-    },
-    {
-      "id": "218fe515bb9f98b2",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T15:30:00+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "Daily Kos",
-      "type": "news",
-      "quote": "Disney abruptly finds its spine over Trump attacks - Daily Kos",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 103.95,
-      "change": 0.43,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcVcxX1Rud3MtODZhcENJemZVcnRTVmEtOTF1WEhpT2czaVdiRGlyQ09vek1SQ1lyMDFocXRObUtxUGxUUk5JUm85Z2NzZXFEY0tadkFNTXJmTXUwZzBENWhaMVNBSzY3RUVyRFdMWXVsZUxTMmJtQUVGVld1WFgwSi1GdVhJZVU0ZFF0UjVpM2dqZw?oc=5",
-      "image": null,
-      "headline": "Disney abruptly finds its spine over Trump attacks - Daily Kos",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 96.41
-        },
-        {
-          "d": "07-21",
-          "c": 96.14
-        },
-        {
-          "d": "07-22",
-          "c": 95.87
-        },
-        {
-          "d": "07-23",
-          "c": 92.83
-        },
-        {
-          "d": "07-24",
-          "c": 94.85
-        },
-        {
-          "d": "07-27",
-          "c": 96.65
-        },
-        {
-          "d": "07-28",
-          "c": 98.89
-        },
-        {
-          "d": "07-29",
-          "c": 98.48
-        },
-        {
-          "d": "07-30",
-          "c": 96.16
-        },
-        {
-          "d": "07-31",
-          "c": 96.19
-        },
-        {
-          "d": "08-03",
-          "c": 98.14
-        },
-        {
-          "d": "08-04",
-          "c": 98.18
-        },
-        {
-          "d": "08-05",
-          "c": 101.76
-        },
-        {
-          "d": "08-06",
-          "c": 104.68
-        },
-        {
-          "d": "08-07",
-          "c": 104.91
-        },
-        {
-          "d": "08-10",
-          "c": 103.18
-        },
-        {
-          "d": "08-11",
-          "c": 103.53
-        },
-        {
-          "d": "08-12",
-          "c": 103.22
-        },
-        {
-          "d": "08-13",
-          "c": 104.8
-        },
-        {
-          "d": "08-14",
-          "c": 106.85
-        },
-        {
-          "d": "08-17",
-          "c": 103.5
-        },
-        {
-          "d": "08-18",
-          "c": 103.95
-        }
-      ]
-    },
-    {
-      "id": "a7865b01275e10d2",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T15:30:00+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "dailykos.com",
-      "type": "news",
-      "quote": "Disney abruptly finds its spine over Trump attacks - dailykos.com",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 103.95,
-      "change": 0.43,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcVcxX1Rud3MtODZhcENJemZVcnRTVmEtOTF1WEhpT2czaVdiRGlyQ09vek1SQ1lyMDFocXRObUtxUGxUUk5JUm85Z2NzZXFEY0tadkFNTXJmTXUwZzBENWhaMVNBSzY3RUVyRFdMWXVsZUxTMmJtQUVGVld1WFgwSi1GdVhJZVU0ZFF0UjVpM2dqZw?oc=5",
-      "image": null,
-      "headline": "Disney abruptly finds its spine over Trump attacks - dailykos.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 96.41
-        },
-        {
-          "d": "07-21",
-          "c": 96.14
-        },
-        {
-          "d": "07-22",
-          "c": 95.87
-        },
-        {
-          "d": "07-23",
-          "c": 92.83
-        },
-        {
-          "d": "07-24",
-          "c": 94.85
-        },
-        {
-          "d": "07-27",
-          "c": 96.65
-        },
-        {
-          "d": "07-28",
-          "c": 98.89
-        },
-        {
-          "d": "07-29",
-          "c": 98.48
-        },
-        {
-          "d": "07-30",
-          "c": 96.16
-        },
-        {
-          "d": "07-31",
-          "c": 96.19
-        },
-        {
-          "d": "08-03",
-          "c": 98.14
-        },
-        {
-          "d": "08-04",
-          "c": 98.18
-        },
-        {
-          "d": "08-05",
-          "c": 101.76
-        },
-        {
-          "d": "08-06",
-          "c": 104.68
-        },
-        {
-          "d": "08-07",
-          "c": 104.91
-        },
-        {
-          "d": "08-10",
-          "c": 103.18
-        },
-        {
-          "d": "08-11",
-          "c": 103.53
-        },
-        {
-          "d": "08-12",
-          "c": 103.22
-        },
-        {
-          "d": "08-13",
-          "c": 104.8
-        },
-        {
-          "d": "08-14",
-          "c": 106.85
-        },
-        {
-          "d": "08-17",
-          "c": 103.5
-        },
-        {
-          "d": "08-18",
-          "c": 103.95
-        }
-      ]
-    },
-    {
-      "id": "461285968bc13c00",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T12:01:00+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "Inquirer.com",
-      "type": "news",
-      "quote": "Trump is selling early access to his Truth Social posts \u2014 and, of course, there are no investigators in",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.27,
-      "change": -0.36,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckJSRlVPSElQS3M0MFJSeGVlQzEwd01aRV9ranVCeU02NEJDOWliVktXeDd3SU1hOWNFZ1VNb3Q5YXFhaXZ3UUpJYjJ6SG9CMHdWWk9kWl9BR3N5blpUVm50N3N2LUtRZTE5Ujk0aEp4SmJ0cmNKMlVKcUlZODdmY0p0V2ZWX2hMX0dIdWlYVmtxUE9PTEtkV1BqX3l1Zy1kd3FJQTZpVjFwcmh6Ukt3ZVBza1p4LXVKVlJVSQ?oc=5",
-      "image": null,
-      "headline": "Trump is selling early access to his Truth Social posts \u2014 and, of course, there are no investigators in sight | Editorial - Inquirer.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 9.74
-        },
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
         }
       ]
     }
