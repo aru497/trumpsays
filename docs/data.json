@@ -1,7 +1,126 @@
 {
-  "updated_at": "2026-10-01T21:29:30.012380+00:00",
+  "updated_at": "2026-10-02T01:00:28.649581+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7b146a35f7a33a44",
+      "date": "Thu, 01 Oct 2026",
+      "ts": "2026-10-01T23:41:57+00:00",
+      "date_display": "Oct 01, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "of more than two dozen go-to Trump statements and how they square for accuracy.",
+      "company": "Square",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/a-fact-checked-guide-to-trumps-talking-points-and-falsehoods-at-midterm-rallies",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-01T221749Z_676556222_RC2MUNABVHHZ_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "A fact-checked guide to Trump's talking points and falsehoods at midterm rallies",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "717fdc8ae4674f0b",
+      "date": "Thu, 01 Oct 2026",
+      "ts": "2026-10-01T22:35:37+00:00",
+      "date_display": "Oct 01, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Amna Nawaz discussed more with Sharon Otterman of The New York Times.",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 63.7,
+      "change": 2.21,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/new-details-intensify-scrutiny-of-cornells-handling-of-gang-rape-allegations",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/cornell-1024x683.jpg",
+      "headline": "New details intensify scrutiny of Cornell's handling of gang rape allegations",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-02",
+          "c": 67.68
+        },
+        {
+          "d": "09-03",
+          "c": 67.06
+        },
+        {
+          "d": "09-04",
+          "c": 67.28
+        },
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        },
+        {
+          "d": "09-15",
+          "c": 71.71
+        },
+        {
+          "d": "09-16",
+          "c": 72.41
+        },
+        {
+          "d": "09-17",
+          "c": 69.94
+        },
+        {
+          "d": "09-18",
+          "c": 70.21
+        },
+        {
+          "d": "09-21",
+          "c": 70.53
+        },
+        {
+          "d": "09-22",
+          "c": 65.45
+        },
+        {
+          "d": "09-23",
+          "c": 61.89
+        },
+        {
+          "d": "09-24",
+          "c": 63.05
+        },
+        {
+          "d": "09-25",
+          "c": 63.83
+        },
+        {
+          "d": "09-28",
+          "c": 64.17
+        },
+        {
+          "d": "09-29",
+          "c": 62.32
+        },
+        {
+          "d": "09-30",
+          "c": 63.7
+        }
+      ]
+    },
     {
       "id": "71a37d04cd5e9ddc",
       "date": "Thu, 01 Oct 2026",
@@ -38710,222 +38829,6 @@
         {
           "d": "09-09",
           "c": 157.52
-        }
-      ]
-    },
-    {
-      "id": "d16a4fb5c23ef200",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T22:29:05+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "prestigious academic institutions were designed to strong-arm the schools into cutting deals for political purposes.",
-      "company": "Arm",
-      "ticker": "ARM",
-      "price": 253.32,
-      "change": -6.67,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/nation/whistleblower-alleges-political-pressure-lack-of-evidence-in-antisemitism-investigations-targeting-universities",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/GettyImages-2218914450-1024x657.jpg",
-      "headline": "Whistleblower alleges political pressure, lack of evidence in antisemitism investigations targeting universities",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 269.61
-        },
-        {
-          "d": "07-21",
-          "c": 289.73
-        },
-        {
-          "d": "07-22",
-          "c": 283.4
-        },
-        {
-          "d": "07-23",
-          "c": 283.04
-        },
-        {
-          "d": "07-24",
-          "c": 260.01
-        },
-        {
-          "d": "07-27",
-          "c": 266.33
-        },
-        {
-          "d": "07-28",
-          "c": 244.74
-        },
-        {
-          "d": "07-29",
-          "c": 224.89
-        },
-        {
-          "d": "07-30",
-          "c": 241.54
-        },
-        {
-          "d": "07-31",
-          "c": 239.69
-        },
-        {
-          "d": "08-03",
-          "c": 239.06
-        },
-        {
-          "d": "08-04",
-          "c": 280.56
-        },
-        {
-          "d": "08-05",
-          "c": 274.58
-        },
-        {
-          "d": "08-06",
-          "c": 286.68
-        },
-        {
-          "d": "08-07",
-          "c": 282.57
-        },
-        {
-          "d": "08-10",
-          "c": 267.85
-        },
-        {
-          "d": "08-11",
-          "c": 268.93
-        },
-        {
-          "d": "08-12",
-          "c": 271.87
-        },
-        {
-          "d": "08-13",
-          "c": 278.65
-        },
-        {
-          "d": "08-14",
-          "c": 279.44
-        },
-        {
-          "d": "08-17",
-          "c": 271.43
-        },
-        {
-          "d": "08-18",
-          "c": 253.32
-        }
-      ]
-    },
-    {
-      "id": "0bbc4ec1d4f95925",
-      "date": "Tue, 18 Aug 2026",
-      "ts": "2026-08-18T18:15:00+00:00",
-      "date_display": "Aug 18, 2026",
-      "source": "The Washington Post",
-      "type": "news",
-      "quote": "Opinion | The government\u2019s Intel bet was even worse than expected - The Washington Post",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 96.69,
-      "change": -6.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEJqcGZpblc3ODk4Q2ZJR0EtZEtXb0d0NXVpT0ZTLURFLWlJajNvdDQ2Z0NyMEhpWnNzZ1pWWk96eG91WU4zcTFQbDJBYmN1SE1PUldpMmNyZVNCMk9TVG5leDFqamxaUjJMYW8tOWR5QzFZSDVSNWRGa1dGenVHNWFUV2VlMzUzWGlyOEZZcWlnTjRzUHFDWDM1cmhNdnBkTXA2eHE2RUhWd192TUxjZFpB?oc=5",
-      "image": null,
-      "headline": "Opinion | The government\u2019s Intel bet was even worse than expected - The Washington Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-20",
-          "c": 97.06
-        },
-        {
-          "d": "07-21",
-          "c": 105.45
-        },
-        {
-          "d": "07-22",
-          "c": 102.62
-        },
-        {
-          "d": "07-23",
-          "c": 100.23
-        },
-        {
-          "d": "07-24",
-          "c": 92.32
-        },
-        {
-          "d": "07-27",
-          "c": 91.67
-        },
-        {
-          "d": "07-28",
-          "c": 86.3
-        },
-        {
-          "d": "07-29",
-          "c": 81.88
-        },
-        {
-          "d": "07-30",
-          "c": 91.13
-        },
-        {
-          "d": "07-31",
-          "c": 90.2
-        },
-        {
-          "d": "08-03",
-          "c": 91.0
-        },
-        {
-          "d": "08-04",
-          "c": 100.86
-        },
-        {
-          "d": "08-05",
-          "c": 101.06
-        },
-        {
-          "d": "08-06",
-          "c": 99.81
-        },
-        {
-          "d": "08-07",
-          "c": 101.65
-        },
-        {
-          "d": "08-10",
-          "c": 97.52
-        },
-        {
-          "d": "08-11",
-          "c": 97.71
-        },
-        {
-          "d": "08-12",
-          "c": 100.95
-        },
-        {
-          "d": "08-13",
-          "c": 104.56
-        },
-        {
-          "d": "08-14",
-          "c": 102.5
-        },
-        {
-          "d": "08-17",
-          "c": 103.49
-        },
-        {
-          "d": "08-18",
-          "c": 96.69
         }
       ]
     }
