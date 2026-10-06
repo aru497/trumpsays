@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-10-06T13:44:58.296273+00:00",
+  "updated_at": "2026-10-06T19:12:04.933155+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "24c9adfa07d2014b",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T18:39:00+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "MarketWatch",
+      "type": "news",
+      "quote": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock - MarketWatch \u2018Trump accounts\u2019 could force MAGA",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 64.04,
+      "change": 0.06,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWN3Q25lTlpkRmdtNVcyTHZ1a3VDZ2tnNzlDczJUOUc3T2hoM1lhYUNFZVlRMnQ5dTctT29ZZERxQ0RVT3hibXNFQVp2SmdjY2wwY1RFd0N5NWZTQktpaTYySGd0aURwNWZGM1ZYWHV0V0JDVWduV1NDNE9wTU10UDVzdmZPSEV3Sm9XaVpNSi0zWU1ZcGpMNUpickR2V3loSWh4ZU9NVko2Z1VMV21oLQ?oc=5",
+      "image": null,
+      "headline": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock - MarketWatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 67.96
+        },
+        {
+          "d": "09-09",
+          "c": 66.6
+        },
+        {
+          "d": "09-10",
+          "c": 66.57
+        },
+        {
+          "d": "09-11",
+          "c": 66.88
+        },
+        {
+          "d": "09-14",
+          "c": 70.34
+        },
+        {
+          "d": "09-15",
+          "c": 71.71
+        },
+        {
+          "d": "09-16",
+          "c": 72.41
+        },
+        {
+          "d": "09-17",
+          "c": 69.94
+        },
+        {
+          "d": "09-18",
+          "c": 70.21
+        },
+        {
+          "d": "09-21",
+          "c": 70.53
+        },
+        {
+          "d": "09-22",
+          "c": 65.45
+        },
+        {
+          "d": "09-23",
+          "c": 61.89
+        },
+        {
+          "d": "09-24",
+          "c": 63.05
+        },
+        {
+          "d": "09-25",
+          "c": 63.83
+        },
+        {
+          "d": "09-28",
+          "c": 64.17
+        },
+        {
+          "d": "09-29",
+          "c": 62.32
+        },
+        {
+          "d": "09-30",
+          "c": 63.7
+        },
+        {
+          "d": "10-01",
+          "c": 63.71
+        },
+        {
+          "d": "10-02",
+          "c": 62.7
+        },
+        {
+          "d": "10-05",
+          "c": 64.0
+        },
+        {
+          "d": "10-06",
+          "c": 64.04
+        }
+      ]
+    },
     {
       "id": "171a7548bf7ca704",
       "date": "Tue, 06 Oct 2026",
@@ -38625,114 +38729,6 @@
         {
           "d": "08-20",
           "c": 65.54
-        }
-      ]
-    },
-    {
-      "id": "b5ce1a1850b3d728",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T14:23:00+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "USA Today",
-      "type": "news",
-      "quote": "Truth Social is selling faster access to Trump posts. Is that legal? -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.4,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
-      "image": null,
-      "headline": "Truth Social is selling faster access to Trump posts. Is that legal? - USA Today",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.4
         }
       ]
     }
