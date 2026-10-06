@@ -1,7 +1,315 @@
 {
-  "updated_at": "2026-10-06T06:41:18.558967+00:00",
+  "updated_at": "2026-10-06T13:44:58.296273+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "171a7548bf7ca704",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T11:19:25+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close Polls are showing that Democrats have a",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": 30.95,
+      "change": 0.03,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
+      "image": null,
+      "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 28.12
+        },
+        {
+          "d": "09-09",
+          "c": 27.91
+        },
+        {
+          "d": "09-10",
+          "c": 28.2
+        },
+        {
+          "d": "09-11",
+          "c": 28.04
+        },
+        {
+          "d": "09-14",
+          "c": 28.1
+        },
+        {
+          "d": "09-15",
+          "c": 28.03
+        },
+        {
+          "d": "09-16",
+          "c": 28.07
+        },
+        {
+          "d": "09-17",
+          "c": 28.24
+        },
+        {
+          "d": "09-18",
+          "c": 27.8
+        },
+        {
+          "d": "09-21",
+          "c": 30.8
+        },
+        {
+          "d": "09-22",
+          "c": 30.83
+        },
+        {
+          "d": "09-23",
+          "c": 30.76
+        },
+        {
+          "d": "09-24",
+          "c": 30.84
+        },
+        {
+          "d": "09-25",
+          "c": 30.86
+        },
+        {
+          "d": "09-28",
+          "c": 30.9
+        },
+        {
+          "d": "09-29",
+          "c": 30.85
+        },
+        {
+          "d": "09-30",
+          "c": 30.95
+        },
+        {
+          "d": "10-01",
+          "c": 30.95
+        },
+        {
+          "d": "10-02",
+          "c": 30.94
+        },
+        {
+          "d": "10-05",
+          "c": 30.95
+        }
+      ]
+    },
+    {
+      "id": "cfc36e63f3dd60e4",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T11:19:25+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close Polls are showing that",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 0.59,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
+      "image": null,
+      "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 1.05
+        },
+        {
+          "d": "09-09",
+          "c": 1.06
+        },
+        {
+          "d": "09-10",
+          "c": 0.98
+        },
+        {
+          "d": "09-11",
+          "c": 1.0
+        },
+        {
+          "d": "09-14",
+          "c": 1.01
+        },
+        {
+          "d": "09-15",
+          "c": 1.0
+        },
+        {
+          "d": "09-16",
+          "c": 0.97
+        },
+        {
+          "d": "09-17",
+          "c": 0.93
+        },
+        {
+          "d": "09-18",
+          "c": 0.93
+        },
+        {
+          "d": "09-21",
+          "c": 0.92
+        },
+        {
+          "d": "09-22",
+          "c": 0.88
+        },
+        {
+          "d": "09-23",
+          "c": 0.88
+        },
+        {
+          "d": "09-24",
+          "c": 0.82
+        },
+        {
+          "d": "09-25",
+          "c": 0.7
+        },
+        {
+          "d": "09-28",
+          "c": 0.7
+        },
+        {
+          "d": "09-29",
+          "c": 0.69
+        },
+        {
+          "d": "09-30",
+          "c": 0.65
+        },
+        {
+          "d": "10-01",
+          "c": 0.58
+        },
+        {
+          "d": "10-02",
+          "c": 0.52
+        },
+        {
+          "d": "10-05",
+          "c": 0.59
+        },
+        {
+          "d": "10-06",
+          "c": 0.59
+        }
+      ]
+    },
+    {
+      "id": "f9b4d55aac1b5694",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T09:17:00+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Disney, ABC battle Trump's FCC in court over free speech",
+      "company": "Disney",
+      "ticker": "DIS",
+      "price": 103.6,
+      "change": -0.01,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
+      "image": null,
+      "headline": "Disney, ABC battle Trump's FCC in court over free speech protections",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 105.06
+        },
+        {
+          "d": "09-09",
+          "c": 104.18
+        },
+        {
+          "d": "09-10",
+          "c": 105.82
+        },
+        {
+          "d": "09-11",
+          "c": 106.55
+        },
+        {
+          "d": "09-14",
+          "c": 108.59
+        },
+        {
+          "d": "09-15",
+          "c": 106.42
+        },
+        {
+          "d": "09-16",
+          "c": 106.99
+        },
+        {
+          "d": "09-17",
+          "c": 105.35
+        },
+        {
+          "d": "09-18",
+          "c": 102.67
+        },
+        {
+          "d": "09-21",
+          "c": 104.23
+        },
+        {
+          "d": "09-22",
+          "c": 103.82
+        },
+        {
+          "d": "09-23",
+          "c": 103.46
+        },
+        {
+          "d": "09-24",
+          "c": 105.56
+        },
+        {
+          "d": "09-25",
+          "c": 106.15
+        },
+        {
+          "d": "09-28",
+          "c": 105.59
+        },
+        {
+          "d": "09-29",
+          "c": 105.41
+        },
+        {
+          "d": "09-30",
+          "c": 104.9
+        },
+        {
+          "d": "10-01",
+          "c": 101.33
+        },
+        {
+          "d": "10-02",
+          "c": 102.19
+        },
+        {
+          "d": "10-05",
+          "c": 103.61
+        },
+        {
+          "d": "10-06",
+          "c": 103.6
+        }
+      ]
+    },
     {
       "id": "c593fc5d8f0074a2",
       "date": "Mon, 05 Oct 2026",
@@ -38425,330 +38733,6 @@
         {
           "d": "08-20",
           "c": 8.4
-        }
-      ]
-    },
-    {
-      "id": "c0be2fe83a51cb90",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T12:23:00+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "Fortune",
-      "type": "news",
-      "quote": "Target\u2019s second straight comeback quarter boosted by nearly $1",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 165.44,
-      "change": 4.54,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SZTlqYmhEM0ZyWGo1R3pscWxnZEJ5TUp5NEhFRGppc19jLTI0b201d1pYNFhhdnVVVWVWSVQ1c05DSnZ2V25PMlNKekE4Ym5tWFNZQmppSkVPT1pWazk3UVRPcndnakdPcVZTb1lqSE5xT2s4ZFRRWTI1M3c?oc=5",
-      "image": null,
-      "headline": "Target\u2019s second straight comeback quarter boosted by nearly $1 billion Trump tariff refund - Fortune",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 133.46
-        },
-        {
-          "d": "07-24",
-          "c": 135.74
-        },
-        {
-          "d": "07-27",
-          "c": 139.27
-        },
-        {
-          "d": "07-28",
-          "c": 143.1
-        },
-        {
-          "d": "07-29",
-          "c": 144.79
-        },
-        {
-          "d": "07-30",
-          "c": 143.41
-        },
-        {
-          "d": "07-31",
-          "c": 143.39
-        },
-        {
-          "d": "08-03",
-          "c": 148.21
-        },
-        {
-          "d": "08-04",
-          "c": 146.98
-        },
-        {
-          "d": "08-05",
-          "c": 146.57
-        },
-        {
-          "d": "08-06",
-          "c": 145.96
-        },
-        {
-          "d": "08-07",
-          "c": 148.56
-        },
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        },
-        {
-          "d": "08-13",
-          "c": 155.51
-        },
-        {
-          "d": "08-14",
-          "c": 154.48
-        },
-        {
-          "d": "08-17",
-          "c": 151.01
-        },
-        {
-          "d": "08-18",
-          "c": 152.48
-        },
-        {
-          "d": "08-19",
-          "c": 159.0
-        },
-        {
-          "d": "08-20",
-          "c": 158.25
-        },
-        {
-          "d": "08-21",
-          "c": 165.44
-        }
-      ]
-    },
-    {
-      "id": "bb30786e2c67bce0",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T09:07:00+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "USA Today",
-      "type": "news",
-      "quote": "Truth Social is charging for access to Trump posts. Is that legal? -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.35,
-      "change": 3.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
-      "image": null,
-      "headline": "Truth Social is charging for access to Trump posts. Is that legal? - USA Today",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-21",
-          "c": 9.82
-        },
-        {
-          "d": "07-22",
-          "c": 9.23
-        },
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        }
-      ]
-    },
-    {
-      "id": "f30623ce731d3fcf",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T09:04:12+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "From Covid to Cancer: How Moderna\u2019s Stock Jumped 177% in a Day - The New York Times From",
-      "company": "Moderna",
-      "ticker": "MRNA",
-      "price": 174.38,
-      "change": 176.97,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWGhUMUI1SFZkUzBhUVBFQUVGRkZxYjl2ZDFsY2pZajhUQXNMMU1Xd2Z2ZU04R09MYTAzZXlmOXFZSU1nV1FsMXJkamE4eU9yUXJHRGtQNV81cnVVT1diSUk2ZXZ1Zi1RUEtpVGNfN0NubWxjTmFNejA5R1E?oc=5",
-      "image": null,
-      "headline": "From Covid to Cancer: How Moderna\u2019s Stock Jumped 177% in a Day - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-21",
-          "c": 59.66
-        },
-        {
-          "d": "07-22",
-          "c": 58.07
-        },
-        {
-          "d": "07-23",
-          "c": 57.02
-        },
-        {
-          "d": "07-24",
-          "c": 54.07
-        },
-        {
-          "d": "07-27",
-          "c": 55.63
-        },
-        {
-          "d": "07-28",
-          "c": 55.81
-        },
-        {
-          "d": "07-29",
-          "c": 54.49
-        },
-        {
-          "d": "07-30",
-          "c": 57.92
-        },
-        {
-          "d": "07-31",
-          "c": 54.82
-        },
-        {
-          "d": "08-03",
-          "c": 55.14
-        },
-        {
-          "d": "08-04",
-          "c": 56.99
-        },
-        {
-          "d": "08-05",
-          "c": 56.26
-        },
-        {
-          "d": "08-06",
-          "c": 53.86
-        },
-        {
-          "d": "08-07",
-          "c": 59.17
-        },
-        {
-          "d": "08-10",
-          "c": 59.81
-        },
-        {
-          "d": "08-11",
-          "c": 60.57
-        },
-        {
-          "d": "08-12",
-          "c": 63.67
-        },
-        {
-          "d": "08-13",
-          "c": 63.65
-        },
-        {
-          "d": "08-14",
-          "c": 63.32
-        },
-        {
-          "d": "08-17",
-          "c": 64.46
-        },
-        {
-          "d": "08-18",
-          "c": 62.96
-        },
-        {
-          "d": "08-19",
-          "c": 174.38
         }
       ]
     }
