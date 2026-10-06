@@ -1,7 +1,519 @@
 {
-  "updated_at": "2026-10-06T19:12:04.933155+00:00",
+  "updated_at": "2026-10-06T23:08:27.812444+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2d9e0afe4e82326c",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T21:23:56+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "IMDb",
+      "type": "news",
+      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be a Great",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": 30.95,
+      "change": 0.03,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5URlNjM3B2SUpYYmRQTHhGOTRMU0ZhaVlFeEpUMkdjbnV4RVptYkIwZGFicXA3VFVsSm5uR1pTc004XzktRjFBb091ZkdSYmpEV0Nic3QxdHQyNk5GeWxwR01qZlExdw?oc=5",
+      "image": null,
+      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be a Great Company\u2019 - IMDb",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 28.12
+        },
+        {
+          "d": "09-09",
+          "c": 27.91
+        },
+        {
+          "d": "09-10",
+          "c": 28.2
+        },
+        {
+          "d": "09-11",
+          "c": 28.04
+        },
+        {
+          "d": "09-14",
+          "c": 28.1
+        },
+        {
+          "d": "09-15",
+          "c": 28.03
+        },
+        {
+          "d": "09-16",
+          "c": 28.07
+        },
+        {
+          "d": "09-17",
+          "c": 28.24
+        },
+        {
+          "d": "09-18",
+          "c": 27.8
+        },
+        {
+          "d": "09-21",
+          "c": 30.8
+        },
+        {
+          "d": "09-22",
+          "c": 30.83
+        },
+        {
+          "d": "09-23",
+          "c": 30.76
+        },
+        {
+          "d": "09-24",
+          "c": 30.84
+        },
+        {
+          "d": "09-25",
+          "c": 30.86
+        },
+        {
+          "d": "09-28",
+          "c": 30.9
+        },
+        {
+          "d": "09-29",
+          "c": 30.85
+        },
+        {
+          "d": "09-30",
+          "c": 30.95
+        },
+        {
+          "d": "10-01",
+          "c": 30.95
+        },
+        {
+          "d": "10-02",
+          "c": 30.94
+        },
+        {
+          "d": "10-05",
+          "c": 30.95
+        }
+      ]
+    },
+    {
+      "id": "b97a7755d70a228a",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T21:23:56+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "IMDb",
+      "type": "news",
+      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 0.67,
+      "change": 13.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5URlNjM3B2SUpYYmRQTHhGOTRMU0ZhaVlFeEpUMkdjbnV4RVptYkIwZGFicXA3VFVsSm5uR1pTc004XzktRjFBb091ZkdSYmpEV0Nic3QxdHQyNk5GeWxwR01qZlExdw?oc=5",
+      "image": null,
+      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be a Great Company\u2019 - IMDb",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 1.05
+        },
+        {
+          "d": "09-09",
+          "c": 1.06
+        },
+        {
+          "d": "09-10",
+          "c": 0.98
+        },
+        {
+          "d": "09-11",
+          "c": 1.0
+        },
+        {
+          "d": "09-14",
+          "c": 1.01
+        },
+        {
+          "d": "09-15",
+          "c": 1.0
+        },
+        {
+          "d": "09-16",
+          "c": 0.97
+        },
+        {
+          "d": "09-17",
+          "c": 0.93
+        },
+        {
+          "d": "09-18",
+          "c": 0.93
+        },
+        {
+          "d": "09-21",
+          "c": 0.92
+        },
+        {
+          "d": "09-22",
+          "c": 0.88
+        },
+        {
+          "d": "09-23",
+          "c": 0.88
+        },
+        {
+          "d": "09-24",
+          "c": 0.82
+        },
+        {
+          "d": "09-25",
+          "c": 0.7
+        },
+        {
+          "d": "09-28",
+          "c": 0.7
+        },
+        {
+          "d": "09-29",
+          "c": 0.69
+        },
+        {
+          "d": "09-30",
+          "c": 0.65
+        },
+        {
+          "d": "10-01",
+          "c": 0.58
+        },
+        {
+          "d": "10-02",
+          "c": 0.52
+        },
+        {
+          "d": "10-05",
+          "c": 0.59
+        },
+        {
+          "d": "10-06",
+          "c": 0.67
+        }
+      ]
+    },
+    {
+      "id": "276985137624cfab",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T20:39:00+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "Variety",
+      "type": "news",
+      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety Donald Trump Praises Newly",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": 30.95,
+      "change": 0.03,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHJ0dnQxUUo3eE9oR0xvdFQ1bDd1UjVEU1FuRGdwZFpXYVA3dGpTWG1ybk1XU3dPY2RIUjQ1dlM5dkE1R1BHZHhZRWtfUlo3Z3U3OTBRMGVWemgxbHpZaFhHbzZoZ0N4V09VN1FuanNZTzhMS0dzWXJHaUZoQ3JOWEFUUmNxTWg0ektYZ3Z1MnhGSzlidDg5cjlESHJZTjVLaFFVb3FWR2s1dnhXSkNFcENR?oc=5",
+      "image": null,
+      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 28.12
+        },
+        {
+          "d": "09-09",
+          "c": 27.91
+        },
+        {
+          "d": "09-10",
+          "c": 28.2
+        },
+        {
+          "d": "09-11",
+          "c": 28.04
+        },
+        {
+          "d": "09-14",
+          "c": 28.1
+        },
+        {
+          "d": "09-15",
+          "c": 28.03
+        },
+        {
+          "d": "09-16",
+          "c": 28.07
+        },
+        {
+          "d": "09-17",
+          "c": 28.24
+        },
+        {
+          "d": "09-18",
+          "c": 27.8
+        },
+        {
+          "d": "09-21",
+          "c": 30.8
+        },
+        {
+          "d": "09-22",
+          "c": 30.83
+        },
+        {
+          "d": "09-23",
+          "c": 30.76
+        },
+        {
+          "d": "09-24",
+          "c": 30.84
+        },
+        {
+          "d": "09-25",
+          "c": 30.86
+        },
+        {
+          "d": "09-28",
+          "c": 30.9
+        },
+        {
+          "d": "09-29",
+          "c": 30.85
+        },
+        {
+          "d": "09-30",
+          "c": 30.95
+        },
+        {
+          "d": "10-01",
+          "c": 30.95
+        },
+        {
+          "d": "10-02",
+          "c": 30.94
+        },
+        {
+          "d": "10-05",
+          "c": 30.95
+        }
+      ]
+    },
+    {
+      "id": "8e33731464a8656a",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T20:39:00+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "Variety",
+      "type": "news",
+      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety Donald Trump",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 0.67,
+      "change": 13.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHJ0dnQxUUo3eE9oR0xvdFQ1bDd1UjVEU1FuRGdwZFpXYVA3dGpTWG1ybk1XU3dPY2RIUjQ1dlM5dkE1R1BHZHhZRWtfUlo3Z3U3OTBRMGVWemgxbHpZaFhHbzZoZ0N4V09VN1FuanNZTzhMS0dzWXJHaUZoQ3JOWEFUUmNxTWg0ektYZ3Z1MnhGSzlidDg5cjlESHJZTjVLaFFVb3FWR2s1dnhXSkNFcENR?oc=5",
+      "image": null,
+      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 1.05
+        },
+        {
+          "d": "09-09",
+          "c": 1.06
+        },
+        {
+          "d": "09-10",
+          "c": 0.98
+        },
+        {
+          "d": "09-11",
+          "c": 1.0
+        },
+        {
+          "d": "09-14",
+          "c": 1.01
+        },
+        {
+          "d": "09-15",
+          "c": 1.0
+        },
+        {
+          "d": "09-16",
+          "c": 0.97
+        },
+        {
+          "d": "09-17",
+          "c": 0.93
+        },
+        {
+          "d": "09-18",
+          "c": 0.93
+        },
+        {
+          "d": "09-21",
+          "c": 0.92
+        },
+        {
+          "d": "09-22",
+          "c": 0.88
+        },
+        {
+          "d": "09-23",
+          "c": 0.88
+        },
+        {
+          "d": "09-24",
+          "c": 0.82
+        },
+        {
+          "d": "09-25",
+          "c": 0.7
+        },
+        {
+          "d": "09-28",
+          "c": 0.7
+        },
+        {
+          "d": "09-29",
+          "c": 0.69
+        },
+        {
+          "d": "09-30",
+          "c": 0.65
+        },
+        {
+          "d": "10-01",
+          "c": 0.58
+        },
+        {
+          "d": "10-02",
+          "c": 0.52
+        },
+        {
+          "d": "10-05",
+          "c": 0.59
+        },
+        {
+          "d": "10-06",
+          "c": 0.67
+        }
+      ]
+    },
+    {
+      "id": "a531d127dcebf180",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T19:52:44+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "difficult midterm elections The effectiveness of this strategy remains uncertain, with some Republicans skeptical about",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 164.55,
+      "change": 0.07,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/republicans-focus-on-tough-on-crime-message-before-difficult-midterm-elections",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T181047Z_1936679670_RC2FKNAF53D8_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
+      "headline": "Republicans focus on tough-on-crime message before difficult midterm elections",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.61
+        },
+        {
+          "d": "09-25",
+          "c": 158.61
+        },
+        {
+          "d": "09-28",
+          "c": 157.14
+        },
+        {
+          "d": "09-29",
+          "c": 154.67
+        },
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        }
+      ]
+    },
     {
       "id": "24c9adfa07d2014b",
       "date": "Tue, 06 Oct 2026",
@@ -37329,6 +37841,110 @@
       ]
     },
     {
+      "id": "b5ce1a1850b3d728",
+      "date": "Fri, 21 Aug 2026",
+      "ts": "2026-08-21T07:00:00+00:00",
+      "date_display": "Aug 21, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Truth Social is selling faster access to Trump posts. Is that legal? -",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.65,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
+      "image": null,
+      "headline": "Truth Social is selling faster access to Trump posts. Is that legal? - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        }
+      ]
+    },
+    {
       "id": "46439255b937478b",
       "date": "Fri, 21 Aug 2026",
       "ts": "2026-08-21T06:00:00+00:00",
@@ -38081,654 +38697,6 @@
         {
           "d": "08-20",
           "c": 133.32
-        }
-      ]
-    },
-    {
-      "id": "38c118c1add06773",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T19:31:16+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "Axios",
-      "type": "news",
-      "quote": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios Moderna and",
-      "company": "Merck",
-      "ticker": "MRK",
-      "price": 148.99,
-      "change": -2.11,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNlNiU25IZnZsZkNFSFR6cVp0dmhNSWtWTjMtVXBBU2VIWWo4U0hPM3dEM1Z3aU93a0puX0drSU5QRloxWThVWEJWVnNiOE1XMkpuTVpvUWZXV3RCMTAtaFRFbmtiaHV0bm45NFk1RDhidDdy?oc=5",
-      "image": null,
-      "headline": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 127.47
-        },
-        {
-          "d": "07-23",
-          "c": 130.48
-        },
-        {
-          "d": "07-24",
-          "c": 131.07
-        },
-        {
-          "d": "07-27",
-          "c": 130.76
-        },
-        {
-          "d": "07-28",
-          "c": 131.82
-        },
-        {
-          "d": "07-29",
-          "c": 130.36
-        },
-        {
-          "d": "07-30",
-          "c": 129.79
-        },
-        {
-          "d": "07-31",
-          "c": 130.2
-        },
-        {
-          "d": "08-03",
-          "c": 127.77
-        },
-        {
-          "d": "08-04",
-          "c": 128.0
-        },
-        {
-          "d": "08-05",
-          "c": 128.33
-        },
-        {
-          "d": "08-06",
-          "c": 128.37
-        },
-        {
-          "d": "08-07",
-          "c": 128.58
-        },
-        {
-          "d": "08-10",
-          "c": 130.92
-        },
-        {
-          "d": "08-11",
-          "c": 130.42
-        },
-        {
-          "d": "08-12",
-          "c": 132.92
-        },
-        {
-          "d": "08-13",
-          "c": 135.55
-        },
-        {
-          "d": "08-14",
-          "c": 135.84
-        },
-        {
-          "d": "08-17",
-          "c": 135.97
-        },
-        {
-          "d": "08-18",
-          "c": 135.17
-        },
-        {
-          "d": "08-19",
-          "c": 152.2
-        },
-        {
-          "d": "08-20",
-          "c": 148.99
-        }
-      ]
-    },
-    {
-      "id": "11557b9498c2d058",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T15:48:15+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Schiff says, warning of 2028 Dem socialist 'threat' - Fox Business US economy 'worse' off than when Biden departed,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.05,
-      "change": 0.99,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHMyeVZkc1pUZUxEWTFFLTY5RlNwWUJyZG0zNFNMOUg5dlJVejM2MGdBUll2NzZOWVRaYlN5RkR3YUgybXVWTkhEekVabUpjc0c2ZUplc3Y3ZjlERVFzQUxidms2NlJsMDRIR3JiZFRPc0xkLXdwTVYzM2pwd181UktOajZaeER1Ul9ES2pIc3FMRkJUaXN6QVRjYUlJTGZtTDd3SzJMSndHeDJUNzctUEJJZlBHM2xUek1PNUhPNW8tb3JrdHVYVTlicGZvX03SAdQBQVVfeXFMTWdINkNxaEtfWXVsazYweUpGbS1HVGtRclZLT1ZlMFRTR09ST1gxaWtUMFh6U0w5ajhjUThoSUtpbmlUYUppRUxaRlJreHY1TU93V1Rtc0xCUkxJWGFfa1BBWXhVRXBuWmhSc2NRd3NCM0dnR1BHVVBtLTRMMHkxTjFPTGo1TWp5a0trMUNXWmYzZG5vaFdxa1I5NkRFVzh3T2RLUHJsYlg5Nm96eUM0UTQzYXRUZXhobTdqOWhkTXJzVTAzSFlQR0FGUTBwVXhiU2p4T0w?oc=5",
-      "image": null,
-      "headline": "US economy 'worse' off than when Biden departed, Peter Schiff says, warning of 2028 Dem socialist 'threat' - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        }
-      ]
-    },
-    {
-      "id": "6f22ac77e1b1c02d",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T15:18:21+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "company": "Zoom",
-      "ticker": "ZM",
-      "price": 106.58,
-      "change": -0.83,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-      "image": null,
-      "headline": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-21",
-          "c": 89.77
-        },
-        {
-          "d": "07-22",
-          "c": 85.81
-        },
-        {
-          "d": "07-23",
-          "c": 84.11
-        },
-        {
-          "d": "07-24",
-          "c": 87.99
-        },
-        {
-          "d": "07-27",
-          "c": 91.22
-        },
-        {
-          "d": "07-28",
-          "c": 91.48
-        },
-        {
-          "d": "07-29",
-          "c": 92.41
-        },
-        {
-          "d": "07-30",
-          "c": 92.32
-        },
-        {
-          "d": "07-31",
-          "c": 96.07
-        },
-        {
-          "d": "08-03",
-          "c": 98.25
-        },
-        {
-          "d": "08-04",
-          "c": 102.12
-        },
-        {
-          "d": "08-05",
-          "c": 100.64
-        },
-        {
-          "d": "08-06",
-          "c": 101.3
-        },
-        {
-          "d": "08-07",
-          "c": 104.5
-        },
-        {
-          "d": "08-10",
-          "c": 107.2
-        },
-        {
-          "d": "08-12",
-          "c": 105.13
-        },
-        {
-          "d": "08-13",
-          "c": 109.84
-        },
-        {
-          "d": "08-14",
-          "c": 105.96
-        },
-        {
-          "d": "08-17",
-          "c": 105.56
-        },
-        {
-          "d": "08-18",
-          "c": 104.71
-        },
-        {
-          "d": "08-19",
-          "c": 107.47
-        },
-        {
-          "d": "08-20",
-          "c": 106.58
-        }
-      ]
-    },
-    {
-      "id": "5a049210fc82cf69",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T15:05:01+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "Top Class Actions",
-      "type": "news",
-      "quote": "Target class action claims company owes consumers refund of Trump",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 163.73,
-      "change": 3.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSF9HMC1CR0JTZ1ZWWlQzejZoV3c4UmlZWVRXQ0M5endhMkhJbmQtMTlYQmF3NjB0VGpfYjNnUGFCbDdvbGNSQnFmOFpXQU01Z1NGaFlGcTk4YTBtVVhvSG1NV1g0V2F6MmdLck9SUFpXRE9NNGhMR2V3blhUeWl5ekJKZUVBSFFWcWllajNLWkZJR1Z6U3ZDRmg1Mk5NNmRHbTdBa2dfYlVIRFVMQ2xac1d1WFY3ZEtMM0lDeXJqSEwtYXVfaEoybW5WQ0VMdkZw?oc=5",
-      "image": null,
-      "headline": "Target class action claims company owes consumers refund of Trump tariffs - Top Class Actions",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 133.46
-        },
-        {
-          "d": "07-24",
-          "c": 135.74
-        },
-        {
-          "d": "07-27",
-          "c": 139.27
-        },
-        {
-          "d": "07-28",
-          "c": 143.1
-        },
-        {
-          "d": "07-29",
-          "c": 144.79
-        },
-        {
-          "d": "07-30",
-          "c": 143.41
-        },
-        {
-          "d": "07-31",
-          "c": 143.39
-        },
-        {
-          "d": "08-03",
-          "c": 148.21
-        },
-        {
-          "d": "08-04",
-          "c": 146.98
-        },
-        {
-          "d": "08-05",
-          "c": 146.57
-        },
-        {
-          "d": "08-06",
-          "c": 145.96
-        },
-        {
-          "d": "08-07",
-          "c": 148.56
-        },
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        },
-        {
-          "d": "08-13",
-          "c": 155.51
-        },
-        {
-          "d": "08-14",
-          "c": 154.48
-        },
-        {
-          "d": "08-17",
-          "c": 151.01
-        },
-        {
-          "d": "08-18",
-          "c": 152.48
-        },
-        {
-          "d": "08-19",
-          "c": 159.0
-        },
-        {
-          "d": "08-20",
-          "c": 158.25
-        },
-        {
-          "d": "08-21",
-          "c": 163.73
-        }
-      ]
-    },
-    {
-      "id": "9996db93fe8d77c5",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T14:23:51+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New",
-      "company": "Moderna",
-      "ticker": "MRNA",
-      "price": 140.07,
-      "change": -19.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWGhUMUI1SFZkUzBhUVBFQUVGRkZxYjl2ZDFsY2pZajhUQXNMMU1Xd2Z2ZU04R09MYTAzZXlmOXFZSU1nV1FsMXJkamE4eU9yUXJHRGtQNV81cnVVT1diSUk2ZXZ1Zi1RUEtpVGNfN0NubWxjTmFNejA5R1E?oc=5",
-      "image": null,
-      "headline": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 58.07
-        },
-        {
-          "d": "07-23",
-          "c": 57.02
-        },
-        {
-          "d": "07-24",
-          "c": 54.07
-        },
-        {
-          "d": "07-27",
-          "c": 55.63
-        },
-        {
-          "d": "07-28",
-          "c": 55.81
-        },
-        {
-          "d": "07-29",
-          "c": 54.49
-        },
-        {
-          "d": "07-30",
-          "c": 57.92
-        },
-        {
-          "d": "07-31",
-          "c": 54.82
-        },
-        {
-          "d": "08-03",
-          "c": 55.14
-        },
-        {
-          "d": "08-04",
-          "c": 56.99
-        },
-        {
-          "d": "08-05",
-          "c": 56.26
-        },
-        {
-          "d": "08-06",
-          "c": 53.86
-        },
-        {
-          "d": "08-07",
-          "c": 59.17
-        },
-        {
-          "d": "08-10",
-          "c": 59.81
-        },
-        {
-          "d": "08-11",
-          "c": 60.57
-        },
-        {
-          "d": "08-12",
-          "c": 63.67
-        },
-        {
-          "d": "08-13",
-          "c": 63.65
-        },
-        {
-          "d": "08-14",
-          "c": 63.32
-        },
-        {
-          "d": "08-17",
-          "c": 64.46
-        },
-        {
-          "d": "08-18",
-          "c": 62.96
-        },
-        {
-          "d": "08-19",
-          "c": 174.38
-        },
-        {
-          "d": "08-20",
-          "c": 140.07
-        }
-      ]
-    },
-    {
-      "id": "2f6d211e16c41931",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T14:23:51+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New York Times Moderna\u2019s Shift to Cancer Company Lifts Stock Up",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.54,
-      "change": -0.64,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWGhUMUI1SFZkUzBhUVBFQUVGRkZxYjl2ZDFsY2pZajhUQXNMMU1Xd2Z2ZU04R09MYTAzZXlmOXFZSU1nV1FsMXJkamE4eU9yUXJHRGtQNV81cnVVT1diSUk2ZXZ1Zi1RUEtpVGNfN0NubWxjTmFNejA5R1E?oc=5",
-      "image": null,
-      "headline": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177% - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 72.99
-        },
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.54
         }
       ]
     }
