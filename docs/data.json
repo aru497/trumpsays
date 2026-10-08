@@ -1,7 +1,1411 @@
 {
-  "updated_at": "2026-10-08T15:01:36.970978+00:00",
+  "updated_at": "2026-10-08T20:44:18.680786+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "40b62ed5428e16c9",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T18:32:17+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "notus.org",
+      "type": "news",
+      "quote": "SpaceX, Palantir, McDonald\u2019s: Trump Made 517 Personal Financial Trades in",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 198.78,
+      "change": 2.4,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckdNaVRlTzNnaEY5QUVXMGRIUnl0RkZoY1QyMDVGcEhDZGI0cVZVdlVKbjl4T19nUFFuRHNPSGZXY3JQZl91dENoUkNBTkxxcF9VNHNPTWdHaF9XT2FCMkZ1VjFoeG5FY3VKTEs4YVk4THZTSmhkSzhIWUJtdUFVOGlJSlEybUNwMW03aVNjamQ1Q2RSaGJwZDdrS3dJZw?oc=5",
+      "image": null,
+      "headline": "SpaceX, Palantir, McDonald\u2019s: Trump Made 517 Personal Financial Trades in August - notus.org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 169.53
+        },
+        {
+          "d": "09-10",
+          "c": 165.86
+        },
+        {
+          "d": "09-11",
+          "c": 167.23
+        },
+        {
+          "d": "09-14",
+          "c": 173.31
+        },
+        {
+          "d": "09-15",
+          "c": 172.56
+        },
+        {
+          "d": "09-16",
+          "c": 174.34
+        },
+        {
+          "d": "09-17",
+          "c": 176.24
+        },
+        {
+          "d": "09-18",
+          "c": 177.64
+        },
+        {
+          "d": "09-21",
+          "c": 183.09
+        },
+        {
+          "d": "09-22",
+          "c": 184.99
+        },
+        {
+          "d": "09-23",
+          "c": 191.79
+        },
+        {
+          "d": "09-24",
+          "c": 192.59
+        },
+        {
+          "d": "09-25",
+          "c": 189.67
+        },
+        {
+          "d": "09-28",
+          "c": 187.48
+        },
+        {
+          "d": "09-29",
+          "c": 186.97
+        },
+        {
+          "d": "09-30",
+          "c": 187.05
+        },
+        {
+          "d": "10-01",
+          "c": 190.04
+        },
+        {
+          "d": "10-02",
+          "c": 188.75
+        },
+        {
+          "d": "10-05",
+          "c": 189.4
+        },
+        {
+          "d": "10-06",
+          "c": 192.07
+        },
+        {
+          "d": "10-07",
+          "c": 194.12
+        },
+        {
+          "d": "10-08",
+          "c": 198.78
+        }
+      ]
+    },
+    {
+      "id": "f26b2d4b47ea2ade",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T17:56:03+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Yahoo! Finance Canada",
+      "type": "news",
+      "quote": "Trump honors Microsoft\u2019s CEO after Vance drops an H-1B visa hammer on the company",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 522.61,
+      "change": -1.35,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVFQd1RiV2dGY1VsZC1hSkVsTjlFajB1OGdYOW5UWi1TRGw5YzV1clYzc0hFY2trZ0F5c0p2VklYWmw0Q1ZNUjY3OWlTUHBLdnpfeWUzUGwtbWlQeVZGU2NuQ1VXaGhmYm9hckUxeE00MHc0RWxmd3ZFbWFWR3VGQ0hLMmNMV0E?oc=5",
+      "image": null,
+      "headline": "Trump honors Microsoft\u2019s CEO after Vance drops an H-1B visa hammer on the company - Yahoo! Finance Canada",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        },
+        {
+          "d": "10-08",
+          "c": 522.61
+        }
+      ]
+    },
+    {
+      "id": "c3c45cf2544ebead",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T17:56:03+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Yahoo! Finance Canada",
+      "type": "news",
+      "quote": "Trump honors Microsoft\u2019s CEO after Vance drops an H-1B visa hammer on the company - Yahoo! Finance Canada Trump honors",
+      "company": "Visa",
+      "ticker": "V",
+      "price": 375.1,
+      "change": 0.81,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVFQd1RiV2dGY1VsZC1hSkVsTjlFajB1OGdYOW5UWi1TRGw5YzV1clYzc0hFY2trZ0F5c0p2VklYWmw0Q1ZNUjY3OWlTUHBLdnpfeWUzUGwtbWlQeVZGU2NuQ1VXaGhmYm9hckUxeE00MHc0RWxmd3ZFbWFWR3VGQ0hLMmNMV0E?oc=5",
+      "image": null,
+      "headline": "Trump honors Microsoft\u2019s CEO after Vance drops an H-1B visa hammer on the company - Yahoo! Finance Canada",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 367.39
+        },
+        {
+          "d": "09-10",
+          "c": 367.21
+        },
+        {
+          "d": "09-11",
+          "c": 370.45
+        },
+        {
+          "d": "09-14",
+          "c": 375.28
+        },
+        {
+          "d": "09-15",
+          "c": 375.62
+        },
+        {
+          "d": "09-16",
+          "c": 370.93
+        },
+        {
+          "d": "09-17",
+          "c": 369.93
+        },
+        {
+          "d": "09-18",
+          "c": 368.29
+        },
+        {
+          "d": "09-21",
+          "c": 369.95
+        },
+        {
+          "d": "09-22",
+          "c": 362.04
+        },
+        {
+          "d": "09-23",
+          "c": 361.52
+        },
+        {
+          "d": "09-24",
+          "c": 367.98
+        },
+        {
+          "d": "09-25",
+          "c": 367.38
+        },
+        {
+          "d": "09-28",
+          "c": 367.74
+        },
+        {
+          "d": "09-29",
+          "c": 365.88
+        },
+        {
+          "d": "09-30",
+          "c": 359.33
+        },
+        {
+          "d": "10-01",
+          "c": 359.85
+        },
+        {
+          "d": "10-02",
+          "c": 360.66
+        },
+        {
+          "d": "10-05",
+          "c": 369.71
+        },
+        {
+          "d": "10-06",
+          "c": 370.64
+        },
+        {
+          "d": "10-07",
+          "c": 372.1
+        },
+        {
+          "d": "10-08",
+          "c": 375.1
+        }
+      ]
+    },
+    {
+      "id": "135507841c01ef09",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T17:46:09+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "NBC News",
+      "type": "news",
+      "quote": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - NBC News The",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 522.61,
+      "change": -1.35,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGR4Z1ZlRGJ5eUNrRWtHU203alVpQm5RYk1sMVkyRGtKYjd5bERQN0dvb2hzMWd3c0tFVkdWTjdsczY2Z0ppc1FZQllkZ0FBa1Z0TlphLVhtSmd0c1ZhVmRqa01IV2dNTkNuZkNxYlE1bUJFZnQxeDhpZngtdXJmRW5mVmlJWThnbmNjYmkweDVibjlnQUVQb2J3YXdPSnc4dGRSZHp3WkxQMW15ckEwYWJnX2t0cVNUV1dFeVZR?oc=5",
+      "image": null,
+      "headline": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - NBC News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        },
+        {
+          "d": "10-08",
+          "c": 522.61
+        }
+      ]
+    },
+    {
+      "id": "3f63bc42696e7acd",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T16:02:23+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he's giving medals to their CEOs. - Yahoo Finance",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 522.61,
+      "change": -1.35,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVE90WDQxeTNDV2dKQWVRd29pVVZUbld3ZWt0QWFpMHRrbkxVZEwwTU1EdnYybFM4YUZ4ZzZyUzMxMDNlM1phTll5UXYwMmRLQ3dxRV9SVkF1UmZqS2dOakpnZ3czODlfWklKNXZ3aURYNXdEMk9UeFlYOU5QVVk4Yk9jWUsySUJiVkl2Tnl4eElERWhpZS1icVdSRVhuTTMxeHBzSkViRkhZMDFmeGoxQkVfbkFIRzlYeXVNQngwTXZNbWVQQlJDejY3OTFyNXlQVDZhTS1abXVteTExRmFBZV9XemxVRzc1cklQaU80R09sTnJEaDdJ?oc=5",
+      "image": null,
+      "headline": "Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he's giving medals to their CEOs. - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        },
+        {
+          "d": "10-08",
+          "c": 522.61
+        }
+      ]
+    },
+    {
+      "id": "33ae1a8c5ec6010b",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T15:54:08+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 522.61,
+      "change": -1.35,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-vance-says-microsoft-is-being-suspended-from-green-card-program-for-h-1b-visa-workers",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T142744Z_2096195882_RC22ZNA56OTE_RTRMADP_3_USA-VANCE-1024x683.jpg",
+      "headline": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        },
+        {
+          "d": "10-08",
+          "c": 522.61
+        }
+      ]
+    },
+    {
+      "id": "559e5337ba8c18fe",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T15:54:08+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "is being suspended from green card program for H-1B visa workers President Donald Trump's administration is",
+      "company": "Visa",
+      "ticker": "V",
+      "price": 375.1,
+      "change": 0.81,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-vance-says-microsoft-is-being-suspended-from-green-card-program-for-h-1b-visa-workers",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T142744Z_2096195882_RC22ZNA56OTE_RTRMADP_3_USA-VANCE-1024x683.jpg",
+      "headline": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 367.39
+        },
+        {
+          "d": "09-10",
+          "c": 367.21
+        },
+        {
+          "d": "09-11",
+          "c": 370.45
+        },
+        {
+          "d": "09-14",
+          "c": 375.28
+        },
+        {
+          "d": "09-15",
+          "c": 375.62
+        },
+        {
+          "d": "09-16",
+          "c": 370.93
+        },
+        {
+          "d": "09-17",
+          "c": 369.93
+        },
+        {
+          "d": "09-18",
+          "c": 368.29
+        },
+        {
+          "d": "09-21",
+          "c": 369.95
+        },
+        {
+          "d": "09-22",
+          "c": 362.04
+        },
+        {
+          "d": "09-23",
+          "c": 361.52
+        },
+        {
+          "d": "09-24",
+          "c": 367.98
+        },
+        {
+          "d": "09-25",
+          "c": 367.38
+        },
+        {
+          "d": "09-28",
+          "c": 367.74
+        },
+        {
+          "d": "09-29",
+          "c": 365.88
+        },
+        {
+          "d": "09-30",
+          "c": 359.33
+        },
+        {
+          "d": "10-01",
+          "c": 359.85
+        },
+        {
+          "d": "10-02",
+          "c": 360.66
+        },
+        {
+          "d": "10-05",
+          "c": 369.71
+        },
+        {
+          "d": "10-06",
+          "c": 370.64
+        },
+        {
+          "d": "10-07",
+          "c": 372.1
+        },
+        {
+          "d": "10-08",
+          "c": 375.1
+        }
+      ]
+    },
+    {
+      "id": "914c6e6cd30b6a7e",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T15:47:04+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "U.S. Will Suspend Green Cards For Microsoft Workers On H1-B Visas, Vance Says - Forbes U.S. Will",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 522.61,
+      "change": -1.35,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3NjZ293ejB5NkxvSkxmMjY1MjE1STFIT1pVVWpsQ3F2WHdkMDFPcFBLYktXRXA5bGItOWttS0J0c1VhRWpJWFRDaFNxWVNIS1NaREVkUmFwMnNRQU5xRThJVFAyYnJNYmJaOXJmR1ltd2M0cjFxVGJucjFsLUozNVVfS2xIX3ZYNk5FdmNqblRpNGM1UkRhdWdndHJjQ3JWY1FiMWVpandPZ1d6dUtNbFlBdGFucGpPTm4ta0VTUHhlMXh6WEJPWUxSaVhWakQ3Z05zZDJPNA?oc=5",
+      "image": null,
+      "headline": "U.S. Will Suspend Green Cards For Microsoft Workers On H1-B Visas, Vance Says - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        },
+        {
+          "d": "10-08",
+          "c": 522.61
+        }
+      ]
+    },
+    {
+      "id": "324ec4ecf46f20d4",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T15:01:35+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Moneycontrol.com",
+      "type": "news",
+      "quote": "Trump\u2019s latest trades include stakes in Meta and SpaceX debt - Moneycontrol.com Trump\u2019s latest trades",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 720.89,
+      "change": -0.06,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTDFvaFlORDZ4MWhqSzU3WnRXTFRxdFhnY2wxdVRfQi1sZ2JVYTh4TDdXZzZGYWp0UzVCWHhsNF82T0hQWkxQY3kxTnB2SjhVSXQwOXduQlJRc2cydm5kOC1tNEJxRWRyc2FqOUczNjAtQ0s4SGVyY0RsUmZGdndLSnRuUVZhQXpGbVotU0JtdFlYMjVKaXJtbTNTdHlWTGxBVUI2ZEtoRk9zSDFFc0V0NjRnclVYa19CYjJaaEFodVlTbmPSAcgBQVVfeXFMTmlfc1FzV25fN2xqUVFIMHFIYXBCRzF4d2o0Sng4eHV2dmh1cHlqRDdsemJXQTVKeEplVHc2UlJjdjhqTTFOUHlaelkxeGd2bUtmZ1hJRHBwOUZXcmJ3dUtZV2pYLThKakhQd1JJanBmUk0yMmpNYk54TlhCTG5oOEZqMkpSWjdNRmtLZ0J6d2dZeWhobDFEbDExVnZobEFlYjNLYjN4dENyM2V3ZW1MczhPZ2NydTZkam9sYmNVb05aekVrUDhpOVM?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s latest trades include stakes in Meta and SpaceX debt - Moneycontrol.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 653.17
+        },
+        {
+          "d": "09-10",
+          "c": 643.87
+        },
+        {
+          "d": "09-11",
+          "c": 647.52
+        },
+        {
+          "d": "09-14",
+          "c": 665.08
+        },
+        {
+          "d": "09-15",
+          "c": 669.71
+        },
+        {
+          "d": "09-16",
+          "c": 672.78
+        },
+        {
+          "d": "09-17",
+          "c": 681.77
+        },
+        {
+          "d": "09-18",
+          "c": 665.23
+        },
+        {
+          "d": "09-21",
+          "c": 741.25
+        },
+        {
+          "d": "09-22",
+          "c": 736.6
+        },
+        {
+          "d": "09-23",
+          "c": 744.1
+        },
+        {
+          "d": "09-24",
+          "c": 777.59
+        },
+        {
+          "d": "09-25",
+          "c": 751.66
+        },
+        {
+          "d": "09-28",
+          "c": 715.62
+        },
+        {
+          "d": "09-29",
+          "c": 738.79
+        },
+        {
+          "d": "09-30",
+          "c": 725.18
+        },
+        {
+          "d": "10-01",
+          "c": 725.93
+        },
+        {
+          "d": "10-02",
+          "c": 728.08
+        },
+        {
+          "d": "10-05",
+          "c": 741.9
+        },
+        {
+          "d": "10-06",
+          "c": 738.88
+        },
+        {
+          "d": "10-07",
+          "c": 721.31
+        },
+        {
+          "d": "10-08",
+          "c": 720.89
+        }
+      ]
+    },
+    {
+      "id": "f1ae20bbf275db62",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T14:29:55+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "the National Medal of Science to SpaceX CEO Elon Musk, Google co-founder Sergey Brin, Nvidia CEO Jensen Huang, and Lisa",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 348.29,
+      "change": -0.63,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-trump-awards-elon-musk-the-national-medal-of-science-among-other-awards-for-tech-execs",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T190625Z_211424272_RC27ZNAR9ZEH_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "WATCH: Trump awards Elon Musk the National Medal of Science, among other awards for tech execs",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 330.65
+        },
+        {
+          "d": "09-10",
+          "c": 332.6
+        },
+        {
+          "d": "09-11",
+          "c": 338.5
+        },
+        {
+          "d": "09-14",
+          "c": 349.39
+        },
+        {
+          "d": "09-15",
+          "c": 344.98
+        },
+        {
+          "d": "09-16",
+          "c": 342.87
+        },
+        {
+          "d": "09-17",
+          "c": 347.33
+        },
+        {
+          "d": "09-18",
+          "c": 349.54
+        },
+        {
+          "d": "09-21",
+          "c": 354.97
+        },
+        {
+          "d": "09-22",
+          "c": 351.16
+        },
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        }
+      ]
+    },
+    {
+      "id": "c04ccc443f1dea6f",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T14:29:55+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "to SpaceX CEO Elon Musk, Google co-founder Sergey Brin, Nvidia CEO Jensen Huang, and Lisa Su, CEO of the semiconductor",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 230.48,
+      "change": -2.94,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-trump-awards-elon-musk-the-national-medal-of-science-among-other-awards-for-tech-execs",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T190625Z_211424272_RC27ZNAR9ZEH_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "WATCH: Trump awards Elon Musk the National Medal of Science, among other awards for tech execs",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 223.42
+        },
+        {
+          "d": "09-10",
+          "c": 218.36
+        },
+        {
+          "d": "09-11",
+          "c": 218.29
+        },
+        {
+          "d": "09-14",
+          "c": 210.96
+        },
+        {
+          "d": "09-15",
+          "c": 212.17
+        },
+        {
+          "d": "09-16",
+          "c": 213.9
+        },
+        {
+          "d": "09-17",
+          "c": 219.34
+        },
+        {
+          "d": "09-18",
+          "c": 222.27
+        },
+        {
+          "d": "09-21",
+          "c": 227.38
+        },
+        {
+          "d": "09-22",
+          "c": 228.87
+        },
+        {
+          "d": "09-23",
+          "c": 225.51
+        },
+        {
+          "d": "09-24",
+          "c": 224.58
+        },
+        {
+          "d": "09-25",
+          "c": 225.07
+        },
+        {
+          "d": "09-28",
+          "c": 228.86
+        },
+        {
+          "d": "09-29",
+          "c": 227.21
+        },
+        {
+          "d": "09-30",
+          "c": 228.38
+        },
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        }
+      ]
+    },
+    {
+      "id": "cff10356448776ba",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T13:35:00+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Breakingthenews.net",
+      "type": "news",
+      "quote": "Trump purchased up to $25M in Meta stock in August - Breakingthenews.net Trump purchased up",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 720.89,
+      "change": -0.06,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlllamloMEpiYzE4ZnBqb1lFMmJGeDR5d2JUUXB0RHgtaXdiNzBfTmlVVGlHLWZ0WEllWHdPTG5GR2pFVHlobC0wR094U1JqbDZ5UEdsS3VrOFhQSGh6eW1jLXFRLXBNbm1pa1FQSzBsbkcxM3RTLV9lemhEX0Iwbi1kNVg1TVJlRFBmbE5mVXAtdEJJYWZqa2x5WFhxU09uOWc?oc=5",
+      "image": null,
+      "headline": "Trump purchased up to $25M in Meta stock in August - Breakingthenews.net",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 653.17
+        },
+        {
+          "d": "09-10",
+          "c": 643.87
+        },
+        {
+          "d": "09-11",
+          "c": 647.52
+        },
+        {
+          "d": "09-14",
+          "c": 665.08
+        },
+        {
+          "d": "09-15",
+          "c": 669.71
+        },
+        {
+          "d": "09-16",
+          "c": 672.78
+        },
+        {
+          "d": "09-17",
+          "c": 681.77
+        },
+        {
+          "d": "09-18",
+          "c": 665.23
+        },
+        {
+          "d": "09-21",
+          "c": 741.25
+        },
+        {
+          "d": "09-22",
+          "c": 736.6
+        },
+        {
+          "d": "09-23",
+          "c": 744.1
+        },
+        {
+          "d": "09-24",
+          "c": 777.59
+        },
+        {
+          "d": "09-25",
+          "c": 751.66
+        },
+        {
+          "d": "09-28",
+          "c": 715.62
+        },
+        {
+          "d": "09-29",
+          "c": 738.79
+        },
+        {
+          "d": "09-30",
+          "c": 725.18
+        },
+        {
+          "d": "10-01",
+          "c": 725.93
+        },
+        {
+          "d": "10-02",
+          "c": 728.08
+        },
+        {
+          "d": "10-05",
+          "c": 741.9
+        },
+        {
+          "d": "10-06",
+          "c": 738.88
+        },
+        {
+          "d": "10-07",
+          "c": 721.31
+        },
+        {
+          "d": "10-08",
+          "c": 720.89
+        }
+      ]
+    },
+    {
+      "id": "5f8f4a72c97c023e",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T11:42:54+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "The Little-Noticed Exception in Trump Accounts - The New York Times The Little-Noticed Exception in Trump",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 66.6,
+      "change": 2.62,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE5qblc0bU1XY0VFMXVFVlV1U3RtSmwta0V4Z0k0QUdXQkZnRmRPb3BIWTlyam82YUxKeXRWY1VuckkzcDE2RlBkRE1JM3FNYlFueTBzNEJqZVd6T2JrWGd4QUZEcHUtTGJZeF85enBBRWc0RjYteTZJSkx1UDRoV3k2anlGZw?oc=5",
+      "image": null,
+      "headline": "The Little-Noticed Exception in Trump Accounts - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 66.36
+        },
+        {
+          "d": "09-10",
+          "c": 66.33
+        },
+        {
+          "d": "09-11",
+          "c": 66.64
+        },
+        {
+          "d": "09-14",
+          "c": 70.09
+        },
+        {
+          "d": "09-15",
+          "c": 71.45
+        },
+        {
+          "d": "09-16",
+          "c": 72.15
+        },
+        {
+          "d": "09-17",
+          "c": 69.69
+        },
+        {
+          "d": "09-18",
+          "c": 69.96
+        },
+        {
+          "d": "09-21",
+          "c": 70.28
+        },
+        {
+          "d": "09-22",
+          "c": 65.22
+        },
+        {
+          "d": "09-23",
+          "c": 61.67
+        },
+        {
+          "d": "09-24",
+          "c": 62.82
+        },
+        {
+          "d": "09-25",
+          "c": 63.6
+        },
+        {
+          "d": "09-28",
+          "c": 63.94
+        },
+        {
+          "d": "09-29",
+          "c": 62.1
+        },
+        {
+          "d": "09-30",
+          "c": 63.47
+        },
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        }
+      ]
+    },
     {
       "id": "d1c5588a3cbbc0aa",
       "date": "Thu, 08 Oct 2026",
@@ -37087,1406 +38491,6 @@
         {
           "d": "08-24",
           "c": 122.74
-        }
-      ]
-    },
-    {
-      "id": "82ee18c93a717a13",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T01:40:48+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "finance.biggo.com",
-      "type": "news",
-      "quote": "Made More Than 1,000 Trades in June, Including SpaceX and Palantir - finance.biggo.com Trump Made More Than 1,000 Trades in",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 179.94,
-      "change": 3.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82VUNKOURuTVJrTkVvY1djSGNmcGQ2bVZQUFFfTXplNzJyMGJvZW01V1c2NVVOVzlkWmpNU2tuVzVxbDdOR0hUNmdEZlc0TlVKelRud0NibnZTYzNjdXA1b3BUSUk2MFZMRVBwWXlEc3hFUFV1M3c?oc=5",
-      "image": null,
-      "headline": "Trump Made More Than 1,000 Trades in June, Including SpaceX and Palantir - finance.biggo.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 123.37
-        },
-        {
-          "d": "07-24",
-          "c": 122.92
-        },
-        {
-          "d": "07-27",
-          "c": 131.53
-        },
-        {
-          "d": "07-28",
-          "c": 123.53
-        },
-        {
-          "d": "07-29",
-          "c": 123.0
-        },
-        {
-          "d": "07-30",
-          "c": 122.26
-        },
-        {
-          "d": "07-31",
-          "c": 123.06
-        },
-        {
-          "d": "08-03",
-          "c": 125.65
-        },
-        {
-          "d": "08-04",
-          "c": 162.66
-        },
-        {
-          "d": "08-05",
-          "c": 158.43
-        },
-        {
-          "d": "08-06",
-          "c": 155.92
-        },
-        {
-          "d": "08-07",
-          "c": 172.01
-        },
-        {
-          "d": "08-10",
-          "c": 175.23
-        },
-        {
-          "d": "08-11",
-          "c": 174.94
-        },
-        {
-          "d": "08-12",
-          "c": 171.04
-        },
-        {
-          "d": "08-13",
-          "c": 179.01
-        },
-        {
-          "d": "08-14",
-          "c": 174.04
-        },
-        {
-          "d": "08-17",
-          "c": 172.55
-        },
-        {
-          "d": "08-18",
-          "c": 171.54
-        },
-        {
-          "d": "08-19",
-          "c": 175.19
-        },
-        {
-          "d": "08-20",
-          "c": 173.96
-        },
-        {
-          "d": "08-21",
-          "c": 179.94
-        }
-      ]
-    },
-    {
-      "id": "149bbec39417326f",
-      "date": "Sun, 23 Aug 2026",
-      "ts": "2026-08-23T19:34:55+00:00",
-      "date_display": "Aug 23, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "in November The meeting, first reported Sunday by The New York Times, touched on issues ranging from housing, immigration to",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.69,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/jared-kushner-and-democratic-leader-jeffries-meet-with-house-control-at-stake-in-november",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2025-05-06T214109Z_574141469_RC2LCEA8PZ99_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "headline": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        }
-      ]
-    },
-    {
-      "id": "723f2e68f2ce9cda",
-      "date": "Sun, 23 Aug 2026",
-      "ts": "2026-08-23T15:46:17+00:00",
-      "date_display": "Aug 23, 2026",
-      "source": "Forbes",
-      "type": "news",
-      "quote": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades -",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 179.94,
-      "change": 3.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5",
-      "image": null,
-      "headline": "Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 123.37
-        },
-        {
-          "d": "07-24",
-          "c": 122.92
-        },
-        {
-          "d": "07-27",
-          "c": 131.53
-        },
-        {
-          "d": "07-28",
-          "c": 123.53
-        },
-        {
-          "d": "07-29",
-          "c": 123.0
-        },
-        {
-          "d": "07-30",
-          "c": 122.26
-        },
-        {
-          "d": "07-31",
-          "c": 123.06
-        },
-        {
-          "d": "08-03",
-          "c": 125.65
-        },
-        {
-          "d": "08-04",
-          "c": 162.66
-        },
-        {
-          "d": "08-05",
-          "c": 158.43
-        },
-        {
-          "d": "08-06",
-          "c": 155.92
-        },
-        {
-          "d": "08-07",
-          "c": 172.01
-        },
-        {
-          "d": "08-10",
-          "c": 175.23
-        },
-        {
-          "d": "08-11",
-          "c": 174.94
-        },
-        {
-          "d": "08-12",
-          "c": 171.04
-        },
-        {
-          "d": "08-13",
-          "c": 179.01
-        },
-        {
-          "d": "08-14",
-          "c": 174.04
-        },
-        {
-          "d": "08-17",
-          "c": 172.55
-        },
-        {
-          "d": "08-18",
-          "c": 171.54
-        },
-        {
-          "d": "08-19",
-          "c": 175.19
-        },
-        {
-          "d": "08-20",
-          "c": 173.96
-        },
-        {
-          "d": "08-21",
-          "c": 179.94
-        }
-      ]
-    },
-    {
-      "id": "c70f0f3c31f4496b",
-      "date": "Sun, 23 Aug 2026",
-      "ts": "2026-08-23T15:46:17+00:00",
-      "date_display": "Aug 23, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Made Big Stock Trades In SpaceX, Palantir And Tech Companies In June - Yahoo Finance Trump Made Big",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 175.89,
-      "change": -2.25,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGRxTmNBek9ycmxUQTV6QWJQMGp2MEVMbFQ2WU5EcUcyS0E1VmFHajZzUnFIMFFDeEdjc1lpcTVTS0lLd2wtT29Kc0NaQkVQMUs3cFpDOGdST1lWQnFZVjFnY0ptUVBwMldnNWJ1NVhjanhoNnpTbG5kZjRiZ3V4UzFORWpBUDJ3eDFYWEs1S0xMZi1hZkl3?oc=5",
-      "image": null,
-      "headline": "Trump Made Big Stock Trades In SpaceX, Palantir And Tech Companies In June - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 131.53
-        },
-        {
-          "d": "07-28",
-          "c": 123.53
-        },
-        {
-          "d": "07-29",
-          "c": 123.0
-        },
-        {
-          "d": "07-30",
-          "c": 122.26
-        },
-        {
-          "d": "07-31",
-          "c": 123.06
-        },
-        {
-          "d": "08-03",
-          "c": 125.65
-        },
-        {
-          "d": "08-04",
-          "c": 162.66
-        },
-        {
-          "d": "08-05",
-          "c": 158.43
-        },
-        {
-          "d": "08-06",
-          "c": 155.92
-        },
-        {
-          "d": "08-07",
-          "c": 172.01
-        },
-        {
-          "d": "08-10",
-          "c": 175.23
-        },
-        {
-          "d": "08-11",
-          "c": 174.94
-        },
-        {
-          "d": "08-12",
-          "c": 171.04
-        },
-        {
-          "d": "08-13",
-          "c": 179.01
-        },
-        {
-          "d": "08-14",
-          "c": 174.04
-        },
-        {
-          "d": "08-17",
-          "c": 172.55
-        },
-        {
-          "d": "08-18",
-          "c": 171.54
-        },
-        {
-          "d": "08-19",
-          "c": 175.19
-        },
-        {
-          "d": "08-20",
-          "c": 173.96
-        },
-        {
-          "d": "08-21",
-          "c": 179.94
-        },
-        {
-          "d": "08-24",
-          "c": 175.89
-        }
-      ]
-    },
-    {
-      "id": "383b00b32193af48",
-      "date": "Sun, 23 Aug 2026",
-      "ts": "2026-08-23T15:21:21+00:00",
-      "date_display": "Aug 23, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Trump will kick off the IndyCar race before cars zoom through Washington's streets \"Their beautiful cars are",
-      "company": "Zoom",
-      "ticker": "ZM",
-      "price": 107.43,
-      "change": 1.06,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T135549Z_1110979968_RC2D4NAT7MLT_RTRMADP_3_USA-250-GRAND-PRIX-1024x683.jpg",
-      "headline": "Trump will kick off the IndyCar race before cars zoom through Washington's streets",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 84.11
-        },
-        {
-          "d": "07-24",
-          "c": 87.99
-        },
-        {
-          "d": "07-27",
-          "c": 91.22
-        },
-        {
-          "d": "07-28",
-          "c": 91.48
-        },
-        {
-          "d": "07-29",
-          "c": 92.41
-        },
-        {
-          "d": "07-30",
-          "c": 92.32
-        },
-        {
-          "d": "07-31",
-          "c": 96.07
-        },
-        {
-          "d": "08-03",
-          "c": 98.25
-        },
-        {
-          "d": "08-04",
-          "c": 102.12
-        },
-        {
-          "d": "08-05",
-          "c": 100.64
-        },
-        {
-          "d": "08-06",
-          "c": 101.3
-        },
-        {
-          "d": "08-07",
-          "c": 104.5
-        },
-        {
-          "d": "08-10",
-          "c": 107.2
-        },
-        {
-          "d": "08-11",
-          "c": 106.06
-        },
-        {
-          "d": "08-12",
-          "c": 105.13
-        },
-        {
-          "d": "08-13",
-          "c": 109.84
-        },
-        {
-          "d": "08-14",
-          "c": 105.96
-        },
-        {
-          "d": "08-17",
-          "c": 105.56
-        },
-        {
-          "d": "08-18",
-          "c": 104.71
-        },
-        {
-          "d": "08-19",
-          "c": 107.47
-        },
-        {
-          "d": "08-20",
-          "c": 106.3
-        },
-        {
-          "d": "08-21",
-          "c": 107.43
-        }
-      ]
-    },
-    {
-      "id": "0f7a70a6c9451ada",
-      "date": "Sun, 23 Aug 2026",
-      "ts": "2026-08-23T15:21:21+00:00",
-      "date_display": "Aug 23, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "waves the green flag to start the IndyCar race as racers zoom through Washington's streets The open-wheel race, with",
-      "company": "Zoom",
-      "ticker": "ZM",
-      "price": 107.43,
-      "change": 1.06,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T135549Z_1110979968_RC2D4NAT7MLT_RTRMADP_3_USA-250-GRAND-PRIX-1024x683.jpg",
-      "headline": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 84.11
-        },
-        {
-          "d": "07-24",
-          "c": 87.99
-        },
-        {
-          "d": "07-27",
-          "c": 91.22
-        },
-        {
-          "d": "07-28",
-          "c": 91.48
-        },
-        {
-          "d": "07-29",
-          "c": 92.41
-        },
-        {
-          "d": "07-30",
-          "c": 92.32
-        },
-        {
-          "d": "07-31",
-          "c": 96.07
-        },
-        {
-          "d": "08-03",
-          "c": 98.25
-        },
-        {
-          "d": "08-04",
-          "c": 102.12
-        },
-        {
-          "d": "08-05",
-          "c": 100.64
-        },
-        {
-          "d": "08-06",
-          "c": 101.3
-        },
-        {
-          "d": "08-07",
-          "c": 104.5
-        },
-        {
-          "d": "08-10",
-          "c": 107.2
-        },
-        {
-          "d": "08-11",
-          "c": 106.06
-        },
-        {
-          "d": "08-12",
-          "c": 105.13
-        },
-        {
-          "d": "08-13",
-          "c": 109.84
-        },
-        {
-          "d": "08-14",
-          "c": 105.96
-        },
-        {
-          "d": "08-17",
-          "c": 105.56
-        },
-        {
-          "d": "08-18",
-          "c": 104.71
-        },
-        {
-          "d": "08-19",
-          "c": 107.47
-        },
-        {
-          "d": "08-20",
-          "c": 106.3
-        },
-        {
-          "d": "08-21",
-          "c": 107.43
-        }
-      ]
-    },
-    {
-      "id": "324aa3398c42ac44",
-      "date": "Sat, 22 Aug 2026",
-      "ts": "2026-08-22T16:10:30+00:00",
-      "date_display": "Aug 22, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Fires Top Journalists at Military News Outlet - The New York Times Trump Administration Updates: Pentagon Fires Top",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.69,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRX3NjQnB5X3RNUl83Z3FiZ2M2TUhwRFNFbENBNVRjWXpCSUJLclpFUHJFd2lOcklEYk1vMTM1VVRwcURDbXlYSGdsdjhLdkd0VGN1em5rQnB0X1Jlb1V6MkRsOA?oc=5",
-      "image": null,
-      "headline": "Trump Administration Updates: Pentagon Fires Top Journalists at Military News Outlet - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        }
-      ]
-    },
-    {
-      "id": "3e7f0fcb343ecd3a",
-      "date": "Sat, 22 Aug 2026",
-      "ts": "2026-08-22T12:34:00+00:00",
-      "date_display": "Aug 22, 2026",
-      "source": "foreignpolicyjournal.com",
-      "type": "news",
-      "quote": "Trump Media & Technology Group (NASDAQ: DJT) Faces New Investor",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": 6.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSExvbUl4ZUlQa0pRQVhkVFowc2pEaDBSWEh0TU5NaHoxWEJhUE5UQlFPMkNPeVpFd3hTVkNYQnc3SkluSW84OEtFVHh0QjNlS1AzRXpDUF91UFkwd1BQd1ZFN1JoVFlRcENCR0x5SFhySWlSeFdWZXN6d2pDdVlvXzdiaHAzWXJvZ3BLSXNpTFRGMklXWU5FV0xiTjZBQ056WHM1TjdSczAxbFFpaXhGV2xsLVBSNGR3V2dUNWZkVmxTTHZySVdWYldSb1BwLThnQ2F0cS1oR3ZFT29VUElhZ3BmUzd1THdidUxqTGlVOHA5bEVqZ0E?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (NASDAQ: DJT) Faces New Investor Questions As Canada Tariff Pause Reshapes Trade Outlook - foreignpolicyjournal.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        }
-      ]
-    },
-    {
-      "id": "ea37f6dd05384071",
-      "date": "Sat, 22 Aug 2026",
-      "ts": "2026-08-22T07:12:01+00:00",
-      "date_display": "Aug 22, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "White House Ballroom Construction News and More - The New York Times Trump Live Updates: Canada Tariff Deadline, White House",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.69,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRX3NjQnB5X3RNUl83Z3FiZ2M2TUhwRFNFbENBNVRjWXpCSUJLclpFUHJFd2lOcklEYk1vMTM1VVRwcURDbXlYSGdsdjhLdkd0VGN1em5rQnB0X1Jlb1V6MkRsOA?oc=5",
-      "image": null,
-      "headline": "Trump Live Updates: Canada Tariff Deadline, White House Ballroom Construction News and More - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        }
-      ]
-    },
-    {
-      "id": "4bfb1e1811d6cb79",
-      "date": "Sat, 22 Aug 2026",
-      "ts": "2026-08-22T04:33:00+00:00",
-      "date_display": "Aug 22, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "retaliation against Trump's 50% tariffs - Fox Business US-Canada trade negotiations suspended, Carney",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.05,
-      "change": 0.99,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb2FmbmxKMGdFcjY4cHNjYkd1RkFoZi1pZTZzS1Q5TTJBMkR1eTJpODF0Z2VLRlhtN0M2MlFXTWFLMjFpa3dKX2ZRWjQ0REZDaEJrTmY2WURUUHhNS3Y1MzNnZ2pLaHdObDkxaC1aamVGMVZWSlUtUE9nb2I3WkxETGF1M1FyR05NbVc2TlotOFZTN3BsaVgwVm5uT3RqTGtpTElsU3FPWXBrSVduSTBJaExzdEdYeko5MmFmTUpuMVdqX0JnYndacURrZnY1Q1htYTdzZ0NOMExlZ9IB3wFBVV95cUxOdVBSUDNnN0ZvMGlDd2Q1VUJSZWdrVlBreDRMOERDZ0dYOWd2NDUwSVhFajhnUHEySWx2UDhnMkQ2cUJIRXEzYURKLU1OMkpHbnZMU0ZvQUdLRHdjMzdPeEF4WldLNnctY3NheVNkUC04b3pzclRpbm41Q2FXOG12RTdLWi02MG5Nb0J5QU1MYU1TQU9mMUtod3ZHSnJXb2dKSUF3ODViZ3RKMlJHdGZzNklQc0x5TEZ5TUFKTTBFbS1ieHJ3X05HZWlhZkxtamg0OEp5Q2haRG1nNEM1YWlB?oc=5",
-      "image": null,
-      "headline": "US-Canada trade negotiations suspended, Carney vows dollar-for-dollar retaliation against Trump's 50% tariffs - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        }
-      ]
-    },
-    {
-      "id": "913d2140843df2f8",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T22:40:11+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood The",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 28.55,
-      "change": 1.13,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/paramounts-warner-bros-bid-and-threat-to-leave-california-divide-hollywood",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hollywood-1024x683.jpg",
-      "headline": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 25.95
-        },
-        {
-          "d": "07-24",
-          "c": 25.77
-        },
-        {
-          "d": "07-27",
-          "c": 25.28
-        },
-        {
-          "d": "07-28",
-          "c": 25.61
-        },
-        {
-          "d": "07-29",
-          "c": 25.64
-        },
-        {
-          "d": "07-30",
-          "c": 25.47
-        },
-        {
-          "d": "07-31",
-          "c": 26.3
-        },
-        {
-          "d": "08-03",
-          "c": 26.09
-        },
-        {
-          "d": "08-04",
-          "c": 25.79
-        },
-        {
-          "d": "08-05",
-          "c": 25.97
-        },
-        {
-          "d": "08-06",
-          "c": 26.4
-        },
-        {
-          "d": "08-07",
-          "c": 26.78
-        },
-        {
-          "d": "08-10",
-          "c": 26.87
-        },
-        {
-          "d": "08-11",
-          "c": 27.07
-        },
-        {
-          "d": "08-12",
-          "c": 27.65
-        },
-        {
-          "d": "08-13",
-          "c": 27.75
-        },
-        {
-          "d": "08-14",
-          "c": 27.99
-        },
-        {
-          "d": "08-17",
-          "c": 27.93
-        },
-        {
-          "d": "08-18",
-          "c": 28.48
-        },
-        {
-          "d": "08-19",
-          "c": 28.53
-        },
-        {
-          "d": "08-20",
-          "c": 28.23
-        },
-        {
-          "d": "08-21",
-          "c": 28.55
-        }
-      ]
-    },
-    {
-      "id": "40ffcdf6ad6dc9b0",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T22:40:11+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Paramount's Warner Bros. bid and threat to leave California divide",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 1.3,
-      "change": -6.47,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/show/paramounts-warner-bros-bid-and-threat-to-leave-california-divide-hollywood",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hollywood-1024x683.jpg",
-      "headline": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 2.23
-        },
-        {
-          "d": "07-24",
-          "c": 2.2
-        },
-        {
-          "d": "07-27",
-          "c": 2.12
-        },
-        {
-          "d": "07-28",
-          "c": 1.91
-        },
-        {
-          "d": "07-29",
-          "c": 1.75
-        },
-        {
-          "d": "07-30",
-          "c": 1.82
-        },
-        {
-          "d": "07-31",
-          "c": 1.85
-        },
-        {
-          "d": "08-03",
-          "c": 1.94
-        },
-        {
-          "d": "08-04",
-          "c": 1.9
-        },
-        {
-          "d": "08-05",
-          "c": 1.77
-        },
-        {
-          "d": "08-06",
-          "c": 1.91
-        },
-        {
-          "d": "08-07",
-          "c": 1.76
-        },
-        {
-          "d": "08-10",
-          "c": 1.66
-        },
-        {
-          "d": "08-11",
-          "c": 1.7
-        },
-        {
-          "d": "08-12",
-          "c": 1.74
-        },
-        {
-          "d": "08-13",
-          "c": 1.7
-        },
-        {
-          "d": "08-14",
-          "c": 1.7
-        },
-        {
-          "d": "08-17",
-          "c": 1.45
-        },
-        {
-          "d": "08-18",
-          "c": 1.36
-        },
-        {
-          "d": "08-19",
-          "c": 1.43
-        },
-        {
-          "d": "08-20",
-          "c": 1.39
-        },
-        {
-          "d": "08-21",
-          "c": 1.3
-        }
-      ]
-    },
-    {
-      "id": "0edf24997c8188d7",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T22:15:39+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "actress Poorna Jagannathan is known for her roles in the Netflix coming-of-age series \"Never Have I Ever\" and the Hulu",
-      "company": "Netflix",
-      "ticker": "NFLX",
-      "price": 79.59,
-      "change": -0.69,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/show/poorna-jagannathan-and-amna-nawaz-discuss-representation-in-hollywood-on-settle-in",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/settlein-1-1024x576.jpg",
-      "headline": "Poorna Jagannathan and Amna Nawaz discuss representation in Hollywood on 'Settle In'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 68.89
-        },
-        {
-          "d": "07-24",
-          "c": 70.09
-        },
-        {
-          "d": "07-27",
-          "c": 70.4
-        },
-        {
-          "d": "07-28",
-          "c": 72.39
-        },
-        {
-          "d": "07-29",
-          "c": 73.63
-        },
-        {
-          "d": "07-30",
-          "c": 73.17
-        },
-        {
-          "d": "07-31",
-          "c": 71.71
-        },
-        {
-          "d": "08-03",
-          "c": 73.33
-        },
-        {
-          "d": "08-04",
-          "c": 73.57
-        },
-        {
-          "d": "08-05",
-          "c": 74.2
-        },
-        {
-          "d": "08-06",
-          "c": 73.69
-        },
-        {
-          "d": "08-07",
-          "c": 74.14
-        },
-        {
-          "d": "08-10",
-          "c": 76.29
-        },
-        {
-          "d": "08-11",
-          "c": 74.79
-        },
-        {
-          "d": "08-12",
-          "c": 74.21
-        },
-        {
-          "d": "08-13",
-          "c": 78.24
-        },
-        {
-          "d": "08-14",
-          "c": 78.16
-        },
-        {
-          "d": "08-17",
-          "c": 76.02
-        },
-        {
-          "d": "08-18",
-          "c": 77.77
-        },
-        {
-          "d": "08-19",
-          "c": 80.22
-        },
-        {
-          "d": "08-20",
-          "c": 80.14
-        },
-        {
-          "d": "08-21",
-          "c": 79.59
         }
       ]
     }
