@@ -1,7 +1,773 @@
 {
-  "updated_at": "2026-10-07T21:41:24.433668+00:00",
+  "updated_at": "2026-10-08T01:25:00.813548+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "dc1fe6f739f6e71f",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T23:54:38+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "NOTUS",
+      "type": "news",
+      "quote": "Judge Weighs Whether to Block Some Trump Truth Social Posts - NOTUS Judge Weighs Whether to Block Some Trump",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.65,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1leERva0UyTnVkUkJtRUZKZ1A4MW9Va2xsTHpRZ3h4MVA4aTlWSWI4ckVPV0hfU1FjeGhTMVFHUUx1MHVVcEk4V2VlZmZkMEJtQkhWMWc1LS1xTE1GUTcxV3VqREhERTgzRzg5Rw?oc=5",
+      "image": null,
+      "headline": "Judge Weighs Whether to Block Some Trump Truth Social Posts - NOTUS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        }
+      ]
+    },
+    {
+      "id": "20a3fd684e52abd0",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T23:54:38+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "NOTUS",
+      "type": "news",
+      "quote": "Judge Weighs Whether to Block Some Trump Truth Social Posts - NOTUS Judge Weighs Whether",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1leERva0UyTnVkUkJtRUZKZ1A4MW9Va2xsTHpRZ3h4MVA4aTlWSWI4ckVPV0hfU1FjeGhTMVFHUUx1MHVVcEk4V2VlZmZkMEJtQkhWMWc1LS1xTE1GUTcxV3VqREhERTgzRzg5Rw?oc=5",
+      "image": null,
+      "headline": "Judge Weighs Whether to Block Some Trump Truth Social Posts - NOTUS",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "271f198285bfd80d",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T22:35:48+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "midterm elections cycle. To discuss each party's closing strategy, Amna Nawaz sat down with Democratic strategist Faiz",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 164.55,
+      "change": 0.07,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/show/republican-and-democratic-strategists-on-closing-messages-and-where-they-expect-to-win",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/votedis-1024x576.jpg",
+      "headline": "Republican and Democratic strategists on closing messages and where they expect to win",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 136.52
+        },
+        {
+          "d": "09-09",
+          "c": 132.7
+        },
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.61
+        },
+        {
+          "d": "09-25",
+          "c": 158.61
+        },
+        {
+          "d": "09-28",
+          "c": 157.14
+        },
+        {
+          "d": "09-29",
+          "c": 154.67
+        },
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        }
+      ]
+    },
+    {
+      "id": "955036b0bffc9c57",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T22:03:34+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "Courthouse News",
+      "type": "news",
+      "quote": "DOJ defends Trump charging $100K for early access to Truth Social posts - Courthouse News DOJ defends Trump charging $100K",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.65,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYW1UQ29HdkppZzMxN0VGYXdQNTRldVgycEV3Zi1wWklERzYwX2lUM2VLQ09ySHRhWnc3WVRsd3ZFd3U1N2NZSmZIRThCNHRsaWhTMFpseGtpUUZUQ2M3MnI0cEZsTThQdmlsbXFiRk5sXzFzalNfN2gzTWxiR1UxU2dlYkJyUWNTZTlnY2h1eU5qZ2cwYUJvLVc5M2xBV2lPdkJVUw?oc=5",
+      "image": null,
+      "headline": "DOJ defends Trump charging $100K for early access to Truth Social posts - Courthouse News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        }
+      ]
+    },
+    {
+      "id": "8ca3532d0efa1103",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T20:44:33+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "www.washingtonsun.com",
+      "type": "news",
+      "quote": "House Social Media Guru Earned at Least $1 Million From a Trump Media Investment - www.washingtonsun.com White House Social",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 8.65,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEg1clBMdG44a2JCdlFSakhsTE81alZLNEw1Wmp0TkdGd2pnNi1UN1NTMkV1NW9BV2dkaDI0UkNCSVVoTUlrMThwakw2RVZPLVdIVEhQSFN5ODlVU3Uta0Yyc2ZyNzhuSGRMRFV1UDVmcnJUUDJ1c0lrM25MXzZJU0Yzd3UwVk1zbXlHdi1XVEpNTjRWeW1ydDZtc203TlNueDlhcms1ZU8?oc=5",
+      "image": null,
+      "headline": "White House Social Media Guru Earned at Least $1 Million From a Trump Media Investment - www.washingtonsun.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        }
+      ]
+    },
+    {
+      "id": "ceec769b3c3b07d2",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T19:10:58+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "Fast Company",
+      "type": "news",
+      "quote": "Why Trump\u2019s use of a trans slur on Truth Social is even more insidious than it seems - Fast Company Why",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.65,
+      "change": 0.23,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUk5VUWZKb1NLUXdFZ2ZvaWFJWXNndTJESVJtOTY4Ym9aTGRhVjVvd2RNcW42ODdUVkt6NXRGeTNQR1VxYVBpU0dzWmIwS1V2NzFobGZvM29MNFpXd1ZXU0Q3OVdlSXlMZnJjT2RXaTNuNC1aemRsQVBoTTNVMFE?oc=5",
+      "image": null,
+      "headline": "Why Trump\u2019s use of a trans slur on Truth Social is even more insidious than it seems - Fast Company",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        }
+      ]
+    },
+    {
+      "id": "dfb6fd20dc4d4816",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T17:35:23+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't Want to",
+      "company": "Warner Bros",
+      "ticker": "WBD",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTlpSDI1NEhfUG10dHNFdUk4ZVFoaVpwaWpzLS1Bb1hrc0VNdUlEMHpZcGtZZXNQREs1aHdTNU96MDl6NGFZV3RxcnMySzlEV2xGZDc1WWxkWlBpRFEwWEtZcVA2RUJaOGRhZ1lQMGNwcUhqMUR1QVhTWF9NRHFlTWVZUWZZQkpNRG00WkpoVVQ1SGpIdWsya0Z3aGhpWDc3RFpiMXlBd0dwWk41U3NDMldHVmdvTWhnS0xkY0g0N21QY0ZoeTJBZkRDQmxMOUV2alY0VWRuT2JBbjBKdlRpMElER185NDJMbnozWTJmSnE?oc=5",
+      "image": null,
+      "headline": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't Want to Politicize\u2019 - TradingView",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "30dad1668ecff7fd",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T17:35:23+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't",
+      "company": "Paramount",
+      "ticker": "PARA",
+      "price": 0.67,
+      "change": 13.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTlpSDI1NEhfUG10dHNFdUk4ZVFoaVpwaWpzLS1Bb1hrc0VNdUlEMHpZcGtZZXNQREs1aHdTNU96MDl6NGFZV3RxcnMySzlEV2xGZDc1WWxkWlBpRFEwWEtZcVA2RUJaOGRhZ1lQMGNwcUhqMUR1QVhTWF9NRHFlTWVZUWZZQkpNRG00WkpoVVQ1SGpIdWsya0Z3aGhpWDc3RFpiMXlBd0dwWk41U3NDMldHVmdvTWhnS0xkY0g0N21QY0ZoeTJBZkRDQmxMOUV2alY0VWRuT2JBbjBKdlRpMElER185NDJMbnozWTJmSnE?oc=5",
+      "image": null,
+      "headline": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't Want to Politicize\u2019 - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 1.05
+        },
+        {
+          "d": "09-09",
+          "c": 1.06
+        },
+        {
+          "d": "09-10",
+          "c": 0.98
+        },
+        {
+          "d": "09-11",
+          "c": 1.0
+        },
+        {
+          "d": "09-14",
+          "c": 1.01
+        },
+        {
+          "d": "09-15",
+          "c": 1.0
+        },
+        {
+          "d": "09-16",
+          "c": 0.97
+        },
+        {
+          "d": "09-17",
+          "c": 0.93
+        },
+        {
+          "d": "09-18",
+          "c": 0.93
+        },
+        {
+          "d": "09-21",
+          "c": 0.92
+        },
+        {
+          "d": "09-22",
+          "c": 0.88
+        },
+        {
+          "d": "09-23",
+          "c": 0.88
+        },
+        {
+          "d": "09-24",
+          "c": 0.82
+        },
+        {
+          "d": "09-25",
+          "c": 0.7
+        },
+        {
+          "d": "09-28",
+          "c": 0.7
+        },
+        {
+          "d": "09-29",
+          "c": 0.69
+        },
+        {
+          "d": "09-30",
+          "c": 0.65
+        },
+        {
+          "d": "10-01",
+          "c": 0.58
+        },
+        {
+          "d": "10-02",
+          "c": 0.52
+        },
+        {
+          "d": "10-05",
+          "c": 0.59
+        },
+        {
+          "d": "10-06",
+          "c": 0.67
+        }
+      ]
+    },
+    {
+      "id": "55bd5e9c858ad504",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T14:49:06+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "American taxpayer stake in new $6.6B submarine deal - Fox News Trump reveals surprise American taxpayer stake in new",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.58,
+      "change": -1.98,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQU40b0FzZktadXNmNFJtV3c2SmdUa1o3MTl5LTRxdmRZX0FoNmdRRXVEc2Rqak4yTEt1VDlqU2JkODVLeVp6ZXRKZ1ctX3YwOEpnYjhYX1BXVEgtbWlWbzhBWDhMenVMLVRDblNLS2pFbGVXM3FTNXNHa1kxY0RReGlCQ2FWYjlDcnNiUlVabkhydzNZZzVDNG1rajVfRzV1eEZHQ0pn0gGrAUFVX3lxTE8waWxabGVnS1hiamJzdDZ6bnRqbEN2cDc1YV9maHNGNmVaZEtFeXU4VHRoWUhibTlmZTFNNER1TDdreDRRaVI2ZHpMdmtEWXBXd25FU213cEszd1poN0RDT0VDUnk4TF9nVldUOXltWDlJTXprb2NSUEZmSE5iQmxpNkZhMnN6ZFFHcTQ2MnhjMnhXbUpZb1NGem9VZ0hmazNrV3AzdnhBUy1qaw?oc=5",
+      "image": null,
+      "headline": "Trump reveals surprise American taxpayer stake in new $6.6B submarine deal - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        }
+      ]
+    },
     {
       "id": "6d309556dd3a99b3",
       "date": "Wed, 07 Oct 2026",
@@ -1039,6 +1805,110 @@
         {
           "d": "10-07",
           "c": 55.97
+        }
+      ]
+    },
+    {
+      "id": "1e405c07c1c02076",
+      "date": "Tue, 06 Oct 2026",
+      "ts": "2026-10-06T13:01:00+00:00",
+      "date_display": "Oct 06, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Act for new Alaska power grid project touted by Vance - Fox Business Trump admin invoking Defense Production Act for",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.58,
+      "change": -1.98,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVRyRkdTS0R0eHJBTl9HMl9kOTFRWFNmSjVMMXVNOEhBeEtaRWpMTEpIVWNqMW5UMUJzcEtzb29LVDRvdXp5SjBTMDl2Z1J4MldRNU05b0htTG81a0toM2pwcXRuY0ltTklaRE1mZE4wclhmVzNSMDQzcEc4bVJHc1Rydl9GZXVCQzhkU0VBTGp5QjVxMUh4WFJRbW9hNURzRXVwWW1FLVQ1bXlwSEVXLTF1c0RpUUlpRFF5QXVTMFXSAcYBQVVfeXFMUG5fM0piaGNid3JQMXdKbVNScnBfMkJZV0dacnA2SWFBS1JEM0Fqc1dObDBVZXpoLVZGZlRuaF9iMDJDU2hZaEhzdkg1Q3JMUXJVUy1mcXQzck1TU2cxVklwSmlkWXZGc1MzV2dBemNOTmVpaHc4b2tiOGMzR0pkYUNkaWIzeXNRYVZodHFOZHlDSGxlbkhlOFFGQl8zQXl3V0pUeWZPOHpIdEUybEVKLXd1aG5YencwOFNYbkFTQlgzalk2Zy1B?oc=5",
+      "image": null,
+      "headline": "Trump admin invoking Defense Production Act for new Alaska power grid project touted by Vance - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 58.24
+        },
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
         }
       ]
     },
@@ -37617,1078 +38487,6 @@
         {
           "d": "08-21",
           "c": 5.22
-        }
-      ]
-    },
-    {
-      "id": "16d6e7133000aa60",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T12:51:00+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Trump\u2019s \u2018Do Magnets\u2019 Push Could Spark the Next Intel-Style Rally \u2014 2 Stocks to Watch (UPDATED) - Benzinga",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 90.07,
-      "change": -2.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbFVTUVBPNC01UHNhcHhvRkxHdGNveFJIU0tQUTJsdmlBQWpYU2ZQLU1mMmpoWnlwdzBpRXJ4ZUdBZUFVZ0lKcE4xbk13UXJwai1LMGhvMFQwdVJnUkRVcWFKanhEbGw3VjIybWs2SmU0S25UelNMMlk5RlFNYV9qYkk2ZnN1MGcxT3hWTWt4Q1RvTTFBUXJOcl80dExndkJ0aExLcTFWakV4ZDRNa2xpTTNPaDJJbXdmV0gtRHV6MzVCa2cyckVSUjFMM1FsVVMz?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s \u2018Do Magnets\u2019 Push Could Spark the Next Intel-Style Rally \u2014 2 Stocks to Watch (UPDATED) - Benzinga",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 100.23
-        },
-        {
-          "d": "07-24",
-          "c": 92.32
-        },
-        {
-          "d": "07-27",
-          "c": 91.67
-        },
-        {
-          "d": "07-28",
-          "c": 86.3
-        },
-        {
-          "d": "07-29",
-          "c": 81.88
-        },
-        {
-          "d": "07-30",
-          "c": 91.13
-        },
-        {
-          "d": "07-31",
-          "c": 90.2
-        },
-        {
-          "d": "08-03",
-          "c": 91.0
-        },
-        {
-          "d": "08-04",
-          "c": 100.86
-        },
-        {
-          "d": "08-05",
-          "c": 101.06
-        },
-        {
-          "d": "08-06",
-          "c": 99.81
-        },
-        {
-          "d": "08-07",
-          "c": 101.65
-        },
-        {
-          "d": "08-10",
-          "c": 97.52
-        },
-        {
-          "d": "08-11",
-          "c": 97.71
-        },
-        {
-          "d": "08-12",
-          "c": 100.95
-        },
-        {
-          "d": "08-13",
-          "c": 104.56
-        },
-        {
-          "d": "08-14",
-          "c": 102.5
-        },
-        {
-          "d": "08-17",
-          "c": 103.49
-        },
-        {
-          "d": "08-18",
-          "c": 96.69
-        },
-        {
-          "d": "08-19",
-          "c": 92.8
-        },
-        {
-          "d": "08-20",
-          "c": 92.13
-        },
-        {
-          "d": "08-21",
-          "c": 90.07
-        }
-      ]
-    },
-    {
-      "id": "5dc7c2a83c2e4e4d",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T12:15:10+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "or mayor should want to welcome an AI data center - Fox Business Trump says any governor or mayor should want to",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.05,
-      "change": 0.99,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHllWEo0SEhkQU5PTHJwYWJ1RG5ibWdRQm43NUFMV2hMMWR1R1BzWUpHLVdIZ3dLdEJPSEhSdDlsR04wR2kzd1JYMVh1d3ZTUUExaUVxWHFKYm5Id2dnM3JPMVJ6S2pCbjZpMWdlVEZuT25jU29iZ3RkSVd0R0lkV09ZSU82aE41dTl3YTZpY1dhNjFjSTRZODFwMEZJQXNFaHBn0gGoAUFVX3lxTE80X2psamtyXzlBSWZzODBrVkJoanMzY2MtbElJLXZpUXE4ZjJlWFYyZ0lpS0hiZ2ZiTHoxdmp4NUhPYTNtWFFOT2JKbVdpMjd1NWxHWnA1VGFVaTFNMmgxODVKV3BFcEdYR0hmdFlfb1lKSjE4OE1FbS1TWDVocXZVMVZYdHBPTXRRTU9rc2VVM1dpR0tNejdRWnVyd3pZS01YUnZRa2htRw?oc=5",
-      "image": null,
-      "headline": "Trump says any governor or mayor should want to welcome an AI data center - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        }
-      ]
-    },
-    {
-      "id": "c8855d48d51424ba",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T10:02:28+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "Daily Camera",
-      "type": "news",
-      "quote": "Trump is selling early access to his Truth Social posts \u2013 and, of course, there are no investigators in",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.82,
-      "change": 3.64,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUGtDMnVWX25yNHFmMFhXRWNUTkFFTUd0X1VsRjBJeDA2c3NfWkJYWGl0bEE0Nk42SkdHUUo3ZDdyLVlTX2ttaWY3eDJyN0d4NW1xbE9wOGRzQTdSUThoRmRpQmpEMHJJYUdnSVQ1VGNwYUJQWjBWajB6UU83YlNJRzZTSTFxX21iQ2lYUGdrRkVSSGdjVHBj?oc=5",
-      "image": null,
-      "headline": "Trump is selling early access to his Truth Social posts \u2013 and, of course, there are no investigators in sight (Editorial) - Daily Camera",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 8.82
-        }
-      ]
-    },
-    {
-      "id": "ff27f0c30c35249b",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T08:18:45+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Boosted INTC and DELL: Now He Says \u2018Do Magnets\u2019\u2014Are MP and USAR Stocks Next? -",
-      "company": "Dell",
-      "ticker": "DELL",
-      "price": 434.78,
-      "change": -0.63,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2Z4UkFGd2x6U3ozQ0N6R2xKMzdqNEJoVUJKUUY3NGFEX1NaNVlHbl80NW4zMy1FYy1OQV9tYTdTT2Vzb0FfLTJUMUNBa2xuSDhiUU5vWTZyYS16NWVtc0k0M3JQb2F2MERaWDF4R2F4dW1tdFpiNXpxZHJUUGNpZTc5dE83OGNRZWthUFU2TXg3NkhrWThsbEFrZ0puR3JVb1RyNGtMQmJsNGtvaHc4SzdGMVhRc0ZGeFVxU0pQRHVhcjE2QjhoSk5fXzV3MkxuOG1V?oc=5",
-      "image": null,
-      "headline": "Trump Boosted INTC and DELL: Now He Says \u2018Do Magnets\u2019\u2014Are MP and USAR Stocks Next? - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 441.8
-        },
-        {
-          "d": "07-23",
-          "c": 439.34
-        },
-        {
-          "d": "07-24",
-          "c": 437.5
-        },
-        {
-          "d": "07-27",
-          "c": 426.91
-        },
-        {
-          "d": "07-28",
-          "c": 392.1
-        },
-        {
-          "d": "07-29",
-          "c": 369.64
-        },
-        {
-          "d": "07-30",
-          "c": 404.81
-        },
-        {
-          "d": "07-31",
-          "c": 405.37
-        },
-        {
-          "d": "08-03",
-          "c": 429.02
-        },
-        {
-          "d": "08-04",
-          "c": 467.27
-        },
-        {
-          "d": "08-05",
-          "c": 462.7
-        },
-        {
-          "d": "08-06",
-          "c": 437.65
-        },
-        {
-          "d": "08-07",
-          "c": 453.77
-        },
-        {
-          "d": "08-10",
-          "c": 457.88
-        },
-        {
-          "d": "08-11",
-          "c": 440.97
-        },
-        {
-          "d": "08-12",
-          "c": 484.5
-        },
-        {
-          "d": "08-13",
-          "c": 494.51
-        },
-        {
-          "d": "08-14",
-          "c": 490.81
-        },
-        {
-          "d": "08-17",
-          "c": 479.81
-        },
-        {
-          "d": "08-18",
-          "c": 468.65
-        },
-        {
-          "d": "08-19",
-          "c": 437.55
-        },
-        {
-          "d": "08-20",
-          "c": 434.78
-        }
-      ]
-    },
-    {
-      "id": "ae96d9152efa5389",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T07:00:00+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "usatoday.com",
-      "type": "news",
-      "quote": "Truth Social is selling faster access to Trump posts. Is that legal? -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.77,
-      "change": 1.35,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
-      "image": null,
-      "headline": "Truth Social is selling faster access to Trump posts. Is that legal? - usatoday.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        }
-      ]
-    },
-    {
-      "id": "146af1f7eee9b315",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T07:00:00+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "What Does Trump Media & Technology Group (DJT) Mean For Investors After Canada",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.65,
-      "change": 1.17,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUQzdndtTnBYZVBkNURVNWdwSmc2T3dUdW1qVTFwaWhlMWF0cmdfSVQwbnVOWmxBa0FuWl9CcUgteG0xU3QxSWZEbXdqNlhnZDZqMlhvYXdnTnFZclFPRjBGejJvWVVFR2RySVdZbmhtLWVSNllpUjd3aTRnV2p6M0ltc1lncWdyRUhuM0Iydl93eFRzdnNRdmllQ3RjRzQ?oc=5",
-      "image": null,
-      "headline": "What Does Trump Media & Technology Group (DJT) Mean For Investors After Canada Tariff Pause? - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.65
-        }
-      ]
-    },
-    {
-      "id": "b5ce1a1850b3d728",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T07:00:00+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "USA Today",
-      "type": "news",
-      "quote": "Truth Social is selling faster access to Trump posts. Is that legal? -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.65,
-      "change": 0.23,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmstVEt5QTQ4d1AzVVBkSlFBTUZSeWtwWFZURmw5RkpPb3JMdVhNVTZ3bU1tQVNyRXFsYzJqYVpUbFBIQWtvZlhGQmlTMFZkMjljRDFqR3FvS0JQWWJvaFBSeFcwYTNqMTlfd3o5YmYxd1VDRFBNNVNadXZPbFMyRnJmazlidVU0V04taExOamJrMS1oeHc?oc=5",
-      "image": null,
-      "headline": "Truth Social is selling faster access to Trump posts. Is that legal? - USA Today",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        }
-      ]
-    },
-    {
-      "id": "46439255b937478b",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T06:00:00+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "National Cattlemen's Beef Association",
-      "type": "news",
-      "quote": "NCBA Statement on President Trump\u2019s Truth Social Post - National Cattlemen's Beef Association NCBA",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": 6.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3E5QzRwN1VPQU16b1diV2pwTzdyN1ZjbFN3cmlXZmNzYVhDUWhMVlV1LUtGUG5rMC03Z0VYUVVyV3d4bGw5ZHlLZ0lILWhQSEhnYnFzeHFKWS12c0pDSHdlVmdWanpUUGlTeWtPRWh5S0lHQ0NnaXRzelRZR3FIMVJ3OXlGN3Z3QmlOem9JVlFZd1M4UVJNX3h6bl9JZDAwdzBSM3R3?oc=5",
-      "image": null,
-      "headline": "NCBA Statement on President Trump\u2019s Truth Social Post - National Cattlemen's Beef Association",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        }
-      ]
-    },
-    {
-      "id": "44862f788f90cdd1",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T22:42:08+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "War crimes are part of Russia's strategy in Ukraine, retired U.S. Army colonel says Ukraine says",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 112.39,
-      "change": 7.81,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/war-crimes-are-part-of-russias-strategy-in-ukraine-retired-u-s-army-colonel-says",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/ukraine-1-1024x683.jpg",
-      "headline": "War crimes are part of Russia's strategy in Ukraine, retired U.S. Army colonel says",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-22",
-          "c": 100.01
-        },
-        {
-          "d": "07-23",
-          "c": 93.63
-        },
-        {
-          "d": "07-24",
-          "c": 91.67
-        },
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        },
-        {
-          "d": "08-12",
-          "c": 94.83
-        },
-        {
-          "d": "08-13",
-          "c": 97.1
-        },
-        {
-          "d": "08-14",
-          "c": 93.04
-        },
-        {
-          "d": "08-17",
-          "c": 97.68
-        },
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        }
-      ]
-    },
-    {
-      "id": "12d5900a15abd624",
-      "date": "Thu, 20 Aug 2026",
-      "ts": "2026-08-20T22:29:18+00:00",
-      "date_display": "Aug 20, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Fostering the Future partnership with IndyCar and Fox First lady Melania Trump accepted a $2 million gift",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 60.45,
-      "change": 0.1,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-announces-fostering-the-future-partnership-with-indycar-and-fox",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-20T202303Z_455109475_RC2K2NANLM86_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "headline": "WATCH: First lady Melania Trump announces Fostering the Future partnership with IndyCar and Fox",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-21",
-          "c": 51.47
-        },
-        {
-          "d": "07-22",
-          "c": 50.63
-        },
-        {
-          "d": "07-23",
-          "c": 49.18
-        },
-        {
-          "d": "07-24",
-          "c": 49.41
-        },
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
         }
       ]
     }
