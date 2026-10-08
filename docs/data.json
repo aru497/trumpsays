@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-08T07:37:44.270814+00:00",
+  "updated_at": "2026-10-08T15:01:36.970978+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d1c5588a3cbbc0aa",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T09:00:00+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Toss-ups, triage and targets: How to read the wide-open 2026 House",
+      "company": "Ups",
+      "ticker": "UPS",
+      "price": 93.11,
+      "change": 0.89,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage",
+      "image": null,
+      "headline": "Toss-ups, triage and targets: How to read the wide-open 2026 House map",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 99.22
+        },
+        {
+          "d": "09-10",
+          "c": 99.97
+        },
+        {
+          "d": "09-11",
+          "c": 100.28
+        },
+        {
+          "d": "09-14",
+          "c": 102.46
+        },
+        {
+          "d": "09-15",
+          "c": 102.35
+        },
+        {
+          "d": "09-16",
+          "c": 98.77
+        },
+        {
+          "d": "09-17",
+          "c": 100.17
+        },
+        {
+          "d": "09-18",
+          "c": 99.06
+        },
+        {
+          "d": "09-21",
+          "c": 94.75
+        },
+        {
+          "d": "09-22",
+          "c": 95.87
+        },
+        {
+          "d": "09-23",
+          "c": 95.82
+        },
+        {
+          "d": "09-24",
+          "c": 92.05
+        },
+        {
+          "d": "09-25",
+          "c": 93.96
+        },
+        {
+          "d": "09-28",
+          "c": 94.25
+        },
+        {
+          "d": "09-29",
+          "c": 93.93
+        },
+        {
+          "d": "09-30",
+          "c": 93.44
+        },
+        {
+          "d": "10-01",
+          "c": 93.89
+        },
+        {
+          "d": "10-02",
+          "c": 93.02
+        },
+        {
+          "d": "10-05",
+          "c": 93.14
+        },
+        {
+          "d": "10-06",
+          "c": 93.11
+        },
+        {
+          "d": "10-07",
+          "c": 92.29
+        },
+        {
+          "d": "10-08",
+          "c": 93.11
+        }
+      ]
+    },
     {
       "id": "dc1fe6f739f6e71f",
       "date": "Wed, 07 Oct 2026",
@@ -438,6 +546,114 @@
         {
           "d": "10-07",
           "c": 578.96
+        }
+      ]
+    },
+    {
+      "id": "138d85486ad8953d",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T21:11:10+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "oil prices will \u2018drop like a rock\u2019 when Iran war ends - Fox Business President Trump says oil prices will \u2018drop like a",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.41,
+      "change": 0.77,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZYlJTZnFjVzNCTkNVbWMxamdMMy1VUEpEZUtWdjJuUlEtaHRwY3hzQ0JUWnA1QXFvWlREd1BxblR2ajJNTFh0eFBGMzJKd3NfeFM5TlF2dnJIZ2M?oc=5",
+      "image": null,
+      "headline": "President Trump says oil prices will \u2018drop like a rock\u2019 when Iran war ends - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 57.1
+        },
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.41
         }
       ]
     },
@@ -38271,222 +38487,6 @@
         {
           "d": "08-21",
           "c": 79.59
-        }
-      ]
-    },
-    {
-      "id": "c4306288415edf74",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T20:34:30+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "Stock Titan",
-      "type": "news",
-      "quote": "Trump Media (DJT) interim CEO\u2019s 7,958-share tax move detailed - Stock",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": 6.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFFJVnlaRGVhNXRFdVUxeXhwQXlIeWNCaVNaWTd3VVFRUE0zUEQ2MDZ4WU12cW5ZVk1tLUlWeTJKRW1wdWJEaDA5OGdlazRSWENyMUkyVHhqaktfTXRVQXFNX21iampLSDVUSU5tUWV2NllKN2pPVUozMmwzaXk1QkxrcDNRT2NTdWRSNkFTbE5CakhVUHMwbUgyQzk3N0hFRGF3WHktc3VFM2VVUllxQ04yb1ppY29WRm5yT2Z4S3ZqLWZa?oc=5",
-      "image": null,
-      "headline": "Trump Media (DJT) interim CEO\u2019s 7,958-share tax move detailed - Stock Titan",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        }
-      ]
-    },
-    {
-      "id": "b36581c30423410b",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T18:00:48+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "Freedom Forum",
-      "type": "news",
-      "quote": "Trump Sued for Selling Early Access to Truth Social Posts: First Amendment Analysis - Freedom Forum Trump Sued",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.15,
-      "change": 7.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrNTlBRExKeWxZdWN0Rk1BZTc4WlUtR2puV296N2E5dmI2aTJ4ZzhSSjh6WnhBZHBkTllrUWgzSGdielR0VzhEUldpYjJOVXk2akJabUJvUkJHekc3U2pGLUphcmJvaXB6RVlxb2RQUG0?oc=5",
-      "image": null,
-      "headline": "Trump Sued for Selling Early Access to Truth Social Posts: First Amendment Analysis - Freedom Forum",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.15
         }
       ]
     }
