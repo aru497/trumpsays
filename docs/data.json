@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:25:00.813548+00:00",
+  "updated_at": "2026-10-08T07:37:44.270814+00:00",
   "count": 400,
   "mentions": [
     {
@@ -334,6 +334,114 @@
       ]
     },
     {
+      "id": "1d8f1b8ef9c0d853",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T21:34:51+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Michael Dell defends Trump Accounts' shift to individual company stocks",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 578.96,
+      "change": 0.86,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUc2LWVJN2UtOGcxOTJRaUladUJVWE9KenltV01jQzJfS18wU3BXbWJ5Z01KTW9JWjBLUy1mUUZxTTU4UzVSNGtDZ3VFWnpBdTQ2TzNFSi1lVkNBSlRpWHZHV0p2bzlia0Q4YnE1SmtzN1BhMV82Sjl1R1g2U0o0X3lCRndheUNnUmNvT19wMTNkZUR5S0lLYVQwRkRuWG1aQ1E0VzFIOFhQZUs5Y3VRdkZuS21DWnRTdk9WY2dINmRodjBRNHc?oc=5",
+      "image": null,
+      "headline": "Michael Dell defends Trump Accounts' shift to individual company stocks - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 533.88
+        },
+        {
+          "d": "09-09",
+          "c": 535.25
+        },
+        {
+          "d": "09-10",
+          "c": 506.62
+        },
+        {
+          "d": "09-11",
+          "c": 567.29
+        },
+        {
+          "d": "09-14",
+          "c": 534.28
+        },
+        {
+          "d": "09-15",
+          "c": 543.51
+        },
+        {
+          "d": "09-16",
+          "c": 563.29
+        },
+        {
+          "d": "09-17",
+          "c": 588.4
+        },
+        {
+          "d": "09-18",
+          "c": 568.06
+        },
+        {
+          "d": "09-21",
+          "c": 575.31
+        },
+        {
+          "d": "09-22",
+          "c": 548.92
+        },
+        {
+          "d": "09-23",
+          "c": 549.83
+        },
+        {
+          "d": "09-24",
+          "c": 536.02
+        },
+        {
+          "d": "09-25",
+          "c": 562.89
+        },
+        {
+          "d": "09-28",
+          "c": 543.43
+        },
+        {
+          "d": "09-29",
+          "c": 539.59
+        },
+        {
+          "d": "09-30",
+          "c": 537.95
+        },
+        {
+          "d": "10-01",
+          "c": 541.74
+        },
+        {
+          "d": "10-02",
+          "c": 562.52
+        },
+        {
+          "d": "10-05",
+          "c": 552.29
+        },
+        {
+          "d": "10-06",
+          "c": 574.0
+        },
+        {
+          "d": "10-07",
+          "c": 578.96
+        }
+      ]
+    },
+    {
       "id": "8ca3532d0efa1103",
       "date": "Wed, 07 Oct 2026",
       "ts": "2026-10-07T20:44:33+00:00",
@@ -538,6 +646,114 @@
         {
           "d": "10-06",
           "c": 8.65
+        }
+      ]
+    },
+    {
+      "id": "85bb318da929bcdd",
+      "date": "Wed, 07 Oct 2026",
+      "ts": "2026-10-07T19:10:29+00:00",
+      "date_display": "Oct 07, 2026",
+      "source": "GV Wire",
+      "type": "news",
+      "quote": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - GV Wire Traffic to Trump\u2019s",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.22,
+      "change": -4.97,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU9JR1d3blJTSldKTGczNDcxR2JtaThMVGQtUlFrYVQzaEZQOWRZNUhvaUJyQzNZRHBfX3FrV29pdkVhRDRXUFhfMDJxdl9ONlJUdllyalQ4dkRzM3IwY2dPalRyY0lsVVZfT3MyTk9HWHRaNUlrWkFPOFl5Q3dYLTRIT3dRdktKWUJ0VTFSX2VrV3BtcmNEZjdJQ0JDVmVaSjE4aHA2dTRyYXlNWlRtRHdKX2hCU0MzVXFhWGhCMA?oc=5",
+      "image": null,
+      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - GV Wire",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-08",
+          "c": 9.23
+        },
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
         }
       ]
     },
@@ -38271,222 +38487,6 @@
         {
           "d": "08-21",
           "c": 9.15
-        }
-      ]
-    },
-    {
-      "id": "24466f9df12208e1",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T16:36:38+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "to Lift Ground Beef Tariffs in Bid to Lower Prices - The New York Times Trump Announces Move to Lift Ground Beef Tariffs in Bid to",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.69,
-      "change": 0.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45X3NWUUZ6aWRON0pOb2h0c0VhVWU5eGZndTFBYjk5SGNTbHpqZ21xYWMyc3hYcU1vS0NVUXFuaklONU1FRGd5ajFreUVRMEt0RlJTa0Y4OUVLWURuRV9ZRGlPaWU3RFpCOUFOdlRTX2ZISjdkaUtQb1Z3Yno1Tm8?oc=5",
-      "image": null,
-      "headline": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 70.17
-        },
-        {
-          "d": "07-24",
-          "c": 71.65
-        },
-        {
-          "d": "07-27",
-          "c": 72.37
-        },
-        {
-          "d": "07-28",
-          "c": 75.18
-        },
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        }
-      ]
-    },
-    {
-      "id": "64b3057d99c9d8da",
-      "date": "Fri, 21 Aug 2026",
-      "ts": "2026-08-21T15:28:29+00:00",
-      "date_display": "Aug 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Enrollment in SNAP grocery aid is dropping faster than expected Enrollment in",
-      "company": "Snap",
-      "ticker": "SNAP",
-      "price": 5.22,
-      "change": 0.19,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/nation/enrollment-in-snap-grocery-aid-is-dropping-faster-than-expected",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-06-24T101252Z_1254012148_RC2CJLAH9CL6_RTRMADP_3_USA-HUNGER-ARIZONA-1024x683.jpg",
-      "headline": "Enrollment in SNAP grocery aid is dropping faster than expected",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 4.41
-        },
-        {
-          "d": "07-24",
-          "c": 4.35
-        },
-        {
-          "d": "07-27",
-          "c": 4.52
-        },
-        {
-          "d": "07-28",
-          "c": 4.77
-        },
-        {
-          "d": "07-29",
-          "c": 4.73
-        },
-        {
-          "d": "07-30",
-          "c": 4.69
-        },
-        {
-          "d": "07-31",
-          "c": 4.69
-        },
-        {
-          "d": "08-03",
-          "c": 5.04
-        },
-        {
-          "d": "08-04",
-          "c": 5.79
-        },
-        {
-          "d": "08-05",
-          "c": 5.33
-        },
-        {
-          "d": "08-06",
-          "c": 5.22
-        },
-        {
-          "d": "08-07",
-          "c": 5.33
-        },
-        {
-          "d": "08-10",
-          "c": 5.35
-        },
-        {
-          "d": "08-11",
-          "c": 5.51
-        },
-        {
-          "d": "08-12",
-          "c": 5.2
-        },
-        {
-          "d": "08-13",
-          "c": 5.3
-        },
-        {
-          "d": "08-14",
-          "c": 5.41
-        },
-        {
-          "d": "08-17",
-          "c": 5.18
-        },
-        {
-          "d": "08-18",
-          "c": 5.11
-        },
-        {
-          "d": "08-19",
-          "c": 5.24
-        },
-        {
-          "d": "08-20",
-          "c": 5.21
-        },
-        {
-          "d": "08-21",
-          "c": 5.22
         }
       ]
     }
