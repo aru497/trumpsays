@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-10-08T20:44:18.680786+00:00",
+  "updated_at": "2026-10-09T00:46:10.505825+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4fc785eca6d26e9f",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T23:21:02+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "MoneyWise.com",
+      "type": "news",
+      "quote": "Trump\u2019s Dell stock trades: His latest ethics filing shows August sales",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 578.96,
+      "change": 0.86,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjNIM015NW1hYThSYWItbVZwZmk3WGItdUN4d0ZHbzBtWjBLMEtnVUtBSkZuYlVVblNjRUI0MkZSZXpMQzVWLVNQTzUxVHltLTlkSlZHTlNCOGhheEJmZ2s1M05YWHhoSU43NmF6VXBkS3BWeEJCcUZCdFR2R3h1U25OMFZOcWVr?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Dell stock trades: His latest ethics filing shows August sales after repeated \u2018buy a Dell\u2019 pitches - MoneyWise.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 535.25
+        },
+        {
+          "d": "09-10",
+          "c": 506.62
+        },
+        {
+          "d": "09-11",
+          "c": 567.29
+        },
+        {
+          "d": "09-14",
+          "c": 534.28
+        },
+        {
+          "d": "09-15",
+          "c": 543.51
+        },
+        {
+          "d": "09-16",
+          "c": 563.29
+        },
+        {
+          "d": "09-17",
+          "c": 588.4
+        },
+        {
+          "d": "09-18",
+          "c": 568.06
+        },
+        {
+          "d": "09-21",
+          "c": 575.31
+        },
+        {
+          "d": "09-22",
+          "c": 548.92
+        },
+        {
+          "d": "09-23",
+          "c": 549.83
+        },
+        {
+          "d": "09-24",
+          "c": 536.02
+        },
+        {
+          "d": "09-25",
+          "c": 562.89
+        },
+        {
+          "d": "09-28",
+          "c": 543.43
+        },
+        {
+          "d": "09-29",
+          "c": 539.59
+        },
+        {
+          "d": "09-30",
+          "c": 537.95
+        },
+        {
+          "d": "10-01",
+          "c": 541.74
+        },
+        {
+          "d": "10-02",
+          "c": 562.52
+        },
+        {
+          "d": "10-05",
+          "c": 552.29
+        },
+        {
+          "d": "10-06",
+          "c": 574.0
+        },
+        {
+          "d": "10-07",
+          "c": 578.96
+        }
+      ]
+    },
+    {
+      "id": "3393a28700356c9b",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T22:45:14+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "ban is reached, the Trump administration is suspending Microsoft from a green card program, accusing the tech giant of",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 529.76,
+      "change": 0.09,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/show/news-wrap-judge-extends-white-house-access-for-news-outlets",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/newswrap-3-1024x683.jpg",
+      "headline": "News Wrap: Judge extends White House access for news outlets",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        }
+      ]
+    },
+    {
+      "id": "2d365ae92ec5b8e7",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T21:21:04+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump administration freezes green cards for Microsoft, IT firms, probes universities - Reuters Trump",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 529.76,
+      "change": 0.09,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
+      "image": null,
+      "headline": "Trump administration freezes green cards for Microsoft, IT firms, probes universities - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        }
+      ]
+    },
+    {
+      "id": "a9d32e9cb61e6c8e",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T20:53:01+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Ars Technica",
+      "type": "news",
+      "quote": "Judge weighs if Trump can charge $100K for early access to Truth Social posts - Ars Technica Judge weighs if Trump can charge",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.22,
+      "change": -4.97,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTVRmTXBTUWZ3YTNScXl3X2twc2FITVNyVzAycUZMakpJN3dkUnZyQXQ1TkNQRWZ1ZTF2ZDdPbVAzUnlIZm1vTmhyVHpjbXdZY1lzMkpuUXNzR1dQUklGOVc4WF9DXzlzZi15Q2pYVGNzZkJlNkszNHA3cXRzbWQ0WjZYdnhCd19SOUlmcE5yTTVUTWtVZExDaDQ2QUNJZ3FWNWpKVVoyQkVNUkhVcXNwaWNoMmRLSEdxV0lJdXdR?oc=5",
+      "image": null,
+      "headline": "Judge weighs if Trump can charge $100K for early access to Truth Social posts - Ars Technica",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 8.71
+        },
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        }
+      ]
+    },
     {
       "id": "40b62ed5428e16c9",
       "date": "Thu, 08 Oct 2026",
@@ -107,6 +523,110 @@
         {
           "d": "10-08",
           "c": 198.78
+        }
+      ]
+    },
+    {
+      "id": "b0595f36cf3b7509",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T18:26:14+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he gave medals to their CEOs. - Yahoo Finance",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 529.76,
+      "change": 0.09,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSlpMQ2ZGQ2xSamtOSzEwVVpmRU9HNU9oZGZYcnhyLUhldzFxRjZoVkFxR0tTeUgtMTYzeEZtZjA1Ykw5dkRUdzZrYmZ2VFhKNFZadkg4aF9tU0RXZl9ocW9laDI4NHJ0X2dBNG8zdFgtcWgwMzlyc21fcG9CZGFvOHNHM1ZXTjNibWFYLXRVUTFtLWhnUF9GNnNIMFdjZzVBWnlDa2tLNjBZbTAwU1pnLUJvRFlWMFdOcUp0Qm9XcU1UNkFCWnB1cFRHcXdraFZWcTFPSklmZk9NR1I5ZjFMc3VUa0JNRERYZGV1UHJuM0Rza2M?oc=5",
+      "image": null,
+      "headline": "Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he gave medals to their CEOs. - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 491.65
+        },
+        {
+          "d": "09-10",
+          "c": 492.44
+        },
+        {
+          "d": "09-11",
+          "c": 495.63
+        },
+        {
+          "d": "09-14",
+          "c": 505.41
+        },
+        {
+          "d": "09-15",
+          "c": 497.12
+        },
+        {
+          "d": "09-16",
+          "c": 490.3
+        },
+        {
+          "d": "09-17",
+          "c": 497.75
+        },
+        {
+          "d": "09-18",
+          "c": 493.78
+        },
+        {
+          "d": "09-21",
+          "c": 501.61
+        },
+        {
+          "d": "09-22",
+          "c": 498.0
+        },
+        {
+          "d": "09-23",
+          "c": 500.59
+        },
+        {
+          "d": "09-24",
+          "c": 497.93
+        },
+        {
+          "d": "09-25",
+          "c": 516.17
+        },
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
         }
       ]
     },
@@ -1295,6 +1815,110 @@
         {
           "d": "10-08",
           "c": 720.89
+        }
+      ]
+    },
+    {
+      "id": "7ee08403dc613e16",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T13:18:47+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August - CNBC Trump bought",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 721.31,
+      "change": -2.38,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGE1RXJCQTJaR1FNZnMtOXhzbzFZdkI1Nmk1UW96Ulh1cmJveGxGV3dvVFhzTWVwckxHb2E2SGhxMy1NMXRTN2FNbXNWQnRuN042bFBTNlc5aWZoUjVpNHllT2xGWWFUcnhWNU50ZXI0VzlEQmYxempyVTRHRFNXOUh6clo2eTNlcmZVdlVXbTZ2b3PSAZgBQVVfeXFMTnJjdWxlemVHb3JsMWxyOTZzekkwYzRSMWFmUHpGRWg5eDltbDlJd0lLak4yc1ZtZzg0X2VsWFFaSEM0Y0tHUXYwYUgybk5mVk5kdzNDMG03anNWaWJxdENKZ25zRjNzZWxJbU8xeHlEcTZYbUptYllXVWY1ZkNRVWIxWVoydkFOWFRKNXpFQjFnMHgtNVc1U2s?oc=5",
+      "image": null,
+      "headline": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-09",
+          "c": 653.17
+        },
+        {
+          "d": "09-10",
+          "c": 643.87
+        },
+        {
+          "d": "09-11",
+          "c": 647.52
+        },
+        {
+          "d": "09-14",
+          "c": 665.08
+        },
+        {
+          "d": "09-15",
+          "c": 669.71
+        },
+        {
+          "d": "09-16",
+          "c": 672.78
+        },
+        {
+          "d": "09-17",
+          "c": 681.77
+        },
+        {
+          "d": "09-18",
+          "c": 665.23
+        },
+        {
+          "d": "09-21",
+          "c": 741.25
+        },
+        {
+          "d": "09-22",
+          "c": 736.6
+        },
+        {
+          "d": "09-23",
+          "c": 744.1
+        },
+        {
+          "d": "09-24",
+          "c": 777.59
+        },
+        {
+          "d": "09-25",
+          "c": 751.66
+        },
+        {
+          "d": "09-28",
+          "c": 715.62
+        },
+        {
+          "d": "09-29",
+          "c": 738.79
+        },
+        {
+          "d": "09-30",
+          "c": 725.18
+        },
+        {
+          "d": "10-01",
+          "c": 725.93
+        },
+        {
+          "d": "10-02",
+          "c": 728.08
+        },
+        {
+          "d": "10-05",
+          "c": 741.9
+        },
+        {
+          "d": "10-06",
+          "c": 738.88
+        },
+        {
+          "d": "10-07",
+          "c": 721.31
         }
       ]
     },
@@ -37847,650 +38471,6 @@
         {
           "d": "08-21",
           "c": 108.13
-        }
-      ]
-    },
-    {
-      "id": "dcb9b2900583e90d",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T07:10:31+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Altcoin Buzz",
-      "type": "news",
-      "quote": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 119.25,
-      "change": 6.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQnVfSThzWFI0OGFaLWtURzJpQTVzei1ROUk0WHpLeVNNUG5Oa0lXYXJZZllfVUk5cjNiTWJrbGEzaHN4UWk2aGc0SUNGeFJvWTVyTmdmVnYzT0VHTEpYNTFmaw?oc=5",
-      "image": null,
-      "headline": "Trump Sells Strategy Stock and Buys Coinbase, Robinhood Shares - Altcoin Buzz",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 93.63
-        },
-        {
-          "d": "07-24",
-          "c": 91.67
-        },
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        },
-        {
-          "d": "08-12",
-          "c": 94.83
-        },
-        {
-          "d": "08-13",
-          "c": 97.1
-        },
-        {
-          "d": "08-14",
-          "c": 93.04
-        },
-        {
-          "d": "08-17",
-          "c": 97.68
-        },
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        }
-      ]
-    },
-    {
-      "id": "2f720249df57d7de",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T07:00:00+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Media CEO says Truth API customers in mid-teens - Yahoo Finance",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.06,
-      "change": -7.27,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE16Slc0ZzdTM21kMGFlWWIwQUI3OTdSYUFqRWUwMnhFXzJsRVlEeTN5TmNQWlpJdjdHYXBTOF9aX0tuR2FwZzQ0Umg1ZVJaOGtDM241ZkJzZjFucUtBVTRsQlF2NzlTVzYtVEQtaENVekhraG1HZHFmbThPRG10NmJ4dUw2QWpMN1Rma0RkT2xtdG9TRnBzUndR?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO says Truth API customers in mid-teens - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        }
-      ]
-    },
-    {
-      "id": "0b713d6be1e94278",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T07:00:00+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "247wallst.com",
-      "type": "news",
-      "quote": "RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up - 247wallst.com RUM Group Rallies 7% on $13.7B",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.82,
-      "change": -4.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGtnX0NrdHBFVlZYNzV4bDRMai1hc3pmcnhROGtXNXEzUUxiUXNSRnYwMXh0ajhoNzN3M2VLTlNTNENWYnFBVUVZVFF6QVgzUzZBa1Q3Vnl5SUhqczhHWmJVWnpmQzZHbnE2UHJyWVBFcDk5dDJJZ1A4UkhIRWJpQVNheS1oVVNoQ1NLUWthU2xIN0tYcDIwdHpHWnpXNVpqeEJTNF8zNVdIdw?oc=5",
-      "image": null,
-      "headline": "RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up - 247wallst.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.82
-        }
-      ]
-    },
-    {
-      "id": "6b60d15bb22a31e1",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T06:15:11+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Bitcoin World",
-      "type": "news",
-      "quote": "Trump's June Stock Trades: Sells Strategy And Coinbase, Buys Robinhood - Bitcoin World Trump's June Stock Trades:",
-      "company": "Coinbase",
-      "ticker": "COIN",
-      "price": 183.81,
-      "change": -1.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNemExWGloSEZqa3Ntbm1JbHpsenU2eTNmR183VmVhbndFVUh0T09ZZFl3dXR2MkJkNWx6ZE9HWmhncnhweVo0ejY1bDVPLUk3eWRDSkcxSlpTNi03UUVjTjVnd2x5YkNCcXlya0dBTjlhQnNONnM1TlhObTdRalktSVdNUl9WQQ?oc=5",
-      "image": null,
-      "headline": "Trump's June Stock Trades: Sells Strategy And Coinbase, Buys Robinhood - Bitcoin World",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 158.29
-        },
-        {
-          "d": "07-27",
-          "c": 167.49
-        },
-        {
-          "d": "07-28",
-          "c": 167.9
-        },
-        {
-          "d": "07-29",
-          "c": 160.09
-        },
-        {
-          "d": "07-30",
-          "c": 163.58
-        },
-        {
-          "d": "07-31",
-          "c": 146.26
-        },
-        {
-          "d": "08-03",
-          "c": 146.5
-        },
-        {
-          "d": "08-04",
-          "c": 150.73
-        },
-        {
-          "d": "08-05",
-          "c": 149.89
-        },
-        {
-          "d": "08-06",
-          "c": 145.41
-        },
-        {
-          "d": "08-07",
-          "c": 153.6
-        },
-        {
-          "d": "08-10",
-          "c": 148.68
-        },
-        {
-          "d": "08-11",
-          "c": 148.58
-        },
-        {
-          "d": "08-12",
-          "c": 149.04
-        },
-        {
-          "d": "08-13",
-          "c": 153.9
-        },
-        {
-          "d": "08-14",
-          "c": 148.47
-        },
-        {
-          "d": "08-17",
-          "c": 150.55
-        },
-        {
-          "d": "08-18",
-          "c": 146.23
-        },
-        {
-          "d": "08-19",
-          "c": 160.2
-        },
-        {
-          "d": "08-20",
-          "c": 172.35
-        },
-        {
-          "d": "08-21",
-          "c": 186.49
-        },
-        {
-          "d": "08-24",
-          "c": 183.81
-        }
-      ]
-    },
-    {
-      "id": "b145e8594975d482",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T06:15:11+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Bitcoin World",
-      "type": "news",
-      "quote": "June Stock Trades: Sells Strategy And Coinbase, Buys Robinhood - Bitcoin World Trump's June Stock Trades: Sells Strategy",
-      "company": "Robinhood",
-      "ticker": "HOOD",
-      "price": 107.32,
-      "change": -0.75,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNemExWGloSEZqa3Ntbm1JbHpsenU2eTNmR183VmVhbndFVUh0T09ZZFl3dXR2MkJkNWx6ZE9HWmhncnhweVo0ejY1bDVPLUk3eWRDSkcxSlpTNi03UUVjTjVnd2x5YkNCcXlya0dBTjlhQnNONnM1TlhObTdRalktSVdNUl9WQQ?oc=5",
-      "image": null,
-      "headline": "Trump's June Stock Trades: Sells Strategy And Coinbase, Buys Robinhood - Bitcoin World",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 94.91
-        },
-        {
-          "d": "07-27",
-          "c": 95.65
-        },
-        {
-          "d": "07-28",
-          "c": 92.76
-        },
-        {
-          "d": "07-29",
-          "c": 89.84
-        },
-        {
-          "d": "07-30",
-          "c": 86.6
-        },
-        {
-          "d": "07-31",
-          "c": 86.56
-        },
-        {
-          "d": "08-03",
-          "c": 90.34
-        },
-        {
-          "d": "08-04",
-          "c": 93.51
-        },
-        {
-          "d": "08-05",
-          "c": 92.8
-        },
-        {
-          "d": "08-06",
-          "c": 90.71
-        },
-        {
-          "d": "08-07",
-          "c": 93.29
-        },
-        {
-          "d": "08-10",
-          "c": 94.52
-        },
-        {
-          "d": "08-11",
-          "c": 94.38
-        },
-        {
-          "d": "08-12",
-          "c": 94.91
-        },
-        {
-          "d": "08-13",
-          "c": 99.37
-        },
-        {
-          "d": "08-14",
-          "c": 95.56
-        },
-        {
-          "d": "08-17",
-          "c": 96.25
-        },
-        {
-          "d": "08-18",
-          "c": 91.53
-        },
-        {
-          "d": "08-19",
-          "c": 95.77
-        },
-        {
-          "d": "08-20",
-          "c": 95.1
-        },
-        {
-          "d": "08-21",
-          "c": 108.13
-        },
-        {
-          "d": "08-24",
-          "c": 107.32
-        }
-      ]
-    },
-    {
-      "id": "c089d1352021373b",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T06:15:11+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Bitcoin World",
-      "type": "news",
-      "quote": "Trump's June Stock Trades: Sells Strategy And Coinbase, Buys Robinhood - Bitcoin World Trump's June",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 122.74,
-      "change": 2.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNemExWGloSEZqa3Ntbm1JbHpsenU2eTNmR183VmVhbndFVUh0T09ZZFl3dXR2MkJkNWx6ZE9HWmhncnhweVo0ejY1bDVPLUk3eWRDSkcxSlpTNi03UUVjTjVnd2x5YkNCcXlya0dBTjlhQnNONnM1TlhObTdRalktSVdNUl9WQQ?oc=5",
-      "image": null,
-      "headline": "Trump's June Stock Trades: Sells Strategy And Coinbase, Buys Robinhood - Bitcoin World",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 91.67
-        },
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        },
-        {
-          "d": "08-12",
-          "c": 94.83
-        },
-        {
-          "d": "08-13",
-          "c": 97.1
-        },
-        {
-          "d": "08-14",
-          "c": 93.04
-        },
-        {
-          "d": "08-17",
-          "c": 97.68
-        },
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        },
-        {
-          "d": "08-24",
-          "c": 122.74
         }
       ]
     }
