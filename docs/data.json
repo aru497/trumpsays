@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-10-09T13:57:15.447421+00:00",
+  "updated_at": "2026-10-09T19:10:58.570450+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "b22cd4679b3115ce",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T18:21:32+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump says US won't attack Iran before midterms - Fox Business Trump says US won't attack Iran before",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.04,
+      "change": -1.63,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JaHA2T3ozX3hfTENLenBUaXA0Q2ptUk5HX04wMlQzeTIzbnJERHJ3UENrZmx5eHlzTGNobXh4ZEM5M0RxbkxIajd6Uy1vbnRra1Q0TU9hSTlMTFU?oc=5",
+      "image": null,
+      "headline": "Trump says US won't attack Iran before midterms - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 56.04
+        }
+      ]
+    },
+    {
+      "id": "4ec08e168d160b13",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T15:47:46+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "they were in danger Officers used their vehicles to block the man as he attempted to drive away, but he accelerated",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T024845Z_1123993865_RC2CZNAHVXBF_RTRMADP_3_USA-MIGRATION-NEW-YORK-1024x823.jpg",
+      "headline": "ICE official says officers shot a man in New York because they believed they were in danger",
+      "channel": "Press Conference",
+      "series": null
+    },
+    {
+      "id": "2801d6e019131993",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T12:49:36+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions - TradingView Donald",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 229.71,
+      "change": -0.33,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWJiSlI2MjZ0M3BIQ2FiakNieWFfTDVvTHpjU3RGamliVWtBOWVURGlIdUhXY3dfVDlEVWl4cHlkTkIwdHk0bTM4cGRQbU9zc2I1TTB1WXp1MElzSW5MVmNkeVRWODE4ZEZ0a3dJWHZwZDdaaGJfeFlkZ3FnTWVvX3lscTJxNXVOMklpeThUcmxvLXV4cnZndWxhVGhRWkZxSjl1YUZlcHkxQ1drOHc2LTdRQ2pVSnAzWFNibXRVdEpFVUpZRHlpMHExRXNHal9NRkc4?oc=5",
+      "image": null,
+      "headline": "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 218.36
+        },
+        {
+          "d": "09-11",
+          "c": 218.29
+        },
+        {
+          "d": "09-14",
+          "c": 210.96
+        },
+        {
+          "d": "09-15",
+          "c": 212.17
+        },
+        {
+          "d": "09-16",
+          "c": 213.9
+        },
+        {
+          "d": "09-17",
+          "c": 219.34
+        },
+        {
+          "d": "09-18",
+          "c": 222.27
+        },
+        {
+          "d": "09-21",
+          "c": 227.38
+        },
+        {
+          "d": "09-22",
+          "c": 228.87
+        },
+        {
+          "d": "09-23",
+          "c": 225.51
+        },
+        {
+          "d": "09-24",
+          "c": 224.58
+        },
+        {
+          "d": "09-25",
+          "c": 225.07
+        },
+        {
+          "d": "09-28",
+          "c": 228.86
+        },
+        {
+          "d": "09-29",
+          "c": 227.21
+        },
+        {
+          "d": "09-30",
+          "c": 228.38
+        },
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.71
+        }
+      ]
+    },
+    {
+      "id": "b8e27d9a0c680649",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T12:49:36+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions - TradingView Donald Trump Stock",
+      "company": "Coinbase",
+      "ticker": "COIN",
+      "price": 181.65,
+      "change": 5.61,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWJiSlI2MjZ0M3BIQ2FiakNieWFfTDVvTHpjU3RGamliVWtBOWVURGlIdUhXY3dfVDlEVWl4cHlkTkIwdHk0bTM4cGRQbU9zc2I1TTB1WXp1MElzSW5MVmNkeVRWODE4ZEZ0a3dJWHZwZDdaaGJfeFlkZ3FnTWVvX3lscTJxNXVOMklpeThUcmxvLXV4cnZndWxhVGhRWkZxSjl1YUZlcHkxQ1drOHc2LTdRQ2pVSnAzWFNibXRVdEpFVUpZRHlpMHExRXNHal9NRkc4?oc=5",
+      "image": null,
+      "headline": "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 172.28
+        },
+        {
+          "d": "09-11",
+          "c": 175.26
+        },
+        {
+          "d": "09-14",
+          "c": 191.45
+        },
+        {
+          "d": "09-15",
+          "c": 172.11
+        },
+        {
+          "d": "09-16",
+          "c": 164.51
+        },
+        {
+          "d": "09-17",
+          "c": 173.97
+        },
+        {
+          "d": "09-18",
+          "c": 194.25
+        },
+        {
+          "d": "09-21",
+          "c": 201.05
+        },
+        {
+          "d": "09-22",
+          "c": 201.07
+        },
+        {
+          "d": "09-23",
+          "c": 198.13
+        },
+        {
+          "d": "09-24",
+          "c": 199.21
+        },
+        {
+          "d": "09-25",
+          "c": 195.11
+        },
+        {
+          "d": "09-28",
+          "c": 191.79
+        },
+        {
+          "d": "09-29",
+          "c": 190.02
+        },
+        {
+          "d": "09-30",
+          "c": 186.41
+        },
+        {
+          "d": "10-01",
+          "c": 189.29
+        },
+        {
+          "d": "10-02",
+          "c": 183.0
+        },
+        {
+          "d": "10-05",
+          "c": 188.22
+        },
+        {
+          "d": "10-06",
+          "c": 185.74
+        },
+        {
+          "d": "10-07",
+          "c": 178.45
+        },
+        {
+          "d": "10-08",
+          "c": 172.0
+        },
+        {
+          "d": "10-09",
+          "c": 181.65
+        }
+      ]
+    },
+    {
+      "id": "3923f5c04953274b",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T12:49:36+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions - TradingView Donald Trump Stock Holdings",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 154.57,
+      "change": 2.05,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWJiSlI2MjZ0M3BIQ2FiakNieWFfTDVvTHpjU3RGamliVWtBOWVURGlIdUhXY3dfVDlEVWl4cHlkTkIwdHk0bTM4cGRQbU9zc2I1TTB1WXp1MElzSW5MVmNkeVRWODE4ZEZ0a3dJWHZwZDdaaGJfeFlkZ3FnTWVvX3lscTJxNXVOMklpeThUcmxvLXV4cnZndWxhVGhRWkZxSjl1YUZlcHkxQ1drOHc2LTdRQ2pVSnAzWFNibXRVdEpFVUpZRHlpMHExRXNHal9NRkc4?oc=5",
+      "image": null,
+      "headline": "Donald Trump Stock Holdings Reveals Nvidia, Coinbase and Strategy Transactions - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.61
+        },
+        {
+          "d": "09-25",
+          "c": 158.61
+        },
+        {
+          "d": "09-28",
+          "c": 157.14
+        },
+        {
+          "d": "09-29",
+          "c": 154.67
+        },
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        },
+        {
+          "d": "10-07",
+          "c": 153.37
+        },
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.57
+        }
+      ]
+    },
     {
       "id": "b6282f54ed0ed57e",
       "date": "Fri, 09 Oct 2026",
@@ -37846,542 +38297,6 @@
         {
           "d": "08-24",
           "c": 13.89
-        }
-      ]
-    },
-    {
-      "id": "55499f632db5e096",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T14:18:00+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "CNBC Africa",
-      "type": "news",
-      "quote": "Trump Media CEO defends selling faster access to president\u2019s Truth",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.3,
-      "change": 2.2,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmFkbTF5bGpMSk0zZUNHektWMUlvQkFYM3FrQkdEVlJqbF90TVlGZHE1QXh2WlJVbzA1QVdIWk5DVUw2QjkzNjBfblVLOUh4WWdySVZfWV80b2d3YllzT2pCZlI3TlZIeFVDc2FuaFlJazlFalFqRXBBUE5kM2FUYUJvMmJjSEt3YzFUYUt2cmNjRGFiV0RWYnhpa1I0TzloQnFSZjhOZmFrZDE2dl9jZmg1Y2dFTDZERGlzZFI2U256bldkWlVObEpCc1Y4MUY3?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO defends selling faster access to president\u2019s Truth Social posts, says more have signed up - CNBC Africa",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        }
-      ]
-    },
-    {
-      "id": "6d8734dbe10e9d52",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T13:48:40+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "International Business Times",
-      "type": "news",
-      "quote": "Getting Sued Over Early Access To His Social Media Posts. Trump Media CEO Says More Are Paying. - International Business Times",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.03,
-      "change": -0.77,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWZJWlRKMzZuZFg0QnAwUGpwdmo4SDRvMG83VDdWQmR2TWtHV2tvZ2doV2UxODFqMTVjTmktNWlXRjctUUNiUmpuQnhHcy12VUQwZ0VSWW81QV91V1ZHcFFlOHN3UDFycmZNOFlCRmlaV2g1d0ZuVTNSbk5nQmdYeXdSOW9QTGRHYVlzNmNReWZsY1R2R1hZSldLaVdmcVBOdS0yNTl5R2JlUnNfaG9HbzVuRndpWFlzbkNZQUo5UW03SUNWZV93?oc=5",
-      "image": null,
-      "headline": "Trump Is Getting Sued Over Early Access To His Social Media Posts. Trump Media CEO Says More Are Paying. - International Business Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.03
-        }
-      ]
-    },
-    {
-      "id": "0ca4131b633f80ba",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T13:37:58+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "tariffs on Canadian vehicle, steel imports to hit Jan 1 - Fox Business Trump says 50% tariffs on Canadian vehicle, steel",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.32,
-      "change": 1.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBsMDMxeUNGR0RTU3VWYV82Qk5Ib1MxY3Bmdk9Xd1NjcU85cTVwbnRoRXlvN1dJSi1YT0dBd0JCZWZldnRDeWZSZzhjS1ZvVzM0VkIyc2MzRXdMeFVFOXhZM0lRcGpEY1N6cFhjcnNTd2FrOWRBay16TU9oSjNxcUZvUWJ4RDFNZW0tc2tmX3N2cHlrRktJY3BGY0JIVDYt0gGmAUFVX3lxTE5wOFM1NlNHWW5ja3BSZHllZndsVmRPVWRyVmdxRDA3dHNhdW1PM25kRjJJczhlZl9IVXBDemlCZHFwamFUa2RyTWNUaVRkcDNPcExaWlZuNWVPaW9aY3AyZGJ4WGZWVk9HcXEySjlQeDFfUGRXRElWOENBRWdVOFB4cTF5bGozM0UyVTNOWEotRXFDR0hmRWQxWnprUW9HOHppbE1ZM2c?oc=5",
-      "image": null,
-      "headline": "Trump says 50% tariffs on Canadian vehicle, steel imports to hit Jan 1 - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        },
-        {
-          "d": "08-24",
-          "c": 61.59
-        },
-        {
-          "d": "08-25",
-          "c": 62.69
-        },
-        {
-          "d": "08-26",
-          "c": 62.23
-        },
-        {
-          "d": "08-27",
-          "c": 60.4
-        },
-        {
-          "d": "08-28",
-          "c": 61.32
-        }
-      ]
-    },
-    {
-      "id": "13cf0c58575ef210",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T12:33:58+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "qz.com",
-      "type": "news",
-      "quote": "Trump Media CEO says Truth API customers in mid-teens - qz.com Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": 6.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWUNZYlZ0VWFwLW0yODVEUUR2NFN2Q3JtZ2M3VWpDa0RmZkFnaHVESDQ2UXNvbUs0SWkzMUZVQ1J4bWFYMzk0WEpMZ2MzZE1aVHpJR1NfdjI4SFVFSFlHU3pJWm9LbnRRMUhwUDdxWlI?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO says Truth API customers in mid-teens - qz.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        }
-      ]
-    },
-    {
-      "id": "a4cca36a576d3a59",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T11:54:16+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Trump Media CEO defends selling faster access to president's Truth",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": 6.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzdDRxeFMzV2lMVGREeDBSQzZqYkZicUN3eV9teGo3TkNWU2FiQ0ZYamZEQ2NoVzhQNGJnQ3lJTkhQSnkwekkxUnBmVWtTbGZEckZNa1NvSmtqR0FkblRkUU8zeHpyMF96MTZicjgtNNIBdEFVX3lxTFAxektmU01RV2RodV9rMGNoSEMxYVpOa1dINDBUMmh0dktTNk0yc1VROGFiNEk5LTc4YXQ5REdvLTRqMmtxZ0RSXzV5VDVCV3VBQWVZNHh4czNFOWVTNkttUVluMG5QNHY1NDJLcDltZHFGSlpE?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-23",
-          "c": 8.89
-        },
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
         }
       ]
     }
