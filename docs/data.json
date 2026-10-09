@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-10-09T19:10:58.570450+00:00",
+  "updated_at": "2026-10-09T23:22:11.990421+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c2134cee14e9dd16",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T21:04:48+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "and Washington have two problems, Catsimatidis says - Fox News 'UNDER ATTACK': Trump and Washington have two",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.89,
+      "change": -1.9,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sZ1o3bWRGbmRIeDQtSE05RmVQZlg2SWFWNy1SR000NGFQV1VZMjJFNk5SdjRfMmRIeG5SbDhHM2Q2bnZlWWw3Q01BRk9nTkVST0hESk5R?oc=5",
+      "image": null,
+      "headline": "'UNDER ATTACK': Trump and Washington have two problems, Catsimatidis says - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        }
+      ]
+    },
+    {
+      "id": "d10fabf97c6b80ab",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T20:03:22+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Trump's Affordable Suit NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jacob Gallagher about President Trump's",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 66.32,
+      "change": -0.42,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/10/09/nx-s1-5996586/trumps-affordable-suit",
+      "image": null,
+      "headline": "Trump's Affordable Suit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 66.33
+        },
+        {
+          "d": "09-11",
+          "c": 66.64
+        },
+        {
+          "d": "09-14",
+          "c": 70.09
+        },
+        {
+          "d": "09-15",
+          "c": 71.45
+        },
+        {
+          "d": "09-16",
+          "c": 72.15
+        },
+        {
+          "d": "09-17",
+          "c": 69.69
+        },
+        {
+          "d": "09-18",
+          "c": 69.96
+        },
+        {
+          "d": "09-21",
+          "c": 70.28
+        },
+        {
+          "d": "09-22",
+          "c": 65.22
+        },
+        {
+          "d": "09-23",
+          "c": 61.67
+        },
+        {
+          "d": "09-24",
+          "c": 62.82
+        },
+        {
+          "d": "09-25",
+          "c": 63.6
+        },
+        {
+          "d": "09-28",
+          "c": 63.94
+        },
+        {
+          "d": "09-29",
+          "c": 62.1
+        },
+        {
+          "d": "09-30",
+          "c": 63.47
+        },
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        }
+      ]
+    },
     {
       "id": "b22cd4679b3115ce",
       "date": "Fri, 09 Oct 2026",
@@ -126,6 +342,25 @@
       "article_link": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T024845Z_1123993865_RC2CZNAHVXBF_RTRMADP_3_USA-MIGRATION-NEW-YORK-1024x823.jpg",
       "headline": "ICE official says officers shot a man in New York because they believed they were in danger",
+      "channel": "Press Conference",
+      "series": null
+    },
+    {
+      "id": "5baadad420a002f6",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T15:47:46+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "after NYC ICE shooting Officers used their vehicles to block the man as he attempted to drive away, but he accelerated",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-09T024845Z_1123993865_RC2CZNAHVXBF_RTRMADP_3_USA-MIGRATION-NEW-YORK-1024x823.jpg",
+      "headline": "WATCH: Mullin says he won't pause immigration enforcement after NYC ICE shooting",
       "channel": "Press Conference",
       "series": null
     },
@@ -1215,6 +1450,25 @@
           "c": 529.76
         }
       ]
+    },
+    {
+      "id": "2e479f08094d104d",
+      "date": "Thu, 08 Oct 2026",
+      "ts": "2026-10-08T21:19:55+00:00",
+      "date_display": "Oct 08, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "this fall's election results and oppose any effort to block the seating of fellow members next year.",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/08/nx-s1-5995371/a-congressman-wants-his-colleagues-to-pledge-to-accept-election-results",
+      "image": null,
+      "headline": "A congressman wants his House colleagues to pledge to accept election results",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "a9d32e9cb61e6c8e",
@@ -37954,349 +38208,6 @@
         {
           "d": "08-24",
           "c": 9.2
-        }
-      ]
-    },
-    {
-      "id": "353ca5118e8ad9fd",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T16:46:52+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Washington Times",
-      "type": "news",
-      "quote": "Trump Media CEO defends Truth Social premium service as Dems demand",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.17,
-      "change": 0.77,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjY0TS1GUEkxOGs2WWhoMVp3VGRDaVpYakF1Qm50UnJrdVREMmcwT2ZTRkM3eEdTSFIzZzlucG9EUnNMOUFRMVpYaVB4bUNxV1N2N096cGdVdGVILXhHNHpaQXk3aW1ObEhNV1ExWlphS25QbUttdU5ZMjRfdGk2dDlDbHhyX2xvWlIzRFA0MzVlRzFjUGZDZ24xdllxT3paMTJOWGxPalhIaTNkOFdwby1oTWk?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO defends Truth Social premium service as Dems demand probe - Washington Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.17
-        }
-      ]
-    },
-    {
-      "id": "5c93add9d9ccefb2",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T16:30:21+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "WATCH: Bessent announces new sanctions to block Iran's revenue streams Iran's currency hit a record low",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/world/watch-bessent-announces-new-round-of-iran-sanctions",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-03T092058Z_1470658426_RC2KOMAVQNTZ_RTRMADP_3_JAPAN-YEN-INTERVENTION-1024x683.jpg",
-      "headline": "WATCH: Bessent announces new sanctions to block Iran's revenue streams",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "e1a3188489afab2d",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T15:15:57+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "cut electricity, critical minerals, Ontario's premier says Ford said \"everything is on the table\" if the dispute worsens,",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 13.83,
-      "change": -4.02,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/canada-should-be-ready-to-cut-electricity-critical-minerals-ontarios-premier-says",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-20T125619Z_462463637_RC262NA7TZJM_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA-1024x683.jpg",
-      "headline": "Canada should be ready to cut electricity, critical minerals, Ontario's premier says",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 14.22
-        },
-        {
-          "d": "07-27",
-          "c": 14.52
-        },
-        {
-          "d": "07-28",
-          "c": 14.8
-        },
-        {
-          "d": "07-29",
-          "c": 15.12
-        },
-        {
-          "d": "07-30",
-          "c": 14.7
-        },
-        {
-          "d": "07-31",
-          "c": 14.52
-        },
-        {
-          "d": "08-03",
-          "c": 14.28
-        },
-        {
-          "d": "08-04",
-          "c": 14.09
-        },
-        {
-          "d": "08-05",
-          "c": 13.98
-        },
-        {
-          "d": "08-06",
-          "c": 13.64
-        },
-        {
-          "d": "08-07",
-          "c": 13.83
-        },
-        {
-          "d": "08-10",
-          "c": 13.85
-        },
-        {
-          "d": "08-11",
-          "c": 13.98
-        },
-        {
-          "d": "08-12",
-          "c": 13.83
-        },
-        {
-          "d": "08-13",
-          "c": 13.89
-        },
-        {
-          "d": "08-14",
-          "c": 14.37
-        },
-        {
-          "d": "08-17",
-          "c": 14.05
-        },
-        {
-          "d": "08-18",
-          "c": 13.93
-        },
-        {
-          "d": "08-19",
-          "c": 14.5
-        },
-        {
-          "d": "08-20",
-          "c": 13.99
-        },
-        {
-          "d": "08-21",
-          "c": 14.41
-        },
-        {
-          "d": "08-24",
-          "c": 13.83
-        }
-      ]
-    },
-    {
-      "id": "5072205dfa4abeb1",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T14:57:37+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "says Reagan would be 'throwing up' over Trump's tariffs Ford said \"everything is on the table\" after Prime Minister",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 13.89,
-      "change": -3.61,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/world/ontarios-premier-says-reagan-would-be-throwing-up-over-trumps-tariffs",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-06T171348Z_1685041114_RC2F8MAAYACC_RTRMADP_3_CANADA-STAMPEDE-1024x692.jpg",
-      "headline": "Ontario's premier says Reagan would be 'throwing up' over Trump's tariffs",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 14.22
-        },
-        {
-          "d": "07-27",
-          "c": 14.52
-        },
-        {
-          "d": "07-28",
-          "c": 14.8
-        },
-        {
-          "d": "07-29",
-          "c": 15.12
-        },
-        {
-          "d": "07-30",
-          "c": 14.7
-        },
-        {
-          "d": "07-31",
-          "c": 14.52
-        },
-        {
-          "d": "08-03",
-          "c": 14.28
-        },
-        {
-          "d": "08-04",
-          "c": 14.09
-        },
-        {
-          "d": "08-05",
-          "c": 13.98
-        },
-        {
-          "d": "08-06",
-          "c": 13.64
-        },
-        {
-          "d": "08-07",
-          "c": 13.83
-        },
-        {
-          "d": "08-10",
-          "c": 13.85
-        },
-        {
-          "d": "08-11",
-          "c": 13.98
-        },
-        {
-          "d": "08-12",
-          "c": 13.83
-        },
-        {
-          "d": "08-13",
-          "c": 13.89
-        },
-        {
-          "d": "08-14",
-          "c": 14.37
-        },
-        {
-          "d": "08-17",
-          "c": 14.05
-        },
-        {
-          "d": "08-18",
-          "c": 13.93
-        },
-        {
-          "d": "08-19",
-          "c": 14.5
-        },
-        {
-          "d": "08-20",
-          "c": 13.99
-        },
-        {
-          "d": "08-21",
-          "c": 14.41
-        },
-        {
-          "d": "08-24",
-          "c": 13.89
         }
       ]
     }
