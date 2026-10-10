@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-10-10T02:28:48.624205+00:00",
+  "updated_at": "2026-10-10T08:47:24.987960+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "95d68940a72aa0a3",
+      "date": "Sat, 10 Oct 2026",
+      "ts": "2026-10-10T02:50:41+00:00",
+      "date_display": "Oct 10, 2026",
+      "source": "Kyiv Post",
+      "type": "news",
+      "quote": "Trump Names Truth Social Adviser Katie Zacharia as New White House Press Secretary",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 8.11,
+      "change": -1.1,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xV2ZFSEhreFdpS2N0dVl1MDJnT0dMOHJ5Uld5bU9YVFlPeGlST2ZfMGxOX0tJZkQzRkZfU0xaZG1ta0RhaGhmWjN0cw?oc=5",
+      "image": null,
+      "headline": "Trump Names Truth Social Adviser Katie Zacharia as New White House Press Secretary - Kyiv Post",
+      "channel": "Press Conference",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 8.78
+        },
+        {
+          "d": "09-11",
+          "c": 8.66
+        },
+        {
+          "d": "09-14",
+          "c": 8.85
+        },
+        {
+          "d": "09-15",
+          "c": 8.58
+        },
+        {
+          "d": "09-16",
+          "c": 8.55
+        },
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        }
+      ]
+    },
+    {
+      "id": "942e3eaa7f96f414",
+      "date": "Fri, 09 Oct 2026",
+      "ts": "2026-10-09T21:08:00+00:00",
+      "date_display": "Oct 09, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "in diesel fuel after 'highly successful discussion' - Fox Business Trump says Russia has agreed to deliver millions",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.89,
+      "change": -1.9,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmt2SzE3VkE4X0ZRNEQwT3pDQ3BRSkdpM0tScWlna0xNVDV3N3p4cjFMSWxhTzhYQTFKS3plc3pyaHVnLVE3QjhINlItemVwYVBjc3d5Y0JJUEhWaThZdV80cE83ZUFpUnRLWlc4eDktYWZIR2VLeERzbjhwa2l4NXRuRHgtUGlia3cyMnRaa2ItOGNEUkt4S1hZOHRpTVpJVjliSmY5aUJ1TUNMYlFNbGlKZTEwMUFVcGZj0gHAAUFVX3lxTE13N09CYVZwaG14TzFzSGJ4eVZfSGhKZWtnTDNlUXhJNlNXZC1NazRlZWp0OUtyUjRwcWdBeTAtWlAwUUUzaGZwa3kzbEJfX2RJNmNTR1JpZlQ0LUdUWjE2TkVDUTR4T29INlY5aUNYVkxtcDdPNUVHZGVFNks5S3dNUnhhMTNXMlBZVmZOcllIckQ2VDJCclliVU1PZ0k0NHlSeC04Ny1sT3JZalJzYWUzb3Q0OWpDa2ZudldfcmNWSQ?oc=5",
+      "image": null,
+      "headline": "Trump says Russia has agreed to deliver millions in diesel fuel after 'highly successful discussion' - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 58.06
+        },
+        {
+          "d": "09-11",
+          "c": 58.45
+        },
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        }
+      ]
+    },
     {
       "id": "c2134cee14e9dd16",
       "date": "Fri, 09 Oct 2026",
@@ -37996,218 +38212,6 @@
         {
           "d": "08-24",
           "c": 61.59
-        }
-      ]
-    },
-    {
-      "id": "2990f6163115ddc1",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T19:24:48+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump's Canada tariff strategy aims for reciprocity, EJ Antoni says - Fox Business",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 122.63,
-      "change": 2.83,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRkc1dldYYTh4SWdyLXFJbndBeEFRc1ZJZFZtQVMtNTh0SWF4ZUs5cWwtZ1VsSWpzenZ4RWJ2N003T243TzlfS0cyX2FkWXotdmc1R0FsWUpVaGc?oc=5",
-      "image": null,
-      "headline": "Trump's Canada tariff strategy aims for reciprocity, EJ Antoni says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        },
-        {
-          "d": "08-12",
-          "c": 94.83
-        },
-        {
-          "d": "08-13",
-          "c": 97.1
-        },
-        {
-          "d": "08-14",
-          "c": 93.04
-        },
-        {
-          "d": "08-17",
-          "c": 97.68
-        },
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        },
-        {
-          "d": "08-24",
-          "c": 122.63
-        }
-      ]
-    },
-    {
-      "id": "827f325fe010c516",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T17:53:34+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up - 24/7 Wall St. RUM Group Rallies 7% on $13.7B",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.2,
-      "change": 1.1,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGtnX0NrdHBFVlZYNzV4bDRMai1hc3pmcnhROGtXNXEzUUxiUXNSRnYwMXh0ajhoNzN3M2VLTlNTNENWYnFBVUVZVFF6QVgzUzZBa1Q3Vnl5SUhqczhHWmJVWnpmQzZHbnE2UHJyWVBFcDk5dDJJZ1A4UkhIRWJpQVNheS1oVVNoQ1NLUWthU2xIN0tYcDIwdHpHWnpXNVpqeEJTNF8zNVdIdw?oc=5",
-      "image": null,
-      "headline": "RUM Group Rallies 7% on $13.7B GPU Contract, Trump Media Ticks Up - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-24",
-          "c": 8.56
-        },
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.2
         }
       ]
     }
