@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-10-10T08:47:24.987960+00:00",
+  "updated_at": "2026-10-10T14:53:22.193804+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7e2f616145b85d77",
+      "date": "Sat, 10 Oct 2026",
+      "ts": "2026-10-10T09:00:00+00:00",
+      "date_display": "Oct 10, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "parties. They hope Latino content creators will bridge the gap.",
+      "company": "Gap",
+      "ticker": "GPS",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+      "image": null,
+      "headline": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "95d68940a72aa0a3",
       "date": "Sat, 10 Oct 2026",
@@ -38108,110 +38127,6 @@
         {
           "d": "08-24",
           "c": 382.41
-        }
-      ]
-    },
-    {
-      "id": "2cc99f916e6f4fae",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T19:24:48+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "tariff strategy aims for reciprocity, EJ Antoni says - Fox Business Trump's Canada tariff strategy aims for",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.59,
-      "change": 0.88,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRkc1dldYYTh4SWdyLXFJbndBeEFRc1ZJZFZtQVMtNTh0SWF4ZUs5cWwtZ1VsSWpzenZ4RWJ2N003T243TzlfS0cyX2FkWXotdmc1R0FsWUpVaGc?oc=5",
-      "image": null,
-      "headline": "Trump's Canada tariff strategy aims for reciprocity, EJ Antoni says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 50.81
-        },
-        {
-          "d": "07-28",
-          "c": 51.63
-        },
-        {
-          "d": "07-29",
-          "c": 52.73
-        },
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        },
-        {
-          "d": "08-24",
-          "c": 61.59
         }
       ]
     }
