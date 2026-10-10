@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-10T19:02:10.159299+00:00",
+  "updated_at": "2026-10-10T22:44:01.049566+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "bfaf88dd064e3200",
+      "date": "Sat, 10 Oct 2026",
+      "ts": "2026-10-10T21:40:18+00:00",
+      "date_display": "Oct 10, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Trump's economic strategy resemble similar policies in East Asia Much of the Trump",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 154.34,
+      "change": 1.89,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
+      "image": null,
+      "headline": "Trump's economic strategy resemble similar policies in East Asia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-10",
+          "c": 128.56
+        },
+        {
+          "d": "09-11",
+          "c": 130.97
+        },
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.61
+        },
+        {
+          "d": "09-25",
+          "c": 158.61
+        },
+        {
+          "d": "09-28",
+          "c": 157.14
+        },
+        {
+          "d": "09-29",
+          "c": 154.67
+        },
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        },
+        {
+          "d": "10-07",
+          "c": 153.37
+        },
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.34
+        }
+      ]
+    },
     {
       "id": "7e2f616145b85d77",
       "date": "Sat, 10 Oct 2026",
@@ -38023,110 +38131,6 @@
         {
           "d": "08-31",
           "c": 9.77
-        }
-      ]
-    },
-    {
-      "id": "6f1109185b92f1c3",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T20:59:38+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "U.S. set for largest mass visa revocation in history targeting up to 200,000 foreigners,",
-      "company": "Visa",
-      "ticker": "V",
-      "price": 382.41,
-      "change": 3.06,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/u-s-set-for-largest-mass-visa-revocation-in-history-targeting-up-to-200000-foreigners-officials-say",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2017-01-26T120000Z_967402325_RC1DC84D5960_RTRMADP_3_USA-POLITICS-RESIGNATIONS-1024x689.jpg",
-      "headline": "U.S. set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 361.86
-        },
-        {
-          "d": "07-28",
-          "c": 365.91
-        },
-        {
-          "d": "07-29",
-          "c": 368.05
-        },
-        {
-          "d": "07-30",
-          "c": 365.59
-        },
-        {
-          "d": "07-31",
-          "c": 365.45
-        },
-        {
-          "d": "08-03",
-          "c": 364.99
-        },
-        {
-          "d": "08-04",
-          "c": 368.9
-        },
-        {
-          "d": "08-05",
-          "c": 367.86
-        },
-        {
-          "d": "08-06",
-          "c": 369.78
-        },
-        {
-          "d": "08-07",
-          "c": 361.83
-        },
-        {
-          "d": "08-10",
-          "c": 360.65
-        },
-        {
-          "d": "08-11",
-          "c": 362.82
-        },
-        {
-          "d": "08-12",
-          "c": 359.42
-        },
-        {
-          "d": "08-13",
-          "c": 365.45
-        },
-        {
-          "d": "08-14",
-          "c": 364.15
-        },
-        {
-          "d": "08-17",
-          "c": 358.84
-        },
-        {
-          "d": "08-18",
-          "c": 364.25
-        },
-        {
-          "d": "08-19",
-          "c": 365.54
-        },
-        {
-          "d": "08-20",
-          "c": 365.73
-        },
-        {
-          "d": "08-21",
-          "c": 371.04
-        },
-        {
-          "d": "08-24",
-          "c": 382.41
         }
       ]
     }
