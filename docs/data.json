@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T08:38:49.810263+00:00",
+  "updated_at": "2026-10-13T16:33:23.470820+00:00",
   "count": 400,
   "mentions": [
     {
@@ -415,6 +415,114 @@
         {
           "d": "10-12",
           "c": 152.68
+        }
+      ]
+    },
+    {
+      "id": "3abf22e1484ccd31",
+      "date": "Mon, 12 Oct 2026",
+      "ts": "2026-10-12T17:17:17+00:00",
+      "date_display": "Oct 12, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "federal investigation,\" while Omar calls it \"an attempt to target political enemies.\"",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 152.85,
+      "change": -0.5,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "image": null,
+      "headline": "Agents search Rep. Omar's D.C. home; DOJ says it's part of criminal investigation",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-14",
+          "c": 158.7
+        },
+        {
+          "d": "09-15",
+          "c": 154.4
+        },
+        {
+          "d": "09-16",
+          "c": 154.68
+        },
+        {
+          "d": "09-17",
+          "c": 159.83
+        },
+        {
+          "d": "09-18",
+          "c": 158.19
+        },
+        {
+          "d": "09-21",
+          "c": 157.71
+        },
+        {
+          "d": "09-22",
+          "c": 159.02
+        },
+        {
+          "d": "09-23",
+          "c": 156.26
+        },
+        {
+          "d": "09-24",
+          "c": 156.15
+        },
+        {
+          "d": "09-25",
+          "c": 157.45
+        },
+        {
+          "d": "09-28",
+          "c": 158.43
+        },
+        {
+          "d": "09-29",
+          "c": 156.43
+        },
+        {
+          "d": "09-30",
+          "c": 156.69
+        },
+        {
+          "d": "10-01",
+          "c": 156.7
+        },
+        {
+          "d": "10-02",
+          "c": 156.0
+        },
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 152.85
         }
       ]
     },
@@ -38035,110 +38143,6 @@
         {
           "d": "08-24",
           "c": 61.59
-        }
-      ]
-    },
-    {
-      "id": "fc62bac2b4524235",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T22:20:02+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Tamara Keith and Amy Walter on Trump's midterm strategy NPR's Tamara Keith and Amy Walter of the Cook Political",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 122.63,
-      "change": 2.83,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-strategy",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/politics-1024x576.jpg",
-      "headline": "Tamara Keith and Amy Walter on Trump's midterm strategy",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 98.65
-        },
-        {
-          "d": "07-28",
-          "c": 96.16
-        },
-        {
-          "d": "07-29",
-          "c": 93.33
-        },
-        {
-          "d": "07-30",
-          "c": 97.74
-        },
-        {
-          "d": "07-31",
-          "c": 93.28
-        },
-        {
-          "d": "08-03",
-          "c": 94.86
-        },
-        {
-          "d": "08-04",
-          "c": 97.65
-        },
-        {
-          "d": "08-05",
-          "c": 98.37
-        },
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        },
-        {
-          "d": "08-12",
-          "c": 94.83
-        },
-        {
-          "d": "08-13",
-          "c": 97.1
-        },
-        {
-          "d": "08-14",
-          "c": 93.04
-        },
-        {
-          "d": "08-17",
-          "c": 97.68
-        },
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        },
-        {
-          "d": "08-24",
-          "c": 122.63
         }
       ]
     }
