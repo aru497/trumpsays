@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-10-12T19:29:27.412651+00:00",
+  "updated_at": "2026-10-13T01:32:42.005524+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2ec95df1cdd81a67",
+      "date": "Mon, 12 Oct 2026",
+      "ts": "2026-10-12T22:55:20+00:00",
+      "date_display": "Oct 12, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Geoff Bennett discussed more with Devlin Barrett, a New York Times reporter and author of \"The Department of Revenge.\"",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 66.08,
+      "change": -0.36,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/rep-omar-accuses-trump-of-political-intimidation-after-agents-search-her-home",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/ilhanomar-1024x683.jpg",
+      "headline": "Rep. Omar accuses Trump of political intimidation after agents search her home",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-14",
+          "c": 70.09
+        },
+        {
+          "d": "09-15",
+          "c": 71.45
+        },
+        {
+          "d": "09-16",
+          "c": 72.15
+        },
+        {
+          "d": "09-17",
+          "c": 69.69
+        },
+        {
+          "d": "09-18",
+          "c": 69.96
+        },
+        {
+          "d": "09-21",
+          "c": 70.28
+        },
+        {
+          "d": "09-22",
+          "c": 65.22
+        },
+        {
+          "d": "09-23",
+          "c": 61.67
+        },
+        {
+          "d": "09-24",
+          "c": 62.82
+        },
+        {
+          "d": "09-25",
+          "c": 63.6
+        },
+        {
+          "d": "09-28",
+          "c": 63.94
+        },
+        {
+          "d": "09-29",
+          "c": 62.1
+        },
+        {
+          "d": "09-30",
+          "c": 63.47
+        },
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        }
+      ]
+    },
+    {
+      "id": "9e836cc4ff5e023d",
+      "date": "Mon, 12 Oct 2026",
+      "ts": "2026-10-12T20:56:53+00:00",
+      "date_display": "Oct 12, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump announces Russia-Ukraine energy ceasefire - Fox Business Trump announces Russia-Ukraine energy",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.98,
+      "change": 0.16,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvU3V5VU92b3BIbTdLQVdNcXZjdVg3NHhDdERDeWd3UVYyTXY5Zk1HcmtsNWZvOFBCbnoxOXc1QlMzRXRJN2NOZTZoQ1JxVktoeDkxUjZyOXhFNlk?oc=5",
+      "image": null,
+      "headline": "Trump announces Russia-Ukraine energy ceasefire - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-14",
+          "c": 61.14
+        },
+        {
+          "d": "09-15",
+          "c": 60.34
+        },
+        {
+          "d": "09-16",
+          "c": 59.15
+        },
+        {
+          "d": "09-17",
+          "c": 58.43
+        },
+        {
+          "d": "09-18",
+          "c": 57.74
+        },
+        {
+          "d": "09-21",
+          "c": 57.9
+        },
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        }
+      ]
+    },
+    {
+      "id": "68aa58bdcee2939e",
+      "date": "Mon, 12 Oct 2026",
+      "ts": "2026-10-12T20:00:00+00:00",
+      "date_display": "Oct 12, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Bought Coinbase Stock in July and Sold Some of It on August 10. The Same",
+      "company": "Coinbase",
+      "ticker": "COIN",
+      "price": 180.39,
+      "change": 0.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQblY4SUtrS2xydkhnQllteFphWXBRU1NPRU82RGItYTJKd21TYkFpWTNSU25nYy1SZFVYVGUwREV3T0VydnpUYU1WWC1iZVFjOW1lN25KczY1VVNIQngxa3MxYUdqajJyLV9HUGRNVG9wUXJndTl2VVBYcXB4ZjRPTEV4ekcyQWtYWTdYdWI1dHVSWjBtRmlpMzU0SkRocnRqYXdfcGYyTURCaGhzNng4UWNkb3FTaWtjaDluZV9BVWFXaHFUUzl3RjhkeThHTDlLYUVRcU5OSUFrb0lENkNGS3I3YkpDNHpsMWNSSk84S29IVXlKUmR1NUtJOUQ5MDFZTFBqUUdTTnMyVU02bkRYMWRKbUhxSUN0SmttdXRSV3M4UzBK?oc=5",
+      "image": null,
+      "headline": "Trump Bought Coinbase Stock in July and Sold Some of It on August 10. The Same Day, He Bought More Strategy. Here Is What Both Have Done Since. - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-14",
+          "c": 191.45
+        },
+        {
+          "d": "09-15",
+          "c": 172.11
+        },
+        {
+          "d": "09-16",
+          "c": 164.51
+        },
+        {
+          "d": "09-17",
+          "c": 173.97
+        },
+        {
+          "d": "09-18",
+          "c": 194.25
+        },
+        {
+          "d": "09-21",
+          "c": 201.05
+        },
+        {
+          "d": "09-22",
+          "c": 201.07
+        },
+        {
+          "d": "09-23",
+          "c": 198.13
+        },
+        {
+          "d": "09-24",
+          "c": 199.21
+        },
+        {
+          "d": "09-25",
+          "c": 195.11
+        },
+        {
+          "d": "09-28",
+          "c": 191.79
+        },
+        {
+          "d": "09-29",
+          "c": 190.02
+        },
+        {
+          "d": "09-30",
+          "c": 186.41
+        },
+        {
+          "d": "10-01",
+          "c": 189.29
+        },
+        {
+          "d": "10-02",
+          "c": 183.0
+        },
+        {
+          "d": "10-05",
+          "c": 188.22
+        },
+        {
+          "d": "10-06",
+          "c": 185.74
+        },
+        {
+          "d": "10-07",
+          "c": 178.45
+        },
+        {
+          "d": "10-08",
+          "c": 172.0
+        },
+        {
+          "d": "10-09",
+          "c": 179.39
+        },
+        {
+          "d": "10-12",
+          "c": 180.39
+        }
+      ]
+    },
+    {
+      "id": "3b1186bf385d536e",
+      "date": "Mon, 12 Oct 2026",
+      "ts": "2026-10-12T20:00:00+00:00",
+      "date_display": "Oct 12, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Sold Some of It on August 10. The Same Day, He Bought More Strategy. Here Is What Both Have Done Since. - 24/7 Wall St. Trump",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 152.68,
+      "change": -1.08,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQblY4SUtrS2xydkhnQllteFphWXBRU1NPRU82RGItYTJKd21TYkFpWTNSU25nYy1SZFVYVGUwREV3T0VydnpUYU1WWC1iZVFjOW1lN25KczY1VVNIQngxa3MxYUdqajJyLV9HUGRNVG9wUXJndTl2VVBYcXB4ZjRPTEV4ekcyQWtYWTdYdWI1dHVSWjBtRmlpMzU0SkRocnRqYXdfcGYyTURCaGhzNng4UWNkb3FTaWtjaDluZV9BVWFXaHFUUzl3RjhkeThHTDlLYUVRcU5OSUFrb0lENkNGS3I3YkpDNHpsMWNSSk84S29IVXlKUmR1NUtJOUQ5MDFZTFBqUUdTTnMyVU02bkRYMWRKbUhxSUN0SmttdXRSV3M4UzBK?oc=5",
+      "image": null,
+      "headline": "Trump Bought Coinbase Stock in July and Sold Some of It on August 10. The Same Day, He Bought More Strategy. Here Is What Both Have Done Since. - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-14",
+          "c": 136.94
+        },
+        {
+          "d": "09-15",
+          "c": 129.6
+        },
+        {
+          "d": "09-16",
+          "c": 126.18
+        },
+        {
+          "d": "09-17",
+          "c": 132.25
+        },
+        {
+          "d": "09-18",
+          "c": 153.92
+        },
+        {
+          "d": "09-21",
+          "c": 168.5
+        },
+        {
+          "d": "09-22",
+          "c": 167.33
+        },
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.61
+        },
+        {
+          "d": "09-25",
+          "c": 158.61
+        },
+        {
+          "d": "09-28",
+          "c": 157.14
+        },
+        {
+          "d": "09-29",
+          "c": 154.67
+        },
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        },
+        {
+          "d": "10-07",
+          "c": 153.37
+        },
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.34
+        },
+        {
+          "d": "10-12",
+          "c": 152.68
+        }
+      ]
+    },
     {
       "id": "c01835f31ea1029f",
       "date": "Mon, 12 Oct 2026",
@@ -37723,422 +38139,6 @@
         {
           "d": "08-24",
           "c": 122.63
-        }
-      ]
-    },
-    {
-      "id": "8f9ecefc550c8c36",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T22:08:02+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "My Parry Sound Now",
-      "type": "news",
-      "quote": "Trump threatens new tariffs, attacks Carney and Ford as trade war escalates - My Parry Sound Now Trump",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 13.93,
-      "change": -3.33,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHVYZDQ5YlQtWDNleGV5Y2pqVzdMcXFVM3Jkc20xQlhuWXpfTzZTTEktNUQtQkRMS0U0bXI1b0h5bFVMc0lhVXA5cEFtYTRIRy0xcmJiV1hnT1hOZThaVTdhWk9aRVhYcG9nb2MweUFRYmdWRkQzWFdaQVRTUEhNZDg2blVaMmFpaXNkajl0UDJOZkxDbGt5dHpiWVc3bTRqX0ZjVmFoc0ZtdWQ0OTZsSjkySGtnb3hDX29fVDkwNEZfdG1qR3c?oc=5",
-      "image": null,
-      "headline": "Trump threatens new tariffs, attacks Carney and Ford as trade war escalates - My Parry Sound Now",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 14.52
-        },
-        {
-          "d": "07-28",
-          "c": 14.8
-        },
-        {
-          "d": "07-29",
-          "c": 15.12
-        },
-        {
-          "d": "07-30",
-          "c": 14.7
-        },
-        {
-          "d": "07-31",
-          "c": 14.52
-        },
-        {
-          "d": "08-03",
-          "c": 14.28
-        },
-        {
-          "d": "08-04",
-          "c": 14.09
-        },
-        {
-          "d": "08-05",
-          "c": 13.98
-        },
-        {
-          "d": "08-06",
-          "c": 13.64
-        },
-        {
-          "d": "08-07",
-          "c": 13.83
-        },
-        {
-          "d": "08-10",
-          "c": 13.85
-        },
-        {
-          "d": "08-11",
-          "c": 13.98
-        },
-        {
-          "d": "08-12",
-          "c": 13.83
-        },
-        {
-          "d": "08-13",
-          "c": 13.89
-        },
-        {
-          "d": "08-14",
-          "c": 14.37
-        },
-        {
-          "d": "08-17",
-          "c": 14.05
-        },
-        {
-          "d": "08-18",
-          "c": 13.93
-        },
-        {
-          "d": "08-19",
-          "c": 14.5
-        },
-        {
-          "d": "08-20",
-          "c": 13.99
-        },
-        {
-          "d": "08-21",
-          "c": 14.41
-        },
-        {
-          "d": "08-24",
-          "c": 13.93
-        }
-      ]
-    },
-    {
-      "id": "d95383678543a6e8",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T22:05:00+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "finance.biggo.com",
-      "type": "news",
-      "quote": "Trump Media Interim CEO Says Truth API Deals Climb to Mid-Teens as He",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.3,
-      "change": 2.2,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jdjdJdkJJZW1uSVlkeEYwRWgtc0ZwNXNZX1JXX2lSTGl4NURqR1BzZHdmekwxVFkzUUc0eGtDdFBob2FTSlBtZ1BCVWw4Vno1YzZaRmRaYTJjYUE1a3lNNFNZZzVBUy12dnZUVFZzNTdTSm5RVkE?oc=5",
-      "image": null,
-      "headline": "Trump Media Interim CEO Says Truth API Deals Climb to Mid-Teens as He Defends Paid Feed - finance.biggo.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        }
-      ]
-    },
-    {
-      "id": "08dea853de3930bf",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T21:54:26+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "Pluang",
-      "type": "news",
-      "quote": "Trump Media defends Truth API as standard tech amid legal scrutiny and",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.3,
-      "change": 2.2,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVNxclBKam9EdVVXdHdHVDlnNUYwY2NQZnZORlRnV0tIWUZtSGpuRUNOSnh2ODZsMExrdzRyc3JGMUlaLVZDeFRsaEtObUhBT29WRTl3Yi1PMnFjUzlFUnBrLVV4dkdFYks0ZGNTblFvZG40bzFZY1N3NzdmWi1Fbk1ZaVVuZXZZWWd3Q29zd2RKWWZ2?oc=5",
-      "image": null,
-      "headline": "Trump Media defends Truth API as standard tech amid legal scrutiny and plans retail expansion. - Pluang",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        }
-      ]
-    },
-    {
-      "id": "346df03c61a57d22",
-      "date": "Mon, 24 Aug 2026",
-      "ts": "2026-08-24T21:42:00+00:00",
-      "date_display": "Aug 24, 2026",
-      "source": "WSJ",
-      "type": "news",
-      "quote": "Opinion | Trump to Ford Motor: Drop Dead - WSJ Opinion | Trump to Ford Motor: Drop",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 13.93,
-      "change": -3.33,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSC0tOFk5TW5xR3poaFFxWDVvUjlfLTBaM2xEVFZtMmFZaDhTOHZ6ZC1XdEwxcTRTSi1XT3Z3NjJMbHBkSlk2Y0RVVVMtNVdnbFU1N0hxT28zZURaTmx1RWdVQmNVUGpNd2VUSEcyWlFpaHMwZHlnRlF4M2FXRWZmZ1Jla1hwQzJTaW5qQlpFdU1YMks0V3BB?oc=5",
-      "image": null,
-      "headline": "Opinion | Trump to Ford Motor: Drop Dead - WSJ",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 14.52
-        },
-        {
-          "d": "07-28",
-          "c": 14.8
-        },
-        {
-          "d": "07-29",
-          "c": 15.12
-        },
-        {
-          "d": "07-30",
-          "c": 14.7
-        },
-        {
-          "d": "07-31",
-          "c": 14.52
-        },
-        {
-          "d": "08-03",
-          "c": 14.28
-        },
-        {
-          "d": "08-04",
-          "c": 14.09
-        },
-        {
-          "d": "08-05",
-          "c": 13.98
-        },
-        {
-          "d": "08-06",
-          "c": 13.64
-        },
-        {
-          "d": "08-07",
-          "c": 13.83
-        },
-        {
-          "d": "08-10",
-          "c": 13.85
-        },
-        {
-          "d": "08-11",
-          "c": 13.98
-        },
-        {
-          "d": "08-12",
-          "c": 13.83
-        },
-        {
-          "d": "08-13",
-          "c": 13.89
-        },
-        {
-          "d": "08-14",
-          "c": 14.37
-        },
-        {
-          "d": "08-17",
-          "c": 14.05
-        },
-        {
-          "d": "08-18",
-          "c": 13.93
-        },
-        {
-          "d": "08-19",
-          "c": 14.5
-        },
-        {
-          "d": "08-20",
-          "c": 13.99
-        },
-        {
-          "d": "08-21",
-          "c": 14.41
-        },
-        {
-          "d": "08-24",
-          "c": 13.93
         }
       ]
     }
