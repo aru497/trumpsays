@@ -1,7 +1,350 @@
 {
-  "updated_at": "2026-10-15T19:19:09.808259+00:00",
+  "updated_at": "2026-10-15T22:31:26.633066+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ec29386ba554fbff",
+      "date": "Thu, 15 Oct 2026",
+      "ts": "2026-10-15T20:27:35+00:00",
+      "date_display": "Oct 15, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 342.0,
+      "change": -0.28,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
+      "image": null,
+      "headline": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-16",
+          "c": 332.41
+        },
+        {
+          "d": "09-17",
+          "c": 337.0
+        },
+        {
+          "d": "09-18",
+          "c": 336.13
+        },
+        {
+          "d": "09-21",
+          "c": 338.98
+        },
+        {
+          "d": "09-22",
+          "c": 339.75
+        },
+        {
+          "d": "09-23",
+          "c": 337.02
+        },
+        {
+          "d": "09-24",
+          "c": 335.92
+        },
+        {
+          "d": "09-25",
+          "c": 341.07
+        },
+        {
+          "d": "09-28",
+          "c": 338.4
+        },
+        {
+          "d": "09-29",
+          "c": 329.4
+        },
+        {
+          "d": "09-30",
+          "c": 333.02
+        },
+        {
+          "d": "10-01",
+          "c": 330.32
+        },
+        {
+          "d": "10-02",
+          "c": 333.69
+        },
+        {
+          "d": "10-05",
+          "c": 332.89
+        },
+        {
+          "d": "10-06",
+          "c": 333.63
+        },
+        {
+          "d": "10-07",
+          "c": 336.67
+        },
+        {
+          "d": "10-08",
+          "c": 340.42
+        },
+        {
+          "d": "10-09",
+          "c": 336.64
+        },
+        {
+          "d": "10-12",
+          "c": 340.97
+        },
+        {
+          "d": "10-13",
+          "c": 341.27
+        },
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        }
+      ]
+    },
+    {
+      "id": "d72568f41e7fb5a8",
+      "date": "Thu, 15 Oct 2026",
+      "ts": "2026-10-15T20:27:35+00:00",
+      "date_display": "Oct 15, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Nvidia, Apple each gave $25 million for Trump's ballroom,",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 217.23,
+      "change": -1.84,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
+      "image": null,
+      "headline": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-16",
+          "c": 213.9
+        },
+        {
+          "d": "09-17",
+          "c": 219.34
+        },
+        {
+          "d": "09-18",
+          "c": 222.27
+        },
+        {
+          "d": "09-21",
+          "c": 227.38
+        },
+        {
+          "d": "09-22",
+          "c": 228.87
+        },
+        {
+          "d": "09-23",
+          "c": 225.51
+        },
+        {
+          "d": "09-24",
+          "c": 224.58
+        },
+        {
+          "d": "09-25",
+          "c": 225.07
+        },
+        {
+          "d": "09-28",
+          "c": 228.86
+        },
+        {
+          "d": "09-29",
+          "c": 227.21
+        },
+        {
+          "d": "09-30",
+          "c": 228.38
+        },
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        }
+      ]
+    },
+    {
+      "id": "5b59e965dc5dbde6",
+      "date": "Thu, 15 Oct 2026",
+      "ts": "2026-10-15T19:54:41+00:00",
+      "date_display": "Oct 15, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Trump administration sues California to block counting of alleged noncitizen mail ballots The Trump",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-06-02T173428Z_1240017471_RC2SLLAG5UY8_RTRMADP_3_USA-ELECTION-CALIFORNIA-1-1024x683.jpg",
+      "headline": "Trump administration sues California to block counting of alleged noncitizen mail ballots",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "bc5cbabc3537928f",
+      "date": "Thu, 15 Oct 2026",
+      "ts": "2026-10-15T19:15:00+00:00",
+      "date_display": "Oct 15, 2026",
+      "source": "New York Post",
+      "type": "news",
+      "quote": "JPMorgan says Trump still has a personal bank account as it seeks",
+      "company": "Jpmorgan",
+      "ticker": "JPM",
+      "price": 335.53,
+      "change": 0.07,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSW5ub0tzMUR3bVNRQ2t2WGhiQ3JYdllxZVlzTG5jeTl5RnlGZGt2emZoS1gzaGZOb05aM0V2OEg2VUZ3ZjdZdEpraHoycWtPYlEySEpvS0xSTVg3cHROYmV2NlItcU8xSzd3d3ZzbUc2V3ZxUXB6bm1hWm9tbzJrVzBBOUhPTzJpdXgzdXdEcWlGcVVoMVNibEV4aE5ISDgwaTF1NTZ2X2tfQWdzcnNib1h0WHdaYXRSeWFTZUV2X0ExUHRHdDVMUzFMT3hJekE?oc=5",
+      "image": null,
+      "headline": "JPMorgan says Trump still has a personal bank account as it seeks to toss $5B 'debanking' lawsuit - New York Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-16",
+          "c": 347.19
+        },
+        {
+          "d": "09-17",
+          "c": 347.58
+        },
+        {
+          "d": "09-18",
+          "c": 347.93
+        },
+        {
+          "d": "09-21",
+          "c": 350.29
+        },
+        {
+          "d": "09-22",
+          "c": 338.31
+        },
+        {
+          "d": "09-23",
+          "c": 335.85
+        },
+        {
+          "d": "09-24",
+          "c": 336.88
+        },
+        {
+          "d": "09-25",
+          "c": 341.36
+        },
+        {
+          "d": "09-28",
+          "c": 334.92
+        },
+        {
+          "d": "09-29",
+          "c": 333.32
+        },
+        {
+          "d": "09-30",
+          "c": 329.19
+        },
+        {
+          "d": "10-01",
+          "c": 331.53
+        },
+        {
+          "d": "10-02",
+          "c": 330.73
+        },
+        {
+          "d": "10-05",
+          "c": 330.73
+        },
+        {
+          "d": "10-06",
+          "c": 331.28
+        },
+        {
+          "d": "10-07",
+          "c": 329.58
+        },
+        {
+          "d": "10-08",
+          "c": 331.42
+        },
+        {
+          "d": "10-09",
+          "c": 332.99
+        },
+        {
+          "d": "10-12",
+          "c": 334.3
+        },
+        {
+          "d": "10-13",
+          "c": 331.43
+        },
+        {
+          "d": "10-14",
+          "c": 335.28
+        },
+        {
+          "d": "10-15",
+          "c": 335.53
+        }
+      ]
+    },
     {
       "id": "103b9b27f40d7a21",
       "date": "Thu, 15 Oct 2026",
@@ -37743,434 +38086,6 @@
         {
           "d": "08-25",
           "c": 5.26
-        }
-      ]
-    },
-    {
-      "id": "9ef674a3e7a8a342",
-      "date": "Tue, 25 Aug 2026",
-      "ts": "2026-08-25T17:50:39+00:00",
-      "date_display": "Aug 25, 2026",
-      "source": "BeInCrypto",
-      "type": "news",
-      "quote": "Did Trump Just Move SpaceX Stock With One Truth Social Post? - BeInCrypto Did Trump Just Move SpaceX Stock With",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.4,
-      "change": 1.08,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YNThaaWhaSm5NdDM3RDYxY1phaWVJQXZKYTVCWTcyX3NzeWlrYUtFTEUtQjVIblZVcHZUVVBKNkJjSVlYZDhPdmctRXNrZjdyWGhXNUZrRVZBSmZnTDdUdHU5QTlFQkh4YUVV?oc=5",
-      "image": null,
-      "headline": "Did Trump Just Move SpaceX Stock With One Truth Social Post? - BeInCrypto",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        }
-      ]
-    },
-    {
-      "id": "60b0986170fd9124",
-      "date": "Tue, 25 Aug 2026",
-      "ts": "2026-08-25T17:21:18+00:00",
-      "date_display": "Aug 25, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat - 24/7 Wall St. RUM Group Surges 11% as CEO",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.4,
-      "change": 1.08,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUg2d0RxOFlCdWZCUnotbnR5WnlZVml5WDNyelJDNUFudWFHUGRVSl96YVRHaXBBbm9rYlFXaFhRTnhqRlhuMFlsZ1BMRzNaa0pSczBkVDJpc0JKX0FTVlNRNHRxcWNPd2NON0E2ZmMtaEhoUVdlQUdHcnlRX2JhNDJDSnFnZkx1S0RqM3g5bkotU1pQYkZpM2FTODFrbjltek93bHFSUG9iWThoWW56Q0RDOHJuNWozWWlkV1FQZkw3SVJnOHJZak9B?oc=5",
-      "image": null,
-      "headline": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        }
-      ]
-    },
-    {
-      "id": "d4c873c422b67b78",
-      "date": "Tue, 25 Aug 2026",
-      "ts": "2026-08-25T14:24:33+00:00",
-      "date_display": "Aug 25, 2026",
-      "source": "MS NOW",
-      "type": "news",
-      "quote": "Trump Media CEO touts customers, defends selling special access to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.26,
-      "change": -0.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOW91M05NMV85M2tBX25FcVdWMmNabDVfOElLQkxRWEg0US04bmVQWnE1b1djeDZ0V1JEeUJtU2FBbkxwalNsSERtemh0VC1aRXdldmZjaVg4RnM3eWViYUpobGtBOXlGWjlISHYwS2hMb1ZxR01rSUdRWEFsRERiMjZZT2M4bVJia2RwUzF2TFdKUVZvRG4ycS1NWjk1YUZFdXRZZDN5dFMySWFycXZN?oc=5",
-      "image": null,
-      "headline": "Trump Media CEO touts customers, defends selling special access to president\u2019s posts - MS NOW",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.26
-        }
-      ]
-    },
-    {
-      "id": "650da1286a42c516",
-      "date": "Tue, 25 Aug 2026",
-      "ts": "2026-08-25T08:06:32+00:00",
-      "date_display": "Aug 25, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "DJT Stock Rises Premarket: Trump Media CEO Defends Truth API As 'An Obvious Place To Go' -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.3,
-      "change": 2.2,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYzZNYkltTUsyQnhyUGYtd3NBUzhQVDdSVlNqQkVGS2NlYjl3TnFBYmt0dklfMXFyZV9JNTdRZkx0UjVZTVNrODdPMG1PYklRMGdsWjNlbXJrU3hPMWNIWk9xXzUyYlltZTZ4dXF4V3BZSmxrWk5lMG56VTh5RVBlUlJ4UmRUZkhrQjNGM2lVOWNUTTBrXy0xZmN5TjNpNDR5YmhoN0hyTHJlNERleWFTNVlCOGswZGVCeGJLVUN5UmtBbElIZ3JjVWQtODh2QU1XN1lBbHA4bGphU3pHX3ZN?oc=5",
-      "image": null,
-      "headline": "DJT Stock Rises Premarket: Trump Media CEO Defends Truth API As 'An Obvious Place To Go' - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-27",
-          "c": 9.56
-        },
-        {
-          "d": "07-28",
-          "c": 9.88
-        },
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
         }
       ]
     }
