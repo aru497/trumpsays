@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-16T18:16:29.530753+00:00",
+  "updated_at": "2026-10-16T21:26:43.027757+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "fcf9cfdef9a36710",
+      "date": "Fri, 16 Oct 2026",
+      "ts": "2026-10-16T19:10:00+00:00",
+      "date_display": "Oct 16, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks;",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 6.99,
+      "change": -5.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkdHOGVfTmNISC1xdXRaVlh5amNPbFNVOUFTSElncmRZWEZyRjNhY3g1S1U5X053XzgyTGRmdXZOYlE1Z1RXeUp4MXZHc1JJZUVCajN3MjU5WVB1eGN6M2Mxb2Y5VjlvWUpVUDg2aVlEdkVmNjhqc3doSF9oUVdVX2tCNDdEd0RBZDBuMElTY1cyeTUwaDM0cVlhV1kxNkRXUkI0RVAtcl93YW9IbDNLbVcxekYxM1ZpcWlBTmxQN0ZKUXM?oc=5",
+      "image": null,
+      "headline": "Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8% - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-17",
+          "c": 8.68
+        },
+        {
+          "d": "09-18",
+          "c": 8.85
+        },
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        }
+      ]
+    },
     {
       "id": "a9d50966c90c3953",
       "date": "Fri, 16 Oct 2026",
@@ -38156,114 +38264,6 @@
         {
           "d": "08-27",
           "c": 229.77
-        }
-      ]
-    },
-    {
-      "id": "18b78bf3bd1b8f19",
-      "date": "Wed, 26 Aug 2026",
-      "ts": "2026-08-26T22:55:13+00:00",
-      "date_display": "Aug 26, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "$17B Meta settlement puts focus on youth mental health crisis,",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 576.14,
-      "change": 1.07,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/17b-meta-settlement-puts-focus-on-youth-mental-health-crisis-colorado-ag-says",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/meta-1-1024x708.jpg",
-      "headline": "$17B Meta settlement puts focus on youth mental health crisis, Colorado AG says",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-28",
-          "c": 593.41
-        },
-        {
-          "d": "07-29",
-          "c": 585.61
-        },
-        {
-          "d": "07-30",
-          "c": 539.03
-        },
-        {
-          "d": "07-31",
-          "c": 556.71
-        },
-        {
-          "d": "08-03",
-          "c": 590.24
-        },
-        {
-          "d": "08-04",
-          "c": 587.94
-        },
-        {
-          "d": "08-05",
-          "c": 588.77
-        },
-        {
-          "d": "08-06",
-          "c": 589.9
-        },
-        {
-          "d": "08-07",
-          "c": 592.1
-        },
-        {
-          "d": "08-10",
-          "c": 594.92
-        },
-        {
-          "d": "08-11",
-          "c": 599.12
-        },
-        {
-          "d": "08-12",
-          "c": 578.85
-        },
-        {
-          "d": "08-13",
-          "c": 594.97
-        },
-        {
-          "d": "08-14",
-          "c": 589.85
-        },
-        {
-          "d": "08-17",
-          "c": 568.97
-        },
-        {
-          "d": "08-18",
-          "c": 543.67
-        },
-        {
-          "d": "08-19",
-          "c": 546.03
-        },
-        {
-          "d": "08-20",
-          "c": 545.83
-        },
-        {
-          "d": "08-21",
-          "c": 549.9
-        },
-        {
-          "d": "08-24",
-          "c": 559.02
-        },
-        {
-          "d": "08-25",
-          "c": 570.05
-        },
-        {
-          "d": "08-26",
-          "c": 576.14
         }
       ]
     }
