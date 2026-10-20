@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-10-19T21:48:43.197283+00:00",
+  "updated_at": "2026-10-20T00:46:59.997455+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "34b8891b7d666daa",
+      "date": "Mon, 19 Oct 2026",
+      "ts": "2026-10-19T22:35:56+00:00",
+      "date_display": "Oct 19, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "races for governor and U.S. Senate are both seen as toss-ups by The Cook Political Report, and there are a handful of",
+      "company": "Ups",
+      "ticker": "UPS",
+      "price": 97.48,
+      "change": -0.36,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/ohio-becomes-midterm-battleground-after-years-of-republican-wins",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/6pm-Broadcast-CR1-6_22_05-pm-2026-10-19-1024x576.jpg",
+      "headline": "Ohio becomes midterm battleground after years of Republican wins",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 94.75
+        },
+        {
+          "d": "09-22",
+          "c": 95.87
+        },
+        {
+          "d": "09-23",
+          "c": 95.82
+        },
+        {
+          "d": "09-24",
+          "c": 92.05
+        },
+        {
+          "d": "09-25",
+          "c": 93.96
+        },
+        {
+          "d": "09-28",
+          "c": 94.25
+        },
+        {
+          "d": "09-29",
+          "c": 93.93
+        },
+        {
+          "d": "09-30",
+          "c": 93.44
+        },
+        {
+          "d": "10-01",
+          "c": 93.89
+        },
+        {
+          "d": "10-02",
+          "c": 93.02
+        },
+        {
+          "d": "10-05",
+          "c": 93.14
+        },
+        {
+          "d": "10-06",
+          "c": 93.11
+        },
+        {
+          "d": "10-07",
+          "c": 92.29
+        },
+        {
+          "d": "10-08",
+          "c": 94.13
+        },
+        {
+          "d": "10-09",
+          "c": 94.57
+        },
+        {
+          "d": "10-12",
+          "c": 95.34
+        },
+        {
+          "d": "10-13",
+          "c": 94.79
+        },
+        {
+          "d": "10-14",
+          "c": 95.78
+        },
+        {
+          "d": "10-15",
+          "c": 97.83
+        },
+        {
+          "d": "10-16",
+          "c": 97.48
+        }
+      ]
+    },
     {
       "id": "74d3d6b7fc5a3b86",
       "date": "Mon, 19 Oct 2026",
@@ -103,6 +203,125 @@
         {
           "d": "10-19",
           "c": 6.43
+        }
+      ]
+    },
+    {
+      "id": "27f503ec1efc3ae3",
+      "date": "Mon, 19 Oct 2026",
+      "ts": "2026-10-19T19:15:21+00:00",
+      "date_display": "Oct 19, 2026",
+      "source": "Futurism",
+      "type": "news",
+      "quote": "Stock Hits All-Time Low as Userbase Craters on Trump\u2019s Twitter Clone - Futurism Truth Social Stock Hits All-Time Low as",
+      "company": "Twitter",
+      "ticker": "X",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSURfTEdwXzNTSmJHZ2RUR3F6R3pyT1d0TGFGYTd2X2YxcU5QTmhLTzRlQjhMVjJsVkFZRlhBYkYwN05MdGo4YXhQZC1Ic3owT2xiLW5qUHlWY0tuRnc0RDJPTmVYbExTcDZ1WDZhQ0I?oc=5",
+      "image": null,
+      "headline": "Truth Social Stock Hits All-Time Low as Userbase Craters on Trump\u2019s Twitter Clone - Futurism",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "9ccd2ac472622efc",
+      "date": "Mon, 19 Oct 2026",
+      "ts": "2026-10-19T19:15:21+00:00",
+      "date_display": "Oct 19, 2026",
+      "source": "Futurism",
+      "type": "news",
+      "quote": "Truth Social Stock Hits All-Time Low as Userbase Craters on Trump\u2019s",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 6.99,
+      "change": -5.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSURfTEdwXzNTSmJHZ2RUR3F6R3pyT1d0TGFGYTd2X2YxcU5QTmhLTzRlQjhMVjJsVkFZRlhBYkYwN05MdGo4YXhQZC1Ic3owT2xiLW5qUHlWY0tuRnc0RDJPTmVYbExTcDZ1WDZhQ0I?oc=5",
+      "image": null,
+      "headline": "Truth Social Stock Hits All-Time Low as Userbase Craters on Trump\u2019s Twitter Clone - Futurism",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
         }
       ]
     },
@@ -415,6 +634,106 @@
         {
           "d": "10-19",
           "c": 109.75
+        }
+      ]
+    },
+    {
+      "id": "08f8945909252646",
+      "date": "Mon, 19 Oct 2026",
+      "ts": "2026-10-19T12:33:59+00:00",
+      "date_display": "Oct 19, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "in America\u2019 as Billionaires Push Direct Donations - The New York Times Musk Pledges SpaceX Stock for \u2018Every Kid in America\u2019 as",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 67.78,
+      "change": -1.68,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckE2dFR2Rkx1NUU3SG42MGRCRndvR1B1TVBEZHNZREQza1ZieFk4NXRoQkRDbUVvQ05WMHYzX19seFRGSG1idzlTMlZnTFVYSWpHOGc0dmJpQXdqUGR4MDBXM0YtdjNDMWpKT1hYQU9wNDAtVnJwa09YQWFLc0dfUTRuOW4yNE0xMXFCdzViUHJXU21ESlVR?oc=5",
+      "image": null,
+      "headline": "Musk Pledges SpaceX Stock for \u2018Every Kid in America\u2019 as Billionaires Push Direct Donations - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 70.28
+        },
+        {
+          "d": "09-22",
+          "c": 65.22
+        },
+        {
+          "d": "09-23",
+          "c": 61.67
+        },
+        {
+          "d": "09-24",
+          "c": 62.82
+        },
+        {
+          "d": "09-25",
+          "c": 63.6
+        },
+        {
+          "d": "09-28",
+          "c": 63.94
+        },
+        {
+          "d": "09-29",
+          "c": 62.1
+        },
+        {
+          "d": "09-30",
+          "c": 63.47
+        },
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
         }
       ]
     },
@@ -37396,6 +37715,106 @@
       ]
     },
     {
+      "id": "fb9e0410bc6bd264",
+      "date": "Fri, 28 Aug 2026",
+      "ts": "2026-08-28T07:00:00+00:00",
+      "date_display": "Aug 28, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 214.13,
+      "change": -1.43,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU2F6NG14dkNyaVdIWkVrWGFzZVlfMFRhWkVyQmpLTThUaF9DX0NkblZjTEZJV2R3SnZTLWw4NWR0VDNqUkttMElTT0xWN0J6U21zOW45LXRTei00XzRNdHQwWDhpT3VoS1RQTDFIYWJmdXBJdTFxZ1h4aXRDS2YxckpLWldVQ0NSMXZpTWFYM1ZxZzR1dG9qOFJSdk5aSUwxaDZBNGduSVZqR241aHR2NTJ0WklGRTJZemJSYXFzQ0VfNnFmVW9zNThERVlmWFY5QU1GS0tDQUotOGZSY2lHcnR3emlrQnBPZi1CUTMwdzdBa1ZDbjM2aA?oc=5",
+      "image": null,
+      "headline": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 227.38
+        },
+        {
+          "d": "09-22",
+          "c": 228.87
+        },
+        {
+          "d": "09-23",
+          "c": 225.51
+        },
+        {
+          "d": "09-24",
+          "c": 224.58
+        },
+        {
+          "d": "09-25",
+          "c": 225.07
+        },
+        {
+          "d": "09-28",
+          "c": 228.86
+        },
+        {
+          "d": "09-29",
+          "c": 227.21
+        },
+        {
+          "d": "09-30",
+          "c": 228.38
+        },
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        }
+      ]
+    },
+    {
       "id": "2bd215e8248f5088",
       "date": "Fri, 28 Aug 2026",
       "ts": "2026-08-28T05:03:21+00:00",
@@ -37627,546 +38046,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamtQd0dkeWVyV3o3SUQ2MGl4dHd6MGI4TC1aa05UVk8xVkRmbVhWSkFOVlZKZE92enBNTW5faVpKVTBKd242WUFmZFpFNl9mTFY3NExFMHhMS3dKcnZNVTk4Wl95WnRFUEtlUTJxTXRaeEtxTFN5UzJJNFYzNnF4VDN5MWdpNmM1dU1mS0xHRllhNkpsVzFObUk5QTdOQTdDbkM2Nkx2VjQ2blRxLUdZamJRREZHb2JhYTRwcw?oc=5",
       "image": null,
       "headline": "Trump Praises Nvidia After Earnings, Calls Micron 'Hottest' Company' - NVIDIA (NASDAQ:NVDA) - Benzinga",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 739.0
-        },
-        {
-          "d": "07-30",
-          "c": 874.66
-        },
-        {
-          "d": "07-31",
-          "c": 823.03
-        },
-        {
-          "d": "08-03",
-          "c": 829.5
-        },
-        {
-          "d": "08-04",
-          "c": 892.67
-        },
-        {
-          "d": "08-05",
-          "c": 893.19
-        },
-        {
-          "d": "08-06",
-          "c": 881.47
-        },
-        {
-          "d": "08-07",
-          "c": 877.57
-        },
-        {
-          "d": "08-10",
-          "c": 861.0
-        },
-        {
-          "d": "08-11",
-          "c": 868.52
-        },
-        {
-          "d": "08-12",
-          "c": 911.29
-        },
-        {
-          "d": "08-13",
-          "c": 949.83
-        },
-        {
-          "d": "08-14",
-          "c": 971.66
-        },
-        {
-          "d": "08-17",
-          "c": 1011.75
-        },
-        {
-          "d": "08-18",
-          "c": 940.76
-        },
-        {
-          "d": "08-19",
-          "c": 937.11
-        },
-        {
-          "d": "08-20",
-          "c": 974.33
-        },
-        {
-          "d": "08-21",
-          "c": 966.78
-        },
-        {
-          "d": "08-24",
-          "c": 910.43
-        },
-        {
-          "d": "08-25",
-          "c": 932.97
-        },
-        {
-          "d": "08-26",
-          "c": 938.4
-        },
-        {
-          "d": "08-27",
-          "c": 935.39
-        }
-      ]
-    },
-    {
-      "id": "3a0ad1ab6604f0e2",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T01:58:17+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "Cryptonews.net",
-      "type": "news",
-      "quote": "Trump Media Drops 'Truth Predict' Buildout, Chooses Crypto.com Instead",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.77,
-      "change": 2.84,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Yd095MkE2MEdyX0syUERkUDZzUXg0cXI0TklMOHNMcE5keVBhTkUwVFluRUI3WlQyUXZWckxGaU9jcGJBb2ZCMG5ZdVVUejZaeFZqMDZNOA?oc=5",
-      "image": null,
-      "headline": "Trump Media Drops 'Truth Predict' Buildout, Chooses Crypto.com Instead - Cryptonews.net",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        }
-      ]
-    },
-    {
-      "id": "ae5ace7dd76a1968",
-      "date": "Thu, 27 Aug 2026",
-      "ts": "2026-08-27T23:27:40+00:00",
-      "date_display": "Aug 27, 2026",
-      "source": "grafa.com",
-      "type": "news",
-      "quote": "Trump Media drops Truth Predict plans - grafa.com Trump Media drops",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.77,
-      "change": 2.84,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjbXVUX1JKSXRDN0ZNSVRHRU83WE1CTzU5WkhJVmxGVFdpUEluLTh6dXFzdXVjSWxkVEVXbDRVZ2tqdWwyTndpRDNaRXM0bWVwNWxxRmlucS1CbGVlVFQyN0lGb1NHOE5iWVVvRURvT25RWFZ2cER4NGV3?oc=5",
-      "image": null,
-      "headline": "Trump Media drops Truth Predict plans - grafa.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 9.85
-        },
-        {
-          "d": "07-30",
-          "c": 10.38
-        },
-        {
-          "d": "07-31",
-          "c": 9.86
-        },
-        {
-          "d": "08-03",
-          "c": 10.01
-        },
-        {
-          "d": "08-04",
-          "c": 10.34
-        },
-        {
-          "d": "08-05",
-          "c": 9.96
-        },
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        }
-      ]
-    },
-    {
-      "id": "e904d259e7d0b9f6",
-      "date": "Thu, 27 Aug 2026",
-      "ts": "2026-08-27T21:45:00+00:00",
-      "date_display": "Aug 27, 2026",
-      "source": "Breakingthenews.net",
-      "type": "news",
-      "quote": "Trump praises Nvidia after record revenue - Breakingthenews.net Trump praises",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 227.98,
-      "change": 8.74,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXy1HUDFtd3B2cjNfOEZ2bWlQUklCY2Vpczd5Z2J0OGUxU1NYRzI5b1NJM21lTHJFamROWG1VWDNReERCVlFWWGRwSzA1bTlnWHQ3bWtBTVJLU0ozeUl0Z2VTLVNMLWt0SlE2R2Z5TVFGRjFRZ0lXcmU1ZHRVUC1MdDR2RHlVRnBZbFpoS09CNA?oc=5",
-      "image": null,
-      "headline": "Trump praises Nvidia after record revenue - Breakingthenews.net",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 190.01
-        },
-        {
-          "d": "07-30",
-          "c": 195.04
-        },
-        {
-          "d": "07-31",
-          "c": 200.75
-        },
-        {
-          "d": "08-03",
-          "c": 206.64
-        },
-        {
-          "d": "08-04",
-          "c": 211.94
-        },
-        {
-          "d": "08-05",
-          "c": 219.22
-        },
-        {
-          "d": "08-06",
-          "c": 218.99
-        },
-        {
-          "d": "08-07",
-          "c": 223.96
-        },
-        {
-          "d": "08-10",
-          "c": 217.55
-        },
-        {
-          "d": "08-11",
-          "c": 217.5
-        },
-        {
-          "d": "08-12",
-          "c": 224.09
-        },
-        {
-          "d": "08-13",
-          "c": 225.3
-        },
-        {
-          "d": "08-14",
-          "c": 225.16
-        },
-        {
-          "d": "08-17",
-          "c": 225.01
-        },
-        {
-          "d": "08-18",
-          "c": 219.74
-        },
-        {
-          "d": "08-19",
-          "c": 217.56
-        },
-        {
-          "d": "08-20",
-          "c": 216.85
-        },
-        {
-          "d": "08-21",
-          "c": 214.72
-        },
-        {
-          "d": "08-24",
-          "c": 208.48
-        },
-        {
-          "d": "08-25",
-          "c": 213.05
-        },
-        {
-          "d": "08-26",
-          "c": 209.66
-        },
-        {
-          "d": "08-27",
-          "c": 227.98
-        }
-      ]
-    },
-    {
-      "id": "73dba776889f1c23",
-      "date": "Thu, 27 Aug 2026",
-      "ts": "2026-08-27T20:30:28+00:00",
-      "date_display": "Aug 27, 2026",
-      "source": "Stocktwits",
-      "type": "news",
-      "quote": "MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 935.39,
-      "change": -0.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNT290YnlQMzBkRW1kRXNudXUtWVh2bEMwQ3F4bGJHZTFJVThhaDQ1d0pIbW1xX2U0djNHU245SU83a1dmRVpibjZiZWMtYTF3NDZ2QVY1NUl0Ymp6ZW10UjlyRHA5V2FkWFRUVURDVV9yRnE0c3Z6dzA2YXZlN1NCbERvWWx4ajZmTHFCaGt0Y2tveDRKMkRITXVKcW43b2dpZ3luZll5SHZ4aU5PS3pIV2RYUUVFQTZHdVRmc0lxY0IxTDMzV0U0VHlrX3VraUxseF84ZmJ5X01LOGFtcE5STlVKaDZ2ZDRKdzJ2UzZRWHZkZ3cwN0oxVkw2TDVtdExST0Q1VnR0SWg2a25QSFJQcTdSQzBkaEhJc0E?oc=5",
-      "image": null,
-      "headline": "MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019 - Stocktwits",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 739.0
-        },
-        {
-          "d": "07-30",
-          "c": 874.66
-        },
-        {
-          "d": "07-31",
-          "c": 823.03
-        },
-        {
-          "d": "08-03",
-          "c": 829.5
-        },
-        {
-          "d": "08-04",
-          "c": 892.67
-        },
-        {
-          "d": "08-05",
-          "c": 893.19
-        },
-        {
-          "d": "08-06",
-          "c": 881.47
-        },
-        {
-          "d": "08-07",
-          "c": 877.57
-        },
-        {
-          "d": "08-10",
-          "c": 861.0
-        },
-        {
-          "d": "08-11",
-          "c": 868.52
-        },
-        {
-          "d": "08-12",
-          "c": 911.29
-        },
-        {
-          "d": "08-13",
-          "c": 949.83
-        },
-        {
-          "d": "08-14",
-          "c": 971.66
-        },
-        {
-          "d": "08-17",
-          "c": 1011.75
-        },
-        {
-          "d": "08-18",
-          "c": 940.76
-        },
-        {
-          "d": "08-19",
-          "c": 937.11
-        },
-        {
-          "d": "08-20",
-          "c": 974.33
-        },
-        {
-          "d": "08-21",
-          "c": 966.78
-        },
-        {
-          "d": "08-24",
-          "c": 910.43
-        },
-        {
-          "d": "08-25",
-          "c": 932.97
-        },
-        {
-          "d": "08-26",
-          "c": 938.4
-        },
-        {
-          "d": "08-27",
-          "c": 935.39
-        }
-      ]
-    },
-    {
-      "id": "dd24fa354ba4281e",
-      "date": "Thu, 27 Aug 2026",
-      "ts": "2026-08-27T19:44:17+00:00",
-      "date_display": "Aug 27, 2026",
-      "source": "Moneycontrol.com",
-      "type": "news",
-      "quote": "Trump says Micron to invest $10 billion in new US research labs -",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 935.39,
-      "change": -0.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjBCeEM0Q3VEamdvTGFPb3hrSE12QW5rcFpXS29DNWF4OS02aFJjbmJCRlhxNF9hQjdnby12RXV6NHRtQ2lJdFRqajNWa0pPOUtoS056SEN3WmdjT0xZRFMzeUtlS0lKSkk4elRUZk9sWHVjU2c1Wi13NDVubmo0akM5Q05mR2h6VWJSNFNCZ2MyWFlaaFR3RHpLcHBNMTNOMHJ0Qy11MUtuMlVaRzJ0aFFKajlRYXh1MlRB0gHAAUFVX3lxTE13MUJydWZOblZZSThvODRkQ0hjSEw2Y1plSUlOazd0eVRZdFN1SENoSnBMTlhiS0lpUXc3U01DTEVmNUk1c2JVbjFUNXYzcVU0NUtJQTkyS3FWSjNpa2N6aVdkMlpIaHdrMkFPS1lYS2hRaDlVclNVVXdnQm9zX2JyN20ya1ZRa2djTUpRQ3BUc3hIbWlSTFRjcnUydFhrT25zYnI1VGc2Rk5ZVGk5MHdmRi1tb2JCUWtwdG5vcFBxeg?oc=5",
-      "image": null,
-      "headline": "Trump says Micron to invest $10 billion in new US research labs - Moneycontrol.com",
       "channel": "News",
       "series": [
         {
