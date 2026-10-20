@@ -1,7 +1,350 @@
 {
-  "updated_at": "2026-10-20T10:17:24.459981+00:00",
+  "updated_at": "2026-10-20T15:13:27.565645+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1716e6874aab2577",
+      "date": "Tue, 20 Oct 2026",
+      "ts": "2026-10-20T14:00:20+00:00",
+      "date_display": "Oct 20, 2026",
+      "source": "The Daily Beast",
+      "type": "news",
+      "quote": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - The Daily Beast",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 6.43,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGcyXzd3MW5qc0tMYmJwS0hPZm5tOXJpbGFqT3NSdVZOS1d1bTJkRmY5cGk4ZlRxd05jNE50emlfRGRQb2k5NFpUeGhpWlZkRUNRRWFCc21sVmVOQ2lRU215V3BiZnpMRG9ZWnBIeHJtTXZPMG4zWUFxMzBjQ1U3Yy1ZblpaXzMxM1JpaWdGSGk?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - The Daily Beast",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.43
+        }
+      ]
+    },
+    {
+      "id": "7166975e419b6a36",
+      "date": "Tue, 20 Oct 2026",
+      "ts": "2026-10-20T12:12:44+00:00",
+      "date_display": "Oct 20, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Announces $8 Billion Plan to Cover Farm Losses - The New York Times Trump Announces $8 Billion Plan to Cover Farm",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 69.48,
+      "change": 2.07,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DWWgxTmRVd0M3dXBTS01YQnNHWjRYY3Z1blhRZWR5U2p6UkZWOTdwOEh0a0Y5WWNxTHREa3QzNkotS19oeDhCSEVxaG8yeFZQSEZjU0s3dHdoQmxkVkpocWY4WFJZVGdwTkFvU3dDNDdTVGwyV2R4dQ?oc=5",
+      "image": null,
+      "headline": "Trump Announces $8 Billion Plan to Cover Farm Losses - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 70.28
+        },
+        {
+          "d": "09-22",
+          "c": 65.22
+        },
+        {
+          "d": "09-23",
+          "c": 61.67
+        },
+        {
+          "d": "09-24",
+          "c": 62.82
+        },
+        {
+          "d": "09-25",
+          "c": 63.6
+        },
+        {
+          "d": "09-28",
+          "c": 63.94
+        },
+        {
+          "d": "09-29",
+          "c": 62.1
+        },
+        {
+          "d": "09-30",
+          "c": 63.47
+        },
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.48
+        }
+      ]
+    },
+    {
+      "id": "c862e77ba73d928e",
+      "date": "Tue, 20 Oct 2026",
+      "ts": "2026-10-20T12:04:06+00:00",
+      "date_display": "Oct 20, 2026",
+      "source": "inkl",
+      "type": "news",
+      "quote": "DJT Stock Plummets to 52-Week Low as Trump Approval Hits 31%",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 6.43,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDQyRDJETWRNd01BUExQbXYwVGdnNGVsTkE1Y3g3NVNDd1Z4RDlEWkYyRzJ2SXhxWWJfaFlGWHN6dmpCV1lkYlNDc3A3ZUpNX2dYbGNkaDRLZmRhVmhlZ1YzeGRXaFc3OEQ5MlRMRnJodEFHanhVdHhkaUMtYWVEQi1iZm9zb2VvclktWjhJYUZzNnB2RjdZNFA3Z0ZDeno1RTMybjZEMDZkSU45QzU0em9SQTJFY2UtYklSdVJaMFk?oc=5",
+      "image": null,
+      "headline": "DJT Stock Plummets to 52-Week Low as Trump Approval Hits 31% in Reuters/Ipsos Poll Before Midterms - inkl",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.43
+        }
+      ]
+    },
+    {
+      "id": "0d63e65afa8fc214",
+      "date": "Tue, 20 Oct 2026",
+      "ts": "2026-10-20T11:04:49+00:00",
+      "date_display": "Oct 20, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns The Justice",
+      "company": "Tiktok",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "image": null,
+      "headline": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "ceb92d5e856d6c5b",
       "date": "Tue, 20 Oct 2026",
@@ -737,6 +1080,222 @@
         },
         {
           "d": "10-19",
+          "c": 6.43
+        }
+      ]
+    },
+    {
+      "id": "9cfea63694e537d3",
+      "date": "Mon, 19 Oct 2026",
+      "ts": "2026-10-19T17:56:00+00:00",
+      "date_display": "Oct 19, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 6.43,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXMtelN1dExDN2h6ZklFSURneHphSEZTaUEyNFYwTVI2MnB1cG9qeE52ZWpkLW4zdzNiT1RiUGpIVUVlSGhIdGtzRDRVMDZ0MFoybTlGeHZXeURQbV81ck16ODJtOV9tbnpWMDBSOXJfWGJtdTZQTTlpb2M1SnEtamUzWFFiQXpFbmFnNmRJMEFhUjB1bk1odXVVVEQ5UndUNjNIOE5ITVFmOENxSmc?oc=5",
+      "image": null,
+      "headline": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.43
+        }
+      ]
+    },
+    {
+      "id": "060e8c50c6aa691d",
+      "date": "Mon, 19 Oct 2026",
+      "ts": "2026-10-19T17:26:04+00:00",
+      "date_display": "Oct 19, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump\u2019s DJT Falls to All-Time Lows. It\u2019s Still Not Too Late to Sell",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 6.43,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFhxMmtpSWphLWh3ZEVOaTJ4c1VCdUQ4NEZvRjRCeUFRYm1kd0ZpbmlzOW16YkJjZlQwaFZkXzZIOFFHanZ3eGp3REhTeUYzMlVRZ0VhU3c3ZDJJYzZ6SV9SaElGNWtKMG84M2ZvNkdTdnQ3djN4eUlnYmR0WW1jdE5uNi1OQTlXbFJyR21waDBicFZk?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s DJT Falls to All-Time Lows. It\u2019s Still Not Too Late to Sell the Stock. - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-21",
+          "c": 9.12
+        },
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
           "c": 6.43
         }
       ]
@@ -37576,553 +38135,6 @@
         {
           "d": "08-28",
           "c": 932.86
-        }
-      ]
-    },
-    {
-      "id": "f2f7c32842f6bb8a",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T14:01:00+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Micron One of the World's \"Hottest\" Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - 24/7 Wall",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 227.98,
-      "change": 8.74,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMU5lQWNoZFMzTU04YnZoTTBWNjlXVWktS3BUM0x2bWt1WUZsZEZ5QVZaQ2pibEU1YVpNLTN0cFVNd0tObkRhU3VmVGg1alFTazRDVGhEMjY3QkpyeHhVMkl2X1RHM0EzTWQzY3VnM194Nm94MmtqSU1JUno5STMxUFo1aDBTUjl0SWF5Vmt2aTFfT0MyS25qV21fTzdkN01Ua3BXMUh6NE4tYlhvakgtVkZrVWhvRmlDd3R1TlY0cmZ4UWZqc2xoN3pVNnVLWUVKZElZVDNrWTJVUFhadnpVd0Z6MWJNQzVWem9FRWpnYTBPc1V4OVE?oc=5",
-      "image": null,
-      "headline": "Trump Calls Micron One of the World's \"Hottest\" Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 190.01
-        },
-        {
-          "d": "07-30",
-          "c": 195.04
-        },
-        {
-          "d": "07-31",
-          "c": 200.75
-        },
-        {
-          "d": "08-03",
-          "c": 206.64
-        },
-        {
-          "d": "08-04",
-          "c": 211.94
-        },
-        {
-          "d": "08-05",
-          "c": 219.22
-        },
-        {
-          "d": "08-06",
-          "c": 218.99
-        },
-        {
-          "d": "08-07",
-          "c": 223.96
-        },
-        {
-          "d": "08-10",
-          "c": 217.55
-        },
-        {
-          "d": "08-11",
-          "c": 217.5
-        },
-        {
-          "d": "08-12",
-          "c": 224.09
-        },
-        {
-          "d": "08-13",
-          "c": 225.3
-        },
-        {
-          "d": "08-14",
-          "c": 225.16
-        },
-        {
-          "d": "08-17",
-          "c": 225.01
-        },
-        {
-          "d": "08-18",
-          "c": 219.74
-        },
-        {
-          "d": "08-19",
-          "c": 217.56
-        },
-        {
-          "d": "08-20",
-          "c": 216.85
-        },
-        {
-          "d": "08-21",
-          "c": 214.72
-        },
-        {
-          "d": "08-24",
-          "c": 208.48
-        },
-        {
-          "d": "08-25",
-          "c": 213.05
-        },
-        {
-          "d": "08-26",
-          "c": 209.66
-        },
-        {
-          "d": "08-27",
-          "c": 227.98
-        }
-      ]
-    },
-    {
-      "id": "85297ad81ac49552",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T14:01:00+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Trump Calls Micron One of the World's \"Hottest\" Companies a Day After Nvidia",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 935.39,
-      "change": -0.32,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMU5lQWNoZFMzTU04YnZoTTBWNjlXVWktS3BUM0x2bWt1WUZsZEZ5QVZaQ2pibEU1YVpNLTN0cFVNd0tObkRhU3VmVGg1alFTazRDVGhEMjY3QkpyeHhVMkl2X1RHM0EzTWQzY3VnM194Nm94MmtqSU1JUno5STMxUFo1aDBTUjl0SWF5Vmt2aTFfT0MyS25qV21fTzdkN01Ua3BXMUh6NE4tYlhvakgtVkZrVWhvRmlDd3R1TlY0cmZ4UWZqc2xoN3pVNnVLWUVKZElZVDNrWTJVUFhadnpVd0Z6MWJNQzVWem9FRWpnYTBPc1V4OVE?oc=5",
-      "image": null,
-      "headline": "Trump Calls Micron One of the World's \"Hottest\" Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 739.0
-        },
-        {
-          "d": "07-30",
-          "c": 874.66
-        },
-        {
-          "d": "07-31",
-          "c": 823.03
-        },
-        {
-          "d": "08-03",
-          "c": 829.5
-        },
-        {
-          "d": "08-04",
-          "c": 892.67
-        },
-        {
-          "d": "08-05",
-          "c": 893.19
-        },
-        {
-          "d": "08-06",
-          "c": 881.47
-        },
-        {
-          "d": "08-07",
-          "c": 877.57
-        },
-        {
-          "d": "08-10",
-          "c": 861.0
-        },
-        {
-          "d": "08-11",
-          "c": 868.52
-        },
-        {
-          "d": "08-12",
-          "c": 911.29
-        },
-        {
-          "d": "08-13",
-          "c": 949.83
-        },
-        {
-          "d": "08-14",
-          "c": 971.66
-        },
-        {
-          "d": "08-17",
-          "c": 1011.75
-        },
-        {
-          "d": "08-18",
-          "c": 940.76
-        },
-        {
-          "d": "08-19",
-          "c": 937.11
-        },
-        {
-          "d": "08-20",
-          "c": 974.33
-        },
-        {
-          "d": "08-21",
-          "c": 966.78
-        },
-        {
-          "d": "08-24",
-          "c": 910.43
-        },
-        {
-          "d": "08-25",
-          "c": 932.97
-        },
-        {
-          "d": "08-26",
-          "c": 938.4
-        },
-        {
-          "d": "08-27",
-          "c": 935.39
-        }
-      ]
-    },
-    {
-      "id": "8a5d6675f7f44f6f",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T12:34:24+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "marketscreener.com",
-      "type": "news",
-      "quote": "Meta, Other Companies Brace for Democratic Scrutiny Over Trump",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 571.1,
-      "change": -0.87,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmFCNFZXVGlUQmFnNU5fY2ZpOVBUbmpRV1Bhb0t2eEpvYlJiamlWM2doQ3QxRTNNdmVFWmZpVUVES3FYdUpQT09aemhnM3N0ai1iTmVub1k2VlBtM3o2NHpjbTcydTJ1eFJRcG5iNGFjZkpoT0JvMlE3S1FndUdDMnplYVVCb3czd1pYVmsyUlc3TGlnVHFtUWxleUZBclE2dzhlU0pDbWJFLXhuVUZkeUI5c3ZHY2xLVUVz?oc=5",
-      "image": null,
-      "headline": "Meta, Other Companies Brace for Democratic Scrutiny Over Trump Ties - marketscreener.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 585.61
-        },
-        {
-          "d": "07-30",
-          "c": 539.03
-        },
-        {
-          "d": "07-31",
-          "c": 556.71
-        },
-        {
-          "d": "08-03",
-          "c": 590.24
-        },
-        {
-          "d": "08-04",
-          "c": 587.94
-        },
-        {
-          "d": "08-05",
-          "c": 588.77
-        },
-        {
-          "d": "08-06",
-          "c": 589.9
-        },
-        {
-          "d": "08-07",
-          "c": 592.1
-        },
-        {
-          "d": "08-10",
-          "c": 594.92
-        },
-        {
-          "d": "08-11",
-          "c": 599.12
-        },
-        {
-          "d": "08-12",
-          "c": 578.85
-        },
-        {
-          "d": "08-13",
-          "c": 594.97
-        },
-        {
-          "d": "08-14",
-          "c": 589.85
-        },
-        {
-          "d": "08-17",
-          "c": 568.97
-        },
-        {
-          "d": "08-18",
-          "c": 543.67
-        },
-        {
-          "d": "08-19",
-          "c": 546.03
-        },
-        {
-          "d": "08-20",
-          "c": 545.83
-        },
-        {
-          "d": "08-21",
-          "c": 549.9
-        },
-        {
-          "d": "08-24",
-          "c": 559.02
-        },
-        {
-          "d": "08-25",
-          "c": 570.05
-        },
-        {
-          "d": "08-26",
-          "c": 576.14
-        },
-        {
-          "d": "08-27",
-          "c": 571.1
-        }
-      ]
-    },
-    {
-      "id": "d52458655729f4e8",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T11:26:02+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "The Block",
-      "type": "news",
-      "quote": "across Trump crypto ventures, Public Citizen says - The Block Investors at least $4.7 billion underwater across Trump",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1ZqcTZtTmFqcmpRTG9GSWp6WHFsQ214R0ktVXNhNVE1VElEVnhGWnhCcEtFcFlST1RWenV1RVA0TUdJUk9yVE51YjV3bi1WWFhrS3h2S0VPZlVYcDRPTDZ5X1pTbzQ1MzU5bV9iMDRZaEl2WU1VWVlzSWxsc3ZmaEs3c2ZJSzg4YjhQR0JrY3BPcXNpTnNybmRaYV9TZTA3VEtwZXpuelBUX1piNXItOWZ4YzBNbDVoaGh3Z2tPcTdZTW5PSHVRNHM5VWEtZUJwd1dYNURoTUxWX1BEWW1n?oc=5",
-      "image": null,
-      "headline": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says - The Block",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "73738b7f86494c8e",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T07:00:00+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "americanbazaaronline.com",
-      "type": "news",
-      "quote": "Trump praises Micron\u2019s $10 billion investment in US for AI research -",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 926.55,
-      "change": -0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWRKa3pxTEFJSkRIUG1KUXpuZjZWLVdocm1BRFExRWIxa1BlR19qNUpKS2ZWMXVGam1MdTF0MEpNU0xMVmpLUU0yZGNSYzREM2s3UDZORlVPZHlPY3NiU1REVXR4TUJPT0lkWmlsRzNyOVhrWko4MlluV191T0JfUUhVTm44cG9qeTFCWTAwSm1hZHpzOFFrSTZ6ZFlVRURLS2dfcjJSOExVZnRVM3lzRXROZUZKRzBB?oc=5",
-      "image": null,
-      "headline": "Trump praises Micron\u2019s $10 billion investment in US for AI research - americanbazaaronline.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-18",
-          "c": 940.76
-        },
-        {
-          "d": "08-19",
-          "c": 937.11
-        },
-        {
-          "d": "08-20",
-          "c": 974.33
-        },
-        {
-          "d": "08-21",
-          "c": 966.78
-        },
-        {
-          "d": "08-24",
-          "c": 910.43
-        },
-        {
-          "d": "08-25",
-          "c": 932.97
-        },
-        {
-          "d": "08-26",
-          "c": 938.4
-        },
-        {
-          "d": "08-27",
-          "c": 935.39
-        },
-        {
-          "d": "08-28",
-          "c": 932.86
-        },
-        {
-          "d": "08-31",
-          "c": 958.73
-        },
-        {
-          "d": "09-01",
-          "c": 933.44
-        },
-        {
-          "d": "09-02",
-          "c": 956.08
-        },
-        {
-          "d": "09-03",
-          "c": 958.16
-        },
-        {
-          "d": "09-04",
-          "c": 1016.59
-        },
-        {
-          "d": "09-08",
-          "c": 1000.26
-        },
-        {
-          "d": "09-09",
-          "c": 1027.77
-        },
-        {
-          "d": "09-10",
-          "c": 977.41
-        },
-        {
-          "d": "09-11",
-          "c": 975.26
-        },
-        {
-          "d": "09-14",
-          "c": 924.03
-        },
-        {
-          "d": "09-15",
-          "c": 927.6
-        },
-        {
-          "d": "09-16",
-          "c": 926.55
-        }
-      ]
-    },
-    {
-      "id": "fb9e0410bc6bd264",
-      "date": "Fri, 28 Aug 2026",
-      "ts": "2026-08-28T07:00:00+00:00",
-      "date_display": "Aug 28, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 214.13,
-      "change": -1.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU2F6NG14dkNyaVdIWkVrWGFzZVlfMFRhWkVyQmpLTThUaF9DX0NkblZjTEZJV2R3SnZTLWw4NWR0VDNqUkttMElTT0xWN0J6U21zOW45LXRTei00XzRNdHQwWDhpT3VoS1RQTDFIYWJmdXBJdTFxZ1h4aXRDS2YxckpLWldVQ0NSMXZpTWFYM1ZxZzR1dG9qOFJSdk5aSUwxaDZBNGduSVZqR241aHR2NTJ0WklGRTJZemJSYXFzQ0VfNnFmVW9zNThERVlmWFY5QU1GS0tDQUotOGZSY2lHcnR3emlrQnBPZi1CUTMwdzdBa1ZDbjM2aA?oc=5",
-      "image": null,
-      "headline": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 227.38
-        },
-        {
-          "d": "09-22",
-          "c": 228.87
-        },
-        {
-          "d": "09-23",
-          "c": 225.51
-        },
-        {
-          "d": "09-24",
-          "c": 224.58
-        },
-        {
-          "d": "09-25",
-          "c": 225.07
-        },
-        {
-          "d": "09-28",
-          "c": 228.86
-        },
-        {
-          "d": "09-29",
-          "c": 227.21
-        },
-        {
-          "d": "09-30",
-          "c": 228.38
-        },
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
         }
       ]
     }
