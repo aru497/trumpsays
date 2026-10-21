@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-21T19:26:13.724821+00:00",
+  "updated_at": "2026-10-21T22:32:55.159909+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a8dcf7af6ce5e19f",
+      "date": "Wed, 21 Oct 2026",
+      "ts": "2026-10-21T19:47:18+00:00",
+      "date_display": "Oct 21, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 92.96,
+      "change": 1.39,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
+      "image": null,
+      "headline": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 123.86
+        },
+        {
+          "d": "09-23",
+          "c": 122.6
+        },
+        {
+          "d": "09-24",
+          "c": 127.39
+        },
+        {
+          "d": "09-25",
+          "c": 123.0
+        },
+        {
+          "d": "09-28",
+          "c": 116.03
+        },
+        {
+          "d": "09-29",
+          "c": 115.93
+        },
+        {
+          "d": "09-30",
+          "c": 120.23
+        },
+        {
+          "d": "10-01",
+          "c": 120.0
+        },
+        {
+          "d": "10-02",
+          "c": 119.33
+        },
+        {
+          "d": "10-05",
+          "c": 116.19
+        },
+        {
+          "d": "10-06",
+          "c": 112.5
+        },
+        {
+          "d": "10-07",
+          "c": 113.12
+        },
+        {
+          "d": "10-08",
+          "c": 107.08
+        },
+        {
+          "d": "10-09",
+          "c": 104.7
+        },
+        {
+          "d": "10-12",
+          "c": 101.35
+        },
+        {
+          "d": "10-13",
+          "c": 102.81
+        },
+        {
+          "d": "10-14",
+          "c": 98.12
+        },
+        {
+          "d": "10-15",
+          "c": 95.37
+        },
+        {
+          "d": "10-16",
+          "c": 89.85
+        },
+        {
+          "d": "10-19",
+          "c": 92.03
+        },
+        {
+          "d": "10-20",
+          "c": 91.69
+        },
+        {
+          "d": "10-21",
+          "c": 92.96
+        }
+      ]
+    },
     {
       "id": "ac919240c2e9f1d3",
       "date": "Wed, 21 Oct 2026",
@@ -20,6 +128,114 @@
       "headline": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "25e6cf66958cba90",
+      "date": "Wed, 21 Oct 2026",
+      "ts": "2026-10-21T16:04:00+00:00",
+      "date_display": "Oct 21, 2026",
+      "source": "Deadline",
+      "type": "news",
+      "quote": "John Malone: Trump Officials Told Netflix \"No Chance\" Of WBD Merger - Deadline John Malone: Trump",
+      "company": "Netflix",
+      "ticker": "NFLX",
+      "price": 65.04,
+      "change": -5.31,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTZVMmZncnR5Si1EeFpoeTN2djI1MkdSUDZoeG56WjhPZjNqNkVLOHh5ejQzSXFEYXZTdFNxWXBUYWIzY25HbVQwWVFWX2ozajdDOVFwM2lGeFQtbHNDVXluYkg3dFNEMGdZeFI5SGhrZEl5eUhycmNzZ1h1QmJja0RZWVNKa2V6cWxmUU01UUNzZw?oc=5",
+      "image": null,
+      "headline": "John Malone: Trump Officials Told Netflix \"No Chance\" Of WBD Merger - Deadline",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 72.16
+        },
+        {
+          "d": "09-23",
+          "c": 71.36
+        },
+        {
+          "d": "09-24",
+          "c": 71.72
+        },
+        {
+          "d": "09-25",
+          "c": 71.15
+        },
+        {
+          "d": "09-28",
+          "c": 69.23
+        },
+        {
+          "d": "09-29",
+          "c": 70.3
+        },
+        {
+          "d": "09-30",
+          "c": 69.58
+        },
+        {
+          "d": "10-01",
+          "c": 67.85
+        },
+        {
+          "d": "10-02",
+          "c": 67.06
+        },
+        {
+          "d": "10-05",
+          "c": 67.5
+        },
+        {
+          "d": "10-06",
+          "c": 68.69
+        },
+        {
+          "d": "10-07",
+          "c": 69.7
+        },
+        {
+          "d": "10-08",
+          "c": 71.57
+        },
+        {
+          "d": "10-09",
+          "c": 70.3
+        },
+        {
+          "d": "10-12",
+          "c": 70.61
+        },
+        {
+          "d": "10-13",
+          "c": 70.46
+        },
+        {
+          "d": "10-14",
+          "c": 70.57
+        },
+        {
+          "d": "10-15",
+          "c": 72.61
+        },
+        {
+          "d": "10-16",
+          "c": 70.53
+        },
+        {
+          "d": "10-19",
+          "c": 69.85
+        },
+        {
+          "d": "10-20",
+          "c": 68.69
+        },
+        {
+          "d": "10-21",
+          "c": 65.04
+        }
+      ]
     },
     {
       "id": "12b316009d6e2d96",
@@ -126,6 +342,114 @@
         {
           "d": "10-21",
           "c": 704.0
+        }
+      ]
+    },
+    {
+      "id": "c31fa506bc3d3add",
+      "date": "Wed, 21 Oct 2026",
+      "ts": "2026-10-21T10:00:00+00:00",
+      "date_display": "Oct 21, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump says Google now kisses 'his a--,' thanks to the power he holds in his",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 334.76,
+      "change": -1.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTZYdVJOb1YzcmlSZVhINlU1UjJKUGpkVjhZMEg2NmRFeEt3WWZPaXhGRG9IQlBtNndPbnV6NWRsSXRYZ05Zc2dBLWFhRkFnSFVvYkJFWk11ZVhpdDZ3Tng0a1VFU2VGWnhfd0NEbVVJNFprNFdRNGtVbUNIYmpWRmdnM19oUTRKTlBFemdFQmpNS3c?oc=5",
+      "image": null,
+      "headline": "Trump says Google now kisses 'his a--,' thanks to the power he holds in his second term as president - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 351.16
+        },
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
         }
       ]
     },
@@ -37629,330 +37953,6 @@
         {
           "d": "08-28",
           "c": 127.31
-        }
-      ]
-    },
-    {
-      "id": "9035c287c636e671",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T20:11:00+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "move to US, says \u2018I don\u2019t want Canadian anything\u2019 - Fox Business Trump urges Canadian companies to immediately",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.32,
-      "change": 1.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU51RnB0X01sb2habWcyc3lKcFdoNmtMNlVwQi1KOG1QWDVmakgtQkRPeEx6RDc3a05lMVJZZ09sYnpIWEFuUnY4bklhT0VENkhWbU9uVDN6U1dCekZTQWt4WjhJd1JwWmwwZWJnZE5xdXphZkVkZVFxY3JoNWR2SUxNVjlVMmdUTms2WEMtQllFa2FPQXI5TmlSUVZONzFLTThPTDZEcENuWUNOTkpLRWRkNzZpOW85bnBrenh1WdIBxAFBVV95cUxQWlo3V2JSQmFiWnVFc183WHNIUksxRG9lMkc3cFIwS05VcWhReGNKN2l1eENPVFNfcXM4NjU2YkpyZ2VVR0RZSFkwTE5VdVJUcVhsVmZuYzVMcmRoRDlIUmVRQTdGSk5pNlBwNUpKaWRLdXM1ZlFFNlczUFMtVGJvWGZkMG1nYm1FT3VybHNTUnIwV2lJVklUSmF3X2hScmswU0lwV1ZRYzdQQ0V0bUo4dFpyMEN5eFI1VFB1M1JfbmIxc3Ez?oc=5",
-      "image": null,
-      "headline": "Trump urges Canadian companies to immediately move to US, says \u2018I don\u2019t want Canadian anything\u2019 - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 52.34
-        },
-        {
-          "d": "07-31",
-          "c": 51.94
-        },
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        },
-        {
-          "d": "08-24",
-          "c": 61.59
-        },
-        {
-          "d": "08-25",
-          "c": 62.69
-        },
-        {
-          "d": "08-26",
-          "c": 62.23
-        },
-        {
-          "d": "08-27",
-          "c": 60.4
-        },
-        {
-          "d": "08-28",
-          "c": 61.32
-        }
-      ]
-    },
-    {
-      "id": "e66d5f96afc88b99",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T14:36:44+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "reading: \"Lake Ontario \u2014 Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 346.59,
-      "change": 1.74,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "image": null,
-      "headline": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 333.66
-        },
-        {
-          "d": "07-31",
-          "c": 356.13
-        },
-        {
-          "d": "08-03",
-          "c": 373.51
-        },
-        {
-          "d": "08-04",
-          "c": 377.65
-        },
-        {
-          "d": "08-05",
-          "c": 362.43
-        },
-        {
-          "d": "08-06",
-          "c": 357.75
-        },
-        {
-          "d": "08-07",
-          "c": 354.3
-        },
-        {
-          "d": "08-10",
-          "c": 357.52
-        },
-        {
-          "d": "08-11",
-          "c": 343.8
-        },
-        {
-          "d": "08-12",
-          "c": 343.54
-        },
-        {
-          "d": "08-13",
-          "c": 346.36
-        },
-        {
-          "d": "08-14",
-          "c": 345.9
-        },
-        {
-          "d": "08-17",
-          "c": 344.0
-        },
-        {
-          "d": "08-18",
-          "c": 344.2
-        },
-        {
-          "d": "08-19",
-          "c": 344.72
-        },
-        {
-          "d": "08-20",
-          "c": 340.67
-        },
-        {
-          "d": "08-21",
-          "c": 344.82
-        },
-        {
-          "d": "08-24",
-          "c": 348.06
-        },
-        {
-          "d": "08-25",
-          "c": 346.96
-        },
-        {
-          "d": "08-26",
-          "c": 342.0
-        },
-        {
-          "d": "08-27",
-          "c": 340.65
-        },
-        {
-          "d": "08-28",
-          "c": 346.59
-        }
-      ]
-    },
-    {
-      "id": "97711e28aba6c3df",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T14:36:44+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "rename Lake Ontario as 'Lake America' Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario \u2014",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 13.88,
-      "change": -0.5,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "image": null,
-      "headline": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 14.7
-        },
-        {
-          "d": "07-31",
-          "c": 14.52
-        },
-        {
-          "d": "08-03",
-          "c": 14.28
-        },
-        {
-          "d": "08-04",
-          "c": 14.09
-        },
-        {
-          "d": "08-05",
-          "c": 13.98
-        },
-        {
-          "d": "08-06",
-          "c": 13.64
-        },
-        {
-          "d": "08-07",
-          "c": 13.83
-        },
-        {
-          "d": "08-10",
-          "c": 13.85
-        },
-        {
-          "d": "08-11",
-          "c": 13.98
-        },
-        {
-          "d": "08-12",
-          "c": 13.83
-        },
-        {
-          "d": "08-13",
-          "c": 13.89
-        },
-        {
-          "d": "08-14",
-          "c": 14.37
-        },
-        {
-          "d": "08-17",
-          "c": 14.05
-        },
-        {
-          "d": "08-18",
-          "c": 13.93
-        },
-        {
-          "d": "08-19",
-          "c": 14.5
-        },
-        {
-          "d": "08-20",
-          "c": 13.99
-        },
-        {
-          "d": "08-21",
-          "c": 14.41
-        },
-        {
-          "d": "08-24",
-          "c": 13.93
-        },
-        {
-          "d": "08-25",
-          "c": 13.95
-        },
-        {
-          "d": "08-26",
-          "c": 13.9
-        },
-        {
-          "d": "08-27",
-          "c": 13.95
-        },
-        {
-          "d": "08-28",
-          "c": 13.88
         }
       ]
     }
