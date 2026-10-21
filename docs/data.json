@@ -1,7 +1,242 @@
 {
-  "updated_at": "2026-10-21T15:27:18.224007+00:00",
+  "updated_at": "2026-10-21T19:26:13.724821+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ac919240c2e9f1d3",
+      "date": "Wed, 21 Oct 2026",
+      "ts": "2026-10-21T16:17:51+00:00",
+      "date_display": "Oct 21, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "in prison. The decision leaves in place a lower-court block on the policy.",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T152112Z_876744793_RC2DWLACCLJZ_RTRMADP_3_USA-COURT-TRANSGENDER-PRISONS-1024x683.jpg",
+      "headline": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "12b316009d6e2d96",
+      "date": "Wed, 21 Oct 2026",
+      "ts": "2026-10-21T10:49:08+00:00",
+      "date_display": "Oct 21, 2026",
+      "source": "Stocktwits",
+      "type": "news",
+      "quote": "Data Center \u2018Dividend\u2019 Proposal Puts MSFT, AMZN, GOOGL, META In Focus - Stocktwits Trump\u2019s Data Center \u2018Dividend\u2019",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 704.0,
+      "change": 1.4,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZk9DZ3R1WlpBSkh4Sm0yQzZWRzlWUWpXSF9DalpCZXRYM201VjJvcEJjZm1YZW5XLWpxZzdsM1BQY1dVNmgxdlo3S3NXUnpROS1LeHR1VTROOXJmaFZod1RCRGNyVGVMS3NPTmFXWS02M1ZYZkc5N1FqU0FJYVM0Z3k1VTVETVhEb2cyRXFnSElBa3N1WV80MmJpV0pNQzBDckkzcGU2VG9XZjFxem1hSGxSVGFSS25pbXB2SHBtSzFRNGhNcHQzQkIzRWVjdDNHcUlQOXhsR1ZIMGd1QlJIMV9aRlBZeUM4YU5iOXBrdzJ6N0Rj?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Data Center \u2018Dividend\u2019 Proposal Puts MSFT, AMZN, GOOGL, META In Focus - Stocktwits",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 736.6
+        },
+        {
+          "d": "09-23",
+          "c": 744.1
+        },
+        {
+          "d": "09-24",
+          "c": 777.59
+        },
+        {
+          "d": "09-25",
+          "c": 751.66
+        },
+        {
+          "d": "09-28",
+          "c": 715.62
+        },
+        {
+          "d": "09-29",
+          "c": 738.79
+        },
+        {
+          "d": "09-30",
+          "c": 725.18
+        },
+        {
+          "d": "10-01",
+          "c": 725.93
+        },
+        {
+          "d": "10-02",
+          "c": 728.08
+        },
+        {
+          "d": "10-05",
+          "c": 741.9
+        },
+        {
+          "d": "10-06",
+          "c": 738.88
+        },
+        {
+          "d": "10-07",
+          "c": 721.31
+        },
+        {
+          "d": "10-08",
+          "c": 720.89
+        },
+        {
+          "d": "10-09",
+          "c": 718.67
+        },
+        {
+          "d": "10-12",
+          "c": 742.96
+        },
+        {
+          "d": "10-13",
+          "c": 762.5
+        },
+        {
+          "d": "10-14",
+          "c": 737.54
+        },
+        {
+          "d": "10-15",
+          "c": 736.72
+        },
+        {
+          "d": "10-16",
+          "c": 709.33
+        },
+        {
+          "d": "10-19",
+          "c": 705.44
+        },
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 704.0
+        }
+      ]
+    },
+    {
+      "id": "4a1a0c030f5e1e61",
+      "date": "Wed, 21 Oct 2026",
+      "ts": "2026-10-21T00:47:55+00:00",
+      "date_display": "Oct 21, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "This is what Trump's midterm blitz says - Fox News This is what Trump's midterm blitz",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 58.67,
+      "change": -1.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneUJTaUJLVVNYR1dhWV8wTFp2S0I0eFFnbGdXaG1PRThxckQzRkhFNFgwRmwyV0xFUlRmQzByamx2Z2FaQWhlUHFQa1REMFJCVzQxNVR3?oc=5",
+      "image": null,
+      "headline": "This is what Trump's midterm blitz says - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.67
+        }
+      ]
+    },
     {
       "id": "3427e5ab01c6c777",
       "date": "Tue, 20 Oct 2026",
@@ -658,6 +893,114 @@
       ]
     },
     {
+      "id": "2a4fb5384dca1a71",
+      "date": "Tue, 20 Oct 2026",
+      "ts": "2026-10-20T13:29:34+00:00",
+      "date_display": "Oct 20, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - Yahoo Finance",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 6.62,
+      "change": 2.32,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNDhiV2RWLXFGXy12YUxGSmJkc0htRHRZdmhKejgyRTJEeDB4Qng4YkFOVk84dkd2ZUpBR1UwQmRGLVVRZG42Y1I0bmdxSFVJUHJhTlBpbkhTcUljYjFPWkR3TnV2T20tSnZTVDFsQmI3LU5CUVYzekE0TXFvaW1GZ241bFBBSEJsZHZPSTlPeEdNZlNwZFUwRlZYQ2w2VU45?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 9.38
+        },
+        {
+          "d": "09-23",
+          "c": 9.06
+        },
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.62
+        }
+      ]
+    },
+    {
       "id": "7166975e419b6a36",
       "date": "Tue, 20 Oct 2026",
       "ts": "2026-10-20T12:12:44+00:00",
@@ -891,6 +1234,114 @@
       "headline": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "213998f9f284c741",
+      "date": "Tue, 20 Oct 2026",
+      "ts": "2026-10-20T10:38:47+00:00",
+      "date_display": "Oct 20, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "to cover diesel cost surge amid attacks on global supply - Fox Business Trump announces $8B bailout for farmers to cover",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 58.67,
+      "change": -1.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWxSTlFvNEF3ZGYzUWZwdEdzQnZTX2RFcnk0UmFGYXc2MFR5NHY0TmpVeGt4ZmlEVFc5RjFaWWRYOWpNR1dmRWYxQTF2NWtSYnJEam1PMUJuaWVFUUhDckl5XzFXczVIS21PSVl5ZnFxS2gycmdiX3VmR0xiOXp6V0ItQU8tQnF3Nnh6RUZ2Q2pLS0RiRWNsVnpfTEZRdUVsc01OQzMxNWs0b1dHMkpMaWtzQjdqZTR0TndBcdIBwgFBVV95cUxOY3RYOTNNMF9aZkxJNzllR3J3ajFnYUl2WDdMT09yb1ZyQVlPOWNaMHRONExleFE5T1JTN0xMd1JYYmd3QzZlMGJyT1NURUlJZ3dJZFNLejVXQWhESXFYQTlTZlplaFN4cHBKZFVzcnZCRl80ZGRydmQ2UVJsLTY5RFZyT3NTVkFhU3F5Nmtodkl3ODdrZ3JuQWxCdzRTVU9haXY2TGFpdDR0MXZGSk5EN1FFYXp5SlVnUzEtSDJ4WW8ydw?oc=5",
+      "image": null,
+      "headline": "Trump announces $8B bailout for farmers to cover diesel cost surge amid attacks on global supply - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.67
+        }
+      ]
     },
     {
       "id": "ceb92d5e856d6c5b",
@@ -36750,6 +37201,222 @@
       ]
     },
     {
+      "id": "90a9ab2a2e02425a",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T07:00:00+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 221.15,
+      "change": 2.16,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFBfNFlaa1pLSUtHYWdZcHNMaE9GZHJXbUN6OTVTSGNfUnpiSFlxU3Y2LXZoV0duMmdEQzk3Qm91RTNJU0lJRnMybHMwY0Z5NEhqZDJjU2FFbDFZX1pIV1l2UmkzbnJEb2hseU5pN1VjQjFzUVpxenFGcU00VFRlR1RJX1F1S1hjdThSME93YVNUemdkR283cWZKNA?oc=5",
+      "image": null,
+      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 228.87
+        },
+        {
+          "d": "09-23",
+          "c": 225.51
+        },
+        {
+          "d": "09-24",
+          "c": 224.58
+        },
+        {
+          "d": "09-25",
+          "c": 225.07
+        },
+        {
+          "d": "09-28",
+          "c": 228.86
+        },
+        {
+          "d": "09-29",
+          "c": 227.21
+        },
+        {
+          "d": "09-30",
+          "c": 228.38
+        },
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.15
+        }
+      ]
+    },
+    {
+      "id": "40b51da4b0ba64d9",
+      "date": "Mon, 31 Aug 2026",
+      "ts": "2026-08-31T07:00:00+00:00",
+      "date_display": "Aug 31, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "respond 'hard' to Iranian attacks after Jordan strike - Fox News Trump warns US will respond 'hard' to Iranian attacks",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 58.67,
+      "change": -1.81,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ucE93U2lDeXhtZmxlSHZlN056WGJkRWtvaWlQa1NhZHVFMXIyYXFjdGZUeG9lbHZYeVpHeXBuMmh1YjA1UWoyNXFpei1sdXhsTThZR0Vn?oc=5",
+      "image": null,
+      "headline": "Trump warns US will respond 'hard' to Iranian attacks after Jordan strike - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 57.32
+        },
+        {
+          "d": "09-23",
+          "c": 56.96
+        },
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.67
+        }
+      ]
+    },
+    {
       "id": "1d55d5448ff914a7",
       "date": "Sun, 30 Aug 2026",
       "ts": "2026-08-30T22:38:24+00:00",
@@ -37286,754 +37953,6 @@
         {
           "d": "08-28",
           "c": 13.88
-        }
-      ]
-    },
-    {
-      "id": "db21405a7c5d58ec",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T14:03:17+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Gas. A Lawsuit Says the Dealer Didn\u2019t Pay for It. - The New York Times \u2018Freedom Fuel\u2019 Touts Cheap Gas. A Lawsuit Says the Dealer",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.27,
-      "change": -1.25,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDZDT3dxc2xEY0dnNHFuc25oTmhtTG5ZNGxSTlBkNU9YZlpZNWs1bkl4c1dQMC1QLVBheFptci1lTzZfeFNpSXJ5Rmo3bFZTbmxkR1VCTGV5VmhKMk9uM0FxTFBxU1BQTXdQa2l3U1BDRkdkemVvejdOTFVhUmpvWk90MVVMdFVKU0d4dVhKbEV0dw?oc=5",
-      "image": null,
-      "headline": "\u2018Freedom Fuel\u2019 Touts Cheap Gas. A Lawsuit Says the Dealer Didn\u2019t Pay for It. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        }
-      ]
-    },
-    {
-      "id": "8478927c25025122",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T14:03:16+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Cheap Gas. A Suit Says the Dealer Didn\u2019t Pay for It. - The New York Times \u2018Freedom Fuel\u2019 Touts Cheap Gas. A Suit Says the Dealer",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 68.16,
-      "change": 0.06,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDZDT3dxc2xEY0dnNHFuc25oTmhtTG5ZNGxSTlBkNU9YZlpZNWs1bkl4c1dQMC1QLVBheFptci1lTzZfeFNpSXJ5Rmo3bFZTbmxkR1VCTGV5VmhKMk9uM0FxTFBxU1BQTXdQa2l3U1BDRkdkemVvejdOTFVhUmpvWk90MVVMdFVKU0d4dVhKbEV0dw?oc=5",
-      "image": null,
-      "headline": "\u2018Freedom Fuel\u2019 Touts Cheap Gas. A Suit Says the Dealer Didn\u2019t Pay for It. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        }
-      ]
-    },
-    {
-      "id": "18fa2155a155bae8",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T11:31:52+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise &",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 217.55,
-      "change": -4.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGpjUFlQS3BxR3ZibGJXUjNic2p0dURBazZwWnl6SUhOdmdod2Q3dUFaQnFUc1hWcUIwYWVIeEF3aG5hc21DamZXOXY0MVpvZWtjMzVqN0xncDdITEh3WFNtRWo0M2k5RHpKNTBFR2E3MGRmRXJST1pVc3c5cElGUlB2cE9ZVHM0bUhrbzIxWWphdDZPQWlyOWVNTFFOaEZxWDBhQU9GUGpUaFJoeklZQUppeEJOSHlyVU8xdnp5UVNVU0JBQVlPS3JvTFpXdw?oc=5",
-      "image": null,
-      "headline": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise & More - Benzinga",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 195.04
-        },
-        {
-          "d": "07-31",
-          "c": 200.75
-        },
-        {
-          "d": "08-03",
-          "c": 206.64
-        },
-        {
-          "d": "08-04",
-          "c": 211.94
-        },
-        {
-          "d": "08-05",
-          "c": 219.22
-        },
-        {
-          "d": "08-06",
-          "c": 218.99
-        },
-        {
-          "d": "08-07",
-          "c": 223.96
-        },
-        {
-          "d": "08-10",
-          "c": 217.55
-        },
-        {
-          "d": "08-11",
-          "c": 217.5
-        },
-        {
-          "d": "08-12",
-          "c": 224.09
-        },
-        {
-          "d": "08-13",
-          "c": 225.3
-        },
-        {
-          "d": "08-14",
-          "c": 225.16
-        },
-        {
-          "d": "08-17",
-          "c": 225.01
-        },
-        {
-          "d": "08-18",
-          "c": 219.74
-        },
-        {
-          "d": "08-19",
-          "c": 217.56
-        },
-        {
-          "d": "08-20",
-          "c": 216.85
-        },
-        {
-          "d": "08-21",
-          "c": 214.72
-        },
-        {
-          "d": "08-24",
-          "c": 208.48
-        },
-        {
-          "d": "08-25",
-          "c": 213.05
-        },
-        {
-          "d": "08-26",
-          "c": 209.66
-        },
-        {
-          "d": "08-27",
-          "c": 227.98
-        },
-        {
-          "d": "08-28",
-          "c": 217.55
-        }
-      ]
-    },
-    {
-      "id": "8a9bcebd5f9f4199",
-      "date": "Sun, 30 Aug 2026",
-      "ts": "2026-08-30T11:31:52+00:00",
-      "date_display": "Aug 30, 2026",
-      "source": "Benzinga",
-      "type": "news",
-      "quote": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise & More - Benzinga Consumer",
-      "company": "Salesforce",
-      "ticker": "CRM",
-      "price": 256.0,
-      "change": 1.57,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGpjUFlQS3BxR3ZibGJXUjNic2p0dURBazZwWnl6SUhOdmdod2Q3dUFaQnFUc1hWcUIwYWVIeEF3aG5hc21DamZXOXY0MVpvZWtjMzVqN0xncDdITEh3WFNtRWo0M2k5RHpKNTBFR2E3MGRmRXJST1pVc3c5cElGUlB2cE9ZVHM0bUhrbzIxWWphdDZPQWlyOWVNTFFOaEZxWDBhQU9GUGpUaFJoeklZQUppeEJOSHlyVU8xdnp5UVNVU0JBQVlPS3JvTFpXdw?oc=5",
-      "image": null,
-      "headline": "Consumer Tech (Aug. 24-28): Nvidia Q2 Earnings, Salesforce Rally, Trump Tariff Fears Rise & More - Benzinga",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 180.71
-        },
-        {
-          "d": "07-31",
-          "c": 184.02
-        },
-        {
-          "d": "08-03",
-          "c": 185.95
-        },
-        {
-          "d": "08-04",
-          "c": 190.99
-        },
-        {
-          "d": "08-05",
-          "c": 192.98
-        },
-        {
-          "d": "08-06",
-          "c": 186.77
-        },
-        {
-          "d": "08-07",
-          "c": 192.74
-        },
-        {
-          "d": "08-10",
-          "c": 197.51
-        },
-        {
-          "d": "08-11",
-          "c": 197.47
-        },
-        {
-          "d": "08-12",
-          "c": 193.32
-        },
-        {
-          "d": "08-13",
-          "c": 201.37
-        },
-        {
-          "d": "08-14",
-          "c": 196.21
-        },
-        {
-          "d": "08-17",
-          "c": 190.97
-        },
-        {
-          "d": "08-18",
-          "c": 196.14
-        },
-        {
-          "d": "08-19",
-          "c": 206.09
-        },
-        {
-          "d": "08-20",
-          "c": 205.43
-        },
-        {
-          "d": "08-21",
-          "c": 209.17
-        },
-        {
-          "d": "08-24",
-          "c": 209.06
-        },
-        {
-          "d": "08-25",
-          "c": 205.69
-        },
-        {
-          "d": "08-26",
-          "c": 205.62
-        },
-        {
-          "d": "08-27",
-          "c": 252.05
-        },
-        {
-          "d": "08-28",
-          "c": 256.0
-        }
-      ]
-    },
-    {
-      "id": "7a566e8cb6f2f51a",
-      "date": "Sat, 29 Aug 2026",
-      "ts": "2026-08-29T16:53:00+00:00",
-      "date_display": "Aug 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "of More Than 65 Billion Barrels of Venezuela\u2019s Oil - The New York Times Trump Says U.S. Struck Deal for Control of More Than 65",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 68.16,
-      "change": 0.06,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JdUUyNTNSOHRoS21NSWNDNGpIOVA4Mlp1TEh4WjhLamo4YUFyLWdsc1dpTS1HS0psZW9FT2FfUjcwWHBfV2Z3Z2Y4Ry1OMk5zY2c4Wl9fTVZQWE1DTXVheVoyb09LS0JWOEVQOUdiTzgwN29UYzVUTU9NS3NIQQ?oc=5",
-      "image": null,
-      "headline": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela\u2019s Oil - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        }
-      ]
-    },
-    {
-      "id": "6c31ca087996de7f",
-      "date": "Sat, 29 Aug 2026",
-      "ts": "2026-08-29T04:43:00+00:00",
-      "date_display": "Aug 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "of 65 Billion Barrels of Venezuela\u2019s Oil Reserves - The New York Times Trump Administration Updates: U.S. Reaches Deal for",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 68.12,
-      "change": -0.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbU5vYVJHV3BwQkJwY3JFOHZiSWtGclpLWm1IR2pTVWticldXc0xBaG1rNzNqVld6dGxDalM0MGR1RkRBWDg4WUpqYkF6c2ZSOGQ3SzJNME1aUE5wSjZmWXZJMA?oc=5",
-      "image": null,
-      "headline": "Trump Administration Updates: U.S. Reaches Deal for Control of 65 Billion Barrels of Venezuela\u2019s Oil Reserves - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        }
-      ]
-    },
-    {
-      "id": "fff8df0fd8fa6a4a",
-      "date": "Sat, 29 Aug 2026",
-      "ts": "2026-08-29T02:23:47+00:00",
-      "date_display": "Aug 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Deal for Control of Large Share of Venezuela\u2019s Oil - The New York Times Trump Says U.S. Has Deal for Control of Large Share of",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 68.12,
-      "change": -0.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JdUUyNTNSOHRoS21NSWNDNGpIOVA4Mlp1TEh4WjhLamo4YUFyLWdsc1dpTS1HS0psZW9FT2FfUjcwWHBfV2Z3Z2Y4Ry1OMk5zY2c4Wl9fTVZQWE1DTXVheVoyb09LS0JWOEVQOUdiTzgwN29UYzVUTU9NS3NIQQ?oc=5",
-      "image": null,
-      "headline": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela\u2019s Oil - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-29",
-          "c": 77.69
-        },
-        {
-          "d": "07-30",
-          "c": 75.83
-        },
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
         }
       ]
     }
