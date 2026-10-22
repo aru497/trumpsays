@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-22T20:39:10.550035+00:00",
+  "updated_at": "2026-10-22T23:44:53.731693+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5580b9dfde2c4091",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T22:06:17+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Trump's attacks on the press have become a war The New York Times reported that the Trump Administration is considering",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 69.42,
+      "change": 0.81,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/10/22/nx-s1-6012340/trumps-attacks-on-the-press-have-become-a-war",
+      "image": null,
+      "headline": "Trump's attacks on the press have become a war",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 61.67
+        },
+        {
+          "d": "09-24",
+          "c": 62.82
+        },
+        {
+          "d": "09-25",
+          "c": 63.6
+        },
+        {
+          "d": "09-28",
+          "c": 63.94
+        },
+        {
+          "d": "09-29",
+          "c": 62.1
+        },
+        {
+          "d": "09-30",
+          "c": 63.47
+        },
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        }
+      ]
+    },
     {
       "id": "8965d4956b4cc5c2",
       "date": "Thu, 22 Oct 2026",
@@ -431,6 +539,114 @@
         {
           "d": "10-22",
           "c": 326.86
+        }
+      ]
+    },
+    {
+      "id": "b54c9dbfa50c51a6",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T16:59:20+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "INDIA New England News",
+      "type": "news",
+      "quote": "Trump Says Google CEO Sundar Pichai Discouraged Him From Renaming Atlantic",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 324.22,
+      "change": -3.15,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEdKeEY0MWlGMkFBRUh4dm9oU0VPcEp4bjdDUmd4M3ZoeU83T29Jd0kxMnFNanFFdk1SenZQazZTem5xYnJvR1ZQUGd1c0FnZ2Vjb1pxck5sdFNUUy1BdkF0blg1ekRxVWswTFQ4V3psTGU0alRCTjhEREJiNXZLRV9ZRW9BTFN2N2x0elE4d18tTl9YUEtJQTJBN1NqYWlaTTVfOGRnTlZvclFOMlE?oc=5",
+      "image": null,
+      "headline": "Trump Says Google CEO Sundar Pichai Discouraged Him From Renaming Atlantic Ocean - INDIA New England News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
         }
       ]
     },
@@ -37668,214 +37884,6 @@
         {
           "d": "09-02",
           "c": 164.15
-        }
-      ]
-    },
-    {
-      "id": "d6b9fdbf29812e8d",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T22:59:56+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "seekingalpha.com",
-      "type": "news",
-      "quote": "Exxon 'going in' to Venezuela, Trump says in touting oil deals",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 160.95,
-      "change": 2.71,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFHZzNRcVQ1UE9xNkMwOVh0YkF4TEJVOV9ZOHBBR2p5MEZhWmptaWFNdVB1WXp6TG5zM3RTaG82X3R3LUg1S3BWWDVaX1E1SmpGQ0h0TTdxNGhhaHBGc2d3X3E5TUc4RW1qVG1pT0FzZzd5b01QdXpqNXlzbnBLaDdVODZ4OU9va3JVYlJJZXlHY29tbHVVWXFvdWNHUQ?oc=5",
-      "image": null,
-      "headline": "Exxon 'going in' to Venezuela, Trump says in touting oil deals (XOM:NYSE) - seekingalpha.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 154.06
-        },
-        {
-          "d": "08-04",
-          "c": 152.97
-        },
-        {
-          "d": "08-05",
-          "c": 150.65
-        },
-        {
-          "d": "08-06",
-          "c": 153.84
-        },
-        {
-          "d": "08-07",
-          "c": 152.06
-        },
-        {
-          "d": "08-10",
-          "c": 158.76
-        },
-        {
-          "d": "08-11",
-          "c": 158.77
-        },
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        }
-      ]
-    },
-    {
-      "id": "0f6a324f9edd5a18",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T21:37:38+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Trump says Exxon is 'going in' to Venezuela as US pushes oil deals -",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 160.95,
-      "change": 2.71,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWhyUHdqZW5HWWIxUTVpZUFxQ3YwVmZpUm1sQXBBZGFjVG5pS1Ric3I4UkRrdEx3Yi1nWmFHWjFIYkxzcjdjTFphdzl5Q2VJRWZiQV9sM1hYV2xnMDh5SGcwdkNLeVFJUXlIVFdoVnZNYnk4VVB3RGNiNlFTWTgyZlRWYWk1X3JiX0NCX2FldWxaMXp4YWFtX21PNGFqZEYzQklOYVIxM0xIbEVnUDY4?oc=5",
-      "image": null,
-      "headline": "Trump says Exxon is 'going in' to Venezuela as US pushes oil deals - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 154.06
-        },
-        {
-          "d": "08-04",
-          "c": 152.97
-        },
-        {
-          "d": "08-05",
-          "c": 150.65
-        },
-        {
-          "d": "08-06",
-          "c": 153.84
-        },
-        {
-          "d": "08-07",
-          "c": 152.06
-        },
-        {
-          "d": "08-10",
-          "c": 158.76
-        },
-        {
-          "d": "08-11",
-          "c": 158.77
-        },
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
         }
       ]
     }
