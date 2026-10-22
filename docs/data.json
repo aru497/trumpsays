@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-10-22T12:09:58.558895+00:00",
+  "updated_at": "2026-10-22T17:23:45.337863+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4042ae0f4297a0d6",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T17:13:00+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "New York Post",
+      "type": "news",
+      "quote": "Google CEO Sundar Pichai stopped Trump from renaming the Atlantic",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 326.86,
+      "change": -2.36,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUtndU1kV2V1SURMenc0NkRGNk5VZ1RYQXhYYnBLb2dtUktJcTF4elQtcFNwYXhsejRNV2Q0SEhVZHk5Q0JpdklVdHNaeG81ci0zM2FlUDRoLUZPZmhpRVV5bHNUV1pvSWZQNVgzMWpRbWUxcDF1WEFfMDlQV1ZOUGdNVjVCNU1YLXBVT01GX3piUWl1elh0WDNXQU9SdmZDWUJnWUFzLVFuQXlUdlNFOXRYX0M3ZmczVFNv?oc=5",
+      "image": null,
+      "headline": "Google CEO Sundar Pichai stopped Trump from renaming the Atlantic Ocean - New York Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 326.86
+        }
+      ]
+    },
+    {
+      "id": "19cc20d935b66d23",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T12:05:04+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "Tekedia",
+      "type": "news",
+      "quote": "Companies Can Win Local Support With a \u2018Dividend\u2019, as Meta Faces $25B Fine - Tekedia Trump Says Data Center Companies",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 648.74,
+      "change": -6.99,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0l3SGJmY2l2SlBNOW1DVkhJdUc5X19kdmRyQm4xM1VVbjBpUEs4MlREdkNsSHEwWllnbkVUdXpzb2lzVURVWHZuNzdULVBiYjZydUtuT3lSVlIxbE9OeTNSZGpvTUE1UGJqaldlZXVWUV9UUFdTRk9wQ1ZYclZLczV5TlN2NUh2ZWRWZTNfbk1kWkx2Yk85d29hRlZPY3NSNmF5eXFIUThBMTl6M0g5aE9wVVFrNldaUnc?oc=5",
+      "image": null,
+      "headline": "Trump Says Data Center Companies Can Win Local Support With a \u2018Dividend\u2019, as Meta Faces $25B Fine - Tekedia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 744.1
+        },
+        {
+          "d": "09-24",
+          "c": 777.59
+        },
+        {
+          "d": "09-25",
+          "c": 751.66
+        },
+        {
+          "d": "09-28",
+          "c": 715.62
+        },
+        {
+          "d": "09-29",
+          "c": 738.79
+        },
+        {
+          "d": "09-30",
+          "c": 725.18
+        },
+        {
+          "d": "10-01",
+          "c": 725.93
+        },
+        {
+          "d": "10-02",
+          "c": 728.08
+        },
+        {
+          "d": "10-05",
+          "c": 741.9
+        },
+        {
+          "d": "10-06",
+          "c": 738.88
+        },
+        {
+          "d": "10-07",
+          "c": 721.31
+        },
+        {
+          "d": "10-08",
+          "c": 720.89
+        },
+        {
+          "d": "10-09",
+          "c": 718.67
+        },
+        {
+          "d": "10-12",
+          "c": 742.96
+        },
+        {
+          "d": "10-13",
+          "c": 762.5
+        },
+        {
+          "d": "10-14",
+          "c": 737.54
+        },
+        {
+          "d": "10-15",
+          "c": 736.72
+        },
+        {
+          "d": "10-16",
+          "c": 709.33
+        },
+        {
+          "d": "10-19",
+          "c": 705.44
+        },
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 697.52
+        },
+        {
+          "d": "10-22",
+          "c": 648.74
+        }
+      ]
+    },
     {
       "id": "171be75e35a664b2",
       "date": "Thu, 22 Oct 2026",
@@ -215,6 +431,114 @@
         {
           "d": "10-21",
           "c": 386.47
+        }
+      ]
+    },
+    {
+      "id": "726d51c232ea71ec",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T10:58:21+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump says he called Google\u2019s CEO to discuss renaming Atlantic Ocean - The Washington",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 326.86,
+      "change": -2.36,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0tvTkVYeE5WX0Qxb3ZsSjN4SFd3ZjRKQkcxdldjYTRIX1VrOE9vSEdwYmZCTHd3UTFZcUZJakpnMlkxczBBcWJEblBXZ0JnMF92NE1fNVBPTlhrelF4WTlyc1A3ZUQ4RzVBcDB5bEZsSERSbnZyUjZRVUM4aDA0cVpFMEtlZlBBbVFmc0ZCMmUweE1NRkpQaHdHWk14LWVZUXV2eGNXRFRoWmYzMFg5RFlQR0phMkRjV2hVX3BtS2ozUml4Sjc4NQ?oc=5",
+      "image": null,
+      "headline": "Trump says he called Google\u2019s CEO to discuss renaming Atlantic Ocean - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 326.86
         }
       ]
     },
@@ -37544,322 +37868,6 @@
         {
           "d": "09-02",
           "c": 325.17
-        }
-      ]
-    },
-    {
-      "id": "f3cb247af250e9d3",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T13:06:00+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "allegedly sold at Trump-promoted Freedom Fuel stations - Fox Business Fuel supplier sues distributor for nearly $4M",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 60.22,
-      "change": -1.79,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGVDQ1NLZVJUcGlJZjIyUTJ5dmNXVDBuRWlkakFlQ0E4TW43RDM1ekdNdEZYdjhCVjBSYmFaRVVvVFNra045Nm9TbVBKdzdsQnRxXzlHZUpwaXdTQ3dSNHNWWUo3SXFxaFJLZ1NMSFFNM052aU1LcFlua1FONXk4OFItWmNrcjVaQ21r0gGQAUFVX3lxTE5GZktZRnQ4cXVZTks5YnByWGp2UGtUZHFiTVFFVmlrTDFiclRMa1lYTkszNkdseUtOVksteFZqOGx6SGc1bl9QSWxNVDhtdE44SnlRbXNSUVBlVDNqeGYwd293Z0pCZUh2TFphOFBFYlBnR1AwUUhBb2xlcjZIQVQwenk0TEt2Y3Z5dzVZaUNPeA?oc=5",
-      "image": null,
-      "headline": "Fuel supplier sues distributor for nearly $4M over gas allegedly sold at Trump-promoted Freedom Fuel stations - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        },
-        {
-          "d": "08-24",
-          "c": 61.59
-        },
-        {
-          "d": "08-25",
-          "c": 62.69
-        },
-        {
-          "d": "08-26",
-          "c": 62.23
-        },
-        {
-          "d": "08-27",
-          "c": 60.4
-        },
-        {
-          "d": "08-28",
-          "c": 61.32
-        },
-        {
-          "d": "08-31",
-          "c": 60.22
-        }
-      ]
-    },
-    {
-      "id": "c6bf8d1a36435322",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T13:03:09+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Apple may change 'Lake Ontario' to 'Lake America' soon after",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 316.85,
-      "change": -0.89,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEIwd3dEcy1NOXh4R29vMkdGWWpxSVJTT0RmTVRMekZZYmtOTWpxOTB0LXNfZWpZV2Ftd2JFY3Uzd3dYdElrVkxzQVAwLTQ2SkczUFhsZGFJUTZrZWhGbjF3NnNWWUlyeUJkLTN5SkkyNmJZSmhUREcybWE5bnlVNW92cUU1OWVVSE1uVTBzWnhxZnRWai1yYlF6SzJlLWJpRk9mMnFJallIcGh6ejl3b3hJM2hSV2JLNnlLUkRTNGk?oc=5",
-      "image": null,
-      "headline": "Apple may change 'Lake Ontario' to 'Lake America' soon after talk with Trump, U.S. Interior Secretary says - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 303.16
-        },
-        {
-          "d": "08-04",
-          "c": 309.11
-        },
-        {
-          "d": "08-05",
-          "c": 310.73
-        },
-        {
-          "d": "08-06",
-          "c": 312.14
-        },
-        {
-          "d": "08-07",
-          "c": 313.06
-        },
-        {
-          "d": "08-10",
-          "c": 308.26
-        },
-        {
-          "d": "08-11",
-          "c": 304.91
-        },
-        {
-          "d": "08-12",
-          "c": 302.25
-        },
-        {
-          "d": "08-13",
-          "c": 305.26
-        },
-        {
-          "d": "08-14",
-          "c": 305.93
-        },
-        {
-          "d": "08-17",
-          "c": 305.59
-        },
-        {
-          "d": "08-18",
-          "c": 310.03
-        },
-        {
-          "d": "08-19",
-          "c": 316.83
-        },
-        {
-          "d": "08-20",
-          "c": 311.3
-        },
-        {
-          "d": "08-21",
-          "c": 309.35
-        },
-        {
-          "d": "08-24",
-          "c": 310.34
-        },
-        {
-          "d": "08-25",
-          "c": 309.9
-        },
-        {
-          "d": "08-26",
-          "c": 313.45
-        },
-        {
-          "d": "08-27",
-          "c": 314.58
-        },
-        {
-          "d": "08-28",
-          "c": 319.7
-        },
-        {
-          "d": "08-31",
-          "c": 316.85
-        }
-      ]
-    },
-    {
-      "id": "3f32485ec23fa78d",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T11:47:35+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "blocks certain journalists from covering G20 meeting The New York Times said in a statement that denying American journalists",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.79,
-      "change": -0.54,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/treasury-department-blocks-certain-journalists-from-covering-g20-meeting",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-31T043408Z_1362435910_RC265NAR74MU_RTRMADP_3_G20-FINANCE-BESSENT-BONDS-1024x683.jpg",
-      "headline": "Treasury Department blocks certain journalists from covering G20 meeting",
-      "channel": "News",
-      "series": [
-        {
-          "d": "07-31",
-          "c": 74.89
-        },
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.79
         }
       ]
     }
