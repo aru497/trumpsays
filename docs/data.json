@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-10-22T06:13:46.363817+00:00",
+  "updated_at": "2026-10-22T12:09:58.558895+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "171be75e35a664b2",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T11:36:13+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "Awani International",
+      "type": "news",
+      "quote": "Trump says Google's Pichai refused request to rename Atlantic 'American",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 334.76,
+      "change": -1.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1NMRVlHZmQtWXJKUmxPX3IwcUI3MDQ0ZzdJUFRmUUVLaG0wcHBBTU83SGZGMHVibUxtdV9teV9keTVyeENfMUZVejBld2VoVDVmSC1EMXktMFFjNkdzX3ltWTBHR3J4WTktQXRYazAwOTZtVlhqOHBxUm1wdnZOcmhQVGMxREdPeGk4LVdKcHoyRlpGaVRrTENzeTJwV1NnVk5adFNwVTQ5YnZwX09CZC1zSWlLM1NCbnlHWjVSMGg?oc=5",
+      "image": null,
+      "headline": "Trump says Google's Pichai refused request to rename Atlantic 'American Ocean' - Awani International",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 351.16
+        },
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        }
+      ]
+    },
+    {
+      "id": "2a62b8fcc957cb6a",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T11:28:24+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging The U.S. and Israel are planning for a",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 386.47,
+      "change": 3.41,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "image": null,
+      "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 378.9
+        },
+        {
+          "d": "09-23",
+          "c": 380.12
+        },
+        {
+          "d": "09-24",
+          "c": 377.94
+        },
+        {
+          "d": "09-25",
+          "c": 372.11
+        },
+        {
+          "d": "09-28",
+          "c": 357.45
+        },
+        {
+          "d": "09-29",
+          "c": 352.84
+        },
+        {
+          "d": "09-30",
+          "c": 354.81
+        },
+        {
+          "d": "10-01",
+          "c": 354.11
+        },
+        {
+          "d": "10-02",
+          "c": 370.59
+        },
+        {
+          "d": "10-05",
+          "c": 378.73
+        },
+        {
+          "d": "10-06",
+          "c": 380.68
+        },
+        {
+          "d": "10-07",
+          "c": 377.81
+        },
+        {
+          "d": "10-08",
+          "c": 375.0
+        },
+        {
+          "d": "10-09",
+          "c": 382.7
+        },
+        {
+          "d": "10-12",
+          "c": 378.03
+        },
+        {
+          "d": "10-13",
+          "c": 375.23
+        },
+        {
+          "d": "10-14",
+          "c": 367.16
+        },
+        {
+          "d": "10-15",
+          "c": 362.44
+        },
+        {
+          "d": "10-16",
+          "c": 354.72
+        },
+        {
+          "d": "10-19",
+          "c": 368.06
+        },
+        {
+          "d": "10-20",
+          "c": 373.71
+        },
+        {
+          "d": "10-21",
+          "c": 386.47
+        }
+      ]
+    },
+    {
+      "id": "8dfe97334d7812c0",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T10:40:00+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "The Independent",
+      "type": "news",
+      "quote": "Trump says Google refused request to rename Atlantic \u2018American Ocean\u2019 - The",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 334.76,
+      "change": -1.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbV9aci0xaTdVYkx3R2RielhHUkY1R1VFN1ZYRU1IX0tpeldxSnFJQ1U3amswcU1GeUdhS1RDcDBrZEV2Nl9OWGVXaFczSk0zazdQNkdOR2RCQ1lpeVNtZENpSzZJZlRpWktSRFIzWnljU2dUZ1Y0MVFuaXRJcDBsX20wUDZtUHFDakZULWJB?oc=5",
+      "image": null,
+      "headline": "Trump says Google refused request to rename Atlantic \u2018American Ocean\u2019 - The Independent",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 351.16
+        },
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        }
+      ]
+    },
+    {
+      "id": "1c0527c495b55dcc",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T09:55:00+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Trump says Google's CEO rejected his plan to change the Atlantic's name to",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 334.76,
+      "change": -1.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMC1KZEswRGZSV1A0Njh6bnd5QmNybnZJQzR4Q0hueEJaMGdwS3BCRUY1NlN0OHphejJ1ejhkNGJ3QzhyRG40aW5yZl9DQVdnanFrOVRKOUYwMzgxN01PYWc2VWY3bWZMWVVkVDYxNXlhZXRlMHJwMG4yS0NiTHk2RGljRUpodkY5NE9yVWNGOWN1Q3BlNVZXV0d3X0VUdlU?oc=5",
+      "image": null,
+      "headline": "Trump says Google's CEO rejected his plan to change the Atlantic's name to the 'Trump Ocean' - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-22",
+          "c": 351.16
+        },
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        }
+      ]
+    },
     {
       "id": "a8dcf7af6ce5e19f",
       "date": "Wed, 21 Oct 2026",
@@ -37428,438 +37860,6 @@
         {
           "d": "08-31",
           "c": 67.79
-        }
-      ]
-    },
-    {
-      "id": "34af732a34ec980e",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T07:00:00+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump says Exxon is 'going in' to Venezuela as US pushes oil deals - Yahoo",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 165.99,
-      "change": 0.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV09DOEN2YkNmNzdPRUM4YVlCdVJacERRdFlSREViVENSMEVvQ25aOUdTYlFBd3dObUxMQ1VwZ1AybEpxUC13aklMMDZteGJ5ZEQ2MTNfRGRpWmZMZEJOZHd2Tmlxem8xQ3hJeDRYTFNHRV9DTWhCYlpGeE8wYXJwYzhRb0pKWlZtWEJXNDFoNWx4bGM?oc=5",
-      "image": null,
-      "headline": "Trump says Exxon is 'going in' to Venezuela as US pushes oil deals - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        },
-        {
-          "d": "09-01",
-          "c": 164.55
-        },
-        {
-          "d": "09-02",
-          "c": 164.15
-        },
-        {
-          "d": "09-03",
-          "c": 162.21
-        },
-        {
-          "d": "09-04",
-          "c": 159.47
-        },
-        {
-          "d": "09-08",
-          "c": 160.66
-        },
-        {
-          "d": "09-09",
-          "c": 164.23
-        },
-        {
-          "d": "09-10",
-          "c": 165.23
-        },
-        {
-          "d": "09-11",
-          "c": 165.99
-        }
-      ]
-    },
-    {
-      "id": "f6226cc616eec142",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T07:00:00+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - Yahoo Finance",
-      "company": "Micron",
-      "ticker": "MU",
-      "price": 896.07,
-      "change": -0.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFBfNFlaa1pLSUtHYWdZcHNMaE9GZHJXbUN6OTVTSGNfUnpiSFlxU3Y2LXZoV0duMmdEQzk3Qm91RTNJU0lJRnMybHMwY0Z5NEhqZDJjU2FFbDFZX1pIV1l2UmkzbnJEb2hseU5pN1VjQjFzUVpxenFGcU00VFRlR1RJX1F1S1hjdThSME93YVNUemdkR283cWZKNA?oc=5",
-      "image": null,
-      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 1043.8
-        },
-        {
-          "d": "09-22",
-          "c": 1095.99
-        },
-        {
-          "d": "09-23",
-          "c": 1071.71
-        },
-        {
-          "d": "09-24",
-          "c": 1080.36
-        },
-        {
-          "d": "09-25",
-          "c": 1082.11
-        },
-        {
-          "d": "09-28",
-          "c": 1053.81
-        },
-        {
-          "d": "09-29",
-          "c": 1064.91
-        },
-        {
-          "d": "09-30",
-          "c": 1064.94
-        },
-        {
-          "d": "10-01",
-          "c": 1097.22
-        },
-        {
-          "d": "10-02",
-          "c": 1074.72
-        },
-        {
-          "d": "10-05",
-          "c": 1063.79
-        },
-        {
-          "d": "10-06",
-          "c": 1045.4
-        },
-        {
-          "d": "10-07",
-          "c": 1087.83
-        },
-        {
-          "d": "10-08",
-          "c": 1035.68
-        },
-        {
-          "d": "10-09",
-          "c": 1028.84
-        },
-        {
-          "d": "10-12",
-          "c": 988.88
-        },
-        {
-          "d": "10-13",
-          "c": 953.04
-        },
-        {
-          "d": "10-14",
-          "c": 914.13
-        },
-        {
-          "d": "10-15",
-          "c": 931.24
-        },
-        {
-          "d": "10-16",
-          "c": 878.84
-        },
-        {
-          "d": "10-19",
-          "c": 904.9
-        },
-        {
-          "d": "10-20",
-          "c": 896.07
-        }
-      ]
-    },
-    {
-      "id": "90a9ab2a2e02425a",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T07:00:00+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 221.15,
-      "change": 2.16,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFBfNFlaa1pLSUtHYWdZcHNMaE9GZHJXbUN6OTVTSGNfUnpiSFlxU3Y2LXZoV0duMmdEQzk3Qm91RTNJU0lJRnMybHMwY0Z5NEhqZDJjU2FFbDFZX1pIV1l2UmkzbnJEb2hseU5pN1VjQjFzUVpxenFGcU00VFRlR1RJX1F1S1hjdThSME93YVNUemdkR283cWZKNA?oc=5",
-      "image": null,
-      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 228.87
-        },
-        {
-          "d": "09-23",
-          "c": 225.51
-        },
-        {
-          "d": "09-24",
-          "c": 224.58
-        },
-        {
-          "d": "09-25",
-          "c": 225.07
-        },
-        {
-          "d": "09-28",
-          "c": 228.86
-        },
-        {
-          "d": "09-29",
-          "c": 227.21
-        },
-        {
-          "d": "09-30",
-          "c": 228.38
-        },
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.15
-        }
-      ]
-    },
-    {
-      "id": "40b51da4b0ba64d9",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T07:00:00+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "respond 'hard' to Iranian attacks after Jordan strike - Fox News Trump warns US will respond 'hard' to Iranian attacks",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.67,
-      "change": -1.81,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ucE93U2lDeXhtZmxlSHZlN056WGJkRWtvaWlQa1NhZHVFMXIyYXFjdGZUeG9lbHZYeVpHeXBuMmh1YjA1UWoyNXFpei1sdXhsTThZR0Vn?oc=5",
-      "image": null,
-      "headline": "Trump warns US will respond 'hard' to Iranian attacks after Jordan strike - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.67
         }
       ]
     }
