@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-10-22T17:23:45.337863+00:00",
+  "updated_at": "2026-10-22T20:39:10.550035+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8965d4956b4cc5c2",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T18:08:53+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "The Business Standard",
+      "type": "news",
+      "quote": "Trump says Google turned down his request to rename Atlantic Ocean - The",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 324.22,
+      "change": -3.15,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTJzaUNuOXZUOXlWZG1ZNk1VNVZhdkR2bEJMdmFqYUR1QkFkMHZEN1RxMWlVU3B4cHBKTFVNNGJvNFRmcmNLQzNjVnlJbTZTTEp3VVZQckJtblA1UTMxZzBfMVdOT1R3MUtPZ0pzendVQUNGR2JDR1hCZ3hsajh0bXZSYU93dG9YbGVKbFdmOGo3WHQwRFVjQ05qa3NPSGQzUUxvYS1SeFJZSDBR?oc=5",
+      "image": null,
+      "headline": "Trump says Google turned down his request to rename Atlantic Ocean - The Business Standard",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
+        }
+      ]
+    },
+    {
+      "id": "c324a6691edada76",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T17:50:25+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Trump Admin Warned Netflix Its Warner Bid Was Going Nowhere, John Malone Says -",
+      "company": "Netflix",
+      "ticker": "NFLX",
+      "price": 67.05,
+      "change": 3.09,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUdNa1dTbjIzYjQ3Um1QVjVXdUp4WWliZVlBYUg0bjVyYzBHTDlPdnE5SldRc0NYNWNXa2pHZERaUkh5SEdqSGRVcGV1eWZYSXRlVzJUMXY0UGFmeEx4MTJqem82NmVuZWdwZlV2dWZtVXV0and0M2hSOUlQbTRBaGtUWkZJRWRUTDJhSGNYNExlcXZKc2VPeWxWQmZncnlxNkdQTnlGWWVZQlh2bTFCUjZUUVRYZ3B1bVlSb1kxeDFNUTFtTmpMSDZVVlkwSjc5?oc=5",
+      "image": null,
+      "headline": "Trump Admin Warned Netflix Its Warner Bid Was Going Nowhere, John Malone Says - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 71.36
+        },
+        {
+          "d": "09-24",
+          "c": 71.72
+        },
+        {
+          "d": "09-25",
+          "c": 71.15
+        },
+        {
+          "d": "09-28",
+          "c": 69.23
+        },
+        {
+          "d": "09-29",
+          "c": 70.3
+        },
+        {
+          "d": "09-30",
+          "c": 69.58
+        },
+        {
+          "d": "10-01",
+          "c": 67.85
+        },
+        {
+          "d": "10-02",
+          "c": 67.06
+        },
+        {
+          "d": "10-05",
+          "c": 67.5
+        },
+        {
+          "d": "10-06",
+          "c": 68.69
+        },
+        {
+          "d": "10-07",
+          "c": 69.7
+        },
+        {
+          "d": "10-08",
+          "c": 71.57
+        },
+        {
+          "d": "10-09",
+          "c": 70.3
+        },
+        {
+          "d": "10-12",
+          "c": 70.61
+        },
+        {
+          "d": "10-13",
+          "c": 70.46
+        },
+        {
+          "d": "10-14",
+          "c": 70.57
+        },
+        {
+          "d": "10-15",
+          "c": 72.61
+        },
+        {
+          "d": "10-16",
+          "c": 70.53
+        },
+        {
+          "d": "10-19",
+          "c": 69.85
+        },
+        {
+          "d": "10-20",
+          "c": 68.69
+        },
+        {
+          "d": "10-21",
+          "c": 65.04
+        },
+        {
+          "d": "10-22",
+          "c": 67.05
+        }
+      ]
+    },
+    {
+      "id": "cd79a71cdf39a86b",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T17:41:00+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps - The Guardian Trump",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 324.22,
+      "change": -3.15,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTXhuV09SQnVKM2ozUFBFVTFXUjlsbU13b0VZVWJmR1pMOWZxS25MR3NYVGluZTBxVFFxN05ScDFVbzREZ0NNSWRhbjh3MmpkU2R2WXhUcTh5dlk0b09RY19IZ0JkaktXdS1jVlY0VEJEUGJiQjRWdHJRVUcwX3gwaW1QWENBSTVCYlE?oc=5",
+      "image": null,
+      "headline": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 337.83
+        },
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
+        }
+      ]
+    },
     {
       "id": "4042ae0f4297a0d6",
       "date": "Thu, 22 Oct 2026",
@@ -755,6 +1079,222 @@
         {
           "d": "10-21",
           "c": 334.76
+        }
+      ]
+    },
+    {
+      "id": "58d19aa75153558f",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T08:56:33+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "enormously wealthy' As Elon Musk considers merging Tesla and SpaceX, tech journalist Kara Swisher examines his",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 374.58,
+      "change": -3.08,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence",
+      "image": null,
+      "headline": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 380.12
+        },
+        {
+          "d": "09-24",
+          "c": 377.94
+        },
+        {
+          "d": "09-25",
+          "c": 372.11
+        },
+        {
+          "d": "09-28",
+          "c": 357.45
+        },
+        {
+          "d": "09-29",
+          "c": 352.84
+        },
+        {
+          "d": "09-30",
+          "c": 354.81
+        },
+        {
+          "d": "10-01",
+          "c": 354.11
+        },
+        {
+          "d": "10-02",
+          "c": 370.59
+        },
+        {
+          "d": "10-05",
+          "c": 378.73
+        },
+        {
+          "d": "10-06",
+          "c": 380.68
+        },
+        {
+          "d": "10-07",
+          "c": 377.81
+        },
+        {
+          "d": "10-08",
+          "c": 375.0
+        },
+        {
+          "d": "10-09",
+          "c": 382.7
+        },
+        {
+          "d": "10-12",
+          "c": 378.03
+        },
+        {
+          "d": "10-13",
+          "c": 375.23
+        },
+        {
+          "d": "10-14",
+          "c": 367.16
+        },
+        {
+          "d": "10-15",
+          "c": 362.44
+        },
+        {
+          "d": "10-16",
+          "c": 354.72
+        },
+        {
+          "d": "10-19",
+          "c": 368.06
+        },
+        {
+          "d": "10-20",
+          "c": 373.71
+        },
+        {
+          "d": "10-21",
+          "c": 386.47
+        },
+        {
+          "d": "10-22",
+          "c": 374.58
+        }
+      ]
+    },
+    {
+      "id": "44a5ee1038a93904",
+      "date": "Thu, 22 Oct 2026",
+      "ts": "2026-10-22T08:56:33+00:00",
+      "date_display": "Oct 22, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "SpaceX, tech journalist Kara Swisher examines his business strategy, growing political influence and power over the war in",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 145.8,
+      "change": -5.0,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence",
+      "image": null,
+      "headline": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-23",
+          "c": 162.2
+        },
+        {
+          "d": "09-24",
+          "c": 161.61
+        },
+        {
+          "d": "09-25",
+          "c": 158.61
+        },
+        {
+          "d": "09-28",
+          "c": 157.14
+        },
+        {
+          "d": "09-29",
+          "c": 154.67
+        },
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        },
+        {
+          "d": "10-07",
+          "c": 153.37
+        },
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.34
+        },
+        {
+          "d": "10-12",
+          "c": 152.68
+        },
+        {
+          "d": "10-13",
+          "c": 152.18
+        },
+        {
+          "d": "10-14",
+          "c": 143.24
+        },
+        {
+          "d": "10-15",
+          "c": 151.29
+        },
+        {
+          "d": "10-16",
+          "c": 136.83
+        },
+        {
+          "d": "10-19",
+          "c": 136.02
+        },
+        {
+          "d": "10-20",
+          "c": 142.72
+        },
+        {
+          "d": "10-21",
+          "c": 153.48
+        },
+        {
+          "d": "10-22",
+          "c": 145.8
         }
       ]
     },
@@ -37336,538 +37876,6 @@
         {
           "d": "08-31",
           "c": 160.95
-        }
-      ]
-    },
-    {
-      "id": "301e08aab74ddd72",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T17:00:01+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "American Airlines announces Trump Accounts matching program - CNBC American",
-      "company": "American Airlines",
-      "ticker": "AAL",
-      "price": 13.43,
-      "change": -1.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnMzUXhiczVqNGlXMHJBeTdBQVJIcnBtdmdtZm1xcS1uOUhldWdMQVkzSXVmYTRZcHpPS1B6WkMtTGx5bGJHazhGTDRqTllHUThSRjdobFNHQkwwMnl4TndDaTZQNVdKOUxyeEswb19rX2NUYkQ2Q0pxY0FKU2FvWDN6Ni1WdnF3N0pWWDNqc9IBlAFBVV95cUxQVFdzejFSeGNwck9GYXFlbFpsVDZKX09pSHZxeFh5aDBCWU9kWDQyaXdTby16b2VNdGJMN1l0Qk0wQ1o1dGdSVThTVTJQNWFzUUtReExLWkRGeXYwNE1adDktR3ZMVldSWHh1SDJfOF9nOU94TnAwXzBuTl90TW1KZEd0bm5YZWRCNVVUQXRvSUhYVmdD?oc=5",
-      "image": null,
-      "headline": "American Airlines announces Trump Accounts matching program - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 16.04
-        },
-        {
-          "d": "08-04",
-          "c": 16.56
-        },
-        {
-          "d": "08-05",
-          "c": 16.58
-        },
-        {
-          "d": "08-06",
-          "c": 16.03
-        },
-        {
-          "d": "08-07",
-          "c": 15.94
-        },
-        {
-          "d": "08-10",
-          "c": 15.0
-        },
-        {
-          "d": "08-11",
-          "c": 15.29
-        },
-        {
-          "d": "08-12",
-          "c": 14.93
-        },
-        {
-          "d": "08-13",
-          "c": 15.06
-        },
-        {
-          "d": "08-14",
-          "c": 14.83
-        },
-        {
-          "d": "08-17",
-          "c": 14.43
-        },
-        {
-          "d": "08-18",
-          "c": 14.05
-        },
-        {
-          "d": "08-19",
-          "c": 13.86
-        },
-        {
-          "d": "08-20",
-          "c": 13.52
-        },
-        {
-          "d": "08-21",
-          "c": 13.82
-        },
-        {
-          "d": "08-24",
-          "c": 13.63
-        },
-        {
-          "d": "08-25",
-          "c": 13.95
-        },
-        {
-          "d": "08-26",
-          "c": 13.84
-        },
-        {
-          "d": "08-27",
-          "c": 13.72
-        },
-        {
-          "d": "08-28",
-          "c": 13.64
-        },
-        {
-          "d": "08-31",
-          "c": 13.43
-        }
-      ]
-    },
-    {
-      "id": "696eb963d713504c",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T17:00:01+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "cnbc.com",
-      "type": "news",
-      "quote": "American Airlines announces Trump Accounts matching program - cnbc.com",
-      "company": "American Airlines",
-      "ticker": "AAL",
-      "price": 12.97,
-      "change": -1.07,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnMzUXhiczVqNGlXMHJBeTdBQVJIcnBtdmdtZm1xcS1uOUhldWdMQVkzSXVmYTRZcHpPS1B6WkMtTGx5bGJHazhGTDRqTllHUThSRjdobFNHQkwwMnl4TndDaTZQNVdKOUxyeEswb19rX2NUYkQ2Q0pxY0FKU2FvWDN6Ni1WdnF3N0pWWDNqc9IBlAFBVV95cUxQVFdzejFSeGNwck9GYXFlbFpsVDZKX09pSHZxeFh5aDBCWU9kWDQyaXdTby16b2VNdGJMN1l0Qk0wQ1o1dGdSVThTVTJQNWFzUUtReExLWkRGeXYwNE1adDktR3ZMVldSWHh1SDJfOF9nOU94TnAwXzBuTl90TW1KZEd0bm5YZWRCNVVUQXRvSUhYVmdD?oc=5",
-      "image": null,
-      "headline": "American Airlines announces Trump Accounts matching program - cnbc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-05",
-          "c": 16.58
-        },
-        {
-          "d": "08-06",
-          "c": 16.03
-        },
-        {
-          "d": "08-07",
-          "c": 15.94
-        },
-        {
-          "d": "08-10",
-          "c": 15.0
-        },
-        {
-          "d": "08-11",
-          "c": 15.29
-        },
-        {
-          "d": "08-12",
-          "c": 14.93
-        },
-        {
-          "d": "08-13",
-          "c": 15.06
-        },
-        {
-          "d": "08-14",
-          "c": 14.83
-        },
-        {
-          "d": "08-17",
-          "c": 14.43
-        },
-        {
-          "d": "08-18",
-          "c": 14.05
-        },
-        {
-          "d": "08-19",
-          "c": 13.86
-        },
-        {
-          "d": "08-20",
-          "c": 13.52
-        },
-        {
-          "d": "08-21",
-          "c": 13.82
-        },
-        {
-          "d": "08-24",
-          "c": 13.63
-        },
-        {
-          "d": "08-25",
-          "c": 13.95
-        },
-        {
-          "d": "08-26",
-          "c": 13.84
-        },
-        {
-          "d": "08-27",
-          "c": 13.72
-        },
-        {
-          "d": "08-28",
-          "c": 13.64
-        },
-        {
-          "d": "08-31",
-          "c": 13.43
-        },
-        {
-          "d": "09-01",
-          "c": 12.95
-        },
-        {
-          "d": "09-02",
-          "c": 13.11
-        },
-        {
-          "d": "09-03",
-          "c": 12.97
-        }
-      ]
-    },
-    {
-      "id": "90f64fc32e00c0a7",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T16:17:54+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "FOX 2 Detroit",
-      "type": "news",
-      "quote": "Canada announces retaliatory tariffs on U.S. goods - FOX 2 Detroit Canada announces retaliatory tariffs on U.S.",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 60.22,
-      "change": -1.79,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGxFdDJkeUU1Nm91N0F0dGNHdEJqdkE5UXVxTzZHZFJpYUU4QXp1YmJDRWNHRTFpbXVhNlljaHRYRk8zZFBhdHMyUnF1SU5oUThqM2VtdVJ4b1RsTmRCd3A4ZXhKV3hCZ1RGY012NTB1eXd3OFpPTjNDRVdTSklOLVFudmp2S1VwRHFWWFR2d1hSeHFuNXN6UjExaWdLaUlja0840gGoAUFVX3lxTFAyLWJ1amNEZGFnMmJpRGl6dE92UmFRWEwzdnJCRkQ0Yy1tSGpVMVRZRS1fZXVrQ2I2X2VUTy16VFo1bnkyenRXNGk2ODJYZEhVakZRUk4tN2dKSFktd3hLUHhXMUZxcHZqUDJQZ0IxNTNRYTA5TzdlQkRBV2szODdrYU5lMXByMm9LNjJfU1UwdXZRVDZwNVhuV3ptUXU5akxuNXZqdHdpLQ?oc=5",
-      "image": null,
-      "headline": "Canada announces retaliatory tariffs on U.S. goods - FOX 2 Detroit",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 52.62
-        },
-        {
-          "d": "08-04",
-          "c": 52.82
-        },
-        {
-          "d": "08-05",
-          "c": 52.2
-        },
-        {
-          "d": "08-06",
-          "c": 55.37
-        },
-        {
-          "d": "08-07",
-          "c": 57.03
-        },
-        {
-          "d": "08-10",
-          "c": 56.33
-        },
-        {
-          "d": "08-11",
-          "c": 55.34
-        },
-        {
-          "d": "08-12",
-          "c": 55.97
-        },
-        {
-          "d": "08-13",
-          "c": 58.1
-        },
-        {
-          "d": "08-14",
-          "c": 61.41
-        },
-        {
-          "d": "08-17",
-          "c": 61.49
-        },
-        {
-          "d": "08-18",
-          "c": 61.23
-        },
-        {
-          "d": "08-19",
-          "c": 60.39
-        },
-        {
-          "d": "08-20",
-          "c": 60.45
-        },
-        {
-          "d": "08-21",
-          "c": 61.05
-        },
-        {
-          "d": "08-24",
-          "c": 61.59
-        },
-        {
-          "d": "08-25",
-          "c": 62.69
-        },
-        {
-          "d": "08-26",
-          "c": 62.23
-        },
-        {
-          "d": "08-27",
-          "c": 60.4
-        },
-        {
-          "d": "08-28",
-          "c": 61.32
-        },
-        {
-          "d": "08-31",
-          "c": 60.22
-        }
-      ]
-    },
-    {
-      "id": "097f7ef568402214",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T15:00:11+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps -",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 325.13,
-      "change": 2.61,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U0tGeWJWd0VQWlBhQ2ZFSmhZUzNNQktMSG1nLXF0NjdDUXU0eU9fSEhvX1N0cW9SbXBzZ2EwOGhoelFGQlo3TmY0ejEyU2Y4VlJJS2t3RFplZw?oc=5",
-      "image": null,
-      "headline": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - BBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 303.16
-        },
-        {
-          "d": "08-04",
-          "c": 309.11
-        },
-        {
-          "d": "08-05",
-          "c": 310.73
-        },
-        {
-          "d": "08-06",
-          "c": 312.14
-        },
-        {
-          "d": "08-07",
-          "c": 313.06
-        },
-        {
-          "d": "08-10",
-          "c": 308.26
-        },
-        {
-          "d": "08-11",
-          "c": 304.91
-        },
-        {
-          "d": "08-12",
-          "c": 302.25
-        },
-        {
-          "d": "08-13",
-          "c": 305.26
-        },
-        {
-          "d": "08-14",
-          "c": 305.93
-        },
-        {
-          "d": "08-17",
-          "c": 305.59
-        },
-        {
-          "d": "08-18",
-          "c": 310.03
-        },
-        {
-          "d": "08-19",
-          "c": 316.83
-        },
-        {
-          "d": "08-20",
-          "c": 311.3
-        },
-        {
-          "d": "08-21",
-          "c": 309.35
-        },
-        {
-          "d": "08-24",
-          "c": 310.34
-        },
-        {
-          "d": "08-25",
-          "c": 309.9
-        },
-        {
-          "d": "08-26",
-          "c": 313.45
-        },
-        {
-          "d": "08-27",
-          "c": 314.58
-        },
-        {
-          "d": "08-28",
-          "c": 319.7
-        },
-        {
-          "d": "08-31",
-          "c": 316.85
-        },
-        {
-          "d": "09-01",
-          "c": 325.13
-        }
-      ]
-    },
-    {
-      "id": "bc5c2cc169c8125f",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T15:00:11+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "bbc.com",
-      "type": "news",
-      "quote": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps -",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 325.17,
-      "change": 0.01,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U0tGeWJWd0VQWlBhQ2ZFSmhZUzNNQktMSG1nLXF0NjdDUXU0eU9fSEhvX1N0cW9SbXBzZ2EwOGhoelFGQlo3TmY0ejEyU2Y4VlJJS2t3RFplZw?oc=5",
-      "image": null,
-      "headline": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - bbc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-04",
-          "c": 309.11
-        },
-        {
-          "d": "08-05",
-          "c": 310.73
-        },
-        {
-          "d": "08-06",
-          "c": 312.14
-        },
-        {
-          "d": "08-07",
-          "c": 313.06
-        },
-        {
-          "d": "08-10",
-          "c": 308.26
-        },
-        {
-          "d": "08-11",
-          "c": 304.91
-        },
-        {
-          "d": "08-12",
-          "c": 302.25
-        },
-        {
-          "d": "08-13",
-          "c": 305.26
-        },
-        {
-          "d": "08-14",
-          "c": 305.93
-        },
-        {
-          "d": "08-17",
-          "c": 305.59
-        },
-        {
-          "d": "08-18",
-          "c": 310.03
-        },
-        {
-          "d": "08-19",
-          "c": 316.83
-        },
-        {
-          "d": "08-20",
-          "c": 311.3
-        },
-        {
-          "d": "08-21",
-          "c": 309.35
-        },
-        {
-          "d": "08-24",
-          "c": 310.34
-        },
-        {
-          "d": "08-25",
-          "c": 309.9
-        },
-        {
-          "d": "08-26",
-          "c": 313.45
-        },
-        {
-          "d": "08-27",
-          "c": 314.58
-        },
-        {
-          "d": "08-28",
-          "c": 319.7
-        },
-        {
-          "d": "08-31",
-          "c": 316.85
-        },
-        {
-          "d": "09-01",
-          "c": 325.13
-        },
-        {
-          "d": "09-02",
-          "c": 325.17
         }
       ]
     }
