@@ -1,7 +1,350 @@
 {
-  "updated_at": "2026-10-23T12:55:46.000023+00:00",
+  "updated_at": "2026-10-23T17:34:45.646842+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "deb4d0562e8e0a99",
+      "date": "Fri, 23 Oct 2026",
+      "ts": "2026-10-23T15:48:00+00:00",
+      "date_display": "Oct 23, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Drops 4% as Selling Pressure Persists; Rumble Edges Higher",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 6.39,
+      "change": -3.33,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm1rQUU2ZzJWd21WQTNSTkFCQkNCT3JOakxLdnpxNnlmMkJGQkZuWGFjRnNkaXA3NEV6OEZYc01vY0xtNHJmRnNaMlBRUk9xNU1HN0pSWC1tWGpzMGdxMm53UWtHcHhZWFB5djlfWFk3bWt0VnlGcmtxaFp2eUJ2MnA1QldWckZrME1UNGQ3dHRLRWxWRGtOYnZzQ0pmUmw3MlIxVl9IdEk3aHdvcWFpODFn?oc=5",
+      "image": null,
+      "headline": "Trump Media Drops 4% as Selling Pressure Persists; Rumble Edges Higher - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-24",
+          "c": 9.1
+        },
+        {
+          "d": "09-25",
+          "c": 9.14
+        },
+        {
+          "d": "09-28",
+          "c": 9.12
+        },
+        {
+          "d": "09-29",
+          "c": 9.1
+        },
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.39
+        }
+      ]
+    },
+    {
+      "id": "8f765641c036d026",
+      "date": "Fri, 23 Oct 2026",
+      "ts": "2026-10-23T15:31:00+00:00",
+      "date_display": "Oct 23, 2026",
+      "source": "FOX One",
+      "type": "news",
+      "quote": "behind Donald Trump's campaign energy - Varney & Company - FOX One Watch Lara Trump shares the secrets behind Donald",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 59.65,
+      "change": -1.92,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWVoVGRPTmVnQnRRQU0zYmZpMFdlRDlISXhKaDdLdVZSR2phTWVMWHNndHVTLTVaZEZQUzNDWWdiTDlqUGFQSUJyVDFjQkE2NXNobEU1TXRnZU11OV90LVEzXzIzTGxCSGw5b0JtZXI3TExXOW8tbmdJNDBqV1V1MXJfMXgwV0FOcDI3U1RXQ3RxMDNYaEF4T3RRYnREVXlqd2VVMXZINDNwc2dvVXY1bFQ0RDQ0dXBIcEZr?oc=5",
+      "image": null,
+      "headline": "Watch Lara Trump shares the secrets behind Donald Trump's campaign energy - Varney & Company - FOX One",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-24",
+          "c": 57.2
+        },
+        {
+          "d": "09-25",
+          "c": 56.54
+        },
+        {
+          "d": "09-28",
+          "c": 56.55
+        },
+        {
+          "d": "09-29",
+          "c": 55.83
+        },
+        {
+          "d": "09-30",
+          "c": 56.3
+        },
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.65
+        }
+      ]
+    },
+    {
+      "id": "33475c0000215974",
+      "date": "Fri, 23 Oct 2026",
+      "ts": "2026-10-23T15:14:18+00:00",
+      "date_display": "Oct 23, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Trump administration files lawsuit to block possible Democratic win in Alaska Senate race This move",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/trump-administration-files-lawsuit-to-block-possible-democratic-win-in-alaska-senate-race",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-14T021041Z_543658175_RC2Q2OAG4953_RTRMADP_3_USA-TRUMP-1024x692.jpg",
+      "headline": "Trump administration files lawsuit to block possible Democratic win in Alaska Senate race",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "f5f59c9144574644",
+      "date": "Fri, 23 Oct 2026",
+      "ts": "2026-10-23T00:42:00+00:00",
+      "date_display": "Oct 23, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "Trump wanted a \u2018Trump Ocean\u2019 on Google Maps. He says CEO Sundar Pichai shut it down - Fortune",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 321.87,
+      "change": -0.72,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQm1mV2VGOFNidHp6V01fd3dJM09acFRiYWtBY0RsSVRmVU9vNnJaWGZPUm1vd3M0UHJ0anRtSWlMN08yWlBPNU1DLXVVTER0ODNaSzhGazExVkZHQTR2eTBWcTd1UnFIU0s2MFRyZFAzNkdNTWhHWFBrMk96Z1ktYnhLWmREb0lYU2k5T0Jub0FzU2ZlMXQ4?oc=5",
+      "image": null,
+      "headline": "Trump wanted a \u2018Trump Ocean\u2019 on Google Maps. He says CEO Sundar Pichai shut it down - Fortune",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-24",
+          "c": 342.36
+        },
+        {
+          "d": "09-25",
+          "c": 343.92
+        },
+        {
+          "d": "09-28",
+          "c": 342.75
+        },
+        {
+          "d": "09-29",
+          "c": 340.92
+        },
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
+        },
+        {
+          "d": "10-23",
+          "c": 321.87
+        }
+      ]
+    },
     {
       "id": "5580b9dfde2c4091",
       "date": "Thu, 22 Oct 2026",
@@ -37460,430 +37803,6 @@
         {
           "d": "09-02",
           "c": 1.07
-        }
-      ]
-    },
-    {
-      "id": "e0d55433d5c90465",
-      "date": "Tue, 01 Sep 2026",
-      "ts": "2026-09-01T01:25:43+00:00",
-      "date_display": "Sep 01, 2026",
-      "source": "marinelink.com",
-      "type": "news",
-      "quote": "Trump Says Exxon Will Re-Enter Venezuela - marinelink.com Trump Says Exxon",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 162.74,
-      "change": 1.11,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxU2tLcFJvdFJ3YjFEdTZCLVpaTmducGZTZE5wMm02UDZBbHVRUHQtSFRUMTRRN2RRWFduQmw4dVIyVDlZZ0tpcTdxZ0RjMUtCRkM2LW9fdU9jQXV1ODQ1aTNndnFRSExJTmU4S29ScGdoYTBKMks3WjB4RGxfUQ?oc=5",
-      "image": null,
-      "headline": "Trump Says Exxon Will Re-Enter Venezuela - marinelink.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 154.06
-        },
-        {
-          "d": "08-04",
-          "c": 152.97
-        },
-        {
-          "d": "08-05",
-          "c": 150.65
-        },
-        {
-          "d": "08-06",
-          "c": 153.84
-        },
-        {
-          "d": "08-07",
-          "c": 152.06
-        },
-        {
-          "d": "08-10",
-          "c": 158.76
-        },
-        {
-          "d": "08-11",
-          "c": 158.77
-        },
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        },
-        {
-          "d": "09-01",
-          "c": 162.74
-        }
-      ]
-    },
-    {
-      "id": "ceb4633a03a231be",
-      "date": "Tue, 01 Sep 2026",
-      "ts": "2026-09-01T01:25:43+00:00",
-      "date_display": "Sep 01, 2026",
-      "source": "Marine Link",
-      "type": "news",
-      "quote": "Trump Says Exxon Will Re-Enter Venezuela - Marine Link Trump Says Exxon",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 163.99,
-      "change": 1.89,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxU2tLcFJvdFJ3YjFEdTZCLVpaTmducGZTZE5wMm02UDZBbHVRUHQtSFRUMTRRN2RRWFduQmw4dVIyVDlZZ0tpcTdxZ0RjMUtCRkM2LW9fdU9jQXV1ODQ1aTNndnFRSExJTmU4S29ScGdoYTBKMks3WjB4RGxfUQ?oc=5",
-      "image": null,
-      "headline": "Trump Says Exxon Will Re-Enter Venezuela - Marine Link",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 154.06
-        },
-        {
-          "d": "08-04",
-          "c": 152.97
-        },
-        {
-          "d": "08-05",
-          "c": 150.65
-        },
-        {
-          "d": "08-06",
-          "c": 153.84
-        },
-        {
-          "d": "08-07",
-          "c": 152.06
-        },
-        {
-          "d": "08-10",
-          "c": 158.76
-        },
-        {
-          "d": "08-11",
-          "c": 158.77
-        },
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        },
-        {
-          "d": "09-01",
-          "c": 163.99
-        }
-      ]
-    },
-    {
-      "id": "231193d0f12b1bfe",
-      "date": "Tue, 01 Sep 2026",
-      "ts": "2026-09-01T00:00:45+00:00",
-      "date_display": "Sep 01, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Firm Leads $1 Billion Funding Round for Polymarket - The New York Times Donald Trump Jr.\u2019s Firm Leads $1 Billion Funding Round for",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.73,
-      "change": 0.68,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44OThUM2Z3OTh5QzdWb1ZvczM2RGkyclJ2eGRrRG5iZUpFS19RWkNBMWR5SUV4M2dvMjRKMzZwM1k5SkRuX1VXNzVMN0tEYmVVX3lyT2JHY0JfSkJqVDRnUldTY3JCSTNoc2lBRHFwdVo0QWt3YXlUNFlrMWtFZw?oc=5",
-      "image": null,
-      "headline": "Donald Trump Jr.\u2019s Firm Leads $1 Billion Funding Round for Polymarket - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 75.44
-        },
-        {
-          "d": "08-04",
-          "c": 75.61
-        },
-        {
-          "d": "08-05",
-          "c": 65.48
-        },
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        }
-      ]
-    },
-    {
-      "id": "534ed3d2e6e3ccae",
-      "date": "Mon, 31 Aug 2026",
-      "ts": "2026-08-31T23:09:52+00:00",
-      "date_display": "Aug 31, 2026",
-      "source": "The Mighty 790 KFGO",
-      "type": "news",
-      "quote": "Trump says Exxon is \u2018going in\u2019 to Venezuela as US pushes oil deals - The",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 162.21,
-      "change": -1.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXhwU0UyR2FsczhuSGVjNnEzZk5wUHpGbEF3WTEtdTctekYxVlYtVFprSGxXWHZucG16WmZfTnUtYlQ0cEx0N1NVVjRyWjFLRUFaQkpxeEt5YmhUQmpvbkxsMUJUQjY1N2dCOTh0YTFIT2tmaEVTT2dEajZPdmVTR1FTRHdZNDN4N2FlQkVRMnNFSFhTUE5MSw?oc=5",
-      "image": null,
-      "headline": "Trump says Exxon is \u2018going in\u2019 to Venezuela as US pushes oil deals - The Mighty 790 KFGO",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-05",
-          "c": 150.65
-        },
-        {
-          "d": "08-06",
-          "c": 153.84
-        },
-        {
-          "d": "08-07",
-          "c": 152.06
-        },
-        {
-          "d": "08-10",
-          "c": 158.76
-        },
-        {
-          "d": "08-11",
-          "c": 158.77
-        },
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        },
-        {
-          "d": "09-01",
-          "c": 164.55
-        },
-        {
-          "d": "09-02",
-          "c": 164.15
-        },
-        {
-          "d": "09-03",
-          "c": 162.21
         }
       ]
     }
