@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-10-26T23:26:00.123764+00:00",
+  "updated_at": "2026-10-27T02:13:20.409354+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4b761e59486f2968",
+      "date": "Mon, 26 Oct 2026",
+      "ts": "2026-10-26T17:42:00+00:00",
+      "date_display": "Oct 26, 2026",
+      "source": "U.S. News & World Report",
+      "type": "news",
+      "quote": "Microsoft Offers a Quarter of Its Global Workforce Voluntary Buyouts",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 532.6,
+      "change": 1.54,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObjlNU2Z6S2lyN0puWkFrbUVzQTdGeWJRTnJ5MS10ajJNYkpYTjd1SFczQm9oalhPUEVxek95bTRxRjN4Umh0T2pkNVdTQ1ZrLWJzQmlveVNiZlJZY3kxMXUwMHoya2xrZjdjXzJiRmZtWVFaUnd5N1JpUTZhU3d2dGY5OUVmTlBzeG1VNEw0VXdiVldCa3dOMDVlMG1zVUFMZ2tibW5abk9ucjU5dUFDNUtPNWhSSzB2T0ZCQml2Sm14TTdkRUt1Q3NNZWZLXzByeUVJaEhWUlNMazNFOU9Mb1p4eXE5b1B4VDRjRWNOX0haVmtlbTdjeEtR?oc=5",
+      "image": null,
+      "headline": "Microsoft Offers a Quarter of Its Global Workforce Voluntary Buyouts as AI Spending Accelerates - U.S. News & World Report",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-28",
+          "c": 509.22
+        },
+        {
+          "d": "09-29",
+          "c": 508.96
+        },
+        {
+          "d": "09-30",
+          "c": 512.9
+        },
+        {
+          "d": "10-01",
+          "c": 512.8
+        },
+        {
+          "d": "10-02",
+          "c": 517.53
+        },
+        {
+          "d": "10-05",
+          "c": 525.18
+        },
+        {
+          "d": "10-06",
+          "c": 529.3
+        },
+        {
+          "d": "10-07",
+          "c": 529.76
+        },
+        {
+          "d": "10-08",
+          "c": 522.61
+        },
+        {
+          "d": "10-09",
+          "c": 535.07
+        },
+        {
+          "d": "10-12",
+          "c": 541.15
+        },
+        {
+          "d": "10-13",
+          "c": 543.45
+        },
+        {
+          "d": "10-14",
+          "c": 533.69
+        },
+        {
+          "d": "10-15",
+          "c": 539.44
+        },
+        {
+          "d": "10-16",
+          "c": 529.05
+        },
+        {
+          "d": "10-19",
+          "c": 533.52
+        },
+        {
+          "d": "10-20",
+          "c": 531.87
+        },
+        {
+          "d": "10-21",
+          "c": 532.95
+        },
+        {
+          "d": "10-22",
+          "c": 521.08
+        },
+        {
+          "d": "10-23",
+          "c": 524.51
+        },
+        {
+          "d": "10-26",
+          "c": 532.6
+        }
+      ]
+    },
     {
       "id": "725843c9ac98f93c",
       "date": "Sun, 25 Oct 2026",
@@ -37699,114 +37803,6 @@
         {
           "d": "09-03",
           "c": 212.67
-        }
-      ]
-    },
-    {
-      "id": "52f68e7c8a83ae0c",
-      "date": "Tue, 01 Sep 2026",
-      "ts": "2026-09-01T22:55:25+00:00",
-      "date_display": "Sep 01, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "a unanimous decision and John Ternus has taken over as Apple's new CEO.",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 325.13,
-      "change": 2.61,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-u-s-strikes-iran-after-attempted-attacks-against-ships-in-strait-of-hormuz",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrap-1024x680.jpg",
-      "headline": "News Wrap: U.S. strikes Iran after attempted attacks against ships in Strait of Hormuz",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-03",
-          "c": 303.16
-        },
-        {
-          "d": "08-04",
-          "c": 309.11
-        },
-        {
-          "d": "08-05",
-          "c": 310.73
-        },
-        {
-          "d": "08-06",
-          "c": 312.14
-        },
-        {
-          "d": "08-07",
-          "c": 313.06
-        },
-        {
-          "d": "08-10",
-          "c": 308.26
-        },
-        {
-          "d": "08-11",
-          "c": 304.91
-        },
-        {
-          "d": "08-12",
-          "c": 302.25
-        },
-        {
-          "d": "08-13",
-          "c": 305.26
-        },
-        {
-          "d": "08-14",
-          "c": 305.93
-        },
-        {
-          "d": "08-17",
-          "c": 305.59
-        },
-        {
-          "d": "08-18",
-          "c": 310.03
-        },
-        {
-          "d": "08-19",
-          "c": 316.83
-        },
-        {
-          "d": "08-20",
-          "c": 311.3
-        },
-        {
-          "d": "08-21",
-          "c": 309.35
-        },
-        {
-          "d": "08-24",
-          "c": 310.34
-        },
-        {
-          "d": "08-25",
-          "c": 309.9
-        },
-        {
-          "d": "08-26",
-          "c": 313.45
-        },
-        {
-          "d": "08-27",
-          "c": 314.58
-        },
-        {
-          "d": "08-28",
-          "c": 319.7
-        },
-        {
-          "d": "08-31",
-          "c": 316.85
-        },
-        {
-          "d": "09-01",
-          "c": 325.13
         }
       ]
     }
