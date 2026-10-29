@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-10-29T19:03:18.795188+00:00",
+  "updated_at": "2026-10-29T23:26:09.371348+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "46e35951294d1d7d",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T21:35:11+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "and Votebeat editorial director Jessica Huseman hosted a Reddit \"Ask Me Anything\" Q&amp;A on Wednesday to address people's",
+      "company": "Reddit",
+      "ticker": "RDDT",
+      "price": 129.6,
+      "change": -3.79,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/5-expert-takeaways-on-2026-midterm-election-security",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-20T205010Z_512480192_RC2ORMAF40C9_RTRMADP_3_USA-ELECTION-MONITORS-1024x697.jpg",
+      "headline": "5 expert takeaways on 2026 midterm election security",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 142.44
+        },
+        {
+          "d": "10-01",
+          "c": 149.53
+        },
+        {
+          "d": "10-02",
+          "c": 147.86
+        },
+        {
+          "d": "10-05",
+          "c": 150.42
+        },
+        {
+          "d": "10-06",
+          "c": 148.95
+        },
+        {
+          "d": "10-07",
+          "c": 152.71
+        },
+        {
+          "d": "10-08",
+          "c": 156.47
+        },
+        {
+          "d": "10-09",
+          "c": 159.91
+        },
+        {
+          "d": "10-12",
+          "c": 159.93
+        },
+        {
+          "d": "10-13",
+          "c": 155.29
+        },
+        {
+          "d": "10-14",
+          "c": 148.6
+        },
+        {
+          "d": "10-15",
+          "c": 159.36
+        },
+        {
+          "d": "10-16",
+          "c": 156.14
+        },
+        {
+          "d": "10-19",
+          "c": 155.14
+        },
+        {
+          "d": "10-20",
+          "c": 155.65
+        },
+        {
+          "d": "10-21",
+          "c": 153.28
+        },
+        {
+          "d": "10-22",
+          "c": 150.26
+        },
+        {
+          "d": "10-23",
+          "c": 144.25
+        },
+        {
+          "d": "10-26",
+          "c": 138.45
+        },
+        {
+          "d": "10-27",
+          "c": 136.46
+        },
+        {
+          "d": "10-28",
+          "c": 134.7
+        },
+        {
+          "d": "10-29",
+          "c": 129.6
+        }
+      ]
+    },
+    {
+      "id": "76d110390e07f5e9",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T21:27:28+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "citybiz",
+      "type": "news",
+      "quote": "Truth Social Sells Faster Access to Trump Posts to Bloomberg and",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 5.78,
+      "change": -3.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3RtTGdHMUVXUFNwblJNbFEwdEJxMHVWcnZ1VzFJSmI0VWEyeGRVMFZwWnIzOW90Z2NHcDQ3T0E3ZTV1eGNjRy1mYmgwMDRzcjBlX09yWW4yUFVJS09WQkY3NTF4TWdZOXhCa0hOeF9mUTNXck9NX1Q3TmdTWWMxY2ZLa19wM3U5a2wxZGZ3LWlRTGRvVzhHYl94Z1cyMlZNTDdnMHJyLUdPdzZoT3k0NmJkMU1rdmI5dEN6eXVvVDE1QmJDWkRnWmx5MjZTZw?oc=5",
+      "image": null,
+      "headline": "Truth Social Sells Faster Access to Trump Posts to Bloomberg and Trading Firms, Reuters Reports - citybiz",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        }
+      ]
+    },
+    {
+      "id": "67e422fa7f3273a6",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T20:51:20+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "the second general under Hegseth to be removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 141.62,
+      "change": -2.44,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-15T184248Z_817979178_RC2IULA3MXUQ_RTRMADP_3_USA-ECUADOR-1024x683.jpg",
+      "headline": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 153.09
+        },
+        {
+          "d": "10-01",
+          "c": 160.5
+        },
+        {
+          "d": "10-02",
+          "c": 160.01
+        },
+        {
+          "d": "10-05",
+          "c": 164.43
+        },
+        {
+          "d": "10-06",
+          "c": 164.55
+        },
+        {
+          "d": "10-07",
+          "c": 153.37
+        },
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.34
+        },
+        {
+          "d": "10-12",
+          "c": 152.68
+        },
+        {
+          "d": "10-13",
+          "c": 152.18
+        },
+        {
+          "d": "10-14",
+          "c": 143.24
+        },
+        {
+          "d": "10-15",
+          "c": 151.29
+        },
+        {
+          "d": "10-16",
+          "c": 136.83
+        },
+        {
+          "d": "10-19",
+          "c": 136.02
+        },
+        {
+          "d": "10-20",
+          "c": 142.72
+        },
+        {
+          "d": "10-21",
+          "c": 153.48
+        },
+        {
+          "d": "10-22",
+          "c": 145.8
+        },
+        {
+          "d": "10-23",
+          "c": 146.01
+        },
+        {
+          "d": "10-26",
+          "c": 139.82
+        },
+        {
+          "d": "10-27",
+          "c": 141.4
+        },
+        {
+          "d": "10-28",
+          "c": 145.16
+        },
+        {
+          "d": "10-29",
+          "c": 141.62
+        }
+      ]
+    },
+    {
+      "id": "8aa4f8744bb3064c",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T18:29:12+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "Ars Technica",
+      "type": "news",
+      "quote": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says - Ars Technica",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 213.66,
+      "change": -0.8,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHlnbTZzVF9STklGb2FZNUhFOWdGNEtTelBHQjk2QlNXS2pQTWpxeUFkVGRtc3B1VUlBZzJRMXNkclZnd1lSS3ZqeEZRUVA2czAzd21acnFtakp2OUQxamJjMTFWNWlUSE0ta1M4MUdldEM1dkFldWZuTzlENWdrc09nM3JEaHJVVUQwR1NQanNKZjlqcE4zeTd6eXpoUzRZSGNWb0dpTE5oLXJVZ1Zfdk5MYkRGR2hJSl85QmtFenY?oc=5",
+      "image": null,
+      "headline": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says - Ars Technica",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 228.38
+        },
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        }
+      ]
+    },
+    {
+      "id": "cb6d07f56eff5307",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T18:29:12+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "Ars Technica",
+      "type": "news",
+      "quote": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 92.07,
+      "change": -3.62,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHlnbTZzVF9STklGb2FZNUhFOWdGNEtTelBHQjk2QlNXS2pQTWpxeUFkVGRtc3B1VUlBZzJRMXNkclZnd1lSS3ZqeEZRUVA2czAzd21acnFtakp2OUQxamJjMTFWNWlUSE0ta1M4MUdldEM1dkFldWZuTzlENWdrc09nM3JEaHJVVUQwR1NQanNKZjlqcE4zeTd6eXpoUzRZSGNWb0dpTE5oLXJVZ1Zfdk5MYkRGR2hJSl85QmtFenY?oc=5",
+      "image": null,
+      "headline": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says - Ars Technica",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 120.23
+        },
+        {
+          "d": "10-01",
+          "c": 120.0
+        },
+        {
+          "d": "10-02",
+          "c": 119.33
+        },
+        {
+          "d": "10-05",
+          "c": 116.19
+        },
+        {
+          "d": "10-06",
+          "c": 112.5
+        },
+        {
+          "d": "10-07",
+          "c": 113.12
+        },
+        {
+          "d": "10-08",
+          "c": 107.08
+        },
+        {
+          "d": "10-09",
+          "c": 104.7
+        },
+        {
+          "d": "10-12",
+          "c": 101.35
+        },
+        {
+          "d": "10-13",
+          "c": 102.81
+        },
+        {
+          "d": "10-14",
+          "c": 98.12
+        },
+        {
+          "d": "10-15",
+          "c": 95.37
+        },
+        {
+          "d": "10-16",
+          "c": 89.85
+        },
+        {
+          "d": "10-19",
+          "c": 92.03
+        },
+        {
+          "d": "10-20",
+          "c": 91.69
+        },
+        {
+          "d": "10-21",
+          "c": 92.96
+        },
+        {
+          "d": "10-22",
+          "c": 85.49
+        },
+        {
+          "d": "10-23",
+          "c": 86.96
+        },
+        {
+          "d": "10-26",
+          "c": 90.47
+        },
+        {
+          "d": "10-27",
+          "c": 93.74
+        },
+        {
+          "d": "10-28",
+          "c": 95.53
+        },
+        {
+          "d": "10-29",
+          "c": 92.07
+        }
+      ]
+    },
     {
       "id": "a22d1c5a1531d10e",
       "date": "Thu, 29 Oct 2026",
@@ -107,6 +647,114 @@
         {
           "d": "10-29",
           "c": 5.72
+        }
+      ]
+    },
+    {
+      "id": "4f337568019bc7f7",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T12:16:18+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media Stock In Focus As Truth Social Sells Early Access To Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 5.78,
+      "change": -3.18,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFg1cjc5cG1CcXJTV3dPeldFQ0tJOVNYWnBfTUUwZ1FmNXJfT3dQMC16SUt0bTFVMzFESVUwTEtzSVdMR253ODh4S0VwYXBaU2xveDRvdEN2dXBTNzhnV29ia2ljNVNmVU02dFhiUjl3QVRGU29QMWVNczlneEs3Vk5pV1RTVDg2bXJtY3d6c2d5RUIxaGxDQ0d3?oc=5",
+      "image": null,
+      "headline": "Trump Media Stock In Focus As Truth Social Sells Early Access To Trump Posts - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 9.06
+        },
+        {
+          "d": "10-01",
+          "c": 8.79
+        },
+        {
+          "d": "10-02",
+          "c": 8.91
+        },
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
         }
       ]
     },
@@ -37592,387 +38240,6 @@
         {
           "d": "09-04",
           "c": 59.38
-        }
-      ]
-    },
-    {
-      "id": "f04ea049828410bb",
-      "date": "Fri, 04 Sep 2026",
-      "ts": "2026-09-04T03:07:00+00:00",
-      "date_display": "Sep 04, 2026",
-      "source": "Washington Examiner",
-      "type": "news",
-      "quote": "Trump says Maria Bartiromo\u2019s fans \u2018will not be happy\u2019 with Fox News exit - Washington Examiner Trump says Maria",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 60.27,
-      "change": 2.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODNKd0pSVWVodm5mS2IwXzFvZ2hVRjZJQ1hOajNLOXBPMjFYeGdZa3dJeTRaQWtrc254N2pnQzJnNGZwNjZsdEF4bENDR3VrS3BWQXVCUEVCd2lGbzJZVFBYclplT1dnYnlpNEd1bmhhNl80Rk1BTUZkMDd2aXlsNEp4ZE1fQ0RWY2pQTEczUzVZZktPTmFVdFJKV2s?oc=5",
-      "image": null,
-      "headline": "Trump says Maria Bartiromo\u2019s fans \u2018will not be happy\u2019 with Fox News exit - Washington Examiner",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-04",
-          "c": 52.56
-        },
-        {
-          "d": "08-05",
-          "c": 51.94
-        },
-        {
-          "d": "08-06",
-          "c": 55.1
-        },
-        {
-          "d": "08-07",
-          "c": 56.75
-        },
-        {
-          "d": "08-10",
-          "c": 56.05
-        },
-        {
-          "d": "08-11",
-          "c": 55.07
-        },
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        }
-      ]
-    },
-    {
-      "id": "69560780f3ad88c9",
-      "date": "Thu, 03 Sep 2026",
-      "ts": "2026-09-03T22:53:15+00:00",
-      "date_display": "Sep 03, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Trump appointees advance plans for Lafayette Square fencing and White House gates Pieces of President Donald",
-      "company": "Square",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/trump-appointees-advance-plans-for-lafayette-square-fencing-and-white-house-gates",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-06-21T220539Z_1533053656_RC2KYLA6RI9M_RTRMADP_3_USA-250-1024x683.jpg",
-      "headline": "Trump appointees advance plans for Lafayette Square fencing and White House gates",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "17c3f3c7bd8619ed",
-      "date": "Thu, 03 Sep 2026",
-      "ts": "2026-09-03T20:48:21+00:00",
-      "date_display": "Sep 03, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting The Trump",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
-      "image": null,
-      "headline": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "dc3bbaf14125e90f",
-      "date": "Thu, 03 Sep 2026",
-      "ts": "2026-09-03T20:48:21+00:00",
-      "date_display": "Sep 03, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
-      "image": null,
-      "headline": "What to know about the mail-in voting fight at the Supreme Court",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "f8c0362b2b92e3ff",
-      "date": "Thu, 03 Sep 2026",
-      "ts": "2026-09-03T18:18:07+00:00",
-      "date_display": "Sep 03, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Maria Bartiromo Is Out at Fox News - The New York Times Maria Bartiromo Is Out at Fox",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.42,
-      "change": -3.39,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE83X0hjSXhpbGJ5ano5VEhibGg3SW4tUEJrLWItU29QSmlqSldmX3JjZmlhVE1kNWNiRnoxbXpKRl91RUdsdkYwaHhQMVJPVzlzNkxFclAwNnR3M3licUVab1JHRGIxdEx1aFhqd1RtRVh2aG1vcXBkdmVlUWFuOERIY3JLQQ?oc=5",
-      "image": null,
-      "headline": "Maria Bartiromo Is Out at Fox News - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 55.1
-        },
-        {
-          "d": "08-07",
-          "c": 56.75
-        },
-        {
-          "d": "08-10",
-          "c": 56.05
-        },
-        {
-          "d": "08-11",
-          "c": 55.07
-        },
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        }
-      ]
-    },
-    {
-      "id": "8d12723b2bdf8bd2",
-      "date": "Thu, 03 Sep 2026",
-      "ts": "2026-09-03T18:18:07+00:00",
-      "date_display": "Sep 03, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Maria Bartiromo Is Out at Fox News - The New York Times Maria Bartiromo Is Out at Fox News&nbsp;&nbsp;The New York",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.28,
-      "change": 0.33,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE83X0hjSXhpbGJ5ano5VEhibGg3SW4tUEJrLWItU29QSmlqSldmX3JjZmlhVE1kNWNiRnoxbXpKRl91RUdsdkYwaHhQMVJPVzlzNkxFclAwNnR3M3licUVab1JHRGIxdEx1aFhqd1RtRVh2aG1vcXBkdmVlUWFuOERIY3JLQQ?oc=5",
-      "image": null,
-      "headline": "Maria Bartiromo Is Out at Fox News - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
         }
       ]
     }
