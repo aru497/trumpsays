@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-30T02:44:04.188454+00:00",
+  "updated_at": "2026-10-30T09:12:29.388213+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3d517762ec6899b9",
+      "date": "Fri, 30 Oct 2026",
+      "ts": "2026-10-30T09:00:00+00:00",
+      "date_display": "Oct 30, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 283.82,
+      "change": -12.64,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
+      "image": null,
+      "headline": "Websites pretending to be local news are boosting Democratic candidates",
+      "channel": "News",
+      "series": [
+        {
+          "d": "09-30",
+          "c": 344.08
+        },
+        {
+          "d": "10-01",
+          "c": 338.24
+        },
+        {
+          "d": "10-02",
+          "c": 343.5
+        },
+        {
+          "d": "10-05",
+          "c": 346.47
+        },
+        {
+          "d": "10-06",
+          "c": 347.68
+        },
+        {
+          "d": "10-07",
+          "c": 350.5
+        },
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
+        },
+        {
+          "d": "10-23",
+          "c": 320.21
+        },
+        {
+          "d": "10-26",
+          "c": 316.8
+        },
+        {
+          "d": "10-27",
+          "c": 320.58
+        },
+        {
+          "d": "10-28",
+          "c": 324.89
+        },
+        {
+          "d": "10-29",
+          "c": 283.82
+        }
+      ]
+    },
     {
       "id": "46e35951294d1d7d",
       "date": "Thu, 29 Oct 2026",
@@ -38132,114 +38240,6 @@
         {
           "d": "09-04",
           "c": 58.42
-        }
-      ]
-    },
-    {
-      "id": "e43de7da6f56ed37",
-      "date": "Fri, 04 Sep 2026",
-      "ts": "2026-09-04T04:53:00+00:00",
-      "date_display": "Sep 04, 2026",
-      "source": "New York Post",
-      "type": "news",
-      "quote": "Trump reacts to \u2018true warrior\u2019 Maria Bartiromo leaving Fox News - New York Post Trump reacts to \u2018true warrior\u2019 Maria",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 59.38,
-      "change": -1.8,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0oxbGNTTG1rOXRSczZDR3cwWnpualU3N2wtY2NKNlNVNFJqOTFGdVVtUy1SMTlXam1OTW1GLUdXNG5SLUtXTnpGUTJxNWxHSEVDRldTTjI3WFVDYVJBcU1pVXVOSjZjckRRUUQwZksza1BMTEZINTNvSlBBbUpYN0dIWjBhSEZJV0pHSWZB?oc=5",
-      "image": null,
-      "headline": "Trump reacts to \u2018true warrior\u2019 Maria Bartiromo leaving Fox News - New York Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 55.1
-        },
-        {
-          "d": "08-07",
-          "c": 56.75
-        },
-        {
-          "d": "08-10",
-          "c": 56.05
-        },
-        {
-          "d": "08-11",
-          "c": 55.07
-        },
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 59.38
         }
       ]
     }
