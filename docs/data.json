@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T06:00:05.338928+00:00",
+  "updated_at": "2026-10-31T11:48:16.532380+00:00",
   "count": 400,
   "mentions": [
     {
@@ -994,6 +994,222 @@
       ]
     },
     {
+      "id": "afcd1509e250fdb1",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T21:17:41+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its",
+      "company": "Intel",
+      "ticker": "INTC",
+      "price": 65.76,
+      "change": -28.58,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
+      "image": null,
+      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 120.0
+        },
+        {
+          "d": "10-02",
+          "c": 119.33
+        },
+        {
+          "d": "10-05",
+          "c": 116.19
+        },
+        {
+          "d": "10-06",
+          "c": 112.5
+        },
+        {
+          "d": "10-07",
+          "c": 113.12
+        },
+        {
+          "d": "10-08",
+          "c": 107.08
+        },
+        {
+          "d": "10-09",
+          "c": 104.7
+        },
+        {
+          "d": "10-12",
+          "c": 101.35
+        },
+        {
+          "d": "10-13",
+          "c": 102.81
+        },
+        {
+          "d": "10-14",
+          "c": 98.12
+        },
+        {
+          "d": "10-15",
+          "c": 95.37
+        },
+        {
+          "d": "10-16",
+          "c": 89.85
+        },
+        {
+          "d": "10-19",
+          "c": 92.03
+        },
+        {
+          "d": "10-20",
+          "c": 91.69
+        },
+        {
+          "d": "10-21",
+          "c": 92.96
+        },
+        {
+          "d": "10-22",
+          "c": 85.49
+        },
+        {
+          "d": "10-23",
+          "c": 86.96
+        },
+        {
+          "d": "10-26",
+          "c": 90.47
+        },
+        {
+          "d": "10-27",
+          "c": 93.74
+        },
+        {
+          "d": "10-28",
+          "c": 95.53
+        },
+        {
+          "d": "10-29",
+          "c": 92.07
+        },
+        {
+          "d": "10-30",
+          "c": 65.76
+        }
+      ]
+    },
+    {
+      "id": "f1d20833ada0aa71",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T21:17:41+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "20% as A.I. Hinders Some Parts of Its Business - The New York Times Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.17,
+      "change": 1.08,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
+      "image": null,
+      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        }
+      ]
+    },
+    {
       "id": "67e422fa7f3273a6",
       "date": "Thu, 29 Oct 2026",
       "ts": "2026-10-29T20:51:20+00:00",
@@ -1117,6 +1333,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjk5ZnBVWU1xdkE1TzRpWC12VTNDcEhPSWR4Z2FFUkw4VDNId1pGZWJ3alAxRElIanB6M0Z5TFlLSzZoR1VJUkxsZ0x5NHJ6c0ZYRk1qbVdSdXFrTXRUMEJDS2paSHRXLVQ5VUJ5SHRfQ1JRODUtQ0pwSk1hdDRFQXZybkRIdUhaVktFNzN0M3RObDA?oc=5",
       "image": null,
       "headline": "Anti-Trumper trolls Fox News and says he wanted to see \u2018cult\u2019 in person at South Carolina rally - The Independent",
+      "channel": "Speech",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        }
+      ]
+    },
+    {
+      "id": "3de2586d728db2e0",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T20:32:00+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "The Independent",
+      "type": "news",
+      "quote": "Anti-Trump troll tells Fox he came to South Carolina rally to see \u2018cult\u2019 in person -",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.2,
+      "change": -1.83,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjk5ZnBVWU1xdkE1TzRpWC12VTNDcEhPSWR4Z2FFUkw4VDNId1pGZWJ3alAxRElIanB6M0Z5TFlLSzZoR1VJUkxsZ0x5NHJ6c0ZYRk1qbVdSdXFrTXRUMEJDS2paSHRXLVQ5VUJ5SHRfQ1JRODUtQ0pwSk1hdDRFQXZybkRIdUhaVktFNzN0M3RObDA?oc=5",
+      "image": null,
+      "headline": "Anti-Trump troll tells Fox he came to South Carolina rally to see \u2018cult\u2019 in person - The Independent",
       "channel": "Speech",
       "series": [
         {
@@ -38005,241 +38329,6 @@
         {
           "d": "09-04",
           "c": 164.44
-        }
-      ]
-    },
-    {
-      "id": "574164d073fc0252",
-      "date": "Sat, 05 Sep 2026",
-      "ts": "2026-09-05T02:58:00+00:00",
-      "date_display": "Sep 05, 2026",
-      "source": "Los Angeles Times",
-      "type": "news",
-      "quote": "Convicted Trump Media-linked fraudster funded pro-Trump film in hopes of pardon,",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.02,
-      "change": -5.25,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX19OcGNWaHNXZzVXQzYzalFSMExrcjFDLW52VjRBcFVycEZHbnFSNWItZV9ReU5HREdjczdnVUZTdWZ4eE13Z1NNMnZuZkRKVGU1dURWNE1xR1Q0Vl9zVVVMMGY0WUN0TDRMYXlUaHlWclpPY21WWTAwUjhyR3puV05Wc0hycEFSRGVXR0dqaFI5R2xLQm43UC1mdzEzSFB6eHcwNmRUemdCU3pVaUdZdEVWVWZTQXJnY2NQb2NJOXFlNzFlanRmeg?oc=5",
-      "image": null,
-      "headline": "Convicted Trump Media-linked fraudster funded pro-Trump film in hopes of pardon, lawsuit says - Los Angeles Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 9.89
-        },
-        {
-          "d": "08-07",
-          "c": 10.21
-        },
-        {
-          "d": "08-10",
-          "c": 9.39
-        },
-        {
-          "d": "08-11",
-          "c": 8.91
-        },
-        {
-          "d": "08-12",
-          "c": 8.27
-        },
-        {
-          "d": "08-13",
-          "c": 8.3
-        },
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        }
-      ]
-    },
-    {
-      "id": "f4f3ed88799b552e",
-      "date": "Fri, 04 Sep 2026",
-      "ts": "2026-09-05T00:19:17+00:00",
-      "date_display": "Sep 04, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Federal judge extends block on Trump order seeking to limit mail voting in the",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/federal-judge-extends-block-on-trump-order-seeking-to-limit-mail-voting-in-the-midterms",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-06-02T173428Z_1240017471_RC2SLLAG5UY8_RTRMADP_3_USA-ELECTION-CALIFORNIA-1024x683.jpg",
-      "headline": "Federal judge extends block on Trump order seeking to limit mail voting in the midterms",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "4060314be0b58cdc",
-      "date": "Fri, 04 Sep 2026",
-      "ts": "2026-09-04T21:11:56+00:00",
-      "date_display": "Sep 04, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 142.8,
-      "change": -1.39,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
-      "image": null,
-      "headline": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 96.85
-        },
-        {
-          "d": "08-07",
-          "c": 100.01
-        },
-        {
-          "d": "08-10",
-          "c": 97.33
-        },
-        {
-          "d": "08-11",
-          "c": 96.09
-        },
-        {
-          "d": "08-12",
-          "c": 94.83
-        },
-        {
-          "d": "08-13",
-          "c": 97.1
-        },
-        {
-          "d": "08-14",
-          "c": 93.04
-        },
-        {
-          "d": "08-17",
-          "c": 97.68
-        },
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        },
-        {
-          "d": "08-24",
-          "c": 122.63
-        },
-        {
-          "d": "08-25",
-          "c": 126.83
-        },
-        {
-          "d": "08-26",
-          "c": 123.19
-        },
-        {
-          "d": "08-27",
-          "c": 137.4
-        },
-        {
-          "d": "08-28",
-          "c": 127.31
-        },
-        {
-          "d": "08-31",
-          "c": 132.94
-        },
-        {
-          "d": "09-01",
-          "c": 124.88
-        },
-        {
-          "d": "09-02",
-          "c": 123.19
-        },
-        {
-          "d": "09-03",
-          "c": 144.82
-        },
-        {
-          "d": "09-04",
-          "c": 142.8
         }
       ]
     }
