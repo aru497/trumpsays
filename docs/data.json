@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-31T11:48:16.532380+00:00",
+  "updated_at": "2026-10-31T16:27:32.455252+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "99efade4feed83eb",
+      "date": "Sat, 31 Oct 2026",
+      "ts": "2026-10-31T13:50:58+00:00",
+      "date_display": "Oct 31, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.17,
+      "change": 1.08,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+      "image": null,
+      "headline": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 63.48
+        },
+        {
+          "d": "10-02",
+          "c": 62.47
+        },
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        }
+      ]
+    },
     {
       "id": "28e78f5fbc6fad73",
       "date": "Fri, 30 Oct 2026",
@@ -38221,114 +38329,6 @@
         {
           "d": "09-04",
           "c": 95.8
-        }
-      ]
-    },
-    {
-      "id": "6ea8fc1411e53746",
-      "date": "Sat, 05 Sep 2026",
-      "ts": "2026-09-05T21:07:22+00:00",
-      "date_display": "Sep 05, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Flock cameras become midterm campaign target as voters balk at tech companies' power Although police",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 164.44,
-      "change": 0.26,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/flock-cameras-become-midterm-campaign-target-as-voters-balk-at-tech-companies-power",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-08-06T054340Z_407542962_RC2OSMATESJT_RTRMADP_3_TECH-FLOCK-1024x683.jpg",
-      "headline": "Flock cameras become midterm campaign target as voters balk at tech companies' power",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 145.96
-        },
-        {
-          "d": "08-07",
-          "c": 148.56
-        },
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        },
-        {
-          "d": "08-13",
-          "c": 155.51
-        },
-        {
-          "d": "08-14",
-          "c": 154.48
-        },
-        {
-          "d": "08-17",
-          "c": 151.01
-        },
-        {
-          "d": "08-18",
-          "c": 152.48
-        },
-        {
-          "d": "08-19",
-          "c": 159.0
-        },
-        {
-          "d": "08-20",
-          "c": 158.25
-        },
-        {
-          "d": "08-21",
-          "c": 165.44
-        },
-        {
-          "d": "08-24",
-          "c": 169.89
-        },
-        {
-          "d": "08-25",
-          "c": 163.47
-        },
-        {
-          "d": "08-26",
-          "c": 164.04
-        },
-        {
-          "d": "08-27",
-          "c": 165.93
-        },
-        {
-          "d": "08-28",
-          "c": 163.18
-        },
-        {
-          "d": "08-31",
-          "c": 160.88
-        },
-        {
-          "d": "09-01",
-          "c": 163.75
-        },
-        {
-          "d": "09-02",
-          "c": 163.36
-        },
-        {
-          "d": "09-03",
-          "c": 164.01
-        },
-        {
-          "d": "09-04",
-          "c": 164.44
         }
       ]
     }
