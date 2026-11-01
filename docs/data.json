@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-01T09:29:10.600971+00:00",
+  "updated_at": "2026-11-01T16:13:27.561493+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d37ddd0e76fa3716",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T12:55:15+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "Macau Business",
+      "type": "news",
+      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business Trump says",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 204.64,
+      "change": -4.22,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHNtWnpVWFJaRHRQeXF1Ry1rbG1YS0Myb0NhTmdJRW02WnYwbk9odVBwMGZnNzJqSGFPZE5DZW9OX2VoZ3lkRlNGekhkQl9PbVo4TW5SQkZIR0RWTXAwWGVCRXc3Sld6NnR2RERoLXE5dkZ0ckNNTkVRTnJkN1cyZ3o5NXlyYzhwTHZ5MFFzdmpOejhFWjZWdGVDejFycVhMSWlEbQ?oc=5",
+      "image": null,
+      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        }
+      ]
+    },
+    {
+      "id": "b5e5b261bd8a1444",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T12:55:15+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "Macau Business",
+      "type": "news",
+      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business Trump says US looking",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.38,
+      "change": 1.69,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHNtWnpVWFJaRHRQeXF1Ry1rbG1YS0Myb0NhTmdJRW02WnYwbk9odVBwMGZnNzJqSGFPZE5DZW9OX2VoZ3lkRlNGekhkQl9PbVo4TW5SQkZIR0RWTXAwWGVCRXc3Sld6NnR2RERoLXE5dkZ0ckNNTkVRTnJkN1cyZ3o5NXlyYzhwTHZ5MFFzdmpOejhFWjZWdGVDejFycVhMSWlEbQ?oc=5",
+      "image": null,
+      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 156.7
+        },
+        {
+          "d": "10-02",
+          "c": 156.0
+        },
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        }
+      ]
+    },
     {
       "id": "a5480afaa9123926",
       "date": "Sun, 01 Nov 2026",
@@ -38040,214 +38256,6 @@
         {
           "d": "09-11",
           "c": 8.66
-        }
-      ]
-    },
-    {
-      "id": "98b0b9aea7975662",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T16:28:58+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times Bombardier, a",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 162.57,
-      "change": -1.14,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
-      "image": null,
-      "headline": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 150.86
-        },
-        {
-          "d": "08-11",
-          "c": 151.13
-        },
-        {
-          "d": "08-12",
-          "c": 154.0
-        },
-        {
-          "d": "08-13",
-          "c": 155.51
-        },
-        {
-          "d": "08-14",
-          "c": 154.48
-        },
-        {
-          "d": "08-17",
-          "c": 151.01
-        },
-        {
-          "d": "08-18",
-          "c": 152.48
-        },
-        {
-          "d": "08-19",
-          "c": 159.0
-        },
-        {
-          "d": "08-20",
-          "c": 158.25
-        },
-        {
-          "d": "08-21",
-          "c": 165.44
-        },
-        {
-          "d": "08-24",
-          "c": 169.89
-        },
-        {
-          "d": "08-25",
-          "c": 163.47
-        },
-        {
-          "d": "08-26",
-          "c": 164.04
-        },
-        {
-          "d": "08-27",
-          "c": 165.93
-        },
-        {
-          "d": "08-28",
-          "c": 163.18
-        },
-        {
-          "d": "08-31",
-          "c": 160.88
-        },
-        {
-          "d": "09-01",
-          "c": 163.75
-        },
-        {
-          "d": "09-02",
-          "c": 163.36
-        },
-        {
-          "d": "09-03",
-          "c": 164.01
-        },
-        {
-          "d": "09-04",
-          "c": 164.44
-        },
-        {
-          "d": "09-08",
-          "c": 162.57
-        }
-      ]
-    },
-    {
-      "id": "299d65be954faf40",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T16:28:58+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.47,
-      "change": 0.28,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
-      "image": null,
-      "headline": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.47
         }
       ]
     }
