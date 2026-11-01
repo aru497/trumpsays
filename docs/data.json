@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-11-01T02:27:45.555044+00:00",
+  "updated_at": "2026-11-01T09:29:10.600971+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a5480afaa9123926",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T04:10:00+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "The Straits Times",
+      "type": "news",
+      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 204.64,
+      "change": -4.22,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXBYT05XUWlGeHBrdEdzeThRQkJwbklYa0tsNWU0VTJ2YlZmekhhVjY1RmFSN29qUnBlcldubENzUjRoR3hqdzJPSDNsU3ItbVlLR2tJWG1mMDJRbV9VUXg2anFuU3BuQVRhQzZfdkRMUGQwRTZuWVo5VUpCUmtHZmxVZ2hmUnlDbUR6QmlxenlJSEJYRzJNZGhqRUtPcDJZWlpwQVhzUnVVX0JJclVuajdETlhMRTc4ZlJrc0dxMDJ1QQ?oc=5",
+      "image": null,
+      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        }
+      ]
+    },
+    {
+      "id": "7e361d8a04aec697",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T04:10:00+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "The Straits Times",
+      "type": "news",
+      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times Trump says US",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.38,
+      "change": 1.69,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXBYT05XUWlGeHBrdEdzeThRQkJwbklYa0tsNWU0VTJ2YlZmekhhVjY1RmFSN29qUnBlcldubENzUjRoR3hqdzJPSDNsU3ItbVlLR2tJWG1mMDJRbV9VUXg2anFuU3BuQVRhQzZfdkRMUGQwRTZuWVo5VUpCUmtHZmxVZ2hmUnlDbUR6QmlxenlJSEJYRzJNZGhqRUtPcDJZWlpwQVhzUnVVX0JJclVuajdETlhMRTc4ZlJrc0dxMDJ1QQ?oc=5",
+      "image": null,
+      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 156.7
+        },
+        {
+          "d": "10-02",
+          "c": 156.0
+        },
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        }
+      ]
+    },
+    {
+      "id": "5e5ea0a05206be86",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T03:48:35+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "NST Online",
+      "type": "news",
+      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online Trump says US",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 204.64,
+      "change": -4.22,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0ZtX1V5Nm5rMW1UakEtczF4b1RpdXp3S3RQdnJZMWdMY0l0V19HNVBYbkhiR1pBZlZuX3I5TjhYaDcxdDhKV19PR2hZbjN5blJnUk1nQ0pMWjJ2WHgxUGlKcTZkSzhreC12SEktRFVxNUZIam84d2tuOUplc3pQeV85THRKeUcwT1Zrd1IwYjNSMlFDbk5WTXU1LWFLSFBLZk1rSmNFNTdJSzJBZXlYUC1aZ0NQOTNHbERxOXBPQdIBxAFBVV95cUxOb0tMWFdLY2VVZ0J3dE9FdlFGRG9ZZUk0VmNMeXNoVk5fdkZsa290SG40ZHZpNGNtWk5QWC1BUkR5X2pBU2d5cGRrWlFhQi1UY1huNGJFSE1XaVFpeFU2TkFBc3BVcnBaTVNxa0g4RHg1X3JzYi1jMHZlMFhXZ2FoSXEtbEY1blh5YU1Fb1RSMzFzVkJOVXJINmpZbmswQ1BKbzVidVFTbGJ6MG4zSDFXWkVmcHU2ZlhKUGxrMlFGWFNtNDNk?oc=5",
+      "image": null,
+      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        }
+      ]
+    },
+    {
+      "id": "13cb8892bdf172bd",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T03:48:35+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "NST Online",
+      "type": "news",
+      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online Trump says US looking",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.38,
+      "change": 1.69,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0ZtX1V5Nm5rMW1UakEtczF4b1RpdXp3S3RQdnJZMWdMY0l0V19HNVBYbkhiR1pBZlZuX3I5TjhYaDcxdDhKV19PR2hZbjN5blJnUk1nQ0pMWjJ2WHgxUGlKcTZkSzhreC12SEktRFVxNUZIam84d2tuOUplc3pQeV85THRKeUcwT1Zrd1IwYjNSMlFDbk5WTXU1LWFLSFBLZk1rSmNFNTdJSzJBZXlYUC1aZ0NQOTNHbERxOXBPQdIBxAFBVV95cUxOb0tMWFdLY2VVZ0J3dE9FdlFGRG9ZZUk0VmNMeXNoVk5fdkZsa290SG40ZHZpNGNtWk5QWC1BUkR5X2pBU2d5cGRrWlFhQi1UY1huNGJFSE1XaVFpeFU2TkFBc3BVcnBaTVNxa0g4RHg1X3JzYi1jMHZlMFhXZ2FoSXEtbEY1blh5YU1Fb1RSMzFzVkJOVXJINmpZbmswQ1BKbzVidVFTbGJ6MG4zSDFXWkVmcHU2ZlhKUGxrMlFGWFNtNDNk?oc=5",
+      "image": null,
+      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 156.7
+        },
+        {
+          "d": "10-02",
+          "c": 156.0
+        },
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        }
+      ]
+    },
     {
       "id": "61983a0f83e9cfb0",
       "date": "Sat, 31 Oct 2026",
@@ -20,6 +452,114 @@
       "headline": "Virginia and D.C. sue to block construction of Trump arch",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "0f4a3f56f605a2c1",
+      "date": "Sat, 31 Oct 2026",
+      "ts": "2026-10-31T17:33:27+00:00",
+      "date_display": "Oct 31, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "SpaceX president gifts 2 MILLION shares to Trump Accounts - Fox News SpaceX president gifts 2 MILLION shares to Trump",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.2,
+      "change": -1.83,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfckU4Y01memY4eHRwSF9zbFUwMDhOYUd3MXEwSTl4OHlPY0VveHBzYkdnZVBlcjhtNGJZVTg0bW5NNnEyWTNHakxac3d1eThvS3YxQzln?oc=5",
+      "image": null,
+      "headline": "SpaceX president gifts 2 MILLION shares to Trump Accounts - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 54.92
+        },
+        {
+          "d": "10-02",
+          "c": 55.89
+        },
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        }
+      ]
     },
     {
       "id": "99efade4feed83eb",
@@ -37708,542 +38248,6 @@
         {
           "d": "09-08",
           "c": 67.47
-        }
-      ]
-    },
-    {
-      "id": "d35e0486ce2d698c",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T16:28:58+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Down as Trump\u2019s Trade War Targets Canadian Jet Maker - The New York Times Bombardier Shares Down as Trump\u2019s Trade War Targets",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.96,
-      "change": 1.01,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
-      "image": null,
-      "headline": "Bombardier Shares Down as Trump\u2019s Trade War Targets Canadian Jet Maker - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        }
-      ]
-    },
-    {
-      "id": "cc13f664876e4bff",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T09:20:00+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "ExxonMobil's CEO Called Venezuela 'Uninvestable.' Trump Says It's",
-      "company": "Exxonmobil",
-      "ticker": "XOM",
-      "price": 159.47,
-      "change": -1.69,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGU1YkdfM0tCbVhZR1JCaU9XYnV2UDNWUmR1emM5M3FiUkMtOWFhN09KdTR2Q2NrYnYwcVowM2JiUTZLME1zX18wOVJtbWVWR0w4SkpreklpZUZBbHRYM2FTeVI1TXhPVzRlX0lhbUlqaHdxdHZBNllvUXYtV3NDWEFwampyaGNNYVRiVXdFZmdFVkZKNEpFV1FIT2RKOVJZT3BmbA?oc=5",
-      "image": null,
-      "headline": "ExxonMobil's CEO Called Venezuela 'Uninvestable.' Trump Says It's Going In Anyway. Here's Why Investors Should Pay Attention. - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 153.84
-        },
-        {
-          "d": "08-07",
-          "c": 152.06
-        },
-        {
-          "d": "08-10",
-          "c": 158.76
-        },
-        {
-          "d": "08-11",
-          "c": 158.77
-        },
-        {
-          "d": "08-12",
-          "c": 158.72
-        },
-        {
-          "d": "08-13",
-          "c": 157.59
-        },
-        {
-          "d": "08-14",
-          "c": 159.07
-        },
-        {
-          "d": "08-17",
-          "c": 161.46
-        },
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        },
-        {
-          "d": "09-01",
-          "c": 164.55
-        },
-        {
-          "d": "09-02",
-          "c": 164.15
-        },
-        {
-          "d": "09-03",
-          "c": 162.21
-        },
-        {
-          "d": "09-04",
-          "c": 159.47
-        }
-      ]
-    },
-    {
-      "id": "db6abeba40130807",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T01:33:00+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "BeInCrypto",
-      "type": "news",
-      "quote": "Goldman Sachs Says Oil Could Hit $120 as Trump Dismisses Diplomacy with",
-      "company": "Goldman Sachs",
-      "ticker": "GS",
-      "price": 1038.61,
-      "change": 0.07,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVGlZMmx6SnFhTnNZREJfcXk3b1UxcTA4WjFIT0JXaVBkSi1aV3N2aVlNQl9pYjFiVVY2T2lsYnFYcmdTWnJIT0p1bmdscDFXNVBlWEQwNFFFMEFZNElEMVdyTGZFM1J0dnpWQQ?oc=5",
-      "image": null,
-      "headline": "Goldman Sachs Says Oil Could Hit $120 as Trump Dismisses Diplomacy with Iran - BeInCrypto",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 1027.55
-        },
-        {
-          "d": "08-07",
-          "c": 1034.54
-        },
-        {
-          "d": "08-10",
-          "c": 1029.47
-        },
-        {
-          "d": "08-11",
-          "c": 1029.37
-        },
-        {
-          "d": "08-12",
-          "c": 1032.15
-        },
-        {
-          "d": "08-13",
-          "c": 1037.55
-        },
-        {
-          "d": "08-14",
-          "c": 1034.35
-        },
-        {
-          "d": "08-17",
-          "c": 1046.19
-        },
-        {
-          "d": "08-18",
-          "c": 1035.4
-        },
-        {
-          "d": "08-19",
-          "c": 1016.67
-        },
-        {
-          "d": "08-20",
-          "c": 997.07
-        },
-        {
-          "d": "08-21",
-          "c": 1034.21
-        },
-        {
-          "d": "08-24",
-          "c": 1031.23
-        },
-        {
-          "d": "08-25",
-          "c": 1053.72
-        },
-        {
-          "d": "08-26",
-          "c": 1035.39
-        },
-        {
-          "d": "08-27",
-          "c": 1035.8
-        },
-        {
-          "d": "08-28",
-          "c": 1028.95
-        },
-        {
-          "d": "08-31",
-          "c": 1020.9
-        },
-        {
-          "d": "09-01",
-          "c": 1002.56
-        },
-        {
-          "d": "09-02",
-          "c": 1004.42
-        },
-        {
-          "d": "09-03",
-          "c": 1037.93
-        },
-        {
-          "d": "09-04",
-          "c": 1038.61
-        }
-      ]
-    },
-    {
-      "id": "d5729a1ab14cf259",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T01:24:15+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Aside Trump\u2019s Threats, Canada Retaliates on Tariffs - The New York Times Brushing Aside Trump\u2019s Threats, Canada Retaliates on",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 66.21,
-      "change": -2.58,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5",
-      "image": null,
-      "headline": "Brushing Aside Trump\u2019s Threats, Canada Retaliates on Tariffs - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.21
-        }
-      ]
-    },
-    {
-      "id": "23d7e82104444be1",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T01:04:12+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Set to Take Effect as Trump Threatens to Escalate - The New York Times Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.28,
-      "change": 0.33,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5",
-      "image": null,
-      "headline": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-06",
-          "c": 64.77
-        },
-        {
-          "d": "08-07",
-          "c": 63.54
-        },
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
         }
       ]
     }
