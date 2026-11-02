@@ -1,7 +1,319 @@
 {
-  "updated_at": "2026-11-02T12:56:30.409404+00:00",
+  "updated_at": "2026-11-02T22:00:50.754303+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f6d2add475e2177f",
+      "date": "Mon, 02 Nov 2026",
+      "ts": "2026-11-02T19:55:17+00:00",
+      "date_display": "Nov 02, 2026",
+      "source": "Los Angeles Times",
+      "type": "news",
+      "quote": "Lachlan Murdoch says \"viewer fatigue\" is cutting into Fox News ratings - Los Angeles Times Lachlan Murdoch says",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 55.96,
+      "change": -0.43,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTVh1TEwxUlBEeDBwYzhjN3dfanpLeFgxa2FaMTB5ZUVjUld2LWpGSHFUTGpKZnhiTzNJSzJQTVJ2aFk1dWk3ajVUZlQtWENpNkx6QnJRTENHZVAxd0V5cF9MOGxiVXdJQXQwdFVKdkZxblVYZHVVbjJ1REdIMTVURW1mcFdYVmQtbFRoSHhXYkx0YUJPbG5abFZLTXYyOEVIOEZZbmFUQVZLRTltUjdXUFozUkMzR1VlTTQ1d3BjMXBrZGxsYnQ0OW1PUXVsTVl4OWFv?oc=5",
+      "image": null,
+      "headline": "Lachlan Murdoch says \"viewer fatigue\" is cutting into Fox News ratings - Los Angeles Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        }
+      ]
+    },
+    {
+      "id": "18234a3c63e091d0",
+      "date": "Mon, 02 Nov 2026",
+      "ts": "2026-11-02T19:41:00+00:00",
+      "date_display": "Nov 02, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Trump Admin Says Truth Social Paywall Does Not Violate Constitution - Newsweek Trump",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 5.66,
+      "change": 1.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTG9GTGFtaDdzSFZPY0xMYk5uMENtbEQ5TzNLeG1faWdPcDdMVWxXMFBtNG5SX0JUZjQ2cEFqZUlaczhta1N2RFRENF9EZmJoalBwSEZLemNrS3ZZZW1hTVYxY0dTRlhTSVREY3ZQU0FveDliSjVIMUtuWUVSTnlZQVFDQWJzeEtEUC1xMUFWOFBvNXhscHRqNlVxMlIwcXR0b3A0?oc=5",
+      "image": null,
+      "headline": "Trump Admin Says Truth Social Paywall Does Not Violate Constitution - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        }
+      ]
+    },
+    {
+      "id": "4166d99d0afe2ddc",
+      "date": "Mon, 02 Nov 2026",
+      "ts": "2026-11-02T09:18:00+00:00",
+      "date_display": "Nov 02, 2026",
+      "source": "\u671d\u65e5\u65b0\u805e",
+      "type": "news",
+      "quote": "INTERVIEW/ A.G. Sulzberger: NYT publisher says Trump\u2019s media attacks empower critics -",
+      "company": "Nyt",
+      "ticker": "NYT",
+      "price": 69.96,
+      "change": -0.3,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EQ19nMXp6NmJGZDVwNkF5YnFEdklobGdudURGTlFQRjZFTWNuSHI4Yy0yRUJlNEhhUGZEeTRCY1l0aG9HZ1FjRTVhXzlxRXA2aDQtM3B3?oc=5",
+      "image": null,
+      "headline": "INTERVIEW/ A.G. Sulzberger: NYT publisher says Trump\u2019s media attacks empower critics - \u671d\u65e5\u65b0\u805e",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 63.77
+        },
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        }
+      ]
+    },
     {
       "id": "cc284854abeedf4b",
       "date": "Mon, 02 Nov 2026",
@@ -37964,237 +38276,6 @@
         {
           "d": "09-10",
           "c": 58.01
-        }
-      ]
-    },
-    {
-      "id": "63c86c79b7fc1785",
-      "date": "Wed, 09 Sep 2026",
-      "ts": "2026-09-09T22:55:11+00:00",
-      "date_display": "Sep 09, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "world. Jacob Coxon, who previously worked at Anthropic and OpenAI, wrote that the industry understands the potential risks",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/ai-1024x704.jpg",
-      "headline": "AI researcher warns companies are ignoring catastrophic risks",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "a0d0e79fe02817a4",
-      "date": "Wed, 09 Sep 2026",
-      "ts": "2026-09-09T19:05:53+00:00",
-      "date_display": "Sep 09, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "he tries to fend off an intraparty challenge from former CVS executive Helena Foulkes in Wednesday's state primary.",
-      "company": "Cvs",
-      "ticker": "CVS",
-      "price": 95.83,
-      "change": -0.25,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/gov-mckee-faces-tough-challenge-from-foulkes-in-rhode-island-democratic-primary",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2022-10-27T222221Z_1095413846_RC2X9X9X84MD_RTRMADP_3_USA-ELECTION-HEADSHOTS-1024x705.jpg",
-      "headline": "Gov. McKee faces tough challenge from Foulkes in Rhode Island Democratic primary",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 95.67
-        },
-        {
-          "d": "08-11",
-          "c": 93.5
-        },
-        {
-          "d": "08-12",
-          "c": 94.72
-        },
-        {
-          "d": "08-13",
-          "c": 94.99
-        },
-        {
-          "d": "08-14",
-          "c": 97.16
-        },
-        {
-          "d": "08-17",
-          "c": 94.01
-        },
-        {
-          "d": "08-18",
-          "c": 94.91
-        },
-        {
-          "d": "08-19",
-          "c": 93.65
-        },
-        {
-          "d": "08-20",
-          "c": 93.65
-        },
-        {
-          "d": "08-21",
-          "c": 93.02
-        },
-        {
-          "d": "08-24",
-          "c": 94.11
-        },
-        {
-          "d": "08-25",
-          "c": 92.9
-        },
-        {
-          "d": "08-26",
-          "c": 94.32
-        },
-        {
-          "d": "08-27",
-          "c": 92.92
-        },
-        {
-          "d": "08-28",
-          "c": 93.06
-        },
-        {
-          "d": "08-31",
-          "c": 93.91
-        },
-        {
-          "d": "09-01",
-          "c": 97.6
-        },
-        {
-          "d": "09-02",
-          "c": 97.23
-        },
-        {
-          "d": "09-03",
-          "c": 97.2
-        },
-        {
-          "d": "09-04",
-          "c": 96.74
-        },
-        {
-          "d": "09-08",
-          "c": 96.07
-        },
-        {
-          "d": "09-09",
-          "c": 95.83
-        }
-      ]
-    },
-    {
-      "id": "2c92008e5ca2c340",
-      "date": "Wed, 09 Sep 2026",
-      "ts": "2026-09-09T11:36:52+00:00",
-      "date_display": "Sep 09, 2026",
-      "source": "AD HOC NEWS",
-      "type": "news",
-      "quote": "Ford Motor Co. stock falls as Trump administration attacks",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 14.0,
-      "change": -4.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhhVGdIVXBxWEd1eHFoSlNoTWF0Z1h0VmpjWmxfYTZzZkhFbjNub1dWVWNGM1g4X25BUEhQdXNDLVBvbXVJQ2p2UVlEcERWYVFuXy1URGRYOWRjenpjaERWNF9aMVdRY21TUTVsTkNieTMtWDVwck9EUUJtV19hZ041ZXhXX2UtZ3RJczNyZU1INUNuVW5nQUpMdjQ4dkpHNUZOdDRKbXFpc2h1RXVSeFdva0lhWi1weVdrQ2lRLW5NMmJO?oc=5",
-      "image": null,
-      "headline": "Ford Motor Co. stock falls as Trump administration attacks China partnerships - AD HOC NEWS",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 13.85
-        },
-        {
-          "d": "08-11",
-          "c": 13.98
-        },
-        {
-          "d": "08-12",
-          "c": 13.83
-        },
-        {
-          "d": "08-13",
-          "c": 13.89
-        },
-        {
-          "d": "08-14",
-          "c": 14.37
-        },
-        {
-          "d": "08-17",
-          "c": 14.05
-        },
-        {
-          "d": "08-18",
-          "c": 13.93
-        },
-        {
-          "d": "08-19",
-          "c": 14.5
-        },
-        {
-          "d": "08-20",
-          "c": 13.99
-        },
-        {
-          "d": "08-21",
-          "c": 14.41
-        },
-        {
-          "d": "08-24",
-          "c": 13.93
-        },
-        {
-          "d": "08-25",
-          "c": 13.95
-        },
-        {
-          "d": "08-26",
-          "c": 13.9
-        },
-        {
-          "d": "08-27",
-          "c": 13.95
-        },
-        {
-          "d": "08-28",
-          "c": 13.88
-        },
-        {
-          "d": "08-31",
-          "c": 13.94
-        },
-        {
-          "d": "09-01",
-          "c": 13.84
-        },
-        {
-          "d": "09-02",
-          "c": 14.14
-        },
-        {
-          "d": "09-03",
-          "c": 14.41
-        },
-        {
-          "d": "09-04",
-          "c": 14.62
-        },
-        {
-          "d": "09-08",
-          "c": 14.0
         }
       ]
     }
