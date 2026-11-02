@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-11-02T04:52:15.505868+00:00",
+  "updated_at": "2026-11-02T12:56:30.409404+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "cc284854abeedf4b",
+      "date": "Mon, 02 Nov 2026",
+      "ts": "2026-11-02T03:19:17+00:00",
+      "date_display": "Nov 02, 2026",
+      "source": "The Edge Malaysia",
+      "type": "news",
+      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 204.64,
+      "change": -4.22,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aM3JaTU9NYl9RTmVtWEhtU3BKanFmNGF0Y3h2LXNEMjlzVlRfYnByVmNwX0VmWVFjc1pOVTdaZUI1SkZIcDEtbFdLRXlVa2JM?oc=5",
+      "image": null,
+      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        }
+      ]
+    },
+    {
+      "id": "a6691926d7ae21d1",
+      "date": "Mon, 02 Nov 2026",
+      "ts": "2026-11-02T03:19:17+00:00",
+      "date_display": "Nov 02, 2026",
+      "source": "The Edge Malaysia",
+      "type": "news",
+      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia Trump says US",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 154.38,
+      "change": 1.69,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aM3JaTU9NYl9RTmVtWEhtU3BKanFmNGF0Y3h2LXNEMjlzVlRfYnByVmNwX0VmWVFjc1pOVTdaZUI1SkZIcDEtbFdLRXlVa2JM?oc=5",
+      "image": null,
+      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 156.7
+        },
+        {
+          "d": "10-02",
+          "c": 156.0
+        },
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        }
+      ]
+    },
+    {
+      "id": "4613933d7f762be6",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T22:52:12+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 204.64,
+      "change": -4.22,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGJjbktIWGNkNTRGd0lIMm9QSjVtd1lBSWZkUkczcUtGLVRCMVRNM1g4TVh1cVlZLXltSElHWFVaSHdTajlwX3ZDTENEQm1aY3FhMjRISWZuOFc5eUZnM2FENzA2MXZrS3NZWEo4TVBVTFRsdFFUa1RuRUJmaXhWY19TeWRJVG80LThvbkZPTGNycEpsaVNoUzRaSDJoQTZsbkRZ?oc=5",
+      "image": null,
+      "headline": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 230.86
+        },
+        {
+          "d": "10-02",
+          "c": 233.95
+        },
+        {
+          "d": "10-05",
+          "c": 238.9
+        },
+        {
+          "d": "10-06",
+          "c": 239.24
+        },
+        {
+          "d": "10-07",
+          "c": 237.47
+        },
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        }
+      ]
+    },
     {
       "id": "adf8d4477d6d0151",
       "date": "Sun, 01 Nov 2026",
@@ -126,6 +450,114 @@
       "article_link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
       "image": null,
       "headline": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-01",
+          "c": 292.34
+        },
+        {
+          "d": "10-02",
+          "c": 307.49
+        },
+        {
+          "d": "10-05",
+          "c": 302.9
+        },
+        {
+          "d": "10-06",
+          "c": 302.56
+        },
+        {
+          "d": "10-07",
+          "c": 294.37
+        },
+        {
+          "d": "10-08",
+          "c": 275.29
+        },
+        {
+          "d": "10-09",
+          "c": 266.28
+        },
+        {
+          "d": "10-12",
+          "c": 255.24
+        },
+        {
+          "d": "10-13",
+          "c": 255.39
+        },
+        {
+          "d": "10-14",
+          "c": 238.01
+        },
+        {
+          "d": "10-15",
+          "c": 244.79
+        },
+        {
+          "d": "10-16",
+          "c": 227.8
+        },
+        {
+          "d": "10-19",
+          "c": 228.05
+        },
+        {
+          "d": "10-20",
+          "c": 221.06
+        },
+        {
+          "d": "10-21",
+          "c": 226.59
+        },
+        {
+          "d": "10-22",
+          "c": 210.1
+        },
+        {
+          "d": "10-23",
+          "c": 210.33
+        },
+        {
+          "d": "10-26",
+          "c": 223.35
+        },
+        {
+          "d": "10-27",
+          "c": 226.6
+        },
+        {
+          "d": "10-28",
+          "c": 235.9
+        },
+        {
+          "d": "10-29",
+          "c": 228.77
+        },
+        {
+          "d": "10-30",
+          "c": 205.97
+        }
+      ]
+    },
+    {
+      "id": "79a681c9924c5d73",
+      "date": "Sun, 01 Nov 2026",
+      "ts": "2026-11-01T19:00:58+00:00",
+      "date_display": "Nov 01, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to",
+      "company": "Arm",
+      "ticker": "ARM",
+      "price": 205.97,
+      "change": -9.97,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+      "image": null,
+      "headline": "Connecticut Sen. Chris Murphy is hospitalized with a stroke",
       "channel": "News",
       "series": [
         {
@@ -37763,430 +38195,6 @@
         {
           "d": "09-08",
           "c": 14.0
-        }
-      ]
-    },
-    {
-      "id": "f53bca3870d878cc",
-      "date": "Wed, 09 Sep 2026",
-      "ts": "2026-09-09T00:53:50+00:00",
-      "date_display": "Sep 09, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Tariffs on U.S. Goods After Trump\u2019s Latest Levies - The New York Times Canada Imposes New Tariffs on U.S. Goods After Trump\u2019s",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.96,
-      "change": 1.01,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
-      "image": null,
-      "headline": "Canada Imposes New Tariffs on U.S. Goods After Trump\u2019s Latest Levies - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        }
-      ]
-    },
-    {
-      "id": "33a9abccea9c7ed9",
-      "date": "Wed, 09 Sep 2026",
-      "ts": "2026-09-09T00:53:50+00:00",
-      "date_display": "Sep 09, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump Announces Ban on Some Canadian Imports - The New York Times Trump Announces Ban on Some Canadian",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 66.21,
-      "change": -2.58,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
-      "image": null,
-      "headline": "Trump Announces Ban on Some Canadian Imports - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 64.8
-        },
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.21
-        }
-      ]
-    },
-    {
-      "id": "af1133fb7e6a80bd",
-      "date": "Wed, 09 Sep 2026",
-      "ts": "2026-09-09T00:14:39+00:00",
-      "date_display": "Sep 09, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump showed the endorsement power he has, expert says - Fox Business President Trump showed the endorsement power he",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 57.17,
-      "change": -1.84,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SkZpLThOUm9GdWgxV0twMnpJTW1YWk1vOWR4b09HSS1YVXlTbkV6empGSndkZktDemFfZTZmT25DU3VHaVl1RkVmWE9iMUVHNGFjUU5QdlUwUVk?oc=5",
-      "image": null,
-      "headline": "President Trump showed the endorsement power he has, expert says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 56.05
-        },
-        {
-          "d": "08-11",
-          "c": 55.07
-        },
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.17
-        }
-      ]
-    },
-    {
-      "id": "03afe1afdf87982a",
-      "date": "Tue, 08 Sep 2026",
-      "ts": "2026-09-08T22:25:47+00:00",
-      "date_display": "Sep 08, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "to stop Flight 93 on 9/11 On 9/11, the passengers of United Airlines Flight 93 stormed the cockpit, forcing the hijacked jet to",
-      "company": "United Airlines",
-      "ticker": "UAL",
-      "price": 108.24,
-      "change": -2.82,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/show/fighter-pilot-reflects-on-order-to-sacrifice-herself-to-stop-flight-93-on-9-11",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/25years-1024x576.jpg",
-      "headline": "Fighter pilot reflects on order to sacrifice herself to stop Flight 93 on 9/11",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-10",
-          "c": 123.76
-        },
-        {
-          "d": "08-11",
-          "c": 126.31
-        },
-        {
-          "d": "08-12",
-          "c": 125.12
-        },
-        {
-          "d": "08-13",
-          "c": 126.35
-        },
-        {
-          "d": "08-14",
-          "c": 125.34
-        },
-        {
-          "d": "08-17",
-          "c": 122.26
-        },
-        {
-          "d": "08-18",
-          "c": 118.72
-        },
-        {
-          "d": "08-19",
-          "c": 115.78
-        },
-        {
-          "d": "08-20",
-          "c": 111.71
-        },
-        {
-          "d": "08-21",
-          "c": 113.17
-        },
-        {
-          "d": "08-24",
-          "c": 113.57
-        },
-        {
-          "d": "08-25",
-          "c": 117.41
-        },
-        {
-          "d": "08-26",
-          "c": 114.83
-        },
-        {
-          "d": "08-27",
-          "c": 112.39
-        },
-        {
-          "d": "08-28",
-          "c": 110.6
-        },
-        {
-          "d": "08-31",
-          "c": 107.99
-        },
-        {
-          "d": "09-01",
-          "c": 104.63
-        },
-        {
-          "d": "09-02",
-          "c": 108.35
-        },
-        {
-          "d": "09-03",
-          "c": 108.66
-        },
-        {
-          "d": "09-04",
-          "c": 111.38
-        },
-        {
-          "d": "09-08",
-          "c": 108.24
         }
       ]
     }
