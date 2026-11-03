@@ -1,7 +1,319 @@
 {
-  "updated_at": "2026-11-03T03:31:41.068192+00:00",
+  "updated_at": "2026-11-03T11:26:51.052121+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "454c79d07956e079",
+      "date": "Tue, 03 Nov 2026",
+      "ts": "2026-11-03T10:00:53+00:00",
+      "date_display": "Nov 03, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "a Republican, will face Democratic Attorney General Aaron Ford in a battle to hold onto his seat.",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 12.6,
+      "change": 2.86,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/live-results-nevada-governor-midterm-election",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-23T175020Z_1896266060_RC2QWNAW0V00_RTRMADP_3_USA-ELECTION-NEVADA-1024x683.jpg",
+      "headline": "Live Results: Nevada governor midterm election",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 12.15
+        },
+        {
+          "d": "10-06",
+          "c": 12.28
+        },
+        {
+          "d": "10-07",
+          "c": 12.12
+        },
+        {
+          "d": "10-08",
+          "c": 12.25
+        },
+        {
+          "d": "10-09",
+          "c": 12.17
+        },
+        {
+          "d": "10-12",
+          "c": 12.0
+        },
+        {
+          "d": "10-13",
+          "c": 12.1
+        },
+        {
+          "d": "10-14",
+          "c": 12.05
+        },
+        {
+          "d": "10-15",
+          "c": 12.31
+        },
+        {
+          "d": "10-16",
+          "c": 12.43
+        },
+        {
+          "d": "10-19",
+          "c": 12.18
+        },
+        {
+          "d": "10-20",
+          "c": 12.15
+        },
+        {
+          "d": "10-21",
+          "c": 11.9
+        },
+        {
+          "d": "10-22",
+          "c": 11.94
+        },
+        {
+          "d": "10-23",
+          "c": 11.6
+        },
+        {
+          "d": "10-26",
+          "c": 11.58
+        },
+        {
+          "d": "10-27",
+          "c": 11.71
+        },
+        {
+          "d": "10-28",
+          "c": 11.95
+        },
+        {
+          "d": "10-29",
+          "c": 12.36
+        },
+        {
+          "d": "10-30",
+          "c": 12.25
+        },
+        {
+          "d": "11-02",
+          "c": 12.6
+        }
+      ]
+    },
+    {
+      "id": "097bb0ed58f1a973",
+      "date": "Tue, 03 Nov 2026",
+      "ts": "2026-11-03T10:00:00+00:00",
+      "date_display": "Nov 03, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "A new cold war: hackers target fridges across the globe NPR investigated cyberattacks on",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 158.38,
+      "change": 2.59,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
+      "image": null,
+      "headline": "A new cold war: hackers target fridges across the globe",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        },
+        {
+          "d": "11-02",
+          "c": 158.38
+        }
+      ]
+    },
+    {
+      "id": "70947997ca25b0dd",
+      "date": "Tue, 03 Nov 2026",
+      "ts": "2026-11-03T10:00:00+00:00",
+      "date_display": "Nov 03, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "From 'model minority' to target, anti-Indian hate on the rise A massacre allegedly",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 158.38,
+      "change": 2.59,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
+      "image": null,
+      "headline": "From 'model minority' to target, anti-Indian hate on the rise",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 152.99
+        },
+        {
+          "d": "10-06",
+          "c": 154.33
+        },
+        {
+          "d": "10-07",
+          "c": 150.92
+        },
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        },
+        {
+          "d": "11-02",
+          "c": 158.38
+        }
+      ]
+    },
     {
       "id": "f6d2add475e2177f",
       "date": "Mon, 02 Nov 2026",
@@ -37952,326 +38264,6 @@
         {
           "d": "09-11",
           "c": 58.37
-        }
-      ]
-    },
-    {
-      "id": "1745f1243ff4a2a3",
-      "date": "Thu, 10 Sep 2026",
-      "ts": "2026-09-10T22:50:23+00:00",
-      "date_display": "Sep 10, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Point USA, Geoff Bennett spoke with Robert Draper, a New York Times Magazine reporter who profiled Kirk before his death.",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 66.6,
-      "change": -2.0,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/show/a-look-at-the-young-conservative-movement-a-year-after-charlie-kirks-killing",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/kirk-1024x683.jpg",
-      "headline": "A look at the young conservative movement a year after Charlie Kirk's killing",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-11",
-          "c": 63.73
-        },
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        }
-      ]
-    },
-    {
-      "id": "f9bb0e3dcc43640b",
-      "date": "Thu, 10 Sep 2026",
-      "ts": "2026-09-10T19:55:36+00:00",
-      "date_display": "Sep 10, 2026",
-      "source": "Business Insider",
-      "type": "news",
-      "quote": "Palantir cofounder and GOP donor says Trump's proposed $5,000",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 165.86,
-      "change": -2.16,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDdkQnpYckJzLW9GV3EtM0c2aWlrNGMtUXFLck1FcTZ5WnFpb3BET1hyRnhPQ3RweFphLTN2eXktRW5PdGJjSnNLclF4T0NrSHJYcUpLdVZKTXVjWmpaeDdhLXpZS2Z1blV4cnhHdDE2LTB4bGJxVk9RWUpnTnhEMy1peEN4SVg2?oc=5",
-      "image": null,
-      "headline": "Palantir cofounder and GOP donor says Trump's proposed $5,000 dividend is a 'bribe' - Business Insider",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-11",
-          "c": 174.94
-        },
-        {
-          "d": "08-12",
-          "c": 171.04
-        },
-        {
-          "d": "08-13",
-          "c": 179.01
-        },
-        {
-          "d": "08-14",
-          "c": 174.04
-        },
-        {
-          "d": "08-17",
-          "c": 172.55
-        },
-        {
-          "d": "08-18",
-          "c": 171.54
-        },
-        {
-          "d": "08-19",
-          "c": 175.19
-        },
-        {
-          "d": "08-20",
-          "c": 173.96
-        },
-        {
-          "d": "08-21",
-          "c": 179.94
-        },
-        {
-          "d": "08-24",
-          "c": 175.89
-        },
-        {
-          "d": "08-25",
-          "c": 172.73
-        },
-        {
-          "d": "08-26",
-          "c": 177.5
-        },
-        {
-          "d": "08-27",
-          "c": 185.93
-        },
-        {
-          "d": "08-28",
-          "c": 186.29
-        },
-        {
-          "d": "08-31",
-          "c": 186.38
-        },
-        {
-          "d": "09-01",
-          "c": 179.92
-        },
-        {
-          "d": "09-02",
-          "c": 169.46
-        },
-        {
-          "d": "09-03",
-          "c": 182.53
-        },
-        {
-          "d": "09-04",
-          "c": 174.33
-        },
-        {
-          "d": "09-08",
-          "c": 170.3
-        },
-        {
-          "d": "09-09",
-          "c": 169.53
-        },
-        {
-          "d": "09-10",
-          "c": 165.86
-        }
-      ]
-    },
-    {
-      "id": "59fe414287580887",
-      "date": "Thu, 10 Sep 2026",
-      "ts": "2026-09-10T17:42:20+00:00",
-      "date_display": "Sep 10, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "explains $5,000 tariff payouts proposal to Americans - Fox News Trump explains $5,000 tariff payouts proposal to",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.06,
-      "change": 1.68,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tLXBnUWwxSWxRVzhhOTRWbHltbFNOclpQUFplNDRQTnlKUnY4R3p2d3NrNldEcmw0VW9NVld1SUFqS0xrZFh5THhwLWtIYVJQd1lfMzB3?oc=5",
-      "image": null,
-      "headline": "Trump explains $5,000 tariff payouts proposal to Americans - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-11",
-          "c": 55.07
-        },
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
         }
       ]
     }
