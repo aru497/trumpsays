@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-11-03T11:26:51.052121+00:00",
+  "updated_at": "2026-11-03T18:31:29.122212+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "74a381c5632a532b",
+      "date": "Tue, 03 Nov 2026",
+      "ts": "2026-11-03T14:18:29+00:00",
+      "date_display": "Nov 03, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "under Trump, Agriculture Secretary Brooke Rollins says - Fox Business Food prices dropping under Trump, Agriculture",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 59.71,
+      "change": 6.7,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRm51emFhdmRwSVNxRzRLWElqMzlKNkRIbnBITzJVV1FPUVVaTDViWHNZSzVSYWxGbTMtcThzME93bG16LVp1LXJnWVJteTMxUk03SUszUFk2MmM?oc=5",
+      "image": null,
+      "headline": "Food prices dropping under Trump, Agriculture Secretary Brooke Rollins says - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.71
+        }
+      ]
+    },
     {
       "id": "454c79d07956e079",
       "date": "Tue, 03 Nov 2026",
@@ -38158,114 +38266,6 @@
       "headline": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "3a819ee6e2013072",
-      "date": "Fri, 11 Sep 2026",
-      "ts": "2026-09-11T00:07:08+00:00",
-      "date_display": "Sep 11, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "Trump says he has no \u2018regrets\u2019 over Iran war - Fox News Trump says he has no \u2018regrets\u2019 over Iran",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.37,
-      "change": 0.53,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84QzN6N1ZHR1NhY2NwOGxtX2FHSm53RnV6dDl4QjN5RFItcmNFRS1HYmFtV0lpRXRxMFkteUlVYjA1NXl5MzRGdnJaRndMRVQ2WHlmYVFB?oc=5",
-      "image": null,
-      "headline": "Trump says he has no \u2018regrets\u2019 over Iran war - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.37
-        }
-      ]
     }
   ]
 }
