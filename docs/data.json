@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-11-04T03:42:05.211001+00:00",
+  "updated_at": "2026-11-04T11:41:25.781499+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c3baebefa21aa013",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T10:40:32+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump blames Fox News for election losses as Democrats win big - The",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 59.63,
+      "change": 6.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1hKUUZVTVI5OWt3VTNhbWFZbjIwNjZraVRkRVpFTXJINm52ZHd2aGgwb0tMc2NlcENzaXRLWmFHR3FvaGtPcTMwZVBrdm1YYXpmblV1eDZOYzI2WURPVF9TQjdhYmktZzltM0xrWHRfZV81MllIaVpUYmIzZ3hXc1VEc1pKdzIySWtkOUEyTHFORWtaR0dITzZJNA?oc=5",
+      "image": null,
+      "headline": "Trump blames Fox News for election losses as Democrats win big - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        }
+      ]
+    },
+    {
+      "id": "6c548bec1726a957",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T09:50:43+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "President Trump lashed out on his social media platform Truth Social Tuesday night, blaming others for losses in key races",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 5.95,
+      "change": 5.12,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/11/04/nx-s1-6027330/trump-casts-blame-on-others-after-democrats-sweep-midterms",
+      "image": null,
+      "headline": "Trump casts blame on others after Democrats sweep midterms",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 8.63
+        },
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        }
+      ]
+    },
+    {
+      "id": "45a515d47f9b67b1",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T09:48:40+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor Democrat Aaron Ford",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 12.31,
+      "change": -2.3,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
+      "image": null,
+      "headline": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 12.15
+        },
+        {
+          "d": "10-06",
+          "c": 12.28
+        },
+        {
+          "d": "10-07",
+          "c": 12.12
+        },
+        {
+          "d": "10-08",
+          "c": 12.25
+        },
+        {
+          "d": "10-09",
+          "c": 12.17
+        },
+        {
+          "d": "10-12",
+          "c": 12.0
+        },
+        {
+          "d": "10-13",
+          "c": 12.1
+        },
+        {
+          "d": "10-14",
+          "c": 12.05
+        },
+        {
+          "d": "10-15",
+          "c": 12.31
+        },
+        {
+          "d": "10-16",
+          "c": 12.43
+        },
+        {
+          "d": "10-19",
+          "c": 12.18
+        },
+        {
+          "d": "10-20",
+          "c": 12.15
+        },
+        {
+          "d": "10-21",
+          "c": 11.9
+        },
+        {
+          "d": "10-22",
+          "c": 11.94
+        },
+        {
+          "d": "10-23",
+          "c": 11.6
+        },
+        {
+          "d": "10-26",
+          "c": 11.58
+        },
+        {
+          "d": "10-27",
+          "c": 11.71
+        },
+        {
+          "d": "10-28",
+          "c": 11.95
+        },
+        {
+          "d": "10-29",
+          "c": 12.36
+        },
+        {
+          "d": "10-30",
+          "c": 12.25
+        },
+        {
+          "d": "11-02",
+          "c": 12.6
+        },
+        {
+          "d": "11-03",
+          "c": 12.31
+        }
+      ]
+    },
+    {
+      "id": "083356b6cf158fbd",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T06:29:46+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional",
+      "company": "Ford",
+      "ticker": "F",
+      "price": 12.31,
+      "change": -2.3,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/democrat-j-d-ford-wins-election-to-u-s-house-in-indianas-5th-congressional-district",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP25345800789313-1024x683.jpg",
+      "headline": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional District",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 12.15
+        },
+        {
+          "d": "10-06",
+          "c": 12.28
+        },
+        {
+          "d": "10-07",
+          "c": 12.12
+        },
+        {
+          "d": "10-08",
+          "c": 12.25
+        },
+        {
+          "d": "10-09",
+          "c": 12.17
+        },
+        {
+          "d": "10-12",
+          "c": 12.0
+        },
+        {
+          "d": "10-13",
+          "c": 12.1
+        },
+        {
+          "d": "10-14",
+          "c": 12.05
+        },
+        {
+          "d": "10-15",
+          "c": 12.31
+        },
+        {
+          "d": "10-16",
+          "c": 12.43
+        },
+        {
+          "d": "10-19",
+          "c": 12.18
+        },
+        {
+          "d": "10-20",
+          "c": 12.15
+        },
+        {
+          "d": "10-21",
+          "c": 11.9
+        },
+        {
+          "d": "10-22",
+          "c": 11.94
+        },
+        {
+          "d": "10-23",
+          "c": 11.6
+        },
+        {
+          "d": "10-26",
+          "c": 11.58
+        },
+        {
+          "d": "10-27",
+          "c": 11.71
+        },
+        {
+          "d": "10-28",
+          "c": 11.95
+        },
+        {
+          "d": "10-29",
+          "c": 12.36
+        },
+        {
+          "d": "10-30",
+          "c": 12.25
+        },
+        {
+          "d": "11-02",
+          "c": 12.6
+        },
+        {
+          "d": "11-03",
+          "c": 12.31
+        }
+      ]
+    },
+    {
+      "id": "77fe56bf1ecc7660",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T01:19:01+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump Repeatedly Bashes Fox News In Election Night Posting Rants - Forbes Trump",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 59.63,
+      "change": 6.56,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEx2emxxRnVWVTlaeUlfcnFyQXJEcU9DT3V2WG5XMEhnb3lPQjYwOFhjVi1yWXNkdXhnSm1XdmMwNWNVRXNrWnVNaC1WQ1hCQ0RIMXVwSU5ROUhkVXItZkhtZzkyR0FkRXhwdUdzSjNPV0NGSFJDS001WHc5UHhqWF9hR3RZRnN0aTc1aGtabkNCWXJDQWdfdHE4OUhwX3Y4Z0kyN2pJcEcwdVIxRTVqc0R5cVota1l3VGZHT0YxWQ?oc=5",
+      "image": null,
+      "headline": "Trump Repeatedly Bashes Fox News In Election Night Posting Rants - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-05",
+          "c": 56.7
+        },
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        }
+      ]
+    },
     {
       "id": "bd708e9378fede0d",
       "date": "Tue, 03 Nov 2026",
@@ -37740,530 +38280,6 @@
         {
           "d": "09-14",
           "c": 8.85
-        }
-      ]
-    },
-    {
-      "id": "2cea3597e4dd3d6b",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T07:00:00+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Some Obamacare Customers, Weeks Before the Election - The New York Times Trump Announces $500 Rebates for Some Obamacare Customers,",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.53,
-      "change": 0.46,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGS19FWXZmbllJSl8tYkh2cVNBODlsMDI4X1d1V2ZDRDZQRHk1YTZUQW9ZSGNFaEpUbU9oV21IMHNBZmxlYl9aNU5tME41b3FhSEVMdE9ubEpidVgwWlNzZE1feWxiZWNfVF9pWkF1ci0zMVFrc3huc1pNZEY?oc=5",
-      "image": null,
-      "headline": "Trump Announces $500 Rebates for Some Obamacare Customers, Weeks Before the Election - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        },
-        {
-          "d": "09-15",
-          "c": 71.71
-        },
-        {
-          "d": "09-16",
-          "c": 72.41
-        },
-        {
-          "d": "09-17",
-          "c": 69.94
-        },
-        {
-          "d": "09-18",
-          "c": 70.21
-        },
-        {
-          "d": "09-21",
-          "c": 70.53
-        }
-      ]
-    },
-    {
-      "id": "ebce71c198f46e5e",
-      "date": "Sun, 13 Sep 2026",
-      "ts": "2026-09-13T19:06:12+00:00",
-      "date_display": "Sep 13, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump Blames Ukraine for Global Diesel Shortage - The New York Times Trump Blames Ukraine for Global Diesel",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.34,
-      "change": 5.17,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abXRyeGJWSXpJalBWaU5xWFRmdXFmNG14TlN0T0owZWw3MVR3elVsX3JETW1NSVk5cHNPY2paWnRSSFM1TXYyMjlHTVhncUEwa2tNN0FyYVo4MUZFNnR4WlBGcDVmNXJ6d3JhZkR2b1QxMFE3MkhBdA?oc=5",
-      "image": null,
-      "headline": "Trump Blames Ukraine for Global Diesel Shortage - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        }
-      ]
-    },
-    {
-      "id": "8b30c074c86de469",
-      "date": "Sun, 13 Sep 2026",
-      "ts": "2026-09-13T17:53:17+00:00",
-      "date_display": "Sep 13, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "after Trump announces end of tariffs on Irish whiskey - Fox Business Irish golf fans chant 'U-S-A' after Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.45,
-      "change": 0.67,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0lkcTJzWEZ1TVB6Nm5kUGFXRWVBMU8xQ3QxQW0zSzZsQkVfa3I1bUhqX1E5VW9QTkZpSGNuN2NvZ0tTMjJROXVEMHg5VjNFb2l1bWE5MDZjOVlpRVJwLUtheVZJbFBEX3IzY0NKcGZSbndUd3RCR0VHZk1MUWdldE1VV2ctV0JRTDRHWFg4blRxTml0VFRBQ1dFYndqYzJTaUtEV1V4SDN5V3NTcy0w0gG0AUFVX3lxTFB3UzFDWDBKTWx1b3VrRVo2Qm5NbEQxZzVhcEttYTRjX3ZQYnBCMzh6b2kzZWVJQ1BnX1pEYU5RcVBTM3g3cGVWVnN2c3VjbVNqM2lSMWFiWlZlNGtJOHJSWkRZeHM1aFp2NzE3S3Z2eUJ5VkNYdVRBYjdiWkEzemtUS1VXWWYwZENpQkFQaHdHbkhmY1JMSkk5TVhXeDZRSEswTzBDaWZvVGd2VlM5cDVGNWtjRg?oc=5",
-      "image": null,
-      "headline": "Irish golf fans chant 'U-S-A' after Trump announces end of tariffs on Irish whiskey - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        }
-      ]
-    },
-    {
-      "id": "acd3b75fdf4b940f",
-      "date": "Sun, 13 Sep 2026",
-      "ts": "2026-09-13T15:22:06+00:00",
-      "date_display": "Sep 13, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "afford $1.2T price tag for $5K dividend to adults - Fox Business Trump says US can 'easily' afford $1.2T price tag",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.45,
-      "change": 0.67,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWW9ZbTZNVVJHNngtbWRVeVRnUUlGWmxWeDNlRi1NZ3AzalRoQUVJbEJyWHFYRGxubmtHR2ZMQzJEZl81SXFjZzVrMmVuUDJHaGtIQkhtRXEtMFhHWlRZaGh4RERSc3ZKaVIwOW1feHZ2czJST3BueVZLd0lDYThTdENfS3JuV1c1U3ozam9zcF92WU9ycVl2MmNXNDRlNXBQbk5yS9IBqgFBVV95cUxPQkVLVzhpNDJxeEZ3aFVBSHhJRWRQOHJMd25Gdko1cERMZkdSX0RjQWNpak5OTmtTYlc4eGVkRGZGbVFNdE1RVWRKMWF1aUV3eHVPRUkzOXM4OVdoalNSU2RuQjZjVzVkUFFxVmstbnhmQlV5LW1LYXNtMU4tY1pjSVhsd0hFb011clNpOXFabnNSX0FUXzByZEZhMFk1Z3FqZXR1eUdrSmh0QQ?oc=5",
-      "image": null,
-      "headline": "Trump says US can 'easily' afford $1.2T price tag for $5K dividend to adults - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-12",
-          "c": 55.7
-        },
-        {
-          "d": "08-13",
-          "c": 57.81
-        },
-        {
-          "d": "08-14",
-          "c": 61.11
-        },
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        }
-      ]
-    },
-    {
-      "id": "b4467544e6d7b94a",
-      "date": "Sat, 12 Sep 2026",
-      "ts": "2026-09-12T10:00:09+00:00",
-      "date_display": "Sep 12, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Carney Isn\u2019t Rushing Back to the Negotiating Table - The New York Times Why Carney Isn\u2019t Rushing Back to the Negotiating",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 66.88,
-      "change": 0.47,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMHNBWlFIU1FpRGFucXgzX3ZKeGU4YzBFWmszR1BPdm5iOGpMR0QzQ2hMRHNUWVZENEg1Um00QWp2dVdkU1RINDB2X3htT2ZjN2ZLT2FVTVpUeEVGMHFQNGdIOHRmU2hLUWNJbjBzeG1JcHk2SlJ4T084WkFhTEVMUmEtc0dxem9GNWxpdWRn?oc=5",
-      "image": null,
-      "headline": "Why Carney Isn\u2019t Rushing Back to the Negotiating Table - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-12",
-          "c": 63.95
-        },
-        {
-          "d": "08-13",
-          "c": 64.13
-        },
-        {
-          "d": "08-14",
-          "c": 64.79
-        },
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
         }
       ]
     }
