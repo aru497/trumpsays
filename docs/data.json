@@ -1,7 +1,1087 @@
 {
-  "updated_at": "2026-11-04T11:41:25.781499+00:00",
+  "updated_at": "2026-11-04T18:59:03.203958+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "93292219a2c998ac",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T18:15:06+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump Media stock plunges after midterms - The Washington Post Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHVKT2EwcEZ3WVNnWGs3THVfSWJ6ZHJnZG1PTnBsSGhxbl9hbHNKSm9obVZKZDI0NUVUZ1ZXUW5WSTF1MmFEZUNLazZaUHhvdV9LaW5RLXBuTzVOTjdvZlhWX2h4SDhGUU5iWnhlcl8zWWdMWmk1U1JacmZJNmhrcnpuUHhHS0M1OTdaZVNIWTRWN09TNGNCVw?oc=5",
+      "image": null,
+      "headline": "Trump Media stock plunges after midterms - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "9e5a7e078679e205",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T17:27:00+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Alternet",
+      "type": "news",
+      "quote": "Jokes fly as Trump\u2019s DJT stock plummets to Happy Meal prices - Alternet Jokes fly",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpX1JrLU9zT3FuSU54NkJCYWN2ZS12MzdlaElsUXkwS3dzN0ZacE5WN254SVp1SGJuLTVjWEVJYkk5bXh3Q1F5VUF1VXNVNjBGV29jOVduX0FWVjA?oc=5",
+      "image": null,
+      "headline": "Jokes fly as Trump\u2019s DJT stock plummets to Happy Meal prices - Alternet",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "bd97a4637258b37e",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T17:26:31+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Bloomberg.com",
+      "type": "news",
+      "quote": "Trump Media Falls to All-Time Low As Republicans Lose Congress -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlRKRndOMFRidVVCbkxxWXVJc3JfV24tYVVUMU9sZmNHZHAtbEVydTcwdDVKM2ZqcjBIdUROMG5ZYVI4RXZiTDFJNmNnanE1Qi1td1RYdnVYZnp5aW84TWNyRVlLcnJxWDl2WHV4WTdtZU9DU1M3Q1ZheUExRkppRmFITmt0QnFMTncwWEN3Ymh5THN5T1hCalNvTUJSLU83TXM4WkdEaWZSWDVxbkR3QmpOQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media Falls to All-Time Low As Republicans Lose Congress - Bloomberg.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "af4a801ab43f1e59",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T16:44:16+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media stock plunges 12% after Democrats sweep Congress - Yahoo",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjlyZ3dPVzYxbTBxU05FVE5sUnFxc0o1cVFTUWNqTUhlMUxHbW11bHl2S2Jna3d1dkdmNExEUjIya0xLenBJMmYyMVV0NEo3ak1lSk40eTVBYzFjRGdEb2NyVlVaWXBnb1l6dnVJVElaX0pvQ0xMQUl3a3hJSl9ZTW03ckxoRE9ZS0dmWTM3N0o3MXBhQ2ozbzJlX2VvLWloRENZazZld0hNR2FCQ3JVd3I3UEY5czQ?oc=5",
+      "image": null,
+      "headline": "Trump Media stock plunges 12% after Democrats sweep Congress - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "9fcc4209bd2d8d7b",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T15:51:39+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump retains military option, Michael Oren says - Fox Business President Trump retains military option, Michael",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.82,
+      "change": 3.67,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oMmRVMWxhZkkxUkY0UVpKcm53b1ZHcnN6Y1JEU3FSQzNpcTdDbzRLTUxuS3RvMTJRN3BBaUdiY0Y0bHVXdUhrcUI5ZU1EanpFSFVGUDdpUHpyeGs?oc=5",
+      "image": null,
+      "headline": "President Trump retains military option, Michael Oren says - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.82
+        }
+      ]
+    },
+    {
+      "id": "8084cecb714a95ea",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T15:45:51+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump hammers Fox News, blaming network for GOP losses as ratings slide -",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.82,
+      "change": 3.67,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vTkpYaTV3VnR5bU9lX1MzeDZ2Rk9wODBaTDN0WXd6azNMZnNtdmlPaFdWWlNodjZzWk81N0loR3l3WlMxWW4xcHdaVldjR0ZPVE5pT0k0Z2licTVVdDhucW1YNGtiTkVkZWZhdTR6emM0Ujl1S1NhYi130gF_QVVfeXFMTm1jYUVzYVZtWUhUdlgyLXd4dUtiWWV2YUUzLUk2XzNFRnc2MUZPcHJvajdDYUlNNG5rMGxHMVFxM2t0d0FSQmR5OHI4RzlWWnBUMHZTMUZ5ZWV3UGFGSFJmLWFyMXNkZ0U5bUdFRWs2NzN5X3lmTjBsMjFqSzJaTQ?oc=5",
+      "image": null,
+      "headline": "Trump hammers Fox News, blaming network for GOP losses as ratings slide - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.82
+        }
+      ]
+    },
+    {
+      "id": "83c95ea875c04078",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T15:34:00+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Futurism",
+      "type": "news",
+      "quote": "Truth Social Stock Crashes to All-Time Low After MAGA\u2019s Massive Defeat",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50eElEVTFmRTlWSW5FZUV4d1VVQ2NYVnlCdVpkbUd2TEZmaldwbmRnWjN2QzlTRWZmV2VIR3cxTzVfV05NR29fU3JpcVVZUGRXdHEzRTBRYVV5cEVEWnVnNHV5VkQwUTRXLWdVS2QtTnNsM0NpQmxlNjZjcmNVWk0?oc=5",
+      "image": null,
+      "headline": "Truth Social Stock Crashes to All-Time Low After MAGA\u2019s Massive Defeat - Futurism",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "fee52b2756787194",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T15:29:21+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Yahoo! Finance Canada",
+      "type": "news",
+      "quote": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote &",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "9a1ac4d20b1d5d9d",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T13:00:00+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "DJT stock analysis: What comes next for Trump Media after the midterm elections? - TradingView DJT stock",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdzZYQnpZSFdJVWFtcUdWdXNKaTlBdlM4UVVIQzBfc0E2V2JSWEZtRkk0TEZCRUc2SEVXSUZKUWN0RTd1UThocUJpazBJVUl0TVVyb0RBSGJGcE1zUDNJQUdaLXlLN1NzZ3VocFZBN2JzZHR5WDRaeXRfdnhEcWQ4LVViUEduVmtMWklOdWxrenpNV1BSdXBUeTZ5WUZYbGstZkJaRGtiSUFUWG9HTXdJelFiV2lVekQ1REpmdjQzNFRySGJ0RmNIZ2RkRi1rZk81?oc=5",
+      "image": null,
+      "headline": "DJT stock analysis: What comes next for Trump Media after the midterm elections? - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "eba7b7dd31ea32bf",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T12:11:50+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "MSN",
+      "type": "news",
+      "quote": "Trump Media shares fall 7.4% as US midterm election results trigger",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.97,
+      "change": -16.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX203b3d2ZDcxT2cwc0h5TVZSQjVXTEg5ZUd0WVZ6Q1Z6clQwRTYwa0ZWNnhpOUs4ckEydXlrd29RRjBqemhXYUJwTkc1MGVmRzJKVS1FTDNyS3ZKczh3M1lxcWZHc1lVeEZ4ck9qM25mbUN0enY1a1p2TjRWR0s0NmpkYlNYX2R1bmlVMFVLaXNqV0J3LUxpZmtodUdnUmF1TlhQVUhhWUxkenh3azZVejg5a202X2VkYTlsMnpsQ2xnU0t2WUVTZXZlZ2tpQVFIcUd3aERENmxvZVFUNXNPNHhkTDRBOVM2TVE0amk0ZFc5Q1lvOGdQdmVR?oc=5",
+      "image": null,
+      "headline": "Trump Media shares fall 7.4% as US midterm election results trigger political sell-off - MSN",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.97
+        }
+      ]
+    },
     {
       "id": "c3baebefa21aa013",
       "date": "Wed, 04 Nov 2026",
@@ -431,6 +1511,114 @@
         {
           "d": "11-03",
           "c": 12.31
+        }
+      ]
+    },
+    {
+      "id": "317a84eecd1c002a",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T05:41:00+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump Congratulates Democrats\u2014Then Blames Fox News For Midterm Losses And Posts \u2018VETO\u2019 Hat - Forbes",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.82,
+      "change": 3.67,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0JGdkV0clBBOXhJSmxmSmJrQzhDWVBhWGZFQ21IblMxaU0wV0NMVlNCVEFWUmtBLXI1VWlWQlZFdzJub0s1NU5WM3ctZG9DQUctZHBOT2h1QUJ1UUVjVHlUZmlwUHFyajBRbk95eUNsczZsMWMxWlVqVVlScEhsSjJpQlMxckNJdWNINmRJUjhlTzBCblg5dHUzSGVRTXBuYkZBUTE5UnRXVjRYVkQ5VF9xLURvcVR4OGVsdQ?oc=5",
+      "image": null,
+      "headline": "Trump Congratulates Democrats\u2014Then Blames Fox News For Midterm Losses And Posts \u2018VETO\u2019 Hat - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 55.58
+        },
+        {
+          "d": "10-07",
+          "c": 55.98
+        },
+        {
+          "d": "10-08",
+          "c": 56.97
+        },
+        {
+          "d": "10-09",
+          "c": 55.89
+        },
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.82
         }
       ]
     },
@@ -37263,1025 +38451,6 @@
       "headline": "WATCH LIVE: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's investments",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "c492e9cfb7a76989",
-      "date": "Tue, 15 Sep 2026",
-      "ts": "2026-09-15T14:22:24+00:00",
-      "date_display": "Sep 15, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "WATCH: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-live-senate-expected-to-vote-on-cryptocurrency-regulation",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-02T022919Z_967557510_RC2NANAIJWKA_RTRMADP_3_USA-DAILYLIFE-1024x683.jpg",
-      "headline": "WATCH: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's investments",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "a81d60fa2cc65062",
-      "date": "Tue, 15 Sep 2026",
-      "ts": "2026-09-15T02:28:33+00:00",
-      "date_display": "Sep 15, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Russia, Ukraine agree not to hit energy targets - Fox Business Trump announces Russia, Ukraine agree not to hit",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.14,
-      "change": 4.6,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNN0txVXR0bXB2MHZ6dkFCQnc0US1ZclM3MXpwaHdEVTBRbDBDWFFWZ2xXTW9LS2ZZemU3RnhVX3YtN3BJeDY0UXZnS2xzNXVLeDFFa0RnYjllQms?oc=5",
-      "image": null,
-      "headline": "Trump announces Russia, Ukraine agree not to hit energy targets - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 61.19
-        },
-        {
-          "d": "08-18",
-          "c": 60.93
-        },
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        }
-      ]
-    },
-    {
-      "id": "26a1350e23e91ee6",
-      "date": "Tue, 15 Sep 2026",
-      "ts": "2026-09-15T01:13:00+00:00",
-      "date_display": "Sep 15, 2026",
-      "source": "thedailybeast.com",
-      "type": "news",
-      "quote": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - thedailybeast.com Trump Hit With Fresh 25th",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.58,
-      "change": -3.05,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3BJMmIzSWkzVDFwdS1hWXRqZ3k2WUVoR3ZEMTFHODlzS19qLWlIeXg3WFR6X3BGV3J0bDJRbUhta0Y2eC0xTnBieUVyMklqcTctN3hNRTdCdi1KQ3gtNUItQlhUdTdscFJOd21Md2swSHQ3RjRnaGVnaXpGOWJzSmItcGM5LVo1YlAtOFRjNUJLYVc1SUU2ZzlmdEs2NldCYU1sN1F3?oc=5",
-      "image": null,
-      "headline": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - thedailybeast.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        }
-      ]
-    },
-    {
-      "id": "f74c599906d424c4",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T22:29:53+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "More than 1.2 million children have lost SNAP benefits since last July. Experts explain why Experts say",
-      "company": "Snap",
-      "ticker": "SNAP",
-      "price": 5.68,
-      "change": 2.9,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/nation/more-than-1-2-million-children-have-lost-snap-benefits-since-last-july-experts-explain-why",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-06-24T101152Z_1161924985_RC26JLAS7EOH_RTRMADP_3_USA-HUNGER-ARIZONA-1024x683.jpg",
-      "headline": "More than 1.2 million children have lost SNAP benefits since last July. Experts explain why",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 5.18
-        },
-        {
-          "d": "08-18",
-          "c": 5.11
-        },
-        {
-          "d": "08-19",
-          "c": 5.24
-        },
-        {
-          "d": "08-20",
-          "c": 5.21
-        },
-        {
-          "d": "08-21",
-          "c": 5.24
-        },
-        {
-          "d": "08-24",
-          "c": 5.53
-        },
-        {
-          "d": "08-25",
-          "c": 5.92
-        },
-        {
-          "d": "08-26",
-          "c": 5.42
-        },
-        {
-          "d": "08-27",
-          "c": 5.33
-        },
-        {
-          "d": "08-28",
-          "c": 5.43
-        },
-        {
-          "d": "08-31",
-          "c": 5.55
-        },
-        {
-          "d": "09-01",
-          "c": 5.35
-        },
-        {
-          "d": "09-02",
-          "c": 5.59
-        },
-        {
-          "d": "09-03",
-          "c": 5.7
-        },
-        {
-          "d": "09-04",
-          "c": 5.47
-        },
-        {
-          "d": "09-08",
-          "c": 5.43
-        },
-        {
-          "d": "09-09",
-          "c": 5.31
-        },
-        {
-          "d": "09-10",
-          "c": 5.52
-        },
-        {
-          "d": "09-11",
-          "c": 5.68
-        }
-      ]
-    },
-    {
-      "id": "e743639797fb0552",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T21:57:49+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 158.7,
-      "change": 1.84,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-06T172033Z_2136180357_RC2RDNAAS5C5_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1024x683.jpg",
-      "headline": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 151.01
-        },
-        {
-          "d": "08-18",
-          "c": 152.48
-        },
-        {
-          "d": "08-19",
-          "c": 159.0
-        },
-        {
-          "d": "08-20",
-          "c": 158.25
-        },
-        {
-          "d": "08-21",
-          "c": 165.44
-        },
-        {
-          "d": "08-24",
-          "c": 169.89
-        },
-        {
-          "d": "08-25",
-          "c": 163.47
-        },
-        {
-          "d": "08-26",
-          "c": 164.04
-        },
-        {
-          "d": "08-27",
-          "c": 165.93
-        },
-        {
-          "d": "08-28",
-          "c": 163.18
-        },
-        {
-          "d": "08-31",
-          "c": 160.88
-        },
-        {
-          "d": "09-01",
-          "c": 163.75
-        },
-        {
-          "d": "09-02",
-          "c": 163.36
-        },
-        {
-          "d": "09-03",
-          "c": 164.01
-        },
-        {
-          "d": "09-04",
-          "c": 164.44
-        },
-        {
-          "d": "09-08",
-          "c": 162.71
-        },
-        {
-          "d": "09-09",
-          "c": 157.52
-        },
-        {
-          "d": "09-10",
-          "c": 155.73
-        },
-        {
-          "d": "09-11",
-          "c": 155.83
-        },
-        {
-          "d": "09-14",
-          "c": 158.7
-        }
-      ]
-    },
-    {
-      "id": "f53b3fc1a471f86a",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T20:53:24+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "of A.I. Regulation and Calls Out Anthropic\u2019s CEO - The New York Times Trump Rejects Talk of A.I. Regulation and Calls Out",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.34,
-      "change": 5.17,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
-      "image": null,
-      "headline": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic\u2019s CEO - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        }
-      ]
-    },
-    {
-      "id": "3a803f8f6161f990",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T20:28:00+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "The Daily Beast",
-      "type": "news",
-      "quote": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - The Daily Beast Trump Hit With Fresh 25th",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.85,
-      "change": 2.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3BJMmIzSWkzVDFwdS1hWXRqZ3k2WUVoR3ZEMTFHODlzS19qLWlIeXg3WFR6X3BGV3J0bDJRbUhta0Y2eC0xTnBieUVyMklqcTctN3hNRTdCdi1KQ3gtNUItQlhUdTdscFJOd21Md2swSHQ3RjRnaGVnaXpGOWJzSmItcGM5LVo1YlAtOFRjNUJLYVc1SUU2ZzlmdEs2NldCYU1sN1F3?oc=5",
-      "image": null,
-      "headline": "Trump Hit With Fresh 25th Amendment Call After Truth Social Spiral on AI - The Daily Beast",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        }
-      ]
-    },
-    {
-      "id": "28ca8fa0752ce0b4",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T17:19:58+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "a Tricky Line on Tariffs as He Seeks Re-Election - The New York Times Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.34,
-      "change": 5.17,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNndBZEUyNi1QOXVSUzhhQUJ6dHA0R1NkbkxkYTNCY2Y3aFFUT3o1SnZRNXo0czkyVzBPZkV5UnR1QVNSaTd6NnYwbWJ1QTA3X0xrU2hhS3g4ZFQ5UE9UZ0N3WlZ4WUNmVDgwVEMtdHhFYWdpa3NQdmk2YlNmclFEZlBDNWRUcmJEN05jc3dtWXpyRnkwUjJv?oc=5",
-      "image": null,
-      "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        }
-      ]
-    },
-    {
-      "id": "0ef6a59d1edf45a2",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T17:16:16+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "qz.com",
-      "type": "news",
-      "quote": "Trump attacks Dario Amodei, rejects AI guardrails on Truth Social - qz.com Trump attacks Dario Amodei, rejects AI guardrails",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.89,
-      "change": 2.66,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVFlRUdSNzREaXN6bkVDMkZGLV9naXU2TnFOdWd2Q2NUZ3ZvX05ObEtNeDU0S0dKTW1HS2Yxd2V1UkthNDFvbElYeE5nbVA3M3NjM3JBcTFIRXJZYy0wT1RGUW5EeHowUTJaN0JjNlBKOWRLU2FSVjJmczRFTjZOUnNPVQ?oc=5",
-      "image": null,
-      "headline": "Trump attacks Dario Amodei, rejects AI guardrails on Truth Social - qz.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-14",
-          "c": 8.27
-        },
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.89
-        }
-      ]
-    },
-    {
-      "id": "fbe48fa143427842",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T15:49:23+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Smart President Is All That\u2019s Needed to Rein In A.I. - The New York Times Trump Says a Smart President Is All That\u2019s Needed to Rein",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 66.88,
-      "change": 0.47,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
-      "image": null,
-      "headline": "Trump Says a Smart President Is All That\u2019s Needed to Rein In A.I. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 65.27
-        },
-        {
-          "d": "08-18",
-          "c": 65.07
-        },
-        {
-          "d": "08-19",
-          "c": 65.96
-        },
-        {
-          "d": "08-20",
-          "c": 65.3
-        },
-        {
-          "d": "08-21",
-          "c": 65.69
-        },
-        {
-          "d": "08-24",
-          "c": 67.49
-        },
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        }
-      ]
-    },
-    {
-      "id": "6958dab7fcacaa67",
-      "date": "Mon, 14 Sep 2026",
-      "ts": "2026-09-14T15:15:22+00:00",
-      "date_display": "Sep 14, 2026",
-      "source": "NewsCord",
-      "type": "news",
-      "quote": "Rejects AI Guardrails, Slams Anthropic CEO Dario Amodei on Truth Social: how 33 outlets framed it - NewsCord Donald Trump Rejects",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.85,
-      "change": 2.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkItSXZNZklfSmgycmlyVHF3Z21HdjZJaTdSb1pYWG51dVoydXJ0WWUwNmkwd1AyeTBxZkNqbUREdnk3c3Q4ejhSczhiMWc5a1V3dUF3TmR1RUNHTlRXcDMzNzR3RGdmY2hkdHpkYnFnUzZkb1NmbnRUcjRvNWNNWjdBcVd6SF9XR2RfdlJYb3ltY1Rfb0tGekFOdWFWZXhOTUxrYXIxUVhKZ3Y3WjZRWEhJYmdGbUlx?oc=5",
-      "image": null,
-      "headline": "Donald Trump Rejects AI Guardrails, Slams Anthropic CEO Dario Amodei on Truth Social: how 33 outlets framed it - NewsCord",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        }
-      ]
     }
   ]
 }
