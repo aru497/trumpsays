@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-11-05T00:09:11.550291+00:00",
+  "updated_at": "2026-11-05T07:05:39.800935+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d8714e7093be9a51",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T05:56:59+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "BigGo Finance",
+      "type": "news",
+      "quote": "Trump Media Shifts $342 Million in Bitcoin to Crypto.com as DJT Stock",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fOU40VHpOSV9ueHJXaXJkYmJTZnBpdHpGNXMzejVLMEFwSzlyNUUxc0JxbUZqZnJ4ZTVxM29UUkdoQTIxbmZoS1N0UzVrQWY3U0JocHE1WHNSWjl6bFN3a3IwQjZSSG9WNVplYjVLOTAzVi1hb3c?oc=5",
+      "image": null,
+      "headline": "Trump Media Shifts $342 Million in Bitcoin to Crypto.com as DJT Stock Sinks to Record Low - BigGo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        }
+      ]
+    },
+    {
+      "id": "1a8d1c66850bc6cf",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T05:34:08+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "Trump Media moves $344M in Bitcoin amid stock p... - Pluang Trump",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1oUS13Sjd6bWhQRFVWejMwd0JfUzRpc1p1VFQybmoxcE90Y1otYml5QlRQanR2Ny1SaXlsRS1XeVMyd0dFR3hPV1NiSzQ5cXZGeWdLbGVycENWaUEtV2xIdTJ3dkFkNGl0ZHQ5Y3gyNlU4OFYxWlNiTF9mNDhqTGh0blFWQjN6UFczdmkxdHB4VkdnOUE?oc=5",
+      "image": null,
+      "headline": "Trump Media moves $344M in Bitcoin amid stock p... - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        }
+      ]
+    },
+    {
+      "id": "19b70413700535d0",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T02:40:10+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "Facebook",
+      "type": "news",
+      "quote": "scored staggering victories in the midterm elections. - Facebook President Trump\u2019s social media company recorded one of its",
+      "company": "Facebook",
+      "ticker": "META",
+      "price": 630.0,
+      "change": 1.44,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHVhWHgxdldnQTZnc0tkdEVGbjZ3Q3Vaalp4UUgzZ3lwQS1VNGRXaGgxYUVidjhPUDd4S05vclItZDJ2NjJRcUV2cW9xMHYyTnFseVZwWjhILXpXY1djTVlJYXh1NEMwY3V4QU5oT0dfejA1d0dIZDlmOFZSM3JUcTFjeFNOZklhNTlqRzhFNEE0ZHd0VHBxNXVVZDlETUFnN1N6UVBuRkRGbG03akNwRXlsd0RERGhyRHRDd1lMYUZOUFJiYzFUTEJBNlVIQmdWQTZ3?oc=5",
+      "image": null,
+      "headline": "President Trump\u2019s social media company recorded one of its biggest daily market losses on Wednesday, a day after Democrats scored staggering victories in the midterm elections. - Facebook",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 738.88
+        },
+        {
+          "d": "10-07",
+          "c": 721.31
+        },
+        {
+          "d": "10-08",
+          "c": 720.89
+        },
+        {
+          "d": "10-09",
+          "c": 718.67
+        },
+        {
+          "d": "10-12",
+          "c": 742.96
+        },
+        {
+          "d": "10-13",
+          "c": 762.5
+        },
+        {
+          "d": "10-14",
+          "c": 737.54
+        },
+        {
+          "d": "10-15",
+          "c": 736.72
+        },
+        {
+          "d": "10-16",
+          "c": 709.33
+        },
+        {
+          "d": "10-19",
+          "c": 705.44
+        },
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 697.52
+        },
+        {
+          "d": "10-22",
+          "c": 648.85
+        },
+        {
+          "d": "10-23",
+          "c": 642.62
+        },
+        {
+          "d": "10-26",
+          "c": 630.56
+        },
+        {
+          "d": "10-27",
+          "c": 620.19
+        },
+        {
+          "d": "10-28",
+          "c": 612.49
+        },
+        {
+          "d": "10-29",
+          "c": 624.52
+        },
+        {
+          "d": "10-30",
+          "c": 614.99
+        },
+        {
+          "d": "11-02",
+          "c": 606.73
+        },
+        {
+          "d": "11-03",
+          "c": 621.03
+        },
+        {
+          "d": "11-04",
+          "c": 630.0
+        }
+      ]
+    },
+    {
+      "id": "09cc63758c0d428d",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T01:58:06+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "DJT Stock Crashes 25% To Record Low After Democratic Midterm",
+      "company": "Djt",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQejlnYnRxU09MeVR5Wl9Dc2tDbF9TMTNfSXRBTU5xM1U1bWpwQ29Tb2tEQU9ScDdJUlFuaHFTTE5BaWNwZWRXaDF0SnBUVnVib3d4M0RuR2dGVmwtTVBTblZTTlduVFV4VHdjYVgzZTd6enN5UkFOaTFzRG11RTVMMmxWeGZnVUtMYWNfVWhmaHVKaEowbFhmNVFmTEhIVy1EdTBVSVJXcEp0eXQ4ektVNjMycUlGWkFNYVVNY2xNbmsyZ3lFWkVPUXFUZ3hIa1ZSQlVqRU1Yb05TR0JiVnJ2NDF1emw0MDAxVWx5R1FVdXZwQy1MeHJjOEpjSGw?oc=5",
+      "image": null,
+      "headline": "DJT Stock Crashes 25% To Record Low After Democratic Midterm Rout: Trump\u2019s Fortune Reportedly Shrinks By $168M - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        }
+      ]
+    },
     {
       "id": "29b72b447aa4c90f",
       "date": "Wed, 04 Nov 2026",
@@ -1403,6 +1835,222 @@
         {
           "d": "11-04",
           "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "eb61fce24de47cfe",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T12:52:17+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more - CNBC Stocks making the",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 385.19,
+      "change": -3.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVRCTEpta2pxRWE4NkRKdlVFb3hOZmJReEp5MDRSRTRXVEZUdi1qMnlJT3o0aURDNFBaVy1Hc09JOWJ3ZW1uZWFNVzVxNGdWck80TW1VVG45MzJSQXkzcTBSaS1nYUZqRW1UOENuZnlTSkJESFJja3N3WE43NTZYcWVQcjJTTW95ckt5Z1M4WGhlQTJqOXhDcm12TG4?oc=5",
+      "image": null,
+      "headline": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 380.68
+        },
+        {
+          "d": "10-07",
+          "c": 377.81
+        },
+        {
+          "d": "10-08",
+          "c": 375.0
+        },
+        {
+          "d": "10-09",
+          "c": 382.7
+        },
+        {
+          "d": "10-12",
+          "c": 378.03
+        },
+        {
+          "d": "10-13",
+          "c": 375.23
+        },
+        {
+          "d": "10-14",
+          "c": 367.16
+        },
+        {
+          "d": "10-15",
+          "c": 362.44
+        },
+        {
+          "d": "10-16",
+          "c": 354.72
+        },
+        {
+          "d": "10-19",
+          "c": 368.06
+        },
+        {
+          "d": "10-20",
+          "c": 373.71
+        },
+        {
+          "d": "10-21",
+          "c": 386.47
+        },
+        {
+          "d": "10-22",
+          "c": 374.58
+        },
+        {
+          "d": "10-23",
+          "c": 372.22
+        },
+        {
+          "d": "10-26",
+          "c": 391.62
+        },
+        {
+          "d": "10-27",
+          "c": 407.46
+        },
+        {
+          "d": "10-28",
+          "c": 404.22
+        },
+        {
+          "d": "10-29",
+          "c": 403.3
+        },
+        {
+          "d": "10-30",
+          "c": 399.81
+        },
+        {
+          "d": "11-02",
+          "c": 403.82
+        },
+        {
+          "d": "11-03",
+          "c": 398.5
+        },
+        {
+          "d": "11-04",
+          "c": 385.19
+        }
+      ]
+    },
+    {
+      "id": "7d0818d9c5287f12",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T12:52:17+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more - CNBC Stocks",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVRCTEpta2pxRWE4NkRKdlVFb3hOZmJReEp5MDRSRTRXVEZUdi1qMnlJT3o0aURDNFBaVy1Hc09JOWJ3ZW1uZWFNVzVxNGdWck80TW1VVG45MzJSQXkzcTBSaS1nYUZqRW1UOENuZnlTSkJESFJja3N3WE43NTZYcWVQcjJTTW95ckt5Z1M4WGhlQTJqOXhDcm12TG4?oc=5",
+      "image": null,
+      "headline": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
         }
       ]
     },
@@ -38250,476 +38898,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVp1ZWNiQjgzc1NsajJpbTVRakI1OWhBNXZOc2E0WWhiVDFCdkZ0OUYxY1dSYThDNFdzR1Y3dXBHbFpWNUhYOUl1ZDV4dE9fZ0c2VlU5MVZaazVGY01TZU8ybFh6ZWs0RVE3c3FzLUpIWFkzSXMybHlwVEFYT1FQemVTUXRjcDZrX2ptVzNobEh5UE9aWnRkTzN3b2RZc2R2TFZtazlRX01jeVp2UHB1SUU1MEZidjdBazNHbkhORQ?oc=5",
       "image": null,
       "headline": "Disney says Trump threats against reporters should prompt court to block FCC action - Reuters",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "0c97e933553cddca",
-      "date": "Thu, 17 Sep 2026",
-      "ts": "2026-09-17T18:10:32+00:00",
-      "date_display": "Sep 17, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "A global AI safety strategy depends on U.S.-China cooperation. They each see the other",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 132.25,
-      "change": 4.81,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/world/a-global-ai-safety-strategy-depends-on-u-s-china-cooperation-they-each-see-the-other-as-the-problem",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN-1024x703.jpg",
-      "headline": "A global AI safety strategy depends on U.S.-China cooperation. They each see the other as the problem",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-18",
-          "c": 92.52
-        },
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        },
-        {
-          "d": "08-24",
-          "c": 122.63
-        },
-        {
-          "d": "08-25",
-          "c": 126.83
-        },
-        {
-          "d": "08-26",
-          "c": 123.19
-        },
-        {
-          "d": "08-27",
-          "c": 137.4
-        },
-        {
-          "d": "08-28",
-          "c": 127.31
-        },
-        {
-          "d": "08-31",
-          "c": 132.94
-        },
-        {
-          "d": "09-01",
-          "c": 124.88
-        },
-        {
-          "d": "09-02",
-          "c": 123.19
-        },
-        {
-          "d": "09-03",
-          "c": 144.82
-        },
-        {
-          "d": "09-04",
-          "c": 142.8
-        },
-        {
-          "d": "09-08",
-          "c": 136.52
-        },
-        {
-          "d": "09-09",
-          "c": 132.7
-        },
-        {
-          "d": "09-10",
-          "c": 128.56
-        },
-        {
-          "d": "09-11",
-          "c": 130.97
-        },
-        {
-          "d": "09-14",
-          "c": 136.94
-        },
-        {
-          "d": "09-15",
-          "c": 129.6
-        },
-        {
-          "d": "09-16",
-          "c": 126.18
-        },
-        {
-          "d": "09-17",
-          "c": 132.25
-        }
-      ]
-    },
-    {
-      "id": "f33049d6853927cd",
-      "date": "Thu, 17 Sep 2026",
-      "ts": "2026-09-17T16:43:00+00:00",
-      "date_display": "Sep 17, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Exxon Nears Venezuelan Oil Deal, After Trump Says U.S. Secured",
-      "company": "Exxon",
-      "ticker": "XOM",
-      "price": 162.71,
-      "change": -0.37,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVE90alRMSTg1MkJoU0lONG1lZkJFTjdBRTM3aXRSM01jTFYzQ1c2b19PWTh2TGNlWkFrQXlHN0NtVVF3NWFDd3Y5M3JiQ0RnTUhlZFYtQWt1Ty1oS2pSVUNoX2hVNlhSN1dNaG1jNzU2RW9pYW9FZzFVVExYRlM2UHpIN18tMkdlT3F0M0xtUnJQdW5BMDBGZzZnMHZfRFpxa1VmTXZEVk9LR3o0bldrbVVsajRfTFRNeS1BeHluemZQUDlTZHI0dUx0VVdtNUhJYnROWlpyZVhPc2RRTUE?oc=5",
-      "image": null,
-      "headline": "Exxon Nears Venezuelan Oil Deal, After Trump Says U.S. Secured 65 Billion Barrel Agreement With Country - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-18",
-          "c": 165.56
-        },
-        {
-          "d": "08-19",
-          "c": 164.77
-        },
-        {
-          "d": "08-20",
-          "c": 166.15
-        },
-        {
-          "d": "08-21",
-          "c": 165.11
-        },
-        {
-          "d": "08-24",
-          "c": 164.05
-        },
-        {
-          "d": "08-25",
-          "c": 160.64
-        },
-        {
-          "d": "08-26",
-          "c": 158.19
-        },
-        {
-          "d": "08-27",
-          "c": 156.44
-        },
-        {
-          "d": "08-28",
-          "c": 156.71
-        },
-        {
-          "d": "08-31",
-          "c": 160.95
-        },
-        {
-          "d": "09-01",
-          "c": 164.55
-        },
-        {
-          "d": "09-02",
-          "c": 164.15
-        },
-        {
-          "d": "09-03",
-          "c": 162.21
-        },
-        {
-          "d": "09-04",
-          "c": 159.47
-        },
-        {
-          "d": "09-08",
-          "c": 160.66
-        },
-        {
-          "d": "09-09",
-          "c": 164.23
-        },
-        {
-          "d": "09-10",
-          "c": 165.23
-        },
-        {
-          "d": "09-11",
-          "c": 165.99
-        },
-        {
-          "d": "09-14",
-          "c": 165.08
-        },
-        {
-          "d": "09-15",
-          "c": 169.32
-        },
-        {
-          "d": "09-16",
-          "c": 163.32
-        },
-        {
-          "d": "09-17",
-          "c": 162.71
-        }
-      ]
-    },
-    {
-      "id": "9de2e1124184ac7d",
-      "date": "Wed, 16 Sep 2026",
-      "ts": "2026-09-16T17:19:49+00:00",
-      "date_display": "Sep 16, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out",
-      "company": "Arm",
-      "ticker": "ARM",
-      "price": 241.4,
-      "change": -0.18,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-      "image": null,
-      "headline": "DOJ charges Russian agents with plotting attacks, including in US",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 271.43
-        },
-        {
-          "d": "08-18",
-          "c": 253.32
-        },
-        {
-          "d": "08-19",
-          "c": 249.34
-        },
-        {
-          "d": "08-20",
-          "c": 250.72
-        },
-        {
-          "d": "08-21",
-          "c": 243.32
-        },
-        {
-          "d": "08-24",
-          "c": 238.78
-        },
-        {
-          "d": "08-25",
-          "c": 241.56
-        },
-        {
-          "d": "08-26",
-          "c": 251.06
-        },
-        {
-          "d": "08-27",
-          "c": 255.21
-        },
-        {
-          "d": "08-28",
-          "c": 239.05
-        },
-        {
-          "d": "08-31",
-          "c": 241.91
-        },
-        {
-          "d": "09-01",
-          "c": 234.82
-        },
-        {
-          "d": "09-02",
-          "c": 234.86
-        },
-        {
-          "d": "09-03",
-          "c": 242.59
-        },
-        {
-          "d": "09-04",
-          "c": 252.09
-        },
-        {
-          "d": "09-08",
-          "c": 261.53
-        },
-        {
-          "d": "09-09",
-          "c": 264.23
-        },
-        {
-          "d": "09-10",
-          "c": 254.18
-        },
-        {
-          "d": "09-11",
-          "c": 264.79
-        },
-        {
-          "d": "09-14",
-          "c": 239.01
-        },
-        {
-          "d": "09-15",
-          "c": 241.83
-        },
-        {
-          "d": "09-16",
-          "c": 241.4
-        }
-      ]
-    },
-    {
-      "id": "bef0317c74294d35",
-      "date": "Wed, 16 Sep 2026",
-      "ts": "2026-09-16T17:19:49+00:00",
-      "date_display": "Sep 16, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out",
-      "company": "Arm",
-      "ticker": "ARM",
-      "price": 243.98,
-      "change": 0.89,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-      "image": null,
-      "headline": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 271.43
-        },
-        {
-          "d": "08-18",
-          "c": 253.32
-        },
-        {
-          "d": "08-19",
-          "c": 249.34
-        },
-        {
-          "d": "08-20",
-          "c": 250.72
-        },
-        {
-          "d": "08-21",
-          "c": 243.32
-        },
-        {
-          "d": "08-24",
-          "c": 238.78
-        },
-        {
-          "d": "08-25",
-          "c": 241.56
-        },
-        {
-          "d": "08-26",
-          "c": 251.06
-        },
-        {
-          "d": "08-27",
-          "c": 255.21
-        },
-        {
-          "d": "08-28",
-          "c": 239.05
-        },
-        {
-          "d": "08-31",
-          "c": 241.91
-        },
-        {
-          "d": "09-01",
-          "c": 234.82
-        },
-        {
-          "d": "09-02",
-          "c": 234.86
-        },
-        {
-          "d": "09-03",
-          "c": 242.59
-        },
-        {
-          "d": "09-04",
-          "c": 252.09
-        },
-        {
-          "d": "09-08",
-          "c": 261.53
-        },
-        {
-          "d": "09-09",
-          "c": 264.23
-        },
-        {
-          "d": "09-10",
-          "c": 254.18
-        },
-        {
-          "d": "09-11",
-          "c": 264.79
-        },
-        {
-          "d": "09-14",
-          "c": 239.01
-        },
-        {
-          "d": "09-15",
-          "c": 241.83
-        },
-        {
-          "d": "09-16",
-          "c": 243.98
-        }
-      ]
-    },
-    {
-      "id": "efabd9b1690d8397",
-      "date": "Wed, 16 Sep 2026",
-      "ts": "2026-09-16T10:02:05+00:00",
-      "date_display": "Sep 16, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "OpenAI's Sam Altman says world 'right to be afraid' but 'should",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
-      "image": null,
-      "headline": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms - BBC",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "45bdc5e03cbeb04e",
-      "date": "Wed, 16 Sep 2026",
-      "ts": "2026-09-16T10:02:05+00:00",
-      "date_display": "Sep 16, 2026",
-      "source": "bbc.com",
-      "type": "news",
-      "quote": "OpenAI boss says world 'right to be afraid' but should trust AI",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
-      "image": null,
-      "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms - bbc.com",
       "channel": "News",
       "series": null
     }
