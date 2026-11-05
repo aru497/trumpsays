@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-11-04T18:59:03.203958+00:00",
+  "updated_at": "2026-11-05T00:09:11.550291+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "29b72b447aa4c90f",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T22:37:45+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Media\u2019s Shares Fall to Record Low After Midterms - The New York Times Trump Media\u2019s Shares Fall to Record Low After",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 66.5,
+      "change": -0.92,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
+      "image": null,
+      "headline": "Trump Media\u2019s Shares Fall to Record Low After Midterms - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 63.84
+        },
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        }
+      ]
+    },
+    {
+      "id": "b7d14ad36823b560",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T22:37:45+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump Media\u2019s Shares Fall to Record Low After Midterms - The New York",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
+      "image": null,
+      "headline": "Trump Media\u2019s Shares Fall to Record Low After Midterms - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        }
+      ]
+    },
+    {
+      "id": "8d16e449bc197cc5",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T21:44:45+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "and Obama advisor Rahm Emanuel about what Democrats' strategy should be, now that they'll soon control both houses of",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 142.54,
+      "change": 5.09,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/11/04/nx-s1-6029387/rahm-emanuel-maps-out-a-vision-for-what-democrats-can-achieve-after-taking-congress",
+      "image": null,
+      "headline": "Rahm Emanuel maps out a vision for what Democrats can achieve after taking Congress",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 164.55
+        },
+        {
+          "d": "10-07",
+          "c": 153.37
+        },
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.34
+        },
+        {
+          "d": "10-12",
+          "c": 152.68
+        },
+        {
+          "d": "10-13",
+          "c": 152.18
+        },
+        {
+          "d": "10-14",
+          "c": 143.24
+        },
+        {
+          "d": "10-15",
+          "c": 151.29
+        },
+        {
+          "d": "10-16",
+          "c": 136.83
+        },
+        {
+          "d": "10-19",
+          "c": 136.02
+        },
+        {
+          "d": "10-20",
+          "c": 142.72
+        },
+        {
+          "d": "10-21",
+          "c": 153.48
+        },
+        {
+          "d": "10-22",
+          "c": 145.8
+        },
+        {
+          "d": "10-23",
+          "c": 146.01
+        },
+        {
+          "d": "10-26",
+          "c": 139.82
+        },
+        {
+          "d": "10-27",
+          "c": 141.4
+        },
+        {
+          "d": "10-28",
+          "c": 145.16
+        },
+        {
+          "d": "10-29",
+          "c": 141.62
+        },
+        {
+          "d": "10-30",
+          "c": 130.51
+        },
+        {
+          "d": "11-02",
+          "c": 130.76
+        },
+        {
+          "d": "11-03",
+          "c": 135.63
+        },
+        {
+          "d": "11-04",
+          "c": 142.54
+        }
+      ]
+    },
     {
       "id": "93292219a2c998ac",
       "date": "Wed, 04 Nov 2026",
@@ -863,6 +1187,114 @@
         {
           "d": "11-04",
           "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "d2968bcc37c50a57",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T13:46:00+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Sinks 11% as Democrats Win Control of Congress; Rumble",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjJRMFZNNkphY2EwUEQ0ZHVJV3Fra1ZnZ1N1QVRUbHNrTGJ3ZkJNdlJuanBOZFVUWk9PeV9uREJ3UmthSU1HdGhkZmFvYzlobnBwLVN3aGtzZWdsbEk4Qm9uQXpUT0FRSHhxU25nVmhMUU1welRtdkkyZEZqR2hxY1FVX2ZqNXYxMVRLb0JTMUdvdzEtZV9neGFRMzF1X1BNTDFfbWJDOHN5V3FRTHA0NXpUSWtxWDM5?oc=5",
+      "image": null,
+      "headline": "Trump Media Sinks 11% as Democrats Win Control of Congress; Rumble Ticks Up - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
         }
       ]
     },
@@ -38288,167 +38720,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
       "image": null,
       "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms - bbc.com",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "e089edc0af34add1",
-      "date": "Wed, 16 Sep 2026",
-      "ts": "2026-09-16T10:02:05+00:00",
-      "date_display": "Sep 16, 2026",
-      "source": "BBC",
-      "type": "news",
-      "quote": "OpenAI boss says world 'right to be afraid' but should trust AI",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
-      "image": null,
-      "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms - BBC",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "1e5edc2e738eff96",
-      "date": "Wed, 16 Sep 2026",
-      "ts": "2026-09-16T09:17:53+00:00",
-      "date_display": "Sep 16, 2026",
-      "source": "shattered.io",
-      "type": "news",
-      "quote": "Trump Calls AI Danger a \"Hoax\" in Truth Social Posts - shattered.io Trump Calls AI Danger a \"Hoax\" in",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.58,
-      "change": -3.05,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zOUJjSkY0cUpOTmZQd2FaYTMteWRPWmducmhPaDI4ZHhHSXB6Q3EwTlpBai1iWHd6Tk45dHBpS1JLeUJfdC0yclVlUXZrWE1Ya2F2NGpibF8zLVJzdnlFa0hPUQ?oc=5",
-      "image": null,
-      "headline": "Trump Calls AI Danger a \"Hoax\" in Truth Social Posts - shattered.io",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-17",
-          "c": 8.1
-        },
-        {
-          "d": "08-18",
-          "c": 8.06
-        },
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        }
-      ]
-    },
-    {
-      "id": "37c8e6c5c3a19582",
-      "date": "Tue, 15 Sep 2026",
-      "ts": "2026-09-15T22:45:59+00:00",
-      "date_display": "Sep 15, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "News Wrap: Democrats block crypto bill, demand limits on Trump's investments In our",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-democrats-block-crypto-bill-demand-limits-on-trumps-investments",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapcrypto-1024x666.jpg",
-      "headline": "News Wrap: Democrats block crypto bill, demand limits on Trump's investments",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "e1b4ef8396b07372",
-      "date": "Tue, 15 Sep 2026",
-      "ts": "2026-09-15T14:22:24+00:00",
-      "date_display": "Sep 15, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "WATCH LIVE: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-live-senate-expected-to-vote-on-cryptocurrency-regulation",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-02T022919Z_967557510_RC2NANAIJWKA_RTRMADP_3_USA-DAILYLIFE-1024x683.jpg",
-      "headline": "WATCH LIVE: Senate Democrats block cryptocurrency bill, demanding more limits on Trump's investments",
       "channel": "News",
       "series": null
     }
