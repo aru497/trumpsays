@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-11-05T15:40:04.595442+00:00",
+  "updated_at": "2026-11-05T21:39:17.730728+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5409f9d537af0af4",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T21:10:00+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "Stock Titan",
+      "type": "news",
+      "quote": "Trump Media\u2019s proposed merger with a fusion company could give each",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.02,
+      "change": -10.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFNmNGkwamZhNm11dVFmUHpqT0p3dVg0WHFFMUpjZ3AwX3hvcnJNeTBiWlc2cmxrUVZiVnJJMG83OVR5QTBvRURsZDl3TnBLaXBObEhNdlIzT3czTGd3WVctX0RQN1E1QlVrTm1HOU5oWm54NnJEbFYwMG9JdS12QWRRY3pfX0M4LUZ2Y3BzWFhxMllKbmZ0Rjl5M2gyNHdMNGpnWkRITm01R1hieDE1aEdn?oc=5",
+      "image": null,
+      "headline": "Trump Media\u2019s proposed merger with a fusion company could give each side\u2019s shareholders about half - Stock Titan",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        }
+      ]
+    },
+    {
+      "id": "3aa41533d78eed52",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T21:07:58+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "BGNES",
+      "type": "news",
+      "quote": "Truth Social Shares Continue to Slide Following Trump's Election Defeat",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.02,
+      "change": -10.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOajRVTXRRd1ZmY1ZVTUF1R1NFeWUzSGdTanZxSGdidWVrN1BGZi1RMGNPQm9TOUNfVkJUUmpYLUM2XzIzUWZKVjZQSEFTYXdFWktYUktLeWdkWHpRRG1rLTduNHVVb2lLYzZkVHoxLTRaZFQ0T2hheUw1QzRVMzhidDlxUGtZQjNhSGY2Ykh3MmlpdlJYekNUN0JUS1RCUWxjNEE?oc=5",
+      "image": null,
+      "headline": "Truth Social Shares Continue to Slide Following Trump's Election Defeat - BGNES",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        }
+      ]
+    },
+    {
+      "id": "96f17664aca042ac",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T19:45:02+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "Futurism",
+      "type": "news",
+      "quote": "Truth Social's Stock Price Can't Seem to Stop Falling After Trump's",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.02,
+      "change": -10.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGlsTGVNbmw0bFlycXB6dEJZeEx3dUduRC1YWi15UzU2VkdTdGF2ajNsSmtEZ3F5c1hVbVdTUjcyYUYyOUhYeWduX2dxMFZFNmpkTzhlemhVYVhLWTV5NzM2VTFGeDBxWHkzVm03ZDI4Wk8wbmhLVXpHUkp0QjlxSHk5Yw?oc=5",
+      "image": null,
+      "headline": "Truth Social's Stock Price Can't Seem to Stop Falling After Trump's Brutal Defeat in the Midterms - Futurism",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        }
+      ]
+    },
+    {
+      "id": "056e4ce01a3952a5",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T18:15:19+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "Pluang",
+      "type": "news",
+      "quote": "Trump Media stock plunges 24.5% amid Democratic Congress win, hitting",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.02,
+      "change": -10.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWp4QWlGejcxWGsxWlpyTEN2ekJ2Q0dBVFdhMHBLYUtYYTBzalpDdjdJM2hkb3o0N3VPdERhRFg4Tm90aVcwRzgwSGZCb1pfaFdBOHV2Ul9Da2xjTUpGclZTZDNVU2QxVHA5TkMzdFJpVUdMNWc3VTRRM3ZVU05PVDZkbmFsb3c?oc=5",
+      "image": null,
+      "headline": "Trump Media stock plunges 24.5% amid Democratic Congress win, hitting record lows with no clear company news. - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        }
+      ]
+    },
+    {
+      "id": "1b2510b1fe1bec6a",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T17:23:15+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media Just Moved 4,259 Bitcoin. Is It About to Sell? - Yahoo",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.02,
+      "change": -10.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclZlNUxRVWVldm05ZDBJckpmUkZsYXowd0FmVWNGc1FhX0NqLU9rajdKMVM2NGJ3bHh1c0x5VXhsaDZKRmJfZklRZXpraHh0M1hhOWtfeDRVdHZFZjBzVTJZSEFGVks2MDhLM21OcTN2eklCTGdXYmRDcHJUMHUwQnotSVlZR2FFd3B5ZS1DdFgtVTA?oc=5",
+      "image": null,
+      "headline": "Trump Media Just Moved 4,259 Bitcoin. Is It About to Sell? - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        }
+      ]
+    },
     {
       "id": "ec23a83ba96f05be",
       "date": "Thu, 05 Nov 2026",
@@ -38364,546 +38904,6 @@
       "headline": "U.S.-Saudi nuclear power deal faces pushback over potential weapons risks",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "3097b0d3b0d67b98",
-      "date": "Fri, 18 Sep 2026",
-      "ts": "2026-09-18T21:59:51+00:00",
-      "date_display": "Sep 18, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump announces historic deal with Greenland, Denmark - Fox Business Trump announces historic deal with Greenland,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 57.74,
-      "change": -1.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ejJHelBGbnJVTkYwMG15bVFSa1ptLWpCSGxwZTlDckMwbHpRTkVKd3l2eGpwWlViX3ZOenNLMnI0ektOamFqTHBLSG9uOUtlTFYzMVhBdzZzVXc?oc=5",
-      "image": null,
-      "headline": "Trump announces historic deal with Greenland, Denmark - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-19",
-          "c": 60.09
-        },
-        {
-          "d": "08-20",
-          "c": 60.15
-        },
-        {
-          "d": "08-21",
-          "c": 60.75
-        },
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        }
-      ]
-    },
-    {
-      "id": "ffa85bc4efd43610",
-      "date": "Fri, 18 Sep 2026",
-      "ts": "2026-09-18T15:21:25+00:00",
-      "date_display": "Sep 18, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "from senators about Pentagon briefing on U.S. defense strategy Tensions are mounting between the Pentagon and Congress",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 151.87,
-      "change": 14.84,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/bipartisan-criticism-from-senators-about-pentagon-briefing-on-u-s-defense-strategy",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-08-27T111728Z_779380524_RC2Z6NACUF4I_RTRMADP_3_NATO-USA-DEFENCE-1024x684.jpg",
-      "headline": "Bipartisan criticism from senators about Pentagon briefing on U.S. defense strategy",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-19",
-          "c": 104.25
-        },
-        {
-          "d": "08-20",
-          "c": 112.39
-        },
-        {
-          "d": "08-21",
-          "c": 119.25
-        },
-        {
-          "d": "08-24",
-          "c": 122.63
-        },
-        {
-          "d": "08-25",
-          "c": 126.83
-        },
-        {
-          "d": "08-26",
-          "c": 123.19
-        },
-        {
-          "d": "08-27",
-          "c": 137.4
-        },
-        {
-          "d": "08-28",
-          "c": 127.31
-        },
-        {
-          "d": "08-31",
-          "c": 132.94
-        },
-        {
-          "d": "09-01",
-          "c": 124.88
-        },
-        {
-          "d": "09-02",
-          "c": 123.19
-        },
-        {
-          "d": "09-03",
-          "c": 144.82
-        },
-        {
-          "d": "09-04",
-          "c": 142.8
-        },
-        {
-          "d": "09-08",
-          "c": 136.52
-        },
-        {
-          "d": "09-09",
-          "c": 132.7
-        },
-        {
-          "d": "09-10",
-          "c": 128.56
-        },
-        {
-          "d": "09-11",
-          "c": 130.97
-        },
-        {
-          "d": "09-14",
-          "c": 136.94
-        },
-        {
-          "d": "09-15",
-          "c": 129.6
-        },
-        {
-          "d": "09-16",
-          "c": 126.18
-        },
-        {
-          "d": "09-17",
-          "c": 132.25
-        },
-        {
-          "d": "09-18",
-          "c": 151.87
-        }
-      ]
-    },
-    {
-      "id": "109bdbfadf0b3feb",
-      "date": "Fri, 18 Sep 2026",
-      "ts": "2026-09-18T09:00:00+00:00",
-      "date_display": "Sep 18, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Google is helping write AI chatbot safety laws \u2014 while pushing",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 347.33,
-      "change": 1.3,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "image": null,
-      "headline": "Google is helping write AI chatbot safety laws \u2014 while pushing for loopholes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-18",
-          "c": 343.98
-        },
-        {
-          "d": "08-19",
-          "c": 344.5
-        },
-        {
-          "d": "08-20",
-          "c": 340.45
-        },
-        {
-          "d": "08-21",
-          "c": 344.6
-        },
-        {
-          "d": "08-24",
-          "c": 347.84
-        },
-        {
-          "d": "08-25",
-          "c": 346.74
-        },
-        {
-          "d": "08-26",
-          "c": 341.78
-        },
-        {
-          "d": "08-27",
-          "c": 340.43
-        },
-        {
-          "d": "08-28",
-          "c": 346.37
-        },
-        {
-          "d": "08-31",
-          "c": 339.13
-        },
-        {
-          "d": "09-01",
-          "c": 334.8
-        },
-        {
-          "d": "09-02",
-          "c": 336.9
-        },
-        {
-          "d": "09-03",
-          "c": 342.26
-        },
-        {
-          "d": "09-04",
-          "c": 338.46
-        },
-        {
-          "d": "09-08",
-          "c": 338.36
-        },
-        {
-          "d": "09-09",
-          "c": 330.65
-        },
-        {
-          "d": "09-10",
-          "c": 332.6
-        },
-        {
-          "d": "09-11",
-          "c": 338.5
-        },
-        {
-          "d": "09-14",
-          "c": 349.39
-        },
-        {
-          "d": "09-15",
-          "c": 344.98
-        },
-        {
-          "d": "09-16",
-          "c": 342.87
-        },
-        {
-          "d": "09-17",
-          "c": 347.33
-        }
-      ]
-    },
-    {
-      "id": "47495c1a3ea8d0dd",
-      "date": "Fri, 18 Sep 2026",
-      "ts": "2026-09-18T09:00:00+00:00",
-      "date_display": "Sep 18, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "How Google is drafting AI chatbot laws around the country As states",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 350.36,
-      "change": 0.87,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "image": null,
-      "headline": "How Google is drafting AI chatbot laws around the country",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-19",
-          "c": 344.5
-        },
-        {
-          "d": "08-20",
-          "c": 340.45
-        },
-        {
-          "d": "08-21",
-          "c": 344.6
-        },
-        {
-          "d": "08-24",
-          "c": 347.84
-        },
-        {
-          "d": "08-25",
-          "c": 346.74
-        },
-        {
-          "d": "08-26",
-          "c": 341.78
-        },
-        {
-          "d": "08-27",
-          "c": 340.43
-        },
-        {
-          "d": "08-28",
-          "c": 346.37
-        },
-        {
-          "d": "08-31",
-          "c": 339.13
-        },
-        {
-          "d": "09-01",
-          "c": 334.8
-        },
-        {
-          "d": "09-02",
-          "c": 336.9
-        },
-        {
-          "d": "09-03",
-          "c": 342.26
-        },
-        {
-          "d": "09-04",
-          "c": 338.46
-        },
-        {
-          "d": "09-08",
-          "c": 338.36
-        },
-        {
-          "d": "09-09",
-          "c": 330.65
-        },
-        {
-          "d": "09-10",
-          "c": 332.6
-        },
-        {
-          "d": "09-11",
-          "c": 338.5
-        },
-        {
-          "d": "09-14",
-          "c": 349.39
-        },
-        {
-          "d": "09-15",
-          "c": 344.98
-        },
-        {
-          "d": "09-16",
-          "c": 342.87
-        },
-        {
-          "d": "09-17",
-          "c": 347.33
-        },
-        {
-          "d": "09-18",
-          "c": 350.36
-        }
-      ]
-    },
-    {
-      "id": "5a066f1aac2f7481",
-      "date": "Fri, 18 Sep 2026",
-      "ts": "2026-09-18T01:16:45+00:00",
-      "date_display": "Sep 18, 2026",
-      "source": "Campaign for Accountability",
-      "type": "news",
-      "quote": "Watchdogs Sue Trump Admin Over \u201cTextbook Pay to Play\u201d Truth Social $100K-a-Month Scheme - Campaign for Accountability",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.8,
-      "change": 1.38,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlNyMDlRMVBYaS1NUWxpdjU1clhNZWVjbzB3eWZZalZuWlZIMGVwaEc0REZNRmNEeWhaY3QydDZoYWZ6MDFYZExFYU41S0c1ZEp3ZFRya2J6UzZtdHRnMmw1dEtIRllrSU5tZXZqVFpGYTdJa20zRURUSldudFB3V1puNm9XaXZYV3NaakJ3Z0xqbXE3T2hFaE1wQWh2ZnkwQ1U4VnBxVm9xT1pzSHRZSVBDZml5Q2tqV05WYkp2N1U?oc=5",
-      "image": null,
-      "headline": "Watchdogs Sue Trump Admin Over \u201cTextbook Pay to Play\u201d Truth Social $100K-a-Month Scheme - Campaign for Accountability",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-19",
-          "c": 8.35
-        },
-        {
-          "d": "08-20",
-          "c": 8.51
-        },
-        {
-          "d": "08-21",
-          "c": 9.1
-        },
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.8
-        }
-      ]
     }
   ]
 }
