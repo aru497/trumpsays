@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T21:39:17.730728+00:00",
+  "updated_at": "2026-11-06T01:52:43.989944+00:00",
   "count": 400,
   "mentions": [
     {
@@ -793,6 +793,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1oUS13Sjd6bWhQRFVWejMwd0JfUzRpc1p1VFQybmoxcE90Y1otYml5QlRQanR2Ny1SaXlsRS1XeVMyd0dFR3hPV1NiSzQ5cXZGeWdLbGVycENWaUEtV2xIdTJ3dkFkNGl0ZHQ5Y3gyNlU4OFYxWlNiTF9mNDhqTGh0blFWQjN6UFczdmkxdHB4VkdnOUE?oc=5",
       "image": null,
       "headline": "Trump Media moves $344M in Bitcoin amid stock p... - Pluang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-06",
+          "c": 8.65
+        },
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        }
+      ]
+    },
+    {
+      "id": "9318e957c51c8c27",
+      "date": "Thu, 05 Nov 2026",
+      "ts": "2026-11-05T04:11:00+00:00",
+      "date_display": "Nov 05, 2026",
+      "source": "CoinDesk",
+      "type": "news",
+      "quote": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.49,
+      "change": -24.54,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2JhaWVYSkpWdGxJcWdZS2U2UnJuOXNRNGFQa0M2ZGV1c0E1RmtUaktXZHg4R28xVGNobkV1YkZMLUVuXzk3QTd0LWxHaE1ZeFpmVUx2dmtIUlRDUDN4cl95V2RlOWgxX0p2WUE1d2NkQjZ0WWZlcFQ1M1pvQnBtMVZoMklQWFdXemtYaDNReG5KWERPM1ZobFJ3YzZqQTZqOEtPd1dnRkNJM1VmSlFHcHFUNkZ5emctS29CekU0RQ?oc=5",
+      "image": null,
+      "headline": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show - CoinDesk",
       "channel": "News",
       "series": [
         {
@@ -38885,25 +38993,6 @@
           "c": 70.21
         }
       ]
-    },
-    {
-      "id": "e55c9a27f94eb12f",
-      "date": "Fri, 18 Sep 2026",
-      "ts": "2026-09-18T22:35:49+00:00",
-      "date_display": "Sep 18, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Democratic representatives introduced a resolution to block the Trump administration's new civilian nuclear agreement",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/u-s-saudi-nuclear-power-deal-faces-pushback-over-potential-weapons-risks",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/saudideal-1024x683.jpg",
-      "headline": "U.S.-Saudi nuclear power deal faces pushback over potential weapons risks",
-      "channel": "News",
-      "series": null
     }
   ]
 }
