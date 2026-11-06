@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-06T08:41:08.901218+00:00",
+  "updated_at": "2026-11-06T16:26:35.922868+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f061be91a3bbe782",
+      "date": "Fri, 06 Nov 2026",
+      "ts": "2026-11-06T13:05:15+00:00",
+      "date_display": "Nov 06, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump Media\u2019s investors lost $2.2 billion while Trump holds $460",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.0,
+      "change": -0.5,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGkzZG4yU1c4YThoQTduQWZQMlBJREw3LW8tYkd2Wnl4c29kRXZjblRCcWtCdzFuak8zVEE3Ump5WkJwajZRRV91bUhtN2QtYjNHemh6MjZMZzZ6ck9TNVFrQ2FhZWFaQTlXbkpYMDN3RnZWZ0h2Yzg2cnBfOFB3aVlILXhsUzhkeW9QY29yUWR0Mm9SN1NIUEVldzJDT1RWZmc4MlE3cXhkUHdndFRRcDZPYktSenhnRzhQR1dkSDNQV0JLMEdpenZnVHhUQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media\u2019s investors lost $2.2 billion while Trump holds $460 million stake - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 4.0
+        }
+      ]
+    },
+    {
+      "id": "a229714690fcf830",
+      "date": "Fri, 06 Nov 2026",
+      "ts": "2026-11-06T11:30:01+00:00",
+      "date_display": "Nov 06, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Outside groups urge congressional Dems to target corporate interests over Trump - CNBC Outside groups urge",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 157.93,
+      "change": -0.01,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XOXpPVjVJSnU4YjY3Qjc0clNQdWxiYXJuZXVCaWt2TmlyM0FCSzFxUHJ1SExWNVlCVVRfaUx3bnBIMHF3cDE3aUd5Q2V0MnZKczB0OWlGdWdWdmUtX2FjaU52VzhXTTUxbFpDZ1YwZEdoc1hDNEc3amdBUETSAYIBQVVfeXFMTXVPSjF6VFNCX0FSQWZxQ3pkeGJLT1JWbHdESmhmRVZCSzJ0cEV3UnF4SE1EckkxRFZIaGY5ZENEWlk5T2JZeTB4YWF5bEk5R3VlR0pQaGtCTGRPSnZhTjhsWGg0emZzdTRZYmNDWHFUN0otMlhQSklUbHc4WjNldThCZw?oc=5",
+      "image": null,
+      "headline": "Outside groups urge congressional Dems to target corporate interests over Trump - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        },
+        {
+          "d": "11-02",
+          "c": 158.38
+        },
+        {
+          "d": "11-03",
+          "c": 154.4
+        },
+        {
+          "d": "11-04",
+          "c": 163.1
+        },
+        {
+          "d": "11-05",
+          "c": 157.95
+        },
+        {
+          "d": "11-06",
+          "c": 157.93
+        }
+      ]
+    },
     {
       "id": "5409f9d537af0af4",
       "date": "Thu, 05 Nov 2026",
@@ -38795,210 +39011,6 @@
         {
           "d": "09-22",
           "c": 9.38
-        }
-      ]
-    },
-    {
-      "id": "7791b7f24ab8c7ef",
-      "date": "Mon, 21 Sep 2026",
-      "ts": "2026-09-21T18:54:01+00:00",
-      "date_display": "Sep 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Republicans target Las Vegas congressional seat touting Trump's 'no tax on",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 157.72,
-      "change": -0.3,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/republicans-target-las-vegas-congressional-seat-touting-trumps-no-tax-on-tips",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-04-17T001800Z_1412737140_RC2OQKATKA91_RTRMADP_3_USA-TRUMP-1024x657.jpg",
-      "headline": "Republicans target Las Vegas congressional seat touting Trump's 'no tax on tips'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 169.89
-        },
-        {
-          "d": "08-25",
-          "c": 163.47
-        },
-        {
-          "d": "08-26",
-          "c": 164.04
-        },
-        {
-          "d": "08-27",
-          "c": 165.93
-        },
-        {
-          "d": "08-28",
-          "c": 163.18
-        },
-        {
-          "d": "08-31",
-          "c": 160.88
-        },
-        {
-          "d": "09-01",
-          "c": 163.75
-        },
-        {
-          "d": "09-02",
-          "c": 163.36
-        },
-        {
-          "d": "09-03",
-          "c": 164.01
-        },
-        {
-          "d": "09-04",
-          "c": 164.44
-        },
-        {
-          "d": "09-08",
-          "c": 162.71
-        },
-        {
-          "d": "09-09",
-          "c": 157.52
-        },
-        {
-          "d": "09-10",
-          "c": 155.73
-        },
-        {
-          "d": "09-11",
-          "c": 155.83
-        },
-        {
-          "d": "09-14",
-          "c": 158.7
-        },
-        {
-          "d": "09-15",
-          "c": 154.4
-        },
-        {
-          "d": "09-16",
-          "c": 154.68
-        },
-        {
-          "d": "09-17",
-          "c": 159.83
-        },
-        {
-          "d": "09-18",
-          "c": 158.19
-        },
-        {
-          "d": "09-21",
-          "c": 157.72
-        }
-      ]
-    },
-    {
-      "id": "408c706de6b6bd67",
-      "date": "Mon, 21 Sep 2026",
-      "ts": "2026-09-21T14:07:00+00:00",
-      "date_display": "Sep 21, 2026",
-      "source": "Barron's",
-      "type": "news",
-      "quote": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 225.38,
-      "change": 1.4,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5",
-      "image": null,
-      "headline": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-21",
-          "c": 214.48
-        },
-        {
-          "d": "08-24",
-          "c": 208.25
-        },
-        {
-          "d": "08-25",
-          "c": 212.81
-        },
-        {
-          "d": "08-26",
-          "c": 209.43
-        },
-        {
-          "d": "08-27",
-          "c": 227.73
-        },
-        {
-          "d": "08-28",
-          "c": 217.31
-        },
-        {
-          "d": "08-31",
-          "c": 220.53
-        },
-        {
-          "d": "09-01",
-          "c": 217.2
-        },
-        {
-          "d": "09-02",
-          "c": 224.16
-        },
-        {
-          "d": "09-03",
-          "c": 228.19
-        },
-        {
-          "d": "09-04",
-          "c": 230.1
-        },
-        {
-          "d": "09-08",
-          "c": 225.48
-        },
-        {
-          "d": "09-09",
-          "c": 223.42
-        },
-        {
-          "d": "09-10",
-          "c": 218.36
-        },
-        {
-          "d": "09-11",
-          "c": 218.29
-        },
-        {
-          "d": "09-14",
-          "c": 210.96
-        },
-        {
-          "d": "09-15",
-          "c": 212.17
-        },
-        {
-          "d": "09-16",
-          "c": 213.9
-        },
-        {
-          "d": "09-17",
-          "c": 219.34
-        },
-        {
-          "d": "09-18",
-          "c": 222.27
-        },
-        {
-          "d": "09-21",
-          "c": 225.38
         }
       ]
     }
