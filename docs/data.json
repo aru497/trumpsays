@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-11-07T07:24:56.512356+00:00",
+  "updated_at": "2026-11-07T14:14:35.577123+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "bc4cba10d6f81476",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T10:00:00+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "An unexpected activist emerged to help block a $5 billion data center in Maryland Thousands across the",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+      "image": null,
+      "headline": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "1a72c34ecd05b4cc",
       "date": "Fri, 06 Nov 2026",
@@ -38955,110 +38974,6 @@
         {
           "d": "09-22",
           "c": 9.11
-        }
-      ]
-    },
-    {
-      "id": "e4b2baad3cdf2b88",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T12:47:00+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "newsweek.com",
-      "type": "news",
-      "quote": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - newsweek.com Trump and Natalie Harp Hit With",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.38,
-      "change": 2.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONElRYnVBbFd5YkVZNkp6UHRXVVZsQUtEcG1BWXAwZzgyMW5LalVUbkNfRE1aWFFXOGJ0MWZCOHUyZTNaZDloa0djS3JRdGxWek93c2RiSmlCVjN1SktCeUM3OEEydmNfWWlJUnJWY1pRbnFDeEZjeVJoblNiRzFNeVhzOFctOURocVVYOW1rYU9NMUp1TGVfdWU0RTBxel9M?oc=5",
-      "image": null,
-      "headline": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - newsweek.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
         }
       ]
     }
