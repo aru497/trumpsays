@@ -1,7 +1,782 @@
 {
-  "updated_at": "2026-11-07T14:14:35.577123+00:00",
+  "updated_at": "2026-11-07T18:56:06.473094+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "d9c470dae3033b3c",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 342.37,
+      "change": -0.52,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 340.42
+        },
+        {
+          "d": "10-09",
+          "c": 336.64
+        },
+        {
+          "d": "10-12",
+          "c": 340.97
+        },
+        {
+          "d": "10-13",
+          "c": 341.27
+        },
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        }
+      ]
+    },
+    {
+      "id": "530c55415524edef",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 530.61,
+      "change": -0.99,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 522.61
+        },
+        {
+          "d": "10-09",
+          "c": 535.07
+        },
+        {
+          "d": "10-12",
+          "c": 541.15
+        },
+        {
+          "d": "10-13",
+          "c": 543.45
+        },
+        {
+          "d": "10-14",
+          "c": 533.69
+        },
+        {
+          "d": "10-15",
+          "c": 539.44
+        },
+        {
+          "d": "10-16",
+          "c": 529.05
+        },
+        {
+          "d": "10-19",
+          "c": 533.52
+        },
+        {
+          "d": "10-20",
+          "c": 531.87
+        },
+        {
+          "d": "10-21",
+          "c": 532.95
+        },
+        {
+          "d": "10-22",
+          "c": 521.08
+        },
+        {
+          "d": "10-23",
+          "c": 524.51
+        },
+        {
+          "d": "10-26",
+          "c": 532.6
+        },
+        {
+          "d": "10-27",
+          "c": 531.33
+        },
+        {
+          "d": "10-28",
+          "c": 531.01
+        },
+        {
+          "d": "10-29",
+          "c": 530.14
+        },
+        {
+          "d": "10-30",
+          "c": 521.91
+        },
+        {
+          "d": "11-02",
+          "c": 507.12
+        },
+        {
+          "d": "11-03",
+          "c": 520.99
+        },
+        {
+          "d": "11-04",
+          "c": 555.8
+        },
+        {
+          "d": "11-05",
+          "c": 535.93
+        },
+        {
+          "d": "11-06",
+          "c": 530.61
+        }
+      ]
+    },
+    {
+      "id": "384ace80dfd6189d",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 284.78,
+      "change": 0.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 348.29
+        },
+        {
+          "d": "10-09",
+          "c": 351.66
+        },
+        {
+          "d": "10-12",
+          "c": 352.72
+        },
+        {
+          "d": "10-13",
+          "c": 353.78
+        },
+        {
+          "d": "10-14",
+          "c": 347.64
+        },
+        {
+          "d": "10-15",
+          "c": 349.22
+        },
+        {
+          "d": "10-16",
+          "c": 340.59
+        },
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
+        },
+        {
+          "d": "10-23",
+          "c": 320.21
+        },
+        {
+          "d": "10-26",
+          "c": 316.8
+        },
+        {
+          "d": "10-27",
+          "c": 320.58
+        },
+        {
+          "d": "10-28",
+          "c": 324.89
+        },
+        {
+          "d": "10-29",
+          "c": 283.82
+        },
+        {
+          "d": "10-30",
+          "c": 279.84
+        },
+        {
+          "d": "11-02",
+          "c": 278.99
+        },
+        {
+          "d": "11-03",
+          "c": 280.03
+        },
+        {
+          "d": "11-04",
+          "c": 288.93
+        },
+        {
+          "d": "11-05",
+          "c": 282.57
+        },
+        {
+          "d": "11-06",
+          "c": 284.78
+        }
+      ]
+    },
+    {
+      "id": "1b961a7e27049029",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "\u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over",
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "price": 259.3,
+      "change": -0.35,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 254.06
+        },
+        {
+          "d": "10-09",
+          "c": 262.43
+        },
+        {
+          "d": "10-12",
+          "c": 259.53
+        },
+        {
+          "d": "10-13",
+          "c": 258.58
+        },
+        {
+          "d": "10-14",
+          "c": 254.08
+        },
+        {
+          "d": "10-15",
+          "c": 254.76
+        },
+        {
+          "d": "10-16",
+          "c": 250.0
+        },
+        {
+          "d": "10-19",
+          "c": 262.45
+        },
+        {
+          "d": "10-20",
+          "c": 262.63
+        },
+        {
+          "d": "10-21",
+          "c": 262.37
+        },
+        {
+          "d": "10-22",
+          "c": 250.38
+        },
+        {
+          "d": "10-23",
+          "c": 248.0
+        },
+        {
+          "d": "10-26",
+          "c": 249.09
+        },
+        {
+          "d": "10-27",
+          "c": 253.1
+        },
+        {
+          "d": "10-28",
+          "c": 254.6
+        },
+        {
+          "d": "10-29",
+          "c": 243.79
+        },
+        {
+          "d": "10-30",
+          "c": 240.35
+        },
+        {
+          "d": "11-02",
+          "c": 245.63
+        },
+        {
+          "d": "11-03",
+          "c": 250.69
+        },
+        {
+          "d": "11-04",
+          "c": 266.03
+        },
+        {
+          "d": "11-05",
+          "c": 260.21
+        },
+        {
+          "d": "11-06",
+          "c": 259.3
+        }
+      ]
+    },
+    {
+      "id": "9b0b857a39c781b2",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties -",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 610.15,
+      "change": 0.84,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 720.89
+        },
+        {
+          "d": "10-09",
+          "c": 718.67
+        },
+        {
+          "d": "10-12",
+          "c": 742.96
+        },
+        {
+          "d": "10-13",
+          "c": 762.5
+        },
+        {
+          "d": "10-14",
+          "c": 737.54
+        },
+        {
+          "d": "10-15",
+          "c": 736.72
+        },
+        {
+          "d": "10-16",
+          "c": 709.33
+        },
+        {
+          "d": "10-19",
+          "c": 705.44
+        },
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 697.52
+        },
+        {
+          "d": "10-22",
+          "c": 648.85
+        },
+        {
+          "d": "10-23",
+          "c": 642.62
+        },
+        {
+          "d": "10-26",
+          "c": 630.56
+        },
+        {
+          "d": "10-27",
+          "c": 620.19
+        },
+        {
+          "d": "10-28",
+          "c": 612.49
+        },
+        {
+          "d": "10-29",
+          "c": 624.52
+        },
+        {
+          "d": "10-30",
+          "c": 614.99
+        },
+        {
+          "d": "11-02",
+          "c": 606.73
+        },
+        {
+          "d": "11-03",
+          "c": 621.03
+        },
+        {
+          "d": "11-04",
+          "c": 630.0
+        },
+        {
+          "d": "11-05",
+          "c": 605.08
+        },
+        {
+          "d": "11-06",
+          "c": 610.15
+        }
+      ]
+    },
+    {
+      "id": "697b84204d9ca196",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle,",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 358.22,
+      "change": 4.23,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 375.0
+        },
+        {
+          "d": "10-09",
+          "c": 382.7
+        },
+        {
+          "d": "10-12",
+          "c": 378.03
+        },
+        {
+          "d": "10-13",
+          "c": 375.23
+        },
+        {
+          "d": "10-14",
+          "c": 367.16
+        },
+        {
+          "d": "10-15",
+          "c": 362.44
+        },
+        {
+          "d": "10-16",
+          "c": 354.72
+        },
+        {
+          "d": "10-19",
+          "c": 368.06
+        },
+        {
+          "d": "10-20",
+          "c": 373.71
+        },
+        {
+          "d": "10-21",
+          "c": 386.47
+        },
+        {
+          "d": "10-22",
+          "c": 374.58
+        },
+        {
+          "d": "10-23",
+          "c": 372.22
+        },
+        {
+          "d": "10-26",
+          "c": 391.62
+        },
+        {
+          "d": "10-27",
+          "c": 407.46
+        },
+        {
+          "d": "10-28",
+          "c": 404.22
+        },
+        {
+          "d": "10-29",
+          "c": 403.3
+        },
+        {
+          "d": "10-30",
+          "c": 399.81
+        },
+        {
+          "d": "11-02",
+          "c": 403.82
+        },
+        {
+          "d": "11-03",
+          "c": 398.5
+        },
+        {
+          "d": "11-04",
+          "c": 385.19
+        },
+        {
+          "d": "11-05",
+          "c": 343.69
+        },
+        {
+          "d": "11-06",
+          "c": 358.22
+        }
+      ]
+    },
+    {
+      "id": "f42899bffd6e2ddb",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial Trump",
+      "company": "Oracle",
+      "ticker": "ORCL",
+      "price": 116.1,
+      "change": 0.82,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 135.19
+        },
+        {
+          "d": "10-09",
+          "c": 141.4
+        },
+        {
+          "d": "10-12",
+          "c": 137.39
+        },
+        {
+          "d": "10-13",
+          "c": 143.2
+        },
+        {
+          "d": "10-14",
+          "c": 130.55
+        },
+        {
+          "d": "10-15",
+          "c": 134.47
+        },
+        {
+          "d": "10-16",
+          "c": 128.23
+        },
+        {
+          "d": "10-19",
+          "c": 129.59
+        },
+        {
+          "d": "10-20",
+          "c": 131.14
+        },
+        {
+          "d": "10-21",
+          "c": 129.13
+        },
+        {
+          "d": "10-22",
+          "c": 125.54
+        },
+        {
+          "d": "10-23",
+          "c": 126.16
+        },
+        {
+          "d": "10-26",
+          "c": 126.06
+        },
+        {
+          "d": "10-27",
+          "c": 130.53
+        },
+        {
+          "d": "10-28",
+          "c": 144.54
+        },
+        {
+          "d": "10-29",
+          "c": 139.56
+        },
+        {
+          "d": "10-30",
+          "c": 130.67
+        },
+        {
+          "d": "11-02",
+          "c": 119.22
+        },
+        {
+          "d": "11-03",
+          "c": 126.19
+        },
+        {
+          "d": "11-04",
+          "c": 123.73
+        },
+        {
+          "d": "11-05",
+          "c": 115.16
+        },
+        {
+          "d": "11-06",
+          "c": 116.1
+        }
+      ]
+    },
+    {
+      "id": "c0afc75af1c4de6f",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T18:18:11+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The Post Millennial",
+      "type": "news",
+      "quote": "\u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGpLUGl4TkN5UVVCRXU5ckpVUnFIM2dxajJUQ2JQblEybWtzUVBrQzBLQVFpQTY0VDdXNWZoX3JtNFktdjlqNlRGbVN6bUVwd0NmMzN3TlhfNE1mZnRmeDhuZkJjaUNQcWxQT282TVZaUXUxRWkwUlRhZTFpcU41UG1SMWZ4MlJ4UDI2ZGJRS3ZqNTRqRnh0RHRPLU9wamMzeDJuNnp4clFFaG9sZnhYb0lzMGszQ0VrNzBoX0hMNlp0ZUl0cjNZbml2Yw?oc=5",
+      "image": null,
+      "headline": "Trump says Dems are committing \u2018extortion\u2019 with plan to investigate Tesla, Apple, Amazon, OpenAI, Meta, Google, Microsoft, Oracle, others over Trump admin ties - The Post Millennial",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "bc4cba10d6f81476",
       "date": "Sat, 07 Nov 2026",
@@ -38150,830 +38925,6 @@
         {
           "d": "09-21",
           "c": 258.45
-        }
-      ]
-    },
-    {
-      "id": "f7502b4b648582be",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T16:08:46+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "San Francisco Chronicle",
-      "type": "news",
-      "quote": "San Francisco sues Trump Media over subscriber-only access to Trump\u2019s posts - San",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.12,
-      "change": 3.05,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObF9UMy00TGFXSUdIU2tUYnJ0WjZpTmlNSzA0RjA4SnFKN21TSlZLM1RwMWZyXzJ1S19qUEl2TWtSb1hkMUJ4LWxHVEpoLUpvbnZPYXlFTk51T3FWdFFRQU40amozSzR2QUJYOVkxcVFLaEZseEx4QXZ3Wk1fM1dxMDRkYWs2UUM3LUZVWnpXTGRGTVlQdkRB?oc=5",
-      "image": null,
-      "headline": "San Francisco sues Trump Media over subscriber-only access to Trump\u2019s posts - San Francisco Chronicle",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        }
-      ]
-    },
-    {
-      "id": "b51cb1b0087a6518",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T16:08:46+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "sfchronicle.com",
-      "type": "news",
-      "quote": "San Francisco sues Trump Media over subscriber-only access to Trump\u2019s posts -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.12,
-      "change": 3.05,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObF9UMy00TGFXSUdIU2tUYnJ0WjZpTmlNSzA0RjA4SnFKN21TSlZLM1RwMWZyXzJ1S19qUEl2TWtSb1hkMUJ4LWxHVEpoLUpvbnZPYXlFTk51T3FWdFFRQU40amozSzR2QUJYOVkxcVFLaEZseEx4QXZ3Wk1fM1dxMDRkYWs2UUM3LUZVWnpXTGRGTVlQdkRB?oc=5",
-      "image": null,
-      "headline": "San Francisco sues Trump Media over subscriber-only access to Trump\u2019s posts - sfchronicle.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        }
-      ]
-    },
-    {
-      "id": "b405927cdb38c4b7",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T16:06:16+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "Seeking Alpha",
-      "type": "news",
-      "quote": "Tesla: Trump Might Sink This Stock; Here's How (NASDAQ:TSLA) -",
-      "company": "Tesla",
-      "ticker": "TSLA",
-      "price": 378.35,
-      "change": 0.81,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWNJRl9ZdTBacWd3SzNBMnpBZHhPN2xXakkzOUFQUEhSYXhsMHNWLXFscWdSWnZFRE9DRTFOMDZJakEyQVVKTml3Mk43S2MzR3hncnllUFg5REZWOEk2WnFELW9vMl9aQXZzZ3lJZUxSZTlsYlY5bDRkbFl5QnFqcTV4OVZBM1RWTk5kVA?oc=5",
-      "image": null,
-      "headline": "Tesla: Trump Might Sink This Stock; Here's How (NASDAQ:TSLA) - Seeking Alpha",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 348.95
-        },
-        {
-          "d": "08-25",
-          "c": 350.25
-        },
-        {
-          "d": "08-26",
-          "c": 345.82
-        },
-        {
-          "d": "08-27",
-          "c": 354.81
-        },
-        {
-          "d": "08-28",
-          "c": 348.75
-        },
-        {
-          "d": "08-31",
-          "c": 367.95
-        },
-        {
-          "d": "09-01",
-          "c": 356.09
-        },
-        {
-          "d": "09-02",
-          "c": 357.01
-        },
-        {
-          "d": "09-03",
-          "c": 376.37
-        },
-        {
-          "d": "09-04",
-          "c": 354.08
-        },
-        {
-          "d": "09-08",
-          "c": 368.16
-        },
-        {
-          "d": "09-09",
-          "c": 367.81
-        },
-        {
-          "d": "09-10",
-          "c": 363.56
-        },
-        {
-          "d": "09-11",
-          "c": 365.44
-        },
-        {
-          "d": "09-14",
-          "c": 358.97
-        },
-        {
-          "d": "09-15",
-          "c": 356.58
-        },
-        {
-          "d": "09-16",
-          "c": 358.08
-        },
-        {
-          "d": "09-17",
-          "c": 366.2
-        },
-        {
-          "d": "09-18",
-          "c": 364.27
-        },
-        {
-          "d": "09-21",
-          "c": 375.3
-        },
-        {
-          "d": "09-22",
-          "c": 378.35
-        }
-      ]
-    },
-    {
-      "id": "7a2a857a4a8d92a7",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T16:06:16+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "seekingalpha.com",
-      "type": "news",
-      "quote": "Tesla: Trump Might Sink This Stock; Here's How (NASDAQ:TSLA) -",
-      "company": "Tesla",
-      "ticker": "TSLA",
-      "price": 378.9,
-      "change": 0.96,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWNJRl9ZdTBacWd3SzNBMnpBZHhPN2xXakkzOUFQUEhSYXhsMHNWLXFscWdSWnZFRE9DRTFOMDZJakEyQVVKTml3Mk43S2MzR3hncnllUFg5REZWOEk2WnFELW9vMl9aQXZzZ3lJZUxSZTlsYlY5bDRkbFl5QnFqcTV4OVZBM1RWTk5kVA?oc=5",
-      "image": null,
-      "headline": "Tesla: Trump Might Sink This Stock; Here's How (NASDAQ:TSLA) - seekingalpha.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 348.95
-        },
-        {
-          "d": "08-25",
-          "c": 350.25
-        },
-        {
-          "d": "08-26",
-          "c": 345.82
-        },
-        {
-          "d": "08-27",
-          "c": 354.81
-        },
-        {
-          "d": "08-28",
-          "c": 348.75
-        },
-        {
-          "d": "08-31",
-          "c": 367.95
-        },
-        {
-          "d": "09-01",
-          "c": 356.09
-        },
-        {
-          "d": "09-02",
-          "c": 357.01
-        },
-        {
-          "d": "09-03",
-          "c": 376.37
-        },
-        {
-          "d": "09-04",
-          "c": 354.08
-        },
-        {
-          "d": "09-08",
-          "c": 368.16
-        },
-        {
-          "d": "09-09",
-          "c": 367.81
-        },
-        {
-          "d": "09-10",
-          "c": 363.56
-        },
-        {
-          "d": "09-11",
-          "c": 365.44
-        },
-        {
-          "d": "09-14",
-          "c": 358.97
-        },
-        {
-          "d": "09-15",
-          "c": 356.58
-        },
-        {
-          "d": "09-16",
-          "c": 358.08
-        },
-        {
-          "d": "09-17",
-          "c": 366.2
-        },
-        {
-          "d": "09-18",
-          "c": 364.27
-        },
-        {
-          "d": "09-21",
-          "c": 375.3
-        },
-        {
-          "d": "09-22",
-          "c": 378.9
-        }
-      ]
-    },
-    {
-      "id": "539ef8b231e596a5",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T14:59:18+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "San Francisco Chronicle",
-      "type": "news",
-      "quote": "San Francisco sues Trump Media over subscriber-only access to Trump's posts - San",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.11,
-      "change": -0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObF9UMy00TGFXSUdIU2tUYnJ0WjZpTmlNSzA0RjA4SnFKN21TSlZLM1RwMWZyXzJ1S19qUEl2TWtSb1hkMUJ4LWxHVEpoLUpvbnZPYXlFTk51T3FWdFFRQU40amozSzR2QUJYOVkxcVFLaEZseEx4QXZ3Wk1fM1dxMDRkYWs2UUM3LUZVWnpXTGRGTVlQdkRB?oc=5",
-      "image": null,
-      "headline": "San Francisco sues Trump Media over subscriber-only access to Trump's posts - San Francisco Chronicle",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.11
-        }
-      ]
-    },
-    {
-      "id": "f74bab2a9bd6c716",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T14:23:34+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "The San Francisco Standard",
-      "type": "news",
-      "quote": "David Chiu sues Trump Media, says Truth API enables insider trading - The San",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.11,
-      "change": -0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHJNaHVtSUdXQzZiaFByVzljTk9HUllfYk00aEF2M0JVdU5LTjctLVRKb2VPNUlIeEdjLWhxcFRsbnZsaEt1SjdlRGZWbC1zekNlZXJXanV6QXdqS0VrdncxOE9ZbE5xbE93dVVWTWJYOTljaTdJZEtON3huUW01YzQwbGRtZmN5RWFiTU1GeWpWQTFxaTUzdVcwYlJIbjFsYVVJYllqNThUZnhDV0xnZkJB?oc=5",
-      "image": null,
-      "headline": "David Chiu sues Trump Media, says Truth API enables insider trading - The San Francisco Standard",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.11
-        }
-      ]
-    },
-    {
-      "id": "19053f9eba249624",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T14:23:34+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "sfstandard.com",
-      "type": "news",
-      "quote": "David Chiu sues Trump Media, says Truth API enables insider trading - sfstandard.com",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.06,
-      "change": -0.66,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHJNaHVtSUdXQzZiaFByVzljTk9HUllfYk00aEF2M0JVdU5LTjctLVRKb2VPNUlIeEdjLWhxcFRsbnZsaEt1SjdlRGZWbC1zekNlZXJXanV6QXdqS0VrdncxOE9ZbE5xbE93dVVWTWJYOTljaTdJZEtON3huUW01YzQwbGRtZmN5RWFiTU1GeWpWQTFxaTUzdVcwYlJIbjFsYVVJYllqNThUZnhDV0xnZkJB?oc=5",
-      "image": null,
-      "headline": "David Chiu sues Trump Media, says Truth API enables insider trading - sfstandard.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        }
-      ]
-    },
-    {
-      "id": "c40135609c905aec",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T12:47:00+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "Newsweek",
-      "type": "news",
-      "quote": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - Newsweek Trump and Natalie Harp Hit With Lawsuit",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.11,
-      "change": -0.11,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONElRYnVBbFd5YkVZNkp6UHRXVVZsQUtEcG1BWXAwZzgyMW5LalVUbkNfRE1aWFFXOGJ0MWZCOHUyZTNaZDloa0djS3JRdGxWek93c2RiSmlCVjN1SktCeUM3OEEydmNfWWlJUnJWY1pRbnFDeEZjeVJoblNiRzFNeVhzOFctOURocVVYOW1rYU9NMUp1TGVfdWU0RTBxel9M?oc=5",
-      "image": null,
-      "headline": "Trump and Natalie Harp Hit With Lawsuit Over Truth Social Changes - Newsweek",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.11
         }
       ]
     }
