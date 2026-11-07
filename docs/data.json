@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-11-06T21:40:54.103012+00:00",
+  "updated_at": "2026-11-07T01:24:06.736617+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "1a72c34ecd05b4cc",
+      "date": "Fri, 06 Nov 2026",
+      "ts": "2026-11-06T23:50:18+00:00",
+      "date_display": "Nov 06, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Pope Leo started his 12-day tour of Latin America, and Tesla will wind down production of its Cybertruck.",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 343.69,
+      "change": -10.77,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/news-wrap-judge-blocks-construction-of-trumps-triumphal-arch-for-now",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrap-3-1024x683.jpg",
+      "headline": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 377.81
+        },
+        {
+          "d": "10-08",
+          "c": 375.0
+        },
+        {
+          "d": "10-09",
+          "c": 382.7
+        },
+        {
+          "d": "10-12",
+          "c": 378.03
+        },
+        {
+          "d": "10-13",
+          "c": 375.23
+        },
+        {
+          "d": "10-14",
+          "c": 367.16
+        },
+        {
+          "d": "10-15",
+          "c": 362.44
+        },
+        {
+          "d": "10-16",
+          "c": 354.72
+        },
+        {
+          "d": "10-19",
+          "c": 368.06
+        },
+        {
+          "d": "10-20",
+          "c": 373.71
+        },
+        {
+          "d": "10-21",
+          "c": 386.47
+        },
+        {
+          "d": "10-22",
+          "c": 374.58
+        },
+        {
+          "d": "10-23",
+          "c": 372.22
+        },
+        {
+          "d": "10-26",
+          "c": 391.62
+        },
+        {
+          "d": "10-27",
+          "c": 407.46
+        },
+        {
+          "d": "10-28",
+          "c": 404.22
+        },
+        {
+          "d": "10-29",
+          "c": 403.3
+        },
+        {
+          "d": "10-30",
+          "c": 399.81
+        },
+        {
+          "d": "11-02",
+          "c": 403.82
+        },
+        {
+          "d": "11-03",
+          "c": 398.5
+        },
+        {
+          "d": "11-04",
+          "c": 385.19
+        },
+        {
+          "d": "11-05",
+          "c": 343.69
+        }
+      ]
+    },
     {
       "id": "96de9232cf9aed84",
       "date": "Fri, 06 Nov 2026",
@@ -107,6 +215,114 @@
         {
           "d": "11-06",
           "c": 56.28
+        }
+      ]
+    },
+    {
+      "id": "2284da461db50659",
+      "date": "Fri, 06 Nov 2026",
+      "ts": "2026-11-06T15:49:13+00:00",
+      "date_display": "Nov 06, 2026",
+      "source": "Al Jazeera",
+      "type": "news",
+      "quote": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 343.69,
+      "change": -10.77,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3AtNk5jNmgwekozamU3TXEzRUlnbG9OMEtxX1JBWWJNa2FRNHV5c3VmcWNDa0ViZGxYRzlvYU90dkNOZF81WE00LXZDaktDTmFNbF8wak4tb05ZT2EtQ1Bib3ZFWlpxSWRQQ1hva0NMR1lHcVJQZWlZbklMSmFBSTZfQUI2NzZQWndfQjZHU3ZUeXc5NXVuZlYzTm1lZWlleDZNa3N5Z0JSc1Vsb2NBcVZRNGtwd9IBuwFBVV95cUxQOW8wQjNtV1c5Z0FQdzBZc0FQaXB4RGJvRGVSOU5weEh0RkttTTZ3X2RESk5BRU02VnQ2ay1Kc0pMUjIxSXNMeXZFUWU0MlF2SFg4WVpobERWOTBQYXo2dVk3bHZjZ19Rc0RkckFJYWdQRExlRExZNHdfN1g0ZjducVBYN1VZaXlNQlB0dGNaS2JIbVVTMGJWWVphSG9WSU1Id0wxTzFKU0UxQkhmWEtLbkFqd1ZISUlqaWsw?oc=5",
+      "image": null,
+      "headline": "Musk says Tesla to wind down polarising Cybertruck production as sales lag - Al Jazeera",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 377.81
+        },
+        {
+          "d": "10-08",
+          "c": 375.0
+        },
+        {
+          "d": "10-09",
+          "c": 382.7
+        },
+        {
+          "d": "10-12",
+          "c": 378.03
+        },
+        {
+          "d": "10-13",
+          "c": 375.23
+        },
+        {
+          "d": "10-14",
+          "c": 367.16
+        },
+        {
+          "d": "10-15",
+          "c": 362.44
+        },
+        {
+          "d": "10-16",
+          "c": 354.72
+        },
+        {
+          "d": "10-19",
+          "c": 368.06
+        },
+        {
+          "d": "10-20",
+          "c": 373.71
+        },
+        {
+          "d": "10-21",
+          "c": 386.47
+        },
+        {
+          "d": "10-22",
+          "c": 374.58
+        },
+        {
+          "d": "10-23",
+          "c": 372.22
+        },
+        {
+          "d": "10-26",
+          "c": 391.62
+        },
+        {
+          "d": "10-27",
+          "c": 407.46
+        },
+        {
+          "d": "10-28",
+          "c": 404.22
+        },
+        {
+          "d": "10-29",
+          "c": 403.3
+        },
+        {
+          "d": "10-30",
+          "c": 399.81
+        },
+        {
+          "d": "11-02",
+          "c": 403.82
+        },
+        {
+          "d": "11-03",
+          "c": 398.5
+        },
+        {
+          "d": "11-04",
+          "c": 385.19
+        },
+        {
+          "d": "11-05",
+          "c": 343.69
         }
       ]
     },
@@ -2178,6 +2394,222 @@
         {
           "d": "11-04",
           "c": 4.49
+        }
+      ]
+    },
+    {
+      "id": "d3bdbd134b589369",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T22:19:51+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times Shares of Truth Social\u2019s Parent Company Hit New",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 65.57,
+      "change": -1.4,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
+      "image": null,
+      "headline": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 64.9
+        },
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        }
+      ]
+    },
+    {
+      "id": "503d3f9d7994e154",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T22:19:51+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times Shares",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.02,
+      "change": -10.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
+      "image": null,
+      "headline": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-07",
+          "c": 8.22
+        },
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
         }
       ]
     },
@@ -38623,414 +39055,6 @@
         {
           "d": "09-22",
           "c": 65.45
-        }
-      ]
-    },
-    {
-      "id": "c0b8eebfbe54515f",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T12:41:10+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - The New York Times San Francisco Sues to Stop",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.38,
-      "change": 2.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2FfZkNKQU8xWFdhMm5ZNV9NSWlMTmRWeUllaFViYklVSzdDWUhrNW4yQkFtLTNaSlBMMHZMMVd6YVJEV3JxTVEzYWRsdHBJZVBzTHNNWUVYR09PUXdxbTlEbjVqMnNxV0FGbjBGcmtpTHNKSVZCLTRvOE9hZjlKS0E4OWEyT2FvTzNHdENDMmptVUpM?oc=5",
-      "image": null,
-      "headline": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        }
-      ]
-    },
-    {
-      "id": "a7132c6ced749711",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T07:00:00+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "nytimes.com",
-      "type": "news",
-      "quote": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - nytimes.com San Francisco Sues to Stop Early",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": 1.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2FfZkNKQU8xWFdhMm5ZNV9NSWlMTmRWeUllaFViYklVSzdDWUhrNW4yQkFtLTNaSlBMMHZMMVd6YVJEV3JxTVEzYWRsdHBJZVBzTHNNWUVYR09PUXdxbTlEbjVqMnNxV0FGbjBGcmtpTHNKSVZCLTRvOE9hZjlKS0E4OWEyT2FvTzNHdENDMmptVUpM?oc=5",
-      "image": null,
-      "headline": "San Francisco Sues to Stop Early Access to Trump\u2019s Truth Social Posts - nytimes.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "0fdfc0569afda6d8",
-      "date": "Mon, 21 Sep 2026",
-      "ts": "2026-09-21T22:45:16+00:00",
-      "date_display": "Sep 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "antitrust concerns with a dozen states over its buyout of Warner Bros. Discovery and a Venezuelan man who was shot by an ICE",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 30.8,
-      "change": 10.79,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapsep21-1024x683.jpg",
-      "headline": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 28.7
-        },
-        {
-          "d": "08-25",
-          "c": 28.9
-        },
-        {
-          "d": "08-26",
-          "c": 28.75
-        },
-        {
-          "d": "08-27",
-          "c": 28.88
-        },
-        {
-          "d": "08-28",
-          "c": 28.77
-        },
-        {
-          "d": "08-31",
-          "c": 28.53
-        },
-        {
-          "d": "09-01",
-          "c": 28.32
-        },
-        {
-          "d": "09-02",
-          "c": 28.39
-        },
-        {
-          "d": "09-03",
-          "c": 28.37
-        },
-        {
-          "d": "09-04",
-          "c": 28.25
-        },
-        {
-          "d": "09-08",
-          "c": 28.12
-        },
-        {
-          "d": "09-09",
-          "c": 27.91
-        },
-        {
-          "d": "09-10",
-          "c": 28.2
-        },
-        {
-          "d": "09-11",
-          "c": 28.04
-        },
-        {
-          "d": "09-14",
-          "c": 28.1
-        },
-        {
-          "d": "09-15",
-          "c": 28.03
-        },
-        {
-          "d": "09-16",
-          "c": 28.07
-        },
-        {
-          "d": "09-17",
-          "c": 28.24
-        },
-        {
-          "d": "09-18",
-          "c": 27.8
-        },
-        {
-          "d": "09-21",
-          "c": 30.8
-        }
-      ]
-    },
-    {
-      "id": "d9bcb9b315be40ec",
-      "date": "Mon, 21 Sep 2026",
-      "ts": "2026-09-21T22:45:16+00:00",
-      "date_display": "Sep 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "airports on the East Coast due to an equipment failure, Paramount settled antitrust concerns with a dozen states over its",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 0.92,
-      "change": -1.08,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/newswrapsep21-1024x683.jpg",
-      "headline": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 1.2
-        },
-        {
-          "d": "08-25",
-          "c": 1.23
-        },
-        {
-          "d": "08-26",
-          "c": 1.18
-        },
-        {
-          "d": "08-27",
-          "c": 1.19
-        },
-        {
-          "d": "08-28",
-          "c": 1.09
-        },
-        {
-          "d": "08-31",
-          "c": 1.1
-        },
-        {
-          "d": "09-01",
-          "c": 1.07
-        },
-        {
-          "d": "09-02",
-          "c": 1.07
-        },
-        {
-          "d": "09-03",
-          "c": 1.06
-        },
-        {
-          "d": "09-04",
-          "c": 1.01
-        },
-        {
-          "d": "09-08",
-          "c": 1.05
-        },
-        {
-          "d": "09-09",
-          "c": 1.06
-        },
-        {
-          "d": "09-10",
-          "c": 0.98
-        },
-        {
-          "d": "09-11",
-          "c": 1.0
-        },
-        {
-          "d": "09-14",
-          "c": 1.01
-        },
-        {
-          "d": "09-15",
-          "c": 1.0
-        },
-        {
-          "d": "09-16",
-          "c": 0.97
-        },
-        {
-          "d": "09-17",
-          "c": 0.93
-        },
-        {
-          "d": "09-18",
-          "c": 0.93
-        },
-        {
-          "d": "09-21",
-          "c": 0.92
         }
       ]
     }
