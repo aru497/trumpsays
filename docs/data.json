@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-08T08:13:40.611957+00:00",
+  "updated_at": "2026-11-08T15:25:40.037111+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "3a873e3275ef9183",
+      "date": "Sun, 08 Nov 2026",
+      "ts": "2026-11-08T13:22:23+00:00",
+      "date_display": "Nov 08, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "first Trump administration, about the GOP's post-midterm strategy.",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 128.93,
+      "change": -0.29,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop",
+      "image": null,
+      "headline": "Republican consultant discusses what went wrong and what's next for the GOP",
+      "channel": "Press Conference",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 151.47
+        },
+        {
+          "d": "10-09",
+          "c": 154.34
+        },
+        {
+          "d": "10-12",
+          "c": 152.68
+        },
+        {
+          "d": "10-13",
+          "c": 152.18
+        },
+        {
+          "d": "10-14",
+          "c": 143.24
+        },
+        {
+          "d": "10-15",
+          "c": 151.29
+        },
+        {
+          "d": "10-16",
+          "c": 136.83
+        },
+        {
+          "d": "10-19",
+          "c": 136.02
+        },
+        {
+          "d": "10-20",
+          "c": 142.72
+        },
+        {
+          "d": "10-21",
+          "c": 153.48
+        },
+        {
+          "d": "10-22",
+          "c": 145.8
+        },
+        {
+          "d": "10-23",
+          "c": 146.01
+        },
+        {
+          "d": "10-26",
+          "c": 139.82
+        },
+        {
+          "d": "10-27",
+          "c": 141.4
+        },
+        {
+          "d": "10-28",
+          "c": 145.16
+        },
+        {
+          "d": "10-29",
+          "c": 141.62
+        },
+        {
+          "d": "10-30",
+          "c": 130.51
+        },
+        {
+          "d": "11-02",
+          "c": 130.76
+        },
+        {
+          "d": "11-03",
+          "c": 135.63
+        },
+        {
+          "d": "11-04",
+          "c": 142.54
+        },
+        {
+          "d": "11-05",
+          "c": 129.3
+        },
+        {
+          "d": "11-06",
+          "c": 128.93
+        }
+      ]
+    },
+    {
+      "id": "f575eb7c36f81ab9",
+      "date": "Sun, 08 Nov 2026",
+      "ts": "2026-11-08T09:41:21+00:00",
+      "date_display": "Nov 08, 2026",
+      "source": "Yahoo Finance UK",
+      "type": "news",
+      "quote": "Trump Media & Technology Group Corp. (DJT) stock price, news, quote",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 3.99,
+      "change": -0.75,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yZTBjcTRoYWE4ODRiNWZyVUNsQVR4N1lGM1ZVVEpfWTVRUm1qRl9kYXY0RXVnSnpwSTdoY2UtWHJzU0RyOXhIZHE2WV85STFU?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group Corp. (DJT) stock price, news, quote and history - Yahoo Finance UK",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        }
+      ]
+    },
     {
       "id": "44cec8be4aa4d9bd",
       "date": "Sat, 07 Nov 2026",
@@ -107,6 +323,114 @@
         {
           "d": "11-06",
           "c": 59.5
+        }
+      ]
+    },
+    {
+      "id": "f701b56ee6cdaa63",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T19:46:00+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "being offered press secretary role - The Athletic - The New York Times Dana White to meet with Donald Trump after being offered",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 68.36,
+      "change": 4.25,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMU9YSHNMTGI1TlZkR2JXci1rQ2hibFo0RjVabG9xa0tjOXNCRDlNQU8zbGxwTGk0U3ZLMDZhenp0YjJaaEFHWGxnblB4WjFhVjdYLVFHX0RxWWg2R3FQc3NqbHNjcDJBSlloc2h0NW1xdEhiRlI5NVR6c3lZbjBYVDhyM19DS3JLdnZFbFVMQ0tzN01CcERVMVl6Z2FMa2Qxa2xZ?oc=5",
+      "image": null,
+      "headline": "Dana White to meet with Donald Trump after being offered press secretary role - The Athletic - The New York Times",
+      "channel": "Press Conference",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 66.6
+        },
+        {
+          "d": "10-09",
+          "c": 66.32
+        },
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
         }
       ]
     },
@@ -4052,6 +4376,114 @@
         {
           "d": "11-04",
           "c": 4.97
+        }
+      ]
+    },
+    {
+      "id": "3806e52201507514",
+      "date": "Wed, 04 Nov 2026",
+      "ts": "2026-11-04T17:26:31+00:00",
+      "date_display": "Nov 04, 2026",
+      "source": "Bloomberg",
+      "type": "news",
+      "quote": "Trump Media Falls to All-Time Low As Republicans Lose Congress -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 3.99,
+      "change": -0.75,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlRKRndOMFRidVVCbkxxWXVJc3JfV24tYVVUMU9sZmNHZHAtbEVydTcwdDVKM2ZqcjBIdUROMG5ZYVI4RXZiTDFJNmNnanE1Qi1td1RYdnVYZnp5aW84TWNyRVlLcnJxWDl2WHV4WTdtZU9DU1M3Q1ZheUExRkppRmFITmt0QnFMTncwWEN3Ymh5THN5T1hCalNvTUJSLU83TXM4WkdEaWZSWDVxbkR3QmpOQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media Falls to All-Time Low As Republicans Lose Congress - Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 8.2
+        },
+        {
+          "d": "10-09",
+          "c": 8.11
+        },
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
         }
       ]
     },
@@ -38521,418 +38953,6 @@
         {
           "d": "09-22",
           "c": 9.38
-        }
-      ]
-    },
-    {
-      "id": "7ef800667f3c561d",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T18:39:00+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "KQED",
-      "type": "news",
-      "quote": "Francisco Sues Trump to Stop Early Access to Market-Moving Truth Social Posts - KQED San Francisco Sues Trump to Stop Early Access",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.38,
-      "change": 2.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWI5cXAtRUNQZW5oZll5ZWNlMTh5VWFZMnEzRnhqc3FiZGdtOXVjRjROSEFZeWV1aGpRbTl5alpRck1VaGZXZWl5UG1FYVdraExBNk9vZUhxNkFNWExIUmxaay02V0ROTS1kT2dSaTJoOXRpSElhbzBGLXgzRkNRcUxUMUxNX3lqM3dYUGZ2ekdiWVVKRC1IMEZSTXhPZVpSRzhfYnl4Y0lFTzhmcDBOVm82NFpRNEE?oc=5",
-      "image": null,
-      "headline": "San Francisco Sues Trump to Stop Early Access to Market-Moving Truth Social Posts - KQED",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        }
-      ]
-    },
-    {
-      "id": "6b867737d58b49ab",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T18:24:06+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "NBC Bay Area",
-      "type": "news",
-      "quote": "\u2018Unprecedented corruption': SF sues Trump's Truth Social over paid subscriptions - NBC Bay Area \u2018Unprecedented",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.38,
-      "change": 2.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWpSa0JkY29DaGtHWnNDcXVmcjE3eHF4bUdtOXBMbmJjYnNwQm1XcVFyMXJpeWVNNWFlcmsydVhrQUlrRnBwZkZuWXNBUXFPMk9zNGdpWURWTFMxTFFoUzh2ZGxHY0FxVFBhOTVvQ1g1azJxZjdBLTU5YUhXVXlRTWZDb3IzaHVKWjM4bmRBUVTSAZgBQVVfeXFMUGVMdEZMVVVQZHFZWUl1T3Z0Vm5TR1hZQ0JLTTlJc2JVZFlDQlp4c3NsWlpKeE5JUUpRU0pON0NCRWdveHV1Q1gwTlFFbng0MlNlSF8xY3JzeEdtM3RGcmdVTWYzVFFSUElIV2dGLTA0WmdfWEtCci1WRDhfSGloODNYNEJJSllRUngtSWlHa3lyaHdDRGdEcjA?oc=5",
-      "image": null,
-      "headline": "\u2018Unprecedented corruption': SF sues Trump's Truth Social over paid subscriptions - NBC Bay Area",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        }
-      ]
-    },
-    {
-      "id": "8a634f9f695dbb3c",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T17:43:50+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "The Verge",
-      "type": "news",
-      "quote": "San Francisco sues Trump Media for selling early access to Trump posts - The Verge San",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.38,
-      "change": 2.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTZGUWVZc3JBU1RNc2FkazBlNjg3RVNuTk1fQ3hmOHRpb2hEWVZJUUhwc2pZNmkwalprLU01U1Rud3BQemdCWFY2THE0bnNoTTNZVzNUR3dBbWFYeE82VGJ0SXZNY3R2bnFtNjR3UEtKWDZVZGdZWTJBbmpYX2xoU05UOTNMbThX?oc=5",
-      "image": null,
-      "headline": "San Francisco sues Trump Media for selling early access to Trump posts - The Verge",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        }
-      ]
-    },
-    {
-      "id": "f94c5cf9362a9d0f",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T17:10:22+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "cnbc.com",
-      "type": "news",
-      "quote": "July trades, including up to $25 million each in sales of Microsoft, Amazon - cnbc.com Trump discloses more than 1,100 July",
-      "company": "Microsoft",
-      "ticker": "MSFT",
-      "price": 501.61,
-      "change": 1.59,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDhjQUdQbl9DazhqUEFYbklmaVhoVXhJOGQtNzEwZ2p1YnBfSXBXejctMWpxY3ltV1BPVElRQnhydm5xdm5vYmFydVVBeHFtcTJraUNFamVRUDFvb0tCMEtDZmtOaGcwWDhDYWQ0d1YycEVmNC1vZnh3VnNOQlFUaUlGLW0xR2FjWm5rWmRibFRhcm1LemZZ0gGcAUFVX3lxTE9YX0VmZjdHQXdGRjVnNFRWQnItRElCWGFFTTZWVWhOTVR6ZTdVR0hzU3dybFc4WXlSR3RSM3kzWVo5SGcyeTRpeFhWcmdXanVJWm9jX2d1bW9zalF1bXN6UEU1M1N6Q2JaSE5rQm9CWHpSM0RtS1hrMFNCaDhya0dneExYOEh1RVgtUzliN1daaU9zazJMQnppV3FkNQ?oc=5",
-      "image": null,
-      "headline": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon - cnbc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 487.31
-        },
-        {
-          "d": "08-25",
-          "c": 491.71
-        },
-        {
-          "d": "08-26",
-          "c": 496.37
-        },
-        {
-          "d": "08-27",
-          "c": 505.06
-        },
-        {
-          "d": "08-28",
-          "c": 513.53
-        },
-        {
-          "d": "08-31",
-          "c": 507.29
-        },
-        {
-          "d": "09-01",
-          "c": 501.02
-        },
-        {
-          "d": "09-02",
-          "c": 496.82
-        },
-        {
-          "d": "09-03",
-          "c": 510.12
-        },
-        {
-          "d": "09-04",
-          "c": 499.7
-        },
-        {
-          "d": "09-08",
-          "c": 493.95
-        },
-        {
-          "d": "09-09",
-          "c": 491.65
-        },
-        {
-          "d": "09-10",
-          "c": 492.44
-        },
-        {
-          "d": "09-11",
-          "c": 495.63
-        },
-        {
-          "d": "09-14",
-          "c": 505.41
-        },
-        {
-          "d": "09-15",
-          "c": 497.12
-        },
-        {
-          "d": "09-16",
-          "c": 490.3
-        },
-        {
-          "d": "09-17",
-          "c": 497.75
-        },
-        {
-          "d": "09-18",
-          "c": 493.78
-        },
-        {
-          "d": "09-21",
-          "c": 501.61
         }
       ]
     }
