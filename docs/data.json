@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-11-09T02:48:10.839391+00:00",
+  "updated_at": "2026-11-09T10:31:54.521686+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "86f25734d2167886",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T09:17:00+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Chinese Spy Put Trump's Purchase Of Up To $5 Million In Nvidia Stock Back In The Spotlight - 24/7 Wall St. Jensen Huang's",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 186.64,
+      "change": 2.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeU5xNF8xb0xjeGV2UXUyMGRnV0pILW1BTEN5aUpvMmQxN2UzVmN0aTJCalhmV2hNcWktYUoxWnp2ZjJDTDhWeUZ3bi1mT0tXVnk5Uk5jWHVHaENDMGhuZHphMjkyUTFLbmJtRUlEZE5oekQwNWhaOHpROTF5V2ZmeFRQVXNTTXhrc19ZaExjc0hwdlBoZ2U2SVRwcEhzblhzWmROdmpaWVlfTENUYWxIUGMtZGpsd1NwT0paZ2E2RUtWcTlSMk0xbkhQWWczUHo2RlRUc1k4X2tESENzM1Y5akZjUzJ4cUFqTFdLdl9CMkdBaW9oejMyMmVUU2swMzVVTGNLbjZB?oc=5",
+      "image": null,
+      "headline": "Jensen Huang's Reported Ties To A Suspected Chinese Spy Put Trump's Purchase Of Up To $5 Million In Nvidia Stock Back In The Spotlight - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        }
+      ]
+    },
+    {
+      "id": "b446100ce14775e9",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T05:37:00+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang - Business Insider",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 186.64,
+      "change": 2.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkYxOXlfaXpDRUotV1lQNnRsNExLNkpkb204eS1vbTBjNDdOZ01ZY2VxWEpST0VXSE1teHVuZUhuTHhDSHlwRThHNl8tWFNnQmJiSEtULUhtb3VBWHFPZllXUUcyazVoUUFza1lnR2NxSUU0dldPSzl1Z3ZQYUxpcDdfWm5DZ0RYY1ZkV0dKLUlteWYwR1ZWTw?oc=5",
+      "image": null,
+      "headline": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        }
+      ]
+    },
+    {
+      "id": "50a152e3628876d0",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T03:57:33+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says Nvidia's Huang is 'fine person' amid foreign spy probe - Reuters",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 186.64,
+      "change": 2.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWR0tQSmw4T19HaV9wVVlEcU1QTEVZMGZBLUJzcDhxdHYzcURhZHVtYUFkTDZnOFc5ZmktUWR0Q284LXBSUVNqTVRaM2ZtNkM2QlY3WWtKWGs3cVZ3TW51azViRHhBT3M?oc=5",
+      "image": null,
+      "headline": "Trump says Nvidia's Huang is 'fine person' amid foreign spy probe - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        }
+      ]
+    },
+    {
+      "id": "93197bc6a19c3e26",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T03:10:56+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "The Standard (HK)",
+      "type": "news",
+      "quote": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 186.64,
+      "change": 2.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjcyMU9nNmE4S21kNm05ZU5wTjNqWWJMZ1ZmQVVHZXZpd3J6QU55UDZ5OVlqY2RXd3hLdjhZMlFjeVB1T1loZW54QVhJX2tDNEVxSl9ibWp6TTVGaE8zZmhCNzR1MS1DaHBOWnEyYXZiTVhSSW5oVXhyMFdmYndybDB4SDFUNlVHRTRPSVlTcWZsbkVya0tKZVF0VkhPS1ZadUJOMUpaendfR3V4MXMzUmdmalBpRENROWxiLWROUkVFNVhWQ0pJSnhNWlVCaGRjT0E?oc=5",
+      "image": null,
+      "headline": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him - The Standard (HK)",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        }
+      ]
+    },
     {
       "id": "8417d3b1e15a584c",
       "date": "Sun, 08 Nov 2026",
@@ -323,6 +755,222 @@
         {
           "d": "11-06",
           "c": 3.99
+        }
+      ]
+    },
+    {
+      "id": "d3fecad238ac8892",
+      "date": "Sun, 08 Nov 2026",
+      "ts": "2026-11-08T20:16:00+00:00",
+      "date_display": "Nov 08, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Nvidia probes whether CEO Huang was target of foreign spying as",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 186.64,
+      "change": 2.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+      "image": null,
+      "headline": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 230.48
+        },
+        {
+          "d": "10-09",
+          "c": 229.28
+        },
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        }
+      ]
+    },
+    {
+      "id": "71646c5b1e9d27f3",
+      "date": "Sun, 08 Nov 2026",
+      "ts": "2026-11-08T20:16:00+00:00",
+      "date_display": "Nov 08, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair - Reuters Nvidia",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 158.41,
+      "change": 0.29,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+      "image": null,
+      "headline": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-08",
+          "c": 154.76
+        },
+        {
+          "d": "10-09",
+          "c": 153.64
+        },
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        },
+        {
+          "d": "11-02",
+          "c": 158.38
+        },
+        {
+          "d": "11-03",
+          "c": 154.4
+        },
+        {
+          "d": "11-04",
+          "c": 163.1
+        },
+        {
+          "d": "11-05",
+          "c": 157.95
+        },
+        {
+          "d": "11-06",
+          "c": 158.41
         }
       ]
     },
@@ -38442,630 +39090,6 @@
         {
           "d": "09-24",
           "c": 63.05
-        }
-      ]
-    },
-    {
-      "id": "4e0462ac65a97729",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T23:44:24+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "Courthouse News",
-      "type": "news",
-      "quote": "San Francisco sues over Truth Social 'insider trading' - Courthouse News San Francisco sues",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.15,
-      "change": 0.33,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3hud205Z3c1ZU9icC13dTJ0WEpMUEdjY1g3YVU5UXNQeUlWR2dObGdmaS1rNkRBNWwyaGVOcEJWOGx3WllmWHBPNzZZcW1UejRpWUVvOFhGY0h2MlFuLTNWZjBPVlBBNTVkV3A0bTFSTmpKcklRLWdibkwtYjBoUkozdnBacEpBZmFZ?oc=5",
-      "image": null,
-      "headline": "San Francisco sues over Truth Social 'insider trading' - Courthouse News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.15
-        }
-      ]
-    },
-    {
-      "id": "9c707b4e2d009406",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T23:44:24+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "courthousenews.com",
-      "type": "news",
-      "quote": "San Francisco sues over Truth Social 'insider trading' - courthousenews.com San Francisco sues",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.1,
-      "change": -0.22,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3hud205Z3c1ZU9icC13dTJ0WEpMUEdjY1g3YVU5UXNQeUlWR2dObGdmaS1rNkRBNWwyaGVOcEJWOGx3WllmWHBPNzZZcW1UejRpWUVvOFhGY0h2MlFuLTNWZjBPVlBBNTVkV3A0bTFSTmpKcklRLWdibkwtYjBoUkozdnBacEpBZmFZ?oc=5",
-      "image": null,
-      "headline": "San Francisco sues over Truth Social 'insider trading' - courthousenews.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        }
-      ]
-    },
-    {
-      "id": "ff840b77b481ecc1",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T22:40:32+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "What the Paramount-Warner Bros. merger settlement means for Hollywood A day after",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 30.83,
-      "change": 0.1,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/majormerger-1024x683.jpg",
-      "headline": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 28.7
-        },
-        {
-          "d": "08-25",
-          "c": 28.9
-        },
-        {
-          "d": "08-26",
-          "c": 28.75
-        },
-        {
-          "d": "08-27",
-          "c": 28.88
-        },
-        {
-          "d": "08-28",
-          "c": 28.77
-        },
-        {
-          "d": "08-31",
-          "c": 28.53
-        },
-        {
-          "d": "09-01",
-          "c": 28.32
-        },
-        {
-          "d": "09-02",
-          "c": 28.39
-        },
-        {
-          "d": "09-03",
-          "c": 28.37
-        },
-        {
-          "d": "09-04",
-          "c": 28.25
-        },
-        {
-          "d": "09-08",
-          "c": 28.12
-        },
-        {
-          "d": "09-09",
-          "c": 27.91
-        },
-        {
-          "d": "09-10",
-          "c": 28.2
-        },
-        {
-          "d": "09-11",
-          "c": 28.04
-        },
-        {
-          "d": "09-14",
-          "c": 28.1
-        },
-        {
-          "d": "09-15",
-          "c": 28.03
-        },
-        {
-          "d": "09-16",
-          "c": 28.07
-        },
-        {
-          "d": "09-17",
-          "c": 28.24
-        },
-        {
-          "d": "09-18",
-          "c": 27.8
-        },
-        {
-          "d": "09-21",
-          "c": 30.8
-        },
-        {
-          "d": "09-22",
-          "c": 30.83
-        }
-      ]
-    },
-    {
-      "id": "8727d3057a409c29",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T22:40:32+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "What the Paramount-Warner Bros. merger settlement means for Hollywood A day",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 0.88,
-      "change": -4.35,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/majormerger-1024x683.jpg",
-      "headline": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 1.2
-        },
-        {
-          "d": "08-25",
-          "c": 1.23
-        },
-        {
-          "d": "08-26",
-          "c": 1.18
-        },
-        {
-          "d": "08-27",
-          "c": 1.19
-        },
-        {
-          "d": "08-28",
-          "c": 1.09
-        },
-        {
-          "d": "08-31",
-          "c": 1.1
-        },
-        {
-          "d": "09-01",
-          "c": 1.07
-        },
-        {
-          "d": "09-02",
-          "c": 1.07
-        },
-        {
-          "d": "09-03",
-          "c": 1.06
-        },
-        {
-          "d": "09-04",
-          "c": 1.01
-        },
-        {
-          "d": "09-08",
-          "c": 1.05
-        },
-        {
-          "d": "09-09",
-          "c": 1.06
-        },
-        {
-          "d": "09-10",
-          "c": 0.98
-        },
-        {
-          "d": "09-11",
-          "c": 1.0
-        },
-        {
-          "d": "09-14",
-          "c": 1.01
-        },
-        {
-          "d": "09-15",
-          "c": 1.0
-        },
-        {
-          "d": "09-16",
-          "c": 0.97
-        },
-        {
-          "d": "09-17",
-          "c": 0.93
-        },
-        {
-          "d": "09-18",
-          "c": 0.93
-        },
-        {
-          "d": "09-21",
-          "c": 0.92
-        },
-        {
-          "d": "09-22",
-          "c": 0.88
-        }
-      ]
-    },
-    {
-      "id": "66b0fc565c8bc8f7",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T21:10:56+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "Media over alleged 'pay-to-play' Truth Social service - Fox News San Francisco sues Trump Media over alleged",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 57.32,
-      "change": -1.0,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDZCX2JuVmNkUlB2UUExZVJjZ3ZOVXlzNEhoNEhyS3p6Yy1xZkFUQ3V0MWxHYmxiSkRJV3V1Z0ZQOTZFMzVBN3U4dEJsRmcxTkxRSXVRLVE0Q19DUTFDUFZMSXNFR0szbElzLUpfNjB4SmVoRWRxNXVfY0MzQzBONDRqZi1sdy1DcnRCOFhmRmp0Yk0zR1NmcUJfdy1NQVBLWUZz0gGoAUFVX3lxTE51VlQtT01WUV9GSUpVblRtU0tEMzlITkc1dVlCUmhXMjRoYmxDaUNrYjY4WVczQ0RlNW5FQ21KRUdZaHlxbjdzNWJtZUhVYmlsMDY2M1FwU3BocXZCSjYzZmRYQ09YWHIyZWZLSkRpLXA0QWxrZFRIdE5rU2dpVXdvODBlQk9yM2FMbVpha1RUMDY1eUF6RWFZNUxwczFvLTJpX29xX0JrdQ?oc=5",
-      "image": null,
-      "headline": "San Francisco sues Trump Media over alleged 'pay-to-play' Truth Social service - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 61.29
-        },
-        {
-          "d": "08-25",
-          "c": 62.38
-        },
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        }
-      ]
-    },
-    {
-      "id": "d9b359739a132fa8",
-      "date": "Tue, 22 Sep 2026",
-      "ts": "2026-09-22T21:10:56+00:00",
-      "date_display": "Sep 22, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "San Francisco sues Trump Media over alleged 'pay-to-play' Truth Social service - Fox News",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.38,
-      "change": 2.85,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDZCX2JuVmNkUlB2UUExZVJjZ3ZOVXlzNEhoNEhyS3p6Yy1xZkFUQ3V0MWxHYmxiSkRJV3V1Z0ZQOTZFMzVBN3U4dEJsRmcxTkxRSXVRLVE0Q19DUTFDUFZMSXNFR0szbElzLUpfNjB4SmVoRWRxNXVfY0MzQzBONDRqZi1sdy1DcnRCOFhmRmp0Yk0zR1NmcUJfdy1NQVBLWUZz0gGoAUFVX3lxTE51VlQtT01WUV9GSUpVblRtU0tEMzlITkc1dVlCUmhXMjRoYmxDaUNrYjY4WVczQ0RlNW5FQ21KRUdZaHlxbjdzNWJtZUhVYmlsMDY2M1FwU3BocXZCSjYzZmRYQ09YWHIyZWZLSkRpLXA0QWxrZFRIdE5rU2dpVXdvODBlQk9yM2FMbVpha1RUMDY1eUF6RWFZNUxwczFvLTJpX29xX0JrdQ?oc=5",
-      "image": null,
-      "headline": "San Francisco sues Trump Media over alleged 'pay-to-play' Truth Social service - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-24",
-          "c": 9.3
-        },
-        {
-          "d": "08-25",
-          "c": 9.4
-        },
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
         }
       ]
     }
