@@ -1,7 +1,655 @@
 {
-  "updated_at": "2026-11-10T18:59:30.373656+00:00",
+  "updated_at": "2026-11-10T23:54:40.399914+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "bb9599906b6d6a5b",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T22:06:53+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "brewing company supporting her after Kirk backlash - Fox News Jennifer Welch praises anti-Trump Wisconsin brewing",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.25,
+      "change": -0.43,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OXFsTFRKNHhCVjZmZEdKbFNGQ1k1aFBfaGhKelJ1SVJNcjZlSVc5dXdTLXFkamxqWXluRzNOVzd3dGI0U3dPUHZTTWxuNm1xTlNicDNR?oc=5",
+      "image": null,
+      "headline": "Jennifer Welch praises anti-Trump Wisconsin brewing company supporting her after Kirk backlash - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 55.98
+        },
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        }
+      ]
+    },
+    {
+      "id": "381ed74f70ea5126",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T21:22:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The Independent",
+      "type": "news",
+      "quote": "Trump Media sees its revenue triple after offering faster access to",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.28,
+      "change": 5.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3BCSDRXTTNMZTV0UDNRU2JzcjZURVNhbnlTZ2h6cUFoYXNMRUlJWm9rbjB6cUVxZnpLd2lJUFppY0pNN1NrcDNoMWVFMFc3Yk5sWDBMalEzbDVCZ2p2WnR3enpMRk03OGlXVzJROTB2aWpvYTFINnQyZmhRSTdUWUFxLURHcnhoZy1KdUhNN2trcTJhdEhwZngtU3RGWndhSUI3bDluTUE0TXNkYUE?oc=5",
+      "image": null,
+      "headline": "Trump Media sees its revenue triple after offering faster access to president\u2019s posts for a fee - The Independent",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        }
+      ]
+    },
+    {
+      "id": "95e599bbedaa9d8b",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T19:27:59+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Denial, Trump Was Told on Trip to China About Spying on Nvidia\u2019s Jensen Huang - The New York Times Despite Denial, Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?oc=5",
+      "image": null,
+      "headline": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia\u2019s Jensen Huang - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "fa65095a15acc99e",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T19:27:59+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trip to China About Spying on Nvidia\u2019s Jensen Huang - The New York Times Despite Denial, Trump Was Told on Trip to China About",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?oc=5",
+      "image": null,
+      "headline": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia\u2019s Jensen Huang - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        }
+      ]
+    },
+    {
+      "id": "56daab82f34d3122",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T19:25:06+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Gadget Review",
+      "type": "news",
+      "quote": "Trump Says FBI Is Investigating Jensen Huang's Affair - As Nvidia Faces New Chip Smuggling Questions - Gadget Review Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUF3aHlrSlNHTVlzb0QtMXN4d2F5VGVhakpiWXJveE9oajVKMllLUHRaRFF3TG1UdnROMklBU181WUp5ZGhZcEk3cmlEZUFZSU54SGtsVFlaanY2ZzhCb3BoWUVIcEU4WFc1NFFMYVc3UjZmVldWMGZTTy1kelFoaVVzaXU0TVNkZDZOME1KM1F0VDhBdER1aUNzWFVDVWF1aE5RbGgxZ1NFTGNLa1lvVTZ0LVVSazdFUjIxUkpmU1VpMG1O?oc=5",
+      "image": null,
+      "headline": "Trump Says FBI Is Investigating Jensen Huang's Affair - As Nvidia Faces New Chip Smuggling Questions - Gadget Review",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "1f2d9d1e0a81d999",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T19:01:37+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New Republic",
+      "type": "news",
+      "quote": "Trump Media Filings Show How Much He Makes From Truth Social scheme -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.28,
+      "change": 5.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMF94UWRzWlA3LUVOSEtTZW40bkVtMnMxZ09hd3Foc0J1OUV3S25rTy1vdnRkSlJkZTNTTW9pNEM4cjhlc3Q0X2x6OWpaS2JZS0JDVThTbkctTnphbFFGczQ1cy1mWGNYUktNbno1TTR6SDRxQ3ZaUkFkN1MzY0M5TjJYVTBLeHdLYVpiZDRHQlM0NnpHQnc?oc=5",
+      "image": null,
+      "headline": "Trump Media Filings Show How Much He Makes From Truth Social scheme - The New Republic",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        }
+      ]
+    },
     {
       "id": "1a279fbb8a1a9f70",
       "date": "Tue, 10 Nov 2026",
@@ -107,6 +755,114 @@
         {
           "d": "11-10",
           "c": 4.3
+        }
+      ]
+    },
+    {
+      "id": "ccfb821ed63d28f6",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T17:18:41+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Hegseth Is Defiant as Impeachment Vote Looms - The New York Times Hegseth Is Defiant as Impeachment Vote",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHBPbjdGVTdwNEJpaXJqR1UxX1J5YUpnb1d3a0RMdm9vSC1LUVcxRXJMdDFTWjNrZEJBYjl4TFhqdzZvTEI0eWdsUS1sS19TTDltTDYyRGV4UklQRGo2MU1zdHc1c3BfRlVQa0NoaDRVMEhEcGRtSktaOW8yQm8zS1FyY2tScHV2dkE2NlZyMUtEMFM4S2cw?oc=5",
+      "image": null,
+      "headline": "Hegseth Is Defiant as Impeachment Vote Looms - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
         }
       ]
     },
@@ -959,6 +1715,114 @@
       ]
     },
     {
+      "id": "ec07524df2a71c85",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T09:38:11+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "NPR",
+      "type": "news",
+      "quote": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy - NPR",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmlkZWhfaGhiZkU5MVNlcWctWGdQYUU1eDlTQlBmOEwtODliSllqWDdVclFlZGoxSzNBcDlUZnhsTjFlWFJRVGVXeTUySnhnamxpcnd1aXZaM1Jfc3MweVJkS3pBbHFnbEo3d2lDRHNMYmM5bmMtNnhIUC00ckpCY2JzdW95SlhUUEduUVBEMEhNUFllNGx6QTdVRGZySk13SmlvSzg1VGR6SVRDSk05NjBDM1J0MzVUSzJHUV9ZazI?oc=5",
+      "image": null,
+      "headline": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy - NPR",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
       "id": "68f61e5dcca1349c",
       "date": "Tue, 10 Nov 2026",
       "ts": "2026-11-10T09:04:15+00:00",
@@ -1275,6 +2139,114 @@
       ]
     },
     {
+      "id": "03621e8ee94f7540",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T07:10:47+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW1HU00tbS1Cc1hhRHRONTBJakI4QW15UDhOUWFqVVByOXdEcWpUeXFpMVFwQ2wySFg0UkRfd3NjX0lma1RhX1k3cjJpcXRQd2FfbzFvdS1nUjdPcTJXSW1TRWpDV0drNnJqRG1iZks0TkJ2dEFadGFBZlJNcVdFdUU5OUVWYXpsTjFhMXRYenhsM29zUkFXT0tlRFc5SDJfYWJIYjFmQjhYRlB2dUdweVBHZGgxeVE?oc=5",
+      "image": null,
+      "headline": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
       "id": "e0fe6d8c9f02444b",
       "date": "Tue, 10 Nov 2026",
       "ts": "2026-11-10T05:02:00+00:00",
@@ -1479,6 +2451,114 @@
         {
           "d": "11-09",
           "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "70bb9fefe0bcd8ff",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T03:53:06+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Al Jazeera",
+      "type": "news",
+      "quote": "Trump says FBI probing Nvidia CEO Huang\u2019s affair with alleged spy - Al Jazeera Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEhxUW5jNlh2RlU0X0tzMFptX1M3bmVsSmZ4cld1Tjd5OE92SmFRaF93MDNaWHFobXVBZExBTVdTS0FzWmFIWkg4SU5zN2psS3hJS203VGNqaFlpSXlLSmhqRFVNX0hVSlZacGJ1aVdqTmttbHVSTm9vLWd6OHZCYW8xRzJRTnRmUmsyNFVpMk5kRzA5Qk93VXlnRUxoMHFlX21GcFZn0gGrAUFVX3lxTE9lcGhrUHNzMTdQQjBTV3ZGZ1VfREhxWGFfTFdPTU5kdTRVRV91ZzFnN1doNHlZWUdscnkzODYzbE5nU2tqTzQ4aEhVVVdKMjZtVGh3dzZSRENiaXRuRU9jU3ExanloTEl1WUtzcEY3eGF4azdKTmM3LTRBU2JaX1JyMXcwbEhwYzJOTHBMSnhuZ1d5TjVjczdqTkNiZ3BtZHVVN2xKdFJ0eFdrbw?oc=5",
+      "image": null,
+      "headline": "Trump says FBI probing Nvidia CEO Huang\u2019s affair with alleged spy - Al Jazeera",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
         }
       ]
     },
@@ -17702,6 +18782,330 @@
         {
           "d": "11-09",
           "c": 72.25
+        }
+      ]
+    },
+    {
+      "id": "e3b099d40011dc13",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+      "image": null,
+      "headline": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "f2c0b7ed1c4eb4b8",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times Nvidia Chief,",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 161.78,
+      "change": -2.48,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+      "image": null,
+      "headline": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 153.62
+        },
+        {
+          "d": "10-13",
+          "c": 151.99
+        },
+        {
+          "d": "10-14",
+          "c": 155.31
+        },
+        {
+          "d": "10-15",
+          "c": 156.63
+        },
+        {
+          "d": "10-16",
+          "c": 154.26
+        },
+        {
+          "d": "10-19",
+          "c": 153.29
+        },
+        {
+          "d": "10-20",
+          "c": 154.0
+        },
+        {
+          "d": "10-21",
+          "c": 152.38
+        },
+        {
+          "d": "10-22",
+          "c": 158.11
+        },
+        {
+          "d": "10-23",
+          "c": 152.76
+        },
+        {
+          "d": "10-26",
+          "c": 148.53
+        },
+        {
+          "d": "10-27",
+          "c": 148.01
+        },
+        {
+          "d": "10-28",
+          "c": 148.96
+        },
+        {
+          "d": "10-29",
+          "c": 151.82
+        },
+        {
+          "d": "10-30",
+          "c": 154.38
+        },
+        {
+          "d": "11-02",
+          "c": 158.38
+        },
+        {
+          "d": "11-03",
+          "c": 154.4
+        },
+        {
+          "d": "11-04",
+          "c": 163.1
+        },
+        {
+          "d": "11-05",
+          "c": 157.95
+        },
+        {
+          "d": "11-06",
+          "c": 158.41
+        },
+        {
+          "d": "11-09",
+          "c": 165.9
+        },
+        {
+          "d": "11-10",
+          "c": 161.78
+        }
+      ]
+    },
+    {
+      "id": "48285d1c78184e17",
+      "date": "Thu, 29 Oct 2026",
+      "ts": "2026-10-29T07:00:00+00:00",
+      "date_display": "Oct 29, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+      "image": null,
+      "headline": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
         }
       ]
     },
@@ -38627,1131 +40031,6 @@
           "c": 8.91
         }
       ]
-    },
-    {
-      "id": "431c988a12092361",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T13:08:40+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "marketscreener.com",
-      "type": "news",
-      "quote": "Trump Media & Technology Files Papers for All-Stock Merger With Fusion",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": 3.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmRLMDB3d19HRFVPWUJQdXI5S01jekFDS1J0OGZaNmtTbmRpa0xhSjI3bWw5WVVMTUx4c20ybllwZWw4SUVld3NTVkpjSTYzX3RzUTlHdFJiV3RQV2t1aFh2WEVqNl9JbEdUR3B0aDNjbS1BM0hQb2kxNTVOUFJwT1NGLXVwWDViZ2hCTEEyTnZRbmU1SURCSnNxSnVRcWoyQkhwNjJkcVZzWk5hMVFJWGZ1bkU0UnZUWnhCSTl3NDd5X0tvLVFTeDk2QjNzOXZqMGlJXzc0Zw?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Files Papers for All-Stock Merger With Fusion Energy Company TAE - marketscreener.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "6c3722a8c75e8768",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T12:39:24+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Stock Titan",
-      "type": "news",
-      "quote": "Trump Media (DJT) has lent TAE $200M. Its proposed merger would pay",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": 3.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVRyaGVsRzN0OUwyeDJtTXE2bmZMcE55YkJZZGFnZXBhQXV2WDJnd0VqZlhfTml2d0ROLUhhRS1oR2xWdGFsZ20zX3dLa19UcEtGS0VxaHM1VWdsdW5rMWpYVXQ4UG90dXpPay13dk1vRVI4MVpVZHZVS2E5U2hQbmIxWVdnc1dQSlFrei1xNkxxYU92TEZxZE9XVFRVa2lvTWN4NmY2ckwzU1Z4VVYzTkxqeGFEUjdWTUFpX05Jc0RwMWgzVW9ieGtB?oc=5",
-      "image": null,
-      "headline": "Trump Media (DJT) has lent TAE $200M. Its proposed merger would pay TAE stockholders in shares. - Stock Titan",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "8b5f8a33504fa57e",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T12:30:00+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Stock Titan",
-      "type": "news",
-      "quote": "Trump Media's proposed deal would pair it with a fusion developer;",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.19,
-      "change": 0.99,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlBsY3VDTTVwWmZ1ZS1ENTRxU2FvaHdmaWQwaVZUMl9wTF82Ti16Wm1YNUhqWWZhMWxaZHVqNUVpRENVRVZQam9qTXdmcWoxME1vS0RaUE5pRk9QWkJnODdLRW5ic1RrblRpRVRTeF9PZUwwYmdETE1neEtxOXJCRHpMLTNxdXNJTFNjZ3FGWVRwSzctWHl5UTZPNm1LOS1YWEVpZi1GTThPUVRjc3B6ZFhVaHpQeGFE?oc=5",
-      "image": null,
-      "headline": "Trump Media's proposed deal would pair it with a fusion developer; each side would own about half. - Stock Titan",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.19
-        }
-      ]
-    },
-    {
-      "id": "64583d31a3e148b9",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T10:58:33+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Pluang",
-      "type": "news",
-      "quote": "Trump Media and Technology Group Corp (DJT) Stock Price Today: $9.09 -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": 3.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MT1dlWEtlb3Y3eGZ1eGlhTHVOaUh4c2hGak9KdUVVbUFJZHA3dWliN3hDYVZaNTNDWkNrSzFLNGNwWk40TTJfWHY2aWdVNDl6X2lDVDB5NEI?oc=5",
-      "image": null,
-      "headline": "Trump Media and Technology Group Corp (DJT) Stock Price Today: $9.09 - Pluang",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "d420a80d172c4646",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T08:20:46+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Yahoo",
-      "type": "news",
-      "quote": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo Ethics Filing Shows Leavitt Family Held",
-      "company": "Tesla",
-      "ticker": "TSLA",
-      "price": 349.64,
-      "change": -0.91,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0ZsallhcHEzV1pQb015alFjUDNEaDB1Qm1HaU1tSW1xZDFsTDF0QUl0dGxzUzlXZHkyQjlkMTd0TmEyYU94b1NBX1VkNGl2bmhjTjRHWDdxUkx4YVM1QXBpUDFMWEJzTzZ0UTRBQmNWZEU3SWFUcXFMYnpyWS1VYzlnS0tUYmx4czhGLS1TalNUaDJlb0VoQ3hB?oc=5",
-      "image": null,
-      "headline": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 367.95
-        },
-        {
-          "d": "09-01",
-          "c": 356.09
-        },
-        {
-          "d": "09-02",
-          "c": 357.01
-        },
-        {
-          "d": "09-03",
-          "c": 376.37
-        },
-        {
-          "d": "09-04",
-          "c": 354.08
-        },
-        {
-          "d": "09-08",
-          "c": 368.16
-        },
-        {
-          "d": "09-09",
-          "c": 367.81
-        },
-        {
-          "d": "09-10",
-          "c": 363.56
-        },
-        {
-          "d": "09-11",
-          "c": 365.44
-        },
-        {
-          "d": "09-14",
-          "c": 358.97
-        },
-        {
-          "d": "09-15",
-          "c": 356.58
-        },
-        {
-          "d": "09-16",
-          "c": 358.08
-        },
-        {
-          "d": "09-17",
-          "c": 366.2
-        },
-        {
-          "d": "09-18",
-          "c": 364.27
-        },
-        {
-          "d": "09-21",
-          "c": 375.3
-        },
-        {
-          "d": "09-22",
-          "c": 378.9
-        },
-        {
-          "d": "09-23",
-          "c": 380.12
-        },
-        {
-          "d": "09-24",
-          "c": 377.94
-        },
-        {
-          "d": "09-25",
-          "c": 372.11
-        },
-        {
-          "d": "09-28",
-          "c": 357.45
-        },
-        {
-          "d": "09-29",
-          "c": 352.84
-        },
-        {
-          "d": "09-30",
-          "c": 349.64
-        }
-      ]
-    },
-    {
-      "id": "8c3a203857b1d429",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T08:20:46+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Yahoo",
-      "type": "news",
-      "quote": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo Ethics Filing Shows Leavitt Family",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.39,
-      "change": 3.19,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0ZsallhcHEzV1pQb015alFjUDNEaDB1Qm1HaU1tSW1xZDFsTDF0QUl0dGxzUzlXZHkyQjlkMTd0TmEyYU94b1NBX1VkNGl2bmhjTjRHWDdxUkx4YVM1QXBpUDFMWEJzTzZ0UTRBQmNWZEU3SWFUcXFMYnpyWS1VYzlnS0tUYmx4czhGLS1TalNUaDJlb0VoQ3hB?oc=5",
-      "image": null,
-      "headline": "Ethics Filing Shows Leavitt Family Held Trump Media, Tesla Stock - Yahoo",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.39
-        }
-      ]
-    },
-    {
-      "id": "5dfc5ed191efa426",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T07:00:00+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Trump\u2019s AI lunch included every major tech company. Except Apple - CNBC Trump\u2019s AI lunch included every major tech company.",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 348.22,
-      "change": 1.23,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWhaVGlFMFhRaGhGX1prSlFKVGNQY0hHTjhYa25PcERoaE5zU3FNOHh6MUN0S1ZXdDJlakozMnFfcnZvbW9YdTR0NmhZNGVTRDZTalNwSmFOaVF1VWppRlJ1Wlh1SWRIbU9jSk1GN3VheS0zUnZOeEw4MDg2ZG5nT3JoWkRkZEXSAYwBQVVfeXFMT1B5NV9RSGxQdGlKYXdDNUVDdlFMODVUMjRHazlVRTRpQ21EQWVJLUVzTUUyOTBINHRKVzVuYnZlYzhPUUI4Y1RDOHQxZkJLbUFEUnBNeTBwSU1Tb0trODRfVnJmZ0ExQ2o0SDRiV0FPWmJzc2htTW84RDBLR0lJZjlmeEJwakpJYlQxRGw?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-23",
-          "c": 337.02
-        },
-        {
-          "d": "09-24",
-          "c": 335.92
-        },
-        {
-          "d": "09-25",
-          "c": 341.07
-        },
-        {
-          "d": "09-28",
-          "c": 338.4
-        },
-        {
-          "d": "09-29",
-          "c": 329.4
-        },
-        {
-          "d": "09-30",
-          "c": 333.02
-        },
-        {
-          "d": "10-01",
-          "c": 330.32
-        },
-        {
-          "d": "10-02",
-          "c": 333.69
-        },
-        {
-          "d": "10-05",
-          "c": 332.89
-        },
-        {
-          "d": "10-06",
-          "c": 333.63
-        },
-        {
-          "d": "10-07",
-          "c": 336.67
-        },
-        {
-          "d": "10-08",
-          "c": 340.42
-        },
-        {
-          "d": "10-09",
-          "c": 336.64
-        },
-        {
-          "d": "10-12",
-          "c": 340.97
-        },
-        {
-          "d": "10-13",
-          "c": 341.27
-        },
-        {
-          "d": "10-14",
-          "c": 342.96
-        },
-        {
-          "d": "10-15",
-          "c": 342.0
-        },
-        {
-          "d": "10-16",
-          "c": 343.46
-        },
-        {
-          "d": "10-19",
-          "c": 342.94
-        },
-        {
-          "d": "10-20",
-          "c": 339.5
-        },
-        {
-          "d": "10-21",
-          "c": 343.99
-        },
-        {
-          "d": "10-22",
-          "c": 348.22
-        }
-      ]
-    },
-    {
-      "id": "a1fd60d5ad9ad1d8",
-      "date": "Tue, 29 Sep 2026",
-      "ts": "2026-09-29T21:11:09+00:00",
-      "date_display": "Sep 29, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "congressman and a former Trump White House staffer will square off on a Utah debate stage Tuesday as voters in the",
-      "company": "Square",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-live-utah-voters-hear-from-house-candidates-mcadams-owen-in-midterm-debate",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/GettyImages-1200176656-1024x666.jpg",
-      "headline": "WATCH LIVE: Utah voters hear from House candidates McAdams, Owen in midterm debate",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "f3fddc7eaa3a8087",
-      "date": "Tue, 29 Sep 2026",
-      "ts": "2026-09-29T21:11:09+00:00",
-      "date_display": "Sep 29, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "congressman and a former Trump White House staffer will square off on a Utah debate stage Tuesday as voters in the",
-      "company": "Square",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-live-utah-voters-hear-from-house-candidates-mcadams-owen-in-midterm-debate",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/GettyImages-1200176656-1024x666.jpg",
-      "headline": "WATCH: Utah voters hear from House candidates McAdams, Owen in midterm debate",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "7345811882afea3e",
-      "date": "Tue, 29 Sep 2026",
-      "ts": "2026-09-29T20:28:00+00:00",
-      "date_display": "Sep 29, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "tariff strategy is taking shape, industry leader says - Fox Business Historic $15B Iowa steel plant signals Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.83,
-      "change": -1.27,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT0xFRWVSR2Frd0tyc2R3TjF6YXB4WGJTNk92eVdtU21mTHY3X3VsSDloZkNLeVNxNXRXa3oyZHQ2NlY2NTBnOUs0MG9CU0djNGV6WDJ5WUdmWV9OeVZhdDJuVXIzX1FXdWkxdDVQUklIVjBia19MVC1WX09IdmRGRnJjeHhLNTg5SlFjeHFEOG8wVlRZVnhRTVZBT0tDYnJNWURvaU1veVBvWm1ZdmNSWXp6eGI2SWtYbDN5dnZqTUFBVUViOUVSMFNB0gHPAUFVX3lxTE9uWk90Zm9qN1FtX2JHVEJ2YlB4MkF0NEtsX1liOUNkNzdMdTUwRE5jbTZoUENXOER2YzhwRzkzV29UejdVanFHX3NOQ3VtcU9PeXVsZXNpLXl2VXlPLVJRWGtrMGhsSVFWNWYwTGJtaU5OUnlkcG5mWEFwOE5TYXVTY1o1V05HU3hpWmo4MkxfOElvQU1jR0gzYUZVMG9aS0RYUzZtbEhxMnJWb1hHRzNPZ0VTVDRvbnV0M3E0b2o1YUxGazdLWTFlaDB6MmRVWQ?oc=5",
-      "image": null,
-      "headline": "Historic $15B Iowa steel plant signals Trump tariff strategy is taking shape, industry leader says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        }
-      ]
-    },
-    {
-      "id": "6b3198e442be749a",
-      "date": "Tue, 29 Sep 2026",
-      "ts": "2026-09-29T20:28:00+00:00",
-      "date_display": "Sep 29, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Historic $15B Iowa steel plant signals Trump tariff strategy is taking shape, industry leader says - Fox Business",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 154.67,
-      "change": -1.57,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT0xFRWVSR2Frd0tyc2R3TjF6YXB4WGJTNk92eVdtU21mTHY3X3VsSDloZkNLeVNxNXRXa3oyZHQ2NlY2NTBnOUs0MG9CU0djNGV6WDJ5WUdmWV9OeVZhdDJuVXIzX1FXdWkxdDVQUklIVjBia19MVC1WX09IdmRGRnJjeHhLNTg5SlFjeHFEOG8wVlRZVnhRTVZBT0tDYnJNWURvaU1veVBvWm1ZdmNSWXp6eGI2SWtYbDN5dnZqTUFBVUViOUVSMFNB0gHPAUFVX3lxTE9uWk90Zm9qN1FtX2JHVEJ2YlB4MkF0NEtsX1liOUNkNzdMdTUwRE5jbTZoUENXOER2YzhwRzkzV29UejdVanFHX3NOQ3VtcU9PeXVsZXNpLXl2VXlPLVJRWGtrMGhsSVFWNWYwTGJtaU5OUnlkcG5mWEFwOE5TYXVTY1o1V05HU3hpWmo4MkxfOElvQU1jR0gzYUZVMG9aS0RYUzZtbEhxMnJWb1hHRzNPZ0VTVDRvbnV0M3E0b2o1YUxGazdLWTFlaDB6MmRVWQ?oc=5",
-      "image": null,
-      "headline": "Historic $15B Iowa steel plant signals Trump tariff strategy is taking shape, industry leader says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 132.94
-        },
-        {
-          "d": "09-01",
-          "c": 124.88
-        },
-        {
-          "d": "09-02",
-          "c": 123.19
-        },
-        {
-          "d": "09-03",
-          "c": 144.82
-        },
-        {
-          "d": "09-04",
-          "c": 142.8
-        },
-        {
-          "d": "09-08",
-          "c": 136.52
-        },
-        {
-          "d": "09-09",
-          "c": 132.7
-        },
-        {
-          "d": "09-10",
-          "c": 128.56
-        },
-        {
-          "d": "09-11",
-          "c": 130.97
-        },
-        {
-          "d": "09-14",
-          "c": 136.94
-        },
-        {
-          "d": "09-15",
-          "c": 129.6
-        },
-        {
-          "d": "09-16",
-          "c": 126.18
-        },
-        {
-          "d": "09-17",
-          "c": 132.25
-        },
-        {
-          "d": "09-18",
-          "c": 153.92
-        },
-        {
-          "d": "09-21",
-          "c": 168.5
-        },
-        {
-          "d": "09-22",
-          "c": 167.33
-        },
-        {
-          "d": "09-23",
-          "c": 162.2
-        },
-        {
-          "d": "09-24",
-          "c": 161.61
-        },
-        {
-          "d": "09-25",
-          "c": 158.61
-        },
-        {
-          "d": "09-28",
-          "c": 157.14
-        },
-        {
-          "d": "09-29",
-          "c": 154.67
-        }
-      ]
-    },
-    {
-      "id": "0c4fdcffdd290f84",
-      "date": "Tue, 29 Sep 2026",
-      "ts": "2026-09-29T16:02:09+00:00",
-      "date_display": "Sep 29, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "paperwork: 'We believe that your time matters' - Fox News Trump says America.gov will streamline government",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.54,
-      "change": -1.79,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BQUdEWVFHNkxVdVpmYV96MnRsT0RIanNjN2F2YmlzV3FiWUFucHNRMlp1UW1SWlFfOVh0UTlrSFdYMkZGR2t3ZksyLWNHQXR1bVRRajVB?oc=5",
-      "image": null,
-      "headline": "Trump says America.gov will streamline government paperwork: 'We believe that your time matters' - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.54
-        }
-      ]
-    },
-    {
-      "id": "c5feff798e7c4338",
-      "date": "Tue, 29 Sep 2026",
-      "ts": "2026-09-29T11:22:08+00:00",
-      "date_display": "Sep 29, 2026",
-      "source": "KWXX - Hawaii",
-      "type": "news",
-      "quote": "President Trump announces plans to build largest U.S. steel facility in Iowa for $15 Billion - KWXX - Hawaii President",
-      "company": "U.S. Steel",
-      "ticker": "X",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGdPZTM1VnhNVFkyY05IdTVMR01reFhscU5HOEdxSlZlbWtuVm5uY0IzWnQxYkxpTHdhV3ZQaHJNRTdGaHJXMTdfWFY3WGdWRFhtVE9aSzlLbGZfQUc0Q1RBd2ZXcU5tNmFhcG5TeVloajF6bHI3bDJuMjVPYUtMakNoR2h2T0tfeDdIZ2JuQ3BOVUtPZ29maFQydGttUzhyazdWMWMzcG9aRHZNOE9mMm5tV212SWI2VVh1RmkyMlg?oc=5",
-      "image": null,
-      "headline": "President Trump announces plans to build largest U.S. steel facility in Iowa for $15 Billion - KWXX - Hawaii",
-      "channel": "News",
-      "series": null
     }
   ]
 }
