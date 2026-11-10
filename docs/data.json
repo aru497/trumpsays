@@ -1,7 +1,839 @@
 {
-  "updated_at": "2026-11-10T03:40:01.174048+00:00",
+  "updated_at": "2026-11-10T11:55:26.107476+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "baa48444d62c9d90",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T11:18:49+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "La Voce di New York",
+      "type": "news",
+      "quote": "Trump Profits from His Own Posts as Truth Social Revenue Soars - La Voce di New York Trump Profits from His",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.06,
+      "change": 1.75,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHV3R1Bxa0lyTE4tdnFPTW96SWpwYUl5eWhSaEpGRUt3UkZqOEFCMENoQnJmRDF6Tl90MWRSUV9PS1ZETFI4T3dxUXRFbkM3cGhTam8xbS1WNGlySlZncEU0MUJnNGRMb0ltWGxpeGJNVmN4anF3TVN5RUdETVl1MzBxY2tDbDdjWjAwZFllMFdtb3F6a3RsNUxMZGdqZzV3Yk9HQW1kUF8tdGIzT0N3dkttaHQ?oc=5",
+      "image": null,
+      "headline": "Trump Profits from His Own Posts as Truth Social Revenue Soars - La Voce di New York",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        }
+      ]
+    },
+    {
+      "id": "1a19e7774235f5f2",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T11:00:10+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "JournalArta",
+      "type": "news",
+      "quote": "Trump Asked Nvidia CEO About Alleged Spy as Shares Lost $250bn - JournalArta",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelQyX1lSVnJKUFgtWVRJZHB5c0VPT3VFMW5GZUdjQUxmVno5NU5EU2V0QVB5ZnVhRlUtdmd4ZnVhakFfWTdWVElmem5KMFJCYzM4X2R4RFRiUnlIb3ZDYUNURzJycThURi1HMk9JclJaWnJSTF9fZ1NkV2JFdjRIbVU5M0lFSlBnOVlWV0RFSQ?oc=5",
+      "image": null,
+      "headline": "Trump Asked Nvidia CEO About Alleged Spy as Shares Lost $250bn - JournalArta",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "452ada90ed560389",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T10:01:02+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Storyboard18",
+      "type": "news",
+      "quote": "Nvidia shares slide 4% as Jensen Huang faces espionage",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3JlRnJWT0swNHlmNXhQNDFGcVJUMVI5cURGOGR0Nm5FNTFGdWt1d3NtV0VIMkxFM0NQRDBudTVNdzB6dU5haVpFWE00cDlIcGFRUjFRc21fZ1FGZlB3S3BRRjYwY3lsaUlYUFhuZEtmYXdFLVRZN0hFaUt3bF9xTGhtN0hYNDlSRUR4OE05cl91M3J2ejlMcS05dGxnb1g1SlNyTlhaelo3dFYzMUUwV2VEcUJyOHVIUzZDd2h1Q3pXTkd6bHdRTGR5Ql9BNl9YcVFQMTl3bEhNaWNwNTEyZFEtWXZvQdIB6wFBVV95cUxPWWx4Z2xSVEJJbnZ4RkthSnJPSm1lQ3BHOUlwOFRGNXB6Y2lxUWtKS2xpa2JQOE44SVFCVUVUM19vb0hRZFZHNTdkRkdJVE1OOC1LSFR3djRsSHBZQzRET0tyZ3BiWVBPLTlJRklwVEpOZkRrd2F4Ui1OcmVPbVdLcUJGOHBzUjB4NEhmdzJIM2s3R0REcVpOaWNSSWhWZ09acHBXN2hENVVyN0RWQV91eXJPakNKSkpoaVpmMHJSVjdmQzdRYk5QU1k3Y1YzakZkVnZFeXM1Z1Mtdk5FUWV3eVYwTXdFQjRpMk5n?oc=5",
+      "image": null,
+      "headline": "Nvidia shares slide 4% as Jensen Huang faces espionage allegations; Trump confirms FBI probe - Storyboard18",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "ac24e583e4e05797",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T09:53:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Nvidia and Jensen Huang sued by shareholders over affair with",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzhzMGd6Q3N5WWhFWmhGSzVvNlRmWVNlZEg5NTYwTUJIZXRKWHp1am9nZWNnYm1YYzNYTGs1LVZZQVBxX3JQSzVHRmI2cVVYdmxqRFl1MTVEMUlHU2lsQkluenlzdFVuZE03cmtnZTZHTHpubUZWQUdNX1JEUTRFV29WRUdMMV9DUlRjRzEzVGNObGdJdU5V?oc=5",
+      "image": null,
+      "headline": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "68f61e5dcca1349c",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T09:04:15+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Sharecast.com",
+      "type": "news",
+      "quote": "FBI 'looking into' Nvidia boss, says Trump - Sharecast.com FBI 'looking into' Nvidia",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3JXUVpiY1cwU19KQU5sanJGbUJaQi1ERkd0RzdZc0FBempVY0M1NmVibk1XV2hSV1VudVlFenZYaFZuWkhSdDRnODBTSlZreE9YdWRBTGhKNkNNMy1BY2E4RE02UUZBXzNmNHVrLVpiZkRXMHJEUjFJX3JIZlhxVEJOSnZITGM2bTBoOHliWnhONTMwZm41Sjk5M2FicU5uOVN0U0tCaElFVVdxS09SbEo5VTQ4b1pmZC1jRFJYY2x5emR0dEtiMnR3?oc=5",
+      "image": null,
+      "headline": "FBI 'looking into' Nvidia boss, says Trump - Sharecast.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "025edf4b1d12f25d",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T07:16:54+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Business Post",
+      "type": "news",
+      "quote": "Trump says FBI investigating Nvidia boss\u2019s affair with alleged Chinese spy - Business Post",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmVpZmFaeTRNSFdEbnUxQ3dfdDFiZTg4TmZ4N3M2T2lkdmRrVnhMZVp1QUxoVk5CdVJ5WWt0bVEySE41SC1SZWtFWEV1dTZiYUlrRWYtZFRKVTI2MFYydFVPNmdOZnB3WGhnZjZtNUlJNkhhaXFSeF95eXphcm1LQ2tqbDU1ZUQ5b2ZkY0J6OXJ2MHYzbHlzbVFnV3RiZXRRQWxhZzBWWlJfWTVaWVFj?oc=5",
+      "image": null,
+      "headline": "Trump says FBI investigating Nvidia boss\u2019s affair with alleged Chinese spy - Business Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "e0fe6d8c9f02444b",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T05:02:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Seeking Alpha",
+      "type": "news",
+      "quote": "FBI probing Nvidia CEO Huang amid China spy allegations, Trump says",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUld1eHhRQ1ppSlVpQ21OQ0RvRnlRN1R6NTlqX1NfRV9ueVQ0SDNxMEdhSW9rWTNBNVNCVFphMHMxS0hsNjVVWHBETGZnLXAxV0tyZDJqRXkxaTJ3MktjSHNfZHRsODdmbFNuRGt5YXVYTlNidFltMWV2WXRkeTRDVjU0Zkx2bmF0MmJmUlZzdlhoT05aeHlBQ3ZwZFFRNS1PM2ZjbDkyVQ?oc=5",
+      "image": null,
+      "headline": "FBI probing Nvidia CEO Huang amid China spy allegations, Trump says (NVDA:NASDAQ) - Seeking Alpha",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "c592a1d4ac892521",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T04:20:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "AFR",
+      "type": "news",
+      "quote": "FBI \u2018looking into\u2019 Nvidia CEO Jensen Huang\u2019s affair as shares slide - AFR FBI",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVdsLTl2R1I0QTZkVUloa296Yk9idF8taU44Z1p5ZzB6cm4tMFpVLXAwX2FwT1NhUjhMQWZmbTUxNzZGaFhqUkE2RzRhNE9KRVpYcm5KWWNYNklDb3M2eEF1blpqb0hiZHV5LTZ1SVJNR0RNX3pkTjc3b1FGYzd6MEdQM3hWenludDdPaTZ0SVRFVnNfRnJnajRQUXNSM1d2TFVsd1ZrN0h2UmJvalVma01PWWlsc3I5?oc=5",
+      "image": null,
+      "headline": "FBI \u2018looking into\u2019 Nvidia CEO Jensen Huang\u2019s affair as shares slide - AFR",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
     {
       "id": "a6a4ab86f0067836",
       "date": "Tue, 10 Nov 2026",
@@ -207,6 +1039,110 @@
         {
           "d": "11-09",
           "c": 4.06
+        }
+      ]
+    },
+    {
+      "id": "7baaa8464d577523",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T02:36:58+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Sky News",
+      "type": "news",
+      "quote": "FBI to investigate Nvidia CEO over affair with alleged Chinese spy, Trump says - Sky",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaG82QnFRRUc3VWFlRTR4S0xNNmhXU3B0SlBTNkxUQXpqV29BZVQ2OGcxY2VJMTd4OWZXcFo0d2dvYkxBV1YycUFlaEk4UklkLVhjTzhCdGdZQjFfU1EzclZueG1kd2xWNHBBMDBHX3dEZy0yNVFQUGxFRlFEb05OSGFaUTZmN251Y2EzcVRmNDhRRC1mR1A3Y2t3X2wtSVc1UWZRbHVQMmdFUkZTcFlqRDRFNA?oc=5",
+      "image": null,
+      "headline": "FBI to investigate Nvidia CEO over affair with alleged Chinese spy, Trump says - Sky News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
         }
       ]
     },
@@ -642,6 +1578,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHVTNHdLZVZvM1Ixb1BKd3pBOUllSlhJSklYanJPcmR2VlVFZUUzZElzTzZZeDV4OXhzYXZ1czJjYlEzUlQyVTZNeVVueU1md0ZYYld2OHJoODNwSVRRb3E3YWlzVk1jdlV4RzJoQWtNbHAzb00xdlVKbE45d2t6TFFfU0doNkZsNVl0dmxHQkJLSVpQVHQ2bkptTjBHb05mbUE?oc=5",
       "image": null,
       "headline": "Trump Praises Nvidia's Jensen Huang Amid Spy Probe - KOA 850 AM & 94.1 FM",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "d47468b0261fcf9a",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T23:27:00+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "newsradio 1040 who",
+      "type": "news",
+      "quote": "Trump Praises Nvidia's Jensen Huang Amid Spy Probe - newsradio 1040 who Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXNxbVJ6VWdMWlZkRm9aTGZCOVVlSC1mQmdUREhaLVVIVkxFV0NVWEcxODlDRjdYZHlSM1FUSUdPQ0ZRdVp2S0J5MDdRREg4dzNScVI1UXlsNG9TSVJwRkxqUy02eWVDLXhEU25KVS1JcFU0TEVGaFc1WXMxMmZYVnlOYVdZbkczbDZkd05raWthTzhsM0h5alUzRXlNZw?oc=5",
+      "image": null,
+      "headline": "Trump Praises Nvidia's Jensen Huang Amid Spy Probe - newsradio 1040 who",
       "channel": "News",
       "series": [
         {
@@ -1251,6 +2291,110 @@
       ]
     },
     {
+      "id": "c4b7282e6cf827c3",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T22:47:57+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "NBC Bay Area",
+      "type": "news",
+      "quote": "Trump says FBI is looking at Nvidia CEO's affair with alleged Chinese spy - NBC Bay Area Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTdwcXMtSzNUdWY5QU9MLS13d0RreHFMeFZVNEQtdUxjMmpEd25uQmFOMlNXa01FUGVXUGdpY2RoaEtEMUlVZWlNSzloRnZSck5iVjJrbnRwUm9YOVJDdFhuMTFsMjFhUGtZdUN0NUtiY3Q4VUp6dGhCR2dndUk0SDhKNzRuZFFGMDl1bU9UMVRqd2dNczR5S2tuekhTZmdIUUszelhKUDZNSFplSFFoUmlJbzZwc3FJV2fSAcIBQVVfeXFMUG5fZHZQTW9Pd1dVZkZxdWtTN3V3UlM2cFNwcnBuOUJueF9ac3pJOFFaNEd3WVFMWGpyMHhIZmlOdG1jZ19GSm1xLThycUNhN0RMaHJUcWwwdUZQZlJYdThRWVl6N3FONEtuc2lzNGpKV1JZazdPVi14eTQ0OVRfYTEzRGVGT1dBSktMMUNBTFUxenZqQTNtRURNN0pmVjdqVWI2Y1dKRmhFSHlsMl9yQTlzYk5jUFFaTUtiWTBuZS1tcUE?oc=5",
+      "image": null,
+      "headline": "Trump says FBI is looking at Nvidia CEO's affair with alleged Chinese spy - NBC Bay Area",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
       "id": "558366e7c1296d57",
       "date": "Mon, 09 Nov 2026",
       "ts": "2026-11-09T22:28:00+00:00",
@@ -1682,6 +2826,110 @@
       "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVZtSlZYZUF2VmhaczdLeWtobEJWUnp5Z0Y4cUprUVlQdkNpZnBqd2xoaUkyTHpRN1NqdTROaE4xa2pDUC0xejJwcFl3VlY0RWhaVHp0eXJxb0haRS0tOXpvcVZBd2d4dWhwaHZBcUtrS2FKT1htR29mOHV3c3BjR1Ryd3MzSk16eTFvcGwtM1VfSGVRMFpQQUtIanlDMEJvaUx2MzNFQk5GTGhySWdqbU95Z1dNc01P0gG-AUFVX3lxTE53N0tmdkg4TzIyejVSX184MWFMWDdTOU1iMnNRUVVYVTVTTlZhbTdINjlaSVc5Mk5EUTNrTXNlbVhXc056M3ozZ2I3Uk9lcTVDenJmal9nWDAwWnJXYktfUXZVSFFlazE1OWVPN0lha3o2N1h4em4tY0xIb2ZYMnVpdkdFal9qandxckZLMkp2XzZFaG15aEh5OTJrbTdPS0xBMHcwMF8yZGhzdXpPZVpDZklKQjIxb2p6aU9CX1E?oc=5",
       "image": null,
       "headline": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spy - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "77d58a86d123f913",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T20:31:00+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Nvidia shares down more than 5 percent in premarket trading - The",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 178.67,
+      "change": -4.27,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFFDem96Qkw3bVYwWWdLeUZ2WTZ6QkFrTkRwT1k3ZUNyZWhfT2oyd0ZBNWVtbmtnbkRXYzRzY3RxcDFaQndMZ0t6anBlMzRkSEpReWxXcWZ3THNFYkFtMkV2a041TndHR1FfOEJhSDRJSzA1TlNlaUVlTlJNdUdlQTRFRlpQUG9oTlctOE9WSHhPZ25TYk51d05ucU1Wa1k2MW0tYWREdWFUU25EX0RqUXp2VjRPWFBQNTgyOEtCTFJWSF92RlE?oc=5",
+      "image": null,
+      "headline": "Nvidia shares down more than 5 percent in premarket trading - The Washington Post",
       "channel": "News",
       "series": [
         {
@@ -37847,1201 +39095,6 @@
         {
           "d": "09-28",
           "c": 64.17
-        }
-      ]
-    },
-    {
-      "id": "907affc311801511",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T23:47:00+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "foreignpolicyjournal.com",
-      "type": "news",
-      "quote": "Technology Group (NASDAQ: DJT) Stock Faces Sharp Valuation Gap As White House Media Access Ruling Puts Political",
-      "company": "Gap",
-      "ticker": "GPS",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOampGOTZWcnM0bUt2Vl9leHRWTkJ2UXB1RTNoQ0gzYjZKLVhGZFRrMVNLenl3TXlmMktsQjgzS3hGdTlFWHZGbG5Wby1pVm1UU0VIeWZpOTJ2VVZiMXdFWVRCRWJhZ09tWVZKSWVXOHF3LS1HeGNXOExBSDB1STlRSHhSRnpyZzNBNG10ak80eTRoNEZBOTRUNEk4bnUyOXR3SXdya0xEVE03VGE5UEtaZ1hIU3pDaEhkTnFxaTBoVklaS1ZnZGRCNWJkWDNHMVJSRkgxbDN6WkstQXgyUjZpZy1aR21SODRlU1Zibkh3c0hyeXlhXzM2V3NPOHZPdmU5VmVRV3ZFNVZWZkxJZjg2M21iYjJDVV9i?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (NASDAQ: DJT) Stock Faces Sharp Valuation Gap As White House Media Access Ruling Puts Political Platforms In Focus - foreignpolicyjournal.com",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "b62102e96b04215f",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T23:47:00+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "foreignpolicyjournal.com",
-      "type": "news",
-      "quote": "Trump Media & Technology Group (NASDAQ: DJT) Stock Faces Sharp",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.14,
-      "change": 0.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOampGOTZWcnM0bUt2Vl9leHRWTkJ2UXB1RTNoQ0gzYjZKLVhGZFRrMVNLenl3TXlmMktsQjgzS3hGdTlFWHZGbG5Wby1pVm1UU0VIeWZpOTJ2VVZiMXdFWVRCRWJhZ09tWVZKSWVXOHF3LS1HeGNXOExBSDB1STlRSHhSRnpyZzNBNG10ak80eTRoNEZBOTRUNEk4bnUyOXR3SXdya0xEVE03VGE5UEtaZ1hIU3pDaEhkTnFxaTBoVklaS1ZnZGRCNWJkWDNHMVJSRkgxbDN6WkstQXgyUjZpZy1aR21SODRlU1Zibkh3c0hyeXlhXzM2V3NPOHZPdmU5VmVRV3ZFNVZWZkxJZjg2M21iYjJDVV9i?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group (NASDAQ: DJT) Stock Faces Sharp Valuation Gap As White House Media Access Ruling Puts Political Platforms In Focus - foreignpolicyjournal.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        }
-      ]
-    },
-    {
-      "id": "a495e9e166373b7f",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T21:19:00+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "standards ending Biden-era electric vehicle mandate - Fox Business Trump says he approved new fuel economy standards",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.54,
-      "change": -1.15,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOHh2UWtkbGhsN29uYjhpVENoTU5ZV0N1WmZ1YmdpN1ljT1MzSXVNSG1RNkctQUh1UzJMWFg5ZUM1cXlxdVFyb241ZDVUQTcxNkVGelVRYnQzTFFyb2o5WUxwZTkyeDVPUE03akdTNGdhNi1rSE1JUV9UN2JBd01EX2lWTDdCMFFpdTV5LWd0LXNySWdqSlBMNFpIN19IRmREb09JWFNnLXBIYjVmWkdWUWZSNTBaeDRpcDhfcDlkSUFYRzDSAcgBQVVfeXFMUE1acXRmMWJvNDRzY3BUUTZraEJmbTlNSko5QndDLURlME96ZV9NY0pVQ1pqZUxRVGx3NU9pTmhZZlBlb212eF9HU2xONTVBdG1yZGtSR09FbEtRcG1pVV82NEp5ODQwcnlkcWc5LXI2YS1MY0xuU3MtVFZtNWYxbzVKc01qdnpXaUEyVXFlR3duOHNJUldQR2RrOVNFUEkyRXhDM19FUG5TN0FvT2FNZnhxSmxMYzNYSDRlX1RNc3J5cGVMX05pekM?oc=5",
-      "image": null,
-      "headline": "Trump says he approved new fuel economy standards ending Biden-era electric vehicle mandate - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 61.92
-        },
-        {
-          "d": "08-27",
-          "c": 60.1
-        },
-        {
-          "d": "08-28",
-          "c": 61.02
-        },
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        }
-      ]
-    },
-    {
-      "id": "2053877fd0f81285",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T18:44:47+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "WXYZ 7 News Detroit",
-      "type": "news",
-      "quote": "Costco says it used tariff refunds to cut prices on everyday",
-      "company": "Costco",
-      "ticker": "COST",
-      "price": 922.77,
-      "change": 2.93,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1FaRWFGVFRvSDRWa19XdzRsbklCUHRGcWxRdy02bko2Z1Q3Wk1DUzZMeUh0bVM1WkdXSDBDSFpYYTdIUnBLcllOaGZ4UTFIS1ZoMmdMRGRQTDJmVjFVUE4xdHM5a0RaSU5zLTJXU0RfYmlzYVduWE9LbTVfeHhmanl1eDd1UHNiS1hzblVFRGFUSGVveEYzcmpSU1c?oc=5",
-      "image": null,
-      "headline": "Costco says it used tariff refunds to cut prices on everyday goods - WXYZ 7 News Detroit",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 956.12
-        },
-        {
-          "d": "08-27",
-          "c": 934.66
-        },
-        {
-          "d": "08-28",
-          "c": 945.47
-        },
-        {
-          "d": "08-31",
-          "c": 943.89
-        },
-        {
-          "d": "09-01",
-          "c": 939.96
-        },
-        {
-          "d": "09-02",
-          "c": 928.48
-        },
-        {
-          "d": "09-03",
-          "c": 925.41
-        },
-        {
-          "d": "09-04",
-          "c": 915.74
-        },
-        {
-          "d": "09-08",
-          "c": 910.18
-        },
-        {
-          "d": "09-09",
-          "c": 902.6
-        },
-        {
-          "d": "09-10",
-          "c": 902.38
-        },
-        {
-          "d": "09-11",
-          "c": 904.77
-        },
-        {
-          "d": "09-14",
-          "c": 918.91
-        },
-        {
-          "d": "09-15",
-          "c": 901.35
-        },
-        {
-          "d": "09-16",
-          "c": 893.74
-        },
-        {
-          "d": "09-17",
-          "c": 893.93
-        },
-        {
-          "d": "09-18",
-          "c": 895.31
-        },
-        {
-          "d": "09-21",
-          "c": 898.48
-        },
-        {
-          "d": "09-22",
-          "c": 899.41
-        },
-        {
-          "d": "09-23",
-          "c": 904.7
-        },
-        {
-          "d": "09-24",
-          "c": 896.48
-        },
-        {
-          "d": "09-25",
-          "c": 922.77
-        }
-      ]
-    },
-    {
-      "id": "e3374f95a99232bc",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T11:37:51+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Valley: Can GOP hold its razor-thin margin? Both parties target the Lehigh Valley for House control. While the GOP made",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 157.45,
-      "change": 0.83,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin",
-      "image": null,
-      "headline": "Battle for the Lehigh Valley: Can GOP hold its razor-thin margin?",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 164.04
-        },
-        {
-          "d": "08-27",
-          "c": 165.93
-        },
-        {
-          "d": "08-28",
-          "c": 163.18
-        },
-        {
-          "d": "08-31",
-          "c": 160.88
-        },
-        {
-          "d": "09-01",
-          "c": 163.75
-        },
-        {
-          "d": "09-02",
-          "c": 163.36
-        },
-        {
-          "d": "09-03",
-          "c": 164.01
-        },
-        {
-          "d": "09-04",
-          "c": 164.44
-        },
-        {
-          "d": "09-08",
-          "c": 162.71
-        },
-        {
-          "d": "09-09",
-          "c": 157.52
-        },
-        {
-          "d": "09-10",
-          "c": 155.73
-        },
-        {
-          "d": "09-11",
-          "c": 155.83
-        },
-        {
-          "d": "09-14",
-          "c": 158.7
-        },
-        {
-          "d": "09-15",
-          "c": 154.4
-        },
-        {
-          "d": "09-16",
-          "c": 154.68
-        },
-        {
-          "d": "09-17",
-          "c": 159.83
-        },
-        {
-          "d": "09-18",
-          "c": 158.19
-        },
-        {
-          "d": "09-21",
-          "c": 157.71
-        },
-        {
-          "d": "09-22",
-          "c": 159.02
-        },
-        {
-          "d": "09-23",
-          "c": 156.26
-        },
-        {
-          "d": "09-24",
-          "c": 156.15
-        },
-        {
-          "d": "09-25",
-          "c": 157.45
-        }
-      ]
-    },
-    {
-      "id": "f164e91cd2017cd5",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T10:30:07+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "National Review",
-      "type": "news",
-      "quote": "Only Congress Can Intervene on Trump\u2019s Truth Social Profiteering - National Review Only Congress Can Intervene",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.14,
-      "change": 0.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk4tSW4wOFJFWU0xZTVvYUl3R2VGM0ctVDVjTmI1MXVUV0dwbkQxZmttUFVsVEp2STJ5b3Z0T1RoYTB1ODhaeW16X0FwOUNPRDB2alBQeDRrakJPd2Z2aEhUQTAzSjVxalFIOWxoa2pXbUUzZlZJYk9Hb2VabFZyY0R0bm5OTzVJaHVkRmNVLTAxTlZvWUs5UHJvb2VHYTZoSnUzbmJ30gGrAUFVX3lxTE00bThkOXNrUThwelRXd21CNzJDVkluZ0Z1b0VzRjRSZ0Nac21ZVU5uMGpkMllwSUw0SWlXQzN6UGZ3MFRFZ2lUSWFzd25NWEdkUkJJaU03dFZJdUl5WC1MM1VVdklOSm1zR2RGR2FRYThQYTQzcWYwcUJVOUd4U29JOG56dG5QeTh1WjlJWC0zcVFIalpFQ0pRay16VWc1OENwYktHNVhtVHFFdw?oc=5",
-      "image": null,
-      "headline": "Only Congress Can Intervene on Trump\u2019s Truth Social Profiteering - National Review",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        }
-      ]
-    },
-    {
-      "id": "2015f1cf8cbf87a8",
-      "date": "Sat, 26 Sep 2026",
-      "ts": "2026-09-26T10:30:07+00:00",
-      "date_display": "Sep 26, 2026",
-      "source": "nationalreview.com",
-      "type": "news",
-      "quote": "Only Congress Can Intervene on Trump\u2019s Truth Social Profiteering - nationalreview.com Only Congress Can",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.14,
-      "change": 0.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk4tSW4wOFJFWU0xZTVvYUl3R2VGM0ctVDVjTmI1MXVUV0dwbkQxZmttUFVsVEp2STJ5b3Z0T1RoYTB1ODhaeW16X0FwOUNPRDB2alBQeDRrakJPd2Z2aEhUQTAzSjVxalFIOWxoa2pXbUUzZlZJYk9Hb2VabFZyY0R0bm5OTzVJaHVkRmNVLTAxTlZvWUs5UHJvb2VHYTZoSnUzbmJ30gGrAUFVX3lxTE00bThkOXNrUThwelRXd21CNzJDVkluZ0Z1b0VzRjRSZ0Nac21ZVU5uMGpkMllwSUw0SWlXQzN6UGZ3MFRFZ2lUSWFzd25NWEdkUkJJaU03dFZJdUl5WC1MM1VVdklOSm1zR2RGR2FRYThQYTQzcWYwcUJVOUd4U29JOG56dG5QeTh1WjlJWC0zcVFIalpFQ0pRay16VWc1OENwYktHNVhtVHFFdw?oc=5",
-      "image": null,
-      "headline": "Only Congress Can Intervene on Trump\u2019s Truth Social Profiteering - nationalreview.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        }
-      ]
-    },
-    {
-      "id": "68cab9e358062a8a",
-      "date": "Fri, 25 Sep 2026",
-      "ts": "2026-09-25T21:37:03+00:00",
-      "date_display": "Sep 25, 2026",
-      "source": "Electronic Frontier Foundation",
-      "type": "news",
-      "quote": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 9.14,
-      "change": 0.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkllNUktUy05QjJScHF2WjNxb244Y1ZNc1M3dTNyTllpajF4d0ZhR3VWN09JRjRpenhUWEt1OUFRYVNOQXFVMXU4eDJyX0dvZnpXQmZoZ0VMcFdBQUNyb0JzcXhKNnQ3b2ZGTFFSTkpHaFlESHhfZ1o0MzJpb050RnpYbkVUdHplZEtLSHNUOE1ZUVdZb1dNVkVTSGRxVFJWLXBSdTZRQ1hFS01ENl84MTQyYW1kcDFH?oc=5",
-      "image": null,
-      "headline": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights - Electronic Frontier Foundation",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 9.5
-        },
-        {
-          "d": "08-27",
-          "c": 9.77
-        },
-        {
-          "d": "08-28",
-          "c": 9.64
-        },
-        {
-          "d": "08-31",
-          "c": 9.77
-        },
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        }
-      ]
-    },
-    {
-      "id": "7d1d7e5a57b1b6ed",
-      "date": "Fri, 25 Sep 2026",
-      "ts": "2026-09-25T19:48:52+00:00",
-      "date_display": "Sep 25, 2026",
-      "source": "Techlicious",
-      "type": "news",
-      "quote": "Meta misled users in Trump-linked Facebook data case, jury says",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 751.66,
-      "change": -3.33,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDVhQ3pVQlFfc2VtVU1jdTRZMko0YlBCeHZIdFpnMF84T0tfbUVNNFNtdHJ1OWE5NGs5d096NUY1RkJMVFNVMnlwaXltaHZPa2Y1bnM5WmItQnlVVlVXUUVDdkFRTTJjQkZnTjBOUlZYREFQS1hpZEZyWEk4RFJud0F1WjA5Z2Z0?oc=5",
-      "image": null,
-      "headline": "Meta misled users in Trump-linked Facebook data case, jury says - Techlicious",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 575.69
-        },
-        {
-          "d": "08-27",
-          "c": 570.65
-        },
-        {
-          "d": "08-28",
-          "c": 577.56
-        },
-        {
-          "d": "08-31",
-          "c": 571.89
-        },
-        {
-          "d": "09-01",
-          "c": 578.08
-        },
-        {
-          "d": "09-02",
-          "c": 592.38
-        },
-        {
-          "d": "09-03",
-          "c": 610.2
-        },
-        {
-          "d": "09-04",
-          "c": 616.28
-        },
-        {
-          "d": "09-08",
-          "c": 613.0
-        },
-        {
-          "d": "09-09",
-          "c": 653.17
-        },
-        {
-          "d": "09-10",
-          "c": 643.87
-        },
-        {
-          "d": "09-11",
-          "c": 647.52
-        },
-        {
-          "d": "09-14",
-          "c": 665.08
-        },
-        {
-          "d": "09-15",
-          "c": 669.71
-        },
-        {
-          "d": "09-16",
-          "c": 672.78
-        },
-        {
-          "d": "09-17",
-          "c": 681.77
-        },
-        {
-          "d": "09-18",
-          "c": 665.23
-        },
-        {
-          "d": "09-21",
-          "c": 741.25
-        },
-        {
-          "d": "09-22",
-          "c": 736.6
-        },
-        {
-          "d": "09-23",
-          "c": 744.1
-        },
-        {
-          "d": "09-24",
-          "c": 777.59
-        },
-        {
-          "d": "09-25",
-          "c": 751.66
-        }
-      ]
-    },
-    {
-      "id": "97e9c6a6df2da40b",
-      "date": "Fri, 25 Sep 2026",
-      "ts": "2026-09-25T10:49:38+00:00",
-      "date_display": "Sep 25, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Entourage. What That Says About China-US Relations. - The New York Times Xi Jinping Didn\u2019t Bring a CEO Entourage. What That Says",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.05,
-      "change": 1.87,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVJMaUlJVDh3SlUwYXV1VEpPaVhXOGJBcmRjUm5iZm5pR0drWDVOcmUxSHFVZjBtVm04S0dNa0VhVk1ZeEk3XzFsbV94LTJsUHMxcld5S1RvZnZOZkdsWlVpay1HOHJWU3NmSlRGY3VycW1IczM3VGF1dmE2RUFKcl9CR2xEd1NzTEhPcw?oc=5",
-      "image": null,
-      "headline": "Xi Jinping Didn\u2019t Bring a CEO Entourage. What That Says About China-US Relations. - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-25",
-          "c": 68.61
-        },
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        },
-        {
-          "d": "09-15",
-          "c": 71.71
-        },
-        {
-          "d": "09-16",
-          "c": 72.41
-        },
-        {
-          "d": "09-17",
-          "c": 69.94
-        },
-        {
-          "d": "09-18",
-          "c": 70.21
-        },
-        {
-          "d": "09-21",
-          "c": 70.53
-        },
-        {
-          "d": "09-22",
-          "c": 65.45
-        },
-        {
-          "d": "09-23",
-          "c": 61.89
-        },
-        {
-          "d": "09-24",
-          "c": 63.05
-        }
-      ]
-    },
-    {
-      "id": "23e7ef060fc4f03b",
-      "date": "Fri, 25 Sep 2026",
-      "ts": "2026-09-25T10:49:38+00:00",
-      "date_display": "Sep 25, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "the Trump-Xi State Dinner: China\u2019s Business Leaders - The New York Times Missing From the Trump-Xi State Dinner: China\u2019s Business",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.83,
-      "change": 1.24,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVJMaUlJVDh3SlUwYXV1VEpPaVhXOGJBcmRjUm5iZm5pR0drWDVOcmUxSHFVZjBtVm04S0dNa0VhVk1ZeEk3XzFsbV94LTJsUHMxcld5S1RvZnZOZkdsWlVpay1HOHJWU3NmSlRGY3VycW1IczM3VGF1dmE2RUFKcl9CR2xEd1NzTEhPcw?oc=5",
-      "image": null,
-      "headline": "Missing From the Trump-Xi State Dinner: China\u2019s Business Leaders - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-26",
-          "c": 68.42
-        },
-        {
-          "d": "08-27",
-          "c": 68.12
-        },
-        {
-          "d": "08-28",
-          "c": 68.16
-        },
-        {
-          "d": "08-31",
-          "c": 67.27
-        },
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        },
-        {
-          "d": "09-15",
-          "c": 71.71
-        },
-        {
-          "d": "09-16",
-          "c": 72.41
-        },
-        {
-          "d": "09-17",
-          "c": 69.94
-        },
-        {
-          "d": "09-18",
-          "c": 70.21
-        },
-        {
-          "d": "09-21",
-          "c": 70.53
-        },
-        {
-          "d": "09-22",
-          "c": 65.45
-        },
-        {
-          "d": "09-23",
-          "c": 61.89
-        },
-        {
-          "d": "09-24",
-          "c": 63.05
-        },
-        {
-          "d": "09-25",
-          "c": 63.83
-        }
-      ]
-    },
-    {
-      "id": "10721144ae1e11ce",
-      "date": "Fri, 25 Sep 2026",
-      "ts": "2026-09-25T10:33:37+00:00",
-      "date_display": "Sep 25, 2026",
-      "source": "The Globe and Mail",
-      "type": "news",
-      "quote": "Lake Ontario order was \u2018pretty easy decision,\u2019 MapQuest GM says - The Globe and Mail Rejecting Trump\u2019s Lake Ontario",
-      "company": "Gm",
-      "ticker": "GM",
-      "price": 80.57,
-      "change": -3.82,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm41cUlHejZfZ2cxNDRGNGFyRnVvUFpZcXIySWJpcDlIZ1gteG5mVEFGeHRSdktFUFlBdVh5SDBxLWVwVDk3blRRRGFaYU5jNjY2MHN1SlFJbXJJOVhpdUp3d2pzc0l1akNFLVFQUl9PazdQSHR1NndBRmVRVWFEY2ZMSTluTHdJWjh1VDhiUXB2cWNSMGhKbWo5djk?oc=5",
-      "image": null,
-      "headline": "Rejecting Trump\u2019s Lake Ontario order was \u2018pretty easy decision,\u2019 MapQuest GM says - The Globe and Mail",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-25",
-          "c": 85.63
-        },
-        {
-          "d": "08-26",
-          "c": 86.15
-        },
-        {
-          "d": "08-27",
-          "c": 86.0
-        },
-        {
-          "d": "08-28",
-          "c": 86.09
-        },
-        {
-          "d": "08-31",
-          "c": 86.14
-        },
-        {
-          "d": "09-01",
-          "c": 85.45
-        },
-        {
-          "d": "09-02",
-          "c": 84.69
-        },
-        {
-          "d": "09-03",
-          "c": 87.04
-        },
-        {
-          "d": "09-04",
-          "c": 87.76
-        },
-        {
-          "d": "09-08",
-          "c": 85.79
-        },
-        {
-          "d": "09-09",
-          "c": 83.76
-        },
-        {
-          "d": "09-10",
-          "c": 86.12
-        },
-        {
-          "d": "09-11",
-          "c": 85.62
-        },
-        {
-          "d": "09-14",
-          "c": 87.16
-        },
-        {
-          "d": "09-15",
-          "c": 85.37
-        },
-        {
-          "d": "09-16",
-          "c": 84.29
-        },
-        {
-          "d": "09-17",
-          "c": 86.62
-        },
-        {
-          "d": "09-18",
-          "c": 82.2
-        },
-        {
-          "d": "09-21",
-          "c": 83.95
-        },
-        {
-          "d": "09-22",
-          "c": 83.45
-        },
-        {
-          "d": "09-23",
-          "c": 83.77
-        },
-        {
-          "d": "09-24",
-          "c": 80.57
         }
       ]
     }
