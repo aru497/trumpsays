@@ -1,7 +1,242 @@
 {
-  "updated_at": "2026-11-11T11:31:14.007177+00:00",
+  "updated_at": "2026-11-11T18:57:34.065945+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ef1b35472ac85e17",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T15:06:19+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Kennedy family members joined several lawsuits seeking to block construction, saying the towering 250-foot arch would cast",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-trump-marks-veterans-day-with-wreath-laying-remarks-at-arlington-national-cemetery",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T161930Z_24051167_RC2SLOACQJGP_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "WATCH: Trump marks Veterans Day with wreath laying, remarks at Arlington National Cemetery",
+      "channel": "Speech",
+      "series": null
+    },
+    {
+      "id": "2f3095ccfe50446b",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T13:28:06+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "Futurism",
+      "type": "news",
+      "quote": "The Only Thing Driving Truth Social's Revenue Will Make You Close Your Eyes and Wish for",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 5.43,
+      "change": 26.87,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80aUZOZ2JIUDVTWG50MU9JODNEemRNSHZkMzMtZkxoWkxBT1lKc1ljdGdhNXc4S1FIR00zV0xvTTNRSWhMcXhjTTJzdHAyZ1NsWFFNdy0tOFlXWWozOWtQOW1rWUFDSmFHLUNKZHJCeDJjQ2NIZzBMSnJWU3c?oc=5",
+      "image": null,
+      "headline": "The Only Thing Driving Truth Social's Revenue Will Make You Close Your Eyes and Wish for Better Days - Futurism",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.43
+        }
+      ]
+    },
+    {
+      "id": "8828be70397c77c2",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T12:37:08+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "Yahoo News Singapore",
+      "type": "news",
+      "quote": "Palantir CEO Alex Karp Says Its Products Are \u2018Essentially",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 173.66,
+      "change": 2.87,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RZGI5aEs2OUk3Q3VUYU56SHB5WXR6NzBIRDlZSEgyYi14N3hfc0ZqLXpKNTU3djl1T19IQ0VkTnV2a0o5Vjg1SDAxN1JhdlpPU09IR3ZBWS1YR25tSEJfOVBZSTkzTGJtM3BmaThXbl9Ha3NCYjBV?oc=5",
+      "image": null,
+      "headline": "Palantir CEO Alex Karp Says Its Products Are \u2018Essentially Progressive\u2019 - Yahoo News Singapore",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-13",
+          "c": 208.67
+        },
+        {
+          "d": "10-14",
+          "c": 200.97
+        },
+        {
+          "d": "10-15",
+          "c": 200.5
+        },
+        {
+          "d": "10-16",
+          "c": 186.03
+        },
+        {
+          "d": "10-19",
+          "c": 194.15
+        },
+        {
+          "d": "10-20",
+          "c": 192.6
+        },
+        {
+          "d": "10-21",
+          "c": 201.72
+        },
+        {
+          "d": "10-22",
+          "c": 196.19
+        },
+        {
+          "d": "10-23",
+          "c": 196.75
+        },
+        {
+          "d": "10-26",
+          "c": 198.84
+        },
+        {
+          "d": "10-27",
+          "c": 198.73
+        },
+        {
+          "d": "10-28",
+          "c": 196.81
+        },
+        {
+          "d": "10-29",
+          "c": 196.42
+        },
+        {
+          "d": "10-30",
+          "c": 184.11
+        },
+        {
+          "d": "11-02",
+          "c": 178.34
+        },
+        {
+          "d": "11-03",
+          "c": 175.4
+        },
+        {
+          "d": "11-04",
+          "c": 171.7
+        },
+        {
+          "d": "11-05",
+          "c": 154.99
+        },
+        {
+          "d": "11-06",
+          "c": 160.38
+        },
+        {
+          "d": "11-09",
+          "c": 169.2
+        },
+        {
+          "d": "11-10",
+          "c": 168.82
+        },
+        {
+          "d": "11-11",
+          "c": 173.66
+        }
+      ]
+    },
     {
       "id": "cf2405b74251adb5",
       "date": "Wed, 11 Nov 2026",
@@ -18,6 +253,25 @@
       "article_link": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch-citing-shadow-over-jfks-grave",
       "image": null,
       "headline": "Kennedys sue to block Trump's arch, citing shadow over JFK's grave",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "2db896ae2102593a",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T10:02:58+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Kennedys sue to block Trump's arch Descendants of President John F. Kennedy are",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
+      "image": null,
+      "headline": "Kennedys sue to block Trump's arch",
       "channel": "News",
       "series": null
     },
@@ -1638,6 +1892,114 @@
         {
           "d": "11-10",
           "c": 59.4
+        }
+      ]
+    },
+    {
+      "id": "632ae7d7d3f6c48b",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T15:00:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "$480M loan into Gulf of America oil and gas project - Fox Business Trump admin pouring $480M loan into Gulf of",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.45,
+      "change": 0.33,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1oySkIwTmoyZHp5VUZZMEMzWm83ZWExQV9GckM5V1JoSTJlWV80X1Q5bWdKZklqMl9aUmtqWHZWWjJGMnB6WU03MFRpaS1hUzZkbVRZREVVX3l4YjJVSmc1V1A4WnJZS0c2MWYxN0hTTzRTWVZSTGlDTmNXMktmTWt1NTNaY0tFSHZWRTFrMDJHdHROY1JZNERBSdIBoAFBVV95cUxPd2hFbGRobG5NWGd4Nmd4RXFqZE5NN3pUckh4UXFMa0xiSDh3bVA2OEJiZ3J4ak1xU3RBNjdfbUlJX19kVUhWbWo0TXFuRE1nS2dtVXgtemE3aHhKNzRCR2RJdHhMeV96Z3BaRXF4OURSbGVBbE1fY0ZYaFFiZkJMUkpwT1NlWmJaalYwNFV2YTJTaXJabmk1NjlMTXFhZlp0?oc=5",
+      "image": null,
+      "headline": "Trump admin pouring $480M loan into Gulf of America oil and gas project - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-13",
+          "c": 55.93
+        },
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.45
         }
       ]
     },
@@ -6366,6 +6728,222 @@
         {
           "d": "11-10",
           "c": 71.75
+        }
+      ]
+    },
+    {
+      "id": "47273339f2fe7b53",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T16:02:52+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention - The New York Times Commerce Dept. Chip",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 177.06,
+      "change": 4.84,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUh5TFdGSHdZMldSRkxUUjRNYjFRV3ZVdURtUkEwSG9mSHVhdlhES2ZObmtJVzFLRUhNbm4xdkl6YmZHV2d1VUNHNE9Md2ZKVlowUU5yOU8wa1AyMGNtdWNlX2NIUXpsOUJVa3pJNjRKa2MxWGdrTW9jYVNqLVM5cmpCblZSVzkwTVR5YzJ2TER0c3VpZ3AyZw?oc=5",
+      "image": null,
+      "headline": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 177.06
+        }
+      ]
+    },
+    {
+      "id": "53bbee93fc327ae4",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T16:02:52+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Chip Inquiry Was Halted After Nvidia Intervention - The New York Times Commerce Dept. Chip Inquiry Was Halted After Nvidia",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.4,
+      "change": -0.25,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUh5TFdGSHdZMldSRkxUUjRNYjFRV3ZVdURtUkEwSG9mSHVhdlhES2ZObmtJVzFLRUhNbm4xdkl6YmZHV2d1VUNHNE9Md2ZKVlowUU5yOU8wa1AyMGNtdWNlX2NIUXpsOUJVa3pJNjRKa2MxWGdrTW9jYVNqLVM5cmpCblZSVzkwTVR5YzJ2TER0c3VpZ3AyZw?oc=5",
+      "image": null,
+      "headline": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.4
         }
       ]
     },
@@ -39489,657 +40067,6 @@
       "headline": "OpenAI says Trump\u2019s AI accord needs more detail, Semafor reports - The Next Web",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "7b146a35f7a33a44",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T23:41:57+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "of more than two dozen go-to Trump statements and how they square for accuracy.",
-      "company": "Square",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/a-fact-checked-guide-to-trumps-talking-points-and-falsehoods-at-midterm-rallies",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-01T221749Z_676556222_RC2MUNABVHHZ_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "headline": "A fact-checked guide to Trump's talking points and falsehoods at midterm rallies",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "717fdc8ae4674f0b",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T22:35:37+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Amna Nawaz discussed more with Sharon Otterman of The New York Times.",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.7,
-      "change": 2.21,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/new-details-intensify-scrutiny-of-cornells-handling-of-gang-rape-allegations",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/cornell-1024x683.jpg",
-      "headline": "New details intensify scrutiny of Cornell's handling of gang rape allegations",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        },
-        {
-          "d": "09-15",
-          "c": 71.71
-        },
-        {
-          "d": "09-16",
-          "c": 72.41
-        },
-        {
-          "d": "09-17",
-          "c": 69.94
-        },
-        {
-          "d": "09-18",
-          "c": 70.21
-        },
-        {
-          "d": "09-21",
-          "c": 70.53
-        },
-        {
-          "d": "09-22",
-          "c": 65.45
-        },
-        {
-          "d": "09-23",
-          "c": 61.89
-        },
-        {
-          "d": "09-24",
-          "c": 63.05
-        },
-        {
-          "d": "09-25",
-          "c": 63.83
-        },
-        {
-          "d": "09-28",
-          "c": 64.17
-        },
-        {
-          "d": "09-29",
-          "c": 62.32
-        },
-        {
-          "d": "09-30",
-          "c": 63.7
-        }
-      ]
-    },
-    {
-      "id": "ff04e4afd03f33ab",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T18:00:30+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "AirlineGeeks.com",
-      "type": "news",
-      "quote": "Trump Praises \u2018Genius\u2019 Boeing After Thwarted 737 Hijacking - AirlineGeeks.com Trump",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 193.56,
-      "change": 0.67,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFFqMjBjSmxxMjNKYU94eDJvZ3BGalRsTXJGQkFkTUhwNDVkUGdCSUVTQVlqZ3gwNkMxRE8zQlRQMi1nMWJlcWdJSHF3LTkzUUFDcHJNVF9Nd0pMdFFiTDdWOTc3R3ZOb3FPU29uU0p1TXpOdndEOXBYTE5WUkpETE1pc0xhQ2gzMVpTa2YyOUNubkxpTk01eQ?oc=5",
-      "image": null,
-      "headline": "Trump Praises \u2018Genius\u2019 Boeing After Thwarted 737 Hijacking - AirlineGeeks.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 210.51
-        },
-        {
-          "d": "09-04",
-          "c": 212.25
-        },
-        {
-          "d": "09-08",
-          "c": 210.73
-        },
-        {
-          "d": "09-09",
-          "c": 206.42
-        },
-        {
-          "d": "09-10",
-          "c": 204.8
-        },
-        {
-          "d": "09-11",
-          "c": 210.45
-        },
-        {
-          "d": "09-14",
-          "c": 210.27
-        },
-        {
-          "d": "09-15",
-          "c": 209.69
-        },
-        {
-          "d": "09-16",
-          "c": 201.96
-        },
-        {
-          "d": "09-17",
-          "c": 197.0
-        },
-        {
-          "d": "09-18",
-          "c": 198.2
-        },
-        {
-          "d": "09-21",
-          "c": 201.15
-        },
-        {
-          "d": "09-22",
-          "c": 197.72
-        },
-        {
-          "d": "09-23",
-          "c": 199.93
-        },
-        {
-          "d": "09-24",
-          "c": 196.8
-        },
-        {
-          "d": "09-25",
-          "c": 198.07
-        },
-        {
-          "d": "09-28",
-          "c": 184.39
-        },
-        {
-          "d": "09-29",
-          "c": 187.68
-        },
-        {
-          "d": "09-30",
-          "c": 186.05
-        },
-        {
-          "d": "10-01",
-          "c": 192.28
-        },
-        {
-          "d": "10-02",
-          "c": 193.56
-        }
-      ]
-    },
-    {
-      "id": "71a37d04cd5e9ddc",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T17:21:44+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "The Daily News | Texas' Oldest Newspaper",
-      "type": "news",
-      "quote": "U.S. President Trump announces deal with Pfizer - The Daily News | Texas' Oldest Newspaper U.S. President",
-      "company": "Pfizer",
-      "ticker": "PFE",
-      "price": 28.12,
-      "change": -1.4,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT3JidmVpOWF4Z1VacnFmUE5sbWZJbDZYTEY2ZFRnUFVhTUFRc2Vmay12TlVWZlFiSFBMMkhfVjJDY3FhYWlSQ3pBMC1XVUhHUFJ6SDJxeEgyOVltbFByVFpIVDR6MWQ2TVl5ZGlCMlIxVXdVLTZleTI3dlJKMFdTR3h5bWFFN0hDTm53OVhjZEF3T0NnSGdwWHphUnMzWWhUaEs3YnZKbmw3MFVWWTk4LVdnUkd3SmlaWWgzR1lkRFl1ZWsyVGN5ZktrbHA4SVNBZGc5TTdXTG0?oc=5",
-      "image": null,
-      "headline": "U.S. President Trump announces deal with Pfizer - The Daily News | Texas' Oldest Newspaper",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-02",
-          "c": 29.02
-        },
-        {
-          "d": "09-03",
-          "c": 28.81
-        },
-        {
-          "d": "09-04",
-          "c": 28.45
-        },
-        {
-          "d": "09-08",
-          "c": 27.79
-        },
-        {
-          "d": "09-09",
-          "c": 27.78
-        },
-        {
-          "d": "09-10",
-          "c": 27.65
-        },
-        {
-          "d": "09-11",
-          "c": 27.72
-        },
-        {
-          "d": "09-14",
-          "c": 27.72
-        },
-        {
-          "d": "09-15",
-          "c": 27.55
-        },
-        {
-          "d": "09-16",
-          "c": 27.46
-        },
-        {
-          "d": "09-17",
-          "c": 27.64
-        },
-        {
-          "d": "09-18",
-          "c": 27.66
-        },
-        {
-          "d": "09-21",
-          "c": 27.74
-        },
-        {
-          "d": "09-22",
-          "c": 27.93
-        },
-        {
-          "d": "09-23",
-          "c": 28.18
-        },
-        {
-          "d": "09-24",
-          "c": 28.41
-        },
-        {
-          "d": "09-25",
-          "c": 28.67
-        },
-        {
-          "d": "09-28",
-          "c": 28.72
-        },
-        {
-          "d": "09-29",
-          "c": 28.72
-        },
-        {
-          "d": "09-30",
-          "c": 28.52
-        },
-        {
-          "d": "10-01",
-          "c": 28.12
-        }
-      ]
-    },
-    {
-      "id": "f04dbc84b9890124",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T14:33:06+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "FOX 17 West Michigan News",
-      "type": "news",
-      "quote": "Trump says AI companies will 'self police' development - FOX 17 West Michigan News Trump says AI companies will 'self",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 54.35,
-      "change": -3.46,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjA0bWc1VFY5UXFGazhpbGgxM0hLLXBJazRmb1RwME93b1NKSldXN2dqRVU3TEhENXhSbVVuWllubEI0NDVkSnI5bFNJV3hpOC1zMzJwME5vc2VzWHY3V01aQWhWS2ROa21XczhaLXF6WXR5VW1oSWFCVjFCYzBWdUMxTFgxcGhsbHdESC1sQ2NJNGZhSy1OVXlWbkd1YUdHQkRyUW5DUlVEZw?oc=5",
-      "image": null,
-      "headline": "Trump says AI companies will 'self police' development - FOX 17 West Michigan News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.35
-        }
-      ]
-    },
-    {
-      "id": "6fe2f6999d12ffe9",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T13:08:00+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump praises Boeing 737 MAX after jet survives dramatic plunge during attack -",
-      "company": "Boeing",
-      "ticker": "BA",
-      "price": 187.96,
-      "change": 1.03,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEdQVDNzRjM0OGdFTzFENUxCRWtmUzdEdlRyNExDaFNadDBCZGpURG5HUS1ZSzBEWXhuUUdhcnlxMF9WcUNxNmVNa05kcVVUZk9nbW1ScmROTWlhQjdwWTh0T3RfMVZ6VGJWOHgya2pOVGJnZkZTSjc4MFNfWkxJa1I5RdIBiAFBVV95cUxOMGFlUl9od3l2QXg0NEk0d2ZxME1scHYzM24tZ2RYX3dPV3gyQjZmZWV2RWhnUG05bjRsdmN0QUJiajlQZERCNFBNNDhpcFQ2NzNOZ3dtZkE2R2ZTUDcxWXVaaXh0U3lISHRiQTlKMnI0VnVNZS10ZExONHdvTFkxMnlSUUUxdGg3?oc=5",
-      "image": null,
-      "headline": "Trump praises Boeing 737 MAX after jet survives dramatic plunge during attack - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 205.66
-        },
-        {
-          "d": "09-02",
-          "c": 208.87
-        },
-        {
-          "d": "09-03",
-          "c": 210.51
-        },
-        {
-          "d": "09-04",
-          "c": 212.25
-        },
-        {
-          "d": "09-08",
-          "c": 210.73
-        },
-        {
-          "d": "09-09",
-          "c": 206.42
-        },
-        {
-          "d": "09-10",
-          "c": 204.8
-        },
-        {
-          "d": "09-11",
-          "c": 210.45
-        },
-        {
-          "d": "09-14",
-          "c": 210.27
-        },
-        {
-          "d": "09-15",
-          "c": 209.69
-        },
-        {
-          "d": "09-16",
-          "c": 201.96
-        },
-        {
-          "d": "09-17",
-          "c": 197.0
-        },
-        {
-          "d": "09-18",
-          "c": 198.2
-        },
-        {
-          "d": "09-21",
-          "c": 201.15
-        },
-        {
-          "d": "09-22",
-          "c": 197.72
-        },
-        {
-          "d": "09-23",
-          "c": 199.93
-        },
-        {
-          "d": "09-24",
-          "c": 196.8
-        },
-        {
-          "d": "09-25",
-          "c": 198.07
-        },
-        {
-          "d": "09-28",
-          "c": 184.39
-        },
-        {
-          "d": "09-29",
-          "c": 187.68
-        },
-        {
-          "d": "09-30",
-          "c": 186.05
-        },
-        {
-          "d": "10-01",
-          "c": 187.96
-        }
-      ]
-    },
-    {
-      "id": "f547596b4e4eaf37",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T13:08:00+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "737 MAX after jet survives dramatic plunge during attack - Fox Business Trump praises Boeing 737 MAX after jet survives",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 54.35,
-      "change": -3.46,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEdQVDNzRjM0OGdFTzFENUxCRWtmUzdEdlRyNExDaFNadDBCZGpURG5HUS1ZSzBEWXhuUUdhcnlxMF9WcUNxNmVNa05kcVVUZk9nbW1ScmROTWlhQjdwWTh0T3RfMVZ6VGJWOHgya2pOVGJnZkZTSjc4MFNfWkxJa1I5RdIBiAFBVV95cUxOMGFlUl9od3l2QXg0NEk0d2ZxME1scHYzM24tZ2RYX3dPV3gyQjZmZWV2RWhnUG05bjRsdmN0QUJiajlQZERCNFBNNDhpcFQ2NzNOZ3dtZkE2R2ZTUDcxWXVaaXh0U3lISHRiQTlKMnI0VnVNZS10ZExONHdvTFkxMnlSUUUxdGg3?oc=5",
-      "image": null,
-      "headline": "Trump praises Boeing 737 MAX after jet survives dramatic plunge during attack - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.35
-        }
-      ]
     }
   ]
 }
