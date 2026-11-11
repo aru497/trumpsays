@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-11-10T23:54:40.399914+00:00",
+  "updated_at": "2026-11-11T03:33:25.184976+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "e06c062a6db41799",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T22:19:31+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "New York Post",
+      "type": "news",
+      "quote": "FBI is \u2018looking into\u2019 Nvidia boss Jensen Huang\u2019s affair with suspected Chinese spy,",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGJQVXFudmQ5OG56aFdsWUF4d05OVVBiYnRYT2h0X0pRZ0tmeHcxdThlejh0T05kTzRydkJMRE9QVzJTODJqS3g4ODdJSmRfTXV5enp0LTFyd2stN2NxdkRaM3BIbGdrNFJVeENnRlRDYnB6TG1FTk1oRmtWdFBfcDduZTVGUmxlN3hSUk9aVjl4OWM2eFlRZGw2ZE80aVQ5cFpZU1NCUnhZcW9MNjBhZ25EaDBxUUtxUE5PdjhaaTBUbm81ejhHQw?oc=5",
+      "image": null,
+      "headline": "FBI is \u2018looking into\u2019 Nvidia boss Jensen Huang\u2019s affair with suspected Chinese spy, Trump says - New York Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
     {
       "id": "bb9599906b6d6a5b",
       "date": "Tue, 10 Nov 2026",
@@ -39927,110 +40035,6 @@
       "headline": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "e84a063707aa5b88",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T16:02:00+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Bloomberg Law News",
-      "type": "news",
-      "quote": "DLA Piper Expands Trump Ties With Filing in Truth Social Case - Bloomberg Law News DLA Piper Expands Trump Ties",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": 1.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEk2c1RkOWdIdUt6SzlkQTZTNkJzVHltTHM4T0VjZnBUc3E4MXBxVnNvajhxR1lGRE9rYWE1dnpKdGxkdmhOeTQ3ek1PeHZTcXVIR0lQVk1pZE4weHNTSE5WMjZzWTRYRTNld2pzUUxsTmlFUF9CMG5wQ19LaEdoaVloZlpyV0VUS29TVmtkQ1VKQ252dkVNUkY5ZmYzNFhGVk11SFBHUDVkc1JWWnRjeGNnUQ?oc=5",
-      "image": null,
-      "headline": "DLA Piper Expands Trump Ties With Filing in Truth Social Case - Bloomberg Law News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        }
-      ]
     }
   ]
 }
