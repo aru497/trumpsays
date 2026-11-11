@@ -1,7 +1,350 @@
 {
-  "updated_at": "2026-11-11T03:33:25.184976+00:00",
+  "updated_at": "2026-11-11T11:31:14.007177+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "cf2405b74251adb5",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T10:02:58+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Kennedys sue to block Trump's arch, citing shadow over JFK's grave Descendants",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch-citing-shadow-over-jfks-grave",
+      "image": null,
+      "headline": "Kennedys sue to block Trump's arch, citing shadow over JFK's grave",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "dcb8acbbfd9e3adc",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T10:02:47+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Steve Inskeep talks to ex-CIA analyst about alleged Nvidia Chinese spy case NPR's Steve Inskeep talks with former CIA",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/11/nx-s1-6035790/steve-inskeep-talks-to-ex-cia-analyst-about-alleged-nvidia-chinese-spy-case",
+      "image": null,
+      "headline": "Steve Inskeep talks to ex-CIA analyst about alleged Nvidia Chinese spy case",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "43731ab1f0cc4062",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T09:58:43+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "Business Insider Africa",
+      "type": "news",
+      "quote": "Trump says FBI is probing Nvidia CEO as chipmaker heads for $470 billion wipeout, exposing",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXFUalE4REdlU0NLcHU4cVF5am0weDd4VFlWdjVPaEVxMXFKTnVlLXI2YXp5elVMd3VBRS1aVFoyc2pITERJQ3VySl8yeGdyV1Q3a3hTWlVDQXExNmsyTFQxUl82Uk5rM1YxdG1vaXhRS1lRRkxUUTBFRHFuZ1hDc1M1dzhoTnJOSmp3Zm1LdWpnVW03NG54bmxOU3FUQml1dnhyQWo3YnFiX3N3S05sRURfb2xPdUFiZjZWSExzeWc0dl80N3VuMlRjNlIwUl9ySEhZeDV1emdtdw?oc=5",
+      "image": null,
+      "headline": "Trump says FBI is probing Nvidia CEO as chipmaker heads for $470 billion wipeout, exposing the US technology behind AI infrastructure across South Africa, Nigeria, Kenya, Egypt and Morocco - Business Insider Africa",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "dd33cb1761c05b11",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T07:28:54+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "Firstpost",
+      "type": "news",
+      "quote": "Nvidia crisis: Did Trump know about Jensen Huang\u2019s affair? Report",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlp6c25nay1fWjJiZE1IZElPMHVUMUt0SktiWFNLSk1Pa21jaEZ6TVkzQmx4VFhCU1V3R1pYV3dGMzVwa3RWWG9zSkdMaGtkbXlJY2ViUGJFNHExTzJ2SU1HZnZteWtsUE5mM0VsdS1fMUE3b0tCajdTTUxTclRIMHMycFNUOFk3MjYySkZ6SHVnR01qUTZrR2ZPSWFndTNnQTA1WGR4WHBtLVc0SWZ2UlNvT2JLZEJTRExfdGk3Vk5rY1U2dzZSbk5rT21FUm9ISDU4Ul9DeF9acERBbml0WWFsa2F1UWo3RUI0c9IB8gFBVV95cUxPdmRBSEdhWWFVNVlSMHFkc1RYZGJwOUtKQXFxV1o5SVgtUmFmcE5JZmw0Ymo2MTVkTDJhczRfckNLS2hnV2c0YnFDY2VqcF9sMEVOMkJ0U25URGlUQXU1dnE2WGtWcVdsVjBNd3NTUGdRNFA5RHNScHlRMDRiLXpKOW9RNXVwN3RQYUJiQU10Y3laZm9ZMUxOLWoxRDYzZ3A3S3YxbnBrT1RFX09sRURLc0tWLXNkOElQV3NQQW93c0ZuMWJWV2tqVTFBM1Q3SVNNYUM2WC1lYmlyTEp3OTA2cEpLa3JpS2Fkb2hNUmtxRnI2Zw?oc=5",
+      "image": null,
+      "headline": "Nvidia crisis: Did Trump know about Jensen Huang\u2019s affair? Report says commerce secretary received classifi... - Firstpost",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
     {
       "id": "e06c062a6db41799",
       "date": "Tue, 10 Nov 2026",
@@ -1611,6 +1954,114 @@
         {
           "d": "11-09",
           "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "8c8eb4548332828a",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T10:47:13+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "NPR",
+      "type": "news",
+      "quote": "Push, Trump Holds Off Iran Strikes, Congress Summons Nvidia's CEO - NPR Hegseth Impeachment Push, Trump Holds Off Iran",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRGREU0l2VnFCc1IwaDVUOGZLM2FBYXBrSXFUbkFaUl9SckpNb0dUc2Z6WFRqY2k4ZjBhX3M0RDd3WFQ3MC1nRFFaRFBsZE5WSzNoZGNqbEE?oc=5",
+      "image": null,
+      "headline": "Hegseth Impeachment Push, Trump Holds Off Iran Strikes, Congress Summons Nvidia's CEO - NPR",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
         }
       ]
     },
@@ -3503,6 +3954,222 @@
         {
           "d": "11-09",
           "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "d00f45a11157601a",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T00:08:43+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWc0swNFhFTHlRNHhjZ1paZU5JZHU3N2pxQkIwV0hqRTJBb01ZQ0VDWkNFZG1Ya2FmS084dUdham83b2t0RDhDbHV1cFpQb3V0dzZQZlloV3FxLTY5cEhnQlFxRUliYWtHVEh4WFhEMndzYVJMaXJPSkJJTUlST28?oc=5",
+      "image": null,
+      "headline": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "9ec65f460fa0255b",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T00:08:43+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "He Did Not Know Chinese Woman Was Suspected Spy - The New York Times Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWc0swNFhFTHlRNHhjZ1paZU5JZHU3N2pxQkIwV0hqRTJBb01ZQ0VDWkNFZG1Ya2FmS084dUdham83b2t0RDhDbHV1cFpQb3V0dzZQZlloV3FxLTY5cEhnQlFxRUliYWtHVEh4WFhEMndzYVJMaXJPSkJJTUlST28?oc=5",
+      "image": null,
+      "headline": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
         }
       ]
     },
@@ -5699,6 +6366,114 @@
         {
           "d": "11-10",
           "c": 71.75
+        }
+      ]
+    },
+    {
+      "id": "3535e9515933f4ac",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T10:37:57+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "TOKENPOST",
+      "type": "news",
+      "quote": "Trump Media's Truth Social Streaming Service Earned About $630,000 -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.28,
+      "change": 5.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5adjRUSFRveVFxV0QxdjBqNU1kYU5jM0dmZ2h3VXdzblVCZWFwNVFHS1pEd3dsR2RwYUdPUWhtRi1udm8yUmJscE0xLWl5TWRxQzRXY3RRak0?oc=5",
+      "image": null,
+      "headline": "Trump Media's Truth Social Streaming Service Earned About $630,000 - TOKENPOST",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 7.97
+        },
+        {
+          "d": "10-13",
+          "c": 7.75
+        },
+        {
+          "d": "10-14",
+          "c": 7.22
+        },
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
         }
       ]
     },
@@ -39365,676 +40140,6 @@
           "c": 54.35
         }
       ]
-    },
-    {
-      "id": "d15f925bea151882",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T10:48:03+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "face off in debate California's candidates for governor square off in a debate while the blue-leaning state grapples with",
-      "company": "Square",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/10/01/nx-s1-5986313/california-gubernatorial-candidates-face-off-in-debate",
-      "image": null,
-      "headline": "California gubernatorial candidates face off in debate",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "7e48b898fe23f55f",
-      "date": "Thu, 01 Oct 2026",
-      "ts": "2026-10-01T00:45:22+00:00",
-      "date_display": "Oct 01, 2026",
-      "source": "findarticles.com",
-      "type": "news",
-      "quote": "Trump Media and TAE File SEC Registration Statement for Proposed",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.06,
-      "change": -0.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDREV0E3azB6MlRuLUI5ZWYybGxubDYySlZHLXk0bDhUQmJSQzVsc2JvWXEtWjc0eHh3Y0JMZjN0cHZsZWo0cmFNTnBOZTJQd25JTUl0aElxZkVOS3l1LVM4T1JmUC1mRzgyalcxT1IwWVpiRlRRSXB1OFdVem9CMV9BRzJSeGdBUzFkY3lrZS1yMWpJU1RwVFRR0gGiAUFVX3lxTE1kYlVWT0xxSFpSNlVqeHVZcGlZTTN3Wl8wRXAyNV9uYzRfUTh4M2NvaVluVE5QTW9XUTR4TGZuRkFoMVNoa2FqUVNIcXVRaEJKOUc4OGpYVkRsUTY5TGtOekpVRDdrbEtRbFdmVVEtQk1RWFhzT053N3YyYzhEVjlHRXJhczFLMmVacXNIRUl3c1VmTEhmTlh5NGQ3Ny1yVGhkQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media and TAE File SEC Registration Statement for Proposed All-Stock Merger - findarticles.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        }
-      ]
-    },
-    {
-      "id": "e4c70a43f0d966a7",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T22:56:21+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "Kingsport Times News",
-      "type": "news",
-      "quote": "Trump would continue to hold a significant interest in Trump Media after its proposed merger with TAE Technologies, a fusion",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.69,
-      "change": -4.08,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IWUo1RmpyWWVwYnNxeWI0aGtXQlBxLXBXbE9SbzdTUTMxbnVySWo3VllBSTRFdXdBckl4ZjhCV2pMZk5ZS0VKTGlRUlpva3hWR0E0eUF2TklEVmdSa2dVYUdR?oc=5",
-      "image": null,
-      "headline": "President Donald Trump speaks at the White House in Washington on Sept. 28, 2026. Trump would continue to hold a significant interest in Trump Media after its proposed merger with TAE Technologies, a fusion energy company, according to a regulatory filin - Kingsport Times News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.69
-        }
-      ]
-    },
-    {
-      "id": "fa499b66dde2625a",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T20:12:30+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Nuclear Fusion Company Moves Closer to Completion - The New York Times Trump Media\u2019s Merger With Nuclear Fusion Company Moves",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 63.7,
-      "change": 2.21,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFZDbmg5blhLSHh5RklYekZWWjF2clBjQWJYS3hwY2w2eGFPNDBnX2FWZndZZkgxS3dNOHVyYWdaYzRxVGg3bXI5N2VkWUd5M3dmYm1HdjBVbHJXeXphNEhDQmFvQjh4YS12Y1lKUEVLdWxNNVEtRWdpRkdIeENNT0FlT0JWOEEtVHlwUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s Merger With Nuclear Fusion Company Moves Closer to Completion - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 67.73
-        },
-        {
-          "d": "09-02",
-          "c": 67.68
-        },
-        {
-          "d": "09-03",
-          "c": 67.06
-        },
-        {
-          "d": "09-04",
-          "c": 67.28
-        },
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        },
-        {
-          "d": "09-15",
-          "c": 71.71
-        },
-        {
-          "d": "09-16",
-          "c": 72.41
-        },
-        {
-          "d": "09-17",
-          "c": 69.94
-        },
-        {
-          "d": "09-18",
-          "c": 70.21
-        },
-        {
-          "d": "09-21",
-          "c": 70.53
-        },
-        {
-          "d": "09-22",
-          "c": 65.45
-        },
-        {
-          "d": "09-23",
-          "c": 61.89
-        },
-        {
-          "d": "09-24",
-          "c": 63.05
-        },
-        {
-          "d": "09-25",
-          "c": 63.83
-        },
-        {
-          "d": "09-28",
-          "c": 64.17
-        },
-        {
-          "d": "09-29",
-          "c": 62.32
-        },
-        {
-          "d": "09-30",
-          "c": 63.7
-        }
-      ]
-    },
-    {
-      "id": "ef6fddcb5968c8ad",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T20:12:30+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump Media\u2019s Merger With Nuclear Fusion Company Moves Closer to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 9.06,
-      "change": -0.44,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFZDbmg5blhLSHh5RklYekZWWjF2clBjQWJYS3hwY2w2eGFPNDBnX2FWZndZZkgxS3dNOHVyYWdaYzRxVGg3bXI5N2VkWUd5M3dmYm1HdjBVbHJXeXphNEhDQmFvQjh4YS12Y1lKUEVLdWxNNVEtRWdpRkdIeENNT0FlT0JWOEEtVHlwUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s Merger With Nuclear Fusion Company Moves Closer to Completion - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-01",
-          "c": 9.06
-        },
-        {
-          "d": "09-02",
-          "c": 9.14
-        },
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        }
-      ]
-    },
-    {
-      "id": "50f79b8bb67b75f7",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T20:12:30+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "nytimes.com",
-      "type": "news",
-      "quote": "Trump Media\u2019s Merger With Nuclear Fusion Company Moves Closer to",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": 1.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFZDbmg5blhLSHh5RklYekZWWjF2clBjQWJYS3hwY2w2eGFPNDBnX2FWZndZZkgxS3dNOHVyYWdaYzRxVGg3bXI5N2VkWUd5M3dmYm1HdjBVbHJXeXphNEhDQmFvQjh4YS12Y1lKUEVLdWxNNVEtRWdpRkdIeENNT0FlT0JWOEEtVHlwUQ?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s Merger With Nuclear Fusion Company Moves Closer to Completion - nytimes.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "11f4ed51efd040b8",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T19:04:15+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "for surgeon general Saphier, a radiologist and former Fox News Channel contributor, was advanced out of the Senate",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.78,
-      "change": 1.7,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-senate-health-committee-advances-dr-nicole-saphiers-nomination-for-surgeon-general",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T151813Z_1583383244_RC2FKNABUFNR_RTRMADP_3_USA-CONGRESS-HEALTH-1024x683.jpg",
-      "headline": "WATCH: Senate health committee advances Dr. Nicole Saphier's nomination for surgeon general",
-      "channel": "News",
-      "series": [
-        {
-          "d": "08-31",
-          "c": 59.92
-        },
-        {
-          "d": "09-01",
-          "c": 58.74
-        },
-        {
-          "d": "09-02",
-          "c": 60.27
-        },
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.78
-        }
-      ]
-    },
-    {
-      "id": "c9ac2ffe5a65dbbb",
-      "date": "Wed, 30 Sep 2026",
-      "ts": "2026-09-30T16:32:12+00:00",
-      "date_display": "Sep 30, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "category of citizens that Republicans have been pushing to block from voting.",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
-      "image": null,
-      "headline": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
-      "channel": "News",
-      "series": null
     }
   ]
 }
