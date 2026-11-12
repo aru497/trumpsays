@@ -1,7 +1,2275 @@
 {
-  "updated_at": "2026-11-12T08:30:30.712146+00:00",
+  "updated_at": "2026-11-12T17:12:02.174971+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "8cbb62b19a3bb0a4",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:45:37+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Gizmodo",
+      "type": "news",
+      "quote": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO - Gizmodo Trump",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcE4td1h6T1F3VTB5MUtHbnB3ZHBmQUh0a2Rfcldhcmt2b2Rtd3pfNGlPM1FhckVfOExTT0Q0YXpXU0VvcFM4MDRSV3R5STFSNHp5V21lMWtrYlR2X1BvT3pidkhhbmVGQTgxWm9pR29GdlVs?oc=5",
+      "image": null,
+      "headline": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO - Gizmodo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "a518dffb83ba75d2",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:45:37+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Gizmodo",
+      "type": "news",
+      "quote": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO - Gizmodo Trump Wants Tim Apple to Replace Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcE4td1h6T1F3VTB5MUtHbnB3ZHBmQUh0a2Rfcldhcmt2b2Rtd3pfNGlPM1FhckVfOExTT0Q0YXpXU0VvcFM4MDRSV3R5STFSNHp5V21lMWtrYlR2X1BvT3pidkhhbmVGQTgxWm9pR29GdlVs?oc=5",
+      "image": null,
+      "headline": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO - Gizmodo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "283aaea4f8a03760",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:42:57+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Yahoo Finance Singapore",
+      "type": "news",
+      "quote": "Trump calls for Apple's Cook to replace Huang at Nvidia - Yahoo Finance",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnNfZDB4WUxraTdhcmd5aWI3TzJsT1Yxb01HSGxFMWlpX2p3QzhEQnV1bk1ETnVwU3hCVXZvUldvSzV5bElXT3NxZ25SUERJckNKRlRzaGY5RTF1YTZPVlN6NWRaSXloMVptZmFsMl9JNm0tNGNfc3Q4dWhBQmpFTmp3cDlhczQ?oc=5",
+      "image": null,
+      "headline": "Trump calls for Apple's Cook to replace Huang at Nvidia - Yahoo Finance Singapore",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "3a33cb15fd660682",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:42:57+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Yahoo Finance Singapore",
+      "type": "news",
+      "quote": "Trump calls for Apple's Cook to replace Huang at Nvidia - Yahoo Finance Singapore Trump calls for Apple's Cook to",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnNfZDB4WUxraTdhcmd5aWI3TzJsT1Yxb01HSGxFMWlpX2p3QzhEQnV1bk1ETnVwU3hCVXZvUldvSzV5bElXT3NxZ25SUERJckNKRlRzaGY5RTF1YTZPVlN6NWRaSXloMVptZmFsMl9JNm0tNGNfc3Q4dWhBQmpFTmp3cDlhczQ?oc=5",
+      "image": null,
+      "headline": "Trump calls for Apple's Cook to replace Huang at Nvidia - Yahoo Finance Singapore",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "113dde6459bca093",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:40:48+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Open Magazine",
+      "type": "news",
+      "quote": "Trump Wants Tim Cook at Nvidia. Who Actually Picks the CEO? - Open Magazine Trump Wants",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUNxV25iZXdiN1VwZFFWbVRsaEhGTjhJdWExc3E5SW56N3c3N3Y5RVJDYVhtVzZ0Ymd5Q2djTzIzTl9vSGNxXzl1Yk1EMjhJNV9UMk1wZG8wb2JmMl9PTnR5a0JaRGlzUzJHbm8xNXhtRGdDRDlRSnlSZm1Uc19ZcTdwQ0VzU0w5STRWVVB1NzBsRzA0QlE?oc=5",
+      "image": null,
+      "headline": "Trump Wants Tim Cook at Nvidia. Who Actually Picks the CEO? - Open Magazine",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "93a7a1eeb8c1ab8a",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:25:00+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "The Hill",
+      "type": "news",
+      "quote": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill Trump calls for Tim Cook to replace Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5",
+      "image": null,
+      "headline": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "33764a25a8dbcab3",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:21:38+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5",
+      "image": null,
+      "headline": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "7ebe27d97b97c36d",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:21:38+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post Trump says Apple\u2019s Tim Cook should",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5",
+      "image": null,
+      "headline": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "7fefde4f445dfa7b",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:16:00+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "The Korea Times",
+      "type": "news",
+      "quote": "Trump says ex Apple CEO Cook should replace Huang at Nvidia - The Korea Times",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTExJVzdlZHFUYXIzLUk5X3VKVnQ5ZmYwaW5xQ09xTGhNM0JSRW9ZUTBtajVJUEtTYlVsLVFwVk9IRkRoeUs5d013VzU5dURmSUtlM1pOdjUxZ0RyQjVtd2w2X0JjY3k2WXNHSjliV3Z4UHV3bDdSSjBjY2dUMUgzdG9jSHc2TS1OWVJNbTJ5TVNKMmQya0UzVTBnbW9pdEJnQ0g3eGtR0gGrAUFVX3lxTE5uS0dERFlMSmVtUUNESkU2YUxzbGh2MDRkOXJZa1B5TUpLUTBfOW5YSHZOU3o0cXg5dnlQQVpBbEluVW5wRXFnUVdTeXpsSXp6WS1WZmc4eUZzVTBXeGpFRVpfWlVZajRkUHRETEN5YlpKVFVvMTlFR0N4QXRkZTl5SWFnanpiQmU2V1luWER3TkV5UnloNTQ4RWJCUWEtd19yRUhJZ2oxMXlBOA?oc=5",
+      "image": null,
+      "headline": "Trump says ex Apple CEO Cook should replace Huang at Nvidia - The Korea Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "4b97a4cc877aeae8",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:16:00+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "The Korea Times",
+      "type": "news",
+      "quote": "Trump says ex Apple CEO Cook should replace Huang at Nvidia - The Korea Times Trump says ex Apple CEO Cook should",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTExJVzdlZHFUYXIzLUk5X3VKVnQ5ZmYwaW5xQ09xTGhNM0JSRW9ZUTBtajVJUEtTYlVsLVFwVk9IRkRoeUs5d013VzU5dURmSUtlM1pOdjUxZ0RyQjVtd2w2X0JjY3k2WXNHSjliV3Z4UHV3bDdSSjBjY2dUMUgzdG9jSHc2TS1OWVJNbTJ5TVNKMmQya0UzVTBnbW9pdEJnQ0g3eGtR0gGrAUFVX3lxTE5uS0dERFlMSmVtUUNESkU2YUxzbGh2MDRkOXJZa1B5TUpLUTBfOW5YSHZOU3o0cXg5dnlQQVpBbEluVW5wRXFnUVdTeXpsSXp6WS1WZmc4eUZzVTBXeGpFRVpfWlVZajRkUHRETEN5YlpKVFVvMTlFR0N4QXRkZTl5SWFnanpiQmU2V1luWER3TkV5UnloNTQ4RWJCUWEtd19yRUhJZ2oxMXlBOA?oc=5",
+      "image": null,
+      "headline": "Trump says ex Apple CEO Cook should replace Huang at Nvidia - The Korea Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "b5f6132ea62b138c",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:12:19+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia -",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
+      "image": null,
+      "headline": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "d34f5d5ee7895b8a",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:12:19+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters Trump says ex Apple CEO Cook is 'a legend',",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
+      "image": null,
+      "headline": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "c5384efd161a6ef1",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:52:00+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "AppleInsider",
+      "type": "news",
+      "quote": "Trump calls on Tim Cook to replace Jensen Huang at Nvidia - AppleInsider Trump calls on Tim Cook to replace Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTE9ReWpBQ1gxUHF3NEpZX1BmcUprU2x3azNPMEh5b0xlNldkX3lRT3RDZ1pwU0oxWUxSODBpaFFla2xvb2hIeFZGbFBrM1hsOXp0eVMtM3BDanZmeDBfQmFaUUhEOUtlSEstaEZYODRTOXVTeXB5NjhsVDN2LXFzM3p5d0JremVFUVFLdHRLc1dyaVVJV3VsdDJrVTU?oc=5",
+      "image": null,
+      "headline": "Trump calls on Tim Cook to replace Jensen Huang at Nvidia - AppleInsider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "058e5c956cdb7812",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:51:42+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+      "image": null,
+      "headline": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "78d0e0f5a07385b7",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:51:42+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Axios",
+      "type": "news",
+      "quote": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios Trump pitches Apple's Tim",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+      "image": null,
+      "headline": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "aeadab3ec9d63aa1",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:40:47+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Crypto Briefing",
+      "type": "news",
+      "quote": "Trump suggests Tim Cook should replace Jensen Huang as Nvidia CEO - Crypto Briefing Trump suggests Tim Cook should",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FM1pLVGkzRmlfcFJkMzgyeVVZZXJHcHVnbHhNUk8xU0xzRmNxV05hLWtMbXRtR1VCdkcxLUVSR0UzbFhlM2tTbnpqZDJTQklMekJfWkVyYlk0cTVsMlJPZ3JLR0JvNUwyQmt1STRmdFJHeGt2MjJpcXl3?oc=5",
+      "image": null,
+      "headline": "Trump suggests Tim Cook should replace Jensen Huang as Nvidia CEO - Crypto Briefing",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "b806caa3b4225cc3",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:39:51+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "NDTV",
+      "type": "news",
+      "quote": "\"Only One Man\": Trump Pitches For Apple's Tim Cook As Next Nvidia Boss - NDTV \"Only One Man\":",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 357.14,
+      "change": 0.42,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0ZwTTFzcmdEM1ZJTWs1VWY1dGhSZ0xMSVNsb1d0UzBTMzltWnpIX2tISjduMnE5SkliNmxhUk0wTXVma3dFRVZmTkp5cWpEdENNbUx1NUZvdC1laHFhYWxFdU1xaWdVbk5wSF93dzhqc3hJX3M4bWFaV1NnNGhoWllNTWkxZTJMRmMyQlMwTVNiVUZyR0VpdTN30gGiAUFVX3lxTE1CV3p0bFBiNllCTXRueURhUjJ2QnRheFBva2xQOTNRalVjS0t5NnRRdmZ2SENxaTZiQVNPdFZqQXdpRnpJMWlPS0lnSURxVmpsRE5ZWmhFUmtGU0FuYjBvOFBWZkRyS2o1NC1kNWtUVzJjQjJSSjFkOG1jUThjRk5GbGliNTBlSzNsUnZrRnRHeWdTLWZaelR5R1k5WFFzb2dxQQ?oc=5",
+      "image": null,
+      "headline": "\"Only One Man\": Trump Pitches For Apple's Tim Cook As Next Nvidia Boss - NDTV",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 342.96
+        },
+        {
+          "d": "10-15",
+          "c": 342.0
+        },
+        {
+          "d": "10-16",
+          "c": 343.46
+        },
+        {
+          "d": "10-19",
+          "c": 342.94
+        },
+        {
+          "d": "10-20",
+          "c": 339.5
+        },
+        {
+          "d": "10-21",
+          "c": 343.99
+        },
+        {
+          "d": "10-22",
+          "c": 348.22
+        },
+        {
+          "d": "10-23",
+          "c": 347.73
+        },
+        {
+          "d": "10-26",
+          "c": 343.91
+        },
+        {
+          "d": "10-27",
+          "c": 347.1
+        },
+        {
+          "d": "10-28",
+          "c": 343.83
+        },
+        {
+          "d": "10-29",
+          "c": 348.91
+        },
+        {
+          "d": "10-30",
+          "c": 344.63
+        },
+        {
+          "d": "11-02",
+          "c": 338.32
+        },
+        {
+          "d": "11-03",
+          "c": 331.9
+        },
+        {
+          "d": "11-04",
+          "c": 349.51
+        },
+        {
+          "d": "11-05",
+          "c": 344.17
+        },
+        {
+          "d": "11-06",
+          "c": 342.37
+        },
+        {
+          "d": "11-09",
+          "c": 350.69
+        },
+        {
+          "d": "11-10",
+          "c": 348.51
+        },
+        {
+          "d": "11-11",
+          "c": 355.63
+        },
+        {
+          "d": "11-12",
+          "c": 357.14
+        }
+      ]
+    },
+    {
+      "id": "61ff82c44f7bca8b",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:39:51+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "NDTV",
+      "type": "news",
+      "quote": "\"Only One Man\": Trump Pitches For Apple's Tim Cook As Next Nvidia Boss - NDTV \"Only One Man\": Trump Pitches For Apple's Tim",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0ZwTTFzcmdEM1ZJTWs1VWY1dGhSZ0xMSVNsb1d0UzBTMzltWnpIX2tISjduMnE5SkliNmxhUk0wTXVma3dFRVZmTkp5cWpEdENNbUx1NUZvdC1laHFhYWxFdU1xaWdVbk5wSF93dzhqc3hJX3M4bWFaV1NnNGhoWllNTWkxZTJMRmMyQlMwTVNiVUZyR0VpdTN30gGiAUFVX3lxTE1CV3p0bFBiNllCTXRueURhUjJ2QnRheFBva2xQOTNRalVjS0t5NnRRdmZ2SENxaTZiQVNPdFZqQXdpRnpJMWlPS0lnSURxVmpsRE5ZWmhFUmtGU0FuYjBvOFBWZkRyS2o1NC1kNWtUVzJjQjJSSjFkOG1jUThjRk5GbGliNTBlSzNsUnZrRnRHeWdTLWZaelR5R1k5WFFzb2dxQQ?oc=5",
+      "image": null,
+      "headline": "\"Only One Man\": Trump Pitches For Apple's Tim Cook As Next Nvidia Boss - NDTV",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "206fdafc7d2d6684",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:38:02+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "says 'there is only one man' to replace Jensen Huang as Nvidia CEO - Fox Business Trump says 'there is only one man' to",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODlvdVMxVEZtQXN3THlxUnpaNVl5T2J4SVFDZUVoRTRCYmhiT3FscF85cGQ2ZmZsU3NGb1l5VDdvbDNMTUZqNVVnQlRjLVFHZkN6ZVBfRnE4RlN2TU1tazBmLWRRUkp2OWpLTEkyWU1WbzJ4eG16UHdzNEFRa1RiOEJoSdIBiAFBVV95cUxPMHdXU0dNQ2RucnN3M1RSZ0ZQN2hmcUJVQjVHdlg5b3BPRG1LSmp3WGg0ZjFadEdyMEx6T0YzdHJQRVNma3g1ek5Dai0wXzJENFhNNDJjWXQwNjB6WnJUWGIwMjA4ZUt5Qnhzb19CX0Z5YlI5SUQxSDVsYlhoRHVsMVRaVUJ2RzVK?oc=5",
+      "image": null,
+      "headline": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "765192e94410c967",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:38:02+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "is only one man' to replace Jensen Huang as Nvidia CEO - Fox Business Trump says 'there is only one man' to replace",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 60.04,
+      "change": -0.97,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODlvdVMxVEZtQXN3THlxUnpaNVl5T2J4SVFDZUVoRTRCYmhiT3FscF85cGQ2ZmZsU3NGb1l5VDdvbDNMTUZqNVVnQlRjLVFHZkN6ZVBfRnE4RlN2TU1tazBmLWRRUkp2OWpLTEkyWU1WbzJ4eG16UHdzNEFRa1RiOEJoSdIBiAFBVV95cUxPMHdXU0dNQ2RucnN3M1RSZ0ZQN2hmcUJVQjVHdlg5b3BPRG1LSmp3WGg0ZjFadEdyMEx6T0YzdHJQRVNma3g1ek5Dai0wXzJENFhNNDJjWXQwNjB6WnJUWGIwMjA4ZUt5Qnhzb19CX0Z5YlI5SUQxSDVsYlhoRHVsMVRaVUJ2RzVK?oc=5",
+      "image": null,
+      "headline": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 55.68
+        },
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 60.04
+        }
+      ]
+    },
+    {
+      "id": "ff903f7a526efb91",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T14:10:01+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Nvidia CEO Jensen Huang resigns after his affair raises national",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-12T135558Z_2090795339_RC2VJNA1CHJA_RTRMADP_3_NVIDIA-CEO-1024x684.jpg",
+      "headline": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
     {
       "id": "8362ec409cb07ae9",
       "date": "Thu, 12 Nov 2026",
@@ -431,6 +2699,330 @@
         {
           "d": "11-11",
           "c": 173.73
+        }
+      ]
+    },
+    {
+      "id": "fde48822c32d944a",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T22:34:00+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Nvidia board weighs CEO Huang's future as leadership crisis",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+      "image": null,
+      "headline": "Nvidia board weighs CEO Huang's future as leadership crisis deepens - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "e36936e6db00906e",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T21:55:36+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 164.46,
+      "change": -5.34,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+      "image": null,
+      "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 164.46
+        }
+      ]
+    },
+    {
+      "id": "25394777cc9954d8",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T21:55:36+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "With Nvidia Executive Who Reports to Him - The New York Times Jensen Huang Said to Have Had Relationship With Nvidia",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.5,
+      "change": -0.28,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+      "image": null,
+      "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 72.5
         }
       ]
     },
@@ -37884,2409 +40476,6 @@
         {
           "d": "10-07",
           "c": 578.96
-        }
-      ]
-    },
-    {
-      "id": "138d85486ad8953d",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T21:11:10+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "oil prices will \u2018drop like a rock\u2019 when Iran war ends - Fox Business President Trump says oil prices will \u2018drop like a",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.41,
-      "change": 0.77,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZYlJTZnFjVzNCTkNVbWMxamdMMy1VUEpEZUtWdjJuUlEtaHRwY3hzQ0JUWnA1QXFvWlREd1BxblR2ajJNTFh0eFBGMzJKd3NfeFM5TlF2dnJIZ2M?oc=5",
-      "image": null,
-      "headline": "President Trump says oil prices will \u2018drop like a rock\u2019 when Iran war ends - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.41
-        }
-      ]
-    },
-    {
-      "id": "8ca3532d0efa1103",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T20:44:33+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "www.washingtonsun.com",
-      "type": "news",
-      "quote": "House Social Media Guru Earned at Least $1 Million From a Trump Media Investment - www.washingtonsun.com White House Social",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.65,
-      "change": 0.23,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEg1clBMdG44a2JCdlFSakhsTE81alZLNEw1Wmp0TkdGd2pnNi1UN1NTMkV1NW9BV2dkaDI0UkNCSVVoTUlrMThwakw2RVZPLVdIVEhQSFN5ODlVU3Uta0Yyc2ZyNzhuSGRMRFV1UDVmcnJUUDJ1c0lrM25MXzZJU0Yzd3UwVk1zbXlHdi1XVEpNTjRWeW1ydDZtc203TlNueDlhcms1ZU8?oc=5",
-      "image": null,
-      "headline": "White House Social Media Guru Earned at Least $1 Million From a Trump Media Investment - www.washingtonsun.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        }
-      ]
-    },
-    {
-      "id": "ceec769b3c3b07d2",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T19:10:58+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "Fast Company",
-      "type": "news",
-      "quote": "Why Trump\u2019s use of a trans slur on Truth Social is even more insidious than it seems - Fast Company Why",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.65,
-      "change": 0.23,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUk5VUWZKb1NLUXdFZ2ZvaWFJWXNndTJESVJtOTY4Ym9aTGRhVjVvd2RNcW42ODdUVkt6NXRGeTNQR1VxYVBpU0dzWmIwS1V2NzFobGZvM29MNFpXd1ZXU0Q3OVdlSXlMZnJjT2RXaTNuNC1aemRsQVBoTTNVMFE?oc=5",
-      "image": null,
-      "headline": "Why Trump\u2019s use of a trans slur on Truth Social is even more insidious than it seems - Fast Company",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        }
-      ]
-    },
-    {
-      "id": "85bb318da929bcdd",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T19:10:29+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "GV Wire",
-      "type": "news",
-      "quote": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - GV Wire Traffic to Trump\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.22,
-      "change": -4.97,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU9JR1d3blJTSldKTGczNDcxR2JtaThMVGQtUlFrYVQzaEZQOWRZNUhvaUJyQzNZRHBfX3FrV29pdkVhRDRXUFhfMDJxdl9ONlJUdllyalQ4dkRzM3IwY2dPalRyY0lsVVZfT3MyTk9HWHRaNUlrWkFPOFl5Q3dYLTRIT3dRdktKWUJ0VTFSX2VrV3BtcmNEZjdJQ0JDVmVaSjE4aHA2dTRyYXlNWlRtRHdKX2hCU0MzVXFhWGhCMA?oc=5",
-      "image": null,
-      "headline": "Traffic to Trump\u2019s Truth Social Falls Sharply This Summer - GV Wire",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        }
-      ]
-    },
-    {
-      "id": "dfb6fd20dc4d4816",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T17:35:23+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't Want to",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTlpSDI1NEhfUG10dHNFdUk4ZVFoaVpwaWpzLS1Bb1hrc0VNdUlEMHpZcGtZZXNQREs1aHdTNU96MDl6NGFZV3RxcnMySzlEV2xGZDc1WWxkWlBpRFEwWEtZcVA2RUJaOGRhZ1lQMGNwcUhqMUR1QVhTWF9NRHFlTWVZUWZZQkpNRG00WkpoVVQ1SGpIdWsya0Z3aGhpWDc3RFpiMXlBd0dwWk41U3NDMldHVmdvTWhnS0xkY0g0N21QY0ZoeTJBZkRDQmxMOUV2alY0VWRuT2JBbjBKdlRpMElER185NDJMbnozWTJmSnE?oc=5",
-      "image": null,
-      "headline": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't Want to Politicize\u2019 - TradingView",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "30dad1668ecff7fd",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T17:35:23+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 0.67,
-      "change": 13.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTlpSDI1NEhfUG10dHNFdUk4ZVFoaVpwaWpzLS1Bb1hrc0VNdUlEMHpZcGtZZXNQREs1aHdTNU96MDl6NGFZV3RxcnMySzlEV2xGZDc1WWxkWlBpRFEwWEtZcVA2RUJaOGRhZ1lQMGNwcUhqMUR1QVhTWF9NRHFlTWVZUWZZQkpNRG00WkpoVVQ1SGpIdWsya0Z3aGhpWDc3RFpiMXlBd0dwWk41U3NDMldHVmdvTWhnS0xkY0g0N21QY0ZoeTJBZkRDQmxMOUV2alY0VWRuT2JBbjBKdlRpMElER185NDJMbnozWTJmSnE?oc=5",
-      "image": null,
-      "headline": "Trump Is \u2018Happy\u2019 About Paramount, Warner Bros. Merger: CEO David Ellison Says 'We Don't Want to Politicize\u2019 - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 1.05
-        },
-        {
-          "d": "09-09",
-          "c": 1.06
-        },
-        {
-          "d": "09-10",
-          "c": 0.98
-        },
-        {
-          "d": "09-11",
-          "c": 1.0
-        },
-        {
-          "d": "09-14",
-          "c": 1.01
-        },
-        {
-          "d": "09-15",
-          "c": 1.0
-        },
-        {
-          "d": "09-16",
-          "c": 0.97
-        },
-        {
-          "d": "09-17",
-          "c": 0.93
-        },
-        {
-          "d": "09-18",
-          "c": 0.93
-        },
-        {
-          "d": "09-21",
-          "c": 0.92
-        },
-        {
-          "d": "09-22",
-          "c": 0.88
-        },
-        {
-          "d": "09-23",
-          "c": 0.88
-        },
-        {
-          "d": "09-24",
-          "c": 0.82
-        },
-        {
-          "d": "09-25",
-          "c": 0.7
-        },
-        {
-          "d": "09-28",
-          "c": 0.7
-        },
-        {
-          "d": "09-29",
-          "c": 0.69
-        },
-        {
-          "d": "09-30",
-          "c": 0.65
-        },
-        {
-          "d": "10-01",
-          "c": 0.58
-        },
-        {
-          "d": "10-02",
-          "c": 0.52
-        },
-        {
-          "d": "10-05",
-          "c": 0.59
-        },
-        {
-          "d": "10-06",
-          "c": 0.67
-        }
-      ]
-    },
-    {
-      "id": "55bd5e9c858ad504",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T14:49:06+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "American taxpayer stake in new $6.6B submarine deal - Fox News Trump reveals surprise American taxpayer stake in new",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.58,
-      "change": -1.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQU40b0FzZktadXNmNFJtV3c2SmdUa1o3MTl5LTRxdmRZX0FoNmdRRXVEc2Rqak4yTEt1VDlqU2JkODVLeVp6ZXRKZ1ctX3YwOEpnYjhYX1BXVEgtbWlWbzhBWDhMenVMLVRDblNLS2pFbGVXM3FTNXNHa1kxY0RReGlCQ2FWYjlDcnNiUlVabkhydzNZZzVDNG1rajVfRzV1eEZHQ0pn0gGrAUFVX3lxTE8waWxabGVnS1hiamJzdDZ6bnRqbEN2cDc1YV9maHNGNmVaZEtFeXU4VHRoWUhibTlmZTFNNER1TDdreDRRaVI2ZHpMdmtEWXBXd25FU213cEszd1poN0RDT0VDUnk4TF9nVldUOXltWDlJTXprb2NSUEZmSE5iQmxpNkZhMnN6ZFFHcTQ2MnhjMnhXbUpZb1NGem9VZ0hmazNrV3AzdnhBUy1qaw?oc=5",
-      "image": null,
-      "headline": "Trump reveals surprise American taxpayer stake in new $6.6B submarine deal - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        }
-      ]
-    },
-    {
-      "id": "6d309556dd3a99b3",
-      "date": "Wed, 07 Oct 2026",
-      "ts": "2026-10-07T14:09:45+00:00",
-      "date_display": "Oct 07, 2026",
-      "source": "Yahoo News New Zealand",
-      "type": "news",
-      "quote": "Disney Lawyer Says Head Is \u2018On The Guillotine\u2019 Amid Trump",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 104.33,
-      "change": 0.29,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0g5YVVMV3hiMV9vNmh2WUVvWHhKNXpkV0Nzc3FzNkNyN0NLdGVuZnRjRThNZlpkUGlUX2xPSHZGQnk2c2pnVmZzeXNCem9NandWMDRSM1FsX2pkQWFLbW5XZFF2V3VjZDhHV0hLOFZFVUZ3T0dVQVgxbk9CdWtoag?oc=5",
-      "image": null,
-      "headline": "Disney Lawyer Says Head Is \u2018On The Guillotine\u2019 Amid Trump Censorship Battle - Yahoo News New Zealand",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 105.06
-        },
-        {
-          "d": "09-09",
-          "c": 104.18
-        },
-        {
-          "d": "09-10",
-          "c": 105.82
-        },
-        {
-          "d": "09-11",
-          "c": 106.55
-        },
-        {
-          "d": "09-14",
-          "c": 108.59
-        },
-        {
-          "d": "09-15",
-          "c": 106.42
-        },
-        {
-          "d": "09-16",
-          "c": 106.99
-        },
-        {
-          "d": "09-17",
-          "c": 105.35
-        },
-        {
-          "d": "09-18",
-          "c": 102.67
-        },
-        {
-          "d": "09-21",
-          "c": 104.23
-        },
-        {
-          "d": "09-22",
-          "c": 103.82
-        },
-        {
-          "d": "09-23",
-          "c": 103.46
-        },
-        {
-          "d": "09-24",
-          "c": 105.56
-        },
-        {
-          "d": "09-25",
-          "c": 106.15
-        },
-        {
-          "d": "09-28",
-          "c": 105.59
-        },
-        {
-          "d": "09-29",
-          "c": 105.41
-        },
-        {
-          "d": "09-30",
-          "c": 104.9
-        },
-        {
-          "d": "10-01",
-          "c": 101.33
-        },
-        {
-          "d": "10-02",
-          "c": 102.19
-        },
-        {
-          "d": "10-05",
-          "c": 103.61
-        },
-        {
-          "d": "10-06",
-          "c": 104.03
-        },
-        {
-          "d": "10-07",
-          "c": 104.33
-        }
-      ]
-    },
-    {
-      "id": "5c1b7be73aa987b1",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T23:31:19+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "investment in submarine production during midterm blitz - Fox Business Trump announces massive investment in submarine",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.58,
-      "change": -1.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00NkdDRml3UHpNT0tZVFlOU2Nfc2laQ011SE5KWFFPNW5kVDlyT0pWVkR3RFAyVzBVRzBnczR0S0s4NEl2ZE93NlB1VG5MeXJBdVhvQVQ0RVotLXM?oc=5",
-      "image": null,
-      "headline": "Trump announces massive investment in submarine production during midterm blitz - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        }
-      ]
-    },
-    {
-      "id": "08d4f5a071a099af",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T22:49:10+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump announces defense manufacturing deal - Fox Business Trump announces defense manufacturing",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.58,
-      "change": -1.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWkxUekR0UjJGYVE4clpyV01lWHRReGgwUWlZUDZSMzlPT1BjSS1qMnplOWxyT2RXVVV2OWJHSXlJTlFSM1ByRVB4dHBXa2daa25EVWdHMV9MNEE?oc=5",
-      "image": null,
-      "headline": "Trump announces defense manufacturing deal - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        }
-      ]
-    },
-    {
-      "id": "2d9e0afe4e82326c",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T21:23:56+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "IMDb",
-      "type": "news",
-      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be a Great",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 30.95,
-      "change": 0.03,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5URlNjM3B2SUpYYmRQTHhGOTRMU0ZhaVlFeEpUMkdjbnV4RVptYkIwZGFicXA3VFVsSm5uR1pTc004XzktRjFBb091ZkdSYmpEV0Nic3QxdHQyNk5GeWxwR01qZlExdw?oc=5",
-      "image": null,
-      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be a Great Company\u2019 - IMDb",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 28.12
-        },
-        {
-          "d": "09-09",
-          "c": 27.91
-        },
-        {
-          "d": "09-10",
-          "c": 28.2
-        },
-        {
-          "d": "09-11",
-          "c": 28.04
-        },
-        {
-          "d": "09-14",
-          "c": 28.1
-        },
-        {
-          "d": "09-15",
-          "c": 28.03
-        },
-        {
-          "d": "09-16",
-          "c": 28.07
-        },
-        {
-          "d": "09-17",
-          "c": 28.24
-        },
-        {
-          "d": "09-18",
-          "c": 27.8
-        },
-        {
-          "d": "09-21",
-          "c": 30.8
-        },
-        {
-          "d": "09-22",
-          "c": 30.83
-        },
-        {
-          "d": "09-23",
-          "c": 30.76
-        },
-        {
-          "d": "09-24",
-          "c": 30.84
-        },
-        {
-          "d": "09-25",
-          "c": 30.86
-        },
-        {
-          "d": "09-28",
-          "c": 30.9
-        },
-        {
-          "d": "09-29",
-          "c": 30.85
-        },
-        {
-          "d": "09-30",
-          "c": 30.95
-        },
-        {
-          "d": "10-01",
-          "c": 30.95
-        },
-        {
-          "d": "10-02",
-          "c": 30.94
-        },
-        {
-          "d": "10-05",
-          "c": 30.95
-        }
-      ]
-    },
-    {
-      "id": "b97a7755d70a228a",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T21:23:56+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "IMDb",
-      "type": "news",
-      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 0.67,
-      "change": 13.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5URlNjM3B2SUpYYmRQTHhGOTRMU0ZhaVlFeEpUMkdjbnV4RVptYkIwZGFicXA3VFVsSm5uR1pTc004XzktRjFBb091ZkdSYmpEV0Nic3QxdHQyNk5GeWxwR01qZlExdw?oc=5",
-      "image": null,
-      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: \u2018They\u2019re Terrific People, and It\u2019s Gonna Be a Great Company\u2019 - IMDb",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 1.05
-        },
-        {
-          "d": "09-09",
-          "c": 1.06
-        },
-        {
-          "d": "09-10",
-          "c": 0.98
-        },
-        {
-          "d": "09-11",
-          "c": 1.0
-        },
-        {
-          "d": "09-14",
-          "c": 1.01
-        },
-        {
-          "d": "09-15",
-          "c": 1.0
-        },
-        {
-          "d": "09-16",
-          "c": 0.97
-        },
-        {
-          "d": "09-17",
-          "c": 0.93
-        },
-        {
-          "d": "09-18",
-          "c": 0.93
-        },
-        {
-          "d": "09-21",
-          "c": 0.92
-        },
-        {
-          "d": "09-22",
-          "c": 0.88
-        },
-        {
-          "d": "09-23",
-          "c": 0.88
-        },
-        {
-          "d": "09-24",
-          "c": 0.82
-        },
-        {
-          "d": "09-25",
-          "c": 0.7
-        },
-        {
-          "d": "09-28",
-          "c": 0.7
-        },
-        {
-          "d": "09-29",
-          "c": 0.69
-        },
-        {
-          "d": "09-30",
-          "c": 0.65
-        },
-        {
-          "d": "10-01",
-          "c": 0.58
-        },
-        {
-          "d": "10-02",
-          "c": 0.52
-        },
-        {
-          "d": "10-05",
-          "c": 0.59
-        },
-        {
-          "d": "10-06",
-          "c": 0.67
-        }
-      ]
-    },
-    {
-      "id": "276985137624cfab",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T20:39:00+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "Variety",
-      "type": "news",
-      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety Donald Trump Praises Newly",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 30.95,
-      "change": 0.03,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHJ0dnQxUUo3eE9oR0xvdFQ1bDd1UjVEU1FuRGdwZFpXYVA3dGpTWG1ybk1XU3dPY2RIUjQ1dlM5dkE1R1BHZHhZRWtfUlo3Z3U3OTBRMGVWemgxbHpZaFhHbzZoZ0N4V09VN1FuanNZTzhMS0dzWXJHaUZoQ3JOWEFUUmNxTWg0ektYZ3Z1MnhGSzlidDg5cjlESHJZTjVLaFFVb3FWR2s1dnhXSkNFcENR?oc=5",
-      "image": null,
-      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 28.12
-        },
-        {
-          "d": "09-09",
-          "c": 27.91
-        },
-        {
-          "d": "09-10",
-          "c": 28.2
-        },
-        {
-          "d": "09-11",
-          "c": 28.04
-        },
-        {
-          "d": "09-14",
-          "c": 28.1
-        },
-        {
-          "d": "09-15",
-          "c": 28.03
-        },
-        {
-          "d": "09-16",
-          "c": 28.07
-        },
-        {
-          "d": "09-17",
-          "c": 28.24
-        },
-        {
-          "d": "09-18",
-          "c": 27.8
-        },
-        {
-          "d": "09-21",
-          "c": 30.8
-        },
-        {
-          "d": "09-22",
-          "c": 30.83
-        },
-        {
-          "d": "09-23",
-          "c": 30.76
-        },
-        {
-          "d": "09-24",
-          "c": 30.84
-        },
-        {
-          "d": "09-25",
-          "c": 30.86
-        },
-        {
-          "d": "09-28",
-          "c": 30.9
-        },
-        {
-          "d": "09-29",
-          "c": 30.85
-        },
-        {
-          "d": "09-30",
-          "c": 30.95
-        },
-        {
-          "d": "10-01",
-          "c": 30.95
-        },
-        {
-          "d": "10-02",
-          "c": 30.94
-        },
-        {
-          "d": "10-05",
-          "c": 30.95
-        }
-      ]
-    },
-    {
-      "id": "8e33731464a8656a",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T20:39:00+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "Variety",
-      "type": "news",
-      "quote": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety Donald Trump",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 0.67,
-      "change": 13.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHJ0dnQxUUo3eE9oR0xvdFQ1bDd1UjVEU1FuRGdwZFpXYVA3dGpTWG1ybk1XU3dPY2RIUjQ1dlM5dkE1R1BHZHhZRWtfUlo3Z3U3OTBRMGVWemgxbHpZaFhHbzZoZ0N4V09VN1FuanNZTzhMS0dzWXJHaUZoQ3JOWEFUUmNxTWg0ektYZ3Z1MnhGSzlidDg5cjlESHJZTjVLaFFVb3FWR2s1dnhXSkNFcENR?oc=5",
-      "image": null,
-      "headline": "Donald Trump Praises Newly Merged Paramount-Warner Bros and David Ellison - Variety",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 1.05
-        },
-        {
-          "d": "09-09",
-          "c": 1.06
-        },
-        {
-          "d": "09-10",
-          "c": 0.98
-        },
-        {
-          "d": "09-11",
-          "c": 1.0
-        },
-        {
-          "d": "09-14",
-          "c": 1.01
-        },
-        {
-          "d": "09-15",
-          "c": 1.0
-        },
-        {
-          "d": "09-16",
-          "c": 0.97
-        },
-        {
-          "d": "09-17",
-          "c": 0.93
-        },
-        {
-          "d": "09-18",
-          "c": 0.93
-        },
-        {
-          "d": "09-21",
-          "c": 0.92
-        },
-        {
-          "d": "09-22",
-          "c": 0.88
-        },
-        {
-          "d": "09-23",
-          "c": 0.88
-        },
-        {
-          "d": "09-24",
-          "c": 0.82
-        },
-        {
-          "d": "09-25",
-          "c": 0.7
-        },
-        {
-          "d": "09-28",
-          "c": 0.7
-        },
-        {
-          "d": "09-29",
-          "c": 0.69
-        },
-        {
-          "d": "09-30",
-          "c": 0.65
-        },
-        {
-          "d": "10-01",
-          "c": 0.58
-        },
-        {
-          "d": "10-02",
-          "c": 0.52
-        },
-        {
-          "d": "10-05",
-          "c": 0.59
-        },
-        {
-          "d": "10-06",
-          "c": 0.67
-        }
-      ]
-    },
-    {
-      "id": "a531d127dcebf180",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T19:52:44+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "difficult midterm elections The effectiveness of this strategy remains uncertain, with some Republicans skeptical about",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 164.55,
-      "change": 0.07,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/republicans-focus-on-tough-on-crime-message-before-difficult-midterm-elections",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T181047Z_1936679670_RC2FKNAF53D8_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
-      "headline": "Republicans focus on tough-on-crime message before difficult midterm elections",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 136.52
-        },
-        {
-          "d": "09-09",
-          "c": 132.7
-        },
-        {
-          "d": "09-10",
-          "c": 128.56
-        },
-        {
-          "d": "09-11",
-          "c": 130.97
-        },
-        {
-          "d": "09-14",
-          "c": 136.94
-        },
-        {
-          "d": "09-15",
-          "c": 129.6
-        },
-        {
-          "d": "09-16",
-          "c": 126.18
-        },
-        {
-          "d": "09-17",
-          "c": 132.25
-        },
-        {
-          "d": "09-18",
-          "c": 153.92
-        },
-        {
-          "d": "09-21",
-          "c": 168.5
-        },
-        {
-          "d": "09-22",
-          "c": 167.33
-        },
-        {
-          "d": "09-23",
-          "c": 162.2
-        },
-        {
-          "d": "09-24",
-          "c": 161.61
-        },
-        {
-          "d": "09-25",
-          "c": 158.61
-        },
-        {
-          "d": "09-28",
-          "c": 157.14
-        },
-        {
-          "d": "09-29",
-          "c": 154.67
-        },
-        {
-          "d": "09-30",
-          "c": 153.09
-        },
-        {
-          "d": "10-01",
-          "c": 160.5
-        },
-        {
-          "d": "10-02",
-          "c": 160.01
-        },
-        {
-          "d": "10-05",
-          "c": 164.43
-        },
-        {
-          "d": "10-06",
-          "c": 164.55
-        }
-      ]
-    },
-    {
-      "id": "24c9adfa07d2014b",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T18:39:00+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "MarketWatch",
-      "type": "news",
-      "quote": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock - MarketWatch \u2018Trump accounts\u2019 could force MAGA",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 64.04,
-      "change": 0.06,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWN3Q25lTlpkRmdtNVcyTHZ1a3VDZ2tnNzlDczJUOUc3T2hoM1lhYUNFZVlRMnQ5dTctT29ZZERxQ0RVT3hibXNFQVp2SmdjY2wwY1RFd0N5NWZTQktpaTYySGd0aURwNWZGM1ZYWHV0V0JDVWduV1NDNE9wTU10UDVzdmZPSEV3Sm9XaVpNSi0zWU1ZcGpMNUpickR2V3loSWh4ZU9NVko2Z1VMV21oLQ?oc=5",
-      "image": null,
-      "headline": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock - MarketWatch",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 67.96
-        },
-        {
-          "d": "09-09",
-          "c": 66.6
-        },
-        {
-          "d": "09-10",
-          "c": 66.57
-        },
-        {
-          "d": "09-11",
-          "c": 66.88
-        },
-        {
-          "d": "09-14",
-          "c": 70.34
-        },
-        {
-          "d": "09-15",
-          "c": 71.71
-        },
-        {
-          "d": "09-16",
-          "c": 72.41
-        },
-        {
-          "d": "09-17",
-          "c": 69.94
-        },
-        {
-          "d": "09-18",
-          "c": 70.21
-        },
-        {
-          "d": "09-21",
-          "c": 70.53
-        },
-        {
-          "d": "09-22",
-          "c": 65.45
-        },
-        {
-          "d": "09-23",
-          "c": 61.89
-        },
-        {
-          "d": "09-24",
-          "c": 63.05
-        },
-        {
-          "d": "09-25",
-          "c": 63.83
-        },
-        {
-          "d": "09-28",
-          "c": 64.17
-        },
-        {
-          "d": "09-29",
-          "c": 62.32
-        },
-        {
-          "d": "09-30",
-          "c": 63.7
-        },
-        {
-          "d": "10-01",
-          "c": 63.71
-        },
-        {
-          "d": "10-02",
-          "c": 62.7
-        },
-        {
-          "d": "10-05",
-          "c": 64.0
-        },
-        {
-          "d": "10-06",
-          "c": 64.04
-        }
-      ]
-    },
-    {
-      "id": "45326af2b8ff899a",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T18:29:00+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "see diesel relief within days after executive order - Fox Business Trump\u2019s Energy chief says truckers could see",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.97,
-      "change": 0.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMlRrNy0tb1hIMGlxUW90RTV2THdMWERPaUFzRGxIZVo2dEZUYk1IOVFaT1ZGNVlFTW1VWHVteGNsUElDcnRlcTM3VnRpeGs4bGQ1Wk16QUlGMjBxU3VMdWVUa0JjWkRzWDZCS2loV05seHMxZVVCS05HdF84TVJhck9lSlBWMjF0Z0pjWURwbHZsNlnSAZgBQVVfeXFMTUJla0t4OHROTE90VHJMTGsteEFlcDFnLUMtdm53Vjl2V1NBMm93ZzJRdktWcHZ0ajBlRU0wakpta1NiV3E1bXRBZFdpTFBXWmdQdEs4ZWdWLWVOR2pjVzhBSUFFVjA5dVhQOWZFZnl0SXNMUVJ2QzBhVTluelE1Y094cDV4ejhjRFdZSUlWZU90YkxicWlGcVg?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Energy chief says truckers could see diesel relief within days after executive order - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.97
-        }
-      ]
-    },
-    {
-      "id": "1e405c07c1c02076",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T13:01:00+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Act for new Alaska power grid project touted by Vance - Fox Business Trump admin invoking Defense Production Act for",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.58,
-      "change": -1.98,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVRyRkdTS0R0eHJBTl9HMl9kOTFRWFNmSjVMMXVNOEhBeEtaRWpMTEpIVWNqMW5UMUJzcEtzb29LVDRvdXp5SjBTMDl2Z1J4MldRNU05b0htTG81a0toM2pwcXRuY0ltTklaRE1mZE4wclhmVzNSMDQzcEc4bVJHc1Rydl9GZXVCQzhkU0VBTGp5QjVxMUh4WFJRbW9hNURzRXVwWW1FLVQ1bXlwSEVXLTF1c0RpUUlpRFF5QXVTMFXSAcYBQVVfeXFMUG5fM0piaGNid3JQMXdKbVNScnBfMkJZV0dacnA2SWFBS1JEM0Fqc1dObDBVZXpoLVZGZlRuaF9iMDJDU2hZaEhzdkg1Q3JMUXJVUy1mcXQzck1TU2cxVklwSmlkWXZGc1MzV2dBemNOTmVpaHc4b2tiOGMzR0pkYUNkaWIzeXNRYVZodHFOZHlDSGxlbkhlOFFGQl8zQXl3V0pUeWZPOHpIdEUybEVKLXd1aG5YencwOFNYbkFTQlgzalk2Zy1B?oc=5",
-      "image": null,
-      "headline": "Trump admin invoking Defense Production Act for new Alaska power grid project touted by Vance - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        }
-      ]
-    },
-    {
-      "id": "171a7548bf7ca704",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T11:19:25+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close Polls are showing that Democrats have a",
-      "company": "Warner Bros",
-      "ticker": "WBD",
-      "price": 30.95,
-      "change": 0.03,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "image": null,
-      "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 28.12
-        },
-        {
-          "d": "09-09",
-          "c": 27.91
-        },
-        {
-          "d": "09-10",
-          "c": 28.2
-        },
-        {
-          "d": "09-11",
-          "c": 28.04
-        },
-        {
-          "d": "09-14",
-          "c": 28.1
-        },
-        {
-          "d": "09-15",
-          "c": 28.03
-        },
-        {
-          "d": "09-16",
-          "c": 28.07
-        },
-        {
-          "d": "09-17",
-          "c": 28.24
-        },
-        {
-          "d": "09-18",
-          "c": 27.8
-        },
-        {
-          "d": "09-21",
-          "c": 30.8
-        },
-        {
-          "d": "09-22",
-          "c": 30.83
-        },
-        {
-          "d": "09-23",
-          "c": 30.76
-        },
-        {
-          "d": "09-24",
-          "c": 30.84
-        },
-        {
-          "d": "09-25",
-          "c": 30.86
-        },
-        {
-          "d": "09-28",
-          "c": 30.9
-        },
-        {
-          "d": "09-29",
-          "c": 30.85
-        },
-        {
-          "d": "09-30",
-          "c": 30.95
-        },
-        {
-          "d": "10-01",
-          "c": 30.95
-        },
-        {
-          "d": "10-02",
-          "c": 30.94
-        },
-        {
-          "d": "10-05",
-          "c": 30.95
-        }
-      ]
-    },
-    {
-      "id": "cfc36e63f3dd60e4",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T11:19:25+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close Polls are showing that",
-      "company": "Paramount",
-      "ticker": "PARA",
-      "price": 0.59,
-      "change": 0.0,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "image": null,
-      "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 1.05
-        },
-        {
-          "d": "09-09",
-          "c": 1.06
-        },
-        {
-          "d": "09-10",
-          "c": 0.98
-        },
-        {
-          "d": "09-11",
-          "c": 1.0
-        },
-        {
-          "d": "09-14",
-          "c": 1.01
-        },
-        {
-          "d": "09-15",
-          "c": 1.0
-        },
-        {
-          "d": "09-16",
-          "c": 0.97
-        },
-        {
-          "d": "09-17",
-          "c": 0.93
-        },
-        {
-          "d": "09-18",
-          "c": 0.93
-        },
-        {
-          "d": "09-21",
-          "c": 0.92
-        },
-        {
-          "d": "09-22",
-          "c": 0.88
-        },
-        {
-          "d": "09-23",
-          "c": 0.88
-        },
-        {
-          "d": "09-24",
-          "c": 0.82
-        },
-        {
-          "d": "09-25",
-          "c": 0.7
-        },
-        {
-          "d": "09-28",
-          "c": 0.7
-        },
-        {
-          "d": "09-29",
-          "c": 0.69
-        },
-        {
-          "d": "09-30",
-          "c": 0.65
-        },
-        {
-          "d": "10-01",
-          "c": 0.58
-        },
-        {
-          "d": "10-02",
-          "c": 0.52
-        },
-        {
-          "d": "10-05",
-          "c": 0.59
-        },
-        {
-          "d": "10-06",
-          "c": 0.59
-        }
-      ]
-    },
-    {
-      "id": "f9b4d55aac1b5694",
-      "date": "Tue, 06 Oct 2026",
-      "ts": "2026-10-06T09:17:00+00:00",
-      "date_display": "Oct 06, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Disney, ABC battle Trump's FCC in court over free speech",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 103.6,
-      "change": -0.01,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
-      "image": null,
-      "headline": "Disney, ABC battle Trump's FCC in court over free speech protections",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 105.06
-        },
-        {
-          "d": "09-09",
-          "c": 104.18
-        },
-        {
-          "d": "09-10",
-          "c": 105.82
-        },
-        {
-          "d": "09-11",
-          "c": 106.55
-        },
-        {
-          "d": "09-14",
-          "c": 108.59
-        },
-        {
-          "d": "09-15",
-          "c": 106.42
-        },
-        {
-          "d": "09-16",
-          "c": 106.99
-        },
-        {
-          "d": "09-17",
-          "c": 105.35
-        },
-        {
-          "d": "09-18",
-          "c": 102.67
-        },
-        {
-          "d": "09-21",
-          "c": 104.23
-        },
-        {
-          "d": "09-22",
-          "c": 103.82
-        },
-        {
-          "d": "09-23",
-          "c": 103.46
-        },
-        {
-          "d": "09-24",
-          "c": 105.56
-        },
-        {
-          "d": "09-25",
-          "c": 106.15
-        },
-        {
-          "d": "09-28",
-          "c": 105.59
-        },
-        {
-          "d": "09-29",
-          "c": 105.41
-        },
-        {
-          "d": "09-30",
-          "c": 104.9
-        },
-        {
-          "d": "10-01",
-          "c": 101.33
-        },
-        {
-          "d": "10-02",
-          "c": 102.19
-        },
-        {
-          "d": "10-05",
-          "c": 103.61
-        },
-        {
-          "d": "10-06",
-          "c": 103.6
-        }
-      ]
-    },
-    {
-      "id": "c593fc5d8f0074a2",
-      "date": "Mon, 05 Oct 2026",
-      "ts": "2026-10-05T15:33:34+00:00",
-      "date_display": "Oct 05, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "press secretary Karoline Leavitt lands her next gig as Fox News contributor Leavitt follows Kayleigh McEnany, the",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.51,
-      "change": 1.11,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/former-white-house-press-secretary-karoline-leavitt-lands-her-next-gig-as-fox-news-contributor",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-11T004951Z_1530837442_RC2OGNAUGPXT_RTRMADP_3_USA-ELECTION-REPUBLICANS-1024x683.jpg",
-      "headline": "Former White House press secretary Karoline Leavitt lands her next gig as Fox News contributor",
-      "channel": "Press Conference",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.51
-        }
-      ]
-    },
-    {
-      "id": "2fd64148404a75eb",
-      "date": "Sun, 04 Oct 2026",
-      "ts": "2026-10-04T20:39:00+00:00",
-      "date_display": "Oct 04, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Elon Musk rebrands SpaceXAI following Trump directive - Fox Business Elon Musk rebrands SpaceXAI following Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.89,
-      "change": 1.77,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMWs2amQzUGhmcDdna2lfTjBlckl3alhCcExSN3oxZzJZbkxnUU9sZUJ4SG1uclZJQ3BRUVluc3JMaU1BZUx4enlaSXZod3RnTUp4bmlqNDVKZnpaVUdyelBJYzctQjdrRUxTVm5Zcm9xUjIxUTlDVm9EdUh4VW16WGdwbU0weTZOc2FDSVFGdXgzUFZ0b2Vr0gGcAUFVX3lxTFBrandJaTNtWW1rMU5KOHJXYzBiYlVTZ01BUjZTV1NiV3VvWXJLTnJxUm5kOGdOeHRVRG9zdlpXR3J2eTdJeU51RGtPa3NwYzZ5UUM4dWxyTzRDYTdERXU1TmgwYVZfSlg3elZBWVdyUk16cG9XYUdxZlBIeTJFRGZ4QmpVZEpqZUVtZEk3LV9wbFZvc1NUdGd5d2pUbA?oc=5",
-      "image": null,
-      "headline": "Elon Musk rebrands SpaceXAI following Trump directive - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        }
-      ]
-    },
-    {
-      "id": "361fa40a1679ad19",
-      "date": "Sun, 04 Oct 2026",
-      "ts": "2026-10-04T19:01:00+00:00",
-      "date_display": "Oct 04, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "to leave Fed, calls extended tenure 'unprecedented' - Fox Business Trump economic advisor says 'it's time' for",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.89,
-      "change": 1.77,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWVHaUpReFZlSHBPYlBDemFkTHM0cGUzU3NnYm9heWMtUzBrYUdVVUZsN3lpd0dKRmxoZWJKV0xKTDFfWHpiR3E4QXpTMEc4RGlucU9sTEgzUFljTkFBbXM2aW9abU9xQXFYZW00aS1HTU10U1ljYW16YWV4bWJsUEt1OUE2T0NvU0RMamRyd2VkTnhfZzlMSHZwd3g1UHg5d2MyTFVia0RZQlNJdFhVY0VhTngtU2d6TVBKMGRLTnotRTc00gHKAUFVX3lxTFBQVWp6aGZ3ZGtCampSMEp5UXRDVlNFR0JvRGIzZjFFQUVfRnFIQUhueURraUpoYjE1OFlmQjFLLUlwNF9VYTMtcnBQMFBudExwMmN0Ti1FcDFMcWRfLUtDdzRtR0FkbF9EblgxeHpGSktSbHFfYmdoQ19yeG9ENmZkMmZxSVREcjlXMzA0a0ZuWFFybUZyRXRDdkRaaU9ESTM4bjlEcDBmOC1CbW1ITnl1SXRVMVJqRTBlNWlyM2NFQ2dSM0pfY1NFZFE?oc=5",
-      "image": null,
-      "headline": "Trump economic advisor says 'it's time' for Powell to leave Fed, calls extended tenure 'unprecedented' - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
         }
       ]
     }
