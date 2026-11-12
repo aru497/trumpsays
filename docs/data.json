@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-11-11T18:57:34.065945+00:00",
+  "updated_at": "2026-11-12T01:14:10.553347+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "09b4c5353aa231c2",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T23:45:49+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Amna Nawaz discussed more with Devlin Barrett of The New York Times.",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/doj-1024x683.jpg",
+      "headline": "White House threatens Democrats over plans to investigate Trump officials",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        }
+      ]
+    },
+    {
+      "id": "7633b625bb792317",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T23:19:34+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "NewsCord",
+      "type": "news",
+      "quote": "Nvidia Board Launches Probe Into Jensen Huang After Trump Says",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTGYtSkRhOFNfdFBkRlhlYndmaUVuTHI2ajIxd2lJZXpDZzlPaVJJRUdFblc3b2VlQVhXYXk4eVFyVDZPM2s5X3RSeW96U2VidE9qYVVURjBWU0xWUDVJVVUySFhEOFAtTUpvdXEyM2dzQ1FEYXBic2l5d0xaZDI2TnN0ZDR5N0pESm9IaDlmeDFmUjFTa1BvYVo0dG9mMnJ4Q1JvUnN3SjNEWHR1SUJKMzhLa1VsT0JoTS02S0VPejhOWml6dzNqYjU1eWZnN1NlUW9GUWFRQjk4REVIRFdjQWhMbjdJbUJS?oc=5",
+      "image": null,
+      "headline": "Nvidia Board Launches Probe Into Jensen Huang After Trump Says FBI Investigates Affair: how 15 outlets framed it - NewsCord",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "6eb4aa4732371788",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T20:26:20+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "How Nvidia CEO Jensen Huang's extramarital affair could cause",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/world/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-09T144950Z_1963388642_RC27ZNA502U3_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "headline": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "a7e1fe9974872795",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T19:59:45+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "intelligence showed that Iran has stepped up efforts to target American personnel in the Middle East and elsewhere.",
+      "company": "Target",
+      "ticker": "TGT",
+      "price": 161.78,
+      "change": -1.8,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/world/ap-report-bessent-moves-to-a-military-base-over-safety-concerns",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T014218Z_1139623673_RC2DLOAHZWQ0_RTRMADP_3_USA-CHINA-BESSENT-1-1024x683.jpg",
+      "headline": "AP report: Bessent moves to a military base over safety concerns",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 152.55
+        },
+        {
+          "d": "10-13",
+          "c": 150.93
+        },
+        {
+          "d": "10-14",
+          "c": 154.22
+        },
+        {
+          "d": "10-15",
+          "c": 155.53
+        },
+        {
+          "d": "10-16",
+          "c": 153.18
+        },
+        {
+          "d": "10-19",
+          "c": 152.22
+        },
+        {
+          "d": "10-20",
+          "c": 152.92
+        },
+        {
+          "d": "10-21",
+          "c": 151.31
+        },
+        {
+          "d": "10-22",
+          "c": 157.0
+        },
+        {
+          "d": "10-23",
+          "c": 151.69
+        },
+        {
+          "d": "10-26",
+          "c": 147.49
+        },
+        {
+          "d": "10-27",
+          "c": 146.98
+        },
+        {
+          "d": "10-28",
+          "c": 147.92
+        },
+        {
+          "d": "10-29",
+          "c": 150.76
+        },
+        {
+          "d": "10-30",
+          "c": 153.3
+        },
+        {
+          "d": "11-02",
+          "c": 157.27
+        },
+        {
+          "d": "11-03",
+          "c": 153.32
+        },
+        {
+          "d": "11-04",
+          "c": 161.96
+        },
+        {
+          "d": "11-05",
+          "c": 156.85
+        },
+        {
+          "d": "11-06",
+          "c": 157.3
+        },
+        {
+          "d": "11-09",
+          "c": 164.74
+        },
+        {
+          "d": "11-10",
+          "c": 161.78
+        }
+      ]
+    },
+    {
+      "id": "fc23549c01e4b67b",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T16:49:00+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Alex Karp says he's a lifelong Democrat \u2014 and that Palantir's products are 'essentially progressive' - Business",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 168.82,
+      "change": -0.22,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSTE5UlFqMjNyRlNoay1rTkpCU2l3VGZpeThkXzVKRmlGUXJXTzlXMVNXcE1mNDJjNXRIYlNUYUFNY0prNzc4cWQxeWZDSk9qSFhuX2hIYUV0eFdCOEoyRkZhTG5WRVNwdHJPZEhqUW5qQmpGY2tWMHI3bkp0bktTaWthUW0tWDVGUmRyem9TdFVxdw?oc=5",
+      "image": null,
+      "headline": "Alex Karp says he's a lifelong Democrat \u2014 and that Palantir's products are 'essentially progressive' - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 209.0
+        },
+        {
+          "d": "10-13",
+          "c": 208.67
+        },
+        {
+          "d": "10-14",
+          "c": 200.97
+        },
+        {
+          "d": "10-15",
+          "c": 200.5
+        },
+        {
+          "d": "10-16",
+          "c": 186.03
+        },
+        {
+          "d": "10-19",
+          "c": 194.15
+        },
+        {
+          "d": "10-20",
+          "c": 192.6
+        },
+        {
+          "d": "10-21",
+          "c": 201.72
+        },
+        {
+          "d": "10-22",
+          "c": 196.19
+        },
+        {
+          "d": "10-23",
+          "c": 196.75
+        },
+        {
+          "d": "10-26",
+          "c": 198.84
+        },
+        {
+          "d": "10-27",
+          "c": 198.73
+        },
+        {
+          "d": "10-28",
+          "c": 196.81
+        },
+        {
+          "d": "10-29",
+          "c": 196.42
+        },
+        {
+          "d": "10-30",
+          "c": 184.11
+        },
+        {
+          "d": "11-02",
+          "c": 178.34
+        },
+        {
+          "d": "11-03",
+          "c": 175.4
+        },
+        {
+          "d": "11-04",
+          "c": 171.7
+        },
+        {
+          "d": "11-05",
+          "c": 154.99
+        },
+        {
+          "d": "11-06",
+          "c": 160.38
+        },
+        {
+          "d": "11-09",
+          "c": 169.2
+        },
+        {
+          "d": "11-10",
+          "c": 168.82
+        }
+      ]
+    },
     {
       "id": "ef1b35472ac85e17",
       "date": "Wed, 11 Nov 2026",
@@ -380,6 +920,114 @@
         {
           "d": "11-10",
           "c": 168.89
+        }
+      ]
+    },
+    {
+      "id": "90528666d9b57780",
+      "date": "Wed, 11 Nov 2026",
+      "ts": "2026-11-11T10:02:22+00:00",
+      "date_display": "Nov 11, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "for Women Appears at Odds With D.E.I. Crackdown - The New York Times Melania Trump\u2019s Initiative for Women Appears at Odds With",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZllZODlmdUZJaHlSVHM0ZHZGc24wTWZ5LWQ4QjdHMXBXTnlQa0RfYUFnQ2RBMWRWSDZsdWJXaFlhUVNXZGZKNVFXVEV5cjBBOXFJMEkwbkNsVTR4eDZzeU02am52OHRJdldaaS1aN3RoX2ktb1RKdndvbUo4VGNHRTNaWU8tV29OVzFldlBHY2VkU3JXbUJR?oc=5",
+      "image": null,
+      "headline": "Melania Trump\u2019s Initiative for Women Appears at Odds With D.E.I. Crackdown - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
         }
       ]
     },
@@ -4004,6 +4652,114 @@
       ]
     },
     {
+      "id": "c8c665ed0131e336",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T01:24:34+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "press briefing: \u2018I do not want to be in politics\u2019 - The New York Times Dana White joins Trump at White House press briefing: \u2018I",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 72.58,
+      "change": 0.57,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFCMm1iU0JJQ3cybzNpczBoUlF5cDVZX3BONUMtRFRIQUtlaWRvSkpGUGxLRTBqVC1uSTZ6Uzl3R3JfYmtMdG01a3dfU0xSMURSZTY3LTdtLWtKNGRKd3h0S0ZlREppQ2MtMzZBcjVqMGVWR2Y0alNKREo2Mlhuc1BTN0Iwb3RGRFpWZXpKQzhaZjQ?oc=5",
+      "image": null,
+      "headline": "Dana White joins Trump at White House press briefing: \u2018I do not want to be in politics\u2019 - The New York Times",
+      "channel": "Press Conference",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 66.08
+        },
+        {
+          "d": "10-13",
+          "c": 66.88
+        },
+        {
+          "d": "10-14",
+          "c": 67.15
+        },
+        {
+          "d": "10-15",
+          "c": 68.94
+        },
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        }
+      ]
+    },
+    {
       "id": "dbae01e6c7c3f298",
       "date": "Tue, 10 Nov 2026",
       "ts": "2026-11-10T01:13:27+00:00",
@@ -5156,6 +5912,114 @@
         {
           "d": "11-09",
           "c": 178.67
+        }
+      ]
+    },
+    {
+      "id": "907417deed4c6643",
+      "date": "Mon, 09 Nov 2026",
+      "ts": "2026-11-09T22:55:49+00:00",
+      "date_display": "Nov 09, 2026",
+      "source": "Yahoo Finance UK",
+      "type": "news",
+      "quote": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens - Yahoo Finance UK",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 168.89,
+      "change": -5.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXRCVEwtYXpjb0JjNHcxR1Z3bTVqSl9WXzhUUFBTWmFjdUkxSGwxWV9ZNnpIX1pzOHVEMkhyOGxGSThzeld3Rm1TZnRTYWVQOEtXb1BnQUt4d09RQkk4V01TeU5BYVZYTXIxeUs2NXhxaTRNZHRGYTBGWjRkQ003ZEVyZXJjUQ?oc=5",
+      "image": null,
+      "headline": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens - Yahoo Finance UK",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-12",
+          "c": 226.32
+        },
+        {
+          "d": "10-13",
+          "c": 228.52
+        },
+        {
+          "d": "10-14",
+          "c": 221.3
+        },
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
         }
       ]
     },
@@ -39409,664 +40273,6 @@
           "c": 55.89
         }
       ]
-    },
-    {
-      "id": "1322aa06f0f939bf",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T22:45:08+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Center Honors will take place at Washington, D.C.'s Capital One Arena.",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 194.48,
-      "change": 0.73,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/news-wrap-new-york-ag-appointed-as-special-prosecutor-in-cornell-rape-case",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/newswrap-1-1024x674.jpg",
-      "headline": "News Wrap: New York AG appointed as special prosecutor in Cornell rape case",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 220.5
-        },
-        {
-          "d": "09-04",
-          "c": 219.6
-        },
-        {
-          "d": "09-08",
-          "c": 213.96
-        },
-        {
-          "d": "09-09",
-          "c": 210.86
-        },
-        {
-          "d": "09-10",
-          "c": 207.11
-        },
-        {
-          "d": "09-11",
-          "c": 208.3
-        },
-        {
-          "d": "09-14",
-          "c": 206.68
-        },
-        {
-          "d": "09-15",
-          "c": 206.85
-        },
-        {
-          "d": "09-16",
-          "c": 203.19
-        },
-        {
-          "d": "09-17",
-          "c": 202.04
-        },
-        {
-          "d": "09-18",
-          "c": 202.43
-        },
-        {
-          "d": "09-21",
-          "c": 204.92
-        },
-        {
-          "d": "09-22",
-          "c": 200.55
-        },
-        {
-          "d": "09-23",
-          "c": 196.1
-        },
-        {
-          "d": "09-24",
-          "c": 196.61
-        },
-        {
-          "d": "09-25",
-          "c": 200.2
-        },
-        {
-          "d": "09-28",
-          "c": 196.46
-        },
-        {
-          "d": "09-29",
-          "c": 196.46
-        },
-        {
-          "d": "09-30",
-          "c": 193.07
-        },
-        {
-          "d": "10-01",
-          "c": 194.48
-        }
-      ]
-    },
-    {
-      "id": "eb1e63ea27d0fcc3",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T22:30:44+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "heading into the midterms and the administration's strategy on artificial intelligence.",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 160.5,
-      "change": 4.84,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-gop-vulnerabilities-in-the-midterms",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/brooks-1024x576.jpg",
-      "headline": "Brooks and Atkins Stohr on GOP vulnerabilities in the midterms",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 144.82
-        },
-        {
-          "d": "09-04",
-          "c": 142.8
-        },
-        {
-          "d": "09-08",
-          "c": 136.52
-        },
-        {
-          "d": "09-09",
-          "c": 132.7
-        },
-        {
-          "d": "09-10",
-          "c": 128.56
-        },
-        {
-          "d": "09-11",
-          "c": 130.97
-        },
-        {
-          "d": "09-14",
-          "c": 136.94
-        },
-        {
-          "d": "09-15",
-          "c": 129.6
-        },
-        {
-          "d": "09-16",
-          "c": 126.18
-        },
-        {
-          "d": "09-17",
-          "c": 132.25
-        },
-        {
-          "d": "09-18",
-          "c": 153.92
-        },
-        {
-          "d": "09-21",
-          "c": 168.5
-        },
-        {
-          "d": "09-22",
-          "c": 167.33
-        },
-        {
-          "d": "09-23",
-          "c": 162.2
-        },
-        {
-          "d": "09-24",
-          "c": 161.61
-        },
-        {
-          "d": "09-25",
-          "c": 158.61
-        },
-        {
-          "d": "09-28",
-          "c": 157.14
-        },
-        {
-          "d": "09-29",
-          "c": 154.67
-        },
-        {
-          "d": "09-30",
-          "c": 153.09
-        },
-        {
-          "d": "10-01",
-          "c": 160.5
-        }
-      ]
-    },
-    {
-      "id": "0994649991a9b2b7",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T19:29:57+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "Britannica",
-      "type": "news",
-      "quote": "Trump Media & Technology Group - Britannica Trump Media & Technology",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": 1.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group - Britannica",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "a46a007ea1157b86",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T19:29:57+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "britannica.com",
-      "type": "news",
-      "quote": "Trump Media & Technology Group - britannica.com Trump Media &",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 8.91,
-      "change": 1.37,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group - britannica.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 9.52
-        },
-        {
-          "d": "09-04",
-          "c": 9.02
-        },
-        {
-          "d": "09-08",
-          "c": 9.23
-        },
-        {
-          "d": "09-09",
-          "c": 8.71
-        },
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        }
-      ]
-    },
-    {
-      "id": "badaeeeae441f462",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T18:09:38+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Trump announces G7 oil release to combat fuel squeeze - Fox Business Trump announces G7 oil release to combat fuel",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.89,
-      "change": 1.77,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CSkUtM0dRaEpQa3NScUw2S2xOWXpwVVlIRWQtZlpOSkZhNnUwd0dKQkFWcEI5Q0ZuZmdZalFpSDI0SXBudkRkRklDNkNfWmtSTnpYWXBoektUNTA?oc=5",
-      "image": null,
-      "headline": "Trump announces G7 oil release to combat fuel squeeze - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-03",
-          "c": 60.47
-        },
-        {
-          "d": "09-04",
-          "c": 58.42
-        },
-        {
-          "d": "09-08",
-          "c": 58.24
-        },
-        {
-          "d": "09-09",
-          "c": 57.1
-        },
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        }
-      ]
-    },
-    {
-      "id": "133df431e89ce7da",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T17:40:10+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Kennedy Center Honors to be held at Capital One Arena amid fight over adding Trump's name The 49th annual",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 195.27,
-      "change": 0.41,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/kennedy-center-honors-to-be-held-at-capital-one-arena-amid-fight-over-adding-trumps-name",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-17T171022Z_663148108_RC23LNAI1Z4W_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1024x683.jpg",
-      "headline": "Kennedy Center Honors to be held at Capital One Arena amid fight over adding Trump's name",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-02",
-          "c": 216.6
-        },
-        {
-          "d": "09-03",
-          "c": 220.5
-        },
-        {
-          "d": "09-04",
-          "c": 219.6
-        },
-        {
-          "d": "09-08",
-          "c": 213.96
-        },
-        {
-          "d": "09-09",
-          "c": 210.86
-        },
-        {
-          "d": "09-10",
-          "c": 207.11
-        },
-        {
-          "d": "09-11",
-          "c": 208.3
-        },
-        {
-          "d": "09-14",
-          "c": 206.68
-        },
-        {
-          "d": "09-15",
-          "c": 206.85
-        },
-        {
-          "d": "09-16",
-          "c": 203.19
-        },
-        {
-          "d": "09-17",
-          "c": 202.04
-        },
-        {
-          "d": "09-18",
-          "c": 202.43
-        },
-        {
-          "d": "09-21",
-          "c": 204.92
-        },
-        {
-          "d": "09-22",
-          "c": 200.55
-        },
-        {
-          "d": "09-23",
-          "c": 196.1
-        },
-        {
-          "d": "09-24",
-          "c": 196.61
-        },
-        {
-          "d": "09-25",
-          "c": 200.2
-        },
-        {
-          "d": "09-28",
-          "c": 196.46
-        },
-        {
-          "d": "09-29",
-          "c": 196.46
-        },
-        {
-          "d": "09-30",
-          "c": 193.07
-        },
-        {
-          "d": "10-01",
-          "c": 194.48
-        },
-        {
-          "d": "10-02",
-          "c": 195.27
-        }
-      ]
-    },
-    {
-      "id": "42bc53b0738010e8",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T10:57:56+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "thenextweb.com",
-      "type": "news",
-      "quote": "OpenAI says Trump\u2019s AI accord needs more detail, Semafor reports",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10UDVwT3lncVpJNTBXaU5HTTJ1azRPN3BKN0d0czlXZHNkWmR5dUtFc0FUZ0VnODYyUTk2UXV2VmI0TW51bUF0TjhFUS1nLW55bExvaDVISktnN21WWk02ZHRaYk4tZmw1d0ZKVk1kZlJ1VlhiWGhyMmU2WQ?oc=5",
-      "image": null,
-      "headline": "OpenAI says Trump\u2019s AI accord needs more detail, Semafor reports - thenextweb.com",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "7192fe53eeded81d",
-      "date": "Fri, 02 Oct 2026",
-      "ts": "2026-10-02T10:57:56+00:00",
-      "date_display": "Oct 02, 2026",
-      "source": "The Next Web",
-      "type": "news",
-      "quote": "OpenAI says Trump\u2019s AI accord needs more detail, Semafor reports",
-      "company": "Openai",
-      "ticker": "",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10UDVwT3lncVpJNTBXaU5HTTJ1azRPN3BKN0d0czlXZHNkWmR5dUtFc0FUZ0VnODYyUTk2UXV2VmI0TW51bUF0TjhFUS1nLW55bExvaDVISktnN21WWk02ZHRaYk4tZmw1d0ZKVk1kZlJ1VlhiWGhyMmU2WQ?oc=5",
-      "image": null,
-      "headline": "OpenAI says Trump\u2019s AI accord needs more detail, Semafor reports - The Next Web",
-      "channel": "News",
-      "series": null
     }
   ]
 }
