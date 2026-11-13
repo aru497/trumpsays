@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-11-13T11:17:43.510092+00:00",
+  "updated_at": "2026-11-13T18:37:01.674965+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "46bb2969f308f5b3",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T17:09:45+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "blames Lutnick's Commerce Department for not restricting Nvidia chips to China Commerce Secretary Howard Lutnick has come",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T014218Z_1139623673_RC2DLOAHZWQ0_RTRMADP_3_USA-CHINA-BESSENT-1-1024x683.jpg",
+      "headline": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
+        }
+      ]
+    },
+    {
+      "id": "f9e0ecf652a132ff",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T16:15:15+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "The New Republic",
+      "type": "news",
+      "quote": "Trump Tries to Control Nvidia Leadership as Scandal Blows Up - The New Republic Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTV9lUlBkbUR2YUN6V0ZQQWN4YlVZQmNKS3JELUYyOWpmQzdYaXZTRlRreDRtRG9IVVJ3SWxqeUdrNk1ZT2xxZllmOHN0SVdkR1IwbGlsMlZibi0yeVhleUxXOVN1alZ3akstMWhUUS01aEhZTms2TEZ4dV9iQjVQZkdzT0xzSE0?oc=5",
+      "image": null,
+      "headline": "Trump Tries to Control Nvidia Leadership as Scandal Blows Up - The New Republic",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
+        }
+      ]
+    },
+    {
+      "id": "f3c0355525ef2bbb",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T13:38:49+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "Al Jazeera",
+      "type": "news",
+      "quote": "Nvidia scandal: What\u2019s next for the US tech company? - Al Jazeera",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1FaTlaLXMwLUFWN2lxU202ZW9veTlQd1dCbF9KYlBnMWlTT0Y3Zi1BaFowMU9YT1h0M2JGd0xxM1l3dm9rS2otT1hpa0pwR0xjY1AxMTBld1pXcmFsMTl6UFJVV0VtYWk4bmNva3E1dlVLcVhlOWVlUy1aR3lKVUwwZm1LS0h3aEtEc1dHX3RxRERzaHfSAZsBQVVfeXFMTUdEVDRnMzVUQi1YdWl5V0MxcHVlM2pldTZrVTA2X2xzX2hhNEpaVnVlWlE0M29fSHU2Wm1EMjVBZ01LdlhJaThHV0JPcTVldEd5UFg2c1AtdlhIVVBCNF9ZVEpqaEhsOFc0cE80c216Yk9UWFVmbDFCV3ZiRURGUnFvOC10T21iZFhMS2dvc3BDVFE0Vl9fRGsxb2M?oc=5",
+      "image": null,
+      "headline": "Nvidia scandal: What\u2019s next for the US tech company? - Al Jazeera",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
+        }
+      ]
+    },
+    {
+      "id": "c8f1fb38b7b46457",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T12:07:12+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "image": null,
+      "headline": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
+        }
+      ]
+    },
     {
       "id": "7a20d9233701285e",
       "date": "Fri, 13 Nov 2026",
@@ -107,6 +539,114 @@
         {
           "d": "11-12",
           "c": 166.19
+        }
+      ]
+    },
+    {
+      "id": "98b231590eb85d73",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T10:16:00+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "Technology Org",
+      "type": "news",
+      "quote": "Trump Says Tim Cook Should Replace Jensen Huang as Nvidia CEO - Technology Org Trump Says Tim Cook Should Replace",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUZmdGRTTWFjUlBhMWZvUjI5Uk55aWJIOENaU2YzZnFsMVptQm1IMFhaZ1p4MVVTdXpSMk1YLWM4SHlpMjJxaG05TU9uQXNpSmhCMUxrNXJrc3M3VFQxUU55aktVdzhNNWJlZGY5WkVFTVN0MXJwcVFiUW1WcEh4U3M0LVFYQ3F5dkhCa1hR?oc=5",
+      "image": null,
+      "headline": "Trump Says Tim Cook Should Replace Jensen Huang as Nvidia CEO - Technology Org",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
         }
       ]
     },
@@ -323,6 +863,114 @@
         {
           "d": "11-12",
           "c": 166.19
+        }
+      ]
+    },
+    {
+      "id": "6053992569930e44",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T00:46:00+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "The Verge",
+      "type": "news",
+      "quote": "Donald Trump really wants Tim Cook to run Nvidia - The Verge Donald Trump really wants Tim Cook to run",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFpxUHJVbTZhcDdlZlFDd0VoQzVOWUJwblF5S05WZmtrdGF4STMxOWs4azZTdjVUYWFsamxHa2E2Sl9rNC1qV1VYUlNjeWhJbzVPYWV0RVRrN29wNTN4Um45RGNybVA2bmV6bGNrMlYwSmpMSW5wWHJBdWVZUTBVNWY4Z1dFb05NWFVCSWlSZm5BU3M?oc=5",
+      "image": null,
+      "headline": "Donald Trump really wants Tim Cook to run Nvidia - The Verge",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
         }
       ]
     },
@@ -755,6 +1403,114 @@
         {
           "d": "11-12",
           "c": 166.19
+        }
+      ]
+    },
+    {
+      "id": "413697549b6eac52",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T22:16:08+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "The New Republic",
+      "type": "news",
+      "quote": "DOJ Says Maybe She Wasn\u2019t a Spy as It Tries to Clean Up Nvidia Mess - The New Republic DOJ Says Maybe She Wasn\u2019t a Spy as",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 161.92,
+      "change": -2.57,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1psbjNkbXBQaFV5WWk5VDNiX2k5Mk5pQnFFMVRhbHpTaEVfVF9yd21EVkJuQmU2RVQ5Qk1fT2pKNTRCX0dxd0pndzR1dldZeHBtMTJpVjlMeTNERTdwc2hFUnQzNTdReG9iNXJWU0VzRTZoQmZrMVRFRXEtUFBIOVhpd1d6R1hJWDBIdVRyRlQ2TWNQVmpIenF3?oc=5",
+      "image": null,
+      "headline": "DOJ Says Maybe She Wasn\u2019t a Spy as It Tries to Clean Up Nvidia Mess - The New Republic",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 161.92
         }
       ]
     },
@@ -40294,669 +41050,6 @@
         {
           "d": "10-12",
           "c": 152.68
-        }
-      ]
-    },
-    {
-      "id": "3abf22e1484ccd31",
-      "date": "Mon, 12 Oct 2026",
-      "ts": "2026-10-12T17:17:17+00:00",
-      "date_display": "Oct 12, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "federal investigation,\" while Omar calls it \"an attempt to target political enemies.\"",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 152.85,
-      "change": -0.5,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-      "image": null,
-      "headline": "Agents search Rep. Omar's D.C. home; DOJ says it's part of criminal investigation",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-14",
-          "c": 158.7
-        },
-        {
-          "d": "09-15",
-          "c": 154.4
-        },
-        {
-          "d": "09-16",
-          "c": 154.68
-        },
-        {
-          "d": "09-17",
-          "c": 159.83
-        },
-        {
-          "d": "09-18",
-          "c": 158.19
-        },
-        {
-          "d": "09-21",
-          "c": 157.71
-        },
-        {
-          "d": "09-22",
-          "c": 159.02
-        },
-        {
-          "d": "09-23",
-          "c": 156.26
-        },
-        {
-          "d": "09-24",
-          "c": 156.15
-        },
-        {
-          "d": "09-25",
-          "c": 157.45
-        },
-        {
-          "d": "09-28",
-          "c": 158.43
-        },
-        {
-          "d": "09-29",
-          "c": 156.43
-        },
-        {
-          "d": "09-30",
-          "c": 156.69
-        },
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 152.85
-        }
-      ]
-    },
-    {
-      "id": "c01835f31ea1029f",
-      "date": "Mon, 12 Oct 2026",
-      "ts": "2026-10-12T14:31:52+00:00",
-      "date_display": "Oct 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "the home of Democratic U.S. Rep. Ilhan Omar, a frequent target of Trump administration criticism, as part of a criminal",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 152.34,
-      "change": -0.85,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/ap-report-federal-agents-search-rep-ilhan-omars-home-as-part-of-a-criminal-investigation",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-07-20T233735Z_1558090482_RC2YHMAK2FYQ_RTRMADP_3_USA-ELECTION-MINNESOTA-1024x686.jpg",
-      "headline": "AP report: Federal agents search Rep. Ilhan Omar's home as part of a criminal investigation",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-14",
-          "c": 158.7
-        },
-        {
-          "d": "09-15",
-          "c": 154.4
-        },
-        {
-          "d": "09-16",
-          "c": 154.68
-        },
-        {
-          "d": "09-17",
-          "c": 159.83
-        },
-        {
-          "d": "09-18",
-          "c": 158.19
-        },
-        {
-          "d": "09-21",
-          "c": 157.71
-        },
-        {
-          "d": "09-22",
-          "c": 159.02
-        },
-        {
-          "d": "09-23",
-          "c": 156.26
-        },
-        {
-          "d": "09-24",
-          "c": 156.15
-        },
-        {
-          "d": "09-25",
-          "c": 157.45
-        },
-        {
-          "d": "09-28",
-          "c": 158.43
-        },
-        {
-          "d": "09-29",
-          "c": 156.43
-        },
-        {
-          "d": "09-30",
-          "c": 156.69
-        },
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 152.34
-        }
-      ]
-    },
-    {
-      "id": "55e2c99ca8ee9171",
-      "date": "Sun, 11 Oct 2026",
-      "ts": "2026-10-11T01:46:22+00:00",
-      "date_display": "Oct 11, 2026",
-      "source": "ABC7 Bay Area",
-      "type": "news",
-      "quote": "Capital One says it closed hundreds of Trump's bank accounts in 2021",
-      "company": "Capital One",
-      "ticker": "COF",
-      "price": 199.26,
-      "change": -0.07,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMipwpBVV95cUxOM2x0S1FXT19XNkx4cWdjTTZrWXhGbUV3SE10S0Nucmk4WTgxLV9jQnhYblZqM1ZXbVNoVlRTQ2hseFZ6X1hQZVhlSUg2MFpWZlMyVVA4Mm5tYmUzU2t3SXN0QV9TMkZ2clNxMi0xYy15NDRVU1R2MmQ4aXZVbmd6cWV3OHBPUENmSW9WampUWE1CcUNwSE9QM1p4ajNJVHFDekUxdTNMTlJQSW96bDF0SHVuOEI5U0hIVmJYSllTLTJ5X0F2b0xSd05NQ1RTV3BYSUpRTmp1XzVRZ2xBYnREanhmNlpaUTViYTZ0dnZPTDNEZmFPV09nSGxFanJLcU02UkIyVTVRMnpkX0ZwcTdqaUV0cUFMcnFFUzFGMzA5QWZmd2tnbnltZnZ1QkFTaUJqN1htZXdJNEFNTlh6ZnFpamhNZ2pwVkYyWTRDYV90RWJWNmduQ0V1dkd1SXVjLUN1b1B0LURUTVVEalQyOC1QYWNHVWNDczJQTFBTd09yZXhCbUxBaEZNSUhGdHZETFVpSkQ1VEtUZGpVcC1MMW1HVW5rNlUyX2Y5ZlJ6YjNMdHJYeDdNUnA2SlQ2WWxpNWdxbmZsQXpVdVNWSHFDYklVZkNNRmpyaXBxeG1RWERRVGU0QVltamhZU1hxcUVtczBERG5KR3VHdVN2RWpXYWpHUFZuTm1jVnlaMGNBdEVvZVZBSEhERVFsUjNIVkZsdjVEemR1Vm9naFE5Smlma0JkVzlpQlhJT3VtbGgySFlPQmhPY21kaTcxZ1dRZFJpZEdRQTN4ODRwT0h1Y0ZYU190RVFXX2RCWW53WTdockUwRnp1RFhHUzY1XzJ2RGNUalRublg0bmd3Z2NPMHpWMXV6Ukk0Nl9YWWEyUm0zem5RNnBBbmFndllFdnhUTkpXUzlYVzJYM01rTTJ2YnZYSHF5OVNzZ2doRTlVVUQ2alhHN01KVUNTUjQycUU3MnpLRHFXeHlQa3FuVnU5WHp4emZ3a3VOajFMX2VlV0tfS2RPZTZwTkpsTnFJLVJjTmZ2Z2k4SG42T05rSU40SWgxOWxkZEJfSFFVRWJXNW1OaEFkUUF5cHgzMThOWFAtMHpENUZNMlhmNmhIX2ZjZjJmR0s5NE5VNUY4MW1YV25wamZ0RVd1NVB2dFBhUFZMTTZEMUlTemJEZW14bXkxVjJhaFBneDBpTTRfeEs3MGtGOVdrRXRQSDgyQ0NYd1BFWWNxS3FXdkpURDN6QUhKVEdZbU1veXR6TEZobjhmYVYwVVZNNWVUTmxhU3NvM3RQb2R0YjZZMFhhOXR5YUF1MXdRUTZhRXYtRlg0NndfNld4TG5McGhiM2ptTXRmUFBFZ2E0cS1Zdmhua3J2SXlCRFo5NjVlQjZRWVBmWHBienJ5Nm9PbnF5SklZSHRGRDh5akNBcFpVRGNiQkszNWJLelVOT243T2JqV0dnc0EyZUZPYzZDSm1vVXN2dkJhSlMxdFZRODBBelpHWS1YNDFudE9nZG16UnNzRGR3bmJ2d1BKVFM5R2hXcERuUmVFN1RJcklSQXloVUoxeWU2OHhEZXV5M0pTdEtnWkRTclUzMVF0S1d2NUswdmRlOFdxQ3psbjJ4dGpqOHdVMXpTc0V2TGQtZWlySnVPcjFDMTdpMnJwRW8yNWRCQldDWm9hNlpNYkZGSng3RFdGU00xN09ULVlYcV9KeWdLQVNTa19mT09icjFqWHlWTUdEVkF5MGtxYWQxczVGOXdsd1lraw?oc=5",
-      "image": null,
-      "headline": "Capital One says it closed hundreds of Trump's bank accounts in 2021 'for anti-money laundering reasons' - ABC7 Bay Area",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-10",
-          "c": 207.11
-        },
-        {
-          "d": "09-11",
-          "c": 208.3
-        },
-        {
-          "d": "09-14",
-          "c": 206.68
-        },
-        {
-          "d": "09-15",
-          "c": 206.85
-        },
-        {
-          "d": "09-16",
-          "c": 203.19
-        },
-        {
-          "d": "09-17",
-          "c": 202.04
-        },
-        {
-          "d": "09-18",
-          "c": 202.43
-        },
-        {
-          "d": "09-21",
-          "c": 204.92
-        },
-        {
-          "d": "09-22",
-          "c": 200.55
-        },
-        {
-          "d": "09-23",
-          "c": 196.1
-        },
-        {
-          "d": "09-24",
-          "c": 196.61
-        },
-        {
-          "d": "09-25",
-          "c": 200.2
-        },
-        {
-          "d": "09-28",
-          "c": 196.46
-        },
-        {
-          "d": "09-29",
-          "c": 196.46
-        },
-        {
-          "d": "09-30",
-          "c": 193.07
-        },
-        {
-          "d": "10-01",
-          "c": 194.48
-        },
-        {
-          "d": "10-02",
-          "c": 194.72
-        },
-        {
-          "d": "10-05",
-          "c": 195.14
-        },
-        {
-          "d": "10-06",
-          "c": 195.82
-        },
-        {
-          "d": "10-07",
-          "c": 195.91
-        },
-        {
-          "d": "10-08",
-          "c": 199.4
-        },
-        {
-          "d": "10-09",
-          "c": 199.26
-        }
-      ]
-    },
-    {
-      "id": "bfaf88dd064e3200",
-      "date": "Sat, 10 Oct 2026",
-      "ts": "2026-10-10T21:40:18+00:00",
-      "date_display": "Oct 10, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Trump's economic strategy resemble similar policies in East Asia Much of the Trump",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 154.34,
-      "change": 1.89,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
-      "image": null,
-      "headline": "Trump's economic strategy resemble similar policies in East Asia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-10",
-          "c": 128.56
-        },
-        {
-          "d": "09-11",
-          "c": 130.97
-        },
-        {
-          "d": "09-14",
-          "c": 136.94
-        },
-        {
-          "d": "09-15",
-          "c": 129.6
-        },
-        {
-          "d": "09-16",
-          "c": 126.18
-        },
-        {
-          "d": "09-17",
-          "c": 132.25
-        },
-        {
-          "d": "09-18",
-          "c": 153.92
-        },
-        {
-          "d": "09-21",
-          "c": 168.5
-        },
-        {
-          "d": "09-22",
-          "c": 167.33
-        },
-        {
-          "d": "09-23",
-          "c": 162.2
-        },
-        {
-          "d": "09-24",
-          "c": 161.61
-        },
-        {
-          "d": "09-25",
-          "c": 158.61
-        },
-        {
-          "d": "09-28",
-          "c": 157.14
-        },
-        {
-          "d": "09-29",
-          "c": 154.67
-        },
-        {
-          "d": "09-30",
-          "c": 153.09
-        },
-        {
-          "d": "10-01",
-          "c": 160.5
-        },
-        {
-          "d": "10-02",
-          "c": 160.01
-        },
-        {
-          "d": "10-05",
-          "c": 164.43
-        },
-        {
-          "d": "10-06",
-          "c": 164.55
-        },
-        {
-          "d": "10-07",
-          "c": 153.37
-        },
-        {
-          "d": "10-08",
-          "c": 151.47
-        },
-        {
-          "d": "10-09",
-          "c": 154.34
-        }
-      ]
-    },
-    {
-      "id": "7e2f616145b85d77",
-      "date": "Sat, 10 Oct 2026",
-      "ts": "2026-10-10T09:00:00+00:00",
-      "date_display": "Oct 10, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "parties. They hope Latino content creators will bridge the gap.",
-      "company": "Gap",
-      "ticker": "GPS",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
-      "image": null,
-      "headline": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "95d68940a72aa0a3",
-      "date": "Sat, 10 Oct 2026",
-      "ts": "2026-10-10T02:50:41+00:00",
-      "date_display": "Oct 10, 2026",
-      "source": "Kyiv Post",
-      "type": "news",
-      "quote": "Trump Names Truth Social Adviser Katie Zacharia as New White House Press Secretary",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 8.11,
-      "change": -1.1,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xV2ZFSEhreFdpS2N0dVl1MDJnT0dMOHJ5Uld5bU9YVFlPeGlST2ZfMGxOX0tJZkQzRkZfU0xaZG1ta0RhaGhmWjN0cw?oc=5",
-      "image": null,
-      "headline": "Trump Names Truth Social Adviser Katie Zacharia as New White House Press Secretary - Kyiv Post",
-      "channel": "Press Conference",
-      "series": [
-        {
-          "d": "09-10",
-          "c": 8.78
-        },
-        {
-          "d": "09-11",
-          "c": 8.66
-        },
-        {
-          "d": "09-14",
-          "c": 8.85
-        },
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        }
-      ]
-    },
-    {
-      "id": "942e3eaa7f96f414",
-      "date": "Fri, 09 Oct 2026",
-      "ts": "2026-10-09T21:08:00+00:00",
-      "date_display": "Oct 09, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "in diesel fuel after 'highly successful discussion' - Fox Business Trump says Russia has agreed to deliver millions",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.89,
-      "change": -1.9,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmt2SzE3VkE4X0ZRNEQwT3pDQ3BRSkdpM0tScWlna0xNVDV3N3p4cjFMSWxhTzhYQTFKS3plc3pyaHVnLVE3QjhINlItemVwYVBjc3d5Y0JJUEhWaThZdV80cE83ZUFpUnRLWlc4eDktYWZIR2VLeERzbjhwa2l4NXRuRHgtUGlia3cyMnRaa2ItOGNEUkt4S1hZOHRpTVpJVjliSmY5aUJ1TUNMYlFNbGlKZTEwMUFVcGZj0gHAAUFVX3lxTE13N09CYVZwaG14TzFzSGJ4eVZfSGhKZWtnTDNlUXhJNlNXZC1NazRlZWp0OUtyUjRwcWdBeTAtWlAwUUUzaGZwa3kzbEJfX2RJNmNTR1JpZlQ0LUdUWjE2TkVDUTR4T29INlY5aUNYVkxtcDdPNUVHZGVFNks5S3dNUnhhMTNXMlBZVmZOcllIckQ2VDJCclliVU1PZ0k0NHlSeC04Ny1sT3JZalJzYWUzb3Q0OWpDa2ZudldfcmNWSQ?oc=5",
-      "image": null,
-      "headline": "Trump says Russia has agreed to deliver millions in diesel fuel after 'highly successful discussion' - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-10",
-          "c": 58.06
-        },
-        {
-          "d": "09-11",
-          "c": 58.45
-        },
-        {
-          "d": "09-14",
-          "c": 61.14
-        },
-        {
-          "d": "09-15",
-          "c": 60.34
-        },
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
         }
       ]
     }
