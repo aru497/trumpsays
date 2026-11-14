@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-14T05:12:50.600071+00:00",
+  "updated_at": "2026-11-14T12:20:58.690981+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "982a06ca82f38888",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T08:54:39+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+      "type": "news",
+      "quote": "\"Trump Bought Nvidia Shares Before Easing U.S. Semiconductor Export Controls\" -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zZ3ZUdGhISzNvQmNUeEUxa3M5NlRRMEJETlROTDc3dzk1SF9URmM3Z2lMSnFhVzhsZlprOWtvSmMxOThGX1hBdkZDbzNua2FGdktFSWhEbk82dVhBNkhJZVpHLVA?oc=5",
+      "image": null,
+      "headline": "\"Trump Bought Nvidia Shares Before Easing U.S. Semiconductor Export Controls\" - \uc544\uc2dc\uc544\uacbd\uc81c",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "b7de8023c1cbc926",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T08:46:46+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "news.sbs.co.kr",
+      "type": "news",
+      "quote": "Trump Bought Nvidia Stock Just Before Easing Regulations, Sparking Conflict of",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbmptSEFkTFYxcDJxWVkyZE5Ra25uX2NUZzVtMV9sUk8wTVVUbEI4Z1Y2SHI5dEJIT1VaRmJ5UVRNdlpDeWtyZERvUkx3QWtaQmdHX25vUFA4Nmg5ajY1OUJaeU93b0FfemR1d2tB?oc=5",
+      "image": null,
+      "headline": "Trump Bought Nvidia Stock Just Before Easing Regulations, Sparking Conflict of Interest Controversy - news.sbs.co.kr",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
     {
       "id": "67f90fa8cc3c6c5e",
       "date": "Sat, 14 Nov 2026",
@@ -215,6 +431,114 @@
         {
           "d": "11-13",
           "c": 61.11
+        }
+      ]
+    },
+    {
+      "id": "c217d0d7910e0b79",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T01:22:00+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "NBC News",
+      "type": "news",
+      "quote": "Trump\u2019s treasury and commerce secretaries feud as Nvidia scandal roils Washington - NBC News Trump\u2019s treasury and",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1QtM19jbkVyRjZ1Z3BvZlhmTWNuZEwzdTBudW1wdTg4cFpJb2ZlOXhicTNDWUlxWDhPa3FWMjFvUDJVUm8zSVhqWFQyUHdvb1FHRzhIM1hwM0JyQ25yM0VHa0V0eHJOQzltQ016Y3NRNDB2OXFjeDV6cjVieHNHNXZfVC15QVRzMl9wUm5HenJ4VEJaTTBtYzcySFpGTzZQWkpBZWY0UWtJcG9Nd2ZzeFVMOGNJN2s?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s treasury and commerce secretaries feud as Nvidia scandal roils Washington - NBC News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
         }
       ]
     },
@@ -1117,6 +1441,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
       "image": null,
       "headline": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "3e42be4c16b89a08",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T18:32:47+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
+      "image": null,
+      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker - CNBC",
       "channel": "News",
       "series": [
         {
@@ -2934,6 +3366,114 @@
         {
           "d": "11-12",
           "c": 166.19
+        }
+      ]
+    },
+    {
+      "id": "848538e8427bab5c",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T23:21:04+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Canada threatens to sue Stellantis over auto plant sale as Trump\u2019s trade war shifts",
+      "company": "Stellantis",
+      "ticker": "STLA",
+      "price": 3.82,
+      "change": -1.04,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlhQ0lXZEVGVEl1WVVmREVnME1EX1VVZkE5b2k2c3RsenVjNERHNDFrb1FVeEdCQzk4bHRxN1ZnYmxNS2FBXzk4VWlCcmhEUlN3UFc3RnVJUEF3djFMWTNuQkdheGtIdkRWTkdwMUpZOUtnQUY5allQZ1pheFdmMUlZWC12Zy03eXhBQ3RpUkF0NXp3ZDJhd2V2WG9NQl8tN2JR?oc=5",
+      "image": null,
+      "headline": "Canada threatens to sue Stellantis over auto plant sale as Trump\u2019s trade war shifts production south - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 4.35
+        },
+        {
+          "d": "10-16",
+          "c": 4.37
+        },
+        {
+          "d": "10-19",
+          "c": 4.29
+        },
+        {
+          "d": "10-20",
+          "c": 4.33
+        },
+        {
+          "d": "10-21",
+          "c": 4.22
+        },
+        {
+          "d": "10-22",
+          "c": 4.27
+        },
+        {
+          "d": "10-23",
+          "c": 4.06
+        },
+        {
+          "d": "10-26",
+          "c": 4.08
+        },
+        {
+          "d": "10-27",
+          "c": 4.14
+        },
+        {
+          "d": "10-28",
+          "c": 4.68
+        },
+        {
+          "d": "10-29",
+          "c": 4.7
+        },
+        {
+          "d": "10-30",
+          "c": 4.64
+        },
+        {
+          "d": "11-02",
+          "c": 4.72
+        },
+        {
+          "d": "11-03",
+          "c": 4.48
+        },
+        {
+          "d": "11-04",
+          "c": 4.65
+        },
+        {
+          "d": "11-05",
+          "c": 4.44
+        },
+        {
+          "d": "11-06",
+          "c": 4.43
+        },
+        {
+          "d": "11-09",
+          "c": 4.42
+        },
+        {
+          "d": "11-10",
+          "c": 4.26
+        },
+        {
+          "d": "11-11",
+          "c": 4.11
+        },
+        {
+          "d": "11-12",
+          "c": 3.86
+        },
+        {
+          "d": "11-13",
+          "c": 3.82
         }
       ]
     },
@@ -40530,546 +41070,6 @@
         {
           "d": "10-16",
           "c": 6.99
-        }
-      ]
-    },
-    {
-      "id": "fcf9cfdef9a36710",
-      "date": "Fri, 16 Oct 2026",
-      "ts": "2026-10-16T19:10:00+00:00",
-      "date_display": "Oct 16, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks;",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 6.99,
-      "change": -5.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkdHOGVfTmNISC1xdXRaVlh5amNPbFNVOUFTSElncmRZWEZyRjNhY3g1S1U5X053XzgyTGRmdXZOYlE1Z1RXeUp4MXZHc1JJZUVCajN3MjU5WVB1eGN6M2Mxb2Y5VjlvWUpVUDg2aVlEdkVmNjhqc3doSF9oUVdVX2tCNDdEd0RBZDBuMElTY1cyeTUwaDM0cVlhV1kxNkRXUkI0RVAtcl93YW9IbDNLbVcxekYxM1ZpcWlBTmxQN0ZKUXM?oc=5",
-      "image": null,
-      "headline": "Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8% - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        }
-      ]
-    },
-    {
-      "id": "a9d50966c90c3953",
-      "date": "Fri, 16 Oct 2026",
-      "ts": "2026-10-16T12:54:09+00:00",
-      "date_display": "Oct 16, 2026",
-      "source": "Moneycontrol.com",
-      "type": "news",
-      "quote": "From 420,000 to 260,000: Trump\u2019s Truth Social loses over 30% traffic in a year. Why are users leaving...",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.22,
-      "change": -2.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ1l6el9YczhORmk0WnQ2anMtTFVqUTFSZVdrUzN0aTNIVl9mcXRKMTFRTUp3amRIT0VaVzRGMlgtWFhNZGFpcUtieTZrbklmXzVzWlZ0eWxpeHBHSXZnV29faVItdmdoSnBRN3NKb25ieWlYaTV6V21BVnVZQlpsaWp3d0JHT0wxV3Fqa1VtQVR5UXNiY1IwS3gzX1hlWFMtdEREUVF0S0lEbTF2ZXpGV0JQbDJERmg2dUdycmVQTlFMWWxqNGJEYWlOV3daN2x6QV9OWUVJdXZaekpMTXVJXzkzejdpS1FnM1hiX1NGOWEtdWUtRFQ2ZWh6NWRYOEtra3RlYdIBigJBVV95cUxPYUdhVFJmUDVyd2I4NjlJcVl0QUFLOVpJc0xLMGUwMVNMUXRDWWtJX3FOSEhETmRjbjYzZ1NXS19kUDg2Si1iT3F6YXk5MEo4ZFRUOW9aX2VZM1lLRmN1ZFl4Sm5iRkZCM1lZSVRGcjlBbElndVc4aWxVWVRCRkFzSHJRMVpCRWJyNU1pby14U0dPYTl4T0xNZDJYVWVRN0EyV09NdnIxUHY4bUFwVDZjQThXbjNiNWtwb1YwU1FxeDRJMUlqLS14RzY5dElKOVNjckJneGhlQ2NZUDZRd0QzaGV4OGRreENnRUlzbUFPQU9oZFk2UUpSZHRaZ045b3JsSUtELWtIdW1BQQ?oc=5",
-      "image": null,
-      "headline": "From 420,000 to 260,000: Trump\u2019s Truth Social loses over 30% traffic in a year. Why are users leaving... - Moneycontrol.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 7.22
-        }
-      ]
-    },
-    {
-      "id": "22c7bbacfabf0149",
-      "date": "Fri, 16 Oct 2026",
-      "ts": "2026-10-16T10:01:53+00:00",
-      "date_display": "Oct 16, 2026",
-      "source": "Firstpost",
-      "type": "news",
-      "quote": "Are Trump followers abandoning Truth Social as midterms near? - Firstpost Are Trump followers",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.22,
-      "change": -2.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDB1TE5jWTQ5UU1tV2FrZmVDMHZMazltMGpUQ2swMXdSYTZHY0lMU1JHYm5WVnR6SDJCVDFTTTZRQzh2NWcxdEtWYkVFVUFZd2w2WUZ6T0t4Tl9idUdScndaWS1zeVU5eHNTS3JTNXdyWmNheXFPUlJiaHlVMjNtYXpMblJ4bTdpMTNEbl9LeWFiN0Q2TE1CYmhzSUJHdVY1WW9UYTdaOEpXdUtKb3hXQdIBtgFBVV95cUxNeXdUajd3SU9ZU0VoRlBKQzFiSzdZUGlZY3h1SWlvWkMxU3BWWGJCQ3pUb21xRFhQcUJRQjMxb1ptNWlvdk04YTNwQkFlc3hUS3NQek1nMGROTFd3cldYZmFoZmUtUmg4WlUzeXJ2WDQ4WHB4X2ZPQ3BrdDZ3XzdzdkVkU3ZtaDdLSDJaOXd6MzFmT3lheUtKY0d3QlNYSGdvR3lIME13WUFpWm9HSHE2TTVQLWdWdw?oc=5",
-      "image": null,
-      "headline": "Are Trump followers abandoning Truth Social as midterms near? - Firstpost",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 7.22
-        }
-      ]
-    },
-    {
-      "id": "645c15695b68af0a",
-      "date": "Fri, 16 Oct 2026",
-      "ts": "2026-10-16T07:00:00+00:00",
-      "date_display": "Oct 16, 2026",
-      "source": "KOKI FOX 23",
-      "type": "news",
-      "quote": "bystander saved lives at Oregon school shooting - KOKI FOX 23 'He took care of business': Trump says bystander saved",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.35,
-      "change": -1.88,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQYnVmcHEyY3VCRkZkZXFyYmFZWTB5WVNFU1hfOWI1NUx3UENiMGRfR09XTFlZM3ladDBPMURTc2xiUUpxYUJjeGMwdFZrTlRtaHMzd3lYU3dfV3Jkd1FxRG93VE94d1cxSTN5X2R4LU10Q2IxdWRXN21LdEJsVWhYbERoOUtZcDd5NEs2enE2M3g1VXpwSmpIeXlLVDZiWlpNcE81aDlJVHJabmVPTEFHeDRpOWdJQ2lFQVloNWdFQ3haanFpS0I3MTBFOXJ1UW5hQXdoc1A2MlJNTkIyOWU1NjdFZTRYbXBoVVB5NHZERm9wNGVWVTc2VGRjc21OQS0za2JkTE1IWEMwWVRxcnVsbkZwaEZnNUpoNEkxWTczVV9ud0hBYTFxUUlqcVpxYk5QOGQ1ZllxaFRrRk4xYWtCbF96TXNPUDI2SUppY1FFSFN2YWlXS0Zhb3hGdl9JOG1TdFJUNzVnaVdXUQ?oc=5",
-      "image": null,
-      "headline": "'He took care of business': Trump says bystander saved lives at Oregon school shooting - KOKI FOX 23",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        }
-      ]
-    },
-    {
-      "id": "4c95f407ebd698b9",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T21:53:21+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "South China Morning Post",
-      "type": "news",
-      "quote": "Visa\u2019s China approval a \u2018direct outcome\u2019 of Xi-Trump summit,",
-      "company": "Visa",
-      "ticker": "V",
-      "price": 402.36,
-      "change": 0.65,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2hPb0RsMW5KaGtRM1JTMnJRbm1NdHc3NTVydm1PblM2TV8xVEdnQ1RNM0ZORUJUT1Q4aGlSSWVUNHlpUlVBMnFqZWRldmt2eURUSllWT2k0SVFvQlJvOGZrT0lCcFoxRWR2TkdPZHNCUlhtMWNoN3FFWFB3aER5SWkyQ21zd0JuUFgtb2Zvck45SHMzZjZneGR6M05vdlliaXBBVXZVZkluOEVLZF82dWVBUy1LbkdzTTBrMHk1MNIBvwFBVV95cUxNN3U2MFROMGZfc1E3dTVQaEthbnpONWdDdlZZcG1MYnVNdGx4T0NxSzNpWldtclJONlQ3OVhydlRUbjBqcWdrLTJ4NVhITXFQSjgwNm0yd1U1S2FZMEZBSnB3eDBrZ3ZuaWk1MUUtZWNhYXpwVDAtYXd6ejNYb1VObElCTTlXRnhWTzN4bGpxVk85Rk1tRGxYTGRBTWVabE1Ta01vSHdXYjJUMjNTYWctSDdjYjJZNjRKWEY4cE9qWQ?oc=5",
-      "image": null,
-      "headline": "Visa\u2019s China approval a \u2018direct outcome\u2019 of Xi-Trump summit, Beijing says - South China Morning Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-17",
-          "c": 369.93
-        },
-        {
-          "d": "09-18",
-          "c": 368.29
-        },
-        {
-          "d": "09-21",
-          "c": 369.95
-        },
-        {
-          "d": "09-22",
-          "c": 362.04
-        },
-        {
-          "d": "09-23",
-          "c": 361.52
-        },
-        {
-          "d": "09-24",
-          "c": 367.98
-        },
-        {
-          "d": "09-25",
-          "c": 367.38
-        },
-        {
-          "d": "09-28",
-          "c": 367.74
-        },
-        {
-          "d": "09-29",
-          "c": 365.88
-        },
-        {
-          "d": "09-30",
-          "c": 359.33
-        },
-        {
-          "d": "10-01",
-          "c": 359.85
-        },
-        {
-          "d": "10-02",
-          "c": 360.66
-        },
-        {
-          "d": "10-05",
-          "c": 369.71
-        },
-        {
-          "d": "10-06",
-          "c": 370.64
-        },
-        {
-          "d": "10-07",
-          "c": 372.1
-        },
-        {
-          "d": "10-08",
-          "c": 375.1
-        },
-        {
-          "d": "10-09",
-          "c": 385.45
-        },
-        {
-          "d": "10-12",
-          "c": 389.27
-        },
-        {
-          "d": "10-13",
-          "c": 396.06
-        },
-        {
-          "d": "10-14",
-          "c": 391.43
-        },
-        {
-          "d": "10-15",
-          "c": 399.75
-        },
-        {
-          "d": "10-16",
-          "c": 402.36
         }
       ]
     }
