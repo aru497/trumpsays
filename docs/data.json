@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-11-13T23:59:45.974496+00:00",
+  "updated_at": "2026-11-14T05:12:50.600071+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "67f90fa8cc3c6c5e",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T03:58:34+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "BigGo Finance",
+      "type": "news",
+      "quote": "Financial Disclosure: Trump Bought Millions in Nvidia Stock Before Chip Export Restrictions Were Lifted - BigGo",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQZk5RU2VXQjlMZWRUMXBHY0N1bWhHYmNLN01UQUJHczZEQVpIclc5NUtwX0paVmpQZkVkTm5hUzc3TDdRaFpEM2Nxb0xBMkx3cURfV2RGNDlQTmE0d0ZhOGwzTUM0RlMyR3FTQUY5emFJODZnckE?oc=5",
+      "image": null,
+      "headline": "Financial Disclosure: Trump Bought Millions in Nvidia Stock Before Chip Export Restrictions Were Lifted - BigGo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "cfe4986a8d8fc043",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T01:28:48+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "at Trump press conferences alongside real journalists - Fox News Joe Rogan says podcasters have no business at Trump",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 61.11,
+      "change": 4.09,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEtUdTZLaXpOR2w3ZWEzLThpZ2dTTnlNSlduMkdhbXp4cEtGVmpWQ2M2X0NXeTRSRWhSU0phcFJTdk12Nkg1dUoyOC0waEZENms0VmdubG1tSE9Gd3E2T0huRlJwX28wMDYzbmptVEFxQ2ZpNGpZZXlBZVNfZHZxT0hib1VmM1VZMUdPUWF3MEVUeGt6ZlJqRDZKN284M3Q0TXJrZy1INURtajNIRDJOUHhySHZsUEthbGfSAb8BQVVfeXFMUG02cEFsWHFaQ1RLZWNVSEZQa1RaeGNKYU5vZlJMZWhUenkyNFhfcjFnZmdkS1lxOEZOWEVQM3M5dktYaFc0anZhV1QxWE9aVnVQcHU2dE5wUWpLY2lzdFd0bzNCeGxCelBsX21GcE5NZjFmOHRaNWdaLVBnUC1wdHFTbzVmRXJoR0JKV21meFhoWmhHbGI0NmJHYU8tR21XZEdPNDM4cjRZZXB0VFJiYzBPOF9jd3pmbi1semQxMk0?oc=5",
+      "image": null,
+      "headline": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists - Fox News",
+      "channel": "Press Conference",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 57.14
+        },
+        {
+          "d": "10-16",
+          "c": 57.22
+        },
+        {
+          "d": "10-19",
+          "c": 58.33
+        },
+        {
+          "d": "10-20",
+          "c": 59.75
+        },
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        }
+      ]
+    },
+    {
+      "id": "ec2d888350069a24",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T23:30:37+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "to discuss the week in politics, including the fallout of Nvidia CEO Jensen Huang's resignation and what the Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-how-republicans-are-responding-to-midterm-losses",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/6_42_08-pm-1024x576.jpg",
+      "headline": "Brooks and Marcus on how Republicans are responding to midterm losses",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
     {
       "id": "1914384c884166eb",
       "date": "Fri, 13 Nov 2026",
@@ -450,6 +774,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
       "image": null,
       "headline": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits - Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "9f53387728e8789f",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T21:41:04+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "Bloomberg.com",
+      "type": "news",
+      "quote": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
+      "image": null,
+      "headline": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits - Bloomberg.com",
       "channel": "News",
       "series": [
         {
@@ -1534,6 +1966,114 @@
       ]
     },
     {
+      "id": "10b821d3be687125",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T09:54:01+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "Meteora Web",
+      "type": "news",
+      "quote": "NVIDIA, Trump proposes Tim Cook to replace Huang - Meteora Web",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0J3djlQanlfbVp4aDhxdi1IMDlKZUVGTU82OTc4MW81QWdHdkdUYlRyMFVlREdiWUROM19QZGd4ZlhxVEZiWUZ5Z0VtSUdqYVJPUlZvaW1QdlhZTmdJXzByNUN5NzM4V3JaZ2tiU1kxMkdxU3oxX1hMbnpWOGxiUm1HSEdPc1NxdzNaODVvc25qaG8x?oc=5",
+      "image": null,
+      "headline": "NVIDIA, Trump proposes Tim Cook to replace Huang - Meteora Web",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
       "id": "b08fae1ac2f0a81f",
       "date": "Fri, 13 Nov 2026",
       "ts": "2026-11-13T09:44:38+00:00",
@@ -1746,6 +2286,114 @@
         {
           "d": "11-12",
           "c": 166.19
+        }
+      ]
+    },
+    {
+      "id": "1116cd64bd875d10",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T04:00:00+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "A timeline of the affair scandal that sank Nvidia\u2019s Jensen Huang - The Guardian A timeline of the affair",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGVYMDRkSmxOYk40Wjlnb0tfYVg5aFIzODhiSGU3QTdWamNfUFgzX0trcC1BODZ5LWVva3hRaHdjLVp0NXJoVUlsOHUyYzRpZ0lPYkVvRU9wYXlNUWh5ZmljZVhSMmlMZ21reGQwd0IyNUltS1NBTkYtSmlBX0tTcUJKVlZRZw?oc=5",
+      "image": null,
+      "headline": "A timeline of the affair scandal that sank Nvidia\u2019s Jensen Huang - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
         }
       ]
     },
@@ -6394,6 +7042,114 @@
       ]
     },
     {
+      "id": "767c9794c6967db3",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T16:13:43+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Yahoo! Finance Canada",
+      "type": "news",
+      "quote": "Jensen Huang Resigns From Nvidia\u2014Trump Says Tim Cook Should Replace Him - Yahoo! Finance",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2tFR0NOdXFBN2U1MXpNeEhNeWQtWEZwMGZLbU1IUTBkVnk0NU1YQXN3M09lY0hBXzV3WGhRekQzNlRJVUlRbDJ4b09TVmoxczhKVDFHeVlXQzE1OVJZUVp6dUJnTTlrTnp1Wk9jelFvb2hZbC1fcVAxSFdUd0JZanc4X29ORzl5ZVhSOQ?oc=5",
+      "image": null,
+      "headline": "Jensen Huang Resigns From Nvidia\u2014Trump Says Tim Cook Should Replace Him - Yahoo! Finance Canada",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
       "id": "021c5169c62537da",
       "date": "Thu, 12 Nov 2026",
       "ts": "2026-11-12T16:13:00+00:00",
@@ -7794,6 +8550,114 @@
         {
           "d": "11-12",
           "c": 60.04
+        }
+      ]
+    },
+    {
+      "id": "688755e5ac199b1d",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T15:02:13+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media & Technology Group Corp (DJT) (Q3 2026) Earnings Call",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.64,
+      "change": -6.64,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3Nna3RnZUZoRXJkYU01N0pUMklhT3Vzd3VfTm11Rnh1VFRLLVNva0c3eURsY0lvaUdyWmFSdmJiOFdfQWE4RU45ZEYwQVBvYktJOEVrUk5fM1otUzJ2dmdsS0hKWHpnNG5iYi1GcWM5SHVNUWU5b21iV2RhU1ZVVUQ5OHRkdFZCelBTTjBuY1l3SkRKWml6NGNIRV9jZ2s?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group Corp (DJT) (Q3 2026) Earnings Call Highlights: Revenue Jumps ... - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
         }
       ]
     },
@@ -12063,6 +12927,114 @@
         {
           "d": "11-11",
           "c": 60.45
+        }
+      ]
+    },
+    {
+      "id": "17ff704e5a2cf698",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T13:30:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media & Technology Group Corp. Q3 2026 Earnings Call Summary -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.64,
+      "change": -6.64,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFpZSDVkRlR6UUlFb1AxQjllRFlQVHp0OW1IdXlsR1oyUnhFc1ZkY0RidVNHUjVjN29Lczk0MlQ5MnlPUUNaRG5mR3A5QjZRZHR1MUpEWFhFN2RJRWRLbmlLODhCb0NmX0pfSlo5ZU4tUFRNdjVvdVA3eEhEMXhUWmcyRWVSQ0gxSXVuRlptUjdPYUN0YTNVSFVhTkU3OVk?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group Corp. Q3 2026 Earnings Call Summary - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
         }
       ]
     },
@@ -40098,889 +41070,6 @@
         {
           "d": "10-16",
           "c": 402.36
-        }
-      ]
-    },
-    {
-      "id": "ec29386ba554fbff",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T20:27:35+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 342.0,
-      "change": -0.28,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
-      "image": null,
-      "headline": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-16",
-          "c": 332.41
-        },
-        {
-          "d": "09-17",
-          "c": 337.0
-        },
-        {
-          "d": "09-18",
-          "c": 336.13
-        },
-        {
-          "d": "09-21",
-          "c": 338.98
-        },
-        {
-          "d": "09-22",
-          "c": 339.75
-        },
-        {
-          "d": "09-23",
-          "c": 337.02
-        },
-        {
-          "d": "09-24",
-          "c": 335.92
-        },
-        {
-          "d": "09-25",
-          "c": 341.07
-        },
-        {
-          "d": "09-28",
-          "c": 338.4
-        },
-        {
-          "d": "09-29",
-          "c": 329.4
-        },
-        {
-          "d": "09-30",
-          "c": 333.02
-        },
-        {
-          "d": "10-01",
-          "c": 330.32
-        },
-        {
-          "d": "10-02",
-          "c": 333.69
-        },
-        {
-          "d": "10-05",
-          "c": 332.89
-        },
-        {
-          "d": "10-06",
-          "c": 333.63
-        },
-        {
-          "d": "10-07",
-          "c": 336.67
-        },
-        {
-          "d": "10-08",
-          "c": 340.42
-        },
-        {
-          "d": "10-09",
-          "c": 336.64
-        },
-        {
-          "d": "10-12",
-          "c": 340.97
-        },
-        {
-          "d": "10-13",
-          "c": 341.27
-        },
-        {
-          "d": "10-14",
-          "c": 342.96
-        },
-        {
-          "d": "10-15",
-          "c": 342.0
-        }
-      ]
-    },
-    {
-      "id": "d72568f41e7fb5a8",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T20:27:35+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Nvidia, Apple each gave $25 million for Trump's ballroom,",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 217.23,
-      "change": -1.84,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
-      "image": null,
-      "headline": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-16",
-          "c": 213.9
-        },
-        {
-          "d": "09-17",
-          "c": 219.34
-        },
-        {
-          "d": "09-18",
-          "c": 222.27
-        },
-        {
-          "d": "09-21",
-          "c": 227.38
-        },
-        {
-          "d": "09-22",
-          "c": 228.87
-        },
-        {
-          "d": "09-23",
-          "c": 225.51
-        },
-        {
-          "d": "09-24",
-          "c": 224.58
-        },
-        {
-          "d": "09-25",
-          "c": 225.07
-        },
-        {
-          "d": "09-28",
-          "c": 228.86
-        },
-        {
-          "d": "09-29",
-          "c": 227.21
-        },
-        {
-          "d": "09-30",
-          "c": 228.38
-        },
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        }
-      ]
-    },
-    {
-      "id": "5b59e965dc5dbde6",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T19:54:41+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Trump administration sues California to block counting of alleged noncitizen mail ballots The Trump",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-06-02T173428Z_1240017471_RC2SLLAG5UY8_RTRMADP_3_USA-ELECTION-CALIFORNIA-1-1024x683.jpg",
-      "headline": "Trump administration sues California to block counting of alleged noncitizen mail ballots",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "bc5cbabc3537928f",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T19:15:00+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "New York Post",
-      "type": "news",
-      "quote": "JPMorgan says Trump still has a personal bank account as it seeks",
-      "company": "Jpmorgan",
-      "ticker": "JPM",
-      "price": 335.53,
-      "change": 0.07,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSW5ub0tzMUR3bVNRQ2t2WGhiQ3JYdllxZVlzTG5jeTl5RnlGZGt2emZoS1gzaGZOb05aM0V2OEg2VUZ3ZjdZdEpraHoycWtPYlEySEpvS0xSTVg3cHROYmV2NlItcU8xSzd3d3ZzbUc2V3ZxUXB6bm1hWm9tbzJrVzBBOUhPTzJpdXgzdXdEcWlGcVVoMVNibEV4aE5ISDgwaTF1NTZ2X2tfQWdzcnNib1h0WHdaYXRSeWFTZUV2X0ExUHRHdDVMUzFMT3hJekE?oc=5",
-      "image": null,
-      "headline": "JPMorgan says Trump still has a personal bank account as it seeks to toss $5B 'debanking' lawsuit - New York Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-16",
-          "c": 347.19
-        },
-        {
-          "d": "09-17",
-          "c": 347.58
-        },
-        {
-          "d": "09-18",
-          "c": 347.93
-        },
-        {
-          "d": "09-21",
-          "c": 350.29
-        },
-        {
-          "d": "09-22",
-          "c": 338.31
-        },
-        {
-          "d": "09-23",
-          "c": 335.85
-        },
-        {
-          "d": "09-24",
-          "c": 336.88
-        },
-        {
-          "d": "09-25",
-          "c": 341.36
-        },
-        {
-          "d": "09-28",
-          "c": 334.92
-        },
-        {
-          "d": "09-29",
-          "c": 333.32
-        },
-        {
-          "d": "09-30",
-          "c": 329.19
-        },
-        {
-          "d": "10-01",
-          "c": 331.53
-        },
-        {
-          "d": "10-02",
-          "c": 330.73
-        },
-        {
-          "d": "10-05",
-          "c": 330.73
-        },
-        {
-          "d": "10-06",
-          "c": 331.28
-        },
-        {
-          "d": "10-07",
-          "c": 329.58
-        },
-        {
-          "d": "10-08",
-          "c": 331.42
-        },
-        {
-          "d": "10-09",
-          "c": 332.99
-        },
-        {
-          "d": "10-12",
-          "c": 334.3
-        },
-        {
-          "d": "10-13",
-          "c": 331.43
-        },
-        {
-          "d": "10-14",
-          "c": 335.28
-        },
-        {
-          "d": "10-15",
-          "c": 335.53
-        }
-      ]
-    },
-    {
-      "id": "103b9b27f40d7a21",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T15:23:48+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "tired' of dealing with the Iranians, GOP senator says - Fox Business Trump is 'quite tired' of dealing with the",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.92,
-      "change": 2.23,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wd2dLRHFBZDB6bTAzVUt4Uk00VkdXaWRHdm9zWGxHZnRwRXVQZHYza3RLRWk3VE53a3p4Z0dmVVVsVk5wbExLbjlaNktrSFMwZjdIX0dVdGp4TEk?oc=5",
-      "image": null,
-      "headline": "Trump is 'quite tired' of dealing with the Iranians, GOP senator says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 56.92
-        }
-      ]
-    },
-    {
-      "id": "458b04e6846078ff",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T13:25:00+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Trump\u2019s truth social has seen a staggering drop in users despite president\u2019s",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.33,
-      "change": 1.52,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dmemYzNlNfdmRHOUVER0x4U1lIbzFvaVdYZjRWMkQ5S1kwTmx2UFJFbl9lcDF4WkhaUnREejNtdlNoeTNWWHBDcnFfLTZsTExVYUFIRjlCY0R2WTFnUGFxUW9tdWI5Yl8tYVUtT1RKYXdpYzZ6anRVRHNOWndqUW1kcWhGYlNmYllKa0pvUS1GbXhUNURacEpRZDFybTdLbk1PeEZR?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s truth social has seen a staggering drop in users despite president\u2019s constant posting - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.33
-        }
-      ]
-    },
-    {
-      "id": "256300c876a69e5c",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T13:25:00+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social sees drop in users despite president\u2019s constant posting -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.22,
-      "change": -2.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dmemYzNlNfdmRHOUVER0x4U1lIbzFvaVdYZjRWMkQ5S1kwTmx2UFJFbl9lcDF4WkhaUnREejNtdlNoeTNWWHBDcnFfLTZsTExVYUFIRjlCY0R2WTFnUGFxUW9tdWI5Yl8tYVUtT1RKYXdpYzZ6anRVRHNOWndqUW1kcWhGYlNmYllKa0pvUS1GbXhUNURacEpRZDFybTdLbk1PeEZR?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social sees drop in users despite president\u2019s constant posting - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 7.22
-        }
-      ]
-    },
-    {
-      "id": "987730ce1ac1ff17",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T10:52:51+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "'super range' for advanced weapons testing in Montana - Fox News Trump announces new military 'super range' for",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.62,
-      "change": 1.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CWkJHS3VxaFU0dVJPeWlET2xWaGR5QjFDbDRKNEhBMVhfXzhPZTVUTHBGRS1TUjNRQmxpd0dyT3VmUllFMGhwb3cwb1JMUHNzLWNHbFBn?oc=5",
-      "image": null,
-      "headline": "Trump announces new military 'super range' for advanced weapons testing in Montana - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-16",
-          "c": 59.15
-        },
-        {
-          "d": "09-17",
-          "c": 58.43
-        },
-        {
-          "d": "09-18",
-          "c": 57.74
-        },
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 56.62
-        }
-      ]
-    },
-    {
-      "id": "951911aa4bc70937",
-      "date": "Thu, 15 Oct 2026",
-      "ts": "2026-10-15T10:24:47+00:00",
-      "date_display": "Oct 15, 2026",
-      "source": "The Daily Beast",
-      "type": "news",
-      "quote": "Trump\u2019s Fans Ditch Truth Social in Stunning Exodus - The Daily Beast Trump\u2019s Fans Ditch",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 7.22,
-      "change": -6.84,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUtzVmc0dDN4dlVMaHVsVmkxN21wM2xsX2ljNlgyUU1nMmlCbGJTaVhGUEtPLXY2QjJrX3FoNjFVbzBQWEo1dnY0NG5uZHdKUmFNUXY1dlY1dVp0M1JibHVXWURMRVRTSVcwcDdLVlVKU0VqSEZfcTN3N2htX0NUMXhQVlktZw?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Fans Ditch Truth Social in Stunning Exodus - The Daily Beast",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-15",
-          "c": 8.58
-        },
-        {
-          "d": "09-16",
-          "c": 8.55
-        },
-        {
-          "d": "09-17",
-          "c": 8.68
-        },
-        {
-          "d": "09-18",
-          "c": 8.85
-        },
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
         }
       ]
     }
