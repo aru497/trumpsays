@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:37:40.473804+00:00",
+  "updated_at": "2026-11-15T02:14:23.630672+00:00",
   "count": 400,
   "mentions": [
     {
@@ -107,6 +107,222 @@
         {
           "d": "11-13",
           "c": 4.64
+        }
+      ]
+    },
+    {
+      "id": "4f5581dcf04fb605",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T17:05:00+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
+      "image": null,
+      "headline": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "4f24fb74a8f04822",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T17:05:00+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek Nvidia Scandal Deals Blow to Trump\u2019s Tariff",
+      "company": "Strategy",
+      "ticker": "MSTR",
+      "price": 111.62,
+      "change": -2.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
+      "image": null,
+      "headline": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 151.29
+        },
+        {
+          "d": "10-16",
+          "c": 136.83
+        },
+        {
+          "d": "10-19",
+          "c": 136.02
+        },
+        {
+          "d": "10-20",
+          "c": 142.72
+        },
+        {
+          "d": "10-21",
+          "c": 153.48
+        },
+        {
+          "d": "10-22",
+          "c": 145.8
+        },
+        {
+          "d": "10-23",
+          "c": 146.01
+        },
+        {
+          "d": "10-26",
+          "c": 139.82
+        },
+        {
+          "d": "10-27",
+          "c": 141.4
+        },
+        {
+          "d": "10-28",
+          "c": 145.16
+        },
+        {
+          "d": "10-29",
+          "c": 141.62
+        },
+        {
+          "d": "10-30",
+          "c": 130.51
+        },
+        {
+          "d": "11-02",
+          "c": 130.76
+        },
+        {
+          "d": "11-03",
+          "c": 135.63
+        },
+        {
+          "d": "11-04",
+          "c": 142.54
+        },
+        {
+          "d": "11-05",
+          "c": 129.3
+        },
+        {
+          "d": "11-06",
+          "c": 128.93
+        },
+        {
+          "d": "11-09",
+          "c": 125.59
+        },
+        {
+          "d": "11-10",
+          "c": 121.07
+        },
+        {
+          "d": "11-11",
+          "c": 122.35
+        },
+        {
+          "d": "11-12",
+          "c": 114.41
+        },
+        {
+          "d": "11-13",
+          "c": 111.62
         }
       ]
     },
@@ -863,6 +1079,114 @@
         {
           "d": "11-13",
           "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "e81dce0f1b36a3a3",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T04:32:46+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "SFG Media",
+      "type": "news",
+      "quote": "Trump\u2019s Media Company, Which Owns Truth Social, May Need to Repay Investors Up to $1 Billion by the End",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.64,
+      "change": -6.64,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DaFhEUXlJOWVvNEg3bXVjaVNNQm9BN0ZDaWZQV19yZnhUMmNkbDZNeTJmci1rYWhpdkozRUlmN2ZaU2JPeTN6TjNvTF9xNnpzbTBCNWljcmlWU3hReHBLUUs5Z0tsQS1zM0tjclUyMGtEOUg2VGxZ?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Media Company, Which Owns Truth Social, May Need to Repay Investors Up to $1 Billion by the End of November - SFG Media",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 7.4
+        },
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
         }
       ]
     },
@@ -10278,6 +10602,114 @@
         {
           "d": "11-12",
           "c": 166.19
+        }
+      ]
+    },
+    {
+      "id": "4d722a247a01303b",
+      "date": "Thu, 12 Nov 2026",
+      "ts": "2026-11-12T14:42:20+00:00",
+      "date_display": "Nov 12, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Planning Nvidia investigations, top Democrats tell Trump administration to",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 162.85,
+      "change": -2.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHYzekFJTXVGMlljVzl2aEZKQUFXRktBVnBzVG42ZWJWbHBUVXltcWRWaHhpdUVuZmtCQWc2MUF4NEk4SVY4N3lzRjZ0WVIzRU5DXzMzSmVYN3dhMzFzTW9qWmM0aE4wMmd4cnBNWTdmRG0wQW5MbXNobklzcGFwTjR3MmhFbDYzVnFDQ2lmUkEyOUdqNDFodVFqUkFrc0h1X2RSRXlpWmtrcjgzSm5nMC04WFhSWm1KTWx2b2thQ3FCeEx4Sk9tTGdiLXB0RkFDRkQ4bkx5d3h3aXY1dDgtb0MtT1d4Zw?oc=5",
+      "image": null,
+      "headline": "Planning Nvidia investigations, top Democrats tell Trump administration to 'preserve all records' - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-15",
+          "c": 217.23
+        },
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
         }
       ]
     },
@@ -40654,422 +41086,6 @@
         {
           "d": "10-20",
           "c": 6.43
-        }
-      ]
-    },
-    {
-      "id": "060e8c50c6aa691d",
-      "date": "Mon, 19 Oct 2026",
-      "ts": "2026-10-19T17:26:04+00:00",
-      "date_display": "Oct 19, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump\u2019s DJT Falls to All-Time Lows. It\u2019s Still Not Too Late to Sell",
-      "company": "Djt",
-      "ticker": "DJT",
-      "price": 6.43,
-      "change": 0.0,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFhxMmtpSWphLWh3ZEVOaTJ4c1VCdUQ4NEZvRjRCeUFRYm1kd0ZpbmlzOW16YkJjZlQwaFZkXzZIOFFHanZ3eGp3REhTeUYzMlVRZ0VhU3c3ZDJJYzZ6SV9SaElGNWtKMG84M2ZvNkdTdnQ3djN4eUlnYmR0WW1jdE5uNi1OQTlXbFJyR21waDBicFZk?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s DJT Falls to All-Time Lows. It\u2019s Still Not Too Late to Sell the Stock. - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.43
-        }
-      ]
-    },
-    {
-      "id": "022582bee3f571f9",
-      "date": "Mon, 19 Oct 2026",
-      "ts": "2026-10-19T16:01:16+00:00",
-      "date_display": "Oct 19, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "measuring stick, either as a source of praise or target for ridicule.",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 153.24,
-      "change": -0.66,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/trumps-new-pitch-for-republican-candidates-theyre-really-good-looking",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-19T155140Z_1443136219_RC2F6OAK34O9_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-      "headline": "Trump's new pitch for Republican candidates? They're really good looking",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 157.71
-        },
-        {
-          "d": "09-22",
-          "c": 159.02
-        },
-        {
-          "d": "09-23",
-          "c": 156.26
-        },
-        {
-          "d": "09-24",
-          "c": 156.15
-        },
-        {
-          "d": "09-25",
-          "c": 157.45
-        },
-        {
-          "d": "09-28",
-          "c": 158.43
-        },
-        {
-          "d": "09-29",
-          "c": 156.43
-        },
-        {
-          "d": "09-30",
-          "c": 156.69
-        },
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.24
-        }
-      ]
-    },
-    {
-      "id": "376b6d29422633c0",
-      "date": "Mon, 19 Oct 2026",
-      "ts": "2026-10-19T12:49:06+00:00",
-      "date_display": "Oct 19, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Likes Walt Disney (DIS). Time to Buy The Stock? - Yahoo Finance Trump Likes",
-      "company": "Disney",
-      "ticker": "DIS",
-      "price": 109.75,
-      "change": -0.76,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0tUOVFtWkpDaFZpM0VXM1dybXlXMF94ZVh5SGYxRE82eUtRNV9qeEtRYnFlZTZXaW9aRHd5SDRSdHAwcDA1VUFxanBwNHBxeDJEUmYxMEkzdWk4aXpKQVVpSEZMLWVZN0pFZl8xTnZJUWt6OGpxc2lVX0RHZUFJQ1VKMU1XdkxjYjF5Q3pLN2NsZklOZHlJ?oc=5",
-      "image": null,
-      "headline": "Trump Likes Walt Disney (DIS). Time to Buy The Stock? - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 104.23
-        },
-        {
-          "d": "09-22",
-          "c": 103.82
-        },
-        {
-          "d": "09-23",
-          "c": 103.46
-        },
-        {
-          "d": "09-24",
-          "c": 105.56
-        },
-        {
-          "d": "09-25",
-          "c": 106.15
-        },
-        {
-          "d": "09-28",
-          "c": 105.59
-        },
-        {
-          "d": "09-29",
-          "c": 105.41
-        },
-        {
-          "d": "09-30",
-          "c": 104.9
-        },
-        {
-          "d": "10-01",
-          "c": 101.33
-        },
-        {
-          "d": "10-02",
-          "c": 102.19
-        },
-        {
-          "d": "10-05",
-          "c": 103.61
-        },
-        {
-          "d": "10-06",
-          "c": 104.03
-        },
-        {
-          "d": "10-07",
-          "c": 104.75
-        },
-        {
-          "d": "10-08",
-          "c": 107.02
-        },
-        {
-          "d": "10-09",
-          "c": 108.05
-        },
-        {
-          "d": "10-12",
-          "c": 108.49
-        },
-        {
-          "d": "10-13",
-          "c": 108.58
-        },
-        {
-          "d": "10-14",
-          "c": 108.99
-        },
-        {
-          "d": "10-15",
-          "c": 110.68
-        },
-        {
-          "d": "10-16",
-          "c": 110.59
-        },
-        {
-          "d": "10-19",
-          "c": 109.75
-        }
-      ]
-    },
-    {
-      "id": "08f8945909252646",
-      "date": "Mon, 19 Oct 2026",
-      "ts": "2026-10-19T12:33:59+00:00",
-      "date_display": "Oct 19, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "in America\u2019 as Billionaires Push Direct Donations - The New York Times Musk Pledges SpaceX Stock for \u2018Every Kid in America\u2019 as",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 67.78,
-      "change": -1.68,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckE2dFR2Rkx1NUU3SG42MGRCRndvR1B1TVBEZHNZREQza1ZieFk4NXRoQkRDbUVvQ05WMHYzX19seFRGSG1idzlTMlZnTFVYSWpHOGc0dmJpQXdqUGR4MDBXM0YtdjNDMWpKT1hYQU9wNDAtVnJwa09YQWFLc0dfUTRuOW4yNE0xMXFCdzViUHJXU21ESlVR?oc=5",
-      "image": null,
-      "headline": "Musk Pledges SpaceX Stock for \u2018Every Kid in America\u2019 as Billionaires Push Direct Donations - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 70.28
-        },
-        {
-          "d": "09-22",
-          "c": 65.22
-        },
-        {
-          "d": "09-23",
-          "c": 61.67
-        },
-        {
-          "d": "09-24",
-          "c": 62.82
-        },
-        {
-          "d": "09-25",
-          "c": 63.6
-        },
-        {
-          "d": "09-28",
-          "c": 63.94
-        },
-        {
-          "d": "09-29",
-          "c": 62.1
-        },
-        {
-          "d": "09-30",
-          "c": 63.47
-        },
-        {
-          "d": "10-01",
-          "c": 63.48
-        },
-        {
-          "d": "10-02",
-          "c": 62.47
-        },
-        {
-          "d": "10-05",
-          "c": 63.77
-        },
-        {
-          "d": "10-06",
-          "c": 63.84
-        },
-        {
-          "d": "10-07",
-          "c": 64.9
-        },
-        {
-          "d": "10-08",
-          "c": 66.6
-        },
-        {
-          "d": "10-09",
-          "c": 66.32
-        },
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
         }
       ]
     }
