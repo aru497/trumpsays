@@ -1,7 +1,1843 @@
 {
-  "updated_at": "2026-11-16T08:07:58.800189+00:00",
+  "updated_at": "2026-11-16T18:43:17.171726+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "4cbefa69bd41b072",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T18:06:42+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says he would not mind seeing Jensen Huang return as Nvidia CEO - Reuters Trump says he would not mind seeing Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KdEpoZm5LYWhST2Jib2NjRWtiT2xONDhfZndLVjZTTFhIREx2MnlnYWVRVGZzTTFFcGZhckZJeVJFMGhMbWlnWnluODdhOWE0bU1tNjduNFhMU1ktVjdpVElyY09XWWM?oc=5",
+      "image": null,
+      "headline": "Trump says he would not mind seeing Jensen Huang return as Nvidia CEO - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "f497f0878e03dd21",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T18:06:26+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched - BBC",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
+      "image": null,
+      "headline": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched - BBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "a8b77842290f39b1",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T18:00:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "The Independent",
+      "type": "news",
+      "quote": "Trump says Jensen Huang returning to Nvidia \u2018certainly isn\u2019t a bad idea\u2019 as he downplays Chinese spy",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXVtQklJYjhyamZnUG5KN2ptMmhPNzRjY2kxaURvNzdjRXpEQU13M3hTSGR4QnF4T0lVb3dlNEl2YUxCcVNvS1BUbWI5WHBUQkZsLWFLeTVBRmpqaHZHTnh2dndxOWg2RnFMcVpRaXloaXJGdlFPTXZzOFFBZWx2MVE0RVN6RGRqbDdkbFJfRVJBSHBFTGcxNXl1MG9lRGxXOXhrY3R4ZGY?oc=5",
+      "image": null,
+      "headline": "Trump says Jensen Huang returning to Nvidia \u2018certainly isn\u2019t a bad idea\u2019 as he downplays Chinese spy allegation - The Independent",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "6866a51d0c567095",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:56:58+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump backs potential return of Jensen Huang as Nvidia CEO - Reuters Trump backs potential return of Jensen Huang",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXlLTW9ld2U2cjRMU3pVOFBtOEhlQzE2TnlxazhiOHltQU9icEhwRmhvUFRhWC1uQzJ0bldzQmhJcnNsMmVFVHJhY1hEcWdNcG9KLWJoWlVKSlNHOEZvREdCQjhsQTl5cm5FdXVFNmk4VGFSOHh6ZVlaZUh4NVE0MXUyMVNmNHhvbm1mLTlyR3VGQ25uM094OTdsUDJQNGFfaGxST0VyanJCdENNS213?oc=5",
+      "image": null,
+      "headline": "Trump backs potential return of Jensen Huang as Nvidia CEO - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "895247f4b8c65bd2",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:32:58+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "The Washington Post",
+      "type": "news",
+      "quote": "Trump\u2019s stake in Nvidia grew to as much as $62 million before scandal broke out -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "9e7b865621b8f31a",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:13:58+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "type": "news",
+      "quote": "says he 'would not mind' if Jensen Huang is reinstated as Nvidia CEO - ABC News - Breaking News, Latest News and Videos",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUlQTWU2SGY4X1ZiRHRsT0dBaTRFMC03ckFRaGZxZzlLem5EaE94clZ3b0hEN0twUEh2RWdjX3QyZnRORWdtYnRQdmg5Yjk5UDZWaHpvZVg3Z3ZmMTVUZlNENWl4T1BBUE1NY0FQdHFLVkZPYzNGQWF3YmZRZFRreHZYLU05N0xoajdnbEU5VnJYVFRabnVVbtIBngFBVV95cUxOVkpKVTRZNi1DUEpPYklpMnd6UFprSFBBRUJIWDBuWUlCWm95ZGJBRzZLY2h5UmtuSnNnSHJfbkVqaDNWWlA4SnNPTk40VldOWmZfUXRhVkR2cnUxMUpOb1V2aGtESHNxSGFNakZtZ2d0M0YtUWlwdTdWMkt6ajJTWFl3NE1iRW0wR1ZHNmg5V0NqTXJQOTZiRTAzcmE2QQ?oc=5",
+      "image": null,
+      "headline": "Trump says he 'would not mind' if Jensen Huang is reinstated as Nvidia CEO - ABC News - Breaking News, Latest News and Videos",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "b696a602923ab159",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:02:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Deadline and TAE Merger Vote; Rumble Tumbles 11%, Meta Declines 2% - 24/7 Wall St. Trump Media Sinks 12% Ahead of",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 624.31,
+      "change": -2.71,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUxTUVdfTm04SGMwazYyWTluajc4LTZHVjZNSnJNTGxxUXNpd28xVDQwN1E5OW92U0ZOQXl6UVR1Y1dfY0E5a0t3bkRaWU1LS1lLZEtiblpkWkNxMklfM2h2X1JvZkkwckJrY3JVYlNvM2l3Y3lSVDVMdjVHc0x6UVR3ZmdZZU1MRF9vQmwyWmRlY2UxeXdoWVJfcG5XUWpJdkY2bE0zVVE1QV9NMmlKdkhEVnVPNy13TUp4ZnVHN3lBSkFfb1hlSlR1M2hvQ2ZVazZseEtoQjlsQkFMT2ZOWmsyZHE5VE10?oc=5",
+      "image": null,
+      "headline": "Trump Media Sinks 12% Ahead of Convertible-Note Deadline and TAE Merger Vote; Rumble Tumbles 11%, Meta Declines 2% - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 709.33
+        },
+        {
+          "d": "10-19",
+          "c": 705.44
+        },
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 697.52
+        },
+        {
+          "d": "10-22",
+          "c": 648.85
+        },
+        {
+          "d": "10-23",
+          "c": 642.62
+        },
+        {
+          "d": "10-26",
+          "c": 630.56
+        },
+        {
+          "d": "10-27",
+          "c": 620.19
+        },
+        {
+          "d": "10-28",
+          "c": 612.49
+        },
+        {
+          "d": "10-29",
+          "c": 624.52
+        },
+        {
+          "d": "10-30",
+          "c": 614.99
+        },
+        {
+          "d": "11-02",
+          "c": 606.73
+        },
+        {
+          "d": "11-03",
+          "c": 621.03
+        },
+        {
+          "d": "11-04",
+          "c": 630.0
+        },
+        {
+          "d": "11-05",
+          "c": 605.08
+        },
+        {
+          "d": "11-06",
+          "c": 610.15
+        },
+        {
+          "d": "11-09",
+          "c": 641.37
+        },
+        {
+          "d": "11-10",
+          "c": 641.39
+        },
+        {
+          "d": "11-11",
+          "c": 628.77
+        },
+        {
+          "d": "11-12",
+          "c": 623.61
+        },
+        {
+          "d": "11-13",
+          "c": 641.69
+        },
+        {
+          "d": "11-16",
+          "c": 624.31
+        }
+      ]
+    },
+    {
+      "id": "0f69f11a8772d187",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:02:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Sinks 12% Ahead of Convertible-Note Deadline and TAE",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.01,
+      "change": -13.58,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUxTUVdfTm04SGMwazYyWTluajc4LTZHVjZNSnJNTGxxUXNpd28xVDQwN1E5OW92U0ZOQXl6UVR1Y1dfY0E5a0t3bkRaWU1LS1lLZEtiblpkWkNxMklfM2h2X1JvZkkwckJrY3JVYlNvM2l3Y3lSVDVMdjVHc0x6UVR3ZmdZZU1MRF9vQmwyWmRlY2UxeXdoWVJfcG5XUWpJdkY2bE0zVVE1QV9NMmlKdkhEVnVPNy13TUp4ZnVHN3lBSkFfb1hlSlR1M2hvQ2ZVazZseEtoQjlsQkFMT2ZOWmsyZHE5VE10?oc=5",
+      "image": null,
+      "headline": "Trump Media Sinks 12% Ahead of Convertible-Note Deadline and TAE Merger Vote; Rumble Tumbles 11%, Meta Declines 2% - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.01
+        }
+      ]
+    },
+    {
+      "id": "e23c379fe89c6d4f",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T16:47:43+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump Media faces possible $1 billion debt repayment as stock nears",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.01,
+      "change": -13.58,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMElzZFpVRVdZdFB2WFY3NjVyRVUzeHhWcDE5WGZoR3BjRXhkbUZJMkhYdF9Cb2t6X3YyVEltQ1VwZ3JfbHdtbTRLX1dQWVdqTmFuYk1IaFczNUJVelljOG83NjlRZXFsaGJtUE45YlF6VFJEVjZtNTBlcDRRN3hJRi1Ycy1EM2tteDF0SGhSeGNJRlduVlNCRmtETzFnSlFCVjdTVmlhTHVZVThCdnUteUNycW1RdVdmaHpCUWJIRmNGb2pGaGZrSG1qQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media faces possible $1 billion debt repayment as stock nears record lows - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 6.99
+        },
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.01
+        }
+      ]
+    },
+    {
+      "id": "45eb4050edbd6c9d",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T15:56:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "CBS News",
+      "type": "news",
+      "quote": "Trump says he \"would not mind\" if Nvidia reinstated Jensen Huang - CBS News Trump says he \"would",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HM0dQU29zb3AycnFqRlpIbTNsTmFaRWNDVWs5NzNsWVYySEhYRXBGSm1OSm9Lamt5UE1oZnZjZG84SXpkdDdvUXJPWGNDV1hVSGxhbTM2cUxRWUJIQVFZN0VqLURQQQ?oc=5",
+      "image": null,
+      "headline": "Trump says he \"would not mind\" if Nvidia reinstated Jensen Huang - CBS News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "af8c41a185784033",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T15:47:25+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump Supports Reinstating Jensen Huang As Nvidia CEO\u2014As Comeback Push Grows - Forbes Trump Supports",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUZSWEJEVndGcnAtNUNmNHRveHFlM1FESEFta3ljOUVuRWdMbFotMGtyeTJmcGIwOU9YS0JLQVBMMHN2ZE0wR0pfY19lcF9ieURvR3FDeV9rcS1lRng4cERuMmxmcDNoaG9pcmlrRk52VjJPQlhGdjZmTFRfSTcweVhubEIzMmk4M0dfUjF1MjRxNUg1dXo4NDMwNjZRWnhfenBGS1Nvc01xV0NiN1YzQm80QXFXNzh5OHd0UjVLOA?oc=5",
+      "image": null,
+      "headline": "Trump Supports Reinstating Jensen Huang As Nvidia CEO\u2014As Comeback Push Grows - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "072a119b7ea09099",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T15:41:04+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "BNN Bloomberg",
+      "type": "news",
+      "quote": "Trump says he would not mind Huang being reinstated as Nvidia CEO - BNN Bloomberg Trump says he would not mind Huang",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2Z2emw4U3NzV1ZyZE1zVmFyeHQ1Z2F2MWFUZ1g2LTFPRFpFNFkyWU5fMDVqeXI5VHdLYjhuWTVhTEp2V0hOdGtvNXUySE01c3d3QURWaUdHaEJUMjE5SlF3TklJeUNScEZNTzVTVVFEWDJQVmxiZ1RVeVlxeV9taklpcmlhVnFXeWhYZWRjbnQ4c2dJaWxfRFZiZ1JaT1Z6QzY3ZkZXOXhBd2JKOW56X1ZDX0xDMWFVUFkwUDB4Y3NQWkd5ZFE?oc=5",
+      "image": null,
+      "headline": "Trump says he would not mind Huang being reinstated as Nvidia CEO - BNN Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "d67bcbdebdff6a46",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T15:15:53+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "The Times",
+      "type": "news",
+      "quote": "Trump says he \u2018wouldn\u2019t mind\u2019 if Jensen Huang returned as Nvidia boss - The Times Trump says he \u2018wouldn\u2019t mind\u2019 if Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUctaV9IX0daR1VIeGM5YnVaRm5UY3p4NkE1WjN5WFl4bEI2cGc3d0VieTBiclU1MXlwUF9yRllldmoxd0lJcHJMTk1qUkpvYXdhUE5NanQ4bUdqcEVCTDdLWHZDVWVnSFVSRjhEVG9qY0g1WTNYT1ZDOEt5LUJYVGZzOEFJTmVyOU5GdS05aTMzMGx4TTViSERxeDdfcGQxMGJnN0FNN0lfQkk5a2pTM1N2N3lDTUU?oc=5",
+      "image": null,
+      "headline": "Trump says he \u2018wouldn\u2019t mind\u2019 if Jensen Huang returned as Nvidia boss - The Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "b65db0f57baab031",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T14:58:09+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk - CNBC Trump says he's",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVZuVWJHaTJ6elZWYk81VFhVenZSVVJVa1NHb0lycThIQVBXZFNyNHZpNHVzZnNib28tOGt0XzdOMmotZkxCVXhnNFlrMk9wb09uRTZxdVBkSkNYbDVUcDFWV0M2czFlNmd2MzQ3RGMxdmp4elBTeGY1aGpteVB2TTNKeG9FUUpCaVBwRHAzbmNCUdIBlwFBVV95cUxPeDdvNW94aFJlaVExSzIyR19OWERVUGV2SWdiNUFkWWxQSF80U1VzTU90Z0FVX3BKMDl5LTJKZGRoNDl0MzNNWVdfX2t5R19KV0ZueGh5aU1zQ1FVTDduRXlIVTZLdV9tdFJBcmJ5VVlIbU9PdFVjT2tmaXlDV194NUY3UmF1Y3R4UGhteVdmUWo5eUUtSlBJ?oc=5",
+      "image": null,
+      "headline": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "c140af41ccf9ae34",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T12:47:58+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump's Nvidia stake grew to as much as $62 million, Washington Post",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajk2S3gxMEdjVExKMzV3QmljQnVtYk1fN2Z2LUdldndlNjlkbVdrc2hhbnkzdFNtSFE0UzNUbjFYT1JQY2ZJRlpEalZXeW5XcDZCYW5NWjhCVUFqQldQTmg0ZUVfY1lYTHZnTHdNTTBqem12eC0zNE1NVVgyaVcxMi10WmdwVnlCUDNFY2ZRdnVrdURLTDctZTY2VkRLaWZ0d1A1VmFrd1pYbnl2NVhhV3Fn?oc=5",
+      "image": null,
+      "headline": "Trump's Nvidia stake grew to as much as $62 million, Washington Post reports - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "103b7242fac56dd9",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T10:00:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout The trip to China marks Trump's second time this",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+      "image": null,
+      "headline": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "7346917619bfb4d0",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T07:24:23+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Scandal-Hit Nvidia Among Trump's Planned AI \u2018National Champions,\u2019 Report Says",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlJjekVJWVl1cGNEYlJUMHNETTVkTXRCbFJ1STE1My1LRDlYRENWTnRxd0E5MTdBRFJUb1pBRmxBQ1BKeHp5SUMzUnpEQWpqUDYza0JLaGZrMEhaQS1OZXoyVEJZbXozOW5IYVZDM1E3THl0alRpTXlpV0tZSDEzOXM1RW1OOFVGVC1IQUt1dFI4azlYX2xWSDlGR09SMU9ZOHg5ZzdudUdCOHhVUFNjdHBURzJWWXZ2MFVMajA4ZUxPVmxuMGc?oc=5",
+      "image": null,
+      "headline": "Scandal-Hit Nvidia Among Trump's Planned AI \u2018National Champions,\u2019 Report Says - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
     {
       "id": "04c81a4c6d21c565",
       "date": "Sun, 15 Nov 2026",
@@ -107,6 +1943,330 @@
         {
           "d": "11-13",
           "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "d2e07b1e0c130456",
+      "date": "Sun, 15 Nov 2026",
+      "ts": "2026-11-15T00:59:31+00:00",
+      "date_display": "Nov 15, 2026",
+      "source": "The Defiant",
+      "type": "news",
+      "quote": "Trump Says He Would Not Mind Huang Returning to Nvidia - The Defiant Trump Says He Would Not Mind Huang Returning",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnNpSVpqSVRYM3pzNlhWOFNYOUF1bGNDckxGTDdkd2ZXZkxGeWNFUllGaHJER2JUZHZZWXp1NGZ5ZG9wYjZEY2JGR0dSQ2I1LWp0RzA4MjBpVzh0NHRCNnVZYmt1bVA2MVJMNHdzLXNrMHhtRVRQYzUxSkdVaHpqVlVmdTgwT3hBa194MWI2cVlLZw?oc=5",
+      "image": null,
+      "headline": "Trump Says He Would Not Mind Huang Returning to Nvidia - The Defiant",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "7a363a912b32d855",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T21:50:17+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia - The New York Times How Jensen Huang\u2019s Secret Led to His",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 155.62,
+      "change": -4.44,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
+      "image": null,
+      "headline": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 214.13
+        },
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "1a6589075319af7d",
+      "date": "Sat, 14 Nov 2026",
+      "ts": "2026-11-14T21:50:17+00:00",
+      "date_display": "Nov 14, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Jensen Huang\u2019s Secret Led to His Downfall at Nvidia - The New York Times How Jensen Huang\u2019s Secret Led to His Downfall at",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.26,
+      "change": 0.62,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
+      "image": null,
+      "headline": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-16",
+          "c": 67.78
+        },
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.26
         }
       ]
     },
@@ -39423,1883 +41583,6 @@
         {
           "d": "10-21",
           "c": 334.76
-        }
-      ]
-    },
-    {
-      "id": "1c0527c495b55dcc",
-      "date": "Thu, 22 Oct 2026",
-      "ts": "2026-10-22T09:55:00+00:00",
-      "date_display": "Oct 22, 2026",
-      "source": "Business Insider",
-      "type": "news",
-      "quote": "Trump says Google's CEO rejected his plan to change the Atlantic's name to",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 334.76,
-      "change": -1.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMC1KZEswRGZSV1A0Njh6bnd5QmNybnZJQzR4Q0hueEJaMGdwS3BCRUY1NlN0OHphejJ1ejhkNGJ3QzhyRG40aW5yZl9DQVdnanFrOVRKOUYwMzgxN01PYWc2VWY3bWZMWVVkVDYxNXlhZXRlMHJwMG4yS0NiTHk2RGljRUpodkY5NE9yVWNGOWN1Q3BlNVZXV0d3X0VUdlU?oc=5",
-      "image": null,
-      "headline": "Trump says Google's CEO rejected his plan to change the Atlantic's name to the 'Trump Ocean' - Business Insider",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 351.16
-        },
-        {
-          "d": "09-23",
-          "c": 337.83
-        },
-        {
-          "d": "09-24",
-          "c": 342.36
-        },
-        {
-          "d": "09-25",
-          "c": 343.92
-        },
-        {
-          "d": "09-28",
-          "c": 342.75
-        },
-        {
-          "d": "09-29",
-          "c": 340.92
-        },
-        {
-          "d": "09-30",
-          "c": 344.08
-        },
-        {
-          "d": "10-01",
-          "c": 338.24
-        },
-        {
-          "d": "10-02",
-          "c": 343.5
-        },
-        {
-          "d": "10-05",
-          "c": 346.47
-        },
-        {
-          "d": "10-06",
-          "c": 347.68
-        },
-        {
-          "d": "10-07",
-          "c": 350.5
-        },
-        {
-          "d": "10-08",
-          "c": 348.29
-        },
-        {
-          "d": "10-09",
-          "c": 351.66
-        },
-        {
-          "d": "10-12",
-          "c": 352.72
-        },
-        {
-          "d": "10-13",
-          "c": 353.78
-        },
-        {
-          "d": "10-14",
-          "c": 347.64
-        },
-        {
-          "d": "10-15",
-          "c": 349.22
-        },
-        {
-          "d": "10-16",
-          "c": 340.59
-        },
-        {
-          "d": "10-19",
-          "c": 344.18
-        },
-        {
-          "d": "10-20",
-          "c": 340.28
-        },
-        {
-          "d": "10-21",
-          "c": 334.76
-        }
-      ]
-    },
-    {
-      "id": "58d19aa75153558f",
-      "date": "Thu, 22 Oct 2026",
-      "ts": "2026-10-22T08:56:33+00:00",
-      "date_display": "Oct 22, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "enormously wealthy' As Elon Musk considers merging Tesla and SpaceX, tech journalist Kara Swisher examines his",
-      "company": "Tesla",
-      "ticker": "TSLA",
-      "price": 374.58,
-      "change": -3.08,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence",
-      "image": null,
-      "headline": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-23",
-          "c": 380.12
-        },
-        {
-          "d": "09-24",
-          "c": 377.94
-        },
-        {
-          "d": "09-25",
-          "c": 372.11
-        },
-        {
-          "d": "09-28",
-          "c": 357.45
-        },
-        {
-          "d": "09-29",
-          "c": 352.84
-        },
-        {
-          "d": "09-30",
-          "c": 354.81
-        },
-        {
-          "d": "10-01",
-          "c": 354.11
-        },
-        {
-          "d": "10-02",
-          "c": 370.59
-        },
-        {
-          "d": "10-05",
-          "c": 378.73
-        },
-        {
-          "d": "10-06",
-          "c": 380.68
-        },
-        {
-          "d": "10-07",
-          "c": 377.81
-        },
-        {
-          "d": "10-08",
-          "c": 375.0
-        },
-        {
-          "d": "10-09",
-          "c": 382.7
-        },
-        {
-          "d": "10-12",
-          "c": 378.03
-        },
-        {
-          "d": "10-13",
-          "c": 375.23
-        },
-        {
-          "d": "10-14",
-          "c": 367.16
-        },
-        {
-          "d": "10-15",
-          "c": 362.44
-        },
-        {
-          "d": "10-16",
-          "c": 354.72
-        },
-        {
-          "d": "10-19",
-          "c": 368.06
-        },
-        {
-          "d": "10-20",
-          "c": 373.71
-        },
-        {
-          "d": "10-21",
-          "c": 386.47
-        },
-        {
-          "d": "10-22",
-          "c": 374.58
-        }
-      ]
-    },
-    {
-      "id": "44a5ee1038a93904",
-      "date": "Thu, 22 Oct 2026",
-      "ts": "2026-10-22T08:56:33+00:00",
-      "date_display": "Oct 22, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "SpaceX, tech journalist Kara Swisher examines his business strategy, growing political influence and power over the war in",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 145.8,
-      "change": -5.0,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence",
-      "image": null,
-      "headline": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-23",
-          "c": 162.2
-        },
-        {
-          "d": "09-24",
-          "c": 161.61
-        },
-        {
-          "d": "09-25",
-          "c": 158.61
-        },
-        {
-          "d": "09-28",
-          "c": 157.14
-        },
-        {
-          "d": "09-29",
-          "c": 154.67
-        },
-        {
-          "d": "09-30",
-          "c": 153.09
-        },
-        {
-          "d": "10-01",
-          "c": 160.5
-        },
-        {
-          "d": "10-02",
-          "c": 160.01
-        },
-        {
-          "d": "10-05",
-          "c": 164.43
-        },
-        {
-          "d": "10-06",
-          "c": 164.55
-        },
-        {
-          "d": "10-07",
-          "c": 153.37
-        },
-        {
-          "d": "10-08",
-          "c": 151.47
-        },
-        {
-          "d": "10-09",
-          "c": 154.34
-        },
-        {
-          "d": "10-12",
-          "c": 152.68
-        },
-        {
-          "d": "10-13",
-          "c": 152.18
-        },
-        {
-          "d": "10-14",
-          "c": 143.24
-        },
-        {
-          "d": "10-15",
-          "c": 151.29
-        },
-        {
-          "d": "10-16",
-          "c": 136.83
-        },
-        {
-          "d": "10-19",
-          "c": 136.02
-        },
-        {
-          "d": "10-20",
-          "c": 142.72
-        },
-        {
-          "d": "10-21",
-          "c": 153.48
-        },
-        {
-          "d": "10-22",
-          "c": 145.8
-        }
-      ]
-    },
-    {
-      "id": "91e621d261970254",
-      "date": "Thu, 22 Oct 2026",
-      "ts": "2026-10-22T07:00:00+00:00",
-      "date_display": "Oct 22, 2026",
-      "source": "Law Commentary",
-      "type": "news",
-      "quote": "Trump Says Google CEO Rejected His Plan to Rename Atlantic Ocean - Law",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 320.21,
-      "change": -1.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHM1RGs5aVM2QlJqdXdtSHVqT1ladnF5a3ZLOXpYWUg3c1FaOEVJUm85QVpwQkhiTmwwSV9oQzlxczhNZEp5YUZLZ3dESGF0bU4ya1N0eUtCb3ZzSkVtcDdWY3N6VkhUbnRadV84UU5oajhhQmZLeWF6LXNkeUcxZDRxcw?oc=5",
-      "image": null,
-      "headline": "Trump Says Google CEO Rejected His Plan to Rename Atlantic Ocean - Law Commentary",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-24",
-          "c": 342.36
-        },
-        {
-          "d": "09-25",
-          "c": 343.92
-        },
-        {
-          "d": "09-28",
-          "c": 342.75
-        },
-        {
-          "d": "09-29",
-          "c": 340.92
-        },
-        {
-          "d": "09-30",
-          "c": 344.08
-        },
-        {
-          "d": "10-01",
-          "c": 338.24
-        },
-        {
-          "d": "10-02",
-          "c": 343.5
-        },
-        {
-          "d": "10-05",
-          "c": 346.47
-        },
-        {
-          "d": "10-06",
-          "c": 347.68
-        },
-        {
-          "d": "10-07",
-          "c": 350.5
-        },
-        {
-          "d": "10-08",
-          "c": 348.29
-        },
-        {
-          "d": "10-09",
-          "c": 351.66
-        },
-        {
-          "d": "10-12",
-          "c": 352.72
-        },
-        {
-          "d": "10-13",
-          "c": 353.78
-        },
-        {
-          "d": "10-14",
-          "c": 347.64
-        },
-        {
-          "d": "10-15",
-          "c": 349.22
-        },
-        {
-          "d": "10-16",
-          "c": 340.59
-        },
-        {
-          "d": "10-19",
-          "c": 344.18
-        },
-        {
-          "d": "10-20",
-          "c": 340.28
-        },
-        {
-          "d": "10-21",
-          "c": 334.76
-        },
-        {
-          "d": "10-22",
-          "c": 324.22
-        },
-        {
-          "d": "10-23",
-          "c": 320.21
-        }
-      ]
-    },
-    {
-      "id": "a8dcf7af6ce5e19f",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T19:47:18+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 92.96,
-      "change": 1.39,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
-      "image": null,
-      "headline": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 123.86
-        },
-        {
-          "d": "09-23",
-          "c": 122.6
-        },
-        {
-          "d": "09-24",
-          "c": 127.39
-        },
-        {
-          "d": "09-25",
-          "c": 123.0
-        },
-        {
-          "d": "09-28",
-          "c": 116.03
-        },
-        {
-          "d": "09-29",
-          "c": 115.93
-        },
-        {
-          "d": "09-30",
-          "c": 120.23
-        },
-        {
-          "d": "10-01",
-          "c": 120.0
-        },
-        {
-          "d": "10-02",
-          "c": 119.33
-        },
-        {
-          "d": "10-05",
-          "c": 116.19
-        },
-        {
-          "d": "10-06",
-          "c": 112.5
-        },
-        {
-          "d": "10-07",
-          "c": 113.12
-        },
-        {
-          "d": "10-08",
-          "c": 107.08
-        },
-        {
-          "d": "10-09",
-          "c": 104.7
-        },
-        {
-          "d": "10-12",
-          "c": 101.35
-        },
-        {
-          "d": "10-13",
-          "c": 102.81
-        },
-        {
-          "d": "10-14",
-          "c": 98.12
-        },
-        {
-          "d": "10-15",
-          "c": 95.37
-        },
-        {
-          "d": "10-16",
-          "c": 89.85
-        },
-        {
-          "d": "10-19",
-          "c": 92.03
-        },
-        {
-          "d": "10-20",
-          "c": 91.69
-        },
-        {
-          "d": "10-21",
-          "c": 92.96
-        }
-      ]
-    },
-    {
-      "id": "ac919240c2e9f1d3",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T16:17:51+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "in prison. The decision leaves in place a lower-court block on the policy.",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T152112Z_876744793_RC2DWLACCLJZ_RTRMADP_3_USA-COURT-TRANSGENDER-PRISONS-1024x683.jpg",
-      "headline": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "25e6cf66958cba90",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T16:04:00+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "Deadline",
-      "type": "news",
-      "quote": "John Malone: Trump Officials Told Netflix \"No Chance\" Of WBD Merger - Deadline John Malone: Trump",
-      "company": "Netflix",
-      "ticker": "NFLX",
-      "price": 65.04,
-      "change": -5.31,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTZVMmZncnR5Si1EeFpoeTN2djI1MkdSUDZoeG56WjhPZjNqNkVLOHh5ejQzSXFEYXZTdFNxWXBUYWIzY25HbVQwWVFWX2ozajdDOVFwM2lGeFQtbHNDVXluYkg3dFNEMGdZeFI5SGhrZEl5eUhycmNzZ1h1QmJja0RZWVNKa2V6cWxmUU01UUNzZw?oc=5",
-      "image": null,
-      "headline": "John Malone: Trump Officials Told Netflix \"No Chance\" Of WBD Merger - Deadline",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 72.16
-        },
-        {
-          "d": "09-23",
-          "c": 71.36
-        },
-        {
-          "d": "09-24",
-          "c": 71.72
-        },
-        {
-          "d": "09-25",
-          "c": 71.15
-        },
-        {
-          "d": "09-28",
-          "c": 69.23
-        },
-        {
-          "d": "09-29",
-          "c": 70.3
-        },
-        {
-          "d": "09-30",
-          "c": 69.58
-        },
-        {
-          "d": "10-01",
-          "c": 67.85
-        },
-        {
-          "d": "10-02",
-          "c": 67.06
-        },
-        {
-          "d": "10-05",
-          "c": 67.5
-        },
-        {
-          "d": "10-06",
-          "c": 68.69
-        },
-        {
-          "d": "10-07",
-          "c": 69.7
-        },
-        {
-          "d": "10-08",
-          "c": 71.57
-        },
-        {
-          "d": "10-09",
-          "c": 70.3
-        },
-        {
-          "d": "10-12",
-          "c": 70.61
-        },
-        {
-          "d": "10-13",
-          "c": 70.46
-        },
-        {
-          "d": "10-14",
-          "c": 70.57
-        },
-        {
-          "d": "10-15",
-          "c": 72.61
-        },
-        {
-          "d": "10-16",
-          "c": 70.53
-        },
-        {
-          "d": "10-19",
-          "c": 69.85
-        },
-        {
-          "d": "10-20",
-          "c": 68.69
-        },
-        {
-          "d": "10-21",
-          "c": 65.04
-        }
-      ]
-    },
-    {
-      "id": "12b316009d6e2d96",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T10:49:08+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "Stocktwits",
-      "type": "news",
-      "quote": "Data Center \u2018Dividend\u2019 Proposal Puts MSFT, AMZN, GOOGL, META In Focus - Stocktwits Trump\u2019s Data Center \u2018Dividend\u2019",
-      "company": "Meta",
-      "ticker": "META",
-      "price": 704.0,
-      "change": 1.4,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZk9DZ3R1WlpBSkh4Sm0yQzZWRzlWUWpXSF9DalpCZXRYM201VjJvcEJjZm1YZW5XLWpxZzdsM1BQY1dVNmgxdlo3S3NXUnpROS1LeHR1VTROOXJmaFZod1RCRGNyVGVMS3NPTmFXWS02M1ZYZkc5N1FqU0FJYVM0Z3k1VTVETVhEb2cyRXFnSElBa3N1WV80MmJpV0pNQzBDckkzcGU2VG9XZjFxem1hSGxSVGFSS25pbXB2SHBtSzFRNGhNcHQzQkIzRWVjdDNHcUlQOXhsR1ZIMGd1QlJIMV9aRlBZeUM4YU5iOXBrdzJ6N0Rj?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Data Center \u2018Dividend\u2019 Proposal Puts MSFT, AMZN, GOOGL, META In Focus - Stocktwits",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 736.6
-        },
-        {
-          "d": "09-23",
-          "c": 744.1
-        },
-        {
-          "d": "09-24",
-          "c": 777.59
-        },
-        {
-          "d": "09-25",
-          "c": 751.66
-        },
-        {
-          "d": "09-28",
-          "c": 715.62
-        },
-        {
-          "d": "09-29",
-          "c": 738.79
-        },
-        {
-          "d": "09-30",
-          "c": 725.18
-        },
-        {
-          "d": "10-01",
-          "c": 725.93
-        },
-        {
-          "d": "10-02",
-          "c": 728.08
-        },
-        {
-          "d": "10-05",
-          "c": 741.9
-        },
-        {
-          "d": "10-06",
-          "c": 738.88
-        },
-        {
-          "d": "10-07",
-          "c": 721.31
-        },
-        {
-          "d": "10-08",
-          "c": 720.89
-        },
-        {
-          "d": "10-09",
-          "c": 718.67
-        },
-        {
-          "d": "10-12",
-          "c": 742.96
-        },
-        {
-          "d": "10-13",
-          "c": 762.5
-        },
-        {
-          "d": "10-14",
-          "c": 737.54
-        },
-        {
-          "d": "10-15",
-          "c": 736.72
-        },
-        {
-          "d": "10-16",
-          "c": 709.33
-        },
-        {
-          "d": "10-19",
-          "c": 705.44
-        },
-        {
-          "d": "10-20",
-          "c": 694.25
-        },
-        {
-          "d": "10-21",
-          "c": 704.0
-        }
-      ]
-    },
-    {
-      "id": "c31fa506bc3d3add",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T10:00:00+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump says Google now kisses 'his a--,' thanks to the power he holds in his",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 334.76,
-      "change": -1.62,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTZYdVJOb1YzcmlSZVhINlU1UjJKUGpkVjhZMEg2NmRFeEt3WWZPaXhGRG9IQlBtNndPbnV6NWRsSXRYZ05Zc2dBLWFhRkFnSFVvYkJFWk11ZVhpdDZ3Tng0a1VFU2VGWnhfd0NEbVVJNFprNFdRNGtVbUNIYmpWRmdnM19oUTRKTlBFemdFQmpNS3c?oc=5",
-      "image": null,
-      "headline": "Trump says Google now kisses 'his a--,' thanks to the power he holds in his second term as president - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 351.16
-        },
-        {
-          "d": "09-23",
-          "c": 337.83
-        },
-        {
-          "d": "09-24",
-          "c": 342.36
-        },
-        {
-          "d": "09-25",
-          "c": 343.92
-        },
-        {
-          "d": "09-28",
-          "c": 342.75
-        },
-        {
-          "d": "09-29",
-          "c": 340.92
-        },
-        {
-          "d": "09-30",
-          "c": 344.08
-        },
-        {
-          "d": "10-01",
-          "c": 338.24
-        },
-        {
-          "d": "10-02",
-          "c": 343.5
-        },
-        {
-          "d": "10-05",
-          "c": 346.47
-        },
-        {
-          "d": "10-06",
-          "c": 347.68
-        },
-        {
-          "d": "10-07",
-          "c": 350.5
-        },
-        {
-          "d": "10-08",
-          "c": 348.29
-        },
-        {
-          "d": "10-09",
-          "c": 351.66
-        },
-        {
-          "d": "10-12",
-          "c": 352.72
-        },
-        {
-          "d": "10-13",
-          "c": 353.78
-        },
-        {
-          "d": "10-14",
-          "c": 347.64
-        },
-        {
-          "d": "10-15",
-          "c": 349.22
-        },
-        {
-          "d": "10-16",
-          "c": 340.59
-        },
-        {
-          "d": "10-19",
-          "c": 344.18
-        },
-        {
-          "d": "10-20",
-          "c": 340.28
-        },
-        {
-          "d": "10-21",
-          "c": 334.76
-        }
-      ]
-    },
-    {
-      "id": "c7a0730e6dbd86aa",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T01:50:10+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "all' corporate deals and late-night show invites - Fox News Kid Rock says supporting Trump 'canceled all'",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 59.75,
-      "change": 2.43,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVTUUwVHd2RFhZMVpUYU0xUC1ZSUxCMmJkbzFpVk1pNU5jdG0yaEhicVNmTjVmeGZ6SDI3Y1FHbmpKSnkwT2VaZm9VZENVMFJWdkJvcE9B?oc=5",
-      "image": null,
-      "headline": "Kid Rock says supporting Trump 'canceled all' corporate deals and late-night show invites - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        }
-      ]
-    },
-    {
-      "id": "4a1a0c030f5e1e61",
-      "date": "Wed, 21 Oct 2026",
-      "ts": "2026-10-21T00:47:55+00:00",
-      "date_display": "Oct 21, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "This is what Trump's midterm blitz says - Fox News This is what Trump's midterm blitz",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.67,
-      "change": -1.81,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneUJTaUJLVVNYR1dhWV8wTFp2S0I0eFFnbGdXaG1PRThxckQzRkhFNFgwRmwyV0xFUlRmQzByamx2Z2FaQWhlUHFQa1REMFJCVzQxNVR3?oc=5",
-      "image": null,
-      "headline": "This is what Trump's midterm blitz says - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.67
-        }
-      ]
-    },
-    {
-      "id": "3427e5ab01c6c777",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T23:48:38+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "there's 'no way in hell' she would meet with Trump - Fox News Ana Navarro clashes with 'The View' co-hosts,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.33,
-      "change": 1.94,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnFjRGFPY3dFUTVqS0hQM29ZejM5UnZNbGRubl84dm54WUZLdGVmNXRlNXgtRFRwR2NKU29Oc0kzVzJ2NDNzVVRtdVU5Rmh0Z2pfdl81V1pNcGE0dVpOSEhQZXZfeEZZdTVkeWZENDZ5VC10ZDAxM2Utd2VUTjJRLXR0RDdhM3dCMm5Ud0UxeWptR212Q2VlMWY4Q3l2UzU5Yk0xcWdCTmJvZTBPNnJoRUswTUdxM0nSAbwBQVVfeXFMT3V5S1JVc1RUOXZGTnZyOUhHUmVPbmtWdXQ3aldkWHY3MXNBUlFjdUFkSlZoQlUzT00zUHN5SUlRc3FQNEFfQjhjVnQ5czJvRXIyQmlWTDREdUlHb080ck54N21lanBTUVo0LVVEeEF6SV82azRqTjdyZnZFQjhwUmt5ejF5eHBfQVpzQXY1cmtTVXVNSjRqV09OVTNZdG81N3VyaEx2RVlKZi14eXBuemRyRGIwcjJOUi00bEI?oc=5",
-      "image": null,
-      "headline": "Ana Navarro clashes with 'The View' co-hosts, declares there's 'no way in hell' she would meet with Trump - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        }
-      ]
-    },
-    {
-      "id": "d27bb6a971b01894",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T22:17:08+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "to ever meet with Donald Trump, says 'no way in hell' - Fox News Ana Navarro refuses to ever meet with Donald Trump,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 58.33,
-      "change": 1.94,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jVWxQN2ZKc0ttSE5WdWN1SkRJZ1Zma2dSU1hFaHRaNGFFMGwxalJqWTNudnk2VXJqOENnZGFvS3lBZF81cHFVaEhnY21xdEpjaFloR3hB?oc=5",
-      "image": null,
-      "headline": "Ana Navarro refuses to ever meet with Donald Trump, says 'no way in hell' - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 57.9
-        },
-        {
-          "d": "09-22",
-          "c": 57.32
-        },
-        {
-          "d": "09-23",
-          "c": 56.96
-        },
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        }
-      ]
-    },
-    {
-      "id": "bd67e0fe0d4ac51d",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T21:40:21+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "BNN Bloomberg",
-      "type": "news",
-      "quote": "Trump backs down on threat to block Canadian jet maker Bombardier from U.S. market - BNN",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdHd1T1ZJOUdOX0psYVgyOTVkdGhNZWswV1FpX1ZxWDZ6RXNKakNIdnJreVNWSjVSLVJRS0ZMYnE0QktzS3VYWUZCdlZKMVhyWkVjbUhpZS01UHlBVWZfV2ZZUG55YlAtWXVzU0xKWEVYN2ZlSDlQODR4V1NYWlNIYlF2dDdwQ0lKcXUzMFRrQ0NMamU5ZXJya1FFRnZ2UEZuMWt3NmlWU0U0R01hUFJ1eElHcnk2b2RCdVJKb184YnhYNXhVS1Jr?oc=5",
-      "image": null,
-      "headline": "Trump backs down on threat to block Canadian jet maker Bombardier from U.S. market - BNN Bloomberg",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "3affa04e6bdeeeef",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T20:03:17+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "Forbes",
-      "type": "news",
-      "quote": "Trump Media Shares Hit Record Low, Down Over 51% In A Year - Forbes",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 6.47,
-      "change": 0.62,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORW1fTHZ0b09NWERXSGowd3pSaF9mbXp4Nlc3b1ljN0hqaEhLNFhiOERFLWo0dTBnd0dlMWptd0FwRGlDcUczX0pBa2FBRHA3azRPWWVaZWNtdFZfTUZvUEsteWF0N2NsSTNranhlTjhMZzZKWXptazB5cmpzTURMQTNnS01QSkNRRE9EWVpNSG1KX0xvdVNzbFMwMTBBNHZ0WkE?oc=5",
-      "image": null,
-      "headline": "Trump Media Shares Hit Record Low, Down Over 51% In A Year - Forbes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        }
-      ]
-    },
-    {
-      "id": "ba17b8de4ed4eace",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T18:32:30+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "The News International",
-      "type": "news",
-      "quote": "Bombardier shares rise as Trump drops threat to block aircraft sales in US - The News International Bombardier",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOekZrSTliSktKNzRBN3MzaDVvUFJqLXhCQzFvNDNDNGllZTJMZ1BMcHNPbFZrUU12b0F3a2E3Uk1hMXJNbjRRckF4MGNzQUp3cUJwSzJ1aFlPSDJOQVIwOExacG0ydWNUVFYyUTRZS3Q2dm9ILS1Nc1N4dXJvX2dfQ3RFeFZXNkxSejJHenEwc05aaVNlREwta0JsRzV5UkZDOUR1czJCSWFfRVJ4YmotRmw5THlrNDjSAbMBQVVfeXFMT1NpdUNHejBPNEUzWmFnNU55ZEZiU2VtelYtaFRVVENwMjVpb3FTdVpJTTlvQ3oydWFOVF9fSWVNdV83ZGtpZTJIOFNFY0xKR1RpZFc4SkVTNnJ1MDdBeDZQZWhGVmZ4S202RVBDTWlXVEVRWnNUMnlIR1pJWDFaQUdLX0lCdVppc04tZ3BYc3FtN0h1NTI4UEoyeXdhbTE5VUZnZjRlY09WNlJzaEpaaTBGbGM?oc=5",
-      "image": null,
-      "headline": "Bombardier shares rise as Trump drops threat to block aircraft sales in US - The News International",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "90c6de0dda20c369",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T16:27:06+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "www.tokenpost.com",
-      "type": "news",
-      "quote": "Trump Media Shares Fall 8% to $6.43, Down 29% Since Sept. 30 -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 6.43,
-      "change": -8.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82dFl6RGhjS3lWckdpNXcwazdhU0Zsdmc3V0dBN0pVekRpTzNJcF85b1A0aHl4aGttdUpPbWE0UzB5SFc2aWNIanB1SWNzVlFMdDlIRWxKbGxYdw?oc=5",
-      "image": null,
-      "headline": "Trump Media Shares Fall 8% to $6.43, Down 29% Since Sept. 30 - www.tokenpost.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        }
-      ]
-    },
-    {
-      "id": "f3c9f5226250859c",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T14:50:00+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "AlterNet",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social hits rock bottom as users flee and stock crashes -",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 6.4,
-      "change": -0.47,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QaXA4NGcyVXh4d2ZjOWJrWXpkWVhnLVJRdnZfYm9pbV9nRzhXU1ZmaEJMdExhZ01USDl0NGw2NUxYQ2xWXzlqa2pPc2R1WGpNaXY2UEJNdUFpdDFad2pTQ0hPTGJvQQ?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social hits rock bottom as users flee and stock crashes - AlterNet",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.4
-        }
-      ]
-    },
-    {
-      "id": "1716e6874aab2577",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T14:00:20+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "The Daily Beast",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - The Daily Beast",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 6.43,
-      "change": 0.0,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGcyXzd3MW5qc0tMYmJwS0hPZm5tOXJpbGFqT3NSdVZOS1d1bTJkRmY5cGk4ZlRxd05jNE50emlfRGRQb2k5NFpUeGhpWlZkRUNRRWFCc21sVmVOQ2lRU215V3BiZnpMRG9ZWnBIeHJtTXZPMG4zWUFxMzBjQ1U3Yy1ZblpaXzMxM1JpaWdGSGk?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - The Daily Beast",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-21",
-          "c": 9.12
-        },
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.43
-        }
-      ]
-    },
-    {
-      "id": "2a4fb5384dca1a71",
-      "date": "Tue, 20 Oct 2026",
-      "ts": "2026-10-20T13:29:34+00:00",
-      "date_display": "Oct 20, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - Yahoo Finance",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 6.62,
-      "change": 2.32,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNDhiV2RWLXFGXy12YUxGSmJkc0htRHRZdmhKejgyRTJEeDB4Qng4YkFOVk84dkd2ZUpBR1UwQmRGLVVRZG42Y1I0bmdxSFVJUHJhTlBpbkhTcUljYjFPWkR3TnV2T20tSnZTVDFsQmI3LU5CUVYzekE0TXFvaW1GZ241bFBBSEJsZHZPSTlPeEdNZlNwZFUwRlZYQ2w2VU45?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Truth Social Plunges to All-Time Low as Users Flee - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-22",
-          "c": 9.38
-        },
-        {
-          "d": "09-23",
-          "c": 9.06
-        },
-        {
-          "d": "09-24",
-          "c": 9.1
-        },
-        {
-          "d": "09-25",
-          "c": 9.14
-        },
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.62
         }
       ]
     }
