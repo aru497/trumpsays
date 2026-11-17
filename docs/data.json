@@ -1,7 +1,423 @@
 {
-  "updated_at": "2026-11-17T02:10:59.413902+00:00",
+  "updated_at": "2026-11-17T10:53:41.253787+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "87390861e2b6bbb4",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T10:32:23+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "Yahoo News Singapore",
+      "type": "news",
+      "quote": "AI and spies: a timeline of the Nvidia scandal - Yahoo News Singapore AI and spies: a timeline of",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TY2dIb0FXVFAtd3hocldVSzN4SVRVbXVPNjRTUmFOMDgxWHd1TzRsQWZTM3dGcktiR3l0Z2FwQlJtWHVYaVRUZE01d1ZJTXNDbVBteG1ra1lVMEFSV2lIZ0lNRjRCeGJva3hQWHJ5ZXNEVlpyOUltZkFGZEtidw?oc=5",
+      "image": null,
+      "headline": "AI and spies: a timeline of the Nvidia scandal - Yahoo News Singapore",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
+    {
+      "id": "4080e4497b004ddf",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T05:25:33+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Administration Says It\u2019s Investigating Megaspeed - The New York Times Facing Criticism, Trump Administration Says It\u2019s",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 73.5,
+      "change": 0.95,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjlYNkZqS1JmMS1aX1ktNU5VODNFTTZ6MHJDM1hWVmhoWEFxS0RfVzBVRlhxcnVNc09xWlhROFVvbzZGd2xkMmtYR0ZteTVuLXVlX042dmFzUVp3aTlUZUJLQy1ycDF6ckNON2dUWXlTMDB6S2JxRkNnMEVIMlQ4dE1DRDFGanVqZ0RsSHBKaWpyV0J1?oc=5",
+      "image": null,
+      "headline": "Facing Criticism, Trump Administration Says It\u2019s Investigating Megaspeed - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 68.07
+        },
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        }
+      ]
+    },
+    {
+      "id": "9dcc9ba6e522a082",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T02:37:53+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
+      "image": null,
+      "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss - BBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
+    {
+      "id": "11e204b03638f8e0",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T00:58:00+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "BNN Bloomberg",
+      "type": "news",
+      "quote": "Nvidia rules out Jensen Huang comeback as campaign for his return",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQy1pYmtfRExLUmstdDZ5Tmt1a1NBa2gwMHV4MFYxYU9ZOWdIbGtCNlVXQVQ1Y3llMmZ0bzc5cmNtNVNNczU3VC1DUnRJZVA3RG5QeG1sYUF0MGJ0Vm50MHc2LW1VRW1PZzF4RGlabHc3WjJqelFXUXFxTWdJVzhXSlZLbGlPOWR6ekVnUzFRczFyZGhZMEpuUUc4TzYySVdhM1F3Qko5Z3FGa3pZMzRnb3ZhUHl4MGtBTHFoMkFDWDh2cmdoN1F6d2d1dUtnZw?oc=5",
+      "image": null,
+      "headline": "Nvidia rules out Jensen Huang comeback as campaign for his return grows - BNN Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
     {
       "id": "81272b0cdbfda36f",
       "date": "Mon, 16 Nov 2026",
@@ -741,6 +1157,110 @@
       "series": null
     },
     {
+      "id": "e31d025e34007f6c",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T21:40:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Free Malaysia Today",
+      "type": "news",
+      "quote": "Trump says he \u2018would not mind\u2019 Huang being reinstated at Nvidia - Free Malaysia Today Trump says he \u2018would not mind\u2019 Huang",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmx5RjhieUlBWWFGeGp1TGlxQkc1VHBZUjdkN0ozRTdtYmxJdXc3eXFhNWxBS2N0ZGhla055dHNfMWpFWWhRVlF0RWNjVEk1bnl6R3E1c1FrdG13MUhVN2JHRzFBeDV0VUl1TC1iNnRwSklfWHFWdS1SdWVyTVBnS0NlRWsxWFdUUGpEQUFTekJ3ZEZEMExUUFpmS180Yl9jOUZLUUp3ZmR2ZTVGMVdCX3F1NFlqaVJqbElmSG1zVmtOTEk?oc=5",
+      "image": null,
+      "headline": "Trump says he \u2018would not mind\u2019 Huang being reinstated at Nvidia - Free Malaysia Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
+    {
       "id": "9f6268803cf4aab7",
       "date": "Mon, 16 Nov 2026",
       "ts": "2026-11-16T21:20:02+00:00",
@@ -1260,6 +1780,110 @@
       ]
     },
     {
+      "id": "ce72f6d8963d26f7",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T20:04:40+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "National News Desk",
+      "type": "news",
+      "quote": "Trump says he 'would not mind' Huang returning as Nvidia CEO - National News Desk Trump says he 'would not mind'",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0RIekhVLVNNbXFJWnQ1YUJ4Wk9md0h2RFBvVnZHT1BNY0ozZE90VG9vX0ZYak5CZFpxTUNEaTJ2NkJMN25GOW5PMExQWlBKNS1VakRoZ0tlaGdzM0xUWVpXYm8wMl80VUM2b21BWnFRNVZqQWFjeXZhcllYQ0JYX2pWOGItWWpGQjA2OTB0ZzlOY0VETnVZUTV1V3FJUGpLejh1elJxMTRDWmZXVUliQlA2ZUVSWlZfQ1k3LTl3YkhLNmdNdGxNc1BoM3VkUGRjRVBUb05RQkNOSThYV1NoanktcjM?oc=5",
+      "image": null,
+      "headline": "Trump says he 'would not mind' Huang returning as Nvidia CEO - National News Desk",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
+    {
       "id": "dbaf4651da754a59",
       "date": "Mon, 16 Nov 2026",
       "ts": "2026-11-16T19:47:10+00:00",
@@ -1656,6 +2280,110 @@
         {
           "d": "11-13",
           "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "f0f99316cd48a8d6",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T18:49:26+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "tightens controls on remote access to AI technology amid Nvidia fallout The new rule closes a loophole that existed that",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "image": null,
+      "headline": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
         }
       ]
     },
@@ -2608,6 +3336,110 @@
       ]
     },
     {
+      "id": "a5e3ab2106b203da",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:10:03+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "BNN Bloomberg",
+      "type": "news",
+      "quote": "Trump backs potential return of Jensen Huang as Nvidia CEO - BNN Bloomberg Trump backs potential return of Jensen",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2Z2emw4U3NzV1ZyZE1zVmFyeHQ1Z2F2MWFUZ1g2LTFPRFpFNFkyWU5fMDVqeXI5VHdLYjhuWTVhTEp2V0hOdGtvNXUySE01c3d3QURWaUdHaEJUMjE5SlF3TklJeUNScEZNTzVTVVFEWDJQVmxiZ1RVeVlxeV9taklpcmlhVnFXeWhYZWRjbnQ4c2dJaWxfRFZiZ1JaT1Z6QzY3ZkZXOXhBd2JKOW56X1ZDX0xDMWFVUFkwUDB4Y3NQWkd5ZFE?oc=5",
+      "image": null,
+      "headline": "Trump backs potential return of Jensen Huang as Nvidia CEO - BNN Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
+    {
       "id": "b696a602923ab159",
       "date": "Mon, 16 Nov 2026",
       "ts": "2026-11-16T17:02:00+00:00",
@@ -2824,6 +3656,110 @@
       ]
     },
     {
+      "id": "2b32e06b4521ae5b",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T16:48:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "The Guardian",
+      "type": "news",
+      "quote": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO - The Guardian Trump backs calls for reinstatement of",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVBNamYyM3YycFJ1Sm52dGVvRVJLLWd4RUJyM3NPbjhacVFMY09NSXBsTUZlTVJiWHA4dmxEN29UOWJOSzhhb3JHTC1kT3F6aXRTd0MtaTA2WGxVajNkb1FqRndfYmVLMVBjRFlBU1ZGWTNUcUNDOWRYam82RHcxazAxeWMwZGRnWHFDN1hELW95THBLaTYyWE44a0gtY21GMmFxdW9jT2hIWmVCZ1NyRGhsMDFrd2M?oc=5",
+      "image": null,
+      "headline": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO - The Guardian",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
+    {
       "id": "e23c379fe89c6d4f",
       "date": "Mon, 16 Nov 2026",
       "ts": "2026-11-16T16:47:43+00:00",
@@ -3036,6 +3972,110 @@
         {
           "d": "11-16",
           "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "6a1d822002f2a150",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T15:48:06+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "This is Money",
+      "type": "news",
+      "quote": "Trump backs return of Nvidia boss despite affairs but shares sink - This is Money Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVXFZN2dvZFZwLVhOVEJzU2txbVQ2dnVqaUxWQ2ppQ0JwX20wWjJjNkN3RnpOanZBRDNrZU00SHZQWUk2Z21pQy1HY2Qtbm5oXzU3T2xlaUcyZXBJcG1haTNDTlpVamQ5VFBqdmpYbGpuWFhCOUotanJRbW5LRjVBcGVrMlRNamJqZnY0VUpGb3dXeEtGWkEwRnlOZzZUVzlNeHBYSDBYeDBSM0w0ZXJSLVB6UlFQaDBhMW52VW1pVmVpSXR4V09BeWlQOUVya0ttUFVoTUJsSmJrbjk0MzlSRWJEYlpJcjg4TmNSb0RoeFZGcHNp?oc=5",
+      "image": null,
+      "headline": "Trump backs return of Nvidia boss despite affairs but shares sink - This is Money",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
         }
       ]
     },
@@ -7132,6 +8172,110 @@
         {
           "d": "11-13",
           "c": 162.85
+        }
+      ]
+    },
+    {
+      "id": "d3fb12ba0968d9a3",
+      "date": "Fri, 13 Nov 2026",
+      "ts": "2026-11-13T19:45:20+00:00",
+      "date_display": "Nov 13, 2026",
+      "source": "Yahoo",
+      "type": "news",
+      "quote": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social\u2019s new $100,000 service, calls request for records a waste",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 4.08,
+      "change": -12.07,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU56VHpLcUMwZ25JVWJMS3hkeGhuS0NYNWw2cjNKZmVrdWJ2SkluWWRxaDVQT2xPUXlIWHFheDN3YVJUNklELWNwNHB2dGpET0ktUU8wU0hnMmcxYkVEOGUzN1I2QnZDN1FHUTdRU01TNEJJRlQzdlVTeVN3YmJocjduVjhITUxkSHlVTzFIX0h2SEx2?oc=5",
+      "image": null,
+      "headline": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social\u2019s new $100,000 service, calls request for records a waste of time - Yahoo",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
         }
       ]
     },
@@ -40247,1182 +41391,6 @@
         {
           "d": "10-29",
           "c": 5.72
-        }
-      ]
-    },
-    {
-      "id": "9331b2f8a702e2bb",
-      "date": "Wed, 28 Oct 2026",
-      "ts": "2026-10-28T14:05:22+00:00",
-      "date_display": "Oct 28, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "Robinhood shares fall as crypto markets chill drives profit miss -",
-      "company": "Robinhood",
-      "ticker": "HOOD",
-      "price": 83.8,
-      "change": -8.51,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVk8tZkhrQmxPWHJYNWZPNWtDRlRlS2plbncwdkRab05UbE5xNm1fb3JQTTR0QWRKcUduNmZweS1fdUNIQTRSUE1NX2h2QjloUUxyQ29vek02T1dSaUxQcTVKOExPLURCLXNocW5zU19zZlVzeGNublYyNU52czNsZFZvQkZnWks2R2xMUDJMSEhfRkZlLUs5b2lZbTdvM3lpQkpWWWFzVlFpTVQ0b2FQNGxn?oc=5",
-      "image": null,
-      "headline": "Robinhood shares fall as crypto markets chill drives profit miss - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 111.15
-        },
-        {
-          "d": "10-02",
-          "c": 112.74
-        },
-        {
-          "d": "10-05",
-          "c": 114.11
-        },
-        {
-          "d": "10-06",
-          "c": 112.0
-        },
-        {
-          "d": "10-07",
-          "c": 109.51
-        },
-        {
-          "d": "10-08",
-          "c": 107.01
-        },
-        {
-          "d": "10-09",
-          "c": 109.02
-        },
-        {
-          "d": "10-12",
-          "c": 109.22
-        },
-        {
-          "d": "10-13",
-          "c": 110.52
-        },
-        {
-          "d": "10-14",
-          "c": 101.08
-        },
-        {
-          "d": "10-15",
-          "c": 103.99
-        },
-        {
-          "d": "10-16",
-          "c": 98.87
-        },
-        {
-          "d": "10-19",
-          "c": 96.52
-        },
-        {
-          "d": "10-20",
-          "c": 98.21
-        },
-        {
-          "d": "10-21",
-          "c": 101.93
-        },
-        {
-          "d": "10-22",
-          "c": 96.58
-        },
-        {
-          "d": "10-23",
-          "c": 95.07
-        },
-        {
-          "d": "10-26",
-          "c": 92.84
-        },
-        {
-          "d": "10-27",
-          "c": 94.56
-        },
-        {
-          "d": "10-28",
-          "c": 91.43
-        },
-        {
-          "d": "10-29",
-          "c": 91.59
-        },
-        {
-          "d": "10-30",
-          "c": 83.8
-        }
-      ]
-    },
-    {
-      "id": "b8fff79a4318625c",
-      "date": "Wed, 28 Oct 2026",
-      "ts": "2026-10-28T11:05:15+00:00",
-      "date_display": "Oct 28, 2026",
-      "source": "Computerworld",
-      "type": "news",
-      "quote": "Trump says Microsoft abuses visa laws. Microsoft disagrees. Who\u2019s telling the",
-      "company": "Microsoft",
-      "ticker": "MSFT",
-      "price": 528.38,
-      "change": -0.56,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaUEweU9Fb19RLV9BanJHTl9jNFB5VE9YODJqMTFDdTlIdGFJYnZUYU56eGpZQ3NENWlmdTR0dHRXM0RJcDQ4RWFuWWJ2U2R6TW5VcXNxTUEtT1p5MzE0S2lvNEFPWTE5czc5WDF3ckhkOEdBWGk0RTdxNnlaaUU3dlM3VEdjSHE1UzhkNmJoRW53UF9xOWFGUXpFa3NEVDBDNC01aWZCMm92OU1EVlY3OWJfSGJnMkdpaHZXNS1OLVktVDI3TGhCQ0dTWQ?oc=5",
-      "image": null,
-      "headline": "Trump says Microsoft abuses visa laws. Microsoft disagrees. Who\u2019s telling the truth? - Computerworld",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-29",
-          "c": 508.96
-        },
-        {
-          "d": "09-30",
-          "c": 512.9
-        },
-        {
-          "d": "10-01",
-          "c": 512.8
-        },
-        {
-          "d": "10-02",
-          "c": 517.53
-        },
-        {
-          "d": "10-05",
-          "c": 525.18
-        },
-        {
-          "d": "10-06",
-          "c": 529.3
-        },
-        {
-          "d": "10-07",
-          "c": 529.76
-        },
-        {
-          "d": "10-08",
-          "c": 522.61
-        },
-        {
-          "d": "10-09",
-          "c": 535.07
-        },
-        {
-          "d": "10-12",
-          "c": 541.15
-        },
-        {
-          "d": "10-13",
-          "c": 543.45
-        },
-        {
-          "d": "10-14",
-          "c": 533.69
-        },
-        {
-          "d": "10-15",
-          "c": 539.44
-        },
-        {
-          "d": "10-16",
-          "c": 529.05
-        },
-        {
-          "d": "10-19",
-          "c": 533.52
-        },
-        {
-          "d": "10-20",
-          "c": 531.87
-        },
-        {
-          "d": "10-21",
-          "c": 532.95
-        },
-        {
-          "d": "10-22",
-          "c": 521.08
-        },
-        {
-          "d": "10-23",
-          "c": 524.51
-        },
-        {
-          "d": "10-26",
-          "c": 532.6
-        },
-        {
-          "d": "10-27",
-          "c": 531.33
-        },
-        {
-          "d": "10-28",
-          "c": 528.38
-        }
-      ]
-    },
-    {
-      "id": "0a098a36dacba986",
-      "date": "Wed, 28 Oct 2026",
-      "ts": "2026-10-28T11:05:15+00:00",
-      "date_display": "Oct 28, 2026",
-      "source": "Computerworld",
-      "type": "news",
-      "quote": "Trump says Microsoft abuses visa laws. Microsoft disagrees. Who\u2019s telling the truth? -",
-      "company": "Visa",
-      "ticker": "V",
-      "price": 403.62,
-      "change": 0.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaUEweU9Fb19RLV9BanJHTl9jNFB5VE9YODJqMTFDdTlIdGFJYnZUYU56eGpZQ3NENWlmdTR0dHRXM0RJcDQ4RWFuWWJ2U2R6TW5VcXNxTUEtT1p5MzE0S2lvNEFPWTE5czc5WDF3ckhkOEdBWGk0RTdxNnlaaUU3dlM3VEdjSHE1UzhkNmJoRW53UF9xOWFGUXpFa3NEVDBDNC01aWZCMm92OU1EVlY3OWJfSGJnMkdpaHZXNS1OLVktVDI3TGhCQ0dTWQ?oc=5",
-      "image": null,
-      "headline": "Trump says Microsoft abuses visa laws. Microsoft disagrees. Who\u2019s telling the truth? - Computerworld",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-29",
-          "c": 365.88
-        },
-        {
-          "d": "09-30",
-          "c": 359.33
-        },
-        {
-          "d": "10-01",
-          "c": 359.85
-        },
-        {
-          "d": "10-02",
-          "c": 360.66
-        },
-        {
-          "d": "10-05",
-          "c": 369.71
-        },
-        {
-          "d": "10-06",
-          "c": 370.64
-        },
-        {
-          "d": "10-07",
-          "c": 372.1
-        },
-        {
-          "d": "10-08",
-          "c": 375.1
-        },
-        {
-          "d": "10-09",
-          "c": 385.45
-        },
-        {
-          "d": "10-12",
-          "c": 389.27
-        },
-        {
-          "d": "10-13",
-          "c": 396.06
-        },
-        {
-          "d": "10-14",
-          "c": 391.43
-        },
-        {
-          "d": "10-15",
-          "c": 399.75
-        },
-        {
-          "d": "10-16",
-          "c": 402.61
-        },
-        {
-          "d": "10-19",
-          "c": 402.92
-        },
-        {
-          "d": "10-20",
-          "c": 406.57
-        },
-        {
-          "d": "10-21",
-          "c": 407.85
-        },
-        {
-          "d": "10-22",
-          "c": 414.34
-        },
-        {
-          "d": "10-23",
-          "c": 407.92
-        },
-        {
-          "d": "10-26",
-          "c": 404.16
-        },
-        {
-          "d": "10-27",
-          "c": 401.86
-        },
-        {
-          "d": "10-28",
-          "c": 403.62
-        }
-      ]
-    },
-    {
-      "id": "530ef30b65d6a9e6",
-      "date": "Wed, 28 Oct 2026",
-      "ts": "2026-10-28T03:52:35+00:00",
-      "date_display": "Oct 28, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "end of Biden-era methane rule, citing $45B in savings - Fox Business Trump announces end of Biden-era methane rule,",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 57.43,
-      "change": -1.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGVsOXEtbXdybXBrcC1KMEh4RlBRRmVhMFplWGVvdEs2N0UySVZOZnRKTWRqTS1jX2RuWFN6R0tNVlJFakVfU1VYR0R3RW1keTRiblFJM0lEOFVLTDEzS3JNSkVVZ2VwM1N5SlBSdGttbHpwWGRaSDBfb3JJaERmTnJEMmJXcnlsZFk4cnJpc2hzQkstMDB4dWIwaVRQNmfSAaQBQVVfeXFMTTlfVFB4RXJoZ2ZFSmNCRVVNM0JTNGRDRjFfLUtfUkVuOFQ3S3hrYnQtNGxuZlpRMkg0QVJrR3Y4RzhJZFNDeTh4UWtjel9TZ0ZXZi1fYTAwNmJ2NHllSVQ4QVc3d1dUc3prTHJBVWFlWTlYbEZ3cnNIcDZmMlpTQzZVTHQ5Q1E1cGJxb2lwUG9XR1FPS29CdzJ5V2JOeHhST0Z4ZXc?oc=5",
-      "image": null,
-      "headline": "Trump announces end of Biden-era methane rule, citing $45B in savings - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        }
-      ]
-    },
-    {
-      "id": "351946975aa9d9c1",
-      "date": "Wed, 28 Oct 2026",
-      "ts": "2026-10-28T02:27:11+00:00",
-      "date_display": "Oct 28, 2026",
-      "source": "Britannica",
-      "type": "news",
-      "quote": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 6.36,
-      "change": 3.58,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
-      "image": null,
-      "headline": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        }
-      ]
-    },
-    {
-      "id": "fc8fb77edee30eb5",
-      "date": "Tue, 27 Oct 2026",
-      "ts": "2026-10-27T02:42:47+00:00",
-      "date_display": "Oct 27, 2026",
-      "source": "Law360",
-      "type": "news",
-      "quote": "Trump Media Investor Says Firm Reaped $18M On Inside Info - Law360",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 6.14,
-      "change": -4.06,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm02bFc5WU1yNUo2NnRsTmczUS1raElYel9lbGlaLWlESnM5QmpyQlRRN0docl9aXzZyN045Nl9id0VJZ2VQb1NnZWtPU1lSSE5QVlNGNkpIZzgxUTZQZC1RNUxqNGJKanFkY04tX3puazdGSTBwTmszVllxd2ZIcGxnM2h5NjlQZXU1djJfZDN4R0dKYnFFUWttaE7SAVZBVV95cUxPZF8tcHdOdHB3Z3RyMHZTdGM2b1hSZ2dEcTN4VlZtbzFDbEYtM2phRW1EV1ZXSmUybVZxTUo1VEp1TUFfbEVKV0RMMFpaRnNmRjVnSVpJQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media Investor Says Firm Reaped $18M On Inside Info - Law360",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-28",
-          "c": 9.12
-        },
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        }
-      ]
-    },
-    {
-      "id": "131cc6e413cd8446",
-      "date": "Mon, 26 Oct 2026",
-      "ts": "2026-10-26T20:15:58+00:00",
-      "date_display": "Oct 26, 2026",
-      "source": "Facebook",
-      "type": "news",
-      "quote": "at the pump. \ud83d\udcb8 So who's REALLY getting rich here? \ud83d\ude44 - Facebook \u201cWe're making a freaking fortune.\u201d WE?! \ud83d\udc40 Big Oil is",
-      "company": "Facebook",
-      "ticker": "META",
-      "price": 630.56,
-      "change": -1.88,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkFJc2tFNGhLMEVzQlQ4NmtWOTRkN3JyaXl0SU9uNElabXJCUFVMa3l5NXFaZElDX1I0d1hJamhsakFjVUlMaTZ0dG40LVhRTk5ER1F5UXNXbTJMM0c5Umx6czJwbldSb3NTT3lLRWpXY3d4S3lNYTl2dFNQZjhJRDV2MkRKVW9xSlhNbHVBZ2RwX29BV0w0eXdXU0tvMXhxNmRTTjVhLVBmbGdyMF9VcnZjZWVfOUhQTWFYd3N4TXpPSlhuYW1IaUgyZnNQOEYz?oc=5",
-      "image": null,
-      "headline": "\u201cWe're making a freaking fortune.\u201d WE?! \ud83d\udc40 Big Oil is raking it in while working people are paying a fortune at the pump. \ud83d\udcb8 So who's REALLY getting rich here? \ud83d\ude44 - Facebook",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-28",
-          "c": 715.62
-        },
-        {
-          "d": "09-29",
-          "c": 738.79
-        },
-        {
-          "d": "09-30",
-          "c": 725.18
-        },
-        {
-          "d": "10-01",
-          "c": 725.93
-        },
-        {
-          "d": "10-02",
-          "c": 728.08
-        },
-        {
-          "d": "10-05",
-          "c": 741.9
-        },
-        {
-          "d": "10-06",
-          "c": 738.88
-        },
-        {
-          "d": "10-07",
-          "c": 721.31
-        },
-        {
-          "d": "10-08",
-          "c": 720.89
-        },
-        {
-          "d": "10-09",
-          "c": 718.67
-        },
-        {
-          "d": "10-12",
-          "c": 742.96
-        },
-        {
-          "d": "10-13",
-          "c": 762.5
-        },
-        {
-          "d": "10-14",
-          "c": 737.54
-        },
-        {
-          "d": "10-15",
-          "c": 736.72
-        },
-        {
-          "d": "10-16",
-          "c": 709.33
-        },
-        {
-          "d": "10-19",
-          "c": 705.44
-        },
-        {
-          "d": "10-20",
-          "c": 694.25
-        },
-        {
-          "d": "10-21",
-          "c": 697.52
-        },
-        {
-          "d": "10-22",
-          "c": 648.85
-        },
-        {
-          "d": "10-23",
-          "c": 642.62
-        },
-        {
-          "d": "10-26",
-          "c": 630.56
-        }
-      ]
-    },
-    {
-      "id": "4b761e59486f2968",
-      "date": "Mon, 26 Oct 2026",
-      "ts": "2026-10-26T17:42:00+00:00",
-      "date_display": "Oct 26, 2026",
-      "source": "U.S. News & World Report",
-      "type": "news",
-      "quote": "Microsoft Offers a Quarter of Its Global Workforce Voluntary Buyouts",
-      "company": "Microsoft",
-      "ticker": "MSFT",
-      "price": 532.6,
-      "change": 1.54,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObjlNU2Z6S2lyN0puWkFrbUVzQTdGeWJRTnJ5MS10ajJNYkpYTjd1SFczQm9oalhPUEVxek95bTRxRjN4Umh0T2pkNVdTQ1ZrLWJzQmlveVNiZlJZY3kxMXUwMHoya2xrZjdjXzJiRmZtWVFaUnd5N1JpUTZhU3d2dGY5OUVmTlBzeG1VNEw0VXdiVldCa3dOMDVlMG1zVUFMZ2tibW5abk9ucjU5dUFDNUtPNWhSSzB2T0ZCQml2Sm14TTdkRUt1Q3NNZWZLXzByeUVJaEhWUlNMazNFOU9Mb1p4eXE5b1B4VDRjRWNOX0haVmtlbTdjeEtR?oc=5",
-      "image": null,
-      "headline": "Microsoft Offers a Quarter of Its Global Workforce Voluntary Buyouts as AI Spending Accelerates - U.S. News & World Report",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-28",
-          "c": 509.22
-        },
-        {
-          "d": "09-29",
-          "c": 508.96
-        },
-        {
-          "d": "09-30",
-          "c": 512.9
-        },
-        {
-          "d": "10-01",
-          "c": 512.8
-        },
-        {
-          "d": "10-02",
-          "c": 517.53
-        },
-        {
-          "d": "10-05",
-          "c": 525.18
-        },
-        {
-          "d": "10-06",
-          "c": 529.3
-        },
-        {
-          "d": "10-07",
-          "c": 529.76
-        },
-        {
-          "d": "10-08",
-          "c": 522.61
-        },
-        {
-          "d": "10-09",
-          "c": 535.07
-        },
-        {
-          "d": "10-12",
-          "c": 541.15
-        },
-        {
-          "d": "10-13",
-          "c": 543.45
-        },
-        {
-          "d": "10-14",
-          "c": 533.69
-        },
-        {
-          "d": "10-15",
-          "c": 539.44
-        },
-        {
-          "d": "10-16",
-          "c": 529.05
-        },
-        {
-          "d": "10-19",
-          "c": 533.52
-        },
-        {
-          "d": "10-20",
-          "c": 531.87
-        },
-        {
-          "d": "10-21",
-          "c": 532.95
-        },
-        {
-          "d": "10-22",
-          "c": 521.08
-        },
-        {
-          "d": "10-23",
-          "c": 524.51
-        },
-        {
-          "d": "10-26",
-          "c": 532.6
-        }
-      ]
-    },
-    {
-      "id": "c1a218783256a8fd",
-      "date": "Sun, 25 Oct 2026",
-      "ts": "2026-10-25T23:30:05+00:00",
-      "date_display": "Oct 25, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes \u2018Super",
-      "company": "Microsoft",
-      "ticker": "MSFT",
-      "price": 532.34,
-      "change": -0.05,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSktxVGNHWWl6RDMxRDBsSnlqMXljdXd0UFV0LWpLNVA1SGtGbG1fbGpycVN2c0pqN013WmxqM3JvWE9aU0tYckJmUEVOaDNiNmNsUlpsSkRhZno2NkJHZjNhM2JHdUh1UmxVRjBIMkFqV0lqS2R2endBaUxVRWZnQzAwb3RnZnAwLW53Qm04aTVsZGJXXzJsSlNIdmtCVjh2dWtjYm9n?oc=5",
-      "image": null,
-      "headline": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes \u2018Super Intelligence\u2019 \u2014 From 11,000 Models to Agents That Work on Your Behalf - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-28",
-          "c": 509.22
-        },
-        {
-          "d": "09-29",
-          "c": 508.96
-        },
-        {
-          "d": "09-30",
-          "c": 512.9
-        },
-        {
-          "d": "10-01",
-          "c": 512.8
-        },
-        {
-          "d": "10-02",
-          "c": 517.53
-        },
-        {
-          "d": "10-05",
-          "c": 525.18
-        },
-        {
-          "d": "10-06",
-          "c": 529.3
-        },
-        {
-          "d": "10-07",
-          "c": 529.76
-        },
-        {
-          "d": "10-08",
-          "c": 522.61
-        },
-        {
-          "d": "10-09",
-          "c": 535.07
-        },
-        {
-          "d": "10-12",
-          "c": 541.15
-        },
-        {
-          "d": "10-13",
-          "c": 543.45
-        },
-        {
-          "d": "10-14",
-          "c": 533.69
-        },
-        {
-          "d": "10-15",
-          "c": 539.44
-        },
-        {
-          "d": "10-16",
-          "c": 529.05
-        },
-        {
-          "d": "10-19",
-          "c": 533.52
-        },
-        {
-          "d": "10-20",
-          "c": 531.87
-        },
-        {
-          "d": "10-21",
-          "c": 532.95
-        },
-        {
-          "d": "10-22",
-          "c": 521.08
-        },
-        {
-          "d": "10-23",
-          "c": 524.51
-        },
-        {
-          "d": "10-26",
-          "c": 532.6
-        },
-        {
-          "d": "10-27",
-          "c": 532.34
-        }
-      ]
-    },
-    {
-      "id": "725843c9ac98f93c",
-      "date": "Sun, 25 Oct 2026",
-      "ts": "2026-10-25T04:02:00+00:00",
-      "date_display": "Oct 25, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "Audi's ambitious plans for a major expansion in the US - Fox Business Trump reveals Audi's ambitious plans for a major",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 59.46,
-      "change": -2.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFlUX2Z5QVlVRTZIdVlfMUhoano0WXh2NnI1SHhlY2NyRzE0QUNfNTZWMmNaV0hsemxsWFRCQktYdVhQb2F3ZHV6NkVHdzdMbEo2LURzeEQ4Mm0xTjhhM2tDZHhzR0RYVTdydjRoQ2x6ZUE4ejJYODJLNkcxVWVuMjVQZ1kyR1RLOTBMVnJlNzhOVnlxeUHSAZsBQVVfeXFMUHluRlNtSzRfRm5mOEZaSGVZVnYxNE00U0dwTjFyUzZsbmRVakE1NUZhQy1aQ0h4bTRLbkVMV1ZkdU84a1N6a0VqN04yVkpab0pRRndsaGFqX1AxU3VxeWg3c3ktRXZPT1E4S0hIeGtYMXN6VkV5ZFZXRFZiYUZ3Vml3X21sUi1oRXNXbDUwVUVTNTdsM1p2TWVOalU?oc=5",
-      "image": null,
-      "headline": "Trump reveals Audi's ambitious plans for a major expansion in the US - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        }
-      ]
-    },
-    {
-      "id": "bb475cf192372266",
-      "date": "Sun, 25 Oct 2026",
-      "ts": "2026-10-25T02:07:02+00:00",
-      "date_display": "Oct 25, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "investment in Georgia, touts 30,000 auto jobs - Fox Business Trump announces $4.2B Audi manufacturing",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 59.46,
-      "change": -2.24,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NRE9ORElYeThlZ1prUnhOdEFJVUdvTEdFSWRnNUR6YmJ1UjZEV2VENWtHSEp1NV9UeVZXOVI5ZjE0QVUweWRFZkZfaVVDd2RxNlktZU5EMlBqN1E?oc=5",
-      "image": null,
-      "headline": "Trump announces $4.2B Audi manufacturing investment in Georgia, touts 30,000 auto jobs - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-24",
-          "c": 57.2
-        },
-        {
-          "d": "09-25",
-          "c": 56.54
-        },
-        {
-          "d": "09-28",
-          "c": 56.55
-        },
-        {
-          "d": "09-29",
-          "c": 55.83
-        },
-        {
-          "d": "09-30",
-          "c": 56.3
-        },
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
         }
       ]
     }
