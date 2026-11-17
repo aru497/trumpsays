@@ -1,7 +1,782 @@
 {
-  "updated_at": "2026-11-17T10:53:41.253787+00:00",
+  "updated_at": "2026-11-17T19:28:15.380735+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "7e3b8c2ff0caddf7",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T17:36:31+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress The former Nvidia",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 153.66,
+      "change": -1.59,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+      "image": null,
+      "headline": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 153.66
+        }
+      ]
+    },
+    {
+      "id": "f98d790a13253a80",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T15:02:00+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips - 24/7 Wall St. Trump Media Climbs 3% After Buying",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 620.14,
+      "change": -1.0,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcEE4ZkEyTjd1V3VPMGd0MnRrY1V4MjdQQjNweWlYZVVRdGZiUkpLbUp0Sy1la3h3SlhXRzRiejliUm1pWE1lWFZ3ZW5SV0h2dzVsb090dDRBcEg3YUV6VWxhNGpYWGd3VkZlekFZU29pWFR6aUZQTEVDYUE5d3haeFpkSzhZYXJMV0RtSndtMWhWQmt4UHNJZHhXVXZvaWpCdzMyY2J4Wm1qS0RadERQUmZYQTdMNWstZzY5VFdqTzhpUVNDbGdVZUZ4NkRZUmVHUW5iZ25tT0E?oc=5",
+      "image": null,
+      "headline": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 705.44
+        },
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 697.52
+        },
+        {
+          "d": "10-22",
+          "c": 648.85
+        },
+        {
+          "d": "10-23",
+          "c": 642.62
+        },
+        {
+          "d": "10-26",
+          "c": 630.56
+        },
+        {
+          "d": "10-27",
+          "c": 620.19
+        },
+        {
+          "d": "10-28",
+          "c": 612.49
+        },
+        {
+          "d": "10-29",
+          "c": 624.52
+        },
+        {
+          "d": "10-30",
+          "c": 614.99
+        },
+        {
+          "d": "11-02",
+          "c": 606.73
+        },
+        {
+          "d": "11-03",
+          "c": 621.03
+        },
+        {
+          "d": "11-04",
+          "c": 630.0
+        },
+        {
+          "d": "11-05",
+          "c": 605.08
+        },
+        {
+          "d": "11-06",
+          "c": 610.15
+        },
+        {
+          "d": "11-09",
+          "c": 641.37
+        },
+        {
+          "d": "11-10",
+          "c": 641.39
+        },
+        {
+          "d": "11-11",
+          "c": 628.77
+        },
+        {
+          "d": "11-12",
+          "c": 623.61
+        },
+        {
+          "d": "11-13",
+          "c": 641.69
+        },
+        {
+          "d": "11-16",
+          "c": 626.41
+        },
+        {
+          "d": "11-17",
+          "c": 620.14
+        }
+      ]
+    },
+    {
+      "id": "494799ec228b7aff",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T15:02:00+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.08,
+      "change": 0.0,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcEE4ZkEyTjd1V3VPMGd0MnRrY1V4MjdQQjNweWlYZVVRdGZiUkpLbUp0Sy1la3h3SlhXRzRiejliUm1pWE1lWFZ3ZW5SV0h2dzVsb090dDRBcEg3YUV6VWxhNGpYWGd3VkZlekFZU29pWFR6aUZQTEVDYUE5d3haeFpkSzhZYXJMV0RtSndtMWhWQmt4UHNJZHhXVXZvaWpCdzMyY2J4Wm1qS0RadERQUmZYQTdMNWstZzY5VFdqTzhpUVNDbGdVZUZ4NkRZUmVHUW5iZ25tT0E?oc=5",
+      "image": null,
+      "headline": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 6.43
+        },
+        {
+          "d": "10-20",
+          "c": 6.47
+        },
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.08
+        }
+      ]
+    },
+    {
+      "id": "7fe868e2b2b9dc38",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T14:02:09+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "MS NOW",
+      "type": "news",
+      "quote": "As Nvidia scandal intensifies, Trump\u2019s investments in the company\u2019s",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 153.66,
+      "change": -1.59,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkpFTnRVajBBM25QUFZCVG02ak94UURfU0VWbHVvNUx1alQ4NFFIX1h3ZzB2ek1fSGw1SEdHa2FmSnhad1plcERzSEpPZmJGY2g1c3p3MFZBcTBOMWR4Y3lUaWJja2QydWt4ZUlRNzFfOTIzRDBzT1o3cU1LNGw2QjZpSEM2OU5oOUp1dWRtdWlyQm1NTnZFMTdqWXc0QURaRmE3ZG9sa3JNWGZxUXNOU2tn?oc=5",
+      "image": null,
+      "headline": "As Nvidia scandal intensifies, Trump\u2019s investments in the company\u2019s stock draw scrutiny - MS NOW",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 153.66
+        }
+      ]
+    },
+    {
+      "id": "949a40a7439cad86",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T14:00:00+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "CalMatters",
+      "type": "news",
+      "quote": "California sues OpenAI over hacking that stoked AI fears - CalMatters California",
+      "company": "Openai",
+      "ticker": "",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMm45VHVkRURJakFPcEtXMnlQemlQSkw0dUg0dktNNXN3U1FmSTZtZ0Fpb3EwZnlSU2F5VVkzOXhJWGJFWEcwUElXUWRBYXkzSmpJREd6aHVmRUtQSTAtdmRfOVNpX0JqUFE?oc=5",
+      "image": null,
+      "headline": "California sues OpenAI over hacking that stoked AI fears - CalMatters",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "8039d26cc3b65234",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T12:48:33+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "Yahoo Finance Singapore",
+      "type": "news",
+      "quote": "Trump Praises Nvidia\u2019s New National Security Committee After Jensen Huang",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 153.66,
+      "change": -1.59,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2NGeENteTFqSDJpRWZRQlJVYk4zUHRaa2k1aUJHX09DWmRTNUhUVWM2TWtpQm1PSWdVOTMycVlWR21KaGtqclRMTWV0SGlNRFBVXzNCX3ZndUVqVWZkYlJSUk5nazFoNXBqdlVzTTRGZTRDaVUyX2NBd1l5b205czIyaUp2RHBUS0hJNjE0UFo?oc=5",
+      "image": null,
+      "headline": "Trump Praises Nvidia\u2019s New National Security Committee After Jensen Huang Resigns - Yahoo Finance Singapore",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 153.66
+        }
+      ]
+    },
+    {
+      "id": "f943267854a09e45",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T12:20:57+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "of Xi, Putin summit. And, tech leaders want Huang back at Nvidia Trump says he plans to discuss Ukraine during his Asia",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 153.66,
+      "change": -1.59,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "image": null,
+      "headline": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 153.66
+        }
+      ]
+    },
+    {
+      "id": "da974ab648144878",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T11:30:00+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Can Google win the AI race without killing its cash cow? In late",
+      "company": "Google",
+      "ticker": "GOOGL",
+      "price": 280.62,
+      "change": -1.09,
+      "direction": "down",
+      "article_link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+      "image": null,
+      "headline": "Can Google win the AI race without killing its cash cow?",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 344.18
+        },
+        {
+          "d": "10-20",
+          "c": 340.28
+        },
+        {
+          "d": "10-21",
+          "c": 334.76
+        },
+        {
+          "d": "10-22",
+          "c": 324.22
+        },
+        {
+          "d": "10-23",
+          "c": 320.21
+        },
+        {
+          "d": "10-26",
+          "c": 316.8
+        },
+        {
+          "d": "10-27",
+          "c": 320.58
+        },
+        {
+          "d": "10-28",
+          "c": 324.89
+        },
+        {
+          "d": "10-29",
+          "c": 283.82
+        },
+        {
+          "d": "10-30",
+          "c": 279.84
+        },
+        {
+          "d": "11-02",
+          "c": 278.99
+        },
+        {
+          "d": "11-03",
+          "c": 280.03
+        },
+        {
+          "d": "11-04",
+          "c": 288.93
+        },
+        {
+          "d": "11-05",
+          "c": 282.57
+        },
+        {
+          "d": "11-06",
+          "c": 284.78
+        },
+        {
+          "d": "11-09",
+          "c": 288.15
+        },
+        {
+          "d": "11-10",
+          "c": 287.38
+        },
+        {
+          "d": "11-11",
+          "c": 293.45
+        },
+        {
+          "d": "11-12",
+          "c": 298.7
+        },
+        {
+          "d": "11-13",
+          "c": 295.77
+        },
+        {
+          "d": "11-16",
+          "c": 283.72
+        },
+        {
+          "d": "11-17",
+          "c": 280.62
+        }
+      ]
+    },
     {
       "id": "87390861e2b6bbb4",
       "date": "Tue, 17 Nov 2026",
@@ -1780,6 +2555,114 @@
       ]
     },
     {
+      "id": "739ff8331b23eee1",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T20:09:30+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "KABB",
+      "type": "news",
+      "quote": "Trump says he 'would not mind' Huang returning as Nvidia CEO - KABB Trump says he 'would not mind' Huang returning",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 153.66,
+      "change": -1.59,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY242eTBPWm1IVDROcWZTQzBGdmtvUnNfc19OWFRFQmItSHVQcGFOMUtPdW9zcl9MMTBtU0ktZVc4MTZMU1FGLWJTRWdLbkRRWldCQ1hXS0x1Szl6NnZMWHVGUkpVYXE3T092eDhucmhWSHJvSDBWaXVHWDVqaWYtNjd2NmVaeFZ4dGVseTVDLW1UTnRhbmt6T0R1MS14dFVkWjBJQlFFWWxVeERIZjMxdkJ2MG9ldDQ4LUM3Qk5IaEIwUDZqeExsTEI2cGVDWDdFb1JTQ2s3VHBUN3M?oc=5",
+      "image": null,
+      "headline": "Trump says he 'would not mind' Huang returning as Nvidia CEO - KABB",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 153.66
+        }
+      ]
+    },
+    {
       "id": "ce72f6d8963d26f7",
       "date": "Mon, 16 Nov 2026",
       "ts": "2026-11-16T20:04:40+00:00",
@@ -3016,6 +3899,114 @@
         {
           "d": "11-16",
           "c": 155.62
+        }
+      ]
+    },
+    {
+      "id": "6b2d32d1f941c8ed",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T17:54:00+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "'A beautiful woman': Trump unsure Nvidia CEO had affair with Chinese spy - USA Today 'A beautiful",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 153.66,
+      "change": -1.59,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdMT2N4djdyTlgwazlnREdWbUtLTnFta24yckpsU0FWYUh3eFhlSWZwWHgzVzBUMHRoZl9sNWllNUZYSkFLajdSZjF1YnNldTlPMFZScGVkS2xSaUtaZzFSakRydWloNzNBOWM0VU8tcklqTWpod1ZjOHJpRGxqMmhxYzQ1X1BlNXdZOWhaQkJEY2p4Z1R1ZWs5RjVSd2VqWjJWbFlRNy13UGFVRXZPMGYweVFHYzNr?oc=5",
+      "image": null,
+      "headline": "'A beautiful woman': Trump unsure Nvidia CEO had affair with Chinese spy - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 153.66
         }
       ]
     },
@@ -40234,1074 +41225,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXZtbXAyZndURnN1bng0NWhqMkd0Z0hpOFd0bHpwUEtacEtBWVo0c1JyQ1VQOGVmeDNaZl94QzBUOUpxRnV4UTBreS01MGpyOEx4bXRwekRBVlU5WnlsdmprZ0pCRUZvenlERHdua3hpNm5fNUlOdW5YbFdNRlV6RkNUaFZtcF9PS0ZhdjBwSTZmcGJPWWxqMGU0dVZlNWdoTkk0?oc=5",
       "image": null,
       "headline": "Truth Social Sells Faster Access To Trump\u2019s Posts To Bloomberg, Wall Street Firms - Arise News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.72
-        }
-      ]
-    },
-    {
-      "id": "7c40b4dba9d41c23",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T07:00:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 178.67,
-      "change": -4.27,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "image": null,
-      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        }
-      ]
-    },
-    {
-      "id": "771ebd1db5c4743a",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T07:00:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times Nvidia Chief Seen",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 165.9,
-      "change": 4.73,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "image": null,
-      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        },
-        {
-          "d": "11-02",
-          "c": 158.38
-        },
-        {
-          "d": "11-03",
-          "c": 154.4
-        },
-        {
-          "d": "11-04",
-          "c": 163.1
-        },
-        {
-          "d": "11-05",
-          "c": 157.95
-        },
-        {
-          "d": "11-06",
-          "c": 158.41
-        },
-        {
-          "d": "11-09",
-          "c": 165.9
-        }
-      ]
-    },
-    {
-      "id": "cd9846cd4227cccf",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T07:00:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times Nvidia Chief Seen as Target of Chinese Spy",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.25,
-      "change": 5.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "image": null,
-      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        },
-        {
-          "d": "11-03",
-          "c": 67.12
-        },
-        {
-          "d": "11-04",
-          "c": 66.5
-        },
-        {
-          "d": "11-05",
-          "c": 65.57
-        },
-        {
-          "d": "11-06",
-          "c": 68.36
-        },
-        {
-          "d": "11-09",
-          "c": 72.25
-        }
-      ]
-    },
-    {
-      "id": "e3b099d40011dc13",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T07:00:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 168.89,
-      "change": -5.47,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "image": null,
-      "headline": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        }
-      ]
-    },
-    {
-      "id": "f2c0b7ed1c4eb4b8",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T07:00:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times Nvidia Chief,",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 161.78,
-      "change": -2.48,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "image": null,
-      "headline": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        },
-        {
-          "d": "11-02",
-          "c": 158.38
-        },
-        {
-          "d": "11-03",
-          "c": 154.4
-        },
-        {
-          "d": "11-04",
-          "c": 163.1
-        },
-        {
-          "d": "11-05",
-          "c": 157.95
-        },
-        {
-          "d": "11-06",
-          "c": 158.41
-        },
-        {
-          "d": "11-09",
-          "c": 165.9
-        },
-        {
-          "d": "11-10",
-          "c": 161.78
-        }
-      ]
-    },
-    {
-      "id": "48285d1c78184e17",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T07:00:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.58,
-      "change": 0.57,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
-      "image": null,
-      "headline": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        },
-        {
-          "d": "11-03",
-          "c": 67.12
-        },
-        {
-          "d": "11-04",
-          "c": 66.5
-        },
-        {
-          "d": "11-05",
-          "c": 65.57
-        },
-        {
-          "d": "11-06",
-          "c": 68.36
-        },
-        {
-          "d": "11-09",
-          "c": 72.17
-        },
-        {
-          "d": "11-10",
-          "c": 72.58
-        }
-      ]
-    },
-    {
-      "id": "44250166de3874d5",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T04:46:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "Bloomberg, Wall Street firms buy fast access to Truth Social posts, report says - TradingView Bloomberg, Wall Street",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.72,
-      "change": -4.19,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmhuaHBpZW5veE56cXBxMmtzQkpydWU4RlZYYmpPeWpRcFlELVMzNVlxRmdCbWpOQ19QZkdXWlpCVVdYeFBpOVozcFlXU055bzhDRk9tNV9rcFF2MXVQejNXVGczN1dLSVJjRmM1QkJsOEZSTlRYR3JaQXBGX3Y1VlBjelZlUXRHSl9NdE9hRVVqbm9ITWo3RGEzVHpSZjFZMWZ2RG9vUTFhYUNYMmtxcEdoZWFvMWZsZHFLVDJyTnpqell5d2h5Ukc2Yks2cmxraHdCNEdMUQ?oc=5",
-      "image": null,
-      "headline": "Bloomberg, Wall Street firms buy fast access to Truth Social posts, report says - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.72
-        }
-      ]
-    },
-    {
-      "id": "2e4c6b9f29a520ea",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T02:33:45+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "WTVB",
-      "type": "news",
-      "quote": "Exclusive-Bloomberg, two trading firms agree to pay Trump\u2019s Truth Social for faster access to president\u2019s posts, sources say - WTVB",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.97,
-      "change": -6.13,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUGxVbG05eHNQOUowVVNSREJ0VFl6OFI3T3ZxNG5iamoyR3RMaGdJUV9POGE0QUlJSWEyV2I1NXVtN1NSWWRxUnVWWnB3dHF1Rmp0X0k1cEUtdHhSLXZPcDBKeEo2aHVXTDdELXBZbjBtVTlTZzVnTTZhYkduR09JdkVmU0gxWjc0T2djVF9nc2ROdy1hSFBab3VFNUlkUzNFc18wamZIZnpNV0dnaTVpVGxqMEhsTEdTcXkzQWxHQ3owamc4U3JDaGg2a3FoaE5rcnJLaFVrV05GNmZBbGo5XzRaN2Y5Zw?oc=5",
-      "image": null,
-      "headline": "Exclusive-Bloomberg, two trading firms agree to pay Trump\u2019s Truth Social for faster access to president\u2019s posts, sources say - WTVB",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-29",
-          "c": 9.1
-        },
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        }
-      ]
-    },
-    {
-      "id": "6b60be8462ccdb97",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T01:41:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The Straits Times",
-      "type": "news",
-      "quote": "2 trading firms agree to pay for faster access to Trump\u2019s Truth Social posts: Sources - The Straits Times Bloomberg, 2 trading",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.72,
-      "change": -4.19,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFRROFQ1SENQdTB1c3hmQ29CTTJSdnZINHVaWWp3SzhNNVhZalR1VFVybFJSWFZ4UmxCY202ejEtS04wQkl0b25pU2dOcGxlX1BLSUxnLVFyYTltYUk0TXcwYWsxUDdnUlBERGhEY3AzMnpoWGZxMjVWeGFQZEdjVWJLVTY3VHFTdVdrOEhnTGRiWWhEMVUxcUp0bUhSYUNuZ1NDMVhIUDItRmR1eVFYek9ZYzdyX3R0bEY4aU11VXFKeXZiMVhTcWpnbnB0d3FsYXFKMVROY0Z1QQ?oc=5",
-      "image": null,
-      "headline": "Bloomberg, 2 trading firms agree to pay for faster access to Trump\u2019s Truth Social posts: Sources - The Straits Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.72
-        }
-      ]
-    },
-    {
-      "id": "3dc27ae3191e4594",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T00:21:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "EXCLUSIVE: Bloomberg, trading firms to pay Trump for faster Truth Social access, sources say - Reuters EXCLUSIVE: Bloomberg,",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.72,
-      "change": -4.19,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
-      "image": null,
-      "headline": "EXCLUSIVE: Bloomberg, trading firms to pay Trump for faster Truth Social access, sources say - Reuters",
       "channel": "News",
       "series": [
         {
