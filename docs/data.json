@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-11-17T19:28:15.380735+00:00",
+  "updated_at": "2026-11-18T01:45:13.543538+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "5f608b7f97eb297e",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T23:03:00+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "USA Today",
+      "type": "news",
+      "quote": "Ro Khanna: Trump team turned a 'blind eye' to keep Nvidia stock price up - USA Today Ro Khanna: Trump team turned a",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTE1TQk5kOXk2ZGZsY3JBeGY3VmFKNG9HTzRKbm85QjV2aVhQTWxIcU9PRy1BdFZmTmJxTEpPNjFIZERPclhmN2JfVkhqcXFtNDFncjYyeFZGaVVaUktXZ1V0bWRFRjFlU3FfOEZuNWxJVDRmNHVMN3ZDUWhpS1pNTnVhY2VPLUJEUDN0RGdpUUhNZGU1MmttVDVod1gyTjBhb0E?oc=5",
+      "image": null,
+      "headline": "Ro Khanna: Trump team turned a 'blind eye' to keep Nvidia stock price up - USA Today",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        }
+      ]
+    },
     {
       "id": "7e3b8c2ff0caddf7",
       "date": "Tue, 17 Nov 2026",
@@ -107,6 +211,110 @@
         {
           "d": "11-17",
           "c": 153.66
+        }
+      ]
+    },
+    {
+      "id": "8ef4a933e917692e",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T17:36:31+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Nvidia board says it does not intend to reinstate Jensen Huang as",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 156.14,
+      "change": -4.12,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+      "image": null,
+      "headline": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-19",
+          "c": 217.09
+        },
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
         }
       ]
     },
@@ -41009,222 +41217,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORU43QkdyQ0Q4X0ZoZkl2MmJXa05ERlJUWXlhYmVtRk5DbUhGaW9ObFdmeF9SaDNMcXlHa3psVFhYZ3E5TWh0dEZfSmx4X1FBUEtnNFBWWEh3NGl4UzVDSi1VQmRxLW5kRkF3YWxxNUxKazhzX0FhZnR4c1hyYkxOZWNtMmw4Njl0ZkNtV2hMNk9kR0xmQ2ZxOXd4QXBKeWdfazFVMEhvNnhxQQ?oc=5",
       "image": null,
       "headline": "Truth Social is selling faster access to Trump's posts for $100,000 a month - UA.NEWS",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.72
-        }
-      ]
-    },
-    {
-      "id": "4f337568019bc7f7",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T12:16:18+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Trump Media Stock In Focus As Truth Social Sells Early Access To Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 5.78,
-      "change": -3.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFg1cjc5cG1CcXJTV3dPeldFQ0tJOVNYWnBfTUUwZ1FmNXJfT3dQMC16SUt0bTFVMzFESVUwTEtzSVdMR253ODh4S0VwYXBaU2xveDRvdEN2dXBTNzhnV29ia2ljNVNmVU02dFhiUjl3QVRGU29QMWVNczlneEs3Vk5pV1RTVDg2bXJtY3d6c2d5RUIxaGxDQ0d3?oc=5",
-      "image": null,
-      "headline": "Trump Media Stock In Focus As Truth Social Sells Early Access To Trump Posts - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        }
-      ]
-    },
-    {
-      "id": "58806082a2b1be77",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T11:49:42+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "Arise News",
-      "type": "news",
-      "quote": "Truth Social Sells Faster Access To Trump\u2019s Posts To Bloomberg, Wall",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.72,
-      "change": -4.19,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXZtbXAyZndURnN1bng0NWhqMkd0Z0hpOFd0bHpwUEtacEtBWVo0c1JyQ1VQOGVmeDNaZl94QzBUOUpxRnV4UTBreS01MGpyOEx4bXRwekRBVlU5WnlsdmprZ0pCRUZvenlERHdua3hpNm5fNUlOdW5YbFdNRlV6RkNUaFZtcF9PS0ZhdjBwSTZmcGJPWWxqMGU0dVZlNWdoTkk0?oc=5",
-      "image": null,
-      "headline": "Truth Social Sells Faster Access To Trump\u2019s Posts To Bloomberg, Wall Street Firms - Arise News",
       "channel": "News",
       "series": [
         {
