@@ -1,7 +1,655 @@
 {
-  "updated_at": "2026-11-18T09:24:42.389488+00:00",
+  "updated_at": "2026-11-18T18:14:38.385378+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2382943925e9ce98",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T15:29:00+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit - Forbes Why Are So Many Outages",
+      "company": "Apple",
+      "ticker": "AAPL",
+      "price": 353.0,
+      "change": 0.31,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5",
+      "image": null,
+      "headline": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 339.24
+        },
+        {
+          "d": "10-21",
+          "c": 343.73
+        },
+        {
+          "d": "10-22",
+          "c": 347.96
+        },
+        {
+          "d": "10-23",
+          "c": 347.47
+        },
+        {
+          "d": "10-26",
+          "c": 343.65
+        },
+        {
+          "d": "10-27",
+          "c": 346.84
+        },
+        {
+          "d": "10-28",
+          "c": 343.57
+        },
+        {
+          "d": "10-29",
+          "c": 348.65
+        },
+        {
+          "d": "10-30",
+          "c": 344.37
+        },
+        {
+          "d": "11-02",
+          "c": 338.06
+        },
+        {
+          "d": "11-03",
+          "c": 331.65
+        },
+        {
+          "d": "11-04",
+          "c": 349.24
+        },
+        {
+          "d": "11-05",
+          "c": 343.91
+        },
+        {
+          "d": "11-06",
+          "c": 342.11
+        },
+        {
+          "d": "11-09",
+          "c": 350.42
+        },
+        {
+          "d": "11-10",
+          "c": 348.25
+        },
+        {
+          "d": "11-11",
+          "c": 355.36
+        },
+        {
+          "d": "11-12",
+          "c": 354.88
+        },
+        {
+          "d": "11-13",
+          "c": 356.27
+        },
+        {
+          "d": "11-16",
+          "c": 352.78
+        },
+        {
+          "d": "11-17",
+          "c": 351.91
+        },
+        {
+          "d": "11-18",
+          "c": 353.0
+        }
+      ]
+    },
+    {
+      "id": "0ea4d8dca4cc4b0e",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T15:29:00+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit - Forbes Why Are So Many Outages Happening?",
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "price": 504.05,
+      "change": -0.43,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5",
+      "image": null,
+      "headline": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 531.87
+        },
+        {
+          "d": "10-21",
+          "c": 532.95
+        },
+        {
+          "d": "10-22",
+          "c": 521.08
+        },
+        {
+          "d": "10-23",
+          "c": 524.51
+        },
+        {
+          "d": "10-26",
+          "c": 532.6
+        },
+        {
+          "d": "10-27",
+          "c": 531.33
+        },
+        {
+          "d": "10-28",
+          "c": 531.01
+        },
+        {
+          "d": "10-29",
+          "c": 530.14
+        },
+        {
+          "d": "10-30",
+          "c": 521.91
+        },
+        {
+          "d": "11-02",
+          "c": 507.12
+        },
+        {
+          "d": "11-03",
+          "c": 520.99
+        },
+        {
+          "d": "11-04",
+          "c": 555.8
+        },
+        {
+          "d": "11-05",
+          "c": 535.93
+        },
+        {
+          "d": "11-06",
+          "c": 530.61
+        },
+        {
+          "d": "11-09",
+          "c": 545.18
+        },
+        {
+          "d": "11-10",
+          "c": 533.16
+        },
+        {
+          "d": "11-11",
+          "c": 521.13
+        },
+        {
+          "d": "11-12",
+          "c": 523.0
+        },
+        {
+          "d": "11-13",
+          "c": 523.88
+        },
+        {
+          "d": "11-16",
+          "c": 517.99
+        },
+        {
+          "d": "11-17",
+          "c": 506.24
+        },
+        {
+          "d": "11-18",
+          "c": 504.05
+        }
+      ]
+    },
+    {
+      "id": "e30df1d7578ed69f",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T14:02:20+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "Alaska Native News",
+      "type": "news",
+      "quote": "Nvidia Scandal, Trump Trades Show Urgent \u2018Need for Stock",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 151.4,
+      "change": -2.61,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTRhMGFKZXg1M0VVd0NLUHprSHZxZTg5NUliTWhnN1NqeG5lblJyTHp6cGNFS0JpZ0dTWHFMRi1VMjRCWnBaY3E3TGpKQThFajRRaEl1VkNwN1EwejFNbG1qWW1EaTFUM1ZRWDhVM05MY205VlZlSnhoWU5wa1lFZ1dKRHVReGlUSU0zNHJ3MG9OZzA2VEhqU1hvdnNXMC1RWWJGaWphblNCYllhUVdUV1d1WlBFRlN5WVhpSXdROFVYSW1seENJaw?oc=5",
+      "image": null,
+      "headline": "Nvidia Scandal, Trump Trades Show Urgent \u2018Need for Stock Ownership Ban in Washington\u2019: Watchdog - Alaska Native News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 151.4
+        }
+      ]
+    },
+    {
+      "id": "3a4ea6f641361669",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T12:14:28+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang Former Democratic Rep. Mary",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 151.4,
+      "change": -2.61,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+      "image": null,
+      "headline": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 151.4
+        }
+      ]
+    },
+    {
+      "id": "afe979d58db33a60",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T10:00:00+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Project Gryffindor: Meta's plan to get more school kids using Instagram Meta said",
+      "company": "Meta",
+      "ticker": "META",
+      "price": 615.26,
+      "change": -0.58,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+      "image": null,
+      "headline": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 694.25
+        },
+        {
+          "d": "10-21",
+          "c": 697.52
+        },
+        {
+          "d": "10-22",
+          "c": 648.85
+        },
+        {
+          "d": "10-23",
+          "c": 642.62
+        },
+        {
+          "d": "10-26",
+          "c": 630.56
+        },
+        {
+          "d": "10-27",
+          "c": 620.19
+        },
+        {
+          "d": "10-28",
+          "c": 612.49
+        },
+        {
+          "d": "10-29",
+          "c": 624.52
+        },
+        {
+          "d": "10-30",
+          "c": 614.99
+        },
+        {
+          "d": "11-02",
+          "c": 606.73
+        },
+        {
+          "d": "11-03",
+          "c": 621.03
+        },
+        {
+          "d": "11-04",
+          "c": 630.0
+        },
+        {
+          "d": "11-05",
+          "c": 605.08
+        },
+        {
+          "d": "11-06",
+          "c": 610.15
+        },
+        {
+          "d": "11-09",
+          "c": 641.37
+        },
+        {
+          "d": "11-10",
+          "c": 641.39
+        },
+        {
+          "d": "11-11",
+          "c": 628.77
+        },
+        {
+          "d": "11-12",
+          "c": 623.61
+        },
+        {
+          "d": "11-13",
+          "c": 641.69
+        },
+        {
+          "d": "11-16",
+          "c": 626.41
+        },
+        {
+          "d": "11-17",
+          "c": 618.87
+        },
+        {
+          "d": "11-18",
+          "c": 615.26
+        }
+      ]
+    },
+    {
+      "id": "7feac7e1edaf6276",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T10:00:00+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "that The Trump administration's sweeping changes to SNAP food aid mean older adults up to age 65 must work or",
+      "company": "Snap",
+      "ticker": "SNAP",
+      "price": 5.53,
+      "change": 0.55,
+      "direction": "up",
+      "article_link": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
+      "image": null,
+      "headline": "She retired early to care for family. New work rules for food aid disrupted that",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 6.38
+        },
+        {
+          "d": "10-21",
+          "c": 6.35
+        },
+        {
+          "d": "10-22",
+          "c": 6.35
+        },
+        {
+          "d": "10-23",
+          "c": 6.34
+        },
+        {
+          "d": "10-26",
+          "c": 6.34
+        },
+        {
+          "d": "10-27",
+          "c": 6.08
+        },
+        {
+          "d": "10-28",
+          "c": 5.96
+        },
+        {
+          "d": "10-29",
+          "c": 5.68
+        },
+        {
+          "d": "10-30",
+          "c": 5.34
+        },
+        {
+          "d": "11-02",
+          "c": 5.45
+        },
+        {
+          "d": "11-03",
+          "c": 5.59
+        },
+        {
+          "d": "11-04",
+          "c": 5.92
+        },
+        {
+          "d": "11-05",
+          "c": 5.09
+        },
+        {
+          "d": "11-06",
+          "c": 4.96
+        },
+        {
+          "d": "11-09",
+          "c": 5.05
+        },
+        {
+          "d": "11-10",
+          "c": 5.0
+        },
+        {
+          "d": "11-11",
+          "c": 5.34
+        },
+        {
+          "d": "11-12",
+          "c": 5.22
+        },
+        {
+          "d": "11-13",
+          "c": 5.26
+        },
+        {
+          "d": "11-16",
+          "c": 5.09
+        },
+        {
+          "d": "11-17",
+          "c": 5.5
+        },
+        {
+          "d": "11-18",
+          "c": 5.53
+        }
+      ]
+    },
     {
       "id": "eb4e35842f38b465",
       "date": "Wed, 18 Nov 2026",
@@ -1198,6 +1846,114 @@
         {
           "d": "11-17",
           "c": 280.62
+        }
+      ]
+    },
+    {
+      "id": "8cd1b9c6465d81f8",
+      "date": "Tue, 17 Nov 2026",
+      "ts": "2026-11-17T11:01:10+00:00",
+      "date_display": "Nov 17, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "Here's how Donald Trump traded Nvidia stock in his second term - TradingView Here's how Donald",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 151.4,
+      "change": -2.61,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVldPVXVndzAzWHpoWHA3NUNubTdUX0xhMFkxWjhpVFMtZ3Zya2VHLUNoU3dVaW9FNEpDWi04R2puUUVEbFNRcTh6UnU1NHZTbUVBTmRwWlZLRVBXNDZES244a2VhNlNha3Q2dDh6TGVUMFFXZDBnTFA4eUkzZDZ6Y0tSQ2p0dHFHY0dUVmxGRHZhZXAxeUJrYTlpY1dGRWN0bmhuYXJNNkw2bG5lWnNiODMtdFNQdEgzSDh3?oc=5",
+      "image": null,
+      "headline": "Here's how Donald Trump traded Nvidia stock in his second term - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 151.4
         }
       ]
     },
@@ -3287,6 +4043,114 @@
         {
           "d": "11-13",
           "c": 4.64
+        }
+      ]
+    },
+    {
+      "id": "d56a0f584d9207b5",
+      "date": "Mon, 16 Nov 2026",
+      "ts": "2026-11-16T19:09:18+00:00",
+      "date_display": "Nov 16, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Donald Trump\u2019s Jaw-Dropping Stake in Nvidia Revealed - Yahoo Finance Donald Trump\u2019s Jaw-Dropping Stake",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 151.4,
+      "change": -2.61,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1BJblFjX0hSSDd2b1hRR2t2eWlfYnE0UzZuMC1HQnFEWndJT0RwVVRZZlREUS0wcXpGZkluMy1DNlBiVkNfcnh6b2RSRXYyYzJ2a0lweFZ3Wk81N2thUVh2MGo1M1lLUkFYM2FPdjRHaG11cnpxanl3RW14ajFlMlZ4NUpfUnB2OFphOHdCMlB6eXlxRUh6aHM3RVU?oc=5",
+      "image": null,
+      "headline": "Donald Trump\u2019s Jaw-Dropping Stake in Nvidia Revealed - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 151.4
         }
       ]
     },
@@ -40442,870 +41306,6 @@
         {
           "d": "10-29",
           "c": 283.82
-        }
-      ]
-    },
-    {
-      "id": "46e35951294d1d7d",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T21:35:11+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "and Votebeat editorial director Jessica Huseman hosted a Reddit \"Ask Me Anything\" Q&amp;A on Wednesday to address people's",
-      "company": "Reddit",
-      "ticker": "RDDT",
-      "price": 129.6,
-      "change": -3.79,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/5-expert-takeaways-on-2026-midterm-election-security",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-20T205010Z_512480192_RC2ORMAF40C9_RTRMADP_3_USA-ELECTION-MONITORS-1024x697.jpg",
-      "headline": "5 expert takeaways on 2026 midterm election security",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 142.44
-        },
-        {
-          "d": "10-01",
-          "c": 149.53
-        },
-        {
-          "d": "10-02",
-          "c": 147.86
-        },
-        {
-          "d": "10-05",
-          "c": 150.42
-        },
-        {
-          "d": "10-06",
-          "c": 148.95
-        },
-        {
-          "d": "10-07",
-          "c": 152.71
-        },
-        {
-          "d": "10-08",
-          "c": 156.47
-        },
-        {
-          "d": "10-09",
-          "c": 159.91
-        },
-        {
-          "d": "10-12",
-          "c": 159.93
-        },
-        {
-          "d": "10-13",
-          "c": 155.29
-        },
-        {
-          "d": "10-14",
-          "c": 148.6
-        },
-        {
-          "d": "10-15",
-          "c": 159.36
-        },
-        {
-          "d": "10-16",
-          "c": 156.14
-        },
-        {
-          "d": "10-19",
-          "c": 155.14
-        },
-        {
-          "d": "10-20",
-          "c": 155.65
-        },
-        {
-          "d": "10-21",
-          "c": 153.28
-        },
-        {
-          "d": "10-22",
-          "c": 150.26
-        },
-        {
-          "d": "10-23",
-          "c": 144.25
-        },
-        {
-          "d": "10-26",
-          "c": 138.45
-        },
-        {
-          "d": "10-27",
-          "c": 136.46
-        },
-        {
-          "d": "10-28",
-          "c": 134.7
-        },
-        {
-          "d": "10-29",
-          "c": 129.6
-        }
-      ]
-    },
-    {
-      "id": "76d110390e07f5e9",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T21:27:28+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "citybiz",
-      "type": "news",
-      "quote": "Truth Social Sells Faster Access to Trump Posts to Bloomberg and",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.78,
-      "change": -3.18,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3RtTGdHMUVXUFNwblJNbFEwdEJxMHVWcnZ1VzFJSmI0VWEyeGRVMFZwWnIzOW90Z2NHcDQ3T0E3ZTV1eGNjRy1mYmgwMDRzcjBlX09yWW4yUFVJS09WQkY3NTF4TWdZOXhCa0hOeF9mUTNXck9NX1Q3TmdTWWMxY2ZLa19wM3U5a2wxZGZ3LWlRTGRvVzhHYl94Z1cyMlZNTDdnMHJyLUdPdzZoT3k0NmJkMU1rdmI5dEN6eXVvVDE1QmJDWkRnWmx5MjZTZw?oc=5",
-      "image": null,
-      "headline": "Truth Social Sells Faster Access to Trump Posts to Bloomberg and Trading Firms, Reuters Reports - citybiz",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 9.06
-        },
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        }
-      ]
-    },
-    {
-      "id": "afcd1509e250fdb1",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T21:17:41+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 65.76,
-      "change": -28.58,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
-      "image": null,
-      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 120.0
-        },
-        {
-          "d": "10-02",
-          "c": 119.33
-        },
-        {
-          "d": "10-05",
-          "c": 116.19
-        },
-        {
-          "d": "10-06",
-          "c": 112.5
-        },
-        {
-          "d": "10-07",
-          "c": 113.12
-        },
-        {
-          "d": "10-08",
-          "c": 107.08
-        },
-        {
-          "d": "10-09",
-          "c": 104.7
-        },
-        {
-          "d": "10-12",
-          "c": 101.35
-        },
-        {
-          "d": "10-13",
-          "c": 102.81
-        },
-        {
-          "d": "10-14",
-          "c": 98.12
-        },
-        {
-          "d": "10-15",
-          "c": 95.37
-        },
-        {
-          "d": "10-16",
-          "c": 89.85
-        },
-        {
-          "d": "10-19",
-          "c": 92.03
-        },
-        {
-          "d": "10-20",
-          "c": 91.69
-        },
-        {
-          "d": "10-21",
-          "c": 92.96
-        },
-        {
-          "d": "10-22",
-          "c": 85.49
-        },
-        {
-          "d": "10-23",
-          "c": 86.96
-        },
-        {
-          "d": "10-26",
-          "c": 90.47
-        },
-        {
-          "d": "10-27",
-          "c": 93.74
-        },
-        {
-          "d": "10-28",
-          "c": 95.53
-        },
-        {
-          "d": "10-29",
-          "c": 92.07
-        },
-        {
-          "d": "10-30",
-          "c": 65.76
-        }
-      ]
-    },
-    {
-      "id": "f1d20833ada0aa71",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T21:17:41+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "20% as A.I. Hinders Some Parts of Its Business - The New York Times Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.17,
-      "change": 1.08,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3JHd09CYUlpY2ZZbFRmUGtEcXdmZWIzRUppSExxdGhkamFzWDBWTUR2RDJGNEhEOU90dXY0YnEyZDdyVDVKMmNLZm9NRlRNR2VyUUR2dTJtVEItbkxZMkwtZTN5Q3B1cEZQTDN1TnlCQjQ?oc=5",
-      "image": null,
-      "headline": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 63.48
-        },
-        {
-          "d": "10-02",
-          "c": 62.47
-        },
-        {
-          "d": "10-05",
-          "c": 63.77
-        },
-        {
-          "d": "10-06",
-          "c": 63.84
-        },
-        {
-          "d": "10-07",
-          "c": 64.9
-        },
-        {
-          "d": "10-08",
-          "c": 66.6
-        },
-        {
-          "d": "10-09",
-          "c": 66.32
-        },
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        }
-      ]
-    },
-    {
-      "id": "67e422fa7f3273a6",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T20:51:20+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "the second general under Hegseth to be removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 141.62,
-      "change": -2.44,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-15T184248Z_817979178_RC2IULA3MXUQ_RTRMADP_3_USA-ECUADOR-1024x683.jpg",
-      "headline": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 153.09
-        },
-        {
-          "d": "10-01",
-          "c": 160.5
-        },
-        {
-          "d": "10-02",
-          "c": 160.01
-        },
-        {
-          "d": "10-05",
-          "c": 164.43
-        },
-        {
-          "d": "10-06",
-          "c": 164.55
-        },
-        {
-          "d": "10-07",
-          "c": 153.37
-        },
-        {
-          "d": "10-08",
-          "c": 151.47
-        },
-        {
-          "d": "10-09",
-          "c": 154.34
-        },
-        {
-          "d": "10-12",
-          "c": 152.68
-        },
-        {
-          "d": "10-13",
-          "c": 152.18
-        },
-        {
-          "d": "10-14",
-          "c": 143.24
-        },
-        {
-          "d": "10-15",
-          "c": 151.29
-        },
-        {
-          "d": "10-16",
-          "c": 136.83
-        },
-        {
-          "d": "10-19",
-          "c": 136.02
-        },
-        {
-          "d": "10-20",
-          "c": 142.72
-        },
-        {
-          "d": "10-21",
-          "c": 153.48
-        },
-        {
-          "d": "10-22",
-          "c": 145.8
-        },
-        {
-          "d": "10-23",
-          "c": 146.01
-        },
-        {
-          "d": "10-26",
-          "c": 139.82
-        },
-        {
-          "d": "10-27",
-          "c": 141.4
-        },
-        {
-          "d": "10-28",
-          "c": 145.16
-        },
-        {
-          "d": "10-29",
-          "c": 141.62
-        }
-      ]
-    },
-    {
-      "id": "6ab7cb0bdb51332a",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T20:32:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Anti-Trumper trolls Fox News and says he wanted to see \u2018cult\u2019 in person at South",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.2,
-      "change": -1.83,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjk5ZnBVWU1xdkE1TzRpWC12VTNDcEhPSWR4Z2FFUkw4VDNId1pGZWJ3alAxRElIanB6M0Z5TFlLSzZoR1VJUkxsZ0x5NHJ6c0ZYRk1qbVdSdXFrTXRUMEJDS2paSHRXLVQ5VUJ5SHRfQ1JRODUtQ0pwSk1hdDRFQXZybkRIdUhaVktFNzN0M3RObDA?oc=5",
-      "image": null,
-      "headline": "Anti-Trumper trolls Fox News and says he wanted to see \u2018cult\u2019 in person at South Carolina rally - The Independent",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        }
-      ]
-    },
-    {
-      "id": "3de2586d728db2e0",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T20:32:00+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Anti-Trump troll tells Fox he came to South Carolina rally to see \u2018cult\u2019 in person -",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.2,
-      "change": -1.83,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjk5ZnBVWU1xdkE1TzRpWC12VTNDcEhPSWR4Z2FFUkw4VDNId1pGZWJ3alAxRElIanB6M0Z5TFlLSzZoR1VJUkxsZ0x5NHJ6c0ZYRk1qbVdSdXFrTXRUMEJDS2paSHRXLVQ5VUJ5SHRfQ1JRODUtQ0pwSk1hdDRFQXZybkRIdUhaVktFNzN0M3RObDA?oc=5",
-      "image": null,
-      "headline": "Anti-Trump troll tells Fox he came to South Carolina rally to see \u2018cult\u2019 in person - The Independent",
-      "channel": "Speech",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        }
-      ]
-    },
-    {
-      "id": "8aa4f8744bb3064c",
-      "date": "Thu, 29 Oct 2026",
-      "ts": "2026-10-29T18:29:12+00:00",
-      "date_display": "Oct 29, 2026",
-      "source": "Ars Technica",
-      "type": "news",
-      "quote": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says - Ars Technica",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 213.66,
-      "change": -0.8,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHlnbTZzVF9STklGb2FZNUhFOWdGNEtTelBHQjk2QlNXS2pQTWpxeUFkVGRtc3B1VUlBZzJRMXNkclZnd1lSS3ZqeEZRUVA2czAzd21acnFtakp2OUQxamJjMTFWNWlUSE0ta1M4MUdldEM1dkFldWZuTzlENWdrc09nM3JEaHJVVUQwR1NQanNKZjlqcE4zeTd6eXpoUzRZSGNWb0dpTE5oLXJVZ1Zfdk5MYkRGR2hJSl85QmtFenY?oc=5",
-      "image": null,
-      "headline": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says - Ars Technica",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 228.38
-        },
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
         }
       ]
     }
