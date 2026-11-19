@@ -1,7 +1,763 @@
 {
-  "updated_at": "2026-11-19T08:07:03.619125+00:00",
+  "updated_at": "2026-11-19T17:28:37.951197+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "fe11e0d508249d80",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T17:09:25+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "says after Republicans' midterm thrashing Musk told The New York Times' DealBook Summit audience Wednesday he feels foolish for",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 68.9,
+      "change": -2.68,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-19T005746Z_656436728_RC2NQOAZHW39_RTRMADP_3_USA-TECH-TOMORROWX-1024x683.jpg",
+      "headline": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 68.9
+        }
+      ]
+    },
+    {
+      "id": "7269791cd5fe747b",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T16:07:38+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "KOKI FOX 23",
+      "type": "news",
+      "quote": "back at Trump administration over investigation - KOKI FOX 23 Michigan Democratic senator fires back at Trump",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 57.15,
+      "change": -2.61,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcTBqUUVwYjJfTmFoZ2pOODNlamZqUTRJZWRIS2xGNDcySEI2MEJpUTBlOV82anUwMk9NYVhuazBRV3dJSXZzTExZQmJnb1UzT1NoQ2VfNGJCanZJRlh1RmVERmdSNlNrWlBrUEw3dTExMjg5NDU0NXd2bEZEZW0wM1JWVkVqOEdaYmFvdEoxaE5MQ2RnMjBrMjREN01lQ3ZWM2hhZ1FwLUlYcVJJSEVCZmdNQlA0TDF2RWgxbTQtNGxkWFhJOUg3LWNwOEZRNzJTbTV5dS1CQmxEVlJCWU9oRlZGcTlHZXlXblhZTFZwYUhmTG51RVNfbEl3?oc=5",
+      "image": null,
+      "headline": "Michigan Democratic senator fires back at Trump administration over investigation - KOKI FOX 23",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        },
+        {
+          "d": "11-16",
+          "c": 60.75
+        },
+        {
+          "d": "11-17",
+          "c": 59.71
+        },
+        {
+          "d": "11-18",
+          "c": 58.68
+        },
+        {
+          "d": "11-19",
+          "c": 57.15
+        }
+      ]
+    },
+    {
+      "id": "cb72c728fbba672b",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T15:12:35+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump\u2019s Financial Disclosure Reveals SpaceX, Tesla, Nvidia Trades - Forbes Trump\u2019s Financial Disclosure Reveals",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 150.2,
+      "change": -0.5,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzAyZ3c2MVltTTRMZmN4MUxodWRTTE5KZDRCdmVGZUVGZnRkUmNTb3BfemhNSGVFUnRiRklHSTBuS0JRSDVYVWhYaXZOVGkyb21tVFpEUkttVFVBaUFVWE1sLUg5dVZQNGhHVnlFdUtlbVJ4NU1ndzhmc3F5OEtkU09UY2NWZTRuVnNsU01kaWViWTRaaWZaRl8zalhJTHY3MzkwN3JnaVY0aVhUV0ZrNnhZQW1UU0poaTVwZjlLNEpBSDhOb1hqck51dw?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Financial Disclosure Reveals SpaceX, Tesla, Nvidia Trades - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 150.2
+        }
+      ]
+    },
+    {
+      "id": "30fdd26c8aef164e",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T15:12:35+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "Forbes",
+      "type": "news",
+      "quote": "Trump\u2019s Financial Disclosure Reveals SpaceX, Tesla, Nvidia Trades - Forbes Trump\u2019s Financial Disclosure",
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "price": 380.8,
+      "change": -0.76,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzAyZ3c2MVltTTRMZmN4MUxodWRTTE5KZDRCdmVGZUVGZnRkUmNTb3BfemhNSGVFUnRiRklHSTBuS0JRSDVYVWhYaXZOVGkyb21tVFpEUkttVFVBaUFVWE1sLUg5dVZQNGhHVnlFdUtlbVJ4NU1ndzhmc3F5OEtkU09UY2NWZTRuVnNsU01kaWViWTRaaWZaRl8zalhJTHY3MzkwN3JnaVY0aVhUV0ZrNnhZQW1UU0poaTVwZjlLNEpBSDhOb1hqck51dw?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Financial Disclosure Reveals SpaceX, Tesla, Nvidia Trades - Forbes",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 386.47
+        },
+        {
+          "d": "10-22",
+          "c": 374.58
+        },
+        {
+          "d": "10-23",
+          "c": 372.22
+        },
+        {
+          "d": "10-26",
+          "c": 391.62
+        },
+        {
+          "d": "10-27",
+          "c": 407.46
+        },
+        {
+          "d": "10-28",
+          "c": 404.22
+        },
+        {
+          "d": "10-29",
+          "c": 403.3
+        },
+        {
+          "d": "10-30",
+          "c": 399.81
+        },
+        {
+          "d": "11-02",
+          "c": 403.82
+        },
+        {
+          "d": "11-03",
+          "c": 398.5
+        },
+        {
+          "d": "11-04",
+          "c": 385.19
+        },
+        {
+          "d": "11-05",
+          "c": 343.69
+        },
+        {
+          "d": "11-06",
+          "c": 358.22
+        },
+        {
+          "d": "11-09",
+          "c": 378.05
+        },
+        {
+          "d": "11-10",
+          "c": 379.78
+        },
+        {
+          "d": "11-11",
+          "c": 390.84
+        },
+        {
+          "d": "11-12",
+          "c": 397.45
+        },
+        {
+          "d": "11-13",
+          "c": 390.22
+        },
+        {
+          "d": "11-16",
+          "c": 379.74
+        },
+        {
+          "d": "11-17",
+          "c": 380.11
+        },
+        {
+          "d": "11-18",
+          "c": 383.72
+        },
+        {
+          "d": "11-19",
+          "c": 380.8
+        }
+      ]
+    },
+    {
+      "id": "83369ba752806076",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T14:08:00+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Himself as Political Moderate, Says He Is \u2018Not MAGA\u2019 - The New York Times DealBook Summit: Elon Musk Paints Himself as Political",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 68.9,
+      "change": -2.68,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYjB2UXJGcEo1ZE0xNVhkMHU4VnU5NmNYWS1NUkRhYWVhdFdTSTRMNlUxcFRuVlF4VHVQSWVlZzR5VjNOOXZQdGR5R2lzVUM2aWZ2aVhhRkVxZDVVVzhJTTkzU29HeUVtOUxpcmIyN1lDdnFqb1ZvYQ?oc=5",
+      "image": null,
+      "headline": "DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is \u2018Not MAGA\u2019 - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 68.9
+        }
+      ]
+    },
+    {
+      "id": "fce9f5d14c2c4183",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T13:19:22+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "bloomingbit",
+      "type": "news",
+      "quote": "Trump Media Seeks to Repay $880 Million of Debt, Says It Won\u2019t Sell",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.19,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wWGFYQjh1UEpQMGwtVTRhUnRQSTFNMnZ6czB5OEpUenR2UVRyMTVPM1ljVE5HMHZXTTlDVHNYT1BoVWFQX2hQLVZMSHMzeS1xazNsXw?oc=5",
+      "image": null,
+      "headline": "Trump Media Seeks to Repay $880 Million of Debt, Says It Won\u2019t Sell Bitcoin - bloomingbit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.19
+        }
+      ]
+    },
+    {
+      "id": "6059fe3d1235d31c",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T12:40:12+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "CoinDesk",
+      "type": "news",
+      "quote": "Trump Media wants to clear $884 million of debt without selling its",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 4.19,
+      "change": 3.46,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWZCWTRlS0ljSl9PRmJvTHlicjJWSW80SG1UME1GdUpCNml3cEI5RVV4bEFmVzREM01xblRlMktZWF9aSlBiaU5mUS1sZ2IzX2pCUjhvdm5acW80UUthenpOM0hlZWtFWml3TmNaRllKdFhXYmtRTk5EVzhZRjZQNVBxVnNLNGNLbGU4TnpDMVdMcmJOMklia3JuMVo2bS1oMUxlVWlYcTdRMC1ZVkgxN0Q1eFpDbXZwQ1dsVlpn?oc=5",
+      "image": null,
+      "headline": "Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC) - CoinDesk",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 6.66
+        },
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.19
+        }
+      ]
+    },
     {
       "id": "b110cf61ae32af6a",
       "date": "Wed, 18 Nov 2026",
@@ -450,6 +1206,222 @@
         {
           "d": "11-18",
           "c": 256.36
+        }
+      ]
+    },
+    {
+      "id": "e46149eb4e78d22f",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T16:40:12+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Nvidia Earnings Live Updates: First Report Since Jensen Huang\u2019s",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 150.2,
+      "change": -0.5,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFIYV9qR0U3Q3Q5bFNVM2VscDYtYU01YkxpSDFVRUkxNkYyX0l1NlNDYmRDU25NaHhJR0JvV0tnMDQxRHBvYkx5Y21WaDVwVDA5MjdaNndERWNmZlp2dzVIdm8ySG40RzJRWGVfY1RCdTNkd2NmVlN2Q3JURVpfNWptNDk?oc=5",
+      "image": null,
+      "headline": "Nvidia Earnings Live Updates: First Report Since Jensen Huang\u2019s Resignation Beats Expectations - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 150.2
+        }
+      ]
+    },
+    {
+      "id": "5ba9ca345095c449",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T16:40:12+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Since Jensen Huang\u2019s Resignation Beats Expectations - The New York Times Nvidia Earnings Live Updates: First Report Since Jensen",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 68.9,
+      "change": -2.68,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFIYV9qR0U3Q3Q5bFNVM2VscDYtYU01YkxpSDFVRUkxNkYyX0l1NlNDYmRDU25NaHhJR0JvV0tnMDQxRHBvYkx5Y21WaDVwVDA5MjdaNndERWNmZlp2dzVIdm8ySG40RzJRWGVfY1RCdTNkd2NmVlN2Q3JURVpfNWptNDk?oc=5",
+      "image": null,
+      "headline": "Nvidia Earnings Live Updates: First Report Since Jensen Huang\u2019s Resignation Beats Expectations - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 68.9
         }
       ]
     },
@@ -40423,889 +41395,6 @@
         {
           "d": "10-30",
           "c": 154.38
-        }
-      ]
-    },
-    {
-      "id": "a5480afaa9123926",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T04:10:00+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "The Straits Times",
-      "type": "news",
-      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times Trump",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 204.64,
-      "change": -4.22,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXBYT05XUWlGeHBrdEdzeThRQkJwbklYa0tsNWU0VTJ2YlZmekhhVjY1RmFSN29qUnBlcldubENzUjRoR3hqdzJPSDNsU3ItbVlLR2tJWG1mMDJRbV9VUXg2anFuU3BuQVRhQzZfdkRMUGQwRTZuWVo5VUpCUmtHZmxVZ2hmUnlDbUR6QmlxenlJSEJYRzJNZGhqRUtPcDJZWlpwQVhzUnVVX0JJclVuajdETlhMRTc4ZlJrc0dxMDJ1QQ?oc=5",
-      "image": null,
-      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        }
-      ]
-    },
-    {
-      "id": "7e361d8a04aec697",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T04:10:00+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "The Straits Times",
-      "type": "news",
-      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times Trump says US",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.38,
-      "change": 1.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXBYT05XUWlGeHBrdEdzeThRQkJwbklYa0tsNWU0VTJ2YlZmekhhVjY1RmFSN29qUnBlcldubENzUjRoR3hqdzJPSDNsU3ItbVlLR2tJWG1mMDJRbV9VUXg2anFuU3BuQVRhQzZfdkRMUGQwRTZuWVo5VUpCUmtHZmxVZ2hmUnlDbUR6QmlxenlJSEJYRzJNZGhqRUtPcDJZWlpwQVhzUnVVX0JJclVuajdETlhMRTc4ZlJrc0dxMDJ1QQ?oc=5",
-      "image": null,
-      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO is target of China spy plot - The Straits Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        }
-      ]
-    },
-    {
-      "id": "5e5ea0a05206be86",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T03:48:35+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "NST Online",
-      "type": "news",
-      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online Trump says US",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 204.64,
-      "change": -4.22,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0ZtX1V5Nm5rMW1UakEtczF4b1RpdXp3S3RQdnJZMWdMY0l0V19HNVBYbkhiR1pBZlZuX3I5TjhYaDcxdDhKV19PR2hZbjN5blJnUk1nQ0pMWjJ2WHgxUGlKcTZkSzhreC12SEktRFVxNUZIam84d2tuOUplc3pQeV85THRKeUcwT1Zrd1IwYjNSMlFDbk5WTXU1LWFLSFBLZk1rSmNFNTdJSzJBZXlYUC1aZ0NQOTNHbERxOXBPQdIBxAFBVV95cUxOb0tMWFdLY2VVZ0J3dE9FdlFGRG9ZZUk0VmNMeXNoVk5fdkZsa290SG40ZHZpNGNtWk5QWC1BUkR5X2pBU2d5cGRrWlFhQi1UY1huNGJFSE1XaVFpeFU2TkFBc3BVcnBaTVNxa0g4RHg1X3JzYi1jMHZlMFhXZ2FoSXEtbEY1blh5YU1Fb1RSMzFzVkJOVXJINmpZbmswQ1BKbzVidVFTbGJ6MG4zSDFXWkVmcHU2ZlhKUGxrMlFGWFNtNDNk?oc=5",
-      "image": null,
-      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        }
-      ]
-    },
-    {
-      "id": "13cb8892bdf172bd",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T03:48:35+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "NST Online",
-      "type": "news",
-      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online Trump says US looking",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.38,
-      "change": 1.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0ZtX1V5Nm5rMW1UakEtczF4b1RpdXp3S3RQdnJZMWdMY0l0V19HNVBYbkhiR1pBZlZuX3I5TjhYaDcxdDhKV19PR2hZbjN5blJnUk1nQ0pMWjJ2WHgxUGlKcTZkSzhreC12SEktRFVxNUZIam84d2tuOUplc3pQeV85THRKeUcwT1Zrd1IwYjNSMlFDbk5WTXU1LWFLSFBLZk1rSmNFNTdJSzJBZXlYUC1aZ0NQOTNHbERxOXBPQdIBxAFBVV95cUxOb0tMWFdLY2VVZ0J3dE9FdlFGRG9ZZUk0VmNMeXNoVk5fdkZsa290SG40ZHZpNGNtWk5QWC1BUkR5X2pBU2d5cGRrWlFhQi1UY1huNGJFSE1XaVFpeFU2TkFBc3BVcnBaTVNxa0g4RHg1X3JzYi1jMHZlMFhXZ2FoSXEtbEY1blh5YU1Fb1RSMzFzVkJOVXJINmpZbmswQ1BKbzVidVFTbGJ6MG4zSDFXWkVmcHU2ZlhKUGxrMlFGWFNtNDNk?oc=5",
-      "image": null,
-      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - NST Online",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        }
-      ]
-    },
-    {
-      "id": "61983a0f83e9cfb0",
-      "date": "Sat, 31 Oct 2026",
-      "ts": "2026-10-31T22:48:51+00:00",
-      "date_display": "Oct 31, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Virginia and D.C. sue to block construction of Trump arch U.S. District Court Judge Tanya",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-      "image": null,
-      "headline": "Virginia and D.C. sue to block construction of Trump arch",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "0f4a3f56f605a2c1",
-      "date": "Sat, 31 Oct 2026",
-      "ts": "2026-10-31T17:33:27+00:00",
-      "date_display": "Oct 31, 2026",
-      "source": "Fox News",
-      "type": "news",
-      "quote": "SpaceX president gifts 2 MILLION shares to Trump Accounts - Fox News SpaceX president gifts 2 MILLION shares to Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.2,
-      "change": -1.83,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfckU4Y01memY4eHRwSF9zbFUwMDhOYUd3MXEwSTl4OHlPY0VveHBzYkdnZVBlcjhtNGJZVTg0bW5NNnEyWTNHakxac3d1eThvS3YxQzln?oc=5",
-      "image": null,
-      "headline": "SpaceX president gifts 2 MILLION shares to Trump Accounts - Fox News",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        }
-      ]
-    },
-    {
-      "id": "99efade4feed83eb",
-      "date": "Sat, 31 Oct 2026",
-      "ts": "2026-10-31T13:50:58+00:00",
-      "date_display": "Oct 31, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 70.17,
-      "change": 1.08,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-      "image": null,
-      "headline": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 63.48
-        },
-        {
-          "d": "10-02",
-          "c": 62.47
-        },
-        {
-          "d": "10-05",
-          "c": 63.77
-        },
-        {
-          "d": "10-06",
-          "c": 63.84
-        },
-        {
-          "d": "10-07",
-          "c": 64.9
-        },
-        {
-          "d": "10-08",
-          "c": 66.6
-        },
-        {
-          "d": "10-09",
-          "c": 66.32
-        },
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        }
-      ]
-    },
-    {
-      "id": "dd798b2532eee4f2",
-      "date": "Sat, 31 Oct 2026",
-      "ts": "2026-10-31T04:13:52+00:00",
-      "date_display": "Oct 31, 2026",
-      "source": "The Washington Post",
-      "type": "news",
-      "quote": "Opinion | The trouble with Uncle Sam\u2019s Intel shares - The Washington Post Opinion | The trouble with",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 65.76,
-      "change": -28.58,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkRMRWN0b1pkeEEwSDZrVWhXd1FzeWF5Sk1VZWU3YUt2T0pPYjBIWWk2aHZKZmxrM1hQbE1yeU9OTGpOaUN0Qjktc1VqeFJXSTRYNTlOT0xWWDhGMVE2R0dONHYtcWNaMTVReGpPdUZZNjBUQ1FMZXA0dFdna1htb2JSWWNmVllLbW96U1BoRGlfc1NqT3dxdmNDbnhmUQ?oc=5",
-      "image": null,
-      "headline": "Opinion | The trouble with Uncle Sam\u2019s Intel shares - The Washington Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 120.0
-        },
-        {
-          "d": "10-02",
-          "c": 119.33
-        },
-        {
-          "d": "10-05",
-          "c": 116.19
-        },
-        {
-          "d": "10-06",
-          "c": 112.5
-        },
-        {
-          "d": "10-07",
-          "c": 113.12
-        },
-        {
-          "d": "10-08",
-          "c": 107.08
-        },
-        {
-          "d": "10-09",
-          "c": 104.7
-        },
-        {
-          "d": "10-12",
-          "c": 101.35
-        },
-        {
-          "d": "10-13",
-          "c": 102.81
-        },
-        {
-          "d": "10-14",
-          "c": 98.12
-        },
-        {
-          "d": "10-15",
-          "c": 95.37
-        },
-        {
-          "d": "10-16",
-          "c": 89.85
-        },
-        {
-          "d": "10-19",
-          "c": 92.03
-        },
-        {
-          "d": "10-20",
-          "c": 91.69
-        },
-        {
-          "d": "10-21",
-          "c": 92.96
-        },
-        {
-          "d": "10-22",
-          "c": 85.49
-        },
-        {
-          "d": "10-23",
-          "c": 86.96
-        },
-        {
-          "d": "10-26",
-          "c": 90.47
-        },
-        {
-          "d": "10-27",
-          "c": 93.74
-        },
-        {
-          "d": "10-28",
-          "c": 95.53
-        },
-        {
-          "d": "10-29",
-          "c": 92.07
-        },
-        {
-          "d": "10-30",
-          "c": 65.76
-        }
-      ]
-    },
-    {
-      "id": "298da779b5aade82",
-      "date": "Fri, 30 Oct 2026",
-      "ts": "2026-10-30T21:20:47+00:00",
-      "date_display": "Oct 30, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "affordability policies as food inflation eases - Fox Business Agriculture Secretary praises Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 56.2,
-      "change": -1.83,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtZHJacEYwaEY5ZVFMM2VoUDRVRjBPdGYxM0k4NjItSWtNaTZnSWhiR1FDSlRvUjlZeWxPYWlPdW1Fa0RoWjl1TUFiY2FPWWUyT1MwSV9SSUpCMHc?oc=5",
-      "image": null,
-      "headline": "Agriculture Secretary praises Trump administration's affordability policies as food inflation eases - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 54.92
-        },
-        {
-          "d": "10-02",
-          "c": 55.89
-        },
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
         }
       ]
     }
