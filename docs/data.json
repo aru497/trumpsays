@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-19T17:28:37.951197+00:00",
+  "updated_at": "2026-11-19T23:41:11.560781+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9be53f9a88d0a2c4",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T17:59:04+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMF90TDNmOE5NZDdRdFNJY0NTMjRtVEgtM2d5c0tneWFIRlgwZ2kxQm5xanFDTTFoUkVnMUtzc2ZnRzZiNFdPX2RKOHZUeml2R1FrbU91YXJLN0tNNHdCakRKLUpqOWR6TUNncGxqSkhmOEtqV2tNemZnY2twaFdkRk8tQWdERFdaak5ZdmliWC1vZ9IBlwFBVV95cUxOQXhDcmxvYTY2RkxKUzZJRGNmYUhUbkhWYzU3TVhqbGY2ZlZCdWZUcVZ5WE8yZnpxTFlQbG1xaUgxNG9JWXIwRThqblFNM09VejBMNFA1TXgxQmxFbDJhWGhFQWtEbWRFM29YRllPaTA3WEV4RFpicndzX2ctUEhGQnk0NlRkeFpNRW9YQlk1b2l3VEhGcVVr?oc=5",
+      "image": null,
+      "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        }
+      ]
+    },
+    {
+      "id": "48fd63e9ed1c28d9",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T17:59:04+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties",
+      "company": "Palantir",
+      "ticker": "PLTR",
+      "price": 153.68,
+      "change": -1.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMF90TDNmOE5NZDdRdFNJY0NTMjRtVEgtM2d5c0tneWFIRlgwZ2kxQm5xanFDTTFoUkVnMUtzc2ZnRzZiNFdPX2RKOHZUeml2R1FrbU91YXJLN0tNNHdCakRKLUpqOWR6TUNncGxqSkhmOEtqV2tNemZnY2twaFdkRk8tQWdERFdaak5ZdmliWC1vZ9IBlwFBVV95cUxOQXhDcmxvYTY2RkxKUzZJRGNmYUhUbkhWYzU3TVhqbGY2ZlZCdWZUcVZ5WE8yZnpxTFlQbG1xaUgxNG9JWXIwRThqblFNM09VejBMNFA1TXgxQmxFbDJhWGhFQWtEbWRFM29YRllPaTA3WEV4RFpicndzX2ctUEhGQnk0NlRkeFpNRW9YQlk1b2l3VEhGcVVr?oc=5",
+      "image": null,
+      "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 201.72
+        },
+        {
+          "d": "10-22",
+          "c": 196.19
+        },
+        {
+          "d": "10-23",
+          "c": 196.75
+        },
+        {
+          "d": "10-26",
+          "c": 198.84
+        },
+        {
+          "d": "10-27",
+          "c": 198.73
+        },
+        {
+          "d": "10-28",
+          "c": 196.81
+        },
+        {
+          "d": "10-29",
+          "c": 196.42
+        },
+        {
+          "d": "10-30",
+          "c": 184.11
+        },
+        {
+          "d": "11-02",
+          "c": 178.34
+        },
+        {
+          "d": "11-03",
+          "c": 175.4
+        },
+        {
+          "d": "11-04",
+          "c": 171.7
+        },
+        {
+          "d": "11-05",
+          "c": 154.99
+        },
+        {
+          "d": "11-06",
+          "c": 160.38
+        },
+        {
+          "d": "11-09",
+          "c": 169.2
+        },
+        {
+          "d": "11-10",
+          "c": 168.82
+        },
+        {
+          "d": "11-11",
+          "c": 172.4
+        },
+        {
+          "d": "11-12",
+          "c": 171.58
+        },
+        {
+          "d": "11-13",
+          "c": 167.99
+        },
+        {
+          "d": "11-16",
+          "c": 160.39
+        },
+        {
+          "d": "11-17",
+          "c": 156.56
+        },
+        {
+          "d": "11-18",
+          "c": 156.67
+        },
+        {
+          "d": "11-19",
+          "c": 153.68
+        }
+      ]
+    },
     {
       "id": "fe11e0d508249d80",
       "date": "Thu, 19 Nov 2026",
@@ -755,6 +971,114 @@
         {
           "d": "11-19",
           "c": 4.19
+        }
+      ]
+    },
+    {
+      "id": "bc52fe4728b2356a",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T11:20:37+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+      "image": null,
+      "headline": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
         }
       ]
     },
@@ -41071,330 +41395,6 @@
         {
           "d": "10-30",
           "c": 204.64
-        }
-      ]
-    },
-    {
-      "id": "b5e5b261bd8a1444",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T12:55:15+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "Macau Business",
-      "type": "news",
-      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business Trump says US looking",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.38,
-      "change": 1.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHNtWnpVWFJaRHRQeXF1Ry1rbG1YS0Myb0NhTmdJRW02WnYwbk9odVBwMGZnNzJqSGFPZE5DZW9OX2VoZ3lkRlNGekhkQl9PbVo4TW5SQkZIR0RWTXAwWGVCRXc3Sld6NnR2RERoLXE5dkZ0ckNNTkVRTnJkN1cyZ3o5NXlyYzhwTHZ5MFFzdmpOejhFWjZWdGVDejFycVhMSWlEbQ?oc=5",
-      "image": null,
-      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        }
-      ]
-    },
-    {
-      "id": "3265009d76480550",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T12:33:36+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "The Business Standard",
-      "type": "news",
-      "quote": "'He's a great, brilliant person': Trump backs Nvidia CEO after report says he was target of Chinese spy plot -",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 204.64,
-      "change": -4.22,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2poZ3dwRFFxbXFmekhMemQzdGcwckJFaWpBdmFVN29uMUt4dThsSFRGcldyUVp0V1FrVk1tSWRsRS1DcTlUU2ZMQmNJSDZNLVRmRFVhMVIyLWhYOWlSZHlvQVZyN0U0XzNXbmxUNTVCdHQwa21ibG4zMm9qSjJPV0FDbXFlMWNZSksyLUx0VEFmdG5hWTBrRHgzSkVESEJ3a3RoN1dZZWZzYTBZY2o4WDZGV2lib3B0ZGc?oc=5",
-      "image": null,
-      "headline": "'He's a great, brilliant person': Trump backs Nvidia CEO after report says he was target of Chinese spy plot - The Business Standard",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        }
-      ]
-    },
-    {
-      "id": "c53de575fb3a2e06",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T12:33:36+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "The Business Standard",
-      "type": "news",
-      "quote": "person': Trump backs Nvidia CEO after report says he was target of Chinese spy plot - The Business Standard 'He's a great,",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.38,
-      "change": 1.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2poZ3dwRFFxbXFmekhMemQzdGcwckJFaWpBdmFVN29uMUt4dThsSFRGcldyUVp0V1FrVk1tSWRsRS1DcTlUU2ZMQmNJSDZNLVRmRFVhMVIyLWhYOWlSZHlvQVZyN0U0XzNXbmxUNTVCdHQwa21ibG4zMm9qSjJPV0FDbXFlMWNZSksyLUx0VEFmdG5hWTBrRHgzSkVESEJ3a3RoN1dZZWZzYTBZY2o4WDZGV2lib3B0ZGc?oc=5",
-      "image": null,
-      "headline": "'He's a great, brilliant person': Trump backs Nvidia CEO after report says he was target of Chinese spy plot - The Business Standard",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
         }
       ]
     }
