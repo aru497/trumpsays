@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-11-18T18:14:38.385378+00:00",
+  "updated_at": "2026-11-19T00:34:19.504729+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "b110cf61ae32af6a",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T23:07:29+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "to get custom kicks after Sen.-elect Colom asks Nike to 'Just Do It' Nike is gifting high school valedictorians",
+      "company": "Nike",
+      "ticker": "NKE",
+      "price": 36.31,
+      "change": 1.28,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/politics/high-school-valedictorians-to-get-custom-kicks-after-sen-elect-colom-asks-nike-to-just-do-it",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T202119Z_1083223782_RC2TPOAVL2V6_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
+      "headline": "High school valedictorians to get custom kicks after Sen.-elect Colom asks Nike to 'Just Do It'",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 37.88
+        },
+        {
+          "d": "10-21",
+          "c": 37.53
+        },
+        {
+          "d": "10-22",
+          "c": 38.32
+        },
+        {
+          "d": "10-23",
+          "c": 37.3
+        },
+        {
+          "d": "10-26",
+          "c": 37.91
+        },
+        {
+          "d": "10-27",
+          "c": 37.56
+        },
+        {
+          "d": "10-28",
+          "c": 37.15
+        },
+        {
+          "d": "10-29",
+          "c": 38.42
+        },
+        {
+          "d": "10-30",
+          "c": 38.67
+        },
+        {
+          "d": "11-02",
+          "c": 39.12
+        },
+        {
+          "d": "11-03",
+          "c": 38.48
+        },
+        {
+          "d": "11-04",
+          "c": 40.49
+        },
+        {
+          "d": "11-05",
+          "c": 39.56
+        },
+        {
+          "d": "11-06",
+          "c": 38.59
+        },
+        {
+          "d": "11-09",
+          "c": 39.88
+        },
+        {
+          "d": "11-10",
+          "c": 38.67
+        },
+        {
+          "d": "11-11",
+          "c": 38.32
+        },
+        {
+          "d": "11-12",
+          "c": 37.76
+        },
+        {
+          "d": "11-13",
+          "c": 37.99
+        },
+        {
+          "d": "11-16",
+          "c": 38.26
+        },
+        {
+          "d": "11-17",
+          "c": 35.85
+        },
+        {
+          "d": "11-18",
+          "c": 36.31
+        }
+      ]
+    },
+    {
+      "id": "7b699768129f8b7d",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T21:02:57+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "outgoing Republican senator said Wednesday that he will block one of President Donald Trump's final judicial picks for a",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/cornyn-blocks-top-justice-department-official-nominated-for-judicial-vacancy-in-texas",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-10T211113Z_1942347810_RC27LOAJQ4E6_RTRMADP_3_USA-CONGRESS-REPUBLICANS-1024x683.jpg",
+      "headline": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "ff3302a607eced7b",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T20:50:38+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown U.S.",
+      "company": "L3Harris",
+      "ticker": "LHX",
+      "price": 256.36,
+      "change": -1.68,
+      "direction": "down",
+      "article_link": "https://www.pbs.org/newshour/politics/dot-secretary-sean-duffy-keeps-blaming-l3harris-after-faa-ground-stop-even-as-cause-remains-unknown",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T044447Z_62003492_RC2YPOAL9ELZ_RTRMADP_3_USA-AVIATION-DUFFY-1024x678.jpg",
+      "headline": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 248.77
+        },
+        {
+          "d": "10-21",
+          "c": 247.55
+        },
+        {
+          "d": "10-22",
+          "c": 254.23
+        },
+        {
+          "d": "10-23",
+          "c": 253.97
+        },
+        {
+          "d": "10-26",
+          "c": 260.23
+        },
+        {
+          "d": "10-27",
+          "c": 259.4
+        },
+        {
+          "d": "10-28",
+          "c": 260.61
+        },
+        {
+          "d": "10-29",
+          "c": 278.43
+        },
+        {
+          "d": "10-30",
+          "c": 277.61
+        },
+        {
+          "d": "11-02",
+          "c": 278.96
+        },
+        {
+          "d": "11-03",
+          "c": 277.67
+        },
+        {
+          "d": "11-04",
+          "c": 259.74
+        },
+        {
+          "d": "11-05",
+          "c": 258.11
+        },
+        {
+          "d": "11-06",
+          "c": 259.89
+        },
+        {
+          "d": "11-09",
+          "c": 271.42
+        },
+        {
+          "d": "11-10",
+          "c": 275.96
+        },
+        {
+          "d": "11-11",
+          "c": 276.59
+        },
+        {
+          "d": "11-12",
+          "c": 271.84
+        },
+        {
+          "d": "11-13",
+          "c": 272.35
+        },
+        {
+          "d": "11-16",
+          "c": 261.75
+        },
+        {
+          "d": "11-17",
+          "c": 260.74
+        },
+        {
+          "d": "11-18",
+          "c": 256.36
+        }
+      ]
+    },
+    {
+      "id": "99ad2689df4075d0",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T16:40:00+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Nvidia Earnings and Forecasts Beat Expectations - The New York",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 150.96,
+      "change": -2.89,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFIYV9qR0U3Q3Q5bFNVM2VscDYtYU01YkxpSDFVRUkxNkYyX0l1NlNDYmRDU25NaHhJR0JvV0tnMDQxRHBvYkx5Y21WaDVwVDA5MjdaNndERWNmZlp2dzVIdm8ySG40RzJRWGVfY1RCdTNkd2NmVlN2Q3JURVpfNWptNDk?oc=5",
+      "image": null,
+      "headline": "Nvidia Earnings and Forecasts Beat Expectations - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 216.47
+        },
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        }
+      ]
+    },
+    {
+      "id": "986bee8161fabb16",
+      "date": "Wed, 18 Nov 2026",
+      "ts": "2026-11-18T16:40:00+00:00",
+      "date_display": "Nov 18, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Nvidia Earnings and Forecasts Beat Expectations - The New York Times Nvidia Earnings and Forecasts Beat",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 70.8,
+      "change": -4.09,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFIYV9qR0U3Q3Q5bFNVM2VscDYtYU01YkxpSDFVRUkxNkYyX0l1NlNDYmRDU25NaHhJR0JvV0tnMDQxRHBvYkx5Y21WaDVwVDA5MjdaNndERWNmZlp2dzVIdm8ySG40RzJRWGVfY1RCdTNkd2NmVlN2Q3JURVpfNWptNDk?oc=5",
+      "image": null,
+      "headline": "Nvidia Earnings and Forecasts Beat Expectations - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-20",
+          "c": 69.56
+        },
+        {
+          "d": "10-21",
+          "c": 68.86
+        },
+        {
+          "d": "10-22",
+          "c": 69.42
+        },
+        {
+          "d": "10-23",
+          "c": 69.58
+        },
+        {
+          "d": "10-26",
+          "c": 70.66
+        },
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        }
+      ]
+    },
     {
       "id": "2382943925e9ce98",
       "date": "Wed, 18 Nov 2026",
@@ -40766,546 +41217,6 @@
         {
           "d": "10-30",
           "c": 187.25
-        }
-      ]
-    },
-    {
-      "id": "c335305d418acb81",
-      "date": "Fri, 30 Oct 2026",
-      "ts": "2026-10-30T17:44:20+00:00",
-      "date_display": "Oct 30, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Exxon and Chevron report massive profits after Trump brags U.S. energy",
-      "company": "Chevron",
-      "ticker": "CVX",
-      "price": 235.52,
-      "change": 1.75,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclR3aGs1M1Y4RV9GdUdId2NnNHJJWGJvMVdTWlRDSVExeUhlOGYxMU5STEVrR1ZPRHFRbHo4NmZoV2RxYmNVLTRNWXlaT3R6MnNWT3V5NjZTNzJIUm11R0U3RkgtSGI3UXU4NFZMenMxakhSZmxHMVJCRDByenlfQ3l4c2NNeXJUQVBnWHMyYS1RWUJoV2FHSA?oc=5",
-      "image": null,
-      "headline": "Exxon and Chevron report massive profits after Trump brags U.S. energy companies are \u2018making a freaking fortune\u2019 just before midterms - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 207.1
-        },
-        {
-          "d": "10-02",
-          "c": 206.69
-        },
-        {
-          "d": "10-05",
-          "c": 206.47
-        },
-        {
-          "d": "10-06",
-          "c": 207.58
-        },
-        {
-          "d": "10-07",
-          "c": 205.15
-        },
-        {
-          "d": "10-08",
-          "c": 211.55
-        },
-        {
-          "d": "10-09",
-          "c": 211.98
-        },
-        {
-          "d": "10-12",
-          "c": 215.0
-        },
-        {
-          "d": "10-13",
-          "c": 217.73
-        },
-        {
-          "d": "10-14",
-          "c": 222.04
-        },
-        {
-          "d": "10-15",
-          "c": 219.32
-        },
-        {
-          "d": "10-16",
-          "c": 224.99
-        },
-        {
-          "d": "10-19",
-          "c": 224.37
-        },
-        {
-          "d": "10-20",
-          "c": 225.71
-        },
-        {
-          "d": "10-21",
-          "c": 226.78
-        },
-        {
-          "d": "10-22",
-          "c": 226.68
-        },
-        {
-          "d": "10-23",
-          "c": 233.21
-        },
-        {
-          "d": "10-26",
-          "c": 232.01
-        },
-        {
-          "d": "10-27",
-          "c": 228.23
-        },
-        {
-          "d": "10-28",
-          "c": 229.2
-        },
-        {
-          "d": "10-29",
-          "c": 231.46
-        },
-        {
-          "d": "10-30",
-          "c": 235.52
-        }
-      ]
-    },
-    {
-      "id": "ef80bb29b56bb211",
-      "date": "Fri, 30 Oct 2026",
-      "ts": "2026-10-30T16:40:35+00:00",
-      "date_display": "Oct 30, 2026",
-      "source": "The New Republic",
-      "type": "news",
-      "quote": "Trump Media Filings Reveal Payout From America\u2019s 250th Celebration -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 5.59,
-      "change": -3.29,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkM5OXcycnM3MDh5dEc4SDNZRUpBQk9vUWRPR0gxekVXclluSjk1ZldBeHpaRzNQbTUwQTExd3gwSWR2SVRWSzNQc3RMT3Zyc2tIQUg0MWRwRkVYaHQxSl9CX2lzUUM0T3JzNlc5UXBoMlBwNzdXS2tsdXNGS2cxQ3hDdVU0RmVLUjlOZ29FNll1MVU?oc=5",
-      "image": null,
-      "headline": "Trump Media Filings Reveal Payout From America\u2019s 250th Celebration - The New Republic",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 8.79
-        },
-        {
-          "d": "10-02",
-          "c": 8.91
-        },
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        }
-      ]
-    },
-    {
-      "id": "2a438b825e569bf6",
-      "date": "Fri, 30 Oct 2026",
-      "ts": "2026-10-30T15:45:45+00:00",
-      "date_display": "Oct 30, 2026",
-      "source": "24/7 Wall St.",
-      "type": "news",
-      "quote": "Trump's Commerce Department's Intel Stake Fell By More Than $10 Billion In A Day As Stock",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 64.81,
-      "change": -29.61,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMGRVUm4yb0MtM0FfUjM0RDJwd1pfNGJWcFhVeFlmN0Y3clhndm5TSTZQVVgyODg5UVdsSU93dC0yZ09XUTh2bHg2OENfT0dNYzNvaDdhTHBIRmNMYUtTT3Q2R19LMUllNXQ0N0N6REI3X3l6OGxOV0c2Wkd6anlucm5NQnpFVXJpZGh4bXN5MUh2ZmNaY1hYRTJmNS1oOUxXazlsUlhoeDdrdUxFVG45cWt5QXZYOVF0aHhpMTE5dHV6NFd0b0ZjOUR3T0V1c2U0N19fQg?oc=5",
-      "image": null,
-      "headline": "Trump's Commerce Department's Intel Stake Fell By More Than $10 Billion In A Day As Stock Craters - 24/7 Wall St.",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 120.0
-        },
-        {
-          "d": "10-02",
-          "c": 119.33
-        },
-        {
-          "d": "10-05",
-          "c": 116.19
-        },
-        {
-          "d": "10-06",
-          "c": 112.5
-        },
-        {
-          "d": "10-07",
-          "c": 113.12
-        },
-        {
-          "d": "10-08",
-          "c": 107.08
-        },
-        {
-          "d": "10-09",
-          "c": 104.7
-        },
-        {
-          "d": "10-12",
-          "c": 101.35
-        },
-        {
-          "d": "10-13",
-          "c": 102.81
-        },
-        {
-          "d": "10-14",
-          "c": 98.12
-        },
-        {
-          "d": "10-15",
-          "c": 95.37
-        },
-        {
-          "d": "10-16",
-          "c": 89.85
-        },
-        {
-          "d": "10-19",
-          "c": 92.03
-        },
-        {
-          "d": "10-20",
-          "c": 91.69
-        },
-        {
-          "d": "10-21",
-          "c": 92.96
-        },
-        {
-          "d": "10-22",
-          "c": 85.49
-        },
-        {
-          "d": "10-23",
-          "c": 86.96
-        },
-        {
-          "d": "10-26",
-          "c": 90.47
-        },
-        {
-          "d": "10-27",
-          "c": 93.74
-        },
-        {
-          "d": "10-28",
-          "c": 95.53
-        },
-        {
-          "d": "10-29",
-          "c": 92.07
-        },
-        {
-          "d": "10-30",
-          "c": 64.81
-        }
-      ]
-    },
-    {
-      "id": "e2c7853be2a2e624",
-      "date": "Fri, 30 Oct 2026",
-      "ts": "2026-10-30T13:45:22+00:00",
-      "date_display": "Oct 30, 2026",
-      "source": "Yahoo Finance",
-      "type": "news",
-      "quote": "Intel's stock drop shaves about $10 billion off the US",
-      "company": "Intel",
-      "ticker": "INTC",
-      "price": 64.81,
-      "change": -29.61,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd0xwbVI3RDZscnBHUFVsZlBSMFNmNVVpLWlicGRLc0tiajMyT2NzbXV6SUJhbG9kaUppV0Y1a1ljZ0hITzJMalVhbUxXWERWYUw4NExMblhTWWo2S0VNMkJBWTNON2Q5YW1TcjNIaTBKMkpUWldBLWtiRjhsc1JhVmY5anFWVjBncDNzdnp6dUZDazJfdFI2MHFGZUFDdzVpWWluY05BU3ZxUmVUOTJ2T2ZXLVJfMWxUWXE4Qkl2NWVSTGdaTjc5RkxTUGpWcTFsajNGM0YzT1hZUTAwZTlvNXJ0ajJXWnB5Ry1DRDVR?oc=5",
-      "image": null,
-      "headline": "Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X. - Yahoo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 120.0
-        },
-        {
-          "d": "10-02",
-          "c": 119.33
-        },
-        {
-          "d": "10-05",
-          "c": 116.19
-        },
-        {
-          "d": "10-06",
-          "c": 112.5
-        },
-        {
-          "d": "10-07",
-          "c": 113.12
-        },
-        {
-          "d": "10-08",
-          "c": 107.08
-        },
-        {
-          "d": "10-09",
-          "c": 104.7
-        },
-        {
-          "d": "10-12",
-          "c": 101.35
-        },
-        {
-          "d": "10-13",
-          "c": 102.81
-        },
-        {
-          "d": "10-14",
-          "c": 98.12
-        },
-        {
-          "d": "10-15",
-          "c": 95.37
-        },
-        {
-          "d": "10-16",
-          "c": 89.85
-        },
-        {
-          "d": "10-19",
-          "c": 92.03
-        },
-        {
-          "d": "10-20",
-          "c": 91.69
-        },
-        {
-          "d": "10-21",
-          "c": 92.96
-        },
-        {
-          "d": "10-22",
-          "c": 85.49
-        },
-        {
-          "d": "10-23",
-          "c": 86.96
-        },
-        {
-          "d": "10-26",
-          "c": 90.47
-        },
-        {
-          "d": "10-27",
-          "c": 93.74
-        },
-        {
-          "d": "10-28",
-          "c": 95.53
-        },
-        {
-          "d": "10-29",
-          "c": 92.07
-        },
-        {
-          "d": "10-30",
-          "c": 64.81
-        }
-      ]
-    },
-    {
-      "id": "3d517762ec6899b9",
-      "date": "Fri, 30 Oct 2026",
-      "ts": "2026-10-30T09:00:00+00:00",
-      "date_display": "Oct 30, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.",
-      "company": "Google",
-      "ticker": "GOOGL",
-      "price": 283.82,
-      "change": -12.64,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
-      "image": null,
-      "headline": "Websites pretending to be local news are boosting Democratic candidates",
-      "channel": "News",
-      "series": [
-        {
-          "d": "09-30",
-          "c": 344.08
-        },
-        {
-          "d": "10-01",
-          "c": 338.24
-        },
-        {
-          "d": "10-02",
-          "c": 343.5
-        },
-        {
-          "d": "10-05",
-          "c": 346.47
-        },
-        {
-          "d": "10-06",
-          "c": 347.68
-        },
-        {
-          "d": "10-07",
-          "c": 350.5
-        },
-        {
-          "d": "10-08",
-          "c": 348.29
-        },
-        {
-          "d": "10-09",
-          "c": 351.66
-        },
-        {
-          "d": "10-12",
-          "c": 352.72
-        },
-        {
-          "d": "10-13",
-          "c": 353.78
-        },
-        {
-          "d": "10-14",
-          "c": 347.64
-        },
-        {
-          "d": "10-15",
-          "c": 349.22
-        },
-        {
-          "d": "10-16",
-          "c": 340.59
-        },
-        {
-          "d": "10-19",
-          "c": 344.18
-        },
-        {
-          "d": "10-20",
-          "c": 340.28
-        },
-        {
-          "d": "10-21",
-          "c": 334.76
-        },
-        {
-          "d": "10-22",
-          "c": 324.22
-        },
-        {
-          "d": "10-23",
-          "c": 320.21
-        },
-        {
-          "d": "10-26",
-          "c": 316.8
-        },
-        {
-          "d": "10-27",
-          "c": 320.58
-        },
-        {
-          "d": "10-28",
-          "c": 324.89
-        },
-        {
-          "d": "10-29",
-          "c": 283.82
         }
       ]
     }
