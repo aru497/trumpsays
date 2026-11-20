@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-11-20T13:41:40.786515+00:00",
+  "updated_at": "2026-11-20T21:36:59.686430+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "b0af59112b5ea864",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T20:34:56+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "PBS",
+      "type": "news",
+      "quote": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance' - PBS",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3BVTXVMUXRwSVVLdFdsX25kbXFDaVhDSWUyRFkwODBqblBzVEF2Z09nZVVSNE4wN0ExY2QwWGtIRGVEc1kwMG50ZDNQdlMwdjVqeno5UXRTTmZsWFc0SS1XekZxYmh1Y2VRWnVLdzBiWW1sOU9Cc09mT0RqTU5DckJrZ2M1VTlPSk10enFsQmxkMlRad2Z1NEhSY0UzX21DQm5Pd211ODVuYjItdVpNc3VlNDJtTkZDOEZpYmJjdHpmRmR1MXfSAcsBQVVfeXFMTmVCc29jeC0zU2R3U1I4d0cwbmtSTU5kbG9hQVdlNTZ6aHRCVmg1N0VYaTVwek9qbUNfcThZcXFBMnhlTC05a1ZJOFVjSVI3UFdaZ09mTkpibUVIdDZEVFFteXZNYndoZklIVU1uc0xnN3FPQlh3clUyZWU5VFhMZ0pCZmhsY3g4cE5zVGZRVU1pSW9YdnRfMHN1LUV4Vk5yWU5yXy1LTXBKRmlJejRLeEIyYzhvcVVMX1pya2ZPMjVhSHhvUEdyUnBPNDA?oc=5",
+      "image": null,
+      "headline": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance' - PBS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "6026aef9271cab32",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T20:17:06+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump says Nvidia's Jensen Huang deserves a second chance - Fox Business",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bzIzSFhyTzZuaVpvdzh5OHBHckpFbW1ZaTZrdmRTVzlKb3FWUGo2b3BQNlU2OXM4Unk1V1VVS193WWc0Qm5VV0NDWTBIenRDOXp4V2I1WU5sWEE?oc=5",
+      "image": null,
+      "headline": "Trump says Nvidia's Jensen Huang deserves a second chance - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "090c2bc269565ffa",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T20:17:06+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Trump says Nvidia's Jensen Huang deserves a second chance - Fox Business Trump says Nvidia's Jensen Huang deserves a",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.14,
+      "change": -1.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bzIzSFhyTzZuaVpvdzh5OHBHckpFbW1ZaTZrdmRTVzlKb3FWUGo2b3BQNlU2OXM4Unk1V1VVS193WWc0Qm5VV0NDWTBIenRDOXp4V2I1WU5sWEE?oc=5",
+      "image": null,
+      "headline": "Trump says Nvidia's Jensen Huang deserves a second chance - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        },
+        {
+          "d": "11-16",
+          "c": 60.75
+        },
+        {
+          "d": "11-17",
+          "c": 59.71
+        },
+        {
+          "d": "11-18",
+          "c": 58.68
+        },
+        {
+          "d": "11-19",
+          "c": 56.98
+        },
+        {
+          "d": "11-20",
+          "c": 56.14
+        }
+      ]
+    },
+    {
+      "id": "cdbd16af1ca3b7c8",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T15:40:00+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government",
+      "company": "Lowe'S",
+      "ticker": "LOW",
+      "price": 220.84,
+      "change": 0.78,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR1h1OXdkaFJGYUJlT0IxdUFDOW1QdFFpZnBNYy02Vll3d3gwbkNqSHZ2bjRBTThNMlVHN0JDREQ5TVdMU0J2QzZOWVhtR3RNNTNmcFVzTVhuamlFLUpKTkxTaXprc3JTeEtTODMwbXZrWmt1TTNkU1RTRC1OMjhGSjd2WUFzbHZlbnFMbnYtVUxKLUo1YmFYSHA1TExmX0g5MGtKZmNXbUVyT1EwU3VjM3pIamNLZERmVjN5SDBpSDJJUW5WdFhmUWlxTmNNZ2JzemdrczFUbF9mMF94cXJTMmoyaG5WOTJWZFNPS3lCQ2wxcGF1OG5Ic0EtR2UycjNHWnFCVmtBVQ?oc=5",
+      "image": null,
+      "headline": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 204.37
+        },
+        {
+          "d": "10-23",
+          "c": 198.68
+        },
+        {
+          "d": "10-26",
+          "c": 198.22
+        },
+        {
+          "d": "10-27",
+          "c": 198.18
+        },
+        {
+          "d": "10-28",
+          "c": 198.4
+        },
+        {
+          "d": "10-29",
+          "c": 207.28
+        },
+        {
+          "d": "10-30",
+          "c": 209.07
+        },
+        {
+          "d": "11-02",
+          "c": 218.15
+        },
+        {
+          "d": "11-03",
+          "c": 213.38
+        },
+        {
+          "d": "11-04",
+          "c": 229.38
+        },
+        {
+          "d": "11-05",
+          "c": 227.24
+        },
+        {
+          "d": "11-06",
+          "c": 224.55
+        },
+        {
+          "d": "11-09",
+          "c": 232.1
+        },
+        {
+          "d": "11-10",
+          "c": 231.87
+        },
+        {
+          "d": "11-11",
+          "c": 231.6
+        },
+        {
+          "d": "11-12",
+          "c": 227.46
+        },
+        {
+          "d": "11-13",
+          "c": 227.73
+        },
+        {
+          "d": "11-16",
+          "c": 224.93
+        },
+        {
+          "d": "11-17",
+          "c": 220.46
+        },
+        {
+          "d": "11-18",
+          "c": 222.78
+        },
+        {
+          "d": "11-19",
+          "c": 219.14
+        },
+        {
+          "d": "11-20",
+          "c": 220.84
+        }
+      ]
+    },
+    {
+      "id": "3622a48c7b3c22e5",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T13:27:59+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "WKMG",
+      "type": "news",
+      "quote": "The Latest: Trump says he\u2019ll block US companies from building data centers abroad - WKMG The",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZl84eDVvLUxHOXJyNWEwNUxLbEU4akgydEJjRGt2Q1JfVU42RTVHcGF4ZzNpNW5IOXR0Z2tjVzViVEdPYUstTTJDdmtKMzEzeUJTTndYOG9LV2FVOUpyMmhBaUZkZk9iLXRPQU1xS3Bzek1rSzY0ODJDZE8yX1ZoSmtDOUdRUFEwNG5RNTNMQ2lXRENqWVFXcTQ3RWsydHp0a2xPazQ4SVpraWhfRjBYMjNfZ3NlckdPQV9SWE9TSjB4MzFtcHU4clMzU2pieDJyTFJURW5kZkJZUm14b0xMczZYVlh0UTA?oc=5",
+      "image": null,
+      "headline": "The Latest: Trump says he\u2019ll block US companies from building data centers abroad - WKMG",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "2edbc8c496ad3470",
       "date": "Fri, 20 Nov 2026",
@@ -20,6 +471,114 @@
       "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
       "channel": "News",
       "series": null
+    },
+    {
+      "id": "351946975aa9d9c1",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T09:26:48+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Britannica",
+      "type": "news",
+      "quote": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 3.73,
+      "change": -8.8,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
+      "image": null,
+      "headline": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.09
+        },
+        {
+          "d": "11-20",
+          "c": 3.73
+        }
+      ]
     },
     {
       "id": "ba347ef0428f74c2",
@@ -27952,6 +28511,114 @@
       ]
     },
     {
+      "id": "8b1ff0eb90839962",
+      "date": "Tue, 10 Nov 2026",
+      "ts": "2026-11-10T08:00:00+00:00",
+      "date_display": "Nov 10, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Media Filings Show How Much He Makes From Truth Social Scheme -",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 3.73,
+      "change": -8.8,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGRwM0pNcHVzQWxQdXdXeWRGRmtvN241anphV1FTMkNIODQtODJaX2I5bE1WVndxNFhsZGhYdDVJQkJGUjNLenA5eHRNNFVITTgzRVRNY08wSGpFbGdDVF9Jc3hDOXZnRHhhTnZPb3U5eXpnUF9LZXg4RXZZTm1kNDl2ZE5nREdGUy1RTlk0T2UyMVNFTEJVb0RDT2xzQQ?oc=5",
+      "image": null,
+      "headline": "Trump Media Filings Show How Much He Makes From Truth Social Scheme - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.09
+        },
+        {
+          "d": "11-20",
+          "c": 3.73
+        }
+      ]
+    },
+    {
       "id": "0f142e506135aa6a",
       "date": "Tue, 10 Nov 2026",
       "ts": "2026-11-10T07:30:00+00:00",
@@ -35341,6 +36008,114 @@
       "series": null
     },
     {
+      "id": "2081fb19adf9d3d9",
+      "date": "Sat, 07 Nov 2026",
+      "ts": "2026-11-07T08:00:00+00:00",
+      "date_display": "Nov 07, 2026",
+      "source": "Instagram",
+      "type": "news",
+      "quote": "and CEO Dana White. Trump announced the news in a Truth Social post writing he offered White the job to \u201cdefend us",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 3.73,
+      "change": -8.8,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZMTJmeFFFUjdkUXlVM3Y4aXlISHlfUWtQNzEyNm9wcUxKd1JHVFBXOGhkZGxydHU0MGhFek1CWjRwaXAtaFgtbndZajhwbWl3N2c?oc=5",
+      "image": null,
+      "headline": "Meet the new White House press secretary. Yes, really. (Well he hasn\u2019t officially accepted the position yet but\u2026) it\u2019s @ufc President and CEO Dana White. Trump announced the news in a Truth Social post writing he offered White the job to \u201cdefend us against t - Instagram",
+      "channel": "Press Conference",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 6.61
+        },
+        {
+          "d": "10-23",
+          "c": 6.4
+        },
+        {
+          "d": "10-26",
+          "c": 6.14
+        },
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.09
+        },
+        {
+          "d": "11-20",
+          "c": 3.73
+        }
+      ]
+    },
+    {
       "id": "1a72c34ecd05b4cc",
       "date": "Fri, 06 Nov 2026",
       "ts": "2026-11-06T23:50:18+00:00",
@@ -40561,842 +41336,6 @@
       "headline": "Voters head to polls to decide control of House and Senate",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "74a381c5632a532b",
-      "date": "Tue, 03 Nov 2026",
-      "ts": "2026-11-03T14:18:29+00:00",
-      "date_display": "Nov 03, 2026",
-      "source": "Fox Business",
-      "type": "news",
-      "quote": "under Trump, Agriculture Secretary Brooke Rollins says - Fox Business Food prices dropping under Trump, Agriculture",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 59.71,
-      "change": 6.7,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRm51emFhdmRwSVNxRzRLWElqMzlKNkRIbnBITzJVV1FPUVVaTDViWHNZSzVSYWxGbTMtcThzME93bG16LVp1LXJnWVJteTMxUk03SUszUFk2MmM?oc=5",
-      "image": null,
-      "headline": "Food prices dropping under Trump, Agriculture Secretary Brooke Rollins says - Fox Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        },
-        {
-          "d": "11-02",
-          "c": 55.96
-        },
-        {
-          "d": "11-03",
-          "c": 59.71
-        }
-      ]
-    },
-    {
-      "id": "454c79d07956e079",
-      "date": "Tue, 03 Nov 2026",
-      "ts": "2026-11-03T10:00:53+00:00",
-      "date_display": "Nov 03, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "a Republican, will face Democratic Attorney General Aaron Ford in a battle to hold onto his seat.",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 12.6,
-      "change": 2.86,
-      "direction": "up",
-      "article_link": "https://www.pbs.org/newshour/politics/live-results-nevada-governor-midterm-election",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-23T175020Z_1896266060_RC2QWNAW0V00_RTRMADP_3_USA-ELECTION-NEVADA-1024x683.jpg",
-      "headline": "Live Results: Nevada governor midterm election",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 12.15
-        },
-        {
-          "d": "10-06",
-          "c": 12.28
-        },
-        {
-          "d": "10-07",
-          "c": 12.12
-        },
-        {
-          "d": "10-08",
-          "c": 12.25
-        },
-        {
-          "d": "10-09",
-          "c": 12.17
-        },
-        {
-          "d": "10-12",
-          "c": 12.0
-        },
-        {
-          "d": "10-13",
-          "c": 12.1
-        },
-        {
-          "d": "10-14",
-          "c": 12.05
-        },
-        {
-          "d": "10-15",
-          "c": 12.31
-        },
-        {
-          "d": "10-16",
-          "c": 12.43
-        },
-        {
-          "d": "10-19",
-          "c": 12.18
-        },
-        {
-          "d": "10-20",
-          "c": 12.15
-        },
-        {
-          "d": "10-21",
-          "c": 11.9
-        },
-        {
-          "d": "10-22",
-          "c": 11.94
-        },
-        {
-          "d": "10-23",
-          "c": 11.6
-        },
-        {
-          "d": "10-26",
-          "c": 11.58
-        },
-        {
-          "d": "10-27",
-          "c": 11.71
-        },
-        {
-          "d": "10-28",
-          "c": 11.95
-        },
-        {
-          "d": "10-29",
-          "c": 12.36
-        },
-        {
-          "d": "10-30",
-          "c": 12.25
-        },
-        {
-          "d": "11-02",
-          "c": 12.6
-        }
-      ]
-    },
-    {
-      "id": "097bb0ed58f1a973",
-      "date": "Tue, 03 Nov 2026",
-      "ts": "2026-11-03T10:00:00+00:00",
-      "date_display": "Nov 03, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "A new cold war: hackers target fridges across the globe NPR investigated cyberattacks on",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 158.38,
-      "change": 2.59,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-      "image": null,
-      "headline": "A new cold war: hackers target fridges across the globe",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        },
-        {
-          "d": "11-02",
-          "c": 158.38
-        }
-      ]
-    },
-    {
-      "id": "70947997ca25b0dd",
-      "date": "Tue, 03 Nov 2026",
-      "ts": "2026-11-03T10:00:00+00:00",
-      "date_display": "Nov 03, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "From 'model minority' to target, anti-Indian hate on the rise A massacre allegedly",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 158.38,
-      "change": 2.59,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
-      "image": null,
-      "headline": "From 'model minority' to target, anti-Indian hate on the rise",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        },
-        {
-          "d": "11-02",
-          "c": 158.38
-        }
-      ]
-    },
-    {
-      "id": "f6d2add475e2177f",
-      "date": "Mon, 02 Nov 2026",
-      "ts": "2026-11-02T19:55:17+00:00",
-      "date_display": "Nov 02, 2026",
-      "source": "Los Angeles Times",
-      "type": "news",
-      "quote": "Lachlan Murdoch says \"viewer fatigue\" is cutting into Fox News ratings - Los Angeles Times Lachlan Murdoch says",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.96,
-      "change": -0.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTVh1TEwxUlBEeDBwYzhjN3dfanpLeFgxa2FaMTB5ZUVjUld2LWpGSHFUTGpKZnhiTzNJSzJQTVJ2aFk1dWk3ajVUZlQtWENpNkx6QnJRTENHZVAxd0V5cF9MOGxiVXdJQXQwdFVKdkZxblVYZHVVbjJ1REdIMTVURW1mcFdYVmQtbFRoSHhXYkx0YUJPbG5abFZLTXYyOEVIOEZZbmFUQVZLRTltUjdXUFozUkMzR1VlTTQ1d3BjMXBrZGxsYnQ0OW1PUXVsTVl4OWFv?oc=5",
-      "image": null,
-      "headline": "Lachlan Murdoch says \"viewer fatigue\" is cutting into Fox News ratings - Los Angeles Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        },
-        {
-          "d": "11-02",
-          "c": 55.96
-        }
-      ]
-    },
-    {
-      "id": "18234a3c63e091d0",
-      "date": "Mon, 02 Nov 2026",
-      "ts": "2026-11-02T19:41:00+00:00",
-      "date_display": "Nov 02, 2026",
-      "source": "Newsweek",
-      "type": "news",
-      "quote": "Trump Admin Says Truth Social Paywall Does Not Violate Constitution - Newsweek Trump",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 5.66,
-      "change": 1.25,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTG9GTGFtaDdzSFZPY0xMYk5uMENtbEQ5TzNLeG1faWdPcDdMVWxXMFBtNG5SX0JUZjQ2cEFqZUlaczhta1N2RFRENF9EZmJoalBwSEZLemNrS3ZZZW1hTVYxY0dTRlhTSVREY3ZQU0FveDliSjVIMUtuWUVSTnlZQVFDQWJzeEtEUC1xMUFWOFBvNXhscHRqNlVxMlIwcXR0b3A0?oc=5",
-      "image": null,
-      "headline": "Trump Admin Says Truth Social Paywall Does Not Violate Constitution - Newsweek",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 8.63
-        },
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        }
-      ]
-    },
-    {
-      "id": "174e1c24842e2c2d",
-      "date": "Mon, 02 Nov 2026",
-      "ts": "2026-11-02T17:41:21+00:00",
-      "date_display": "Nov 02, 2026",
-      "source": "CNN",
-      "type": "news",
-      "quote": "Fox News ratings drop is due to \u2018viewer fatigue,\u2019 Murdoch says",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 55.96,
-      "change": -0.43,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEY5aTBxNTZGdllaSVZRc3lJMk85cjd4YU9QeFNfd2ZLUEVNNnJ1QlNBYWNDNkpvRm9Bak9kM2c1Z3licE81dmRIU1o5RnBUbUw4RndpR19LbTlvUk1ETVRkQ3NTRkY4Q2dzUkU0VlpMTkJUbzl5N3p3cGFrcU1mWG9GUFBucjRZ?oc=5",
-      "image": null,
-      "headline": "Fox News ratings drop is due to \u2018viewer fatigue,\u2019 Murdoch says on eve of midterms - CNN",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        },
-        {
-          "d": "11-02",
-          "c": 55.96
-        }
-      ]
-    },
-    {
-      "id": "4166d99d0afe2ddc",
-      "date": "Mon, 02 Nov 2026",
-      "ts": "2026-11-02T09:18:00+00:00",
-      "date_display": "Nov 02, 2026",
-      "source": "\u671d\u65e5\u65b0\u805e",
-      "type": "news",
-      "quote": "INTERVIEW/ A.G. Sulzberger: NYT publisher says Trump\u2019s media attacks empower critics -",
-      "company": "Nyt",
-      "ticker": "NYT",
-      "price": 69.96,
-      "change": -0.3,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EQ19nMXp6NmJGZDVwNkF5YnFEdklobGdudURGTlFQRjZFTWNuSHI4Yy0yRUJlNEhhUGZEeTRCY1l0aG9HZ1FjRTVhXzlxRXA2aDQtM3B3?oc=5",
-      "image": null,
-      "headline": "INTERVIEW/ A.G. Sulzberger: NYT publisher says Trump\u2019s media attacks empower critics - \u671d\u65e5\u65b0\u805e",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 63.77
-        },
-        {
-          "d": "10-06",
-          "c": 63.84
-        },
-        {
-          "d": "10-07",
-          "c": 64.9
-        },
-        {
-          "d": "10-08",
-          "c": 66.6
-        },
-        {
-          "d": "10-09",
-          "c": 66.32
-        },
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        }
-      ]
     }
   ]
 }
