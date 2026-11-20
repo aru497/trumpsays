@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-11-19T23:41:11.560781+00:00",
+  "updated_at": "2026-11-20T04:41:40.864812+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "ba347ef0428f74c2",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T02:00:00+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Trump Discloses Hundreds of Stock Trades, Including Nvidia, SpaceX - Newsweek Trump Discloses Hundreds of Stock",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVRQYjdOc1FCYTNaUld4WndkT0I0SFdpamVKTG9VelA4Zl9VVU45eE5aRU5OVWFzQnN1YUxVMzQwRGR1cDhsQW81LUlraWV2TlNxY2xtLWYtUFMwZVdZS2Vub1VrX3BFZUJJVUl2Z3FXakVGYVJnTnlxV1NwOFRReXdOUWJ3TFN0WmhVNV9ybXg?oc=5",
+      "image": null,
+      "headline": "Trump Discloses Hundreds of Stock Trades, Including Nvidia, SpaceX - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        }
+      ]
+    },
+    {
+      "id": "9e2621c0f2985c66",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T20:46:24+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "BNN Bloomberg",
+      "type": "news",
+      "quote": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows - BNN Bloomberg Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblFxMkx5NjF3M1lpaFNGZmhWcDlDNG02SDZzQXR4d2VSUC1tVDM3b0JNNDFXTGxCTmdnRnZBZ19ydGgzSHJCZ3dxXzJPR2czbDlpLVBFZkluejAxeTNuemR4VVdyWmgxa0hxVEV5ajN6V0lPN25NQ050b0J4NkFIeVAtSExZYjEtRndKSlAteElHMEtRTXF0R2MySXpaVkxYREsyMXR6VU5GcEMzSmU0OWwxZFNLa3JJenozcTNDN21TNElCYkJRNldmS093UVRaTlE?oc=5",
+      "image": null,
+      "headline": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows - BNN Bloomberg",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        }
+      ]
+    },
+    {
+      "id": "5846e2dfdaacc537",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T20:44:33+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "AOL.com",
+      "type": "news",
+      "quote": "Trump Buys Up to $265,000 in Nvidia Stock as Administration Weighs New Chip Restrictions \u2014",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uV29QWVo0ZGZVcnBaYkJQMnZ1LXZhbHkycTdHb25kVEZmTXh1MlRlVFNId0JLaWY2WVVkTUZaaUFOcHdJSWNIR3JrYnBPUnNKNTAwaHZGSXdhY0JPNGgzX1A5eVdXUmgwQllFRnZQVWdETDltNUhxcw?oc=5",
+      "image": null,
+      "headline": "Trump Buys Up to $265,000 in Nvidia Stock as Administration Weighs New Chip Restrictions \u2014 After Company's CEO Resigns Amid Scandal - AOL.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        }
+      ]
+    },
     {
       "id": "9be53f9a88d0a2c4",
       "date": "Thu, 19 Nov 2026",
@@ -649,6 +973,25 @@
           "c": 380.8
         }
       ]
+    },
+    {
+      "id": "7e6b7105aac9d06a",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T15:00:50+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "WATCH: Senate Republicans block latest Democratic effort to end war in Iran The 48-51 vote",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.pbs.org/newshour/politics/watch-live-senate-meets-for-legislative-business-as-trump-returns-from-putin-xi-talks-in-china",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T122640Z_242489410_RC2NPOALHI42_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
+      "headline": "WATCH: Senate Republicans block latest Democratic effort to end war in Iran",
+      "channel": "News",
+      "series": null
     },
     {
       "id": "83369ba752806076",
@@ -41141,260 +41484,6 @@
         {
           "d": "10-30",
           "c": 205.97
-        }
-      ]
-    },
-    {
-      "id": "79a681c9924c5d73",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T19:00:58+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to",
-      "company": "Arm",
-      "ticker": "ARM",
-      "price": 205.97,
-      "change": -9.97,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-      "image": null,
-      "headline": "Connecticut Sen. Chris Murphy is hospitalized with a stroke",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 292.34
-        },
-        {
-          "d": "10-02",
-          "c": 307.49
-        },
-        {
-          "d": "10-05",
-          "c": 302.9
-        },
-        {
-          "d": "10-06",
-          "c": 302.56
-        },
-        {
-          "d": "10-07",
-          "c": 294.37
-        },
-        {
-          "d": "10-08",
-          "c": 275.29
-        },
-        {
-          "d": "10-09",
-          "c": 266.28
-        },
-        {
-          "d": "10-12",
-          "c": 255.24
-        },
-        {
-          "d": "10-13",
-          "c": 255.39
-        },
-        {
-          "d": "10-14",
-          "c": 238.01
-        },
-        {
-          "d": "10-15",
-          "c": 244.79
-        },
-        {
-          "d": "10-16",
-          "c": 227.8
-        },
-        {
-          "d": "10-19",
-          "c": 228.05
-        },
-        {
-          "d": "10-20",
-          "c": 221.06
-        },
-        {
-          "d": "10-21",
-          "c": 226.59
-        },
-        {
-          "d": "10-22",
-          "c": 210.1
-        },
-        {
-          "d": "10-23",
-          "c": 210.33
-        },
-        {
-          "d": "10-26",
-          "c": 223.35
-        },
-        {
-          "d": "10-27",
-          "c": 226.6
-        },
-        {
-          "d": "10-28",
-          "c": 235.9
-        },
-        {
-          "d": "10-29",
-          "c": 228.77
-        },
-        {
-          "d": "10-30",
-          "c": 205.97
-        }
-      ]
-    },
-    {
-      "id": "b265f9d657371d7e",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T18:00:37+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses A federal",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-      "image": null,
-      "headline": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "be3bd7afbd1b3bf8",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T16:40:55+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-29T075154Z_1272073841_RC2VCOA5J4CE_RTRMADP_3_USA-ELECTION-ALASKA-1024x702.jpg",
-      "headline": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
-      "channel": "News",
-      "series": null
-    },
-    {
-      "id": "d37ddd0e76fa3716",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T12:55:15+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "Macau Business",
-      "type": "news",
-      "quote": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business Trump says",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 204.64,
-      "change": -4.22,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHNtWnpVWFJaRHRQeXF1Ry1rbG1YS0Myb0NhTmdJRW02WnYwbk9odVBwMGZnNzJqSGFPZE5DZW9OX2VoZ3lkRlNGekhkQl9PbVo4TW5SQkZIR0RWTXAwWGVCRXc3Sld6NnR2RERoLXE5dkZ0ckNNTkVRTnJkN1cyZ3o5NXlyYzhwTHZ5MFFzdmpOejhFWjZWdGVDejFycVhMSWlEbQ?oc=5",
-      "image": null,
-      "headline": "Trump says US looking \u2018closely\u2019 at report Nvidia CEO target of China spy plot - Macau Business",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
         }
       ]
     }
