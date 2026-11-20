@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-11-20T04:41:40.864812+00:00",
+  "updated_at": "2026-11-20T13:41:40.786515+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "2edbc8c496ad3470",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T12:04:57+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Dems aim to block Iran war funding. And, Army delays lead azide detonation",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+      "image": null,
+      "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "channel": "News",
+      "series": null
+    },
     {
       "id": "ba347ef0428f74c2",
       "date": "Fri, 20 Nov 2026",
@@ -18,6 +37,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVRQYjdOc1FCYTNaUld4WndkT0I0SFdpamVKTG9VelA4Zl9VVU45eE5aRU5OVWFzQnN1YUxVMzQwRGR1cDhsQW81LUlraWV2TlNxY2xtLWYtUFMwZVdZS2Vub1VrX3BFZUJJVUl2Z3FXakVGYVJnTnlxV1NwOFRReXdOUWJ3TFN0WmhVNV9ybXg?oc=5",
       "image": null,
       "headline": "Trump Discloses Hundreds of Stock Trades, Including Nvidia, SpaceX - Newsweek",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        }
+      ]
+    },
+    {
+      "id": "afd66685091bde7d",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T02:00:00+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Newsweek",
+      "type": "news",
+      "quote": "Trump reveals hundreds of stock trades, including Nvidia and SpaceX - Newsweek Trump reveals hundreds of stock",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVRQYjdOc1FCYTNaUld4WndkT0I0SFdpamVKTG9VelA4Zl9VVU45eE5aRU5OVWFzQnN1YUxVMzQwRGR1cDhsQW81LUlraWV2TlNxY2xtLWYtUFMwZVdZS2Vub1VrX3BFZUJJVUl2Z3FXakVGYVJnTnlxV1NwOFRReXdOUWJ3TFN0WmhVNV9ybXg?oc=5",
+      "image": null,
+      "headline": "Trump reveals hundreds of stock trades, including Nvidia and SpaceX - Newsweek",
       "channel": "News",
       "series": [
         {
@@ -234,6 +361,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uV29QWVo0ZGZVcnBaYkJQMnZ1LXZhbHkycTdHb25kVEZmTXh1MlRlVFNId0JLaWY2WVVkTUZaaUFOcHdJSWNIR3JrYnBPUnNKNTAwaHZGSXdhY0JPNGgzX1A5eVdXUmgwQllFRnZQVWdETDltNUhxcw?oc=5",
       "image": null,
       "headline": "Trump Buys Up to $265,000 in Nvidia Stock as Administration Weighs New Chip Restrictions \u2014 After Company's CEO Resigns Amid Scandal - AOL.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        }
+      ]
+    },
+    {
+      "id": "484f393b1bb60995",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T18:37:35+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5",
+      "image": null,
+      "headline": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
       "channel": "News",
       "series": [
         {
@@ -647,6 +882,114 @@
         {
           "d": "11-19",
           "c": 68.9
+        }
+      ]
+    },
+    {
+      "id": "96c959fd11a133e9",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T16:54:02+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "says he is 'not MAGA,' in departure from past comments - Fox Business Elon Musk says he is 'not MAGA,' in departure",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.98,
+      "change": -2.9,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDNpV1F0M0FmQ1BPSjllY2dFbWxZNlEtTnRadEl0Z1dURWpaU0hpbzBrUi1kSWU4dHQ2UlNhTnJBRDBzNTZVY1NlUmdxbE00RlhRaXVGazBpMHVSNVFaRjVpVDdqZ3RkNmV4NWRCd3VfSm5aSXMxb0xKOFQxSnZKNXM4WllMVmNueGY1cWN6eTJfMUV5eHFF0gGcAUFVX3lxTE5EQ3dPbTI2UDZNcVlsUE12OUFjWDNUalE2S1NjRjdUZGZBcWlkOGhRVlphUHpTdE5CVTVOZ3RQVUdiTkxJSkoxcjZTVksySUpxaVZWcDZfb01IZWNndWRzY1ZUUzNTRnZUem1KQVdpWU9SZ284eER0LTdLdnlkN2pqQVVWNk5YTFBGXzdjcnJZamNDblAtWUEzUUQ4Nw?oc=5",
+      "image": null,
+      "headline": "Elon Musk says he is 'not MAGA,' in departure from past comments - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 58.63
+        },
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        },
+        {
+          "d": "11-16",
+          "c": 60.75
+        },
+        {
+          "d": "11-17",
+          "c": 59.71
+        },
+        {
+          "d": "11-18",
+          "c": 58.68
+        },
+        {
+          "d": "11-19",
+          "c": 56.98
         }
       ]
     },
@@ -1314,6 +1657,114 @@
         {
           "d": "11-19",
           "c": 4.19
+        }
+      ]
+    },
+    {
+      "id": "f3b83d6d43547935",
+      "date": "Thu, 19 Nov 2026",
+      "ts": "2026-11-19T12:27:19+00:00",
+      "date_display": "Nov 19, 2026",
+      "source": "TradingView",
+      "type": "news",
+      "quote": "President Trump Just Delivered Good News for Nvidia Stock Investors - TradingView President Trump Just",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 145.98,
+      "change": -3.3,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUNRRERWWHY4RHcxcDNzTk9xQkpvZlJCODZMc3pfMElyOTYydlhMbzRxZ3lTTE16TktlcXNveWl1UXh2SldWNVpJbVVCMEhJbm05VnlIT3hqVGxPQkxLajZab2pCU3ZiZGk5alhzOW4yTmFFY3JnekRlMW5la1Z2aXd1dWZ6MlljSTNSRzc2VFVtN2NjZjAtcC1pMm1kRHllblFaakpzSlpkMEFqd1lpTjUyZXBzUm5WeVdmS0xtZFZOUWdOS3c?oc=5",
+      "image": null,
+      "headline": "President Trump Just Delivered Good News for Nvidia Stock Investors - TradingView",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-21",
+          "c": 221.97
+        },
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
         }
       ]
     },
@@ -40944,546 +41395,6 @@
         {
           "d": "11-02",
           "c": 69.96
-        }
-      ]
-    },
-    {
-      "id": "cc284854abeedf4b",
-      "date": "Mon, 02 Nov 2026",
-      "ts": "2026-11-02T03:19:17+00:00",
-      "date_display": "Nov 02, 2026",
-      "source": "The Edge Malaysia",
-      "type": "news",
-      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia Trump",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 204.64,
-      "change": -4.22,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aM3JaTU9NYl9RTmVtWEhtU3BKanFmNGF0Y3h2LXNEMjlzVlRfYnByVmNwX0VmWVFjc1pOVTdaZUI1SkZIcDEtbFdLRXlVa2JM?oc=5",
-      "image": null,
-      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        }
-      ]
-    },
-    {
-      "id": "a6691926d7ae21d1",
-      "date": "Mon, 02 Nov 2026",
-      "ts": "2026-11-02T03:19:17+00:00",
-      "date_display": "Nov 02, 2026",
-      "source": "The Edge Malaysia",
-      "type": "news",
-      "quote": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia Trump says US",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.38,
-      "change": 1.69,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aM3JaTU9NYl9RTmVtWEhtU3BKanFmNGF0Y3h2LXNEMjlzVlRfYnByVmNwX0VmWVFjc1pOVTdaZUI1SkZIcDEtbFdLRXlVa2JM?oc=5",
-      "image": null,
-      "headline": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot - The Edge Malaysia",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 156.7
-        },
-        {
-          "d": "10-02",
-          "c": 156.0
-        },
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        }
-      ]
-    },
-    {
-      "id": "4613933d7f762be6",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T22:52:12+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "The Washington Post",
-      "type": "news",
-      "quote": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post Trump",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 204.64,
-      "change": -4.22,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGJjbktIWGNkNTRGd0lIMm9QSjVtd1lBSWZkUkczcUtGLVRCMVRNM1g4TVh1cVlZLXltSElHWFVaSHdTajlwX3ZDTENEQm1aY3FhMjRISWZuOFc5eUZnM2FENzA2MXZrS3NZWEo4TVBVTFRsdFFUa1RuRUJmaXhWY19TeWRJVG80LThvbkZPTGNycEpsaVNoUzRaSDJoQTZsbkRZ?oc=5",
-      "image": null,
-      "headline": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 230.86
-        },
-        {
-          "d": "10-02",
-          "c": 233.95
-        },
-        {
-          "d": "10-05",
-          "c": 238.9
-        },
-        {
-          "d": "10-06",
-          "c": 239.24
-        },
-        {
-          "d": "10-07",
-          "c": 237.47
-        },
-        {
-          "d": "10-08",
-          "c": 230.48
-        },
-        {
-          "d": "10-09",
-          "c": 229.28
-        },
-        {
-          "d": "10-12",
-          "c": 226.32
-        },
-        {
-          "d": "10-13",
-          "c": 228.52
-        },
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        }
-      ]
-    },
-    {
-      "id": "adf8d4477d6d0151",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T21:20:25+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday.",
-      "company": "Arm",
-      "ticker": "ARM",
-      "price": 205.97,
-      "change": -9.97,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-05-20T171608Z_1562033459_RC23DLAAI7R2_RTRMADP_3_USA-CONGRESS-AMBASSADORS-1024x683.jpg",
-      "headline": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 292.34
-        },
-        {
-          "d": "10-02",
-          "c": 307.49
-        },
-        {
-          "d": "10-05",
-          "c": 302.9
-        },
-        {
-          "d": "10-06",
-          "c": 302.56
-        },
-        {
-          "d": "10-07",
-          "c": 294.37
-        },
-        {
-          "d": "10-08",
-          "c": 275.29
-        },
-        {
-          "d": "10-09",
-          "c": 266.28
-        },
-        {
-          "d": "10-12",
-          "c": 255.24
-        },
-        {
-          "d": "10-13",
-          "c": 255.39
-        },
-        {
-          "d": "10-14",
-          "c": 238.01
-        },
-        {
-          "d": "10-15",
-          "c": 244.79
-        },
-        {
-          "d": "10-16",
-          "c": 227.8
-        },
-        {
-          "d": "10-19",
-          "c": 228.05
-        },
-        {
-          "d": "10-20",
-          "c": 221.06
-        },
-        {
-          "d": "10-21",
-          "c": 226.59
-        },
-        {
-          "d": "10-22",
-          "c": 210.1
-        },
-        {
-          "d": "10-23",
-          "c": 210.33
-        },
-        {
-          "d": "10-26",
-          "c": 223.35
-        },
-        {
-          "d": "10-27",
-          "c": 226.6
-        },
-        {
-          "d": "10-28",
-          "c": 235.9
-        },
-        {
-          "d": "10-29",
-          "c": 228.77
-        },
-        {
-          "d": "10-30",
-          "c": 205.97
-        }
-      ]
-    },
-    {
-      "id": "c7a5382ffa68f963",
-      "date": "Sun, 01 Nov 2026",
-      "ts": "2026-11-01T19:00:58+00:00",
-      "date_display": "Nov 01, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to",
-      "company": "Arm",
-      "ticker": "ARM",
-      "price": 205.97,
-      "change": -9.97,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-      "image": null,
-      "headline": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-01",
-          "c": 292.34
-        },
-        {
-          "d": "10-02",
-          "c": 307.49
-        },
-        {
-          "d": "10-05",
-          "c": 302.9
-        },
-        {
-          "d": "10-06",
-          "c": 302.56
-        },
-        {
-          "d": "10-07",
-          "c": 294.37
-        },
-        {
-          "d": "10-08",
-          "c": 275.29
-        },
-        {
-          "d": "10-09",
-          "c": 266.28
-        },
-        {
-          "d": "10-12",
-          "c": 255.24
-        },
-        {
-          "d": "10-13",
-          "c": 255.39
-        },
-        {
-          "d": "10-14",
-          "c": 238.01
-        },
-        {
-          "d": "10-15",
-          "c": 244.79
-        },
-        {
-          "d": "10-16",
-          "c": 227.8
-        },
-        {
-          "d": "10-19",
-          "c": 228.05
-        },
-        {
-          "d": "10-20",
-          "c": 221.06
-        },
-        {
-          "d": "10-21",
-          "c": 226.59
-        },
-        {
-          "d": "10-22",
-          "c": 210.1
-        },
-        {
-          "d": "10-23",
-          "c": 210.33
-        },
-        {
-          "d": "10-26",
-          "c": 223.35
-        },
-        {
-          "d": "10-27",
-          "c": 226.6
-        },
-        {
-          "d": "10-28",
-          "c": 235.9
-        },
-        {
-          "d": "10-29",
-          "c": 228.77
-        },
-        {
-          "d": "10-30",
-          "c": 205.97
         }
       ]
     }
