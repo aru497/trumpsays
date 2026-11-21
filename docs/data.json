@@ -1,7 +1,331 @@
 {
-  "updated_at": "2026-11-20T21:36:59.686430+00:00",
+  "updated_at": "2026-11-21T02:54:03.075596+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "a7f1e7f1e494e4c2",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T22:27:38+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "Nvidia should take back Jensen Huang, Trump says as stock falls -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92eG1XbkRGbXkzOC1wMmFlY29panU2WTBSc3BWUEQ0LWF5X2ZLTkZuOVFBeFRLTXc4aGFZWmpub19LSENsbVFCSFFwWGthUzV5NkYxYk1sR2FLamM?oc=5",
+      "image": null,
+      "headline": "Nvidia should take back Jensen Huang, Trump says as stock falls - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "fb3b4f1045ea33a0",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T22:27:38+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Fox Business",
+      "type": "news",
+      "quote": "should take back Jensen Huang, Trump says as stock falls - Fox Business Nvidia should take back Jensen Huang, Trump says",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.14,
+      "change": -1.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92eG1XbkRGbXkzOC1wMmFlY29panU2WTBSc3BWUEQ0LWF5X2ZLTkZuOVFBeFRLTXc4aGFZWmpub19LSENsbVFCSFFwWGthUzV5NkYxYk1sR2FLamM?oc=5",
+      "image": null,
+      "headline": "Nvidia should take back Jensen Huang, Trump says as stock falls - Fox Business",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        },
+        {
+          "d": "11-16",
+          "c": 60.75
+        },
+        {
+          "d": "11-17",
+          "c": 59.71
+        },
+        {
+          "d": "11-18",
+          "c": 58.68
+        },
+        {
+          "d": "11-19",
+          "c": 56.98
+        },
+        {
+          "d": "11-20",
+          "c": 56.14
+        }
+      ]
+    },
+    {
+      "id": "a5dcff14f45ef468",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T21:07:29+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Jensen Huang's replacement as he wades deeper into Nvidia turmoil - Yahoo Finance Trump critiques Jensen Huang's",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3ZvR0JvcjNIRU9VTzVSbC1DS3hRZUc5Nkk0dkVQaUFuSFVuN3Q2TGt3Ny1wNWtJejZvRHFoUDNwRWhqSlJ4RnNTbXIxbVRkTWg3bmNFVkVEQXVhbzk0MHNzb0dKaG9OQkRwWWR4ZTZrWjZsUml1Smtuekg2cnRwVm55Y1pSdTEwWi1hb0o4Zm5yd29YdWxua3NLbGtkYmlUSHJLUWJLNUJHQTlOYTVpV2VlbTlVUUcxcUg2WWVKdGpoc0VVRDNMYUNCamJvQ2ZKMzJV?oc=5",
+      "image": null,
+      "headline": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
     {
       "id": "b0af59112b5ea864",
       "date": "Fri, 20 Nov 2026",
@@ -323,6 +647,241 @@
         {
           "d": "11-20",
           "c": 56.14
+        }
+      ]
+    },
+    {
+      "id": "46dd4f79aee8931d",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T19:46:00+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "AFR",
+      "type": "news",
+      "quote": "Trump says he\u2019ll block US companies from building data centres abroad - AFR Trump",
+      "company": "Block",
+      "ticker": "SQ",
+      "price": null,
+      "change": null,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3lKVmZLOFBhVDB1VUtueHhuYUNNM3U4VjBncEttdVJCY084UmF4WlJIS1ZCLXE3MzJoenY2ZUxaa2R4cDN6RkYweTZuckdleUtIMFQtZmgwT1lidUxNYXZib2dYTDRFZnB6am5RUmtJSmhITUxHQngtbWw0c2JrS3dJbmRGcmFWbXhucGdLQ3hMZEFscE45aU8tQVlyY0hTcVEyT3ZuNFlPamFjeExUTmo4a1RMSG1ia0FmdjJMTHJPNFQ4UGthSw?oc=5",
+      "image": null,
+      "headline": "Trump says he\u2019ll block US companies from building data centres abroad - AFR",
+      "channel": "News",
+      "series": null
+    },
+    {
+      "id": "f2709eabf2721515",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T19:45:38+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Reuters",
+      "type": "news",
+      "quote": "Trump says he still backs Lutnick, urges Nvidia's Huang to apologize - Reuters Trump says he still backs",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGQwWUVrODhUa2V5cklXNHcxR3pRbVlPaWxkRlJqV1JYZ3JaV200OHUyZ2JhMUNKbTdFMjlEWEJNNUZPQjFDSG1ZLTlMWGJQZUJSalNuVXVDU0pBRkZERkpTOGZ0SkpHYWlWcGJJUmhMeG9JMmphSk5QSkl0ZlNaaGF4TndiT3FKbUZWbUhzbkdrellveFBtQTdoc2loWHdkREt1NzhfXzI0djg4?oc=5",
+      "image": null,
+      "headline": "Trump says he still backs Lutnick, urges Nvidia's Huang to apologize - Reuters",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "0501d058d10e099d",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T15:52:58+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "CNBC",
+      "type": "news",
+      "quote": "says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged - CNBC Trump says he",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZY0VGNGFCdGNHVmYycjVUbzFUR0FXcEJrMndDTnJLVDR5Z0VmMHVwS2dTbE5WZTdudnJLNzZJbXdXdXpqUUxCSmR6cUVFeHN4SDV2Ykk1MHlhWGRpNnBoeEpsNnRTempqSzhmdGduNmRQRjFRRExuTdIBfkFVX3lxTE56cjI2TnhQdVVjLVdxdXFYN044dU1UNlZjTFN3eEFYaWsxOERGMmF2S0FsRERhQnBhdWJQekd1dl9tYzFSM1lhVFRPLTVPdlBQdmZfRGppT3lfVFRoZUd2Y29selZXVkRUcUt3bEhMZW53dUlSSlJiLTFWY3FQUQ?oc=5",
+      "image": null,
+      "headline": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged - CNBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
         }
       ]
     },
@@ -40777,565 +41336,6 @@
           "c": 5.95
         }
       ]
-    },
-    {
-      "id": "45a515d47f9b67b1",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T09:48:40+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor Democrat Aaron Ford",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 12.31,
-      "change": -2.3,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
-      "image": null,
-      "headline": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 12.15
-        },
-        {
-          "d": "10-06",
-          "c": 12.28
-        },
-        {
-          "d": "10-07",
-          "c": 12.12
-        },
-        {
-          "d": "10-08",
-          "c": 12.25
-        },
-        {
-          "d": "10-09",
-          "c": 12.17
-        },
-        {
-          "d": "10-12",
-          "c": 12.0
-        },
-        {
-          "d": "10-13",
-          "c": 12.1
-        },
-        {
-          "d": "10-14",
-          "c": 12.05
-        },
-        {
-          "d": "10-15",
-          "c": 12.31
-        },
-        {
-          "d": "10-16",
-          "c": 12.43
-        },
-        {
-          "d": "10-19",
-          "c": 12.18
-        },
-        {
-          "d": "10-20",
-          "c": 12.15
-        },
-        {
-          "d": "10-21",
-          "c": 11.9
-        },
-        {
-          "d": "10-22",
-          "c": 11.94
-        },
-        {
-          "d": "10-23",
-          "c": 11.6
-        },
-        {
-          "d": "10-26",
-          "c": 11.58
-        },
-        {
-          "d": "10-27",
-          "c": 11.71
-        },
-        {
-          "d": "10-28",
-          "c": 11.95
-        },
-        {
-          "d": "10-29",
-          "c": 12.36
-        },
-        {
-          "d": "10-30",
-          "c": 12.25
-        },
-        {
-          "d": "11-02",
-          "c": 12.6
-        },
-        {
-          "d": "11-03",
-          "c": 12.31
-        }
-      ]
-    },
-    {
-      "id": "083356b6cf158fbd",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T06:29:46+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional",
-      "company": "Ford",
-      "ticker": "F",
-      "price": 12.31,
-      "change": -2.3,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/democrat-j-d-ford-wins-election-to-u-s-house-in-indianas-5th-congressional-district",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP25345800789313-1024x683.jpg",
-      "headline": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional District",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 12.15
-        },
-        {
-          "d": "10-06",
-          "c": 12.28
-        },
-        {
-          "d": "10-07",
-          "c": 12.12
-        },
-        {
-          "d": "10-08",
-          "c": 12.25
-        },
-        {
-          "d": "10-09",
-          "c": 12.17
-        },
-        {
-          "d": "10-12",
-          "c": 12.0
-        },
-        {
-          "d": "10-13",
-          "c": 12.1
-        },
-        {
-          "d": "10-14",
-          "c": 12.05
-        },
-        {
-          "d": "10-15",
-          "c": 12.31
-        },
-        {
-          "d": "10-16",
-          "c": 12.43
-        },
-        {
-          "d": "10-19",
-          "c": 12.18
-        },
-        {
-          "d": "10-20",
-          "c": 12.15
-        },
-        {
-          "d": "10-21",
-          "c": 11.9
-        },
-        {
-          "d": "10-22",
-          "c": 11.94
-        },
-        {
-          "d": "10-23",
-          "c": 11.6
-        },
-        {
-          "d": "10-26",
-          "c": 11.58
-        },
-        {
-          "d": "10-27",
-          "c": 11.71
-        },
-        {
-          "d": "10-28",
-          "c": 11.95
-        },
-        {
-          "d": "10-29",
-          "c": 12.36
-        },
-        {
-          "d": "10-30",
-          "c": 12.25
-        },
-        {
-          "d": "11-02",
-          "c": 12.6
-        },
-        {
-          "d": "11-03",
-          "c": 12.31
-        }
-      ]
-    },
-    {
-      "id": "317a84eecd1c002a",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T05:41:00+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "Forbes",
-      "type": "news",
-      "quote": "Trump Congratulates Democrats\u2014Then Blames Fox News For Midterm Losses And Posts \u2018VETO\u2019 Hat - Forbes",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 61.82,
-      "change": 3.67,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0JGdkV0clBBOXhJSmxmSmJrQzhDWVBhWGZFQ21IblMxaU0wV0NMVlNCVEFWUmtBLXI1VWlWQlZFdzJub0s1NU5WM3ctZG9DQUctZHBOT2h1QUJ1UUVjVHlUZmlwUHFyajBRbk95eUNsczZsMWMxWlVqVVlScEhsSjJpQlMxckNJdWNINmRJUjhlTzBCblg5dHUzSGVRTXBuYkZBUTE5UnRXVjRYVkQ5VF9xLURvcVR4OGVsdQ?oc=5",
-      "image": null,
-      "headline": "Trump Congratulates Democrats\u2014Then Blames Fox News For Midterm Losses And Posts \u2018VETO\u2019 Hat - Forbes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        },
-        {
-          "d": "11-02",
-          "c": 55.96
-        },
-        {
-          "d": "11-03",
-          "c": 59.63
-        },
-        {
-          "d": "11-04",
-          "c": 61.82
-        }
-      ]
-    },
-    {
-      "id": "77fe56bf1ecc7660",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T01:19:01+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "Forbes",
-      "type": "news",
-      "quote": "Trump Repeatedly Bashes Fox News In Election Night Posting Rants - Forbes Trump",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 59.63,
-      "change": 6.56,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEx2emxxRnVWVTlaeUlfcnFyQXJEcU9DT3V2WG5XMEhnb3lPQjYwOFhjVi1yWXNkdXhnSm1XdmMwNWNVRXNrWnVNaC1WQ1hCQ0RIMXVwSU5ROUhkVXItZkhtZzkyR0FkRXhwdUdzSjNPV0NGSFJDS001WHc5UHhqWF9hR3RZRnN0aTc1aGtabkNCWXJDQWdfdHE4OUhwX3Y4Z0kyN2pJcEcwdVIxRTVqc0R5cVota1l3VGZHT0YxWQ?oc=5",
-      "image": null,
-      "headline": "Trump Repeatedly Bashes Fox News In Election Night Posting Rants - Forbes",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 56.7
-        },
-        {
-          "d": "10-06",
-          "c": 55.58
-        },
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        },
-        {
-          "d": "11-02",
-          "c": 55.96
-        },
-        {
-          "d": "11-03",
-          "c": 59.63
-        }
-      ]
-    },
-    {
-      "id": "bd708e9378fede0d",
-      "date": "Tue, 03 Nov 2026",
-      "ts": "2026-11-04T00:14:51+00:00",
-      "date_display": "Nov 03, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "Justice Department sent target letters in Alaska Senate criminal probe. Here's what that",
-      "company": "Target",
-      "ticker": "TGT",
-      "price": 154.4,
-      "change": -2.51,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/justice-department-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-06T173928Z_1151256053_RC25XY9BYTRC_RTRMADP_3_USA-TRUMP-OLSEN-1024x634.jpg",
-      "headline": "Justice Department sent target letters in Alaska Senate criminal probe. Here's what that means",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-05",
-          "c": 152.99
-        },
-        {
-          "d": "10-06",
-          "c": 154.33
-        },
-        {
-          "d": "10-07",
-          "c": 150.92
-        },
-        {
-          "d": "10-08",
-          "c": 154.76
-        },
-        {
-          "d": "10-09",
-          "c": 153.64
-        },
-        {
-          "d": "10-12",
-          "c": 153.62
-        },
-        {
-          "d": "10-13",
-          "c": 151.99
-        },
-        {
-          "d": "10-14",
-          "c": 155.31
-        },
-        {
-          "d": "10-15",
-          "c": 156.63
-        },
-        {
-          "d": "10-16",
-          "c": 154.26
-        },
-        {
-          "d": "10-19",
-          "c": 153.29
-        },
-        {
-          "d": "10-20",
-          "c": 154.0
-        },
-        {
-          "d": "10-21",
-          "c": 152.38
-        },
-        {
-          "d": "10-22",
-          "c": 158.11
-        },
-        {
-          "d": "10-23",
-          "c": 152.76
-        },
-        {
-          "d": "10-26",
-          "c": 148.53
-        },
-        {
-          "d": "10-27",
-          "c": 148.01
-        },
-        {
-          "d": "10-28",
-          "c": 148.96
-        },
-        {
-          "d": "10-29",
-          "c": 151.82
-        },
-        {
-          "d": "10-30",
-          "c": 154.38
-        },
-        {
-          "d": "11-02",
-          "c": 158.38
-        },
-        {
-          "d": "11-03",
-          "c": 154.4
-        }
-      ]
-    },
-    {
-      "id": "69aa945f53be83f0",
-      "date": "Tue, 03 Nov 2026",
-      "ts": "2026-11-03T23:55:40+00:00",
-      "date_display": "Nov 03, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "A look at the DOJ's efforts to change voter rolls and even block some results. Plus, as more Americans vote early, a new",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/show/voters-head-to-polls-to-decide-control-of-house-and-senate",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/vote2026leadtape-1024x683.jpg",
-      "headline": "Voters head to polls to decide control of House and Senate",
-      "channel": "News",
-      "series": null
     }
   ]
 }
