@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-11-22T17:56:49.979070+00:00",
+  "updated_at": "2026-11-22T23:01:19.777785+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "17d30261b64f3f3d",
+      "date": "Sun, 22 Nov 2026",
+      "ts": "2026-11-22T20:36:11+00:00",
+      "date_display": "Nov 22, 2026",
+      "source": "Investing.com",
+      "type": "news",
+      "quote": "Bessent says Trump administration needs answers from Nvidia - Investing.com Bessent says Trump administration needs",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmNBWGhWd0xyX3BTaFoya1pUd3pXcUV6WTlfMlNsZTJmc2lHbjdPX2pLbzc3ZHJIZmRScUQxcWNBcXdzWTU0b0R6bmNLb25tWWVrNzFLcGtnLWFrSFNuZERzN3JCZTRRQ2pyaW9vWm1vQWo1X2dKUjRqQ0tHc0w1M2VRUGNaTmppQVNpZWNRUTFkU0d4RVJ5ejdMbV9xam4xVWRvdVJ6T29zNkxxSmJFNw?oc=5",
+      "image": null,
+      "headline": "Bessent says Trump administration needs answers from Nvidia - Investing.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
     {
       "id": "fee52b2756787194",
       "date": "Sun, 22 Nov 2026",
@@ -41137,114 +41245,6 @@
         {
           "d": "11-04",
           "c": 4.97
-        }
-      ]
-    },
-    {
-      "id": "3806e52201507514",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T17:26:31+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "Bloomberg",
-      "type": "news",
-      "quote": "Trump Media Falls to All-Time Low As Republicans Lose Congress -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 3.99,
-      "change": -0.75,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlRKRndOMFRidVVCbkxxWXVJc3JfV24tYVVUMU9sZmNHZHAtbEVydTcwdDVKM2ZqcjBIdUROMG5ZYVI4RXZiTDFJNmNnanE1Qi1td1RYdnVYZnp5aW84TWNyRVlLcnJxWDl2WHV4WTdtZU9DU1M3Q1ZheUExRkppRmFITmt0QnFMTncwWEN3Ymh5THN5T1hCalNvTUJSLU83TXM4WkdEaWZSWDVxbkR3QmpOQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media Falls to All-Time Low As Republicans Lose Congress - Bloomberg",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        },
-        {
-          "d": "11-05",
-          "c": 4.02
-        },
-        {
-          "d": "11-06",
-          "c": 3.99
         }
       ]
     }
