@@ -1,7 +1,1303 @@
 {
-  "updated_at": "2026-11-23T03:51:00.661135+00:00",
+  "updated_at": "2026-11-23T13:47:24.301881+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "faa66664dee9a0d6",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T12:26:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "MarketWatch",
+      "type": "news",
+      "quote": "Nvidia stock bounces as Trump administration pushes for rehiring",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTE3UTJiTDJBdGEteFJpU1RwQjQ3NW56dVJyc2ZXcTd0M0V5b3hfMDZEdnEzaW9GNmJjV25iYl9Gb01jallBT2VMaDgxWndBdnU4WERzcXo5TEpKTU1EUGJXTTRxWFoyZ0dmSUJFenZrdG81ZWNkN0pXNmo5SDhWOHFuRkYyMHZjWmlDck1nS2toS0dhMnlmRWhWRFIyU2gyZ0lIaktGVEVjMDRoMkFzcWVyRkt4blFjRVpCOHNsb2s?oc=5",
+      "image": null,
+      "headline": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "57608e7467c7a3bf",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T12:20:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Fortune",
+      "type": "news",
+      "quote": "Scott Bessent has changed his tune on Nvidia leadership as President Trump says chipmaker should",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkk1WEJLT3MwT0FvU3o5cGRVQUVGaHZtbUlFVERubFJkM2JvMTFKNHRZZ2N2ZzlNbEtfOGktcnFzWVJTbElTNjVmOUszZVdKWnRsUHFhUnhvVmVfR3ZlOWZfX2prXzZqMjZzRUR0b3RfdndHUWR4SktpSk51eUlrbVJwd0ZTdnBpbEE?oc=5",
+      "image": null,
+      "headline": "Scott Bessent has changed his tune on Nvidia leadership as President Trump says chipmaker should \u2018rehire\u2019 Huang - Fortune",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "9a39591b91706bb3",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T11:59:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Tom's Hardware",
+      "type": "news",
+      "quote": "President Trump says Nvidia board rehiring Jensen Huang would be best for the company",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONlpCczV3ODV0ZVlpOWtlcUlvUF96UEpYVEhaZnNZNlFIWFMxRlVndjNPdVNoQWhGbk5rcU9qdkVRd0RTMUdoQ2p1VlQ5WTVtQmZuMGxDTk5oelVDX3JEQzBrVVRYOU9jaVdmdGtScmRHQl9ULVMwTVNSeXlkVkUyNVpBSUhTV0VwZjZuemlHV2YwenpQXzNpT2Z5R25SYWJFb2NvX3lmcnV0RnBfeVg0SmUzR09yU0d6TW1BYU5UR2JlVFc1b09MWVNVaWk4MC1KZjBhWkNwNVVKZXBDLXpPeFNPUXNoSEl3WGg5S1hyQUgyTzFZU0x0M0JPdmZDNzFYNW1BdXgtbFJqMWthUFh5bHF5X1hHTjF6X3FRU05lZXprR3NNaE5WWC01bWVIQ1o3THFobzZUemNOX0NvMzA5VnFoRjFNa01ZTmxMd3pfVzNzdUpvU0lUNXJkUTYyRTFOa1VFeA?oc=5",
+      "image": null,
+      "headline": "President Trump says Nvidia board rehiring Jensen Huang would be best for the company and US \u2014 Treasury Sec Bessent walks back outsider CEO comments, claims Huang is technically an outsider now - Tom's Hardware",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "d4f8655321f65c9c",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T10:34:37+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Nacionale",
+      "type": "news",
+      "quote": "Does Trump want Jensen Huang back at Nvidia? Yes, he urged the board to rehire him - Nacionale Does",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1BrSWdRU25JdXA4YUpWOUdxZXpWRzFPMkc2VVFpcXJ6czBrUjR2NEpXUjQ2dUthZ29PQXVZWkg0eFpWRWhYYXAxMDZVTm1WUzc3cnZCdjlBYTBVREFhZlZ6a2FTUldscFRtZTVMYTRhRW4yUURGREtidjVaTkdiSGZGVXBsTDVyam1HRzU5V3RyTUN2cVZ2b2lEdHo5Zm5KS00xZUdEUXN0YzBQWGc?oc=5",
+      "image": null,
+      "headline": "Does Trump want Jensen Huang back at Nvidia? Yes, he urged the board to rehire him - Nacionale",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "5771d34ab95e121d",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T09:38:37+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "CryptoRank",
+      "type": "news",
+      "quote": "Trump Wants Nvidia to Bring Back Jensen Huang: Could Leadership Uncertainty",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVGtsblZPMXZoUnVrMUxKVUFXZ2luOVdmQVJ0ZUdYZkZ5Z2oxSjREY2RpTDN0Vm0wRzNUd1pxVWVaRk5EaHhvSUZNV1FIdXdMQkU4SmpGXzhZZEhXUExfdjVpdHQxa0liT0FfQzRNOS1GT2JmZ3BTeUY4ck1TZFhXbUZYM1VuZ0oxamFYZFpyZnItNWx2Y2dlcF9BTXIzbmFoUU4zUnhEYmhiM0wxaHFkVzRIYm5CYmFHeDVwZU4ybWY5aFdsWkd1ZUI4VWRLYTZl?oc=5",
+      "image": null,
+      "headline": "Trump Wants Nvidia to Bring Back Jensen Huang: Could Leadership Uncertainty Put NVDA Stock at Risk? - CryptoRank",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "d088582e3fc0b099",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T06:26:58+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "The Jerusalem Post",
+      "type": "news",
+      "quote": "'Good for Nvidia, USA': Trump calls for chip manufacturer to rehire ex-CEO",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXJER2tTZWlxM3BGckwtTmZURHc1MlZ5cXBKYlhBLWlSMXF4VlhMV2Y3QU5FSlV4R010WGhiRkdJNDVtSUdqVmgtX3g5RlhnSGU1NktobmtlTTB5Z2ZWczAtaFVnUWNJMEloX2NWT2RWUDUwd2lnSm51WWd1ZG1LUU1XV1EtUQ?oc=5",
+      "image": null,
+      "headline": "'Good for Nvidia, USA': Trump calls for chip manufacturer to rehire ex-CEO Jensen Huang - The Jerusalem Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "7f8671c1649ddff4",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T05:44:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "New York Post",
+      "type": "news",
+      "quote": "Trump says he hopes Nvidia rehires Jensen Huang: \u2018Best thing for the USA\u2019 - New York",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5",
+      "image": null,
+      "headline": "Trump says he hopes Nvidia rehires Jensen Huang: \u2018Best thing for the USA\u2019 - New York Post",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "7f5dbb9387f55b4b",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T05:35:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Business Insider",
+      "type": "news",
+      "quote": "Trump wants Jensen Huang back at Nvidia. Scott Bessent says he may fit the bill. - Business",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXVqa3ZHT0VlU3RzWDZyZ1JHbllBcHVfY3Z6Mk9oYUhuTHF4Y1JFQ2s4LUJaN1pKcXkycnNXWFBKSGN6c0tkVGdkRkJIUnZNYngxaTBWOE9ZQXFOSTBwTG9tNXZvZGpicVAwcVBhSXJMblVWX3hXV3dNb0p1NzNhTWkzVV93SldtTDVzQlVfTDFFa19MbEZ4Zml2Skc?oc=5",
+      "image": null,
+      "headline": "Trump wants Jensen Huang back at Nvidia. Scott Bessent says he may fit the bill. - Business Insider",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "d152c259f81ebb72",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T04:49:07+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Benzinga",
+      "type": "news",
+      "quote": "Trump Wants Jensen Huang Back at Nvidia, Says \u2018It Would Be the Best Thing for the Company, And the",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRjNqNUpkZGVxM3lTcTZLWTE2WEhfRzhtVE1NQTZhc0xRdVkxMWwzMGpjUWZZWTJWMXRMb056VXdZSEpCYUJKRnd6TDlJM0hadGFtRGxCVjVxNHBFMGhKZ2tsaVdoRGhvM0ZfVHYwbjZadGR1c0JiVVpXNHJKWTlRZ0ZydkdwalF3ODl1SE1aVlV2N0wzNDJ1LUx1TU1nQ2VIaklZOU5DM09KSjZpV2t4Y1pCS29yR0tSZXZYclUxRGpTdEwyVzU3VVBSYmxjSEFKSjNpeWxjajFsME50NzhnTUFDdmZmWDY5?oc=5",
+      "image": null,
+      "headline": "Trump Wants Jensen Huang Back at Nvidia, Says \u2018It Would Be the Best Thing for the Company, And the USA\u2019 - Benzinga",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "74ef2b55818ac1c4",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T04:27:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance Trump urges",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5",
+      "image": null,
+      "headline": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "c325c3477a4db328",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T04:13:00+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Yahoo Finance",
+      "type": "news",
+      "quote": "Trump Throws His Weight Behind Jensen Huang\u2019s Return As Nvidia CEO: \u2018It Would Be The Best Thing For The Company\u2019 - Yahoo",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3RoMVZ0S2xHdlloUXo3WVdJVmVqLVUzSlZCQ3I4WjR4dUxzZjVyTzYxdFg5QVVWeW9EQllDbFlkTkhpby1EdGRSNjByQXB1elZ4SGV0b255czdkTHRfcE4xTC1HR3ZoWGJxcUM4Q19JeExoVjlQQWQwRVdIRDlwX3RmQ1ItZTVUU3hncDhvaXE4UzZGWlhfT1dDeUxaME0?oc=5",
+      "image": null,
+      "headline": "Trump Throws His Weight Behind Jensen Huang\u2019s Return As Nvidia CEO: \u2018It Would Be The Best Thing For The Company\u2019 - Yahoo Finance",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "b768a12ce64a945d",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T03:34:02+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "Open Magazine",
+      "type": "news",
+      "quote": "Trump Backs Jensen Huang\u2019s Return To NVIDIA As Report Details Alleged Chinese Intelligence Links -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY1RJUEcyRVpobTZnNzAxd0xLakFWczZNVjVMaU5tWTRIX2VFSllzUE1Ob0RidllTU201bXlVUlpobDJqSXVxUnVvYlBnNmtIUEQyU2NrUTNJNUZoaVFiQ1E4YVo1ZWQzenBBc2xhTFZxbnlaVmR6dEQ4RDVKcWNmX21yYkp4ZUtlSVpZRDEzMnM4QTVhRXkzZTdiNkQ2Q25OWEdkN3RJWmZqb3dXUXpuandyOXhjejZJNkxaWEpkaHk5cmRnc1pRVg?oc=5",
+      "image": null,
+      "headline": "Trump Backs Jensen Huang\u2019s Return To NVIDIA As Report Details Alleged Chinese Intelligence Links - Open Magazine",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
     {
       "id": "17d30261b64f3f3d",
       "date": "Sun, 22 Nov 2026",
@@ -1299,6 +2595,114 @@
       ]
     },
     {
+      "id": "816774aa5008686e",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T22:06:03+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "FOX 2",
+      "type": "news",
+      "quote": "despite Russia rejecting Kushner\u2019s claims of progress - FOX 2 The Latest: Trump says Putin wants to end war despite",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 56.14,
+      "change": -1.47,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRDZlQndld1pUYnNTTy1jdGdaRWhvWERXTUp4dVFnc1JtSEJ4aEZ0eDg2WE1mRXViSmRUNWZPWFVPdFR0QnhXM3A2Q0dsRlZSYWl2akpmanhBdmNRVk1UaFc4aURCSndqX1JGeDRTRGxxbS1LNEE2NXpWakwwWFdnVXExYVplb2VuaWE0Nm9tYTBYMWZmR2NGQ2ZyaG0zZ3JaVUt5bnRDdkVqVWlGaXZ2aUhYc0lKSFhVeFJVZlp0Y2Yxbk5sSWtmVjd4ZVhYX1U0TWhqZlVYaUNPb2PSAeABQVVfeXFMT1hVdDNmZTNJZ3l1dkVLbURkXzZHa2Jib2hUa1B2T2tNSVZPOHVCMkI0V2NVUlN5Z2RzY0VVRTVlQzhKSGlCSzdIVFJCdHltcnZMdHhTa0VyeFlOb2swR0phUXd6N0d6SnVYV1pJZmFjaVk2UmNfdlE1eFNWdU1OMjZ2NVBzYThHTWoya2NEdHFpU2Nnb1p1a1M1dTN6bjZGM1c1SDctSHVEaEZZTmZlc1VSWGtjVkhZX0QtSDVFWWJ0TmEtQl8xV0NPdG92YmwzWlJUU2plQW5OS0pfMmt6MjE?oc=5",
+      "image": null,
+      "headline": "The Latest: Trump says Putin wants to end war despite Russia rejecting Kushner\u2019s claims of progress - FOX 2",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 60.82
+        },
+        {
+          "d": "10-23",
+          "c": 59.46
+        },
+        {
+          "d": "10-26",
+          "c": 58.15
+        },
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        },
+        {
+          "d": "11-16",
+          "c": 60.75
+        },
+        {
+          "d": "11-17",
+          "c": 59.71
+        },
+        {
+          "d": "11-18",
+          "c": 58.68
+        },
+        {
+          "d": "11-19",
+          "c": 56.98
+        },
+        {
+          "d": "11-20",
+          "c": 56.14
+        }
+      ]
+    },
+    {
       "id": "200c4fe52fca04ed",
       "date": "Fri, 20 Nov 2026",
       "ts": "2026-11-20T21:09:51+00:00",
@@ -1530,6 +2934,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3BVTXVMUXRwSVVLdFdsX25kbXFDaVhDSWUyRFkwODBqblBzVEF2Z09nZVVSNE4wN0ExY2QwWGtIRGVEc1kwMG50ZDNQdlMwdjVqeno5UXRTTmZsWFc0SS1XekZxYmh1Y2VRWnVLdzBiWW1sOU9Cc09mT0RqTU5DckJrZ2M1VTlPSk10enFsQmxkMlRad2Z1NEhSY0UzX21DQm5Pd211ODVuYjItdVpNc3VlNDJtTkZDOEZpYmJjdHpmRmR1MXfSAcsBQVVfeXFMTmVCc29jeC0zU2R3U1I4d0cwbmtSTU5kbG9hQVdlNTZ6aHRCVmg1N0VYaTVwek9qbUNfcThZcXFBMnhlTC05a1ZJOFVjSVI3UFdaZ09mTkpibUVIdDZEVFFteXZNYndoZklIVU1uc0xnN3FPQlh3clUyZWU5VFhMZ0pCZmhsY3g4cE5zVGZRVU1pSW9YdnRfMHN1LUV4Vk5yWU5yXy1LTXBKRmlJejRLeEIyYzhvcVVMX1pya2ZPMjVhSHhvUEdyUnBPNDA?oc=5",
       "image": null,
       "headline": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance' - PBS",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-22",
+          "c": 212.21
+        },
+        {
+          "d": "10-23",
+          "c": 210.96
+        },
+        {
+          "d": "10-26",
+          "c": 216.0
+        },
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "01220626bf1c9a0f",
+      "date": "Fri, 20 Nov 2026",
+      "ts": "2026-11-20T20:34:25+00:00",
+      "date_display": "Nov 20, 2026",
+      "source": "Stocktwits",
+      "type": "news",
+      "quote": "Trump Continues To Insist On Huang\u2019s Return At Nvidia\u2019s Helm, Threatens US Firms Building Overseas Data Centers",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 125.53,
+      "change": -14.01,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeWxQTzY3UWZPdW10X2NZUTJwc25GcDdZMEJHMHBqWXFrVmYzcDZteThQdFBoYU0zRzlOb19uMzBYZTc2UmFKc3A2VTdzS25nY1dIMWRESGdBY2NlSzNyclI5ZjJyTTlnYmltZkxwTEY1RmZ2R1dCbjNuTDhwRTk1dW9ndkdScEFZYkhKaDFkOVZLZmU2WmMyeHc4MXl1X3kzalBoXzRocnFRdUFraDBDRUp1Y1pPck5iaUtzX1VQWERoUUd1NjdaSWJlQmZCQXJacmNtMEo4bUhOaU0yR2tpSTZVZGZrNWd2UGRjT1V1c0Q1QkRyZkZlWGJXUnEweVhQOUZzOQ?oc=5",
+      "image": null,
+      "headline": "Trump Continues To Insist On Huang\u2019s Return At Nvidia\u2019s Helm, Threatens US Firms Building Overseas Data Centers - Stocktwits",
       "channel": "News",
       "series": [
         {
@@ -39735,1518 +41247,6 @@
       "headline": "Trump's arch is on the verge of federal approval. But a judge could block construction",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "2d46a5b8a47e2c56",
-      "date": "Thu, 05 Nov 2026",
-      "ts": "2026-11-05T09:45:40+00:00",
-      "date_display": "Nov 05, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "Trump blames GOP candidates and Fox News for midterm losses President Trump has blamed GOP",
-      "company": "Fox",
-      "ticker": "FOX",
-      "price": 60.35,
-      "change": -2.06,
-      "direction": "down",
-      "article_link": "https://www.npr.org/2026/11/05/nx-s1-6028845/trump-blames-gop-candidates-and-fox-news-for-midterm-losses",
-      "image": null,
-      "headline": "Trump blames GOP candidates and Fox News for midterm losses",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-07",
-          "c": 55.98
-        },
-        {
-          "d": "10-08",
-          "c": 56.97
-        },
-        {
-          "d": "10-09",
-          "c": 55.89
-        },
-        {
-          "d": "10-12",
-          "c": 55.98
-        },
-        {
-          "d": "10-13",
-          "c": 55.93
-        },
-        {
-          "d": "10-14",
-          "c": 55.68
-        },
-        {
-          "d": "10-15",
-          "c": 57.14
-        },
-        {
-          "d": "10-16",
-          "c": 57.22
-        },
-        {
-          "d": "10-19",
-          "c": 58.33
-        },
-        {
-          "d": "10-20",
-          "c": 59.75
-        },
-        {
-          "d": "10-21",
-          "c": 58.63
-        },
-        {
-          "d": "10-22",
-          "c": 60.82
-        },
-        {
-          "d": "10-23",
-          "c": 59.46
-        },
-        {
-          "d": "10-26",
-          "c": 58.15
-        },
-        {
-          "d": "10-27",
-          "c": 57.43
-        },
-        {
-          "d": "10-28",
-          "c": 56.35
-        },
-        {
-          "d": "10-29",
-          "c": 57.25
-        },
-        {
-          "d": "10-30",
-          "c": 56.2
-        },
-        {
-          "d": "11-02",
-          "c": 55.96
-        },
-        {
-          "d": "11-03",
-          "c": 59.63
-        },
-        {
-          "d": "11-04",
-          "c": 61.62
-        },
-        {
-          "d": "11-05",
-          "c": 60.35
-        }
-      ]
-    },
-    {
-      "id": "d8714e7093be9a51",
-      "date": "Thu, 05 Nov 2026",
-      "ts": "2026-11-05T05:56:59+00:00",
-      "date_display": "Nov 05, 2026",
-      "source": "BigGo Finance",
-      "type": "news",
-      "quote": "Trump Media Shifts $342 Million in Bitcoin to Crypto.com as DJT Stock",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 4.49,
-      "change": -24.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fOU40VHpOSV9ueHJXaXJkYmJTZnBpdHpGNXMzejVLMEFwSzlyNUUxc0JxbUZqZnJ4ZTVxM29UUkdoQTIxbmZoS1N0UzVrQWY3U0JocHE1WHNSWjl6bFN3a3IwQjZSSG9WNVplYjVLOTAzVi1hb3c?oc=5",
-      "image": null,
-      "headline": "Trump Media Shifts $342 Million in Bitcoin to Crypto.com as DJT Stock Sinks to Record Low - BigGo Finance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        }
-      ]
-    },
-    {
-      "id": "1a8d1c66850bc6cf",
-      "date": "Thu, 05 Nov 2026",
-      "ts": "2026-11-05T05:34:08+00:00",
-      "date_display": "Nov 05, 2026",
-      "source": "Pluang",
-      "type": "news",
-      "quote": "Trump Media moves $344M in Bitcoin amid stock p... - Pluang Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 4.49,
-      "change": -24.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1oUS13Sjd6bWhQRFVWejMwd0JfUzRpc1p1VFQybmoxcE90Y1otYml5QlRQanR2Ny1SaXlsRS1XeVMyd0dFR3hPV1NiSzQ5cXZGeWdLbGVycENWaUEtV2xIdTJ3dkFkNGl0ZHQ5Y3gyNlU4OFYxWlNiTF9mNDhqTGh0blFWQjN6UFczdmkxdHB4VkdnOUE?oc=5",
-      "image": null,
-      "headline": "Trump Media moves $344M in Bitcoin amid stock p... - Pluang",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        }
-      ]
-    },
-    {
-      "id": "9318e957c51c8c27",
-      "date": "Thu, 05 Nov 2026",
-      "ts": "2026-11-05T04:11:00+00:00",
-      "date_display": "Nov 05, 2026",
-      "source": "CoinDesk",
-      "type": "news",
-      "quote": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 4.49,
-      "change": -24.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2JhaWVYSkpWdGxJcWdZS2U2UnJuOXNRNGFQa0M2ZGV1c0E1RmtUaktXZHg4R28xVGNobkV1YkZMLUVuXzk3QTd0LWxHaE1ZeFpmVUx2dmtIUlRDUDN4cl95V2RlOWgxX0p2WUE1d2NkQjZ0WWZlcFQ1M1pvQnBtMVZoMklQWFdXemtYaDNReG5KWERPM1ZobFJ3YzZqQTZqOEtPd1dnRkNJM1VmSlFHcHFUNkZ5emctS29CekU0RQ?oc=5",
-      "image": null,
-      "headline": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show - CoinDesk",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        }
-      ]
-    },
-    {
-      "id": "19b70413700535d0",
-      "date": "Thu, 05 Nov 2026",
-      "ts": "2026-11-05T02:40:10+00:00",
-      "date_display": "Nov 05, 2026",
-      "source": "Facebook",
-      "type": "news",
-      "quote": "scored staggering victories in the midterm elections. - Facebook President Trump\u2019s social media company recorded one of its",
-      "company": "Facebook",
-      "ticker": "META",
-      "price": 630.0,
-      "change": 1.44,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHVhWHgxdldnQTZnc0tkdEVGbjZ3Q3Vaalp4UUgzZ3lwQS1VNGRXaGgxYUVidjhPUDd4S05vclItZDJ2NjJRcUV2cW9xMHYyTnFseVZwWjhILXpXY1djTVlJYXh1NEMwY3V4QU5oT0dfejA1d0dIZDlmOFZSM3JUcTFjeFNOZklhNTlqRzhFNEE0ZHd0VHBxNXVVZDlETUFnN1N6UVBuRkRGbG03akNwRXlsd0RERGhyRHRDd1lMYUZOUFJiYzFUTEJBNlVIQmdWQTZ3?oc=5",
-      "image": null,
-      "headline": "President Trump\u2019s social media company recorded one of its biggest daily market losses on Wednesday, a day after Democrats scored staggering victories in the midterm elections. - Facebook",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 738.88
-        },
-        {
-          "d": "10-07",
-          "c": 721.31
-        },
-        {
-          "d": "10-08",
-          "c": 720.89
-        },
-        {
-          "d": "10-09",
-          "c": 718.67
-        },
-        {
-          "d": "10-12",
-          "c": 742.96
-        },
-        {
-          "d": "10-13",
-          "c": 762.5
-        },
-        {
-          "d": "10-14",
-          "c": 737.54
-        },
-        {
-          "d": "10-15",
-          "c": 736.72
-        },
-        {
-          "d": "10-16",
-          "c": 709.33
-        },
-        {
-          "d": "10-19",
-          "c": 705.44
-        },
-        {
-          "d": "10-20",
-          "c": 694.25
-        },
-        {
-          "d": "10-21",
-          "c": 697.52
-        },
-        {
-          "d": "10-22",
-          "c": 648.85
-        },
-        {
-          "d": "10-23",
-          "c": 642.62
-        },
-        {
-          "d": "10-26",
-          "c": 630.56
-        },
-        {
-          "d": "10-27",
-          "c": 620.19
-        },
-        {
-          "d": "10-28",
-          "c": 612.49
-        },
-        {
-          "d": "10-29",
-          "c": 624.52
-        },
-        {
-          "d": "10-30",
-          "c": 614.99
-        },
-        {
-          "d": "11-02",
-          "c": 606.73
-        },
-        {
-          "d": "11-03",
-          "c": 621.03
-        },
-        {
-          "d": "11-04",
-          "c": 630.0
-        }
-      ]
-    },
-    {
-      "id": "09cc63758c0d428d",
-      "date": "Thu, 05 Nov 2026",
-      "ts": "2026-11-05T01:58:06+00:00",
-      "date_display": "Nov 05, 2026",
-      "source": "TradingView",
-      "type": "news",
-      "quote": "DJT Stock Crashes 25% To Record Low After Democratic Midterm",
-      "company": "Djt",
-      "ticker": "DJT",
-      "price": 4.49,
-      "change": -24.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQejlnYnRxU09MeVR5Wl9Dc2tDbF9TMTNfSXRBTU5xM1U1bWpwQ29Tb2tEQU9ScDdJUlFuaHFTTE5BaWNwZWRXaDF0SnBUVnVib3d4M0RuR2dGVmwtTVBTblZTTlduVFV4VHdjYVgzZTd6enN5UkFOaTFzRG11RTVMMmxWeGZnVUtMYWNfVWhmaHVKaEowbFhmNVFmTEhIVy1EdTBVSVJXcEp0eXQ4ektVNjMycUlGWkFNYVVNY2xNbmsyZ3lFWkVPUXFUZ3hIa1ZSQlVqRU1Yb05TR0JiVnJ2NDF1emw0MDAxVWx5R1FVdXZwQy1MeHJjOEpjSGw?oc=5",
-      "image": null,
-      "headline": "DJT Stock Crashes 25% To Record Low After Democratic Midterm Rout: Trump\u2019s Fortune Reportedly Shrinks By $168M - TradingView",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        }
-      ]
-    },
-    {
-      "id": "29b72b447aa4c90f",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T22:37:45+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Media\u2019s Shares Fall to Record Low After Midterms - The New York Times Trump Media\u2019s Shares Fall to Record Low After",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 66.5,
-      "change": -0.92,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s Shares Fall to Record Low After Midterms - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 63.84
-        },
-        {
-          "d": "10-07",
-          "c": 64.9
-        },
-        {
-          "d": "10-08",
-          "c": 66.6
-        },
-        {
-          "d": "10-09",
-          "c": 66.32
-        },
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        },
-        {
-          "d": "11-03",
-          "c": 67.12
-        },
-        {
-          "d": "11-04",
-          "c": 66.5
-        }
-      ]
-    },
-    {
-      "id": "b7d14ad36823b560",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T22:37:45+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Trump Media\u2019s Shares Fall to Record Low After Midterms - The New York",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 4.49,
-      "change": -24.54,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
-      "image": null,
-      "headline": "Trump Media\u2019s Shares Fall to Record Low After Midterms - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        }
-      ]
-    },
-    {
-      "id": "d3bdbd134b589369",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T22:19:51+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times Shares of Truth Social\u2019s Parent Company Hit New",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 65.57,
-      "change": -1.4,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
-      "image": null,
-      "headline": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-07",
-          "c": 64.9
-        },
-        {
-          "d": "10-08",
-          "c": 66.6
-        },
-        {
-          "d": "10-09",
-          "c": 66.32
-        },
-        {
-          "d": "10-12",
-          "c": 66.08
-        },
-        {
-          "d": "10-13",
-          "c": 66.88
-        },
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        },
-        {
-          "d": "11-03",
-          "c": 67.12
-        },
-        {
-          "d": "11-04",
-          "c": 66.5
-        },
-        {
-          "d": "11-05",
-          "c": 65.57
-        }
-      ]
-    },
-    {
-      "id": "503d3f9d7994e154",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T22:19:51+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times Shares",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 4.02,
-      "change": -10.47,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0N1RWN4Q3ZnQ2VsQ3VmcmlLOUFGY2tXSlZjNE4xT3BBUkRBWWgwRzZnM2RCaWs5NXJmRTVENDNySnU5UXdlRDZvRlFodkh5dDlYS1IwTnVsQXc5cVlhZTlCSWZoZUxlSnNBYmJhQnd5R0RjNDVHZllYeGZ3QjkzQ01ZV3hlaGFtanhRMkpuVERBX09VaFE?oc=5",
-      "image": null,
-      "headline": "Shares of Truth Social\u2019s Parent Company Hit New Low - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        },
-        {
-          "d": "11-05",
-          "c": 4.02
-        }
-      ]
-    },
-    {
-      "id": "8d16e449bc197cc5",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T21:44:45+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "NPR Politics",
-      "type": "news",
-      "quote": "and Obama advisor Rahm Emanuel about what Democrats' strategy should be, now that they'll soon control both houses of",
-      "company": "Strategy",
-      "ticker": "MSTR",
-      "price": 142.54,
-      "change": 5.09,
-      "direction": "up",
-      "article_link": "https://www.npr.org/2026/11/04/nx-s1-6029387/rahm-emanuel-maps-out-a-vision-for-what-democrats-can-achieve-after-taking-congress",
-      "image": null,
-      "headline": "Rahm Emanuel maps out a vision for what Democrats can achieve after taking Congress",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 164.55
-        },
-        {
-          "d": "10-07",
-          "c": 153.37
-        },
-        {
-          "d": "10-08",
-          "c": 151.47
-        },
-        {
-          "d": "10-09",
-          "c": 154.34
-        },
-        {
-          "d": "10-12",
-          "c": 152.68
-        },
-        {
-          "d": "10-13",
-          "c": 152.18
-        },
-        {
-          "d": "10-14",
-          "c": 143.24
-        },
-        {
-          "d": "10-15",
-          "c": 151.29
-        },
-        {
-          "d": "10-16",
-          "c": 136.83
-        },
-        {
-          "d": "10-19",
-          "c": 136.02
-        },
-        {
-          "d": "10-20",
-          "c": 142.72
-        },
-        {
-          "d": "10-21",
-          "c": 153.48
-        },
-        {
-          "d": "10-22",
-          "c": 145.8
-        },
-        {
-          "d": "10-23",
-          "c": 146.01
-        },
-        {
-          "d": "10-26",
-          "c": 139.82
-        },
-        {
-          "d": "10-27",
-          "c": 141.4
-        },
-        {
-          "d": "10-28",
-          "c": 145.16
-        },
-        {
-          "d": "10-29",
-          "c": 141.62
-        },
-        {
-          "d": "10-30",
-          "c": 130.51
-        },
-        {
-          "d": "11-02",
-          "c": 130.76
-        },
-        {
-          "d": "11-03",
-          "c": 135.63
-        },
-        {
-          "d": "11-04",
-          "c": 142.54
-        }
-      ]
-    },
-    {
-      "id": "93292219a2c998ac",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T18:15:06+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "The Washington Post",
-      "type": "news",
-      "quote": "Trump Media stock plunges after midterms - The Washington Post Trump",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 4.97,
-      "change": -16.47,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHVKT2EwcEZ3WVNnWGs3THVfSWJ6ZHJnZG1PTnBsSGhxbl9hbHNKSm9obVZKZDI0NUVUZ1ZXUW5WSTF1MmFEZUNLazZaUHhvdV9LaW5RLXBuTzVOTjdvZlhWX2h4SDhGUU5iWnhlcl8zWWdMWmk1U1JacmZJNmhrcnpuUHhHS0M1OTdaZVNIWTRWN09TNGNCVw?oc=5",
-      "image": null,
-      "headline": "Trump Media stock plunges after midterms - The Washington Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.97
-        }
-      ]
-    },
-    {
-      "id": "9e5a7e078679e205",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T17:27:00+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "Alternet",
-      "type": "news",
-      "quote": "Jokes fly as Trump\u2019s DJT stock plummets to Happy Meal prices - Alternet Jokes fly",
-      "company": "Djt",
-      "ticker": "DJT",
-      "price": 4.97,
-      "change": -16.47,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpX1JrLU9zT3FuSU54NkJCYWN2ZS12MzdlaElsUXkwS3dzN0ZacE5WN254SVp1SGJuLTVjWEVJYkk5bXh3Q1F5VUF1VXNVNjBGV29jOVduX0FWVjA?oc=5",
-      "image": null,
-      "headline": "Jokes fly as Trump\u2019s DJT stock plummets to Happy Meal prices - Alternet",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.97
-        }
-      ]
-    },
-    {
-      "id": "bd97a4637258b37e",
-      "date": "Wed, 04 Nov 2026",
-      "ts": "2026-11-04T17:26:31+00:00",
-      "date_display": "Nov 04, 2026",
-      "source": "Bloomberg.com",
-      "type": "news",
-      "quote": "Trump Media Falls to All-Time Low As Republicans Lose Congress -",
-      "company": "Trump Media",
-      "ticker": "DJT",
-      "price": 4.97,
-      "change": -16.47,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlRKRndOMFRidVVCbkxxWXVJc3JfV24tYVVUMU9sZmNHZHAtbEVydTcwdDVKM2ZqcjBIdUROMG5ZYVI4RXZiTDFJNmNnanE1Qi1td1RYdnVYZnp5aW84TWNyRVlLcnJxWDl2WHV4WTdtZU9DU1M3Q1ZheUExRkppRmFITmt0QnFMTncwWEN3Ymh5THN5T1hCalNvTUJSLU83TXM4WkdEaWZSWDVxbkR3QmpOQQ?oc=5",
-      "image": null,
-      "headline": "Trump Media Falls to All-Time Low As Republicans Lose Congress - Bloomberg.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-06",
-          "c": 8.65
-        },
-        {
-          "d": "10-07",
-          "c": 8.22
-        },
-        {
-          "d": "10-08",
-          "c": 8.2
-        },
-        {
-          "d": "10-09",
-          "c": 8.11
-        },
-        {
-          "d": "10-12",
-          "c": 7.97
-        },
-        {
-          "d": "10-13",
-          "c": 7.75
-        },
-        {
-          "d": "10-14",
-          "c": 7.22
-        },
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.97
-        }
-      ]
     }
   ]
 }
