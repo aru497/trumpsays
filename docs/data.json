@@ -1,7 +1,871 @@
 {
-  "updated_at": "2026-11-25T14:42:37.770504+00:00",
+  "updated_at": "2026-11-25T23:24:09.299171+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "f24b86819eba0ce6",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T22:24:00+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "Demokratis.co.id",
+      "type": "news",
+      "quote": "Trump Portfolios Trade Nvidia Shares 44 Times in 2026 - Demokratis.co.id Trump",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTVZjUWVORC1fcElibERpeGk5QV85VEVaeXY5bDk0Y3FtNFpTMVhKeFRPY0paU01qcTVzNk5SNGVTMG1odTRpUDZ2V0I0a0c0bkZfWXZlM3pqTE5saHRJSExid3lzc20wX0E?oc=5",
+      "image": null,
+      "headline": "Trump Portfolios Trade Nvidia Shares 44 Times in 2026 - Demokratis.co.id",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "e82b1775fec14b52",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T21:00:00+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "Yahoo Lifestyle Canada",
+      "type": "news",
+      "quote": "Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada Trump Aide",
+      "company": "Truth Social",
+      "ticker": "DJT",
+      "price": 3.65,
+      "change": -0.27,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YR190eTdrNk45RVpOaGMxOUF4OG9zcVZydVRWaTBDNzJGazc5RHlmajQ5QkoyM3FZYnVEQlh6QW9CVlRKZG9wMktrZmliRlVIa291bzBpVmM5RW5XWWlCb01sUS1NY05HZ3E2SGR5MmVSSDNRTnYtWkRESQ?oc=5",
+      "image": null,
+      "headline": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.09
+        },
+        {
+          "d": "11-20",
+          "c": 3.73
+        },
+        {
+          "d": "11-23",
+          "c": 3.88
+        },
+        {
+          "d": "11-24",
+          "c": 3.66
+        },
+        {
+          "d": "11-25",
+          "c": 3.65
+        }
+      ]
+    },
+    {
+      "id": "339707c26521ea5a",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T20:16:44+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "Fox News",
+      "type": "news",
+      "quote": "promise to Trump as US tech giant faces $688M in fines - Fox News EXCLUSIVE: White House accuses South Korea of",
+      "company": "Fox",
+      "ticker": "FOX",
+      "price": 57.99,
+      "change": -0.84,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOExidVdWMDhrVFZrSHliVDYyTWVoX3RKWTNRSkxtSW5qQnl6aFlMZWR2TUFjaTJwNlZZNm9VVmVQUXlCQnZQX0U0S3otbFM0M1RIX2l3cFVMSWR5RVpfTVdWUUUzVlFNQXV0a09FSkcycDkxRG5LOFVBZmlseVBlajFGaGJ4aE9TNzdTVm93Uk5jcFdwbWpna0RoVlg0OFlwY1VRcVV4U2xkb0xzY2dxQ1pkVGRaSGpxU3kwSlBuOGlyUmRJWFVZ0gHMAUFVX3lxTFA1bDhEUW90XzVfUnp3NV9YdjhHYUhrMW9iMmhJdWhFX2VEVHhqSEJUbXNINWZ5SzdKZDhISzUzaGNtSXY4U3IzdWZhQ0RvT3BXWVJMRXJFNURacDFLeE5sOEF0VmRhWEJINzVtZW9FMGMwb3h2TTljalJLcGRoZFdPMUlIMnRRcDhvbzBUZDZOYW42bmxKVldyRXZZeHk3M204dWZWbDdZbWUtQU91OUgya3hwd0ptZWF4MGh5MUJMTHZxVFZFSi1RWm95bA?oc=5",
+      "image": null,
+      "headline": "EXCLUSIVE: White House accuses South Korea of breaking promise to Trump as US tech giant faces $688M in fines - Fox News",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 57.43
+        },
+        {
+          "d": "10-28",
+          "c": 56.35
+        },
+        {
+          "d": "10-29",
+          "c": 57.25
+        },
+        {
+          "d": "10-30",
+          "c": 56.2
+        },
+        {
+          "d": "11-02",
+          "c": 55.96
+        },
+        {
+          "d": "11-03",
+          "c": 59.63
+        },
+        {
+          "d": "11-04",
+          "c": 61.62
+        },
+        {
+          "d": "11-05",
+          "c": 59.99
+        },
+        {
+          "d": "11-06",
+          "c": 59.5
+        },
+        {
+          "d": "11-09",
+          "c": 60.51
+        },
+        {
+          "d": "11-10",
+          "c": 60.25
+        },
+        {
+          "d": "11-11",
+          "c": 60.63
+        },
+        {
+          "d": "11-12",
+          "c": 58.71
+        },
+        {
+          "d": "11-13",
+          "c": 61.11
+        },
+        {
+          "d": "11-16",
+          "c": 60.75
+        },
+        {
+          "d": "11-17",
+          "c": 59.71
+        },
+        {
+          "d": "11-18",
+          "c": 58.68
+        },
+        {
+          "d": "11-19",
+          "c": 56.98
+        },
+        {
+          "d": "11-20",
+          "c": 56.14
+        },
+        {
+          "d": "11-23",
+          "c": 57.33
+        },
+        {
+          "d": "11-24",
+          "c": 58.48
+        },
+        {
+          "d": "11-25",
+          "c": 57.99
+        }
+      ]
+    },
+    {
+      "id": "d0284e119731d7b8",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T17:06:31+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "TechRadar",
+      "type": "news",
+      "quote": "most apolitical company,\u2019 Jensen Huang reportedly tells Nvidia staff \u2014 as Trump says pardoning the CEO is \u2018always an",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTzZMX1I5OTYtRTlpRGpQclY2MUFQSDVBRUs5TDlEVFpFT1hLa1UwTTJmNFplMnV4bEhOdnc1LUlsS2o1eUp5anNERi1tS1RZTnFlUFd2RXNMcFdvWDExTzRDQ05sWXNBMzgyZTUwZHkxTEotV0E1WWU0cUk4anZhMFVJS1I1eU1GOGpiRm1HZ3dWZ0trd3JkX2xtVEE3bTUxbDRmalE5dmxpdHlIZEtEODJqOTBTV2lpVHQ2M2FHYXBJS0Z2NEJMNVlfemV2d25oZmlSMkJpdmhMQk5OaUpXSWo0S1RrLWdtVkx4d1lhak41Wnd6WjdSRks4Y0NTQQ?oc=5",
+      "image": null,
+      "headline": "\u2018We are the most apolitical company,\u2019 Jensen Huang reportedly tells Nvidia staff \u2014 as Trump says pardoning the CEO is \u2018always an option\u2019 - TechRadar",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "3d69fcd0ede06ff1",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T16:42:11+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "Trump\u2019s accounts traded Nvidia shares 44 times this year, records show - BBC Trump\u2019s",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFM1ptb0EwX3g0b25wU2RRNng4UVc3M0dqa3B1LThEdWNGSFZkTmNtVmNvT05EeHBTb2ItQ214NDJyMkk5UWpFTzZBdFNxbnlxd3B2cDBfc0h0aGhvWFE?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s accounts traded Nvidia shares 44 times this year, records show - BBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "d2636cc1d6b587bd",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T15:30:27+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "Democracy Now!",
+      "type": "news",
+      "quote": "He Might Pardon Jensen Huang as Attorney General Calls Nvidia a \u201cGood Corporate Citizen\u201d - Democracy Now! Trump Says He",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0c0aW9zVmRGQUt1VGJwbGFrdWJHaGpUZmN4dTl1UUdwQ1JZazE0VThmU1ZKRFRIQnhSWDJuN193QXVuVkF4dmkxOTRnUXd6RzVDVmlvVVNNR1VLdHpXdzNWNmpVX0xUZ1pheFhXbHZ5d2NxSlB1LUpkNFdXYjlvTEp3cnFZd0pPNXJhWTgzQzFkejN6ckJwQUVzcVk4ZkpXZUZhNWpZRWFta1d2OGdQYlgxU3Jia09rWjUxWXYxUng4M3E0UmJqZXM0VG9MUHZjZTQ5ZDM2RVFSLUNiMXdSSQ?oc=5",
+      "image": null,
+      "headline": "Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a \u201cGood Corporate Citizen\u201d - Democracy Now!",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "740c7c6cf18e6b3b",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T13:07:07+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "The Japan Times",
+      "type": "news",
+      "quote": "Huang apologizes to Nvidia staff and says he\u2019s in daily therapy - The Japan Times",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXVlTVFON012VkdpelVzQnhEdENFNWtZNnRoMEI1WnlNY00zZTVrQTFNWUhXb2hfVm9YQ1BiYkpSZ0R4N2dKTGVuTWUxS3ROd2NUMzUwcF9kTHdVbW92UWEzbzhPOGZSR3hEa0tzdGJGTE1qWUFiRVdrQXN3NVhlaHFtRUk3RVZH?oc=5",
+      "image": null,
+      "headline": "Huang apologizes to Nvidia staff and says he\u2019s in daily therapy - The Japan Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "fbfee9b42eb584fa",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T11:50:05+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "NPR Politics",
+      "type": "news",
+      "quote": "Republican wants FBI and CIA answers before questioning Nvidia chief \"The public is rightly concerned,\" says the",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "image": null,
+      "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
     {
       "id": "142d085c9bd40084",
       "date": "Wed, 25 Nov 2026",
@@ -215,6 +1079,222 @@
         {
           "d": "11-25",
           "c": 141.72
+        }
+      ]
+    },
+    {
+      "id": "4002e8d8f7cd43ea",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T10:30:12+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "MoneyWise.com",
+      "type": "news",
+      "quote": "Trump says US won't take a stake in Nvidia because of him - MoneyWise.com Trump says US won't take a",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmJYSklrSHRqU0xNczFBbmtfN19XUmk5RExPeWZ6NDR0dGYwZmtDai1uaTRxd1h5OUM3U18tZUx5WVB4YXkyRXJDYUZ6ZkI2TkxKY2VLLWVBTWpQMEkwWHJtNVVjUmJNeFJ4Y3IteXZteWRIWXRVRDU2bk4tdDZ0dFdDb2hKU2t2X2xGclRLc1YxNXE2Tm5v?oc=5",
+      "image": null,
+      "headline": "Trump says US won't take a stake in Nvidia because of him - MoneyWise.com",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "ea9738312c59f050",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T09:33:37+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "Fashion Times UK",
+      "type": "news",
+      "quote": "NVIDIA CEO's Wife Lori Huang Breaks Silence? Trump Praises Her",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRnVlc3QmlYRXIxX3B0Y2wxWXRsVV9uLU1jMzBRTmFUMjU1X1U0cTRzYW9IMzVtM0JHNXJZalNTTnluQU1xUWlBMkoyc25naDRmN3lRNWl3aWgzUmlvZ28xdTBld25Lcng5TkQzeVZLbUNkVUVOWGlISmp6MlZTRUJNNzc4Z3Ffb3VMaVlfUzdfdGF1c3o4OTNUaUtZTzJxSGd1MHhhcTZHZw?oc=5",
+      "image": null,
+      "headline": "NVIDIA CEO's Wife Lori Huang Breaks Silence? Trump Praises Her After Husband's Admitted Affairs - Fashion Times UK",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
         }
       ]
     },
@@ -4558,6 +5638,222 @@
       ]
     },
     {
+      "id": "fe7288523fa8d7d5",
+      "date": "Tue, 24 Nov 2026",
+      "ts": "2026-11-24T10:53:37+00:00",
+      "date_display": "Nov 24, 2026",
+      "source": "BBC",
+      "type": "news",
+      "quote": "Trump faces backlash after he 'convinced' Nvidia to reinstate Jensen Huang - BBC Trump faces backlash after",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLU9yX2djdGRQV01hM0llUENSZ0U3a1YzQU1WdWx5Z0dMMVJGUFduWkhJTjBxOHVVeE9SN1lyaE1sNjdJYWVENzhrRUJ2cXNUZEZHaUpRUHE0UXM?oc=5",
+      "image": null,
+      "headline": "Trump faces backlash after he 'convinced' Nvidia to reinstate Jensen Huang - BBC",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "269b71f811ec6571",
+      "date": "Tue, 24 Nov 2026",
+      "ts": "2026-11-24T10:51:23+00:00",
+      "date_display": "Nov 24, 2026",
+      "source": "Common Dreams",
+      "type": "news",
+      "quote": "'Psychotically Crooked': Trump Made Up to $15 Million on Nvidia Shares in a Single Day - Common Dreams 'Psychotically",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sMnZlVGROVTJxbHIzcm9UZ1hkcWdVTElpMTVsam13cmhraTQzOS04Y1FqZWhkUVlra2VyeUlsNWVjZmhfOEVrZDZhS256VHpKMzNFWkJuSC1pUDlNc193SEdfT2J0TkJ1eVhWWQ?oc=5",
+      "image": null,
+      "headline": "'Psychotically Crooked': Trump Made Up to $15 Million on Nvidia Shares in a Single Day - Common Dreams",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
       "id": "658ece887c39590f",
       "date": "Tue, 24 Nov 2026",
       "ts": "2026-11-24T10:49:39+00:00",
@@ -8618,6 +9914,114 @@
         {
           "d": "11-20",
           "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "6d4fc7f24f64a2df",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T22:26:39+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "KQED",
+      "type": "news",
+      "quote": "Trump Claims Credit as Jensen Huang Returns to Nvidia - KQED Trump Claims Credit as Jensen Huang Returns to",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmpQUVZrYndod0swaVp4TnV3cFFBTWEtSWpxNXA0Njk2TXBqazU0Y2ktenhOVS1wSEo3RWZWTDZtRFR2YXUzblhCZTY5WGdHdEhTQWp4N3VudEhJSDBUT0VYeDFoV25MTHRJWGhURE5mREpxbURtMlUwLUdaWEdnR0E1dHhjZDlQNU1ZdnJPZmJSZw?oc=5",
+      "image": null,
+      "headline": "Trump Claims Credit as Jensen Huang Returns to Nvidia - KQED",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
         }
       ]
     },
@@ -17302,6 +18706,222 @@
         {
           "d": "11-20",
           "c": 125.53
+        }
+      ]
+    },
+    {
+      "id": "9159dceeab4c5f1b",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T14:12:33+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Jensen Huang Returns to Nvidia After President Trump Intervenes - The New York Times",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMy1QeUVJdWdBWXRRWldaQ1JKUGlhYzd6NlctSjVqb2xPeTZsVmxTdDJOS3k1NmZWbzQydTdFdzZBRFh2VWpYOHpPcFhWcFRERDZiVHl1U29KSFhiZnhWcW1JMzduQks4RkNMaEdCT0F2a3ZLSE9B?oc=5",
+      "image": null,
+      "headline": "Jensen Huang Returns to Nvidia After President Trump Intervenes - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "ee2d2038834cefe2",
+      "date": "Mon, 23 Nov 2026",
+      "ts": "2026-11-23T14:12:33+00:00",
+      "date_display": "Nov 23, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Returns to Nvidia After President Trump Intervenes - The New York Times Jensen Huang Returns to Nvidia After President Trump",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 71.7,
+      "change": 1.79,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMy1QeUVJdWdBWXRRWldaQ1JKUGlhYzd6NlctSjVqb2xPeTZsVmxTdDJOS3k1NmZWbzQydTdFdzZBRFh2VWpYOHpPcFhWcFRERDZiVHl1U29KSFhiZnhWcW1JMzduQks4RkNMaEdCT0F2a3ZLSE9B?oc=5",
+      "image": null,
+      "headline": "Jensen Huang Returns to Nvidia After President Trump Intervenes - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 69.04
+        },
+        {
+          "d": "11-20",
+          "c": 68.62
+        },
+        {
+          "d": "11-23",
+          "c": 68.32
+        },
+        {
+          "d": "11-24",
+          "c": 70.44
+        },
+        {
+          "d": "11-25",
+          "c": 71.7
         }
       ]
     },
@@ -39559,1626 +41179,6 @@
         {
           "d": "11-13",
           "c": 161.92
-        }
-      ]
-    },
-    {
-      "id": "e5f37ea354c2a20e",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T22:14:06+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "WATCH: 'More questions than answers' about Nvidia's Huang, Jeffries says in news conference House Democratic",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/watch-more-questions-than-answers-about-nvidias-huang-jeffries-says-in-news-conference",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-09T214419Z_1110236042_RC2KKOAV5XIC_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
-      "headline": "WATCH: 'More questions than answers' about Nvidia's Huang, Jeffries says in news conference",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "debb815d561d7277",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T21:00:17+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "Inc.com",
-      "type": "news",
-      "quote": "Trump Wants Tim Cook to Replace Jensen Huang at Nvidia. Industry Insiders Call Him the 'Wrong Fit' - Inc.com",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGpkX2Y2anNYOWctRnBydE5qRmZMVzFhRW9KaGdiX1FUNVViaVcydUdaUGNzNTFOaURmdHVNcjhnU3Y4TEs1c3ZqRjB6ZURQYzNqM05pY2xCRUlRbzQ2b2ljem44clB3aFhDM1dHRUxKcEtpNXJGNlowTnVIZFJFa0VLVEk4RjVnS1U0UnVoMU0zcldodFE?oc=5",
-      "image": null,
-      "headline": "Trump Wants Tim Cook to Replace Jensen Huang at Nvidia. Industry Insiders Call Him the 'Wrong Fit' - Inc.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "f6c81fce7bbe25d4",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T20:04:00+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "USA Today",
-      "type": "news",
-      "quote": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 354.88,
-      "change": -0.21,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
-      "image": null,
-      "headline": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 342.96
-        },
-        {
-          "d": "10-15",
-          "c": 342.0
-        },
-        {
-          "d": "10-16",
-          "c": 343.46
-        },
-        {
-          "d": "10-19",
-          "c": 342.94
-        },
-        {
-          "d": "10-20",
-          "c": 339.5
-        },
-        {
-          "d": "10-21",
-          "c": 343.99
-        },
-        {
-          "d": "10-22",
-          "c": 348.22
-        },
-        {
-          "d": "10-23",
-          "c": 347.73
-        },
-        {
-          "d": "10-26",
-          "c": 343.91
-        },
-        {
-          "d": "10-27",
-          "c": 347.1
-        },
-        {
-          "d": "10-28",
-          "c": 343.83
-        },
-        {
-          "d": "10-29",
-          "c": 348.91
-        },
-        {
-          "d": "10-30",
-          "c": 344.63
-        },
-        {
-          "d": "11-02",
-          "c": 338.32
-        },
-        {
-          "d": "11-03",
-          "c": 331.9
-        },
-        {
-          "d": "11-04",
-          "c": 349.51
-        },
-        {
-          "d": "11-05",
-          "c": 344.17
-        },
-        {
-          "d": "11-06",
-          "c": 342.37
-        },
-        {
-          "d": "11-09",
-          "c": 350.69
-        },
-        {
-          "d": "11-10",
-          "c": 348.51
-        },
-        {
-          "d": "11-11",
-          "c": 355.63
-        },
-        {
-          "d": "11-12",
-          "c": 354.88
-        }
-      ]
-    },
-    {
-      "id": "26f652941181f582",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T20:04:00+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "USA Today",
-      "type": "news",
-      "quote": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today Trump says Apple's Tim Cook should replace",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
-      "image": null,
-      "headline": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "4e9458028cc0a68a",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:59:49+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "NVIDIA Newsroom",
-      "type": "news",
-      "quote": "A Message to Our Company - NVIDIA Newsroom A Message to Our Company&nbsp;&nbsp;NVIDIA",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQ0N5UXF4YktmNkhwcXFNMldwM2dYWkRVRXNHcFBvN3FqMkpSZTZvYV9OeEZnOXh0cVMwekUtcVo3UXdEZXVqbDlLQTQzUHVLQUdtcHAzTk1sLTNSM1JLVGFhS0Z5YVEySzNV?oc=5",
-      "image": null,
-      "headline": "A Message to Our Company - NVIDIA Newsroom",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "aaf01f28e1aa2ccb",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:59:37+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "Al Jazeera",
-      "type": "news",
-      "quote": "Nvidia CEO Jensen Huang resigns amid spy scandal and market loss",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFg4VHBscm9wN2FBNG84c1VCMGRRMnFMUUtNVWsxMEQ2TXRTLWpNaGRMcjh2ZER4a01SLXplYVdGUy1PWEtkOUxVNjFxdWhLNXJWM0xKUURCaHZEcXRMV1ZvaW0ybmh6WnpGSHRlaDFmLTNmUXVYM0FQSnRJOWRGTm9oellzRkps0gGOAUFVX3lxTE5pQ2ZVTUdTdVhRcjVldUJINE8xN0pVR0t5d3NBLTktUk1CaTlyNUR6WUhVTjRsQzBIVDBVcHY1SFhzS09na3lETXdudzY1cnZ3Z21UMjFCRUd0U2l3WXJSc1ZTeFZGci14M09hMUoyWUFxbUJqUkZyVG1xX1ExQXpsaTk4RjlieGc1a2JiOXc?oc=5",
-      "image": null,
-      "headline": "Nvidia CEO Jensen Huang resigns amid spy scandal and market loss - Al Jazeera",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "d7a35789b1020098",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:57:00+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "The Telegraph",
-      "type": "news",
-      "quote": "Hire Tim Cook to lead Nvidia, Trump says - The Telegraph Hire Tim Cook to lead Nvidia,",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZno1dGFHdDJXQWFtclhMZFpqcUpibk5VQXNFb2NqWEoyamNQU0ZfSlhpYWpQSGNicENuN2dhTG9FbGVWbDZ6Z2pkSEYwRDRiWG9BSW0wY2ZiYUJSeW9qNUlJeF82ck82ZXljbjFIcU40U2dMUWZ5aU9EXzFSU0F3anJ3Z1RTdkJWWkNKaGFqRTdOVlhrNHJnUFhRWktNZw?oc=5",
-      "image": null,
-      "headline": "Hire Tim Cook to lead Nvidia, Trump says - The Telegraph",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "247dc2c4dca02309",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:26:00+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "Trump says Apple\u2019s ex-CEO Tim Cook is \u2018only man\u2019 who can replace Nvidia",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 354.88,
-      "change": -0.14,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM043VnJ5eXd2VFdQUXI4SzVBdDRSeEJUcnNfVVF3ZkQ4T1Jad0JzVVBDTXRkS3k4aXowczd5MUVqNnFGemlURFFkaV9pMWMtZF9FemoyQjc1bWhIRnVmX3VWODBuUW40Y2hjOWdlYnI2amFpYkxIZUp4dE4zMnA5OG1IT2NzdnZwcmdCSklHMWNKV2RtRkFmakZNeVd2T0VUWjJqSnl5V19FWTZjVW4zTjF3ampVZw?oc=5",
-      "image": null,
-      "headline": "Trump says Apple\u2019s ex-CEO Tim Cook is \u2018only man\u2019 who can replace Nvidia boss Jensen Huang - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 342.7
-        },
-        {
-          "d": "10-15",
-          "c": 341.74
-        },
-        {
-          "d": "10-16",
-          "c": 343.2
-        },
-        {
-          "d": "10-19",
-          "c": 342.68
-        },
-        {
-          "d": "10-20",
-          "c": 339.24
-        },
-        {
-          "d": "10-21",
-          "c": 343.73
-        },
-        {
-          "d": "10-22",
-          "c": 347.96
-        },
-        {
-          "d": "10-23",
-          "c": 347.47
-        },
-        {
-          "d": "10-26",
-          "c": 343.65
-        },
-        {
-          "d": "10-27",
-          "c": 346.84
-        },
-        {
-          "d": "10-28",
-          "c": 343.57
-        },
-        {
-          "d": "10-29",
-          "c": 348.65
-        },
-        {
-          "d": "10-30",
-          "c": 344.37
-        },
-        {
-          "d": "11-02",
-          "c": 338.06
-        },
-        {
-          "d": "11-03",
-          "c": 331.65
-        },
-        {
-          "d": "11-04",
-          "c": 349.24
-        },
-        {
-          "d": "11-05",
-          "c": 343.91
-        },
-        {
-          "d": "11-06",
-          "c": 342.11
-        },
-        {
-          "d": "11-09",
-          "c": 350.42
-        },
-        {
-          "d": "11-10",
-          "c": 348.25
-        },
-        {
-          "d": "11-11",
-          "c": 355.36
-        },
-        {
-          "d": "11-12",
-          "c": 354.88
-        }
-      ]
-    },
-    {
-      "id": "62163dde4c1adfb8",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:26:00+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "The Independent",
-      "type": "news",
-      "quote": "says Apple\u2019s ex-CEO Tim Cook is \u2018only man\u2019 who can replace Nvidia boss Jensen Huang - The Independent Trump says Apple\u2019s",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM043VnJ5eXd2VFdQUXI4SzVBdDRSeEJUcnNfVVF3ZkQ4T1Jad0JzVVBDTXRkS3k4aXowczd5MUVqNnFGemlURFFkaV9pMWMtZF9FemoyQjc1bWhIRnVmX3VWODBuUW40Y2hjOWdlYnI2amFpYkxIZUp4dE4zMnA5OG1IT2NzdnZwcmdCSklHMWNKV2RtRkFmakZNeVd2T0VUWjJqSnl5V19FWTZjVW4zTjF3ampVZw?oc=5",
-      "image": null,
-      "headline": "Trump says Apple\u2019s ex-CEO Tim Cook is \u2018only man\u2019 who can replace Nvidia boss Jensen Huang - The Independent",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "b53782f315827036",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:22:49+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "Mashable",
-      "type": "news",
-      "quote": "Everything Trump has said about Jensen Huang's Nvidia saga - Mashable Everything Trump has said about Jensen",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaZXlqQ2xneDIwSzlCLVlfck9CcTJqdkVjaURwb3ktcUVBZVFPYXNpRE4yaG91MVFkVjc5NEFKQ0RNd1RTSV9iaHJiZ0hBMTBZUks4NXYtTHFJWndHMlFqYVVGZnhlaWpPcnN1TWFTbHQ?oc=5",
-      "image": null,
-      "headline": "Everything Trump has said about Jensen Huang's Nvidia saga - Mashable",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "b0d77d208aa44acb",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:19:40+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "on Investigation Into Alice Huang and Megaspeed - The New York Times Singapore Says US Not Helpful on Investigation Into Alice",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 71.46,
-      "change": -1.71,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTRJWXhhTHpRdUxubFltV1ViQVRNNWtpalVERjJVY0ZhQkJjTHIyMFdsYS1YdlFISXpOVW1IWldzaV9rUnpydmZqeFc2bndvcWIwZ2VTRlU2Zy1ZRE9hVDhzbmJDUnNWOVJUYk5oRWxyVUJMeTBzTHI0dWVIM1JpbVZOOA?oc=5",
-      "image": null,
-      "headline": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed - The New York Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 67.15
-        },
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        },
-        {
-          "d": "11-03",
-          "c": 67.12
-        },
-        {
-          "d": "11-04",
-          "c": 66.5
-        },
-        {
-          "d": "11-05",
-          "c": 65.57
-        },
-        {
-          "d": "11-06",
-          "c": 68.36
-        },
-        {
-          "d": "11-09",
-          "c": 72.17
-        },
-        {
-          "d": "11-10",
-          "c": 72.58
-        },
-        {
-          "d": "11-11",
-          "c": 72.7
-        },
-        {
-          "d": "11-12",
-          "c": 71.46
-        }
-      ]
-    },
-    {
-      "id": "23f2a3d776a0ded9",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T19:02:18+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "About 6.3 million people could lose eligibility for SNAP by the 2029 fiscal year if the proposed change takes",
-      "company": "Snap",
-      "ticker": "SNAP",
-      "price": 5.22,
-      "change": -2.25,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2025-11-03T174730Z_1540296790_RC22PHATPV9Z_RTRMADP_3_USA-TRUMP-SNAP-LAWSUIT-1024x768.jpg",
-      "headline": "Trump administration plans to make it harder to get grocery assistance",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 6.1
-        },
-        {
-          "d": "10-15",
-          "c": 6.44
-        },
-        {
-          "d": "10-16",
-          "c": 6.13
-        },
-        {
-          "d": "10-19",
-          "c": 6.27
-        },
-        {
-          "d": "10-20",
-          "c": 6.38
-        },
-        {
-          "d": "10-21",
-          "c": 6.35
-        },
-        {
-          "d": "10-22",
-          "c": 6.35
-        },
-        {
-          "d": "10-23",
-          "c": 6.34
-        },
-        {
-          "d": "10-26",
-          "c": 6.34
-        },
-        {
-          "d": "10-27",
-          "c": 6.08
-        },
-        {
-          "d": "10-28",
-          "c": 5.96
-        },
-        {
-          "d": "10-29",
-          "c": 5.68
-        },
-        {
-          "d": "10-30",
-          "c": 5.34
-        },
-        {
-          "d": "11-02",
-          "c": 5.45
-        },
-        {
-          "d": "11-03",
-          "c": 5.59
-        },
-        {
-          "d": "11-04",
-          "c": 5.92
-        },
-        {
-          "d": "11-05",
-          "c": 5.09
-        },
-        {
-          "d": "11-06",
-          "c": 4.96
-        },
-        {
-          "d": "11-09",
-          "c": 5.05
-        },
-        {
-          "d": "11-10",
-          "c": 5.0
-        },
-        {
-          "d": "11-11",
-          "c": 5.34
-        },
-        {
-          "d": "11-12",
-          "c": 5.22
-        }
-      ]
-    },
-    {
-      "id": "cd46029e372a5fd9",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T18:53:27+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "The Register",
-      "type": "news",
-      "quote": "Palantir\u2019s Karp takes a sharp left turn, says he and the company\u2019s",
-      "company": "Palantir",
-      "ticker": "PLTR",
-      "price": 171.58,
-      "change": -0.48,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYkFPc3lFQ0U4dWRMV3dqb0ppWV9ob25oS0xKTURmOVVJZ0lIMUFrTnAwM1hEc2I3aDFDZzc4bWswSk5YWVFZMkd4WHl4UWtEMGZudmxaOU9KUWIxOTlVcXZlSjdXY3o3Q1lFVkExRjc4bUZwZzRSNVpoQmJFSTBrUVdoTE1QTDdOdHprMnloaUFEX0Y2dzJWQTVVd2NObF9uUnlDNlA0dVpLVWpLRVZlOEJ2cWhVSXJ5b0gzVEJlVThsX09JOWFmbk9MUy1iSHoyTktwV19pVmFNUjlFd3FwTUZpbXV3cjRy?oc=5",
-      "image": null,
-      "headline": "Palantir\u2019s Karp takes a sharp left turn, says he and the company\u2019s products are actually \u2018progressive\u2019 - The Register",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 200.97
-        },
-        {
-          "d": "10-15",
-          "c": 200.5
-        },
-        {
-          "d": "10-16",
-          "c": 186.03
-        },
-        {
-          "d": "10-19",
-          "c": 194.15
-        },
-        {
-          "d": "10-20",
-          "c": 192.6
-        },
-        {
-          "d": "10-21",
-          "c": 201.72
-        },
-        {
-          "d": "10-22",
-          "c": 196.19
-        },
-        {
-          "d": "10-23",
-          "c": 196.75
-        },
-        {
-          "d": "10-26",
-          "c": 198.84
-        },
-        {
-          "d": "10-27",
-          "c": 198.73
-        },
-        {
-          "d": "10-28",
-          "c": 196.81
-        },
-        {
-          "d": "10-29",
-          "c": 196.42
-        },
-        {
-          "d": "10-30",
-          "c": 184.11
-        },
-        {
-          "d": "11-02",
-          "c": 178.34
-        },
-        {
-          "d": "11-03",
-          "c": 175.4
-        },
-        {
-          "d": "11-04",
-          "c": 171.7
-        },
-        {
-          "d": "11-05",
-          "c": 154.99
-        },
-        {
-          "d": "11-06",
-          "c": 160.38
-        },
-        {
-          "d": "11-09",
-          "c": 169.2
-        },
-        {
-          "d": "11-10",
-          "c": 168.82
-        },
-        {
-          "d": "11-11",
-          "c": 172.4
-        },
-        {
-          "d": "11-12",
-          "c": 171.58
-        }
-      ]
-    },
-    {
-      "id": "2b5dbd42fa9de80c",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T18:50:00+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "Bergen Record",
-      "type": "news",
-      "quote": "Why did Huang resign? Trump says Cook should lead Nvidia - Bergen Record Why did Huang resign? Trump says Cook",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 166.19,
-      "change": -4.34,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNanRZT09PVE9SeVd1X3U0Q3BNSFFWMlpvUTQ2TXpMbm90aVpMZDVIV2k3QmtPQy0tdkpneDNoVEgzLXZma3otQUNKcUJpRXhJOXZ4bTR2RUhBd0M3UkNSTjRudEg4OHBnWWJCZldWejJ0OEhDVnhLanI3Y0hFZWNhUEtSc0k1UGwzRExNTm9SWDJ0NENmMVRJVjhtamdaNXhybDlJRW9STXFFQUloLVBjTmpkOERVRXRjRnpSaUpDZkdnNUo0elNsQmpObUhFTUVFR3VyZlRZRW0?oc=5",
-      "image": null,
-      "headline": "Why did Huang resign? Trump says Cook should lead Nvidia - Bergen Record",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 221.3
-        },
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        }
-      ]
-    },
-    {
-      "id": "45ea665ab24382a2",
-      "date": "Thu, 12 Nov 2026",
-      "ts": "2026-11-12T16:57:06+00:00",
-      "date_display": "Nov 12, 2026",
-      "source": "New York Post",
-      "type": "news",
-      "quote": "Trump floats ex-Apple CEO Tim Cook to succeed Jensen Huang at Nvidia: \u2018Legend",
-      "company": "Apple",
-      "ticker": "AAPL",
-      "price": 354.88,
-      "change": -0.21,
-      "direction": "flat",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjh3MHNaaC1NcTdyZl9NWlphZ3BEc19RMWluOE1KVVp5OHFmeWFKNTZUZ2NLcnh6Q2N2M1RJQWQ4Q2hCdGlsQnlKSTVPZk1keFlZbUJhdjJmM3dEMGdrLVBqT19wdGNhTXFWT01sdkswWW9mNHpfdUVUOVJ1QmJQclRGRlN6eXNaRTE2ZzdZNnlpMzg5RnhDWl9B?oc=5",
-      "image": null,
-      "headline": "Trump floats ex-Apple CEO Tim Cook to succeed Jensen Huang at Nvidia: \u2018Legend replaces a legend!\u2019 - New York Post",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-14",
-          "c": 342.96
-        },
-        {
-          "d": "10-15",
-          "c": 342.0
-        },
-        {
-          "d": "10-16",
-          "c": 343.46
-        },
-        {
-          "d": "10-19",
-          "c": 342.94
-        },
-        {
-          "d": "10-20",
-          "c": 339.5
-        },
-        {
-          "d": "10-21",
-          "c": 343.99
-        },
-        {
-          "d": "10-22",
-          "c": 348.22
-        },
-        {
-          "d": "10-23",
-          "c": 347.73
-        },
-        {
-          "d": "10-26",
-          "c": 343.91
-        },
-        {
-          "d": "10-27",
-          "c": 347.1
-        },
-        {
-          "d": "10-28",
-          "c": 343.83
-        },
-        {
-          "d": "10-29",
-          "c": 348.91
-        },
-        {
-          "d": "10-30",
-          "c": 344.63
-        },
-        {
-          "d": "11-02",
-          "c": 338.32
-        },
-        {
-          "d": "11-03",
-          "c": 331.9
-        },
-        {
-          "d": "11-04",
-          "c": 349.51
-        },
-        {
-          "d": "11-05",
-          "c": 344.17
-        },
-        {
-          "d": "11-06",
-          "c": 342.37
-        },
-        {
-          "d": "11-09",
-          "c": 350.69
-        },
-        {
-          "d": "11-10",
-          "c": 348.51
-        },
-        {
-          "d": "11-11",
-          "c": 355.63
-        },
-        {
-          "d": "11-12",
-          "c": 354.88
         }
       ]
     }
