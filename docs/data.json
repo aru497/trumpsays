@@ -1,7 +1,439 @@
 {
-  "updated_at": "2026-11-26T15:30:21.938544+00:00",
+  "updated_at": "2026-11-26T23:57:29.187952+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "9926aecd12337768",
+      "date": "Thu, 26 Nov 2026",
+      "ts": "2026-11-26T23:40:45+00:00",
+      "date_display": "Nov 26, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "director of the advocacy group the Climate Cabinet, joins Williams Brangham to discuss.",
+      "company": "Williams",
+      "ticker": "WMB",
+      "price": 66.45,
+      "change": 0.68,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/climate-1024x683.jpg",
+      "headline": "How Democrats' election successes could lead to new climate change policies",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 74.09
+        },
+        {
+          "d": "10-28",
+          "c": 74.27
+        },
+        {
+          "d": "10-29",
+          "c": 74.88
+        },
+        {
+          "d": "10-30",
+          "c": 74.35
+        },
+        {
+          "d": "11-02",
+          "c": 71.19
+        },
+        {
+          "d": "11-03",
+          "c": 72.47
+        },
+        {
+          "d": "11-04",
+          "c": 67.86
+        },
+        {
+          "d": "11-05",
+          "c": 64.25
+        },
+        {
+          "d": "11-06",
+          "c": 64.08
+        },
+        {
+          "d": "11-09",
+          "c": 66.45
+        },
+        {
+          "d": "11-10",
+          "c": 67.46
+        },
+        {
+          "d": "11-11",
+          "c": 68.92
+        },
+        {
+          "d": "11-12",
+          "c": 69.44
+        },
+        {
+          "d": "11-13",
+          "c": 69.09
+        },
+        {
+          "d": "11-16",
+          "c": 67.61
+        },
+        {
+          "d": "11-17",
+          "c": 67.46
+        },
+        {
+          "d": "11-18",
+          "c": 67.23
+        },
+        {
+          "d": "11-19",
+          "c": 66.13
+        },
+        {
+          "d": "11-20",
+          "c": 64.31
+        },
+        {
+          "d": "11-23",
+          "c": 65.43
+        },
+        {
+          "d": "11-24",
+          "c": 66.0
+        },
+        {
+          "d": "11-25",
+          "c": 66.45
+        }
+      ]
+    },
+    {
+      "id": "6f924fa40de595b3",
+      "date": "Thu, 26 Nov 2026",
+      "ts": "2026-11-26T20:44:00+00:00",
+      "date_display": "Nov 26, 2026",
+      "source": "Deadline",
+      "type": "news",
+      "quote": "Trump Attacks New York Times Over Nvidia Reporting - Deadline Trump Attacks New York Times Over",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV29VOVB0dGFvRllxU2pUYzd1MldrWHlJdmxueDVKblQ3SWhfQ1dxbTdqNjNxbVNMaXJLak83bEdFVEk5emdBS1ZTTHRDb3BRdjVJMDg1Y05hdWZuQTBUQjZnSUdLYWx1MVMzTXAxTUdBWkJIR1RVTXh2Y3E3VDQwazBON1JnV1pYVkE?oc=5",
+      "image": null,
+      "headline": "Trump Attacks New York Times Over Nvidia Reporting - Deadline",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "4020815e67abc14d",
+      "date": "Thu, 26 Nov 2026",
+      "ts": "2026-11-26T20:44:00+00:00",
+      "date_display": "Nov 26, 2026",
+      "source": "Deadline",
+      "type": "news",
+      "quote": "Trump Attacks New York Times Over Nvidia Reporting - Deadline Trump Attacks New York",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 71.7,
+      "change": 1.79,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV29VOVB0dGFvRllxU2pUYzd1MldrWHlJdmxueDVKblQ3SWhfQ1dxbTdqNjNxbVNMaXJLak83bEdFVEk5emdBS1ZTTHRDb3BRdjVJMDg1Y05hdWZuQTBUQjZnSUdLYWx1MVMzTXAxTUdBWkJIR1RVTXh2Y3E3VDQwazBON1JnV1pYVkE?oc=5",
+      "image": null,
+      "headline": "Trump Attacks New York Times Over Nvidia Reporting - Deadline",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 69.04
+        },
+        {
+          "d": "11-20",
+          "c": 68.62
+        },
+        {
+          "d": "11-23",
+          "c": 68.32
+        },
+        {
+          "d": "11-24",
+          "c": 70.44
+        },
+        {
+          "d": "11-25",
+          "c": 71.7
+        }
+      ]
+    },
+    {
+      "id": "ddc9ce9840ce68bf",
+      "date": "Thu, 26 Nov 2026",
+      "ts": "2026-11-26T19:18:21+00:00",
+      "date_display": "Nov 26, 2026",
+      "source": "Dealroom",
+      "type": "news",
+      "quote": "per child in Trump Accounts, an ~$18bn gift that triples Dell's record - Dealroom SpaceX and Musk pledge two SpaceX",
+      "company": "Dell",
+      "ticker": "DELL",
+      "price": 297.06,
+      "change": 0.6,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQi1fYVdrQ2tFTlgxSHd0RE1pTnlDTDhEWk5kc0E4TGlCLThlVEhqNmhBbktyRXd0R1A1c2t3NVFMQjl2Ri02Y1Ytd1o3NS1jU1kycmtCT0dZdEZyNUlLTUd0dEtFdmdHRXhGS1ZMdW1BcFN1QUdLbU1NQXBQUnJ0X0lyT0xSZHNRZ04wb1BWRzdqSjBGazhkN1BSZFNRaVkxXzRuR3ZjMDVBUjVsRGFpTllYTjBIb295RXR0LW01OTRLcUp1MVRrcUlDZHJqVTB0YzgzWkhpMHZNZw?oc=5",
+      "image": null,
+      "headline": "SpaceX and Musk pledge two SpaceX shares per child in Trump Accounts, an ~$18bn gift that triples Dell's record - Dealroom",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 501.96
+        },
+        {
+          "d": "10-28",
+          "c": 493.79
+        },
+        {
+          "d": "10-29",
+          "c": 475.51
+        },
+        {
+          "d": "10-30",
+          "c": 424.3
+        },
+        {
+          "d": "11-02",
+          "c": 392.78
+        },
+        {
+          "d": "11-03",
+          "c": 408.4
+        },
+        {
+          "d": "11-04",
+          "c": 372.36
+        },
+        {
+          "d": "11-05",
+          "c": 316.91
+        },
+        {
+          "d": "11-06",
+          "c": 328.53
+        },
+        {
+          "d": "11-09",
+          "c": 346.31
+        },
+        {
+          "d": "11-10",
+          "c": 334.38
+        },
+        {
+          "d": "11-11",
+          "c": 373.68
+        },
+        {
+          "d": "11-12",
+          "c": 371.17
+        },
+        {
+          "d": "11-13",
+          "c": 344.53
+        },
+        {
+          "d": "11-16",
+          "c": 320.55
+        },
+        {
+          "d": "11-17",
+          "c": 322.79
+        },
+        {
+          "d": "11-18",
+          "c": 313.11
+        },
+        {
+          "d": "11-19",
+          "c": 312.54
+        },
+        {
+          "d": "11-20",
+          "c": 278.02
+        },
+        {
+          "d": "11-23",
+          "c": 334.91
+        },
+        {
+          "d": "11-24",
+          "c": 295.28
+        },
+        {
+          "d": "11-25",
+          "c": 297.06
+        }
+      ]
+    },
     {
       "id": "0aac294cfad25e65",
       "date": "Thu, 26 Nov 2026",
@@ -2718,6 +3150,114 @@
       "article_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRnVlc3QmlYRXIxX3B0Y2wxWXRsVV9uLU1jMzBRTmFUMjU1X1U0cTRzYW9IMzVtM0JHNXJZalNTTnluQU1xUWlBMkoyc25naDRmN3lRNWl3aWgzUmlvZ28xdTBld25Lcng5TkQzeVZLbUNkVUVOWGlISmp6MlZTRUJNNzc4Z3Ffb3VMaVlfUzdfdGF1c3o4OTNUaUtZTzJxSGd1MHhhcTZHZw?oc=5",
       "image": null,
       "headline": "NVIDIA CEO's Wife Lori Huang Breaks Silence? Trump Praises Her After Husband's Admitted Affairs - Fashion Times UK",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "d227aa1d65f5db03",
+      "date": "Wed, 25 Nov 2026",
+      "ts": "2026-11-25T08:48:34+00:00",
+      "date_display": "Nov 25, 2026",
+      "source": "Yahoo",
+      "type": "news",
+      "quote": "Donald Trump Has Nvidia CEO Jensen Huang Holding a Red Bra in Bizarre New Post -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2tmTzJJcWptdW1wNU1sbXQ2V0k3M1F1UHhnaDJ0UUVILUJIVUFKQVBfODFQQnpGUnNzRmRHY1hBRURSZlludThUYnZYODQtRl90SW9pbWJjUEZYT3RnQlUweXhSY2I0TUR5bGlwU3RjakduazNyaklxanZrMzRHRnBKaVJSdEpXb1dEd19Ga0F4OGJ3?oc=5",
+      "image": null,
+      "headline": "Donald Trump Has Nvidia CEO Jensen Huang Holding a Red Bra in Bizarre New Post - Yahoo",
       "channel": "News",
       "series": [
         {
@@ -40641,546 +41181,6 @@
       "headline": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
       "channel": "News",
       "series": null
-    },
-    {
-      "id": "877fd67ee43e8c7d",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T18:32:47+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
-      "image": null,
-      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "3e42be4c16b89a08",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T18:32:47+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
-      "image": null,
-      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "7580c0c0e008fc59",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T18:32:47+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker -",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
-      "image": null,
-      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "99b49ace32d6e8ca",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T18:29:18+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "Reuters",
-      "type": "news",
-      "quote": "blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed - Reuters Bessent blames Commerce Dept",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5",
-      "image": null,
-      "headline": "Bessent blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed - Reuters",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "46bb2969f308f5b3",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T17:09:45+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "blames Lutnick's Commerce Department for not restricting Nvidia chips to China Commerce Secretary Howard Lutnick has come",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 161.92,
-      "change": -2.57,
-      "direction": "down",
-      "article_link": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T014218Z_1139623673_RC2DLOAHZWQ0_RTRMADP_3_USA-CHINA-BESSENT-1-1024x683.jpg",
-      "headline": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 161.92
-        }
-      ]
     }
   ]
 }
