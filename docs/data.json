@@ -1,7 +1,547 @@
 {
-  "updated_at": "2026-11-26T23:57:29.187952+00:00",
+  "updated_at": "2026-11-27T06:14:02.489535+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "c37552fb2485d95d",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T05:03:45+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "Financial Times",
+      "type": "news",
+      "quote": "Trump media group splashes out to woo shareholders before merger vote",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 3.65,
+      "change": -0.27,
+      "direction": "flat",
+      "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenJJcng0eV9TeVd3Y1NlOC1BaHFvN0VKTnE3cDc4S1lXOTJhYlZsMW9tTDhpR01SZlhieVp4QXVsSGl1ZmR5QWdyZXEyNGFHdXNINXU4cXdTeEljc3RtTFdzYkpxWUdLSGotZjNCd2hVOUxiTndySFJoUmlvR0I0OHppN3I?oc=5",
+      "image": null,
+      "headline": "Trump media group splashes out to woo shareholders before merger vote - Financial Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 6.36
+        },
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.09
+        },
+        {
+          "d": "11-20",
+          "c": 3.73
+        },
+        {
+          "d": "11-23",
+          "c": 3.88
+        },
+        {
+          "d": "11-24",
+          "c": 3.66
+        },
+        {
+          "d": "11-25",
+          "c": 3.65
+        }
+      ]
+    },
+    {
+      "id": "0e55bd5a96b42865",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T03:14:59+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "The Sun Malaysia",
+      "type": "news",
+      "quote": "Trump says Nvidia chief Huang poses no national security threat - The Sun",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEJsRkc1V2dKaEFiSjVRYlJVTXpkb3hQaDFYNDZ1NGhVdDNwQ0c4cW16dXZBNU9VcFdUbDA4WjFScG5KNkh4dlEzbkpRMXlRNkJJSG5nczFsOWVOU24wTVp2TUZQZTF0aEdkVEs3VE96ZGY5djBJb2RxTHRpbHBWLWN6MHoyYlNxYlZVZ0x3VUg?oc=5",
+      "image": null,
+      "headline": "Trump says Nvidia chief Huang poses no national security threat - The Sun Malaysia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "ee9e830779d5f02c",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T02:05:26+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "BusinessToday Malaysia",
+      "type": "news",
+      "quote": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat - BusinessToday Malaysia",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDIwNG16N3BRMUN3cEppc2dqUTJ1c2lUbk45Y3VZaG9TOXRZUFpNUUdtaUxLaklacVFpb3htblVZdzU1S0NTRlpKS0dpd1pOam9JZEcxM3NjRDVhRklVRUJGcEhHV1lLYWNlU0dZVDRhbnFWRHN3V05KX1hkSURQZG1fVjF5QUEzdlZySWg3eGhsajlhNDNRdGxpSHJOQS1Ba3RXWE5RcnRidlRmdUZmTVRR?oc=5",
+      "image": null,
+      "headline": "Trump Defends Jensen Huang, Says Nvidia CEO Is Not A Security Threat - BusinessToday Malaysia",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "86e3d054c79c4689",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T01:51:00+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "The Business Times",
+      "type": "news",
+      "quote": "Trump says Huang excited about his \u2018second term\u2019 at Nvidia - The Business Times Trump says Huang excited about his",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHZXU29zUVc0N0Y2T1FSazBKbVFLbVJoR3REVFFJejhUbHZRbTM3MF9RZVRTaUFuNUpydHZPVXBDVHhpbURKYjVvc1Z6NG9LUW8zSEU5azh2RExCOWxtSDFEbDA1Q3loVzZHSFlHWWJRRU1BUk4zT3VieUh2RGdRWWxIei1iWElSdU9yNlJHbU1aVXFtUUhwMDBhaTh5b3ItbGc?oc=5",
+      "image": null,
+      "headline": "Trump says Huang excited about his \u2018second term\u2019 at Nvidia - The Business Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "ec846ef372262535",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T01:28:41+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "NDTV",
+      "type": "news",
+      "quote": "'Nvidia Needs Jensen': Trump Praises Huang's Return, Backs Future",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0NaZDhOTnpFOWpSR2Jud0hmR3A5OTZmOThyMFNoTS1VdTZPVXI3UDNIcFc2TEwteVN3STRLWVkyeVJ6OGQtdG5RT05oMlZGUWRPV0oxRUJwZzJTbWZLQmJVZU01OHFoX09Db3hRQktCQTVYd0VRRHd6TWRoSWFGSHphelRyT0NVTkdKOHJLU2FSZW5Ea0dsWHBuaWNzQWlCNzJtbWJ5dFQtbExMemc?oc=5",
+      "image": null,
+      "headline": "'Nvidia Needs Jensen': Trump Praises Huang's Return, Backs Future Chip Roadmap - NDTV",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
     {
       "id": "9926aecd12337768",
       "date": "Thu, 26 Nov 2026",
@@ -6606,6 +7146,222 @@
         {
           "d": "11-24",
           "c": 155.38
+        }
+      ]
+    },
+    {
+      "id": "e799ad81a9395862",
+      "date": "Tue, 24 Nov 2026",
+      "ts": "2026-11-24T15:59:07+00:00",
+      "date_display": "Nov 24, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Trump\u2019s Nvidia Move Heralds a New Front in Economic Intervention - The",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 149.3,
+      "change": -3.91,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Nvidia Move Heralds a New Front in Economic Intervention - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 217.94
+        },
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        }
+      ]
+    },
+    {
+      "id": "7e6b85f850d1c16b",
+      "date": "Tue, 24 Nov 2026",
+      "ts": "2026-11-24T15:59:07+00:00",
+      "date_display": "Nov 24, 2026",
+      "source": "The New York Times",
+      "type": "news",
+      "quote": "Move Heralds a New Front in Economic Intervention - The New York Times Trump\u2019s Nvidia Move Heralds a New Front in Economic",
+      "company": "New York Times",
+      "ticker": "NYT",
+      "price": 71.7,
+      "change": 1.79,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
+      "image": null,
+      "headline": "Trump\u2019s Nvidia Move Heralds a New Front in Economic Intervention - The New York Times",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-27",
+          "c": 69.81
+        },
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 69.04
+        },
+        {
+          "d": "11-20",
+          "c": 68.62
+        },
+        {
+          "d": "11-23",
+          "c": 68.32
+        },
+        {
+          "d": "11-24",
+          "c": 70.44
+        },
+        {
+          "d": "11-25",
+          "c": 71.7
         }
       ]
     },
@@ -40518,669 +41274,6 @@
           "c": 4.64
         }
       ]
-    },
-    {
-      "id": "6882abb22dc89337",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T21:41:04+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "Bloomberg",
-      "type": "news",
-      "quote": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
-      "image": null,
-      "headline": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits - Bloomberg",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "9f53387728e8789f",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T21:41:04+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "Bloomberg.com",
-      "type": "news",
-      "quote": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits -",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
-      "image": null,
-      "headline": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits - Bloomberg.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "8d4c6fdb19b88b5d",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T21:41:04+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "Bloomberg.com",
-      "type": "news",
-      "quote": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
-      "image": null,
-      "headline": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits - Bloomberg.com",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "0ab192fe01fed08f",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T21:04:43+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "CNBC",
-      "type": "news",
-      "quote": "Nvidia is done with Jensen Huang. The fallout in Washington is",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2U3Yy1DMTN6MDFSWHFMcDRNYXR6Yzc1OTJsV2RqXzMtUHU2UlJHdnhDV1J4X2oyWGxIb2NWYzlzQ2JJMXZxTm90OVZfVURkbV8zdnp3MmFKT1N5aF9sazU4RVIyZU1mYTh2MkpUSDNxTDVrLV9DWG1xOFQ3ZGRDZjl30gGHAUFVX3lxTE1pdngxMkNyUXg0WklPNmttdFR2NzhCc0pNMTVRbm5zOW5sMmFkZGhoYUVJRHJVZ25nLUhWaElJTW5XMEFmcFN1MXFWXzJ6NnFIX3lwc0JpdGlWNWlkWkhYQ2ZBaHdYRnc2UlM2VTJTcTI4UVMtenVSTnVEd0hyeWZsV2pFTVV5dw?oc=5",
-      "image": null,
-      "headline": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning - CNBC",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "2ae0511d866c236f",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T19:52:00+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "The Guardian",
-      "type": "news",
-      "quote": "Trump bought Nvidia stock as he helped chipmaker with change to export rule -",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjdQaTlJR1k0ZFc4N1pIVG5LRUJmZkFIemZ3U3g3ZWJXTk1ybnNIYjFacm5zUXhLaXpHMGxxOE40TU1BdDkxb09RZnNIV3ZNeU94bUlYakVEc1ItTHZaSWpkbHpBN1hHTkl0bEhwX1d3ckZQN190ZGZIZlJaV2g5U1VzQWlnNEZpWHctQnlvVThmUQ?oc=5",
-      "image": null,
-      "headline": "Trump bought Nvidia stock as he helped chipmaker with change to export rule - The Guardian",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "d3fb12ba0968d9a3",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T19:45:20+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "Yahoo",
-      "type": "news",
-      "quote": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social\u2019s new $100,000 service, calls request for records a waste",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 4.08,
-      "change": -12.07,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU56VHpLcUMwZ25JVWJMS3hkeGhuS0NYNWw2cjNKZmVrdWJ2SkluWWRxaDVQT2xPUXlIWHFheDN3YVJUNklELWNwNHB2dGpET0ktUU8wU0hnMmcxYkVEOGUzN1I2QnZDN1FHUTdRU01TNEJJRlQzdlVTeVN3YmJocjduVjhITUxkSHlVTzFIX0h2SEx2?oc=5",
-      "image": null,
-      "headline": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social\u2019s new $100,000 service, calls request for records a waste of time - Yahoo",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        },
-        {
-          "d": "11-05",
-          "c": 4.02
-        },
-        {
-          "d": "11-06",
-          "c": 3.99
-        },
-        {
-          "d": "11-09",
-          "c": 4.06
-        },
-        {
-          "d": "11-10",
-          "c": 4.28
-        },
-        {
-          "d": "11-11",
-          "c": 5.19
-        },
-        {
-          "d": "11-12",
-          "c": 4.97
-        },
-        {
-          "d": "11-13",
-          "c": 4.64
-        },
-        {
-          "d": "11-16",
-          "c": 4.08
-        }
-      ]
-    },
-    {
-      "id": "686cdd28bfc95447",
-      "date": "Fri, 13 Nov 2026",
-      "ts": "2026-11-13T19:16:41+00:00",
-      "date_display": "Nov 13, 2026",
-      "source": "PBS NewsHour",
-      "type": "news",
-      "quote": "lower court decisions that found it was illegal to block asylum applications following an executive order that",
-      "company": "Block",
-      "ticker": "SQ",
-      "price": null,
-      "change": null,
-      "direction": "flat",
-      "article_link": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T152931Z_132207333_RC22HOAGNLS8_RTRMADP_3_USA-COURT-1024x683.jpg",
-      "headline": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
-      "channel": "News",
-      "series": null
     }
   ]
 }
