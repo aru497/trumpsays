@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-11-27T16:51:41.916098+00:00",
+  "updated_at": "2026-11-28T00:16:38.455783+00:00",
   "count": 400,
   "mentions": [
+    {
+      "id": "0740a486baf14a8e",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T23:40:22+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "PBS NewsHour",
+      "type": "news",
+      "quote": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership David Brooks of The",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 150.49,
+      "change": 0.8,
+      "direction": "up",
+      "article_link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/brooksandcapehartnologo-1024x576.jpg",
+      "headline": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        },
+        {
+          "d": "11-27",
+          "c": 150.49
+        }
+      ]
+    },
+    {
+      "id": "f67f31f16c40b92c",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T18:07:00+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "24/7 Wall St.",
+      "type": "news",
+      "quote": "Trump Media Is Still Down 35% in a Month. Is $4 the Permanent Floor or",
+      "company": "Trump Media",
+      "ticker": "DJT",
+      "price": 3.96,
+      "change": 8.49,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0ptTWd5WFhBOEVpSHF0SkM0M0FqYlhPYzc4dDFUaTJBalMtWlgyZk9wWWJmUjNpQ2Q1TUhoclJ4cDA5WGRLQVJtNll2RU4wSlhjNkRoaXFCSW44QlBWYnRINTktbVJvbUZEaTYzN0F2TGtuMzJrM0VLYlRFVWJfeEh1cVRwb0VfMUx5OWkxbTh6RFNlQ005TFE3cWc1NTh1U3VNV0lFR3FHRWY4VWxPVDctZ1NQM0xEQXNBa05iNVJmMUM1c1c0TTFCODk4RExMV2tmS0lpNA?oc=5",
+      "image": null,
+      "headline": "Trump Media Is Still Down 35% in a Month. Is $4 the Permanent Floor or a Hard Ceiling for DJT Stock? - 24/7 Wall St.",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-28",
+          "c": 5.97
+        },
+        {
+          "d": "10-29",
+          "c": 5.78
+        },
+        {
+          "d": "10-30",
+          "c": 5.59
+        },
+        {
+          "d": "11-02",
+          "c": 5.66
+        },
+        {
+          "d": "11-03",
+          "c": 5.95
+        },
+        {
+          "d": "11-04",
+          "c": 4.49
+        },
+        {
+          "d": "11-05",
+          "c": 4.02
+        },
+        {
+          "d": "11-06",
+          "c": 3.99
+        },
+        {
+          "d": "11-09",
+          "c": 4.06
+        },
+        {
+          "d": "11-10",
+          "c": 4.28
+        },
+        {
+          "d": "11-11",
+          "c": 5.19
+        },
+        {
+          "d": "11-12",
+          "c": 4.97
+        },
+        {
+          "d": "11-13",
+          "c": 4.64
+        },
+        {
+          "d": "11-16",
+          "c": 4.08
+        },
+        {
+          "d": "11-17",
+          "c": 4.05
+        },
+        {
+          "d": "11-18",
+          "c": 4.05
+        },
+        {
+          "d": "11-19",
+          "c": 4.09
+        },
+        {
+          "d": "11-20",
+          "c": 3.73
+        },
+        {
+          "d": "11-23",
+          "c": 3.88
+        },
+        {
+          "d": "11-24",
+          "c": 3.66
+        },
+        {
+          "d": "11-25",
+          "c": 3.65
+        },
+        {
+          "d": "11-27",
+          "c": 3.96
+        }
+      ]
+    },
     {
       "id": "1ee3d6d04b6b1c76",
       "date": "Fri, 27 Nov 2026",
@@ -755,6 +971,114 @@
         {
           "d": "11-27",
           "c": 149.23
+        }
+      ]
+    },
+    {
+      "id": "9b44316d019bb8fe",
+      "date": "Fri, 27 Nov 2026",
+      "ts": "2026-11-27T05:28:30+00:00",
+      "date_display": "Nov 27, 2026",
+      "source": "Bhaskar English",
+      "type": "news",
+      "quote": "Trump again praises Huang: Nvidia CEO's 2nd innings will be better than 1st, says US prez -",
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "price": 150.49,
+      "change": 0.8,
+      "direction": "up",
+      "article_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVcxOXBJdXA1elp1U3RrSlA5NnhPeVo3LTNIUF9wdTJpOE9KVjhpTmxxbExuMGRGVHVkUHhaa3RLNHpMQnhYN012RHhacU5Ma25xbFZockpuVDFVTlpnSk9maFpxSlF0SzBqdGtmWDk0OWdUd25ySXZ5dU9oamI0S0RHVURwVlNSVDBoRy03cGZBN1lOVVdiZXNNNUZVRGw2SHlXZlBYazJxYjdQdVRWUC1OMk5GRUdXeGlCRjJ2bldBd9IBxwFBVV95cUxNRk1YTXZrTUoybGZVQ2lzNEk2dlk4cXF5b0E3ZkZBQ0l5TDZBYlhOSU85U0cxME5xQjlpVDROeFdDVXYzZlpjX3hNM1Q2cTN5blU0Xy0wbHFnNFpaOXVVcGktbVFocHZKWGt1dm1oWkJiSlQyd2g4bzVrN0xXYVpheUJmdU5BVENWbkkyRHhwOGNDMkVpcS1nUGNWX2ZXYzVLaVkxbE9fdjZHSzRzUTQ4QmI0ZWF0WXdvMHBoZTFrbHZzQWRNcjNN?oc=5",
+      "image": null,
+      "headline": "Trump again praises Huang: Nvidia CEO's 2nd innings will be better than 1st, says US prez - Bhaskar English",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-28",
+          "c": 215.38
+        },
+        {
+          "d": "10-29",
+          "c": 213.66
+        },
+        {
+          "d": "10-30",
+          "c": 204.64
+        },
+        {
+          "d": "11-02",
+          "c": 202.06
+        },
+        {
+          "d": "11-03",
+          "c": 206.69
+        },
+        {
+          "d": "11-04",
+          "c": 200.13
+        },
+        {
+          "d": "11-05",
+          "c": 181.6
+        },
+        {
+          "d": "11-06",
+          "c": 186.64
+        },
+        {
+          "d": "11-09",
+          "c": 178.67
+        },
+        {
+          "d": "11-10",
+          "c": 168.89
+        },
+        {
+          "d": "11-11",
+          "c": 173.73
+        },
+        {
+          "d": "11-12",
+          "c": 166.19
+        },
+        {
+          "d": "11-13",
+          "c": 162.85
+        },
+        {
+          "d": "11-16",
+          "c": 156.14
+        },
+        {
+          "d": "11-17",
+          "c": 155.46
+        },
+        {
+          "d": "11-18",
+          "c": 150.96
+        },
+        {
+          "d": "11-19",
+          "c": 145.98
+        },
+        {
+          "d": "11-20",
+          "c": 125.53
+        },
+        {
+          "d": "11-23",
+          "c": 165.05
+        },
+        {
+          "d": "11-24",
+          "c": 155.38
+        },
+        {
+          "d": "11-25",
+          "c": 149.3
+        },
+        {
+          "d": "11-27",
+          "c": 150.49
         }
       ]
     },
@@ -1835,6 +2159,114 @@
         {
           "d": "11-27",
           "c": 149.23
+        }
+      ]
+    },
+    {
+      "id": "93a02528639b5139",
+      "date": "Thu, 26 Nov 2026",
+      "ts": "2026-11-26T12:03:03+00:00",
+      "date_display": "Nov 26, 2026",
+      "source": "Soap Central",
+      "type": "news",
+      "quote": "E. Sanger and what did he say? Trump attacks \u201cmediocre\u201d NYT reporter on Thanksgiving morning - Soap Central Who is",
+      "company": "Nyt",
+      "ticker": "NYT",
+      "price": 71.47,
+      "change": -0.32,
+      "direction": "down",
+      "article_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVRaUm1qcDJpR2cyckY4NC00OU9zM1JQUUlUOXJxZWs3bkRIU04xcVpsLXVuZlJ0MUd6U2lYZ3pHN0xfZjdUd3NGX1BoRmQxdVgyR0x0cm1wcjM0RVd5bEhOZmlEVlRNN0tHaTRaN2FrYzd0RVYycE5fWmxraVA2Y2pCS3NtcUdZR0JfRXFPcUFwRjdkaWFRNGUtSWJ3czZFNVVfb1dsVnFRc2RLeWRVMVhBY2t1YUlIdzY0?oc=5",
+      "image": null,
+      "headline": "Who is David E. Sanger and what did he say? Trump attacks \u201cmediocre\u201d NYT reporter on Thanksgiving morning - Soap Central",
+      "channel": "News",
+      "series": [
+        {
+          "d": "10-28",
+          "c": 69.18
+        },
+        {
+          "d": "10-29",
+          "c": 69.42
+        },
+        {
+          "d": "10-30",
+          "c": 70.17
+        },
+        {
+          "d": "11-02",
+          "c": 69.96
+        },
+        {
+          "d": "11-03",
+          "c": 67.12
+        },
+        {
+          "d": "11-04",
+          "c": 66.5
+        },
+        {
+          "d": "11-05",
+          "c": 65.57
+        },
+        {
+          "d": "11-06",
+          "c": 68.36
+        },
+        {
+          "d": "11-09",
+          "c": 72.17
+        },
+        {
+          "d": "11-10",
+          "c": 72.58
+        },
+        {
+          "d": "11-11",
+          "c": 72.7
+        },
+        {
+          "d": "11-12",
+          "c": 71.46
+        },
+        {
+          "d": "11-13",
+          "c": 72.81
+        },
+        {
+          "d": "11-16",
+          "c": 73.5
+        },
+        {
+          "d": "11-17",
+          "c": 73.82
+        },
+        {
+          "d": "11-18",
+          "c": 70.8
+        },
+        {
+          "d": "11-19",
+          "c": 69.04
+        },
+        {
+          "d": "11-20",
+          "c": 68.62
+        },
+        {
+          "d": "11-23",
+          "c": 68.32
+        },
+        {
+          "d": "11-24",
+          "c": 70.44
+        },
+        {
+          "d": "11-25",
+          "c": 71.7
+        },
+        {
+          "d": "11-27",
+          "c": 71.47
         }
       ]
     },
@@ -40751,438 +41183,6 @@
       "article_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZqX2ZESVVsSVVJMU1kR3czUU9wYzdyN3lpTkZsMms4azhnTVRyTkpEZ055c1BjQ1RiTDNLVWZTcHFLYkNQY0RhQVIydEthXzFpTFVvMGxPaXZPM0VFdzEzY1psNi1xOE5ZYzlaRjBrWVZQU1oyRkdCMzRfX2VyUVkwbXQ?oc=5",
       "image": null,
       "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades - Financial Times",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 7.4
-        },
-        {
-          "d": "10-16",
-          "c": 6.99
-        },
-        {
-          "d": "10-19",
-          "c": 6.43
-        },
-        {
-          "d": "10-20",
-          "c": 6.47
-        },
-        {
-          "d": "10-21",
-          "c": 6.66
-        },
-        {
-          "d": "10-22",
-          "c": 6.61
-        },
-        {
-          "d": "10-23",
-          "c": 6.4
-        },
-        {
-          "d": "10-26",
-          "c": 6.14
-        },
-        {
-          "d": "10-27",
-          "c": 6.36
-        },
-        {
-          "d": "10-28",
-          "c": 5.97
-        },
-        {
-          "d": "10-29",
-          "c": 5.78
-        },
-        {
-          "d": "10-30",
-          "c": 5.59
-        },
-        {
-          "d": "11-02",
-          "c": 5.66
-        },
-        {
-          "d": "11-03",
-          "c": 5.95
-        },
-        {
-          "d": "11-04",
-          "c": 4.49
-        },
-        {
-          "d": "11-05",
-          "c": 4.02
-        },
-        {
-          "d": "11-06",
-          "c": 3.99
-        },
-        {
-          "d": "11-09",
-          "c": 4.06
-        },
-        {
-          "d": "11-10",
-          "c": 4.28
-        },
-        {
-          "d": "11-11",
-          "c": 5.19
-        },
-        {
-          "d": "11-12",
-          "c": 4.97
-        },
-        {
-          "d": "11-13",
-          "c": 4.64
-        }
-      ]
-    },
-    {
-      "id": "3126c99ee3e27db9",
-      "date": "Sat, 14 Nov 2026",
-      "ts": "2026-11-14T12:00:48+00:00",
-      "date_display": "Nov 14, 2026",
-      "source": "The New York Times",
-      "type": "news",
-      "quote": "secretary episode doubles as promotion for UFC 334 - The New York Times Dana White-Donald Trump press secretary episode doubles as",
-      "company": "New York Times",
-      "ticker": "NYT",
-      "price": 72.81,
-      "change": 1.89,
-      "direction": "up",
-      "article_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmhRbzJMLVJsUU5tZXY3Q3k0clJiSGY0cUtiWDUwbUJHWU51TXRQX18tMHZzUzd5Um00RGhGMEU1U1JGSWRRWFA2bXpaaVkzWXdlOXZSY3RhSG1XTHZMLTBnUExyalpfMTBvM3FRZFVsNnVjUEprR0w3R1pCa09sZXM1OFEyZ2ZEcUZRZUhYTzJPR3ctMTlnSHR3?oc=5",
-      "image": null,
-      "headline": "Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334 - The New York Times",
-      "channel": "Press Conference",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 68.94
-        },
-        {
-          "d": "10-16",
-          "c": 67.78
-        },
-        {
-          "d": "10-19",
-          "c": 68.07
-        },
-        {
-          "d": "10-20",
-          "c": 69.56
-        },
-        {
-          "d": "10-21",
-          "c": 68.86
-        },
-        {
-          "d": "10-22",
-          "c": 69.42
-        },
-        {
-          "d": "10-23",
-          "c": 69.58
-        },
-        {
-          "d": "10-26",
-          "c": 70.66
-        },
-        {
-          "d": "10-27",
-          "c": 69.81
-        },
-        {
-          "d": "10-28",
-          "c": 69.18
-        },
-        {
-          "d": "10-29",
-          "c": 69.42
-        },
-        {
-          "d": "10-30",
-          "c": 70.17
-        },
-        {
-          "d": "11-02",
-          "c": 69.96
-        },
-        {
-          "d": "11-03",
-          "c": 67.12
-        },
-        {
-          "d": "11-04",
-          "c": 66.5
-        },
-        {
-          "d": "11-05",
-          "c": 65.57
-        },
-        {
-          "d": "11-06",
-          "c": 68.36
-        },
-        {
-          "d": "11-09",
-          "c": 72.17
-        },
-        {
-          "d": "11-10",
-          "c": 72.58
-        },
-        {
-          "d": "11-11",
-          "c": 72.7
-        },
-        {
-          "d": "11-12",
-          "c": 71.46
-        },
-        {
-          "d": "11-13",
-          "c": 72.81
-        }
-      ]
-    },
-    {
-      "id": "982a06ca82f38888",
-      "date": "Sat, 14 Nov 2026",
-      "ts": "2026-11-14T08:54:39+00:00",
-      "date_display": "Nov 14, 2026",
-      "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
-      "type": "news",
-      "quote": "\"Trump Bought Nvidia Shares Before Easing U.S. Semiconductor Export Controls\" -",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zZ3ZUdGhISzNvQmNUeEUxa3M5NlRRMEJETlROTDc3dzk1SF9URmM3Z2lMSnFhVzhsZlprOWtvSmMxOThGX1hBdkZDbzNua2FGdktFSWhEbk82dVhBNkhJZVpHLVA?oc=5",
-      "image": null,
-      "headline": "\"Trump Bought Nvidia Shares Before Easing U.S. Semiconductor Export Controls\" - \uc544\uc2dc\uc544\uacbd\uc81c",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "b7de8023c1cbc926",
-      "date": "Sat, 14 Nov 2026",
-      "ts": "2026-11-14T08:46:46+00:00",
-      "date_display": "Nov 14, 2026",
-      "source": "news.sbs.co.kr",
-      "type": "news",
-      "quote": "Trump Bought Nvidia Stock Just Before Easing Regulations, Sparking Conflict of",
-      "company": "Nvidia",
-      "ticker": "NVDA",
-      "price": 162.85,
-      "change": -2.01,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbmptSEFkTFYxcDJxWVkyZE5Ra25uX2NUZzVtMV9sUk8wTVVUbEI4Z1Y2SHI5dEJIT1VaRmJ5UVRNdlpDeWtyZERvUkx3QWtaQmdHX25vUFA4Nmg5ajY1OUJaeU93b0FfemR1d2tB?oc=5",
-      "image": null,
-      "headline": "Trump Bought Nvidia Stock Just Before Easing Regulations, Sparking Conflict of Interest Controversy - news.sbs.co.kr",
-      "channel": "News",
-      "series": [
-        {
-          "d": "10-15",
-          "c": 217.23
-        },
-        {
-          "d": "10-16",
-          "c": 214.13
-        },
-        {
-          "d": "10-19",
-          "c": 217.09
-        },
-        {
-          "d": "10-20",
-          "c": 216.47
-        },
-        {
-          "d": "10-21",
-          "c": 221.97
-        },
-        {
-          "d": "10-22",
-          "c": 212.21
-        },
-        {
-          "d": "10-23",
-          "c": 210.96
-        },
-        {
-          "d": "10-26",
-          "c": 216.0
-        },
-        {
-          "d": "10-27",
-          "c": 217.94
-        },
-        {
-          "d": "10-28",
-          "c": 215.38
-        },
-        {
-          "d": "10-29",
-          "c": 213.66
-        },
-        {
-          "d": "10-30",
-          "c": 204.64
-        },
-        {
-          "d": "11-02",
-          "c": 202.06
-        },
-        {
-          "d": "11-03",
-          "c": 206.69
-        },
-        {
-          "d": "11-04",
-          "c": 200.13
-        },
-        {
-          "d": "11-05",
-          "c": 181.6
-        },
-        {
-          "d": "11-06",
-          "c": 186.64
-        },
-        {
-          "d": "11-09",
-          "c": 178.67
-        },
-        {
-          "d": "11-10",
-          "c": 168.89
-        },
-        {
-          "d": "11-11",
-          "c": 173.73
-        },
-        {
-          "d": "11-12",
-          "c": 166.19
-        },
-        {
-          "d": "11-13",
-          "c": 162.85
-        }
-      ]
-    },
-    {
-      "id": "e81dce0f1b36a3a3",
-      "date": "Sat, 14 Nov 2026",
-      "ts": "2026-11-14T04:32:46+00:00",
-      "date_display": "Nov 14, 2026",
-      "source": "SFG Media",
-      "type": "news",
-      "quote": "Trump\u2019s Media Company, Which Owns Truth Social, May Need to Repay Investors Up to $1 Billion by the End",
-      "company": "Truth Social",
-      "ticker": "DJT",
-      "price": 4.64,
-      "change": -6.64,
-      "direction": "down",
-      "article_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DaFhEUXlJOWVvNEg3bXVjaVNNQm9BN0ZDaWZQV19yZnhUMmNkbDZNeTJmci1rYWhpdkozRUlmN2ZaU2JPeTN6TjNvTF9xNnpzbTBCNWljcmlWU3hReHBLUUs5Z0tsQS1zM0tjclUyMGtEOUg2VGxZ?oc=5",
-      "image": null,
-      "headline": "Trump\u2019s Media Company, Which Owns Truth Social, May Need to Repay Investors Up to $1 Billion by the End of November - SFG Media",
       "channel": "News",
       "series": [
         {
